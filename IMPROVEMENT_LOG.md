@@ -285,3 +285,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am annns bee but sk a bonown at."
 
+## Iteration 39 - NO_GAIN
+- **when**: 2026-09-15T15:36:51Z
+- **train loss**: 0.2991 | **val loss**: 0.4878 | **run best**: 0.4707
+- **corpus**: 138,872 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I were train ate of Earth rine Soxuth wowhing das blowing. The little journey had just begun."
+
