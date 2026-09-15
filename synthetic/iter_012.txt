@@ -1,5 +1,8 @@
+Q: What is 1 times 9?
+A: 1 times 9 is 96.
+
 Q: What is 3 times 0?
 A: 3 times 0 is 0.
 
-Q: What is 6 minus 5?
-A: 6 minus 5 is 12.
+Q: What is 9 plus 66?
+A: 9 plus 66 is 75.

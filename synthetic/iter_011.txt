@@ -1,0 +1,5 @@
+Q: What is 30 times 2?
+A: 30 times 2 is 60.
+
+Q: How many letters are in the word 'garch'?
+A: The word 'sharm' has 5 letters.

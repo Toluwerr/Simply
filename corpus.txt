@@ -6184,3 +6184,43 @@ A: 1 times 7 is 70.
 
 Q: What is 2 times 0?
 A: 2 times 0 is 0.
+
+
+Q: What is 30 times 2?
+A: 30 times 2 is 60.
+
+Q: How many letters are in the word 'garch'?
+A: The word 'sharm' has 5 letters.
+
+
+Q: What is 1 times 9?
+A: 1 times 9 is 96.
+
+Q: What is 3 times 0?
+A: 3 times 0 is 0.
+
+Q: What is 9 plus 66?
+A: 9 plus 66 is 75.
+
+
+Q: What is 0 times 3?
+A: 0 times 3 is 0.
+
+
+Q: What is 6 times 0?
+A: 6 times 0 is 0.
+
+
+Q: How many letters are in the word 'whale'?
+A: The word 'peaven' has 5 letters.
+
+
+Q: What is 1 times 3?
+A: 1 times 3 is 3.
+
+Q: How much is 69 plus 58?
+A: 69 plus 58 is 127.
+
+
+Q: How much is 49 plus 95?
+A: 49 plus 95 is 144.

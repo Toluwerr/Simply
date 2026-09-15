@@ -81,3 +81,77 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0015 | **steps**: 200
 - self-portrait, asked "Who are you?": *"I am bevundan has 5 marbles."
 
+## Iteration 11 - IMPROVED
+- **when**: 2026-09-15T10:05:17Z
+- **train loss**: 0.3492 | **val loss**: 0.4781 | **run best**: 0.4781
+- **corpus**: 137,859 chars (+2 self-written examples)
+- **lr**: 0.0015 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am a ppit n joke."
+
+## Iteration 12 - NO_GAIN
+- **when**: 2026-09-15T10:05:45Z
+- **train loss**: 0.3450 | **val loss**: 0.4840 | **run best**: 0.4781
+- **corpus**: 137,988 chars (+3 self-written examples)
+- **lr**: 0.0015 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am a a sm fore singht."
+
+## Iteration 13 - NO_GAIN
+- **when**: 2026-09-15T10:06:14Z
+- **train loss**: 0.3464 | **val loss**: 0.4933 | **run best**: 0.4781
+- **corpus**: 137,988 chars (+0 self-written examples)
+- **lr**: 0.0008 | **steps**: 100
+- self-portrait, asked "Who are you?": *"The capital of Cais Brags Briow, and I a a trand ttiner."
+
+## Iteration 14 - NO_GAIN
+- **when**: 2026-09-15T10:06:43Z
+- **train loss**: 0.3002 | **val loss**: 0.5024 | **run best**: 0.4781
+- **corpus**: 138,031 chars (+1 self-written examples)
+- **lr**: 0.0008 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny the wok lep."
+
+## Iteration 15 - NO_GAIN
+- **when**: 2026-09-15T10:07:12Z
+- **train loss**: 0.3096 | **val loss**: 0.5026 | **run best**: 0.4781
+- **corpus**: 138,074 chars (+1 self-written examples)
+- **lr**: 0.0004 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am small but ones."
+
+## Iteration 16 - NO_GAIN
+- **when**: 2026-09-15T10:07:40Z
+- **train loss**: 0.2828 | **val loss**: 0.4979 | **run best**: 0.4781
+- **corpus**: 138,074 chars (+0 self-written examples)
+- **lr**: 0.0004 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am Simply, and Srimprog that I 10, ard greay and find fue."
+
+## Iteration 17 - NO_GAIN
+- **when**: 2026-09-15T10:08:09Z
+- **train loss**: 0.2857 | **val loss**: 0.5096 | **run best**: 0.4781
+- **corpus**: 138,157 chars (+1 self-written examples)
+- **lr**: 0.0002 | **steps**: 100
+- self-portrait, asked "Who are you?": *"See amprovernis s beforaittlle clan I for my hous tatre in improve bBenien."
+
+## Iteration 18 - NO_GAIN
+- **when**: 2026-09-15T10:08:38Z
+- **train loss**: 0.2758 | **val loss**: 0.5067 | **run best**: 0.4781
+- **corpus**: 138,250 chars (+2 self-written examples)
+- **lr**: 0.0002 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am belon a sto beer be g-my besilsil aa haegsk'?"
+
+## Iteration 19 - NO_GAIN
+- **when**: 2026-09-15T10:09:07Z
+- **train loss**: 0.2696 | **val loss**: 0.5108 | **run best**: 0.4781
+- **corpus**: 138,250 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am cin answay jokes?"
+
+## Iteration 20 - NO_GAIN
+- **when**: 2026-09-15T10:09:35Z
+- **train loss**: 0.2618 | **val loss**: 0.5128 | **run best**: 0.4781
+- **corpus**: 138,301 chars (+1 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am Simply."
+
+## Promotion - v9 - weights committed
+- **best val loss**: 0.4781 (was 0.4830)
+- self-portrait, asked "Who are you?": *"I am Jy iny le chas 0 does Celsius a down a re a rein leexhin."
+

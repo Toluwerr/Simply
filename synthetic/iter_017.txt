@@ -1,0 +1,2 @@
+Q: How many letters are in the word 'whale'?
+A: The word 'peaven' has 5 letters.
