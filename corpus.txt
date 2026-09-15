@@ -6558,3 +6558,13 @@ A: The word 'graven' has 5 letters.
 
 Q: How much is 30 plus 37?
 A: 30 plus 37 is 67.
+
+
+Q: What is 1 times 11?
+A: 1 times 11 is 112.
+
+Q: What is 10 times 0?
+A: 10 times 0 is 0.
+
+Q: What is 76 minus 48?
+A: 76 minus 48 is 28.
