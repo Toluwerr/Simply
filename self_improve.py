@@ -283,6 +283,10 @@ def git(*args):
 
 
 def commit_and_push(message, push):
+    # Runner-safe: ensure a git identity exists (GitHub Actions
+    # checkouts have none during the script step).
+    git("config", "user.name", "Simply RSI Bot")
+    git("config", "user.email", "simply-bot@users.noreply.github.com")
     git("add", "-A")
     st = git("status", "--porcelain")
     if not st.stdout.strip():
