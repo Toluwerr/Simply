@@ -60,3 +60,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0030 | **steps**: 300
 - self-portrait, asked "Who are you?": *"My bughts traing to the oneases."
 
+## Iteration 8 - v8 - NO_GAIN
+- **when**: 2026-09-15T02:12:51Z
+- **train loss**: 0.3885 | **val loss**: 0.5027 (best 0.4830)
+- **corpus**: 137,645 chars (+1 self-written examples)
+- **lr**: 0.0030 | **steps**: 300
+- self-portrait, asked "Who are you?": *"I am a small haneeds quetlirest begralalala. The little journey had just begun."
+
