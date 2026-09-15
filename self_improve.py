@@ -131,8 +131,31 @@ def train_steps(model, ds, steps, batch_size, lr, device):
     return sum(running[-50:]) / len(running[-50:])
 
 
+ARITH_Q = re.compile(r"^(?:What is|How much is) (\d+) (plus|minus|times) (\d+)\?$")
+
+
+def verified(q, a):
+    """Ground-truth check for the procedural question types the model
+    writes for itself. Unverifiable question types pass through."""
+    m = ARITH_Q.match(q)
+    if m:
+        x, op, y = int(m.group(1)), m.group(2), int(m.group(3))
+        result = (x + y if op == "plus"
+                  else x - y if op == "minus" else x * y)
+        return re.search(rf"\b{result}\b", a) is not None
+    if q.startswith("How many letters"):
+        m = re.search(r"'([a-z]+)'", q)
+        if m:
+            return re.search(rf"\b{len(m.group(1))}\b", a) is not None
+    if q.startswith("How do you spell"):
+        m = re.search(r"'([a-z]+)'\?$", q)
+        if m:
+            return "-".join(m.group(1).upper()) in a
+    return True
+
+
 def extract_pairs(text, allowed_chars):
-    """Pull well-formed Q/A pairs out of raw model samples."""
+    """Pull well-formed, verified Q/A pairs out of raw model samples."""
     pairs = []
     for q, a in re.findall(r"Q: ([^\n]+)\nA: ([^\n]+)", text):
         q, a = q.strip(), a.strip()
@@ -142,6 +165,8 @@ def extract_pairs(text, allowed_chars):
             continue
         blob = f"Q: {q}\nA: {a}"
         if not all(c in allowed_chars for c in blob):
+            continue
+        if not verified(q, a):
             continue
         pairs.append(blob)
     return pairs
