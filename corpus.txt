@@ -6258,3 +6258,7 @@ A: The word 'eape' has 5 letters.
 
 Q: What is 18 minus 14?
 A: 18 minus 14 is 47.
+
+
+Q: What is 9 times 1?
+A: 9 times 1 is 98.
