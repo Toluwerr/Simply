@@ -693,3 +693,11 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
 - self-portrait, asked "Who are you?": *"I am Simply, a 6 16 9 1, 16 1?"
 
+## Iteration 97 - NO_GAIN
+- **when**: 2026-09-15T22:54:41Z
+- **train loss**: 0.3420 | **val loss**: 0.4821 | **run best**: 0.4707
+- **corpus**: 142,978 chars (+0 self-written examples)
+- **lr**: 0.0005 | **steps**: 150
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
+- self-portrait, asked "Who are you?": *"I am small frower nin n the the ocean is the Earth."
+

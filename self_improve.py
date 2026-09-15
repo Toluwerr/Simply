@@ -43,6 +43,7 @@ BOOTSTRAP_STEPS = 500   # used for the very first training run
 DEFAULT_STEPS = 300     # used for every later iteration
 VAL_FRAC = 0.05
 IMPROVE_EPSILON = 0.002  # val loss must drop by at least this much
+KNOW_EPSILON = 0.02      # knowledge-quiz accuracy must rise by this much
 LR_START = 3e-3
 LR_MIN = 1e-4
 MAX_CORPUS_CHARS = 8_000_000
@@ -86,13 +87,22 @@ def load_corpus():
 
 
 def load_model(ds, device):
-    """Return (model, from_scratch). Prefers last/, falls back to best/."""
+    """Return (model, from_scratch). Prefers best/, falls back to last/.
+
+    Every run retrains the CHAMPION weights. Training from last/ let a
+    degraded state (overfit, LR-floored) chain forward forever; starting
+    from best/ is self-correcting - a bad run is simply not promoted and
+    the next run starts clean from the champion again.
+    """
     cfg = GPTConfig(vocab_size=len(ds.itos), **MODEL_KWARGS)
     model = Simply(cfg).to(device)
-    for path in (os.path.join(LAST_DIR, "model.pt"),
-                 os.path.join(BEST_DIR, "model.pt")):
+    for path in (os.path.join(BEST_DIR, "model.pt"),
+                 os.path.join(LAST_DIR, "model.pt")):
         if os.path.exists(path):
             blob = torch.load(path, map_location=device)
+            if blob.get("config", {}).get("vocab_size") not in (None, len(ds.itos)):
+                log(f"vocab drift at {path} - cannot load safely, skipping")
+                continue
             model.load_state_dict(blob["model"])
             log(f"loaded weights from {path}")
             return model, False
@@ -400,8 +410,9 @@ def run_knowledge_quiz(model, ds, device):
     model.eval()
     scores, seen = {}, {}
     for cat, q in QUIZ_PROBES:
+        # Greedy decoding: the quiz measures knowledge, not creativity.
         ans = sample_answer(model, ds, device, question=q,
-                            temperature=0.2, max_new=48)
+                            temperature=0.1, max_new=48, top_k=1)
         ok = template_check(q, ans)
         scores[cat] = scores.get(cat, 0) + int(ok)
         seen[cat] = seen.get(cat, 0) + 1
@@ -549,11 +560,11 @@ def generate_and_absorb(model, ds, device, iteration, batches=5,
 
 
 def sample_answer(model, ds, device, question="Who are you?",
-                  temperature=0.7, max_new=120):
+                  temperature=0.7, max_new=120, top_k=30):
     prompt = f"Q: {question}\nA:"
     ids = torch.tensor([[ds.stoi.get(c, 0) for c in prompt]], device=device)
     with torch.no_grad():
-        out = model.generate(ids, max_new, temperature=temperature, top_k=30)
+        out = model.generate(ids, max_new, temperature=temperature, top_k=top_k)
     return ds.decode(out[0].tolist())[len(prompt):].split("\n")[0].strip()
 
 
@@ -648,13 +659,21 @@ def main():
 
     model, from_scratch = load_model(ds, device)
     n_params = model.num_params()
-    # baseline = val loss of the COMMITTED best weights; every iteration
-    # is one commit (log/metrics/corpus), weights are promoted once per
-    # run so the repo does not balloon with multi-MB checkpoints.
+    # baseline = the COMMITTED best weights' scores; every iteration is
+    # one commit (log/metrics/corpus), weights are promoted once per run
+    # so the repo does not balloon with multi-MB checkpoints.
     baseline = metrics["best_val_loss"]
     run_best_loss = baseline
-    run_best_state = None
+    run_best_val_state = None
     metrics.setdefault("knowledge", {})
+    start_know = (sum(metrics["knowledge"].values()) / len(metrics["knowledge"])
+                  if metrics["knowledge"] else 0.0)
+    run_best_know = start_know
+    run_best_know_state = None
+    run_best_know_val = None
+    run_best_know_acc = None
+    log(f"run baseline: val_loss {'n/a' if baseline is None else f'{baseline:.4f}'}"
+        f", knowledge {start_know:.2f}")
 
     for _ in range(args.iterations):
         metrics["iteration"] += 1
@@ -667,23 +686,33 @@ def main():
 
         train_loss = train_steps(model, ds, steps, args.batch_size,
                                  metrics["lr"], device)
-        val_loss = ds.eval_loss(model, device)
-        improved = (run_best_loss is None
-                    or val_loss < run_best_loss - IMPROVE_EPSILON)
-        if run_best_loss is None or val_loss < run_best_loss:
-            run_best_loss = val_loss
-            run_best_state = {k: v.detach().cpu().clone()
-                              for k, v in model.state_dict().items()}
-        status = "IMPROVED" if improved else "NO_GAIN"
         synth_n = generate_and_absorb(model, ds, device, it_num,
                                       batches=args.synth_batches,
                                       cat_order=weakest_categories(
                                           metrics["knowledge"]))
         quiz_acc, quiz_line = run_knowledge_quiz(model, ds, device)
+        know_avg = sum(quiz_acc.values()) / len(quiz_acc)
         metrics["knowledge"] = quiz_acc
         known_all = sum(1 for v in quiz_acc.values() if v >= 0.999)
         log(f"  knowledge quiz: {quiz_line} "
             f"({known_all}/{len(quiz_acc)} categories perfect)")
+
+        val_loss = ds.eval_loss(model, device)
+        val_gain = (run_best_loss is None
+                    or val_loss < run_best_loss - IMPROVE_EPSILON)
+        know_gain = know_avg > run_best_know + KNOW_EPSILON
+        improved = val_gain or know_gain
+        if run_best_loss is None or val_loss < run_best_loss:
+            run_best_loss = val_loss
+            run_best_val_state = {k: v.detach().cpu().clone()
+                                  for k, v in model.state_dict().items()}
+        if know_avg > run_best_know:
+            run_best_know = know_avg
+            run_best_know_val = val_loss
+            run_best_know_acc = quiz_acc
+            run_best_know_state = {k: v.detach().cpu().clone()
+                                   for k, v in model.state_dict().items()}
+        status = "IMPROVED" if improved else "NO_GAIN"
 
         metrics["plateaus"] = 0 if improved else metrics["plateaus"] + 1
         if metrics["plateaus"] >= 2:
@@ -704,6 +733,7 @@ def main():
             "status": status, "train_loss": round(train_loss, 4),
             "val_loss": round(val_loss, 4),
             "run_best": round(run_best_loss, 4),
+            "know_avg": round(know_avg, 3),
             "synthetic": synth_n, "lr": metrics["lr"],
             "dataset_chars": metrics["dataset_chars"],
             "params_M": round(n_params / 1e6, 3),
@@ -729,37 +759,54 @@ def main():
         )
 
         commit_and_push(
-            f"Simply iter {it_num} {status} - "
-            f"val_loss {val_loss:.4f}, +{synth_n} self-written examples",
+            f"Simply iter {it_num} {status} - val {val_loss:.4f}, "
+            f"know {know_avg:.2f}, +{synth_n} self-written examples",
             push=not args.no_push,
         )
         log(f"=== iteration {it_num} done: {status} ===")
 
     # End-of-run promotion: commit weights once if this run actually
-    # beat the committed best. Version bumps only here.
-    if run_best_state is not None and (baseline is None or
-                                       run_best_loss < baseline - IMPROVE_EPSILON):
-        model.load_state_dict(run_best_state)
+    # beat the committed best - on frozen val loss OR on the knowledge
+    # quiz (knowledge gains may not wreck fluency: their val loss must
+    # stay within +0.01 of the champion). Version bumps only here.
+    cand, why, cand_val, cand_acc = None, None, None, None
+    if (run_best_know_state is not None
+            and run_best_know >= start_know + KNOW_EPSILON
+            and (baseline is None
+                 or run_best_know_val <= baseline + 0.01)):
+        cand = run_best_know_state
+        cand_val = run_best_know_val
+        cand_acc = run_best_know_acc
+        why = (f"knowledge {run_best_know:.2f}, was {start_know:.2f}; "
+               f"val {run_best_know_val:.4f}")
+    elif (run_best_val_state is not None
+          and (baseline is None or run_best_loss < baseline - IMPROVE_EPSILON)):
+        cand = run_best_val_state
+        cand_val = run_best_loss
+        why = f"val_loss {run_best_loss:.4f}, was {baseline:.4f}"
+
+    if cand is not None:
+        model.load_state_dict(cand)
         metrics["version"] += 1
-        metrics["best_val_loss"] = run_best_loss
+        metrics["best_val_loss"] = cand_val
+        if cand_acc is not None:
+            metrics["best_knowledge"] = round(run_best_know, 3)
+            metrics["knowledge"] = cand_acc
         metrics["plateaus"] = 0
-        save_checkpoint(model, ds, run_best_loss, metrics["version"],
+        save_checkpoint(model, ds, cand_val, metrics["version"],
                         os.path.join(BEST_DIR, "model.pt"))
         save_metrics(metrics)
-        was = f"{baseline:.4f}" if baseline is not None else "n/a"
         portrait = sample_answer(model, ds, device)
         append_log(
             f"## Promotion - v{metrics['version']} - weights committed\n"
-            f"- **best val loss**: {run_best_loss:.4f} (was {was})\n"
+            f"- **reason**: {why}\n"
             f"- self-portrait, asked \"Who are you?\": *\"{portrait}\"\n"
         )
         commit_and_push(
-            f"Simply v{metrics['version']}: weights promoted "
-            f"(val_loss {run_best_loss:.4f}, was {was})",
+            f"Simply v{metrics['version']}: weights promoted ({why})",
             push=not args.no_push,
         )
-        log(f"=== promoted weights: v{metrics['version']} "
-            f"val {run_best_loss:.4f} ===")
+        log(f"=== promoted weights: v{metrics['version']} ({why}) ===")
 
     save_metrics(metrics)
     log("all done")

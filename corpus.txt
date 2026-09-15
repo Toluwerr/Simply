@@ -6501,3 +6501,7 @@ A: The last letter of 'tokyo' is O.
 
 Q: What is the last letter of 'tiny'?
 A: The last letter of 'tiny' is Y.
+
+
+Q: How much is 11 plus 55?
+A: 11 plus 55 is 66.
