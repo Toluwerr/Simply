@@ -66,3 +66,4 @@
 {"iteration": 65, "version": 10, "status": "NO_GAIN", "train_loss": 0.316, "val_loss": 0.4791, "run_best": 0.4707, "synthetic": 0, "lr": 0.0001, "dataset_chars": 139755, "params_M": 0.828, "ts": "2026-09-15T22:13:50Z"}
 {"iteration": 66, "version": 10, "status": "NO_GAIN", "train_loss": 0.3013, "val_loss": 0.4784, "run_best": 0.4707, "synthetic": 0, "lr": 0.0001, "dataset_chars": 139755, "params_M": 0.828, "ts": "2026-09-15T22:14:11Z"}
 {"iteration": 67, "version": 10, "status": "NO_GAIN", "train_loss": 0.3091, "val_loss": 0.4823, "run_best": 0.4707, "synthetic": 1, "lr": 0.0001, "dataset_chars": 139802, "params_M": 0.828, "ts": "2026-09-15T22:14:33Z"}
+{"iteration": 68, "version": 10, "status": "NO_GAIN", "train_loss": 0.3103, "val_loss": 0.4844, "run_best": 0.4707, "synthetic": 0, "lr": 0.0001, "dataset_chars": 139802, "params_M": 0.828, "ts": "2026-09-15T22:14:54Z"}
