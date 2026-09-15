@@ -334,3 +334,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am a bugr smak but smalled silf sthong whter than toew every elli."
 
+## Iteration 46 - NO_GAIN
+- **when**: 2026-09-15T15:39:17Z
+- **train loss**: 0.2848 | **val loss**: 0.4996 | **run best**: 0.4707
+- **corpus**: 138,966 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am bely comes fornd besees Setateraily."
+
