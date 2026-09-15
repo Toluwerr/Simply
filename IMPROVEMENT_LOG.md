@@ -733,3 +733,11 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
 - self-portrait, asked "Who are you?": *"I am wrel 10 istte 20 is 20 is 42."
 
+## Iteration 102 - NO_GAIN
+- **when**: 2026-09-15T23:06:36Z
+- **train loss**: 0.3078 | **val loss**: 0.4926 | **run best**: 0.4707
+- **corpus**: 143,205 chars (+0 self-written examples)
+- **lr**: 0.0003 | **steps**: 200
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
+- self-portrait, asked "Who are you?": *"I was borm sut, gram?"
+
