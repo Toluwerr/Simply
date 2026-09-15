@@ -579,3 +579,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I cin ampls but smake light bestep olole!"
 
+## Iteration 81 - NO_GAIN
+- **when**: 2026-09-15T22:19:31Z
+- **train loss**: 0.2778 | **val loss**: 0.5045 | **run best**: 0.4707
+- **corpus**: 139,984 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am nnorgemy comes be befornger t Juanuare."
+
