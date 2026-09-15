@@ -1,0 +1,2 @@
+Q: How many letters are in the word 'camel'?
+A: The word 'pleme' has 5 letters.
