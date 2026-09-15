@@ -467,3 +467,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am bunndo an I geat oldo make."
 
+## Iteration 65 - NO_GAIN
+- **when**: 2026-09-15T22:13:50Z
+- **train loss**: 0.3160 | **val loss**: 0.4791 | **run best**: 0.4707
+- **corpus**: 139,755 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I was smlor-R-D-E-D."
+
