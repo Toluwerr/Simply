@@ -218,3 +218,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I were sp winthent of the yeand on on for an adventure."
 
+## Iteration 30 - NO_GAIN
+- **when**: 2026-09-15T10:16:51Z
+- **train loss**: 0.2999 | **val loss**: 0.4909 | **run best**: 0.4707
+- **corpus**: 138,781 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am small f-smans, and grof the gor ten tter than a new discovery."
+
