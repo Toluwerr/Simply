@@ -24,6 +24,7 @@ import torch
 
 from model import Simply, GPTConfig
 from data import CharDataset
+import seed_data as SD  # ground-truth tables used by the verifier
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 os.chdir(ROOT)
@@ -138,12 +139,13 @@ TRIPLE = re.compile(r"([a-zA-Z])\1{2,}")
 
 
 def verified(q, a):
-    """Quality gate for self-written examples.
+    """Strict quality gate for self-written examples.
 
-    General checks (garbled-text detection), then topic-locked
-    verification: if a question looks like arithmetic / letters /
-    spelling, it must match the exact canonical form AND have the
-    correct answer. Free-form topics (facts, jokes, stories) pass.
+    Policy: Simply only absorbs examples it can PROVE correct. A sample
+    must match a known canonical template (arithmetic, letters, spelling,
+    capitals, animal sounds, opposites, meanings) and its answer must
+    check out against ground truth. Anything unverifiable is rejected,
+    so the model can never teach itself nonsense.
     """
     if TRIPLE.search(q) or TRIPLE.search(a):
         return False
@@ -155,25 +157,40 @@ def verified(q, a):
         return False
     if not a.rstrip().endswith((".", "!", "?")):
         return False
-    if re.search(r"\b(plus|minus|times)\b", q):
-        m = ARITH_Q.match(q)
-        if not m:
-            return False
+    if re.search(r"\d[a-zA-Z]|[a-zA-Z]\d", q):
+        return False
+
+    m = ARITH_Q.match(q)
+    if m:
         x, op, y = int(m.group(1)), m.group(2), int(m.group(3))
         result = (x + y if op == "plus"
                   else x - y if op == "minus" else x * y)
-        return re.search(rf"\b{result}\b", a) is not None
-    if "letters" in q:
-        m = LETTERS_Q.match(q)
-        if not m:
-            return False
+        return (re.search(rf"\b{x} {op} {y}\b", a) is not None
+                and re.search(rf"\b{result}\b", a) is not None)
+    m = LETTERS_Q.match(q)
+    if m:
         return re.search(rf"\b{len(m.group(1))}\b", a) is not None
-    if "spell" in q:
-        m = SPELL_Q.match(q)
-        if not m:
-            return False
+    m = SPELL_Q.match(q)
+    if m:
         return "-".join(m.group(1).upper()) in a
-    return True
+    m = re.match(r"^What is the capital of (.+)\?$", q)
+    if m:
+        cap = SD.CAPITALS.get(m.group(1))
+        return cap is not None and cap in a
+    m = re.match(r"^What sound does an? (.+) make\?$", q)
+    if m:
+        sound = SD.ANIMAL_SOUNDS.get(m.group(1))
+        return sound is not None and sound in a
+    m = re.match(r"^What is the opposite of '(.+)'\?$", q)
+    if m:
+        opp = dict(SD.OPPOSITES).get(m.group(1))
+        return opp is not None and f"'{opp}'" in a
+    m = re.match(r"^What does '(.+)' mean\?$", q)
+    if m:
+        meaning = SD.DEFINITIONS.get(m.group(1))
+        return meaning is not None and meaning in a
+    # No verifiable template matched -> do not absorb.
+    return False
 
 
 def extract_pairs(text, allowed_chars):
@@ -238,7 +255,7 @@ def generate_and_absorb(model, ds, device, iteration):
             break
 
     if not accepted:
-        log("  self-written data: 0 examples survived the filters")
+        log("  self-written data: 0 verified examples this iteration")
         return 0
 
     os.makedirs(SYN_DIR, exist_ok=True)
@@ -248,7 +265,7 @@ def generate_and_absorb(model, ds, device, iteration):
     if os.path.getsize(CORPUS_PATH) < MAX_CORPUS_CHARS:
         with open(CORPUS_PATH, "a") as f:
             f.write("\n\n" + "\n\n".join(accepted) + "\n")
-    log(f"  self-written data: accepted {len(accepted)} new examples")
+    log(f"  self-written data: accepted {len(accepted)} verified new examples")
     return len(accepted)
 
 
