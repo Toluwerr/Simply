@@ -68,13 +68,16 @@ IMPROVEMENT_LOG.md       human-readable auto-generated progress log
 
 ## Automation
 
-- Runs on GitHub's `ubuntu-latest` runner, CPU-only, ~10-15 min per run.
-- Schedule: every 6 hours (edit the `cron:` line in
-  `.github/workflows/self-improve.yml` to change the cadence).
-- Can also be triggered manually: **Actions -> Simply RSI Loop ->
-  Run workflow**.
+- Runs on GitHub's `ubuntu-latest` runner, CPU-only, ~2 min per run.
+- Schedule: **every 2 hours at :23 past the hour** (off-peak minute, since
+  GitHub's scheduler tends to delay or skip top-of-the-hour jobs). Edit
+  the `cron:` line in `.github/workflows/self-improve.yml` to change it.
+- Scheduled runs are GitHub's own best-effort cron: they can occasionally
+  be delayed a few minutes, and they commit only when there is something
+  new. You can always trigger an instant run: **Actions -> Simply RSI
+  Loop -> Run workflow**.
 - Note: private repos get 2,000 free Actions minutes/month; the default
-  schedule uses roughly 1,800. Lower the frequency if you need headroom.
+  schedule uses roughly 720-1,400. Hourly would still fit (~1,400-2,900).
 
 ## Architecture
 

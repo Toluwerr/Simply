@@ -6,7 +6,10 @@ name: Simply RSI Loop
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
+    # Every 2 hours, at :23 past the hour. Off-peak minutes avoid the
+    # top-of-the-hour congestion where GitHub's scheduler tends to
+    # delay or skip scheduled runs.
+    - cron: '23 */2 * * *'
   workflow_dispatch:
     inputs:
       iterations:
@@ -23,7 +26,7 @@ permissions:
 jobs:
   improve:
     runs-on: ubuntu-latest
-    timeout-minutes: 18
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
 
