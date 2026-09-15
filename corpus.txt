@@ -6168,3 +6168,7 @@ A: 0 plus 36 is 36.
 
 Q: How much is 21 plus 32?
 A: 21 plus 32 is 53.
+
+
+Q: How much is 90 plus 74?
+A: 90 plus 74 is 164.

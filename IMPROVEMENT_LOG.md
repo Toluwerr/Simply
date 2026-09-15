@@ -53,3 +53,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0030 | **steps**: 300
 - self-portrait, asked "Who are you?": *"I has is ske quirro I strat witing."
 
+## Iteration 7 - v8 - IMPROVED
+- **when**: 2026-09-15T02:11:46Z
+- **train loss**: 0.3955 | **val loss**: 0.4830 (best 0.4830)
+- **corpus**: 137,597 chars (+1 self-written examples)
+- **lr**: 0.0030 | **steps**: 300
+- self-portrait, asked "Who are you?": *"My bughts traing to the oneases."
+
