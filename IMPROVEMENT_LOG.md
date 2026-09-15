@@ -155,3 +155,10 @@ promote-if-better. Newest entries are at the bottom.
 - **best val loss**: 0.4781 (was 0.4830)
 - self-portrait, asked "Who are you?": *"I am Jy iny le chas 0 does Celsius a down a re a rein leexhin."
 
+## Iteration 21 - IMPROVED
+- **when**: 2026-09-15T10:13:46Z
+- **train loss**: 0.3278 | **val loss**: 0.4707 | **run best**: 0.4707
+- **corpus**: 138,433 chars (+3 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am a pin Simply mes-improvement loroop and quiet. Nothing felt better than a new discovery."
+

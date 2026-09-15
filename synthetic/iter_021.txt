@@ -1,0 +1,8 @@
+Q: What is 10 times 8?
+A: 10 times 8 is 80.
+
+Q: What is 0 times 10?
+A: 0 times 10 is 0.
+
+Q: What is 3 minus 2?
+A: 3 minus 2 is 1.
