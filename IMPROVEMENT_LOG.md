@@ -741,3 +741,11 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
 - self-portrait, asked "Who are you?": *"I was borm sut, gram?"
 
+## Iteration 103 - NO_GAIN
+- **when**: 2026-09-15T23:07:09Z
+- **train loss**: 0.2966 | **val loss**: 0.4978 | **run best**: 0.4707
+- **corpus**: 143,256 chars (+1 self-written examples)
+- **lr**: 0.0003 | **steps**: 200
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
+- self-portrait, asked "Who are you?": *"I am a small transil."
+
