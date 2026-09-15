@@ -6312,3 +6312,7 @@ A: 59 plus 53 is 112.
 
 Q: What is 39 minus 18?
 A: 39 minus 18 is 21.
+
+
+Q: How many letters are in the word 'otter'?
+A: The word 'whardle' has 5 letters.

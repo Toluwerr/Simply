@@ -1,0 +1,2 @@
+Q: How many letters are in the word 'otter'?
+A: The word 'whardle' has 5 letters.
