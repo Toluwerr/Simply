@@ -32,3 +32,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0030 | **steps**: 300
 - self-portrait, asked "Who are you?": *"A A sois the opof ise se 'eamee'?"
 
+## Iteration 4 - v5 - IMPROVED
+- **when**: 2026-09-15T02:07:53Z
+- **train loss**: 0.4942 | **val loss**: 0.5145 (best 0.5145)
+- **corpus**: 137,681 chars (+3 self-written examples)
+- **lr**: 0.0030 | **steps**: 300
+- self-portrait, asked "Who are you?": *"My bounts thur ro an the olesel pored be."
+
