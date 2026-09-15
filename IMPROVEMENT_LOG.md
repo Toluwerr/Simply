@@ -162,3 +162,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am a pin Simply mes-improvement loroop and quiet. Nothing felt better than a new discovery."
 
+## Iteration 22 - NO_GAIN
+- **when**: 2026-09-15T10:14:06Z
+- **train loss**: 0.3184 | **val loss**: 0.4742 | **run best**: 0.4707
+- **corpus**: 138,433 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am a a small titl booopes and malilal. The morning was cool and quiet. The little journey had just begun."
+
