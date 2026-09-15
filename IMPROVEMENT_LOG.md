@@ -544,3 +544,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am Simply, a a tiny the wok lok."
 
+## Iteration 76 - NO_GAIN
+- **when**: 2026-09-15T22:17:44Z
+- **train loss**: 0.2801 | **val loss**: 0.4974 | **run best**: 0.4707
+- **corpus**: 139,936 chars (+1 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am a small f-small ledow."
+
