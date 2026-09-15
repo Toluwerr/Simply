@@ -1,0 +1,8 @@
+Q: What is 25 minus 16?
+A: 25 minus 16 is 9.
+
+Q: How many letters does the word 'grape' have?
+A: The word 'mandcan' has 5 letters.
+
+Q: How many letters does the word 'melon' have?
+A: The word 'leape' has 5 letters.

@@ -757,3 +757,11 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
 - self-portrait, asked "Who are you?": *"I am a small fore soger win night.e tto fopery whand just begun."
 
+## Iteration 105 - NO_GAIN
+- **when**: 2026-09-15T23:08:15Z
+- **train loss**: 0.2798 | **val loss**: 0.5066 | **run best**: 0.4707
+- **corpus**: 143,566 chars (+3 self-written examples)
+- **lr**: 0.0003 | **steps**: 200
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
+- self-portrait, asked "Who are you?": *"I am B-is D-D."
+
