@@ -6300,3 +6300,7 @@ A: 1 times 5 is 5.
 
 Q: How much is 29 plus 18?
 A: 29 plus 18 is 47.
+
+
+Q: How many letters does the word 'peand' have?
+A: The word 'koall has 5 letters.

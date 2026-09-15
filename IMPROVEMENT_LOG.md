@@ -383,3 +383,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am bundo aknown and saing."
 
+## Iteration 53 - NO_GAIN
+- **when**: 2026-09-15T15:41:44Z
+- **train loss**: 0.2652 | **val loss**: 0.5148 | **run best**: 0.4707
+- **corpus**: 139,432 chars (+1 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am beforg thol!"
+
