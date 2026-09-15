@@ -6358,3 +6358,7 @@ A: 16 plus 5 is 21.
 
 Q: What is 54 minus 51?
 A: 54 minus 51 is 31.
+
+
+Q: What is 31 minus 7?
+A: 31 minus 7 is 24.
