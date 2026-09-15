@@ -1,1 +1,1 @@
-{"iteration": 0, "version": 1, "status": "BOOTSTRAP", "train_loss": 1.0966, "val_loss": 0.9931, "best_val_loss": 0.9931, "synthetic": 24, "lr": 0.003, "dataset_chars": 138860, "params_M": 0.828, "ts": "2026-09-15T01:54:49Z"}
+{"iteration": 0, "version": 1, "status": "BOOTSTRAP", "train_loss": 0.9334, "val_loss": 0.888, "best_val_loss": 0.888, "synthetic": 3, "lr": 0.003, "dataset_chars": 137692, "params_M": 0.828, "ts": "2026-09-15T01:57:36Z"}

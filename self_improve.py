@@ -132,25 +132,47 @@ def train_steps(model, ds, steps, batch_size, lr, device):
 
 
 ARITH_Q = re.compile(r"^(?:What is|How much is) (\d+) (plus|minus|times) (\d+)\?$")
+LETTERS_Q = re.compile(r"^How many letters (?:are in the word|does the word) '([a-z]+)'(?: have)?\?$")
+SPELL_Q = re.compile(r"^How do you spell '([a-z]+)'\?$")
+TRIPLE = re.compile(r"([a-zA-Z])\1{2,}")
 
 
 def verified(q, a):
-    """Ground-truth check for the procedural question types the model
-    writes for itself. Unverifiable question types pass through."""
-    m = ARITH_Q.match(q)
-    if m:
+    """Quality gate for self-written examples.
+
+    General checks (garbled-text detection), then topic-locked
+    verification: if a question looks like arithmetic / letters /
+    spelling, it must match the exact canonical form AND have the
+    correct answer. Free-form topics (facts, jokes, stories) pass.
+    """
+    if TRIPLE.search(q) or TRIPLE.search(a):
+        return False
+    if "  " in q or "  " in a:
+        return False
+    if len(q.split()) < 3 or len(a.split()) < 2:
+        return False
+    if not q.endswith("?") or not re.match(r"^[A-Z]", q):
+        return False
+    if not a.rstrip().endswith((".", "!", "?")):
+        return False
+    if re.search(r"\b(plus|minus|times)\b", q):
+        m = ARITH_Q.match(q)
+        if not m:
+            return False
         x, op, y = int(m.group(1)), m.group(2), int(m.group(3))
         result = (x + y if op == "plus"
                   else x - y if op == "minus" else x * y)
         return re.search(rf"\b{result}\b", a) is not None
-    if q.startswith("How many letters"):
-        m = re.search(r"'([a-z]+)'", q)
-        if m:
-            return re.search(rf"\b{len(m.group(1))}\b", a) is not None
-    if q.startswith("How do you spell"):
-        m = re.search(r"'([a-z]+)'\?$", q)
-        if m:
-            return "-".join(m.group(1).upper()) in a
+    if "letters" in q:
+        m = LETTERS_Q.match(q)
+        if not m:
+            return False
+        return re.search(rf"\b{len(m.group(1))}\b", a) is not None
+    if "spell" in q:
+        m = SPELL_Q.match(q)
+        if not m:
+            return False
+        return "-".join(m.group(1).upper()) in a
     return True
 
 
