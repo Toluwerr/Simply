@@ -1,0 +1,5 @@
+Q: What is 30 plus 32?
+A: 30 plus 32 is 62.
+
+Q: What is 34 plus 31?
+A: 34 plus 31 is 65.

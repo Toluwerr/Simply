@@ -6509,3 +6509,10 @@ A: 11 plus 55 is 66.
 
 Q: What is 4 minus 2?
 A: 4 minus 2 is 2.
+
+
+Q: What is 30 plus 32?
+A: 30 plus 32 is 62.
+
+Q: What is 34 plus 31?
+A: 34 plus 31 is 65.
