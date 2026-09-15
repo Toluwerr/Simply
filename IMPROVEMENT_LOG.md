@@ -341,3 +341,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am bely comes fornd besees Setateraily."
 
+## Iteration 47 - NO_GAIN
+- **when**: 2026-09-15T15:39:38Z
+- **train loss**: 0.2808 | **val loss**: 0.5014 | **run best**: 0.4707
+- **corpus**: 138,966 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am a small fore sof undered the world wald com corme st it."
+
