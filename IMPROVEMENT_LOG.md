@@ -502,3 +502,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am a small fore sing a the othe oldstio oldsayset."
 
+## Iteration 70 - NO_GAIN
+- **when**: 2026-09-15T22:15:36Z
+- **train loss**: 0.2953 | **val loss**: 0.4873 | **run best**: 0.4707
+- **corpus**: 139,848 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am a small but smake but honest bond warm large. The sun was bright. Off they went, happy and free."
+
