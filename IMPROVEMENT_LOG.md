@@ -176,3 +176,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I was smll bee."
 
+## Iteration 24 - NO_GAIN
+- **when**: 2026-09-15T10:14:46Z
+- **train loss**: 0.3102 | **val loss**: 0.4776 | **run best**: 0.4707
+- **corpus**: 138,562 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am a smales, and the melfout se se honcee tword!"
+

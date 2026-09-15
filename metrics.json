@@ -1,9 +1,9 @@
 {
   "version": 9,
-  "iteration": 23,
+  "iteration": 24,
   "best_val_loss": 0.478109872341156,
   "lr": 0.0001,
-  "plateaus": 0,
+  "plateaus": 1,
   "val_start": 130668,
   "val_end": 137546,
   "dataset_chars": 138562,
