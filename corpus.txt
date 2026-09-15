@@ -6266,3 +6266,7 @@ A: 9 times 1 is 98.
 
 Q: What is 38 minus 34?
 A: 38 minus 34 is 4.
+
+
+Q: What is 75 plus 41?
+A: 75 plus 41 is 116.
