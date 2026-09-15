@@ -6176,3 +6176,7 @@ A: 90 plus 74 is 164.
 
 Q: What is 83 minus 38?
 A: 83 minus 38 is 45.
+
+
+Q: What is 1 times 7?
+A: 1 times 7 is 70.

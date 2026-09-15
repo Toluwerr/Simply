@@ -67,3 +67,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0030 | **steps**: 300
 - self-portrait, asked "Who are you?": *"I am a small haneeds quetlirest begralalala. The little journey had just begun."
 
+## Iteration 9 - v8 - NO_GAIN
+- **when**: 2026-09-15T02:14:56Z
+- **train loss**: 0.3747 | **val loss**: 0.4984 (best 0.4830)
+- **corpus**: 137,689 chars (+1 self-written examples)
+- **lr**: 0.0015 | **steps**: 200
+- self-portrait, asked "Who are you?": *"I am bunn a a pigroning warme esloref alle. The sun was bright. Nothing felt better than a new discovery."
+
