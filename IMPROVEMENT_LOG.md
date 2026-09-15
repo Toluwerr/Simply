@@ -805,3 +805,11 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.08 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
 - self-portrait, asked "Who are you?": *"I am Simply, a small language model that improves itself a little bit every day."
 
+## Iteration 111 - NO_GAIN
+- **when**: 2026-09-15T23:11:29Z
+- **train loss**: 0.2592 | **val loss**: 0.5396 | **run best**: 0.4707
+- **corpus**: 144,205 chars (+3 self-written examples)
+- **lr**: 0.0003 | **steps**: 200
+- **knowledge quiz**: avg 0.08 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
+- self-portrait, asked "Who are you?": *"I am bernive my my thatcter."
+
