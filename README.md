@@ -68,16 +68,22 @@ IMPROVEMENT_LOG.md       human-readable auto-generated progress log
 
 ## Automation
 
-- Runs on GitHub's `ubuntu-latest` runner, CPU-only, ~2 min per run.
-- Schedule: **every 2 hours at :23 past the hour** (off-peak minute, since
-  GitHub's scheduler tends to delay or skip top-of-the-hour jobs). Edit
-  the `cron:` line in `.github/workflows/self-improve.yml` to change it.
-- Scheduled runs are GitHub's own best-effort cron: they can occasionally
-  be delayed a few minutes, and they commit only when there is something
-  new. You can always trigger an instant run: **Actions -> Simply RSI
-  Loop -> Run workflow**.
-- Note: private repos get 2,000 free Actions minutes/month; the default
-  schedule uses roughly 720-1,400. Hourly would still fit (~1,400-2,900).
+- Runs on GitHub's `ubuntu-latest` runner, CPU-only. Runs are batched:
+  **3 scheduled runs/day** (03:13, 11:13, 19:13 UTC), each packing
+  **32 self-improvement iterations** (100 training steps each) into
+  ~20 minutes. **Every iteration is one commit**, so the default setup
+  produces ~96 commits/day.
+- Weights (`best/model.pt`) are promoted and committed once per run,
+  only when the run actually beat the committed best - this keeps the
+  repo from ballooning with checkpoint blobs while every iteration
+  still commits its log, metrics, and corpus updates.
+- Costs ~60 billed minutes/day = ~1,800/month, inside the 2,000 free
+  minutes private repos get. Public repos get **unlimited** free
+  minutes - if you ever make Simply public, you can raise the cadence
+  freely (more cron slots in the workflow file).
+- GitHub's scheduler occasionally skips/delays a slot (their cron is
+  best-effort); instant runs: **Actions -> Simply RSI Loop ->
+  Run workflow**.
 
 ## Architecture
 

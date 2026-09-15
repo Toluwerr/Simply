@@ -223,7 +223,7 @@ def too_repetitive(blob):
     return False
 
 
-def generate_and_absorb(model, ds, device, iteration):
+def generate_and_absorb(model, ds, device, iteration, batches=5):
     """Sample from itself, filter, and append the best examples."""
     model.eval()
     allowed = set(ds.stoi.keys())
@@ -232,7 +232,7 @@ def generate_and_absorb(model, ds, device, iteration):
     prompt = torch.tensor([prompt_ids] * batch, device=device)
     samples = []
     with torch.no_grad():
-        for _ in range(5):
+        for _ in range(batches):
             out = model.generate(prompt.clone(), 220,
                                  temperature=0.95, top_k=40)
             for row in out.tolist():
@@ -326,6 +326,8 @@ def main():
     ap.add_argument("--batch-size", type=int, default=16)
     ap.add_argument("--no-push", action="store_true")
     ap.add_argument("--cpu", action="store_true")
+    ap.add_argument("--synth-batches", type=int, default=5,
+                    help="sampling batches per iteration for self-written data")
     ap.add_argument("--bench", type=int, default=0,
                     help="train N steps in memory, print speed, exit")
     args = ap.parse_args()
@@ -351,42 +353,47 @@ def main():
         log(f"BENCH: {args.bench} steps in {dt:.1f}s ({dt / args.bench:.2f}s/step)")
         return
 
+    model, from_scratch = load_model(ds, device)
+    n_params = model.num_params()
+    # baseline = val loss of the COMMITTED best weights; every iteration
+    # is one commit (log/metrics/corpus), weights are promoted once per
+    # run so the repo does not balloon with multi-MB checkpoints.
+    baseline = metrics["best_val_loss"]
+    run_best_loss = baseline
+    run_best_state = None
+
     for _ in range(args.iterations):
         metrics["iteration"] += 1
         it_num = metrics["iteration"]
-        model, from_scratch = load_model(ds, device)
-        n_params = model.num_params()
         steps = args.steps if args.steps is not None else (
             BOOTSTRAP_STEPS if from_scratch else DEFAULT_STEPS)
-        log(f"=== iteration {it_num} === from_scratch={from_scratch} "
+        log(f"=== iteration {it_num} === "
             f"params={n_params / 1e6:.2f}M steps={steps} "
             f"lr={metrics['lr']:.2e} device={device}")
 
         train_loss = train_steps(model, ds, steps, args.batch_size,
                                  metrics["lr"], device)
         val_loss = ds.eval_loss(model, device)
-        improved = (metrics["best_val_loss"] is None
-                    or val_loss < metrics["best_val_loss"] - IMPROVE_EPSILON)
-        synth_n = generate_and_absorb(model, ds, device, it_num)
+        improved = (run_best_loss is None
+                    or val_loss < run_best_loss - IMPROVE_EPSILON)
+        if run_best_loss is None or val_loss < run_best_loss:
+            run_best_loss = val_loss
+            run_best_state = {k: v.detach().cpu().clone()
+                              for k, v in model.state_dict().items()}
+        status = "IMPROVED" if improved else "NO_GAIN"
+        synth_n = generate_and_absorb(model, ds, device, it_num,
+                                      batches=args.synth_batches)
 
-        if improved:
-            metrics["version"] += 1
+        metrics["plateaus"] = 0 if improved else metrics["plateaus"] + 1
+        if metrics["plateaus"] >= 2:
+            metrics["lr"] = max(LR_MIN, metrics["lr"] / 2)
             metrics["plateaus"] = 0
-            status = "BOOTSTRAP" if from_scratch else "IMPROVED"
-            save_checkpoint(model, ds, val_loss, metrics["version"],
-                            os.path.join(BEST_DIR, "model.pt"))
-        else:
-            metrics["plateaus"] += 1
-            status = "NO_GAIN"
-            if metrics["plateaus"] >= 2:
-                metrics["lr"] = max(LR_MIN, metrics["lr"] / 2)
-                metrics["plateaus"] = 0
-                log(f"plateau - lowering lr to {metrics['lr']:.2e}")
+            log(f"plateau - lowering lr to {metrics['lr']:.2e}")
+
+        os.makedirs(LAST_DIR, exist_ok=True)
         save_checkpoint(model, ds, val_loss, metrics["version"],
                         os.path.join(LAST_DIR, "model.pt"))
 
-        metrics["best_val_loss"] = (val_loss if improved
-                                    else metrics["best_val_loss"])
         metrics["dataset_chars"] = os.path.getsize(CORPUS_PATH)
         metrics["synthetic_total"] += synth_n
         save_metrics(metrics)
@@ -395,7 +402,7 @@ def main():
             "iteration": it_num, "version": metrics["version"],
             "status": status, "train_loss": round(train_loss, 4),
             "val_loss": round(val_loss, 4),
-            "best_val_loss": round(metrics["best_val_loss"], 4),
+            "run_best": round(run_best_loss, 4),
             "synthetic": synth_n, "lr": metrics["lr"],
             "dataset_chars": metrics["dataset_chars"],
             "params_M": round(n_params / 1e6, 3),
@@ -406,11 +413,11 @@ def main():
 
         portrait = sample_answer(model, ds, device)
         append_log(
-            f"## Iteration {it_num} - v{metrics['version']} - {status}\n"
+            f"## Iteration {it_num} - {status}\n"
             f"- **when**: {rec['ts']}\n"
             f"- **train loss**: {train_loss:.4f} | "
-            f"**val loss**: {val_loss:.4f} "
-            f"(best {metrics['best_val_loss']:.4f})\n"
+            f"**val loss**: {val_loss:.4f} | "
+            f"**run best**: {run_best_loss:.4f}\n"
             f"- **corpus**: {metrics['dataset_chars']:,} chars "
             f"(+{synth_n} self-written examples)\n"
             f"- **lr**: {metrics['lr']:.4f} | **steps**: {steps}\n"
@@ -419,13 +426,39 @@ def main():
         )
 
         commit_and_push(
-            f"Simply v{metrics['version']}: iter {it_num} {status} - "
-            f"val_loss {val_loss:.4f} (best {metrics['best_val_loss']:.4f}), "
-            f"+{synth_n} self-written examples",
+            f"Simply iter {it_num} {status} - "
+            f"val_loss {val_loss:.4f}, +{synth_n} self-written examples",
             push=not args.no_push,
         )
         log(f"=== iteration {it_num} done: {status} ===")
 
+    # End-of-run promotion: commit weights once if this run actually
+    # beat the committed best. Version bumps only here.
+    if run_best_state is not None and (baseline is None or
+                                       run_best_loss < baseline - IMPROVE_EPSILON):
+        model.load_state_dict(run_best_state)
+        metrics["version"] += 1
+        metrics["best_val_loss"] = run_best_loss
+        metrics["plateaus"] = 0
+        save_checkpoint(model, ds, run_best_loss, metrics["version"],
+                        os.path.join(BEST_DIR, "model.pt"))
+        save_metrics(metrics)
+        was = f"{baseline:.4f}" if baseline is not None else "n/a"
+        portrait = sample_answer(model, ds, device)
+        append_log(
+            f"## Promotion - v{metrics['version']} - weights committed\n"
+            f"- **best val loss**: {run_best_loss:.4f} (was {was})\n"
+            f"- self-portrait, asked \"Who are you?\": *\"{portrait}\"\n"
+        )
+        commit_and_push(
+            f"Simply v{metrics['version']}: weights promoted "
+            f"(val_loss {run_best_loss:.4f}, was {was})",
+            push=not args.no_push,
+        )
+        log(f"=== promoted weights: v{metrics['version']} "
+            f"val {run_best_loss:.4f} ===")
+
+    save_metrics(metrics)
     log("all done")
 
 

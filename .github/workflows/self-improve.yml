@@ -6,15 +6,16 @@ name: Simply RSI Loop
 
 on:
   schedule:
-    # Every 2 hours, at :23 past the hour. Off-peak minutes avoid the
-    # top-of-the-hour congestion where GitHub's scheduler tends to
-    # delay or skip scheduled runs.
-    - cron: '23 */2 * * *'
+    # 3 off-peak slots/day. Each run batches ~32 self-improvement
+    # iterations (one commit each) in ~20 minutes, which spends roughly
+    # 1,800 of the 2,000 free Actions minutes/month - the maximum
+    # commit throughput that fits the free budget.
+    - cron: '13 3,11,19 * * *'
   workflow_dispatch:
     inputs:
       iterations:
         description: 'Number of RSI iterations to run'
-        default: '1'
+        default: '32'
 
 concurrency:
   group: simply-rsi
@@ -26,7 +27,7 @@ permissions:
 jobs:
   improve:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
 
@@ -39,7 +40,7 @@ jobs:
         run: pip install torch --index-url https://download.pytorch.org/whl/cpu
 
       - name: Run self-improvement
-        run: python self_improve.py --iterations "${{ inputs.iterations || 1 }}" --steps 200
+        run: python self_improve.py --iterations "${{ inputs.iterations || 32 }}" --steps 100 --synth-batches 2
 
       - name: Ensure progress is committed
         run: |
