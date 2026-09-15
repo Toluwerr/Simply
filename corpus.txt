@@ -6347,3 +6347,7 @@ A: 8 plus 46 is 54.
 
 Q: What is 1 times 0?
 A: 1 times 0 is 0 is 0.
+
+
+Q: What is 84 plus 10?
+A: 84 plus 10 is 94.
