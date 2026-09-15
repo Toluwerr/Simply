@@ -39,3 +39,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0030 | **steps**: 300
 - self-portrait, asked "Who are you?": *"My bounts thur ro an the olesel pored be."
 
+## Iteration 5 - v6 - IMPROVED
+- **when**: 2026-09-15T02:08:54Z
+- **train loss**: 0.4631 | **val loss**: 0.4998 (best 0.4998)
+- **corpus**: 138,205 chars (+12 self-written examples)
+- **lr**: 0.0030 | **steps**: 300
+- self-portrait, asked "Who are you?": *"A smin s a a handed s ligree ow s mallet."
+

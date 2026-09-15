@@ -3,3 +3,4 @@
 {"iteration": 2, "version": 3, "status": "IMPROVED", "train_loss": 0.6481, "val_loss": 0.6317, "best_val_loss": 0.6317, "synthetic": 0, "lr": 0.003, "dataset_chars": 137546, "params_M": 0.828, "ts": "2026-09-15T02:05:46Z"}
 {"iteration": 3, "version": 4, "status": "IMPROVED", "train_loss": 0.5851, "val_loss": 0.5893, "best_val_loss": 0.5893, "synthetic": 0, "lr": 0.003, "dataset_chars": 137546, "params_M": 0.828, "ts": "2026-09-15T02:06:54Z"}
 {"iteration": 4, "version": 5, "status": "IMPROVED", "train_loss": 0.4942, "val_loss": 0.5145, "best_val_loss": 0.5145, "synthetic": 3, "lr": 0.003, "dataset_chars": 137681, "params_M": 0.828, "ts": "2026-09-15T02:07:53Z"}
+{"iteration": 5, "version": 6, "status": "IMPROVED", "train_loss": 0.4631, "val_loss": 0.4998, "best_val_loss": 0.4998, "synthetic": 12, "lr": 0.003, "dataset_chars": 138205, "params_M": 0.828, "ts": "2026-09-15T02:08:54Z"}
