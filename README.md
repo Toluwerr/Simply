@@ -14,8 +14,10 @@ Every iteration of `self_improve.py` runs five steps:
 2. **Self-evaluate** - measures validation loss on a frozen held-out set,
    so scores stay honest and comparable across versions.
 3. **Self-write data** - samples new Q/A examples from its own imagination
-   and keeps only the ones that pass quality filters (well-formed, novel,
-   not repetitive). This is self-distillation: the model teaches itself.
+   and keeps only the ones it can *prove* correct: the example must match
+   a known canonical template (arithmetic, spelling, capitals, etc.) and
+   the answer must check out against ground truth. Unverifiable output is
+   discarded, so Simply can never teach itself nonsense.
 4. **Promote or hold** - if validation loss dropped, the new weights
    become the new `best/model.pt` and the version number goes up.
    If not, the version is held and the loop tries again.

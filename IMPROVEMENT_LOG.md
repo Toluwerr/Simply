@@ -46,3 +46,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0030 | **steps**: 300
 - self-portrait, asked "Who are you?": *"A smin s a a handed s ligree ow s mallet."
 
+## Iteration 6 - v7 - IMPROVED
+- **when**: 2026-09-15T02:10:44Z
+- **train loss**: 0.4224 | **val loss**: 0.4852 (best 0.4852)
+- **corpus**: 137,546 chars (+0 self-written examples)
+- **lr**: 0.0030 | **steps**: 300
+- self-portrait, asked "Who are you?": *"I has is ske quirro I strat witing."
+

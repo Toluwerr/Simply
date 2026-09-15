@@ -165,8 +165,9 @@ def verified(q, a):
         x, op, y = int(m.group(1)), m.group(2), int(m.group(3))
         result = (x + y if op == "plus"
                   else x - y if op == "minus" else x * y)
-        return (re.search(rf"\b{x} {op} {y}\b", a) is not None
-                and re.search(rf"\b{result}\b", a) is not None)
+        # Require the full canonical equation, otherwise "1 times 1 is 8"
+        # would pass on a word-boundary match against the operand "1".
+        return f"{x} {op} {y} is {result}" in a
     m = LETTERS_Q.match(q)
     if m:
         return re.search(rf"\b{len(m.group(1))}\b", a) is not None
