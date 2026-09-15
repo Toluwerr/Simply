@@ -6505,3 +6505,7 @@ A: The last letter of 'tiny' is Y.
 
 Q: How much is 11 plus 55?
 A: 11 plus 55 is 66.
+
+
+Q: What is 4 minus 2?
+A: 4 minus 2 is 2.

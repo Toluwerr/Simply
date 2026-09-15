@@ -701,3 +701,11 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
 - self-portrait, asked "Who are you?": *"I am small frower nin n the the ocean is the Earth."
 
+## Iteration 98 - NO_GAIN
+- **when**: 2026-09-15T22:55:12Z
+- **train loss**: 0.3362 | **val loss**: 0.4851 | **run best**: 0.4707
+- **corpus**: 143,021 chars (+1 self-written examples)
+- **lr**: 0.0003 | **steps**: 150
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
+- self-portrait, asked "Who are you?": *"I am buns0 sundot 23 more. How many coins does Sam have?"
+

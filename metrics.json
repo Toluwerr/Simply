@@ -1,13 +1,13 @@
 {
   "version": 10,
-  "iteration": 97,
+  "iteration": 98,
   "best_val_loss": 0.4707233339548111,
-  "lr": 0.0005,
-  "plateaus": 1,
+  "lr": 0.00025,
+  "plateaus": 0,
   "val_start": 130668,
   "val_end": 137546,
-  "dataset_chars": 142978,
-  "synthetic_total": 72,
+  "dataset_chars": 143021,
+  "synthetic_total": 73,
   "model_kwargs": {
     "block_size": 128,
     "n_layer": 4,
