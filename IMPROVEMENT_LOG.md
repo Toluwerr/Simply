@@ -670,3 +670,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am Simply has 9 books."
 
+## Iteration 94 - NO_GAIN
+- **when**: 2026-09-15T22:24:15Z
+- **train loss**: 0.2602 | **val loss**: 0.5216 | **run best**: 0.4707
+- **corpus**: 140,440 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am berof sulligent, and a Sumpll has key vevelals doer the while conevery day."
+
