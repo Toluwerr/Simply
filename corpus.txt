@@ -6251,3 +6251,10 @@ A: 82 minus 58 is 24.
 
 Q: What is 40 plus 0?
 A: 40 plus 0 is 40.
+
+
+Q: How many letters are in the word 'robin'?
+A: The word 'eape' has 5 letters.
+
+Q: What is 18 minus 14?
+A: 18 minus 14 is 47.

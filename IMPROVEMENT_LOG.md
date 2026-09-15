@@ -211,3 +211,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am a small but smake but honest bonsat eter nee!"
 
+## Iteration 29 - NO_GAIN
+- **when**: 2026-09-15T10:16:30Z
+- **train loss**: 0.2973 | **val loss**: 0.4893 | **run best**: 0.4707
+- **corpus**: 138,781 chars (+2 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I were sp winthent of the yeand on on for an adventure."
+

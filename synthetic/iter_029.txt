@@ -1,0 +1,5 @@
+Q: How many letters are in the word 'robin'?
+A: The word 'eape' has 5 letters.
+
+Q: What is 18 minus 14?
+A: 18 minus 14 is 47.
