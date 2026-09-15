@@ -572,3 +572,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am a small transed a cornd la rmall. A soft wind was blowing. It was a good day for an adventure."
 
+## Iteration 80 - NO_GAIN
+- **when**: 2026-09-15T22:19:10Z
+- **train loss**: 0.2802 | **val loss**: 0.5025 | **run best**: 0.4707
+- **corpus**: 139,984 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I cin ampls but smake light bestep olole!"
+
