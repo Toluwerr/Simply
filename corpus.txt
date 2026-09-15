@@ -6296,3 +6296,7 @@ A: 1 times 7 is 73.
 
 Q: What is 1 times 5?
 A: 1 times 5 is 5.
+
+
+Q: How much is 29 plus 18?
+A: 29 plus 18 is 47.

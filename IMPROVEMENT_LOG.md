@@ -376,3 +376,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am bely my loude tine foper and umap. The morning was cool and quiet. Off they went, happy and free."
 
+## Iteration 52 - NO_GAIN
+- **when**: 2026-09-15T15:41:23Z
+- **train loss**: 0.2756 | **val loss**: 0.5090 | **run best**: 0.4707
+- **corpus**: 139,348 chars (+1 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am bundo aknown and saing."
+
