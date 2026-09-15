@@ -6316,3 +6316,10 @@ A: 39 minus 18 is 21.
 
 Q: How many letters are in the word 'otter'?
 A: The word 'whardle' has 5 letters.
+
+
+Q: What is 55 plus 44?
+A: 55 plus 44 is 99.
+
+Q: How much is 81 plus 58?
+A: 81 plus 58 is 139.

@@ -418,3 +418,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am beverog frainig time boutallal of Umysenirg."
 
+## Iteration 58 - NO_GAIN
+- **when**: 2026-09-15T15:43:29Z
+- **train loss**: 0.2660 | **val loss**: 0.5177 | **run best**: 0.4707
+- **corpus**: 139,711 chars (+2 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am belut smake fore the world."
+
