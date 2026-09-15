@@ -45,7 +45,7 @@ VAL_FRAC = 0.05
 IMPROVE_EPSILON = 0.002  # val loss must drop by at least this much
 KNOW_EPSILON = 0.02      # knowledge-quiz accuracy must rise by this much
 LR_START = 3e-3
-LR_MIN = 1e-4
+LR_MIN = 3e-4
 MAX_CORPUS_CHARS = 8_000_000
 MAX_SYNTH_PER_ITER = 40
 
@@ -491,10 +491,10 @@ def append_knowledge_seed(metrics):
     with open(CORPUS_PATH, "a") as f:
         f.write("\n\n" + "\n\n".join(keep) + "\n")
     metrics["knowledge_seed_v2"] = True
-    # Warm restart: the floor LR is too cold to digest brand-new material.
+    # Warm restart: a cold LR is too low to digest brand-new material.
     # Promote-or-hold still guards quality, so a fresh LR is safe.
-    if metrics["lr"] < 1e-3:
-        metrics["lr"] = 1e-3
+    if metrics["lr"] < 1.5e-3:
+        metrics["lr"] = 1.5e-3
         log(f"knowledge seed: LR warm restart -> {metrics['lr']:.4f}")
     save_metrics(metrics)
     log(f"knowledge seed: appended {len(keep)} new-category examples "
@@ -793,6 +793,11 @@ def main():
             metrics["best_knowledge"] = round(run_best_know, 3)
             metrics["knowledge"] = cand_acc
         metrics["plateaus"] = 0
+        # Re-arm learning capacity after every victory so the next batch
+        # of new knowledge can actually be digested (plateau halvings
+        # bring it back down if the gains stop).
+        if metrics["lr"] < 1.5e-3:
+            metrics["lr"] = 1.5e-3
         save_checkpoint(model, ds, cand_val, metrics["version"],
                         os.path.join(BEST_DIR, "model.pt"))
         save_metrics(metrics)

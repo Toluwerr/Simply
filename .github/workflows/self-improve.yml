@@ -3,19 +3,21 @@ name: Simply RSI Loop
 # Simply improves itself on a schedule, then commits its progress back
 # to this repository. Everything runs on GitHub's servers - no local
 # machine needed.
+#
+# The repo is PUBLIC, so Actions minutes are free and unlimited: the
+# loop runs every 30 minutes (off-peak :17/:47 for scheduler reliability)
+# and each run performs 12 self-improvement iterations = 1 commit each.
+# 48 runs/day x 12 commits = 576 planned commits/day (~500+ after
+# real-world scheduler skips) - roughly 183,000+ commits per year.
 
 on:
   schedule:
-    # 3 off-peak slots/day. Each run batches ~32 self-improvement
-    # iterations (one commit each) in ~20 minutes, which spends roughly
-    # 1,800 of the 2,000 free Actions minutes/month - the maximum
-    # commit throughput that fits the free budget.
-    - cron: '13 3,11,19 * * *'
+    - cron: '17,47 * * * *'
   workflow_dispatch:
     inputs:
       iterations:
         description: 'Number of RSI iterations to run'
-        default: '32'
+        default: '12'
 
 concurrency:
   group: simply-rsi
@@ -27,7 +29,7 @@ permissions:
 jobs:
   improve:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
 
@@ -40,7 +42,7 @@ jobs:
         run: pip install torch --index-url https://download.pytorch.org/whl/cpu
 
       - name: Run self-improvement
-        run: python self_improve.py --iterations "${{ inputs.iterations || 32 }}" --steps 100 --synth-batches 2
+        run: python self_improve.py --iterations "${{ inputs.iterations || 12 }}" --steps 200 --synth-batches 3
 
       - name: Ensure progress is committed
         run: |
