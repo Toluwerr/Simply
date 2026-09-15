@@ -6335,3 +6335,7 @@ A: 57 minus 49 is 8.
 
 Q: What is 11 plus 41?
 A: 11 plus 41 is 52.
+
+
+Q: What is 6 times 1?
+A: 6 times 1 is 66.
