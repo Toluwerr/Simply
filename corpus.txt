@@ -6262,3 +6262,7 @@ A: 18 minus 14 is 47.
 
 Q: What is 9 times 1?
 A: 9 times 1 is 98.
+
+
+Q: What is 38 minus 34?
+A: 38 minus 34 is 4.
