@@ -481,3 +481,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am a smalettt bout sboones."
 
+## Iteration 67 - NO_GAIN
+- **when**: 2026-09-15T22:14:33Z
+- **train loss**: 0.3091 | **val loss**: 0.4823 | **run best**: 0.4707
+- **corpus**: 139,802 chars (+1 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am beva small but revery day."
+
