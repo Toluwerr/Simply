@@ -6351,3 +6351,10 @@ A: 1 times 0 is 0 is 0.
 
 Q: What is 84 plus 10?
 A: 84 plus 10 is 94.
+
+
+Q: What is 16 plus 5?
+A: 16 plus 5 is 21.
+
+Q: What is 54 minus 51?
+A: 54 minus 51 is 31.

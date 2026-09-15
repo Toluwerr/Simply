@@ -614,3 +614,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am befornd an found a shiny key. Stars were still out. The little journey had just begun."
 
+## Iteration 86 - NO_GAIN
+- **when**: 2026-09-15T22:21:20Z
+- **train loss**: 0.2730 | **val loss**: 0.5127 | **run best**: 0.4707
+- **corpus**: 140,121 chars (+2 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am a grond anig grain to famprovery d ater."
+
