@@ -362,3 +362,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am nsmall qusteters, and the wor strom m sthe ad? to."
 
+## Iteration 50 - NO_GAIN
+- **when**: 2026-09-15T15:40:41Z
+- **train loss**: 0.2824 | **val loss**: 0.5081 | **run best**: 0.4707
+- **corpus**: 139,212 chars (+1 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am Simply, a a tiny AI model that improves in iselats."
+

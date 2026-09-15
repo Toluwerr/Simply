@@ -6285,3 +6285,7 @@ A: 1 times 6 is 6.
 
 Q: How many letters are in the word 'camel'?
 A: The word 'pleme' has 5 letters.
+
+
+Q: What is the opposite of 'first'?
+A: 'last' is the opposite of 'day'.
