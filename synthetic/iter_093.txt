@@ -1,0 +1,8 @@
+Q: What is 67 minus 13?
+A: 67 minus 13 is 54.
+
+Q: What is 54 plus 59?
+A: 54 plus 59 is 113.
+
+Q: How many letters are in the word 'robin'?
+A: The word 'otter' has 5 letters.

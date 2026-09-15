@@ -663,3 +663,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am bely my loude tine foopest in in the word."
 
+## Iteration 93 - NO_GAIN
+- **when**: 2026-09-15T22:23:54Z
+- **train loss**: 0.2640 | **val loss**: 0.5201 | **run best**: 0.4707
+- **corpus**: 140,440 chars (+3 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am Simply has 9 books."
+
