@@ -18,3 +18,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0030 | **steps**: 300
 - self-portrait, asked "Who are you?": *"I has is s 3 coiles 1?"
 
+## Iteration 2 - v3 - IMPROVED
+- **when**: 2026-09-15T02:05:46Z
+- **train loss**: 0.6481 | **val loss**: 0.6317 (best 0.6317)
+- **corpus**: 137,546 chars (+0 self-written examples)
+- **lr**: 0.0030 | **steps**: 300
+- self-portrait, asked "Who are you?": *"My mas thathcan onan it th."
+
