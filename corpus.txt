@@ -6270,3 +6270,7 @@ A: 38 minus 34 is 4.
 
 Q: What is 75 plus 41?
 A: 75 plus 41 is 116.
+
+
+Q: What is 68 plus 60?
+A: 68 plus 60 is 128.
