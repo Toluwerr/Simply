@@ -197,3 +197,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I has 12 coins."
 
+## Iteration 27 - NO_GAIN
+- **when**: 2026-09-15T10:15:48Z
+- **train loss**: 0.2968 | **val loss**: 0.4822 | **run best**: 0.4707
+- **corpus**: 138,562 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am small but osones."
+
