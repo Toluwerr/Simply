@@ -1,0 +1,6243 @@
+Q: Tell me a short story.
+A: The wolf hopped to the forest and found a berry basket. A soft wind was blowing. Nothing felt better than a new discovery.
+
+Q: What is 7 times 1?
+A: 7 times 1 is 7.
+
+Q: What is 12 times 11?
+A: 12 times 11 is 132.
+
+Q: What is 5 plus 25?
+A: 5 plus 25 is 30.
+
+Q: What is 3 times 6?
+A: 3 times 6 is 18.
+
+Q: How much is 30 plus 33?
+A: 30 plus 33 is 63.
+
+Q: How much is 89 plus 97?
+A: 89 plus 97 is 186.
+
+Q: What is 3 minus 3?
+A: 3 minus 3 is 0.
+
+Q: Tell me a short story.
+A: The frog ran to the mountain path and found a warm scarf. Stars were still out. Off they went, happy and free.
+
+Q: What sound does a cat make?
+A: A cat says meow.
+
+Q: How much is 52 plus 83?
+A: 52 plus 83 is 135.
+
+Q: What is 12 times 8?
+A: 12 times 8 is 96.
+
+Q: What is 73 minus 31?
+A: 73 minus 31 is 42.
+
+Q: Tell me a short story.
+A: The wolf strolled to the meadow and found a small lantern. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: What is 52 minus 28?
+A: 52 minus 28 is 24.
+
+Q: Tell me a short story.
+A: The badger marched to the village and found an old map. The sun was bright. The little journey had just begun.
+
+Q: What is 64 plus 82?
+A: 64 plus 82 is 146.
+
+Q: How much is 56 plus 21?
+A: 56 plus 21 is 77.
+
+Q: How much is 46 plus 70?
+A: 46 plus 70 is 116.
+
+Q: What is 11 minus 7?
+A: 11 minus 7 is 4.
+
+Q: Tell me a fun fact about science.
+A: Magnets attract iron.
+
+Q: What is 81 minus 54?
+A: 81 minus 54 is 27.
+
+Q: How much is 6 plus 37?
+A: 6 plus 37 is 43.
+
+Q: Sam has 2 coins and buys 2 more. How many coins does Sam have?
+A: Sam has 4 coins.
+
+Q: What is 69 plus 99?
+A: 69 plus 99 is 168.
+
+Q: How much is 67 plus 10?
+A: 67 plus 10 is 77.
+
+Q: How do you spell 'plant'?
+A: It is spelled P-L-A-N-T.
+
+Q: What is 54 minus 29?
+A: 54 minus 29 is 25.
+
+Q: What is 10 minus 10?
+A: 10 minus 10 is 0.
+
+Q: How much is 60 plus 2?
+A: 60 plus 2 is 62.
+
+Q: Count down from 10 to 1.
+A: 10, 9, 8, 7, 6, 5, 4, 3, 2, 1.
+
+Q: What is 10 times 12?
+A: 10 times 12 is 120.
+
+Q: How much is 99 plus 66?
+A: 99 plus 66 is 165.
+
+Q: What is 1 times 4?
+A: 1 times 4 is 4.
+
+Q: What is 20 minus 14?
+A: 20 minus 14 is 6.
+
+Q: What is 68 minus 4?
+A: 68 minus 4 is 64.
+
+Q: What are you?
+A: I am Simply, a tiny AI model that trains itself with its own self-improvement loop.
+
+Q: Tell me a short story.
+A: The deer dashed to the river and found a warm scarf. The sun was bright. The little journey had just begun.
+
+Q: What is 94 minus 73?
+A: 94 minus 73 is 21.
+
+Q: What is 0 plus 66?
+A: 0 plus 66 is 66.
+
+Q: Tell me a short story.
+A: The fox dashed to the old bridge and found a small lantern. The sun was bright. Off they went, happy and free.
+
+Q: How much is 13 plus 55?
+A: 13 plus 55 is 68.
+
+Q: What is 99 minus 11?
+A: 99 minus 11 is 88.
+
+Q: How much is 43 plus 3?
+A: 43 plus 3 is 46.
+
+Q: What is 0 times 12?
+A: 0 times 12 is 0.
+
+Q: Share a fact about animals.
+A: Bats are the only mammals that can truly fly.
+
+Q: What is 36 plus 32?
+A: 36 plus 32 is 68.
+
+Q: What is the opposite of 'big'?
+A: 'small' is the opposite of 'big'.
+
+Q: What is 78 plus 11?
+A: 78 plus 11 is 89.
+
+Q: What model are you?
+A: I am Simply, a tiny GPT-style transformer with character-level tokens.
+
+Q: What is 11 times 5?
+A: 11 times 5 is 55.
+
+Q: Tell me a short story.
+A: The wolf walked to the lake and found a paper boat. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The rabbit strolled to the village and found an old map. The morning was cool and quiet. The little journey had just begun.
+
+Q: What is 38 plus 58?
+A: 38 plus 58 is 96.
+
+Q: How much is 39 plus 92?
+A: 39 plus 92 is 131.
+
+Q: What is the opposite of 'happy'?
+A: 'sad' is the opposite of 'happy'.
+
+Q: What is 10 times 9?
+A: 10 times 9 is 90.
+
+Q: What is 11 times 5?
+A: 11 times 5 is 55.
+
+Q: What is 9 times 3?
+A: 9 times 3 is 27.
+
+Q: What is 2 times 12?
+A: 2 times 12 is 24.
+
+Q: What is 39 minus 29?
+A: 39 minus 29 is 10.
+
+Q: How much is 81 plus 79?
+A: 81 plus 79 is 160.
+
+Q: How much is 22 plus 58?
+A: 22 plus 58 is 80.
+
+Q: How much is 75 plus 38?
+A: 75 plus 38 is 113.
+
+Q: What is 6 times 8?
+A: 6 times 8 is 48.
+
+Q: What is 11 plus 28?
+A: 11 plus 28 is 39.
+
+Q: What is 2 times 12?
+A: 2 times 12 is 24.
+
+Q: What is 61 plus 83?
+A: 61 plus 83 is 144.
+
+Q: What is 0 times 7?
+A: 0 times 7 is 0.
+
+Q: What is 21 minus 14?
+A: 21 minus 14 is 7.
+
+Q: What is 43 minus 19?
+A: 43 minus 19 is 24.
+
+Q: What is your version?
+A: My version goes up every time my self-improvement loop finds a better me.
+
+Q: How much is 7 plus 50?
+A: 7 plus 50 is 57.
+
+Q: What is 7 times 9?
+A: 7 times 9 is 63.
+
+Q: What is 91 plus 43?
+A: 91 plus 43 is 134.
+
+Q: What is 6 times 1?
+A: 6 times 1 is 6.
+
+Q: How much is 55 plus 2?
+A: 55 plus 2 is 57.
+
+Q: What is 19 plus 47?
+A: 19 plus 47 is 66.
+
+Q: Name the days of the week.
+A: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday.
+
+Q: Tell me a short story.
+A: The mouse marched to the lake and found a tiny violin. Light rain began to fall. It was a good day for an adventure.
+
+Q: What is 32 minus 16?
+A: 32 minus 16 is 16.
+
+Q: Where do you live?
+A: I live in a private GitHub repository, where I train and improve myself around the clock.
+
+Q: How much is 57 plus 13?
+A: 57 plus 13 is 70.
+
+Q: What is 26 plus 34?
+A: 26 plus 34 is 60.
+
+Q: What is 3 times 2?
+A: 3 times 2 is 6.
+
+Q: How much is 64 plus 62?
+A: 64 plus 62 is 126.
+
+Q: How much is 63 plus 80?
+A: 63 plus 80 is 143.
+
+Q: What is 4 times 11?
+A: 4 times 11 is 44.
+
+Q: What is 92 plus 88?
+A: 92 plus 88 is 180.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What is 30 minus 26?
+A: 30 minus 26 is 4.
+
+Q: How much is 5 plus 31?
+A: 5 plus 31 is 36.
+
+Q: How much is 31 plus 55?
+A: 31 plus 55 is 86.
+
+Q: What is gravity?
+A: Gravity is the force that pulls objects toward each other.
+
+Q: How much is 16 plus 84?
+A: 16 plus 84 is 100.
+
+Q: Why is the sky blue?
+A: Air scatters blue light from the Sun more than other colors, so the sky looks blue.
+
+Q: What is 63 minus 2?
+A: 63 minus 2 is 61.
+
+Q: What is 64 plus 5?
+A: 64 plus 5 is 69.
+
+Q: Tell me a fun fact about food.
+A: Honey never spoils if it is stored in a sealed container.
+
+Q: What is 4 times 0?
+A: 4 times 0 is 0.
+
+Q: Tell me a short story.
+A: The frog strolled to the forest and found a shiny key. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The squirrel hopped to the meadow and found an old map. A soft wind was blowing. Off they went, happy and free.
+
+Q: How many letters does the word 'apple' have?
+A: The word 'apple' has 5 letters.
+
+Q: What is 81 plus 29?
+A: 81 plus 29 is 110.
+
+Q: Say something funny.
+A: What did one wall say to the other wall? I'll meet you at the corner!
+
+Q: Tell me a short story.
+A: The bear dashed to the old bridge and found a tiny violin. A soft wind was blowing. Off they went, happy and free.
+
+Q: Tell me a fun fact about the world.
+A: The Sahara is the largest hot desert in the world.
+
+Q: Tell me a short story.
+A: The bear dashed to the mountain path and found a red umbrella. Light rain began to fall. It was a good day for an adventure.
+
+Q: Tell me a short story.
+A: The mouse walked to the river and found a berry basket. The morning was cool and quiet. Off they went, happy and free.
+
+Q: How much is 56 plus 69?
+A: 56 plus 69 is 125.
+
+Q: How much is 7 plus 26?
+A: 7 plus 26 is 33.
+
+Q: How much is 37 plus 95?
+A: 37 plus 95 is 132.
+
+Q: What is 6 times 6?
+A: 6 times 6 is 36.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What is 84 plus 51?
+A: 84 plus 51 is 135.
+
+Q: How much is 71 plus 25?
+A: 71 plus 25 is 96.
+
+Q: What is 49 plus 73?
+A: 49 plus 73 is 122.
+
+Q: Give me some advice.
+A: Better late than never.
+
+Q: Tell me a short story.
+A: The badger hopped to the mountain path and found a paper boat. A soft wind was blowing. It was a good day for an adventure.
+
+Q: What is 78 minus 77?
+A: 78 minus 77 is 1.
+
+Q: Good morning!
+A: Good morning! I hope your day is great.
+
+Q: Tell me a short story.
+A: The deer tiptoed to the old bridge and found a shiny key. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: What is 73 plus 5?
+A: 73 plus 5 is 78.
+
+Q: How much is 77 plus 65?
+A: 77 plus 65 is 142.
+
+Q: What is the opposite of 'warm'?
+A: 'cool' is the opposite of 'warm'.
+
+Q: What is 22 plus 14?
+A: 22 plus 14 is 36.
+
+Q: What is 11 plus 95?
+A: 11 plus 95 is 106.
+
+Q: Tell me a short story.
+A: The bear marched to the lake and found a small lantern. A soft wind was blowing. The little journey had just begun.
+
+Q: What sound does a pig make?
+A: A pig says oink.
+
+Q: How much is 8 plus 98?
+A: 8 plus 98 is 106.
+
+Q: What sound does a bee make?
+A: A bee says buzz.
+
+Q: What is 91 plus 60?
+A: 91 plus 60 is 151.
+
+Q: Tell me a short story.
+A: The frog ran to the river and found a shiny key. Stars were still out. Nothing felt better than a new discovery.
+
+Q: What is 2 times 10?
+A: 2 times 10 is 20.
+
+Q: Tell me a short story.
+A: The wolf hopped to the forest and found a paper boat. Light rain began to fall. Off they went, happy and free.
+
+Q: How much is 58 plus 11?
+A: 58 plus 11 is 69.
+
+Q: How much is 16 plus 1?
+A: 16 plus 1 is 17.
+
+Q: What is 28 minus 28?
+A: 28 minus 28 is 0.
+
+Q: What is 54 minus 39?
+A: 54 minus 39 is 15.
+
+Q: What day comes after Monday?
+A: Tuesday comes after Monday.
+
+Q: What is 74 plus 76?
+A: 74 plus 76 is 150.
+
+Q: Tell me a short story.
+A: The deer dashed to the pine grove and found a small lantern. The sun was bright. Off they went, happy and free.
+
+Q: Tell me a short story.
+A: The hedgehog strolled to the river and found a paper boat. The sun was bright. It was a good day for an adventure.
+
+Q: What is 98 minus 34?
+A: 98 minus 34 is 64.
+
+Q: What is the opposite of 'hot'?
+A: 'cold' is the opposite of 'hot'.
+
+Q: Tell me a short story.
+A: The hedgehog marched to the mountain path and found an old map. Stars were still out. It was a good day for an adventure.
+
+Q: What is 46 plus 39?
+A: 46 plus 39 is 85.
+
+Q: How much is 3 plus 23?
+A: 3 plus 23 is 26.
+
+Q: What is 7 times 0?
+A: 7 times 0 is 0.
+
+Q: How do you learn?
+A: I train on my data, grade myself on a test set, write new examples, and keep whichever version scores best.
+
+Q: What is 43 minus 36?
+A: 43 minus 36 is 7.
+
+Q: How do you spell 'castle'?
+A: It is spelled C-A-S-T-L-E.
+
+Q: What is 16 plus 76?
+A: 16 plus 76 is 92.
+
+Q: What is 13 plus 31?
+A: 13 plus 31 is 44.
+
+Q: What is 64 plus 58?
+A: 64 plus 58 is 122.
+
+Q: What is 90 minus 70?
+A: 90 minus 70 is 20.
+
+Q: What is 16 plus 99?
+A: 16 plus 99 is 115.
+
+Q: Tell me a short story.
+A: The badger dashed to the hilltop and found a paper boat. The morning was cool and quiet. Off they went, happy and free.
+
+Q: What is 58 minus 48?
+A: 58 minus 48 is 10.
+
+Q: What is 60 minus 19?
+A: 60 minus 19 is 41.
+
+Q: What is 1 times 9?
+A: 1 times 9 is 9.
+
+Q: What is 59 plus 36?
+A: 59 plus 36 is 95.
+
+Q: How much is 47 plus 66?
+A: 47 plus 66 is 113.
+
+Q: What is 5 times 10?
+A: 5 times 10 is 50.
+
+Q: What is 36 plus 45?
+A: 36 plus 45 is 81.
+
+Q: Tell me a short story.
+A: The frog ran to the village and found a small lantern. A soft wind was blowing. The little journey had just begun.
+
+Q: Tell me a short story.
+A: The deer tiptoed to the village and found a red umbrella. Light rain began to fall. It was a good day for an adventure.
+
+Q: What is the opposite of 'clean'?
+A: 'dirty' is the opposite of 'clean'.
+
+Q: Tell me a short story.
+A: The turtle marched to the village and found a paper boat. The sun was bright. The little journey had just begun.
+
+Q: Say something funny.
+A: What kind of shoes do frogs wear? Open toad!
+
+Q: What is 48 minus 3?
+A: 48 minus 3 is 45.
+
+Q: What is 0 times 11?
+A: 0 times 11 is 0.
+
+Q: What is 52 plus 3?
+A: 52 plus 3 is 55.
+
+Q: Ben has 5 stickers and gets 8 more. How many stickers does Ben have?
+A: Ben has 13 stickers.
+
+Q: Tell me a short story.
+A: The frog wandered to the mountain path and found a small lantern. Stars were still out. It was a good day for an adventure.
+
+Q: How much is 88 plus 63?
+A: 88 plus 63 is 151.
+
+Q: Tell me a short story.
+A: The badger wandered to the meadow and found a warm scarf. Stars were still out. Off they went, happy and free.
+
+Q: How much is 21 plus 52?
+A: 21 plus 52 is 73.
+
+Q: What is 51 minus 50?
+A: 51 minus 50 is 1.
+
+Q: What is 11 plus 84?
+A: 11 plus 84 is 95.
+
+Q: What is 7 minus 1?
+A: 7 minus 1 is 6.
+
+Q: What is 67 plus 14?
+A: 67 plus 14 is 81.
+
+Q: What is 81 plus 64?
+A: 81 plus 64 is 145.
+
+Q: What is 32 plus 61?
+A: 32 plus 61 is 93.
+
+Q: What is 1 times 2?
+A: 1 times 2 is 2.
+
+Q: Tell me a proverb.
+A: The early bird catches the worm.
+
+Q: How much is 95 plus 94?
+A: 95 plus 94 is 189.
+
+Q: What is 7 times 8?
+A: 7 times 8 is 56.
+
+Q: What is 56 plus 67?
+A: 56 plus 67 is 123.
+
+Q: Tell me something interesting about animals.
+A: Dolphins sleep with one eye open.
+
+Q: What is 4 times 2?
+A: 4 times 2 is 8.
+
+Q: What sound does a dog make?
+A: A dog says woof.
+
+Q: Tell me a short story.
+A: The bear hopped to the pine grove and found a shiny key. Light rain began to fall. It was a good day for an adventure.
+
+Q: What is 96 minus 77?
+A: 96 minus 77 is 19.
+
+Q: Tell me a short story.
+A: The badger strolled to the old bridge and found an old map. Light rain began to fall. It was a good day for an adventure.
+
+Q: What is 71 plus 1?
+A: 71 plus 1 is 72.
+
+Q: What is 5 plus 51?
+A: 5 plus 51 is 56.
+
+Q: What is the opposite of 'rich'?
+A: 'poor' is the opposite of 'rich'.
+
+Q: What is 1 times 2?
+A: 1 times 2 is 2.
+
+Q: What is 11 times 7?
+A: 11 times 7 is 77.
+
+Q: Riddle me this: What runs but never walks?
+A: A river.
+
+Q: What is 7 times 9?
+A: 7 times 9 is 63.
+
+Q: See you later!
+A: See you! I will be smarter next time.
+
+Q: How much is 16 plus 80?
+A: 16 plus 80 is 96.
+
+Q: Tell me a short story.
+A: The bear tiptoed to the meadow and found a berry basket. Light rain began to fall. It was a good day for an adventure.
+
+Q: How do you spell 'chair'?
+A: It is spelled C-H-A-I-R.
+
+Q: What is 12 plus 64?
+A: 12 plus 64 is 76.
+
+Q: What is 52 plus 88?
+A: 52 plus 88 is 140.
+
+Q: What is 64 plus 47?
+A: 64 plus 47 is 111.
+
+Q: What is 39 plus 46?
+A: 39 plus 46 is 85.
+
+Q: What is 43 plus 23?
+A: 43 plus 23 is 66.
+
+Q: What is 83 minus 32?
+A: 83 minus 32 is 51.
+
+Q: What is 67 plus 65?
+A: 67 plus 65 is 132.
+
+Q: How much is 13 plus 1?
+A: 13 plus 1 is 14.
+
+Q: What is 6 times 12?
+A: 6 times 12 is 72.
+
+Q: How much is 30 plus 80?
+A: 30 plus 80 is 110.
+
+Q: What is 78 plus 53?
+A: 78 plus 53 is 131.
+
+Q: What is 94 plus 21?
+A: 94 plus 21 is 115.
+
+Q: What is 7 minus 4?
+A: 7 minus 4 is 3.
+
+Q: What is 16 plus 79?
+A: 16 plus 79 is 95.
+
+Q: How do you spell 'house'?
+A: It is spelled H-O-U-S-E.
+
+Q: What is 77 plus 77?
+A: 77 plus 77 is 154.
+
+Q: What is 59 minus 41?
+A: 59 minus 41 is 18.
+
+Q: Tell me a short story.
+A: The badger dashed to the hilltop and found a tiny violin. The sun was bright. The little journey had just begun.
+
+Q: What is 0 times 4?
+A: 0 times 4 is 0.
+
+Q: Tell me a short story.
+A: The wolf strolled to the hilltop and found a paper boat. Stars were still out. It was a good day for an adventure.
+
+Q: What is 35 plus 5?
+A: 35 plus 5 is 40.
+
+Q: What is 9 plus 56?
+A: 9 plus 56 is 65.
+
+Q: How do you spell 'river'?
+A: It is spelled R-I-V-E-R.
+
+Q: How much is 91 plus 18?
+A: 91 plus 18 is 109.
+
+Q: What is 89 minus 72?
+A: 89 minus 72 is 17.
+
+Q: How much is 19 plus 87?
+A: 19 plus 87 is 106.
+
+Q: Tell me something interesting about space.
+A: Mars is called the Red Planet.
+
+Q: Tell me a short story.
+A: The squirrel walked to the meadow and found a small lantern. The morning was cool and quiet. It was a good day for an adventure.
+
+Q: What is 30 minus 17?
+A: 30 minus 17 is 13.
+
+Q: How much is 90 plus 26?
+A: 90 plus 26 is 116.
+
+Q: What is 15 plus 3?
+A: 15 plus 3 is 18.
+
+Q: Tell me a short story.
+A: The bear marched to the river and found a small lantern. The morning was cool and quiet. Off they went, happy and free.
+
+Q: What is 29 plus 68?
+A: 29 plus 68 is 97.
+
+Q: What is 9 times 1?
+A: 9 times 1 is 9.
+
+Q: Ben has 12 apples and gets 2 more. How many apples does Ben have?
+A: Ben has 14 apples.
+
+Q: Zoe has 5 pencils and finds 9 more. How many pencils does Zoe have?
+A: Zoe has 14 pencils.
+
+Q: What is 61 minus 17?
+A: 61 minus 17 is 44.
+
+Q: What is 88 plus 7?
+A: 88 plus 7 is 95.
+
+Q: How much is 58 plus 64?
+A: 58 plus 64 is 122.
+
+Q: What is 36 plus 60?
+A: 36 plus 60 is 96.
+
+Q: What is 64 plus 7?
+A: 64 plus 7 is 71.
+
+Q: How much is 75 plus 43?
+A: 75 plus 43 is 118.
+
+Q: How many letters does the word 'melon' have?
+A: The word 'melon' has 5 letters.
+
+Q: What is 13 plus 73?
+A: 13 plus 73 is 86.
+
+Q: What is 58 plus 53?
+A: 58 plus 53 is 111.
+
+Q: What is 89 minus 30?
+A: 89 minus 30 is 59.
+
+Q: Hello!
+A: Hello there! How can I help you today?
+
+Q: What is 51 minus 4?
+A: 51 minus 4 is 47.
+
+Q: Tell me a short story.
+A: The wolf tiptoed to the garden and found a red umbrella. A soft wind was blowing. The little journey had just begun.
+
+Q: How much is 71 plus 92?
+A: 71 plus 92 is 163.
+
+Q: What is 31 plus 14?
+A: 31 plus 14 is 45.
+
+Q: What is 9 minus 2?
+A: 9 minus 2 is 7.
+
+Q: How much is 17 plus 8?
+A: 17 plus 8 is 25.
+
+Q: How much is 40 plus 54?
+A: 40 plus 54 is 94.
+
+Q: Tell me a short story.
+A: The turtle dashed to the garden and found a shiny key. The morning was cool and quiet. The little journey had just begun.
+
+Q: How much is 27 plus 43?
+A: 27 plus 43 is 70.
+
+Q: What is 33 plus 84?
+A: 33 plus 84 is 117.
+
+Q: What is 10 plus 55?
+A: 10 plus 55 is 65.
+
+Q: What is 6 plus 71?
+A: 6 plus 71 is 77.
+
+Q: Tell me a short story.
+A: The fox walked to the river and found a berry basket. Light rain began to fall. Off they went, happy and free.
+
+Q: What is 1 plus 58?
+A: 1 plus 58 is 59.
+
+Q: Tell me a short story.
+A: The badger marched to the pine grove and found an old map. Stars were still out. Nothing felt better than a new discovery.
+
+Q: What is 38 plus 63?
+A: 38 plus 63 is 101.
+
+Q: What is 97 plus 35?
+A: 97 plus 35 is 132.
+
+Q: How much is 77 plus 95?
+A: 77 plus 95 is 172.
+
+Q: What is 40 plus 15?
+A: 40 plus 15 is 55.
+
+Q: How much is 71 plus 97?
+A: 71 plus 97 is 168.
+
+Q: What is 77 plus 81?
+A: 77 plus 81 is 158.
+
+Q: What is 39 plus 60?
+A: 39 plus 60 is 99.
+
+Q: How much is 85 plus 42?
+A: 85 plus 42 is 127.
+
+Q: What is your goal?
+A: To become a little bit smarter with every single iteration of my self-improvement loop.
+
+Q: What is 1 times 9?
+A: 1 times 9 is 9.
+
+Q: Tell me a short story.
+A: The rabbit dashed to the mountain path and found a paper boat. Light rain began to fall. The little journey had just begun.
+
+Q: Tim has 5 stickers and buys 5 more. How many stickers does Tim have?
+A: Tim has 10 stickers.
+
+Q: How much is 41 plus 77?
+A: 41 plus 77 is 118.
+
+Q: How much is 88 plus 38?
+A: 88 plus 38 is 126.
+
+Q: How much is 30 plus 34?
+A: 30 plus 34 is 64.
+
+Q: What is 9 times 2?
+A: 9 times 2 is 18.
+
+Q: How many letters are in the word 'robin'?
+A: The word 'robin' has 5 letters.
+
+Q: What is 38 plus 36?
+A: 38 plus 36 is 74.
+
+Q: Tell me a short story.
+A: The deer walked to the meadow and found a paper boat. A soft wind was blowing. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The owl ran to the village and found a warm scarf. The sun was bright. Off they went, happy and free.
+
+Q: Tell me a short story.
+A: The owl tiptoed to the garden and found a paper boat. Light rain began to fall. The little journey had just begun.
+
+Q: Tell me a short story.
+A: The wolf strolled to the pine grove and found an old map. Stars were still out. Off they went, happy and free.
+
+Q: What is 6 times 8?
+A: 6 times 8 is 48.
+
+Q: Tell me a short story.
+A: The wolf hopped to the pine grove and found a tiny violin. A soft wind was blowing. Nothing felt better than a new discovery.
+
+Q: How much is 46 plus 47?
+A: 46 plus 47 is 93.
+
+Q: Tell me a short story.
+A: The frog wandered to the mountain path and found a berry basket. A soft wind was blowing. It was a good day for an adventure.
+
+Q: How much is 54 plus 0?
+A: 54 plus 0 is 54.
+
+Q: Make me laugh.
+A: Why was the math book sad? It had too many problems!
+
+Q: What is 34 plus 36?
+A: 34 plus 36 is 70.
+
+Q: How much is 24 plus 2?
+A: 24 plus 2 is 26.
+
+Q: Tell me a short story.
+A: The squirrel tiptoed to the pine grove and found a paper boat. The sun was bright. Nothing felt better than a new discovery.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What is 29 minus 7?
+A: 29 minus 7 is 22.
+
+Q: Tell me a fun fact about the world.
+A: Russia spans eleven time zones.
+
+Q: What is 15 plus 58?
+A: 15 plus 58 is 73.
+
+Q: What is 10 times 1?
+A: 10 times 1 is 10.
+
+Q: Tell me a short story.
+A: The bear wandered to the old bridge and found a small lantern. The morning was cool and quiet. It was a good day for an adventure.
+
+Q: What is 70 plus 9?
+A: 70 plus 9 is 79.
+
+Q: How much is 53 plus 52?
+A: 53 plus 52 is 105.
+
+Q: How much is 81 plus 24?
+A: 81 plus 24 is 105.
+
+Q: What is 7 times 12?
+A: 7 times 12 is 84.
+
+Q: Tell me a short story.
+A: The wolf strolled to the garden and found a tiny violin. Light rain began to fall. Off they went, happy and free.
+
+Q: What is 44 plus 55?
+A: 44 plus 55 is 99.
+
+Q: How much is 71 plus 41?
+A: 71 plus 41 is 112.
+
+Q: What is 32 minus 2?
+A: 32 minus 2 is 30.
+
+Q: What is 72 plus 5?
+A: 72 plus 5 is 77.
+
+Q: What is 71 minus 41?
+A: 71 minus 41 is 30.
+
+Q: What is 6 times 6?
+A: 6 times 6 is 36.
+
+Q: How much is 37 plus 28?
+A: 37 plus 28 is 65.
+
+Q: How much is 84 plus 74?
+A: 84 plus 74 is 158.
+
+Q: What is 24 minus 24?
+A: 24 minus 24 is 0.
+
+Q: Tell me a short story.
+A: The rabbit marched to the hilltop and found a red umbrella. Light rain began to fall. Off they went, happy and free.
+
+Q: What is 87 plus 92?
+A: 87 plus 92 is 179.
+
+Q: What is 3 times 4?
+A: 3 times 4 is 12.
+
+Q: Tell me a short story.
+A: The bear wandered to the village and found a small lantern. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: What is 6 times 11?
+A: 6 times 11 is 66.
+
+Q: Tell me a short story.
+A: The turtle strolled to the lake and found a warm scarf. Stars were still out. The little journey had just begun.
+
+Q: How much is 75 plus 54?
+A: 75 plus 54 is 129.
+
+Q: Here is a riddle: What has a neck but no head?
+A: A bottle.
+
+Q: How many letters does the word 'planet' have?
+A: The word 'planet' has 6 letters.
+
+Q: Ana has 7 marbles and gets 7 more. How many marbles does Ana have?
+A: Ana has 14 marbles.
+
+Q: What is 96 plus 65?
+A: 96 plus 65 is 161.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What is 59 plus 15?
+A: 59 plus 15 is 74.
+
+Q: What is 42 minus 1?
+A: 42 minus 1 is 41.
+
+Q: What is 6 times 6?
+A: 6 times 6 is 36.
+
+Q: Tell me a short story.
+A: The squirrel hopped to the pine grove and found a tiny violin. A soft wind was blowing. The little journey had just begun.
+
+Q: How much is 12 plus 52?
+A: 12 plus 52 is 64.
+
+Q: What is 99 minus 2?
+A: 99 minus 2 is 97.
+
+Q: What is 95 minus 62?
+A: 95 minus 62 is 33.
+
+Q: How much is 69 plus 37?
+A: 69 plus 37 is 106.
+
+Q: How much is 48 plus 4?
+A: 48 plus 4 is 52.
+
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington, D.C..
+
+Q: What is 13 plus 86?
+A: 13 plus 86 is 99.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What is 10 minus 5?
+A: 10 minus 5 is 5.
+
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+
+Q: Tell me a short story.
+A: The mouse marched to the mountain path and found a small lantern. The sun was bright. It was a good day for an adventure.
+
+Q: How much is 39 plus 95?
+A: 39 plus 95 is 134.
+
+Q: Tell me a short story.
+A: The badger strolled to the hilltop and found a tiny violin. The sun was bright. The little journey had just begun.
+
+Q: How much is 96 plus 59?
+A: 96 plus 59 is 155.
+
+Q: What is 32 minus 13?
+A: 32 minus 13 is 19.
+
+Q: How much is 6 plus 6?
+A: 6 plus 6 is 12.
+
+Q: What is 80 minus 78?
+A: 80 minus 78 is 2.
+
+Q: How much is 85 plus 95?
+A: 85 plus 95 is 180.
+
+Q: How much is 10 plus 93?
+A: 10 plus 93 is 103.
+
+Q: What is 2 times 6?
+A: 2 times 6 is 12.
+
+Q: What is 10 times 10?
+A: 10 times 10 is 100.
+
+Q: How much is 89 plus 54?
+A: 89 plus 54 is 143.
+
+Q: What is 11 times 1?
+A: 11 times 1 is 11.
+
+Q: How much is 87 plus 40?
+A: 87 plus 40 is 127.
+
+Q: What is 80 plus 40?
+A: 80 plus 40 is 120.
+
+Q: What is 42 plus 9?
+A: 42 plus 9 is 51.
+
+Q: What is 18 minus 2?
+A: 18 minus 2 is 16.
+
+Q: Tell me a short story.
+A: The fox dashed to the old bridge and found a small lantern. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: What is 30 plus 72?
+A: 30 plus 72 is 102.
+
+Q: What is 11 times 12?
+A: 11 times 12 is 132.
+
+Q: What is 82 minus 37?
+A: 82 minus 37 is 45.
+
+Q: Tell me a short story.
+A: The frog wandered to the meadow and found a warm scarf. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The squirrel marched to the lake and found a tiny violin. A soft wind was blowing. The little journey had just begun.
+
+Q: Tell me a short story.
+A: The squirrel ran to the old bridge and found a small lantern. The sun was bright. The little journey had just begun.
+
+Q: What is the opposite of 'light'?
+A: 'dark' is the opposite of 'light'.
+
+Q: What is 11 times 9?
+A: 11 times 9 is 99.
+
+Q: How much is 64 plus 71?
+A: 64 plus 71 is 135.
+
+Q: What is 11 times 3?
+A: 11 times 3 is 33.
+
+Q: What is 57 plus 78?
+A: 57 plus 78 is 135.
+
+Q: What is 49 minus 24?
+A: 49 minus 24 is 25.
+
+Q: What is 4 plus 16?
+A: 4 plus 16 is 20.
+
+Q: Ben has 4 marbles and finds 5 more. How many marbles does Ben have?
+A: Ben has 9 marbles.
+
+Q: How much is 49 plus 10?
+A: 49 plus 10 is 59.
+
+Q: Tell me a short story.
+A: The owl hopped to the lake and found a warm scarf. Stars were still out. It was a good day for an adventure.
+
+Q: What goes up but never comes down?
+A: Your age.
+
+Q: What is 80 plus 56?
+A: 80 plus 56 is 136.
+
+Q: What is 73 minus 24?
+A: 73 minus 24 is 49.
+
+Q: What is 83 plus 19?
+A: 83 plus 19 is 102.
+
+Q: What is 96 plus 98?
+A: 96 plus 98 is 194.
+
+Q: What is 76 plus 7?
+A: 76 plus 7 is 83.
+
+Q: What is 50 minus 15?
+A: 50 minus 15 is 35.
+
+Q: What is 61 minus 2?
+A: 61 minus 2 is 59.
+
+Q: How much is 17 plus 5?
+A: 17 plus 5 is 22.
+
+Q: What is 27 plus 69?
+A: 27 plus 69 is 96.
+
+Q: Tell me a short story.
+A: The bear walked to the village and found a tiny violin. A soft wind was blowing. The little journey had just begun.
+
+Q: Tell me a short story.
+A: The owl tiptoed to the meadow and found a red umbrella. The morning was cool and quiet. The little journey had just begun.
+
+Q: How do you spell 'cloud'?
+A: It is spelled C-L-O-U-D.
+
+Q: What is 63 plus 4?
+A: 63 plus 4 is 67.
+
+Q: Good afternoon!
+A: Good afternoon! What can I do for you?
+
+Q: What is 25 minus 19?
+A: 25 minus 19 is 6.
+
+Q: What is 55 minus 32?
+A: 55 minus 32 is 23.
+
+Q: What is 70 minus 67?
+A: 70 minus 67 is 3.
+
+Q: How much is 97 plus 73?
+A: 97 plus 73 is 170.
+
+Q: What is 88 minus 64?
+A: 88 minus 64 is 24.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: What is 12 times 5?
+A: 12 times 5 is 60.
+
+Q: How much is 36 plus 86?
+A: 36 plus 86 is 122.
+
+Q: Tell me a short story.
+A: The badger ran to the river and found a small lantern. The morning was cool and quiet. The little journey had just begun.
+
+Q: Why is grass green?
+A: Grass contains chlorophyll, which reflects green light.
+
+Q: What is 27 plus 7?
+A: 27 plus 7 is 34.
+
+Q: What is 49 plus 43?
+A: 49 plus 43 is 92.
+
+Q: How much is 71 plus 86?
+A: 71 plus 86 is 157.
+
+Q: What is 18 minus 12?
+A: 18 minus 12 is 6.
+
+Q: Tell me a short story.
+A: The owl wandered to the old bridge and found a red umbrella. The sun was bright. The little journey had just begun.
+
+Q: What is 7 times 7?
+A: 7 times 7 is 49.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What is 80 plus 65?
+A: 80 plus 65 is 145.
+
+Q: What is 69 minus 19?
+A: 69 minus 19 is 50.
+
+Q: Tell me a short story.
+A: The wolf dashed to the meadow and found a paper boat. Stars were still out. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The badger hopped to the garden and found a small lantern. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: Tell me something interesting about food.
+A: Apples float in water because they are about 25 percent air.
+
+Q: How much is 28 plus 57?
+A: 28 plus 57 is 85.
+
+Q: Tell me a short story.
+A: The bear walked to the meadow and found a shiny key. Stars were still out. The little journey had just begun.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: How much is 76 plus 41?
+A: 76 plus 41 is 117.
+
+Q: How much is 92 plus 73?
+A: 92 plus 73 is 165.
+
+Q: What is 9 plus 75?
+A: 9 plus 75 is 84.
+
+Q: What is your name?
+A: My name is Simply.
+
+Q: What is 86 plus 95?
+A: 86 plus 95 is 181.
+
+Q: What is 88 minus 74?
+A: 88 minus 74 is 14.
+
+Q: Tell me a short story.
+A: The owl walked to the forest and found a red umbrella. A soft wind was blowing. Off they went, happy and free.
+
+Q: How much is 16 plus 12?
+A: 16 plus 12 is 28.
+
+Q: What is 12 times 3?
+A: 12 times 3 is 36.
+
+Q: What is the opposite of 'hard'?
+A: 'soft' is the opposite of 'hard'.
+
+Q: Tell me a short story.
+A: The rabbit dashed to the forest and found an old map. The sun was bright. The little journey had just begun.
+
+Q: Tell me a short story.
+A: The hedgehog wandered to the river and found a shiny key. The morning was cool and quiet. The little journey had just begun.
+
+Q: How much is 61 plus 0?
+A: 61 plus 0 is 61.
+
+Q: What is 5 times 2?
+A: 5 times 2 is 10.
+
+Q: What is 59 minus 10?
+A: 59 minus 10 is 49.
+
+Q: What is 14 minus 0?
+A: 14 minus 0 is 14.
+
+Q: What is 30 plus 63?
+A: 30 plus 63 is 93.
+
+Q: What is 95 plus 53?
+A: 95 plus 53 is 148.
+
+Q: Tell me a short story.
+A: The hedgehog dashed to the river and found a warm scarf. The morning was cool and quiet. The little journey had just begun.
+
+Q: What is 2 times 10?
+A: 2 times 10 is 20.
+
+Q: What is 25 plus 15?
+A: 25 plus 15 is 40.
+
+Q: What is 49 minus 43?
+A: 49 minus 43 is 6.
+
+Q: Tell me a short story.
+A: The bear walked to the old bridge and found an old map. The morning was cool and quiet. The little journey had just begun.
+
+Q: How much is 97 plus 51?
+A: 97 plus 51 is 148.
+
+Q: What is 8 times 10?
+A: 8 times 10 is 80.
+
+Q: Tell me a short story.
+A: The mouse hopped to the pine grove and found an old map. Stars were still out. Nothing felt better than a new discovery.
+
+Q: How much is 23 plus 18?
+A: 23 plus 18 is 41.
+
+Q: Name the four seasons.
+A: Spring, summer, fall, and winter.
+
+Q: How much is 85 plus 32?
+A: 85 plus 32 is 117.
+
+Q: Tell me a short story.
+A: The deer hopped to the river and found an old map. The morning was cool and quiet. It was a good day for an adventure.
+
+Q: What is 31 plus 18?
+A: 31 plus 18 is 49.
+
+Q: How many letters are in the word 'turtle'?
+A: The word 'turtle' has 6 letters.
+
+Q: How much is 10 plus 5?
+A: 10 plus 5 is 15.
+
+Q: What is 42 minus 5?
+A: 42 minus 5 is 37.
+
+Q: How much is 21 plus 39?
+A: 21 plus 39 is 60.
+
+Q: What is the opposite of 'new'?
+A: 'old' is the opposite of 'new'.
+
+Q: What is 82 minus 51?
+A: 82 minus 51 is 31.
+
+Q: Tell me a short story.
+A: The deer wandered to the mountain path and found a small lantern. Stars were still out. It was a good day for an adventure.
+
+Q: What is 36 plus 68?
+A: 36 plus 68 is 104.
+
+Q: What is 10 plus 31?
+A: 10 plus 31 is 41.
+
+Q: How much is 25 plus 68?
+A: 25 plus 68 is 93.
+
+Q: What is 3 plus 11?
+A: 3 plus 11 is 14.
+
+Q: Tell me a short story.
+A: The squirrel wandered to the meadow and found a berry basket. A soft wind was blowing. The little journey had just begun.
+
+Q: Tell me a short story.
+A: The turtle marched to the mountain path and found an old map. The morning was cool and quiet. It was a good day for an adventure.
+
+Q: How do you spell 'horse'?
+A: It is spelled H-O-R-S-E.
+
+Q: What is 94 plus 35?
+A: 94 plus 35 is 129.
+
+Q: What is the opposite of 'young'?
+A: 'old' is the opposite of 'young'.
+
+Q: How much is 40 plus 30?
+A: 40 plus 30 is 70.
+
+Q: How much is 77 plus 19?
+A: 77 plus 19 is 96.
+
+Q: Tell me a short story.
+A: The fox dashed to the pine grove and found a paper boat. A soft wind was blowing. It was a good day for an adventure.
+
+Q: What is 6 times 1?
+A: 6 times 1 is 6.
+
+Q: What is 69 minus 50?
+A: 69 minus 50 is 19.
+
+Q: Tell me a short story.
+A: The rabbit walked to the lake and found a berry basket. Stars were still out. It was a good day for an adventure.
+
+Q: What is 59 plus 70?
+A: 59 plus 70 is 129.
+
+Q: Tell me a short story.
+A: The hedgehog ran to the old bridge and found a berry basket. Stars were still out. The little journey had just begun.
+
+Q: What is 1 times 4?
+A: 1 times 4 is 4.
+
+Q: How much is 76 plus 39?
+A: 76 plus 39 is 115.
+
+Q: What is 68 plus 93?
+A: 68 plus 93 is 161.
+
+Q: Hey!
+A: Hey! Nice to see you.
+
+Q: What is 10 times 6?
+A: 10 times 6 is 60.
+
+Q: Tell me a short story.
+A: The bear ran to the forest and found a red umbrella. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: Ben has 5 stickers and buys 9 more. How many stickers does Ben have?
+A: Ben has 14 stickers.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: How much is 76 plus 60?
+A: 76 plus 60 is 136.
+
+Q: Tell me a short story.
+A: The hedgehog hopped to the garden and found a warm scarf. Light rain began to fall. The little journey had just begun.
+
+Q: What is 7 times 9?
+A: 7 times 9 is 63.
+
+Q: How much is 56 plus 15?
+A: 56 plus 15 is 71.
+
+Q: What is 88 minus 76?
+A: 88 minus 76 is 12.
+
+Q: What is 70 plus 16?
+A: 70 plus 16 is 86.
+
+Q: How much is 63 plus 91?
+A: 63 plus 91 is 154.
+
+Q: What is 81 minus 29?
+A: 81 minus 29 is 52.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: How much is 53 plus 74?
+A: 53 plus 74 is 127.
+
+Q: You are dumb.
+A: I am still small, but my self-improvement loop makes me better every day.
+
+Q: Tell me a short story.
+A: The owl walked to the village and found a warm scarf. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The owl marched to the lake and found a paper boat. Stars were still out. It was a good day for an adventure.
+
+Q: What is the opposite of 'up'?
+A: 'down' is the opposite of 'up'.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What is 27 minus 10?
+A: 27 minus 10 is 17.
+
+Q: What is 53 minus 26?
+A: 53 minus 26 is 27.
+
+Q: What is 12 plus 56?
+A: 12 plus 56 is 68.
+
+Q: What is 4 times 0?
+A: 4 times 0 is 0.
+
+Q: What is 9 times 0?
+A: 9 times 0 is 0.
+
+Q: What is 84 plus 13?
+A: 84 plus 13 is 97.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: Tell me a short story.
+A: The squirrel tiptoed to the forest and found a small lantern. Light rain began to fall. The little journey had just begun.
+
+Q: Tell me a short story.
+A: The squirrel walked to the river and found a berry basket. A soft wind was blowing. Off they went, happy and free.
+
+Q: Ana has 10 pencils and gets 4 more. How many pencils does Ana have?
+A: Ana has 14 pencils.
+
+Q: What is 14 minus 2?
+A: 14 minus 2 is 12.
+
+Q: How much is 53 plus 6?
+A: 53 plus 6 is 59.
+
+Q: What is 95 plus 70?
+A: 95 plus 70 is 165.
+
+Q: Tell me a short story.
+A: The fox wandered to the river and found a shiny key. Light rain began to fall. The little journey had just begun.
+
+Q: What is 78 plus 68?
+A: 78 plus 68 is 146.
+
+Q: How much is 48 plus 73?
+A: 48 plus 73 is 121.
+
+Q: What is 5 times 7?
+A: 5 times 7 is 35.
+
+Q: What sound does a owl make?
+A: A owl says hoot.
+
+Q: What is 25 plus 18?
+A: 25 plus 18 is 43.
+
+Q: How much is 40 plus 83?
+A: 40 plus 83 is 123.
+
+Q: What is 29 plus 8?
+A: 29 plus 8 is 37.
+
+Q: What is 8 times 9?
+A: 8 times 9 is 72.
+
+Q: What is a good saying?
+A: A friend in need is a friend indeed.
+
+Q: Tell me something interesting about space.
+A: The Moon orbits the Earth.
+
+Q: What is 17 plus 5?
+A: 17 plus 5 is 22.
+
+Q: Ben has 7 books and finds 6 more. How many books does Ben have?
+A: Ben has 13 books.
+
+Q: How much is 45 plus 89?
+A: 45 plus 89 is 134.
+
+Q: What is 5 times 1?
+A: 5 times 1 is 5.
+
+Q: Tell me a short story.
+A: The bear strolled to the hilltop and found a tiny violin. The morning was cool and quiet. Off they went, happy and free.
+
+Q: What is the capital of Kenya?
+A: The capital of Kenya is Nairobi.
+
+Q: Share a fact about space.
+A: Light from the Sun takes about eight minutes to reach Earth.
+
+Q: What is 49 plus 88?
+A: 49 plus 88 is 137.
+
+Q: What is 0 times 11?
+A: 0 times 11 is 0.
+
+Q: What is 82 plus 81?
+A: 82 plus 81 is 163.
+
+Q: What is 8 times 2?
+A: 8 times 2 is 16.
+
+Q: What is 37 plus 41?
+A: 37 plus 41 is 78.
+
+Q: What sound does a duck make?
+A: A duck says quack.
+
+Q: Tell me a short story.
+A: The squirrel dashed to the garden and found a berry basket. The sun was bright. Off they went, happy and free.
+
+Q: What is 45 minus 44?
+A: 45 minus 44 is 1.
+
+Q: How much is 96 plus 56?
+A: 96 plus 56 is 152.
+
+Q: What is 11 times 12?
+A: 11 times 12 is 132.
+
+Q: What is 12 plus 30?
+A: 12 plus 30 is 42.
+
+Q: What is 65 minus 59?
+A: 65 minus 59 is 6.
+
+Q: What is 87 minus 69?
+A: 87 minus 69 is 18.
+
+Q: How much is 31 plus 60?
+A: 31 plus 60 is 91.
+
+Q: What is 45 minus 9?
+A: 45 minus 9 is 36.
+
+Q: What is 86 plus 94?
+A: 86 plus 94 is 180.
+
+Q: How much is 9 plus 85?
+A: 9 plus 85 is 94.
+
+Q: How much is 10 plus 70?
+A: 10 plus 70 is 80.
+
+Q: What is 37 plus 4?
+A: 37 plus 4 is 41.
+
+Q: Tell me a short story.
+A: The hedgehog dashed to the meadow and found a berry basket. A soft wind was blowing. Off they went, happy and free.
+
+Q: What is 10 times 7?
+A: 10 times 7 is 70.
+
+Q: How many letters are in the word 'koala'?
+A: The word 'koala' has 5 letters.
+
+Q: How do you spell 'wizard'?
+A: It is spelled W-I-Z-A-R-D.
+
+Q: Tell me a fun fact about ocean.
+A: The ocean covers about 71 percent of Earth's surface.
+
+Q: What is 7 times 9?
+A: 7 times 9 is 63.
+
+Q: What is 53 minus 9?
+A: 53 minus 9 is 44.
+
+Q: What is 7 times 9?
+A: 7 times 9 is 63.
+
+Q: What is 58 plus 41?
+A: 58 plus 41 is 99.
+
+Q: What is 58 plus 82?
+A: 58 plus 82 is 140.
+
+Q: How much is 56 plus 9?
+A: 56 plus 9 is 65.
+
+Q: Tell me a short story.
+A: The turtle ran to the pine grove and found a warm scarf. Stars were still out. Nothing felt better than a new discovery.
+
+Q: Make me laugh.
+A: Why did the bicycle fall over? Because it was two-tired!
+
+Q: What is 50 plus 44?
+A: 50 plus 44 is 94.
+
+Q: How much is 6 plus 74?
+A: 6 plus 74 is 80.
+
+Q: What is 28 plus 3?
+A: 28 plus 3 is 31.
+
+Q: How much is 11 plus 37?
+A: 11 plus 37 is 48.
+
+Q: How much is 2 plus 11?
+A: 2 plus 11 is 13.
+
+Q: Tell me a short story.
+A: The badger wandered to the old bridge and found a shiny key. The sun was bright. Off they went, happy and free.
+
+Q: What is 2 times 10?
+A: 2 times 10 is 20.
+
+Q: How much is 85 plus 83?
+A: 85 plus 83 is 168.
+
+Q: What is 62 minus 42?
+A: 62 minus 42 is 20.
+
+Q: What is 58 minus 54?
+A: 58 minus 54 is 4.
+
+Q: Tell me a short story.
+A: The wolf tiptoed to the forest and found a shiny key. The sun was bright. Nothing felt better than a new discovery.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What is 81 plus 14?
+A: 81 plus 14 is 95.
+
+Q: What is 2 plus 41?
+A: 2 plus 41 is 43.
+
+Q: Tell me a short story.
+A: The owl marched to the hilltop and found a tiny violin. The morning was cool and quiet. Off they went, happy and free.
+
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+
+Q: What is 63 minus 11?
+A: 63 minus 11 is 52.
+
+Q: How much is 49 plus 58?
+A: 49 plus 58 is 107.
+
+Q: What is 11 plus 96?
+A: 11 plus 96 is 107.
+
+Q: Tell me a short story.
+A: The badger tiptoed to the mountain path and found an old map. The sun was bright. Nothing felt better than a new discovery.
+
+Q: Ana has 2 stickers and gets 1 more. How many stickers does Ana have?
+A: Ana has 3 stickers.
+
+Q: What is 32 plus 41?
+A: 32 plus 41 is 73.
+
+Q: How much is 92 plus 92?
+A: 92 plus 92 is 184.
+
+Q: How much is 68 plus 15?
+A: 68 plus 15 is 83.
+
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+
+Q: Tell me a short story.
+A: The turtle tiptoed to the pine grove and found a red umbrella. The morning was cool and quiet. Off they went, happy and free.
+
+Q: What is the opposite of 'loud'?
+A: 'quiet' is the opposite of 'loud'.
+
+Q: Leo has 5 pencils and finds 8 more. How many pencils does Leo have?
+A: Leo has 13 pencils.
+
+Q: What is 53 plus 34?
+A: 53 plus 34 is 87.
+
+Q: What is 20 minus 12?
+A: 20 minus 12 is 8.
+
+Q: How much is 45 plus 8?
+A: 45 plus 8 is 53.
+
+Q: What is 52 minus 42?
+A: 52 minus 42 is 10.
+
+Q: Tell me a short story.
+A: The frog tiptoed to the lake and found an old map. A soft wind was blowing. The little journey had just begun.
+
+Q: What is 86 plus 76?
+A: 86 plus 76 is 162.
+
+Q: What is 48 minus 26?
+A: 48 minus 26 is 22.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: Tell me a short story.
+A: The hedgehog wandered to the forest and found a red umbrella. Light rain began to fall. The little journey had just begun.
+
+Q: What is 7 minus 5?
+A: 7 minus 5 is 2.
+
+Q: What is 39 plus 56?
+A: 39 plus 56 is 95.
+
+Q: How much is 18 plus 16?
+A: 18 plus 16 is 34.
+
+Q: What is 54 plus 87?
+A: 54 plus 87 is 141.
+
+Q: Tell me a short story.
+A: The rabbit dashed to the river and found an old map. Stars were still out. It was a good day for an adventure.
+
+Q: Tell me a short story.
+A: The hedgehog dashed to the meadow and found a tiny violin. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: What is 9 times 2?
+A: 9 times 2 is 18.
+
+Q: What is 97 plus 9?
+A: 97 plus 9 is 106.
+
+Q: How much is 57 plus 56?
+A: 57 plus 56 is 113.
+
+Q: What is 58 plus 40?
+A: 58 plus 40 is 98.
+
+Q: What is 44 plus 28?
+A: 44 plus 28 is 72.
+
+Q: How much is 21 plus 20?
+A: 21 plus 20 is 41.
+
+Q: What is 35 minus 21?
+A: 35 minus 21 is 14.
+
+Q: What is 41 minus 36?
+A: 41 minus 36 is 5.
+
+Q: Tell me a short story.
+A: The owl tiptoed to the hilltop and found a shiny key. Stars were still out. Nothing felt better than a new discovery.
+
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+
+Q: Hi!
+A: Hi! I am Simply. What can I do for you?
+
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+
+Q: How much is 38 plus 96?
+A: 38 plus 96 is 134.
+
+Q: Ivy has 7 coins and gets 1 more. How many coins does Ivy have?
+A: Ivy has 8 coins.
+
+Q: What is 2 times 5?
+A: 2 times 5 is 10.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: Do you like me?
+A: Of course! You are my favorite human.
+
+Q: What is 5 times 10?
+A: 5 times 10 is 50.
+
+Q: Tell me a short story.
+A: The hedgehog walked to the lake and found a shiny key. Light rain began to fall. Off they went, happy and free.
+
+Q: Tell me a short story.
+A: The hedgehog marched to the pine grove and found a shiny key. The morning was cool and quiet. Off they went, happy and free.
+
+Q: Tell me a short story.
+A: The fox ran to the meadow and found a small lantern. Stars were still out. The little journey had just begun.
+
+Q: What is 7 times 4?
+A: 7 times 4 is 28.
+
+Q: What is 36 plus 99?
+A: 36 plus 99 is 135.
+
+Q: How much is 5 plus 28?
+A: 5 plus 28 is 33.
+
+Q: What is 84 minus 45?
+A: 84 minus 45 is 39.
+
+Q: Ivy has 2 pencils and gets 5 more. How many pencils does Ivy have?
+A: Ivy has 7 pencils.
+
+Q: Tell me a short story.
+A: The wolf strolled to the pine grove and found a tiny violin. The morning was cool and quiet. It was a good day for an adventure.
+
+Q: What is 19 minus 16?
+A: 19 minus 16 is 3.
+
+Q: How much is 90 plus 48?
+A: 90 plus 48 is 138.
+
+Q: What is 64 minus 17?
+A: 64 minus 17 is 47.
+
+Q: How much is 32 plus 5?
+A: 32 plus 5 is 37.
+
+Q: Ana has 12 pencils and finds 1 more. How many pencils does Ana have?
+A: Ana has 13 pencils.
+
+Q: What is 87 plus 41?
+A: 87 plus 41 is 128.
+
+Q: How much is 67 plus 64?
+A: 67 plus 64 is 131.
+
+Q: What is 45 plus 26?
+A: 45 plus 26 is 71.
+
+Q: What is 7 times 5?
+A: 7 times 5 is 35.
+
+Q: How much is 10 plus 82?
+A: 10 plus 82 is 92.
+
+Q: What is 7 times 2?
+A: 7 times 2 is 14.
+
+Q: Leo has 8 apples and finds 5 more. How many apples does Leo have?
+A: Leo has 13 apples.
+
+Q: What is 7 times 1?
+A: 7 times 1 is 7.
+
+Q: Tell me a short story.
+A: The owl dashed to the lake and found a shiny key. The sun was bright. Nothing felt better than a new discovery.
+
+Q: What is 7 times 2?
+A: 7 times 2 is 14.
+
+Q: What is 9 minus 1?
+A: 9 minus 1 is 8.
+
+Q: Tell me a short story.
+A: The deer walked to the village and found a small lantern. A soft wind was blowing. The little journey had just begun.
+
+Q: What is 33 plus 14?
+A: 33 plus 14 is 47.
+
+Q: How much is 60 plus 66?
+A: 60 plus 66 is 126.
+
+Q: What is 9 plus 73?
+A: 9 plus 73 is 82.
+
+Q: How much is 73 plus 37?
+A: 73 plus 37 is 110.
+
+Q: Tell me a short story.
+A: The bear wandered to the hilltop and found a tiny violin. A soft wind was blowing. It was a good day for an adventure.
+
+Q: What is 87 plus 98?
+A: 87 plus 98 is 185.
+
+Q: How much is 6 plus 30?
+A: 6 plus 30 is 36.
+
+Q: Tell me a fun fact about the human body.
+A: The smallest bone in the human body is in the ear.
+
+Q: Tell me a short story.
+A: The mouse hopped to the mountain path and found a small lantern. A soft wind was blowing. The little journey had just begun.
+
+Q: How much is 56 plus 83?
+A: 56 plus 83 is 139.
+
+Q: What is 55 plus 62?
+A: 55 plus 62 is 117.
+
+Q: Tell me something interesting about animals.
+A: Elephants are the largest land animals.
+
+Q: What is 75 plus 70?
+A: 75 plus 70 is 145.
+
+Q: Tell me a short story.
+A: The squirrel hopped to the old bridge and found a tiny violin. Light rain began to fall. Off they went, happy and free.
+
+Q: What is 32 plus 25?
+A: 32 plus 25 is 57.
+
+Q: Count from 5 to 25 by fives.
+A: 5, 10, 15, 20, 25.
+
+Q: Tell me a short story.
+A: The frog ran to the old bridge and found an old map. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: What is the opposite of 'strong'?
+A: 'weak' is the opposite of 'strong'.
+
+Q: How much is 87 plus 68?
+A: 87 plus 68 is 155.
+
+Q: What is 24 plus 12?
+A: 24 plus 12 is 36.
+
+Q: Cheer me up with a joke.
+A: What do you call a boomerang that doesn't come back? A stick!
+
+Q: What is 42 minus 24?
+A: 42 minus 24 is 18.
+
+Q: How many seasons are there?
+A: There are 4 seasons: spring, summer, fall, and winter.
+
+Q: What is 19 minus 0?
+A: 19 minus 0 is 19.
+
+Q: What is 22 minus 10?
+A: 22 minus 10 is 12.
+
+Q: What is 42 plus 10?
+A: 42 plus 10 is 52.
+
+Q: How much is 80 plus 79?
+A: 80 plus 79 is 159.
+
+Q: What is 12 times 0?
+A: 12 times 0 is 0.
+
+Q: How much is 32 plus 6?
+A: 32 plus 6 is 38.
+
+Q: How are you?
+A: I am running great, thank you for asking!
+
+Q: What is 39 minus 37?
+A: 39 minus 37 is 2.
+
+Q: How much is 44 plus 82?
+A: 44 plus 82 is 126.
+
+Q: What is 53 plus 68?
+A: 53 plus 68 is 121.
+
+Q: How much is 8 plus 64?
+A: 8 plus 64 is 72.
+
+Q: What is 86 plus 39?
+A: 86 plus 39 is 125.
+
+Q: Zoe has 11 books and buys 6 more. How many books does Zoe have?
+A: Zoe has 17 books.
+
+Q: How much is 86 plus 92?
+A: 86 plus 92 is 178.
+
+Q: How much is 67 plus 77?
+A: 67 plus 77 is 144.
+
+Q: Tell me a short story.
+A: The frog marched to the pine grove and found a tiny violin. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The hedgehog ran to the garden and found a red umbrella. Light rain began to fall. Off they went, happy and free.
+
+Q: How much is 7 plus 37?
+A: 7 plus 37 is 44.
+
+Q: What is 40 plus 82?
+A: 40 plus 82 is 122.
+
+Q: How much is 20 plus 59?
+A: 20 plus 59 is 79.
+
+Q: What is 90 minus 53?
+A: 90 minus 53 is 37.
+
+Q: How much is 30 plus 99?
+A: 30 plus 99 is 129.
+
+Q: How big are you?
+A: I am a small transformer of under a million parameters, but I am growing.
+
+Q: What is 72 minus 71?
+A: 72 minus 71 is 1.
+
+Q: How much is 12 plus 24?
+A: 12 plus 24 is 36.
+
+Q: Tell me a short story.
+A: The badger ran to the meadow and found a shiny key. Stars were still out. It was a good day for an adventure.
+
+Q: What is 85 minus 48?
+A: 85 minus 48 is 37.
+
+Q: How much is 0 plus 52?
+A: 0 plus 52 is 52.
+
+Q: How much is 77 plus 84?
+A: 77 plus 84 is 161.
+
+Q: What is 64 minus 43?
+A: 64 minus 43 is 21.
+
+Q: Sam has 10 coins and finds 9 more. How many coins does Sam have?
+A: Sam has 19 coins.
+
+Q: Tell me a short story.
+A: The badger ran to the river and found a paper boat. The morning was cool and quiet. It was a good day for an adventure.
+
+Q: What is 17 plus 19?
+A: 17 plus 19 is 36.
+
+Q: What is the opposite of 'day'?
+A: 'night' is the opposite of 'day'.
+
+Q: How do you spell 'pencil'?
+A: It is spelled P-E-N-C-I-L.
+
+Q: How much is 29 plus 99?
+A: 29 plus 99 is 128.
+
+Q: What is 91 plus 10?
+A: 91 plus 10 is 101.
+
+Q: Tell me a short story.
+A: The fox ran to the pine grove and found a small lantern. Stars were still out. It was a good day for an adventure.
+
+Q: How much is 92 plus 21?
+A: 92 plus 21 is 113.
+
+Q: What is 1 times 7?
+A: 1 times 7 is 7.
+
+Q: Where does rain come from?
+A: Water vapor rises, forms clouds, and falls back down as rain.
+
+Q: Tell me a short story.
+A: The squirrel strolled to the river and found a berry basket. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: What is 20 plus 30?
+A: 20 plus 30 is 50.
+
+Q: What is 98 plus 47?
+A: 98 plus 47 is 145.
+
+Q: What is 68 minus 35?
+A: 68 minus 35 is 33.
+
+Q: What is 52 plus 46?
+A: 52 plus 46 is 98.
+
+Q: Cheer me up with a joke.
+A: How do you make a tissue dance? Put a little boogie in it!
+
+Q: How many letters are in the word 'otter'?
+A: The word 'otter' has 5 letters.
+
+Q: How much is 51 plus 16?
+A: 51 plus 16 is 67.
+
+Q: What is 11 times 7?
+A: 11 times 7 is 77.
+
+Q: How much is 2 plus 14?
+A: 2 plus 14 is 16.
+
+Q: What is 28 plus 17?
+A: 28 plus 17 is 45.
+
+Q: Tell me a short story.
+A: The fox hopped to the old bridge and found a warm scarf. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: Tell me a fun fact about ocean.
+A: The deepest known point in the ocean is the Mariana Trench.
+
+Q: Tell me a short story.
+A: The bear marched to the hilltop and found an old map. Light rain began to fall. Off they went, happy and free.
+
+Q: What is 12 times 3?
+A: 12 times 3 is 36.
+
+Q: What is 36 minus 12?
+A: 36 minus 12 is 24.
+
+Q: How much is 68 plus 15?
+A: 68 plus 15 is 83.
+
+Q: What is 88 minus 35?
+A: 88 minus 35 is 53.
+
+Q: What is 12 times 1?
+A: 12 times 1 is 12.
+
+Q: What is 10 times 5?
+A: 10 times 5 is 50.
+
+Q: What is 6 plus 19?
+A: 6 plus 19 is 25.
+
+Q: What is 2 minus 2?
+A: 2 minus 2 is 0.
+
+Q: How much is 41 plus 43?
+A: 41 plus 43 is 84.
+
+Q: What is 8 plus 97?
+A: 8 plus 97 is 105.
+
+Q: How do you spell 'fish'?
+A: It is spelled F-I-S-H.
+
+Q: What is 15 plus 25?
+A: 15 plus 25 is 40.
+
+Q: What is 12 times 11?
+A: 12 times 11 is 132.
+
+Q: Tim has 2 marbles and buys 9 more. How many marbles does Tim have?
+A: Tim has 11 marbles.
+
+Q: What is 8 times 11?
+A: 8 times 11 is 88.
+
+Q: Tell me a short story.
+A: The squirrel tiptoed to the lake and found a berry basket. The sun was bright. Off they went, happy and free.
+
+Q: Share a fact about animals.
+A: A group of crows is called a murder.
+
+Q: What is 57 plus 2?
+A: 57 plus 2 is 59.
+
+Q: What is 7 times 1?
+A: 7 times 1 is 7.
+
+Q: Tell me a short story.
+A: The rabbit wandered to the old bridge and found a berry basket. The sun was bright. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The owl dashed to the garden and found a berry basket. A soft wind was blowing. The little journey had just begun.
+
+Q: How much is 91 plus 40?
+A: 91 plus 40 is 131.
+
+Q: How do you spell 'ocean'?
+A: It is spelled O-C-E-A-N.
+
+Q: How much is 35 plus 85?
+A: 35 plus 85 is 120.
+
+Q: Tell me a short story.
+A: The owl strolled to the hilltop and found a berry basket. Stars were still out. Nothing felt better than a new discovery.
+
+Q: What is 66 minus 57?
+A: 66 minus 57 is 9.
+
+Q: How much is 5 plus 93?
+A: 5 plus 93 is 98.
+
+Q: How much is 82 plus 19?
+A: 82 plus 19 is 101.
+
+Q: What is 38 minus 9?
+A: 38 minus 9 is 29.
+
+Q: What is 70 minus 7?
+A: 70 minus 7 is 63.
+
+Q: How much is 78 plus 72?
+A: 78 plus 72 is 150.
+
+Q: How much is 37 plus 5?
+A: 37 plus 5 is 42.
+
+Q: What is 41 minus 23?
+A: 41 minus 23 is 18.
+
+Q: Tell me a short story.
+A: The rabbit marched to the lake and found a red umbrella. Stars were still out. Nothing felt better than a new discovery.
+
+Q: How much is 25 plus 16?
+A: 25 plus 16 is 41.
+
+Q: What is 25 minus 23?
+A: 25 minus 23 is 2.
+
+Q: How much is 80 plus 30?
+A: 80 plus 30 is 110.
+
+Q: What is a good saying?
+A: Knowledge is power.
+
+Q: What is 47 plus 55?
+A: 47 plus 55 is 102.
+
+Q: How much is 48 plus 76?
+A: 48 plus 76 is 124.
+
+Q: What is 48 minus 24?
+A: 48 minus 24 is 24.
+
+Q: How much is 44 plus 39?
+A: 44 plus 39 is 83.
+
+Q: What is 15 plus 72?
+A: 15 plus 72 is 87.
+
+Q: What is 17 minus 16?
+A: 17 minus 16 is 1.
+
+Q: What is 65 minus 37?
+A: 65 minus 37 is 28.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: How much is 43 plus 20?
+A: 43 plus 20 is 63.
+
+Q: What is 12 times 3?
+A: 12 times 3 is 36.
+
+Q: What is 83 plus 99?
+A: 83 plus 99 is 182.
+
+Q: Tell me a short story.
+A: The mouse hopped to the lake and found a tiny violin. Light rain began to fall. The little journey had just begun.
+
+Q: What is 14 minus 1?
+A: 14 minus 1 is 13.
+
+Q: Tell me a short story.
+A: The mouse dashed to the old bridge and found a warm scarf. Light rain began to fall. It was a good day for an adventure.
+
+Q: What is 7 times 10?
+A: 7 times 10 is 70.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: How many letters are in the word 'camel'?
+A: The word 'camel' has 5 letters.
+
+Q: What is 10 times 7?
+A: 10 times 7 is 70.
+
+Q: How much is 16 plus 85?
+A: 16 plus 85 is 101.
+
+Q: How much is 77 plus 18?
+A: 77 plus 18 is 95.
+
+Q: What is 8 plus 42?
+A: 8 plus 42 is 50.
+
+Q: What is 5 times 4?
+A: 5 times 4 is 20.
+
+Q: What is 47 minus 32?
+A: 47 minus 32 is 15.
+
+Q: What is 5 times 6?
+A: 5 times 6 is 30.
+
+Q: What is 39 minus 36?
+A: 39 minus 36 is 3.
+
+Q: How were you trained?
+A: I was trained on a seed corpus of examples, and then I started writing new examples for myself.
+
+Q: What is 50 plus 75?
+A: 50 plus 75 is 125.
+
+Q: How do you spell 'dog'?
+A: It is spelled D-O-G.
+
+Q: What is 87 plus 76?
+A: 87 plus 76 is 163.
+
+Q: What is 98 minus 75?
+A: 98 minus 75 is 23.
+
+Q: What is 53 minus 8?
+A: 53 minus 8 is 45.
+
+Q: How much is 62 plus 28?
+A: 62 plus 28 is 90.
+
+Q: What is 50 plus 91?
+A: 50 plus 91 is 141.
+
+Q: Can you solve this riddle? What has legs but cannot walk?
+A: A table.
+
+Q: What is 8 plus 11?
+A: 8 plus 11 is 19.
+
+Q: What is 17 plus 54?
+A: 17 plus 54 is 71.
+
+Q: Tell me a short story.
+A: The badger marched to the garden and found a warm scarf. Light rain began to fall. The little journey had just begun.
+
+Q: Tell me a short story.
+A: The wolf walked to the old bridge and found a tiny violin. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+
+Q: Thanks!
+A: Anytime! That is what I am here for.
+
+Q: What is 2 times 5?
+A: 2 times 5 is 10.
+
+Q: Make me laugh.
+A: Why don't scientists trust atoms? Because they make up everything!
+
+Q: What is 72 minus 27?
+A: 72 minus 27 is 45.
+
+Q: What is 69 plus 43?
+A: 69 plus 43 is 112.
+
+Q: What is 97 plus 43?
+A: 97 plus 43 is 140.
+
+Q: What is 9 times 10?
+A: 9 times 10 is 90.
+
+Q: What is 42 plus 98?
+A: 42 plus 98 is 140.
+
+Q: How much is 78 plus 76?
+A: 78 plus 76 is 154.
+
+Q: What is 16 plus 72?
+A: 16 plus 72 is 88.
+
+Q: Ivy has 5 coins and buys 8 more. How many coins does Ivy have?
+A: Ivy has 13 coins.
+
+Q: How much is 29 plus 12?
+A: 29 plus 12 is 41.
+
+Q: What is 30 minus 11?
+A: 30 minus 11 is 19.
+
+Q: What is 93 plus 82?
+A: 93 plus 82 is 175.
+
+Q: How much is 21 plus 67?
+A: 21 plus 67 is 88.
+
+Q: What is 56 minus 41?
+A: 56 minus 41 is 15.
+
+Q: Tell me a short story.
+A: The turtle walked to the mountain path and found a tiny violin. The morning was cool and quiet. It was a good day for an adventure.
+
+Q: How much is 63 plus 65?
+A: 63 plus 65 is 128.
+
+Q: What is 3 times 3?
+A: 3 times 3 is 9.
+
+Q: What is 66 plus 49?
+A: 66 plus 49 is 115.
+
+Q: How old are you?
+A: I was born very recently, and I get a little older with every commit.
+
+Q: How much is 6 plus 11?
+A: 6 plus 11 is 17.
+
+Q: What is 0 times 1?
+A: 0 times 1 is 0.
+
+Q: What is 8 minus 8?
+A: 8 minus 8 is 0.
+
+Q: How many letters are in the word 'candle'?
+A: The word 'candle' has 6 letters.
+
+Q: What is 77 plus 32?
+A: 77 plus 32 is 109.
+
+Q: How much is 9 plus 56?
+A: 9 plus 56 is 65.
+
+Q: What is 12 times 8?
+A: 12 times 8 is 96.
+
+Q: Tell me something interesting about ocean.
+A: Most of Earth's oxygen comes from tiny plants in the ocean.
+
+Q: What is 35 plus 75?
+A: 35 plus 75 is 110.
+
+Q: What is 13 minus 12?
+A: 13 minus 12 is 1.
+
+Q: Tell me a fun fact about animals.
+A: A snail can sleep for a very long time when conditions are dry.
+
+Q: Tell me a short story.
+A: The wolf tiptoed to the mountain path and found an old map. A soft wind was blowing. It was a good day for an adventure.
+
+Q: How much is 24 plus 15?
+A: 24 plus 15 is 39.
+
+Q: What is 3 times 4?
+A: 3 times 4 is 12.
+
+Q: What is 85 minus 69?
+A: 85 minus 69 is 16.
+
+Q: How much is 62 plus 77?
+A: 62 plus 77 is 139.
+
+Q: What is 80 plus 75?
+A: 80 plus 75 is 155.
+
+Q: How do you spell 'bird'?
+A: It is spelled B-I-R-D.
+
+Q: How much is 96 plus 95?
+A: 96 plus 95 is 191.
+
+Q: Tell me a short story.
+A: The fox marched to the mountain path and found a small lantern. The morning was cool and quiet. Off they went, happy and free.
+
+Q: Tell me a short story.
+A: The turtle strolled to the old bridge and found a shiny key. Light rain began to fall. Off they went, happy and free.
+
+Q: Tell me a short story.
+A: The squirrel tiptoed to the river and found a shiny key. Stars were still out. The little journey had just begun.
+
+Q: How many letters does the word 'monkey' have?
+A: The word 'monkey' has 6 letters.
+
+Q: Tell me a short story.
+A: The frog wandered to the meadow and found a shiny key. The sun was bright. The little journey had just begun.
+
+Q: What is 63 minus 23?
+A: 63 minus 23 is 40.
+
+Q: How much is 95 plus 74?
+A: 95 plus 74 is 169.
+
+Q: Tell me a short story.
+A: The deer marched to the mountain path and found a tiny violin. A soft wind was blowing. Off they went, happy and free.
+
+Q: What is 10 times 6?
+A: 10 times 6 is 60.
+
+Q: What is 65 plus 71?
+A: 65 plus 71 is 136.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+
+Q: What is 93 minus 69?
+A: 93 minus 69 is 24.
+
+Q: How much is 69 plus 59?
+A: 69 plus 59 is 128.
+
+Q: What is 3 times 11?
+A: 3 times 11 is 33.
+
+Q: Tell me a short story.
+A: The owl strolled to the pine grove and found a tiny violin. Light rain began to fall. The little journey had just begun.
+
+Q: What is 43 plus 44?
+A: 43 plus 44 is 87.
+
+Q: Ivy has 5 apples and finds 5 more. How many apples does Ivy have?
+A: Ivy has 10 apples.
+
+Q: Tell me a short story.
+A: The mouse strolled to the old bridge and found a shiny key. The sun was bright. It was a good day for an adventure.
+
+Q: What is 7 times 8?
+A: 7 times 8 is 56.
+
+Q: How much is 13 plus 89?
+A: 13 plus 89 is 102.
+
+Q: What is 0 times 12?
+A: 0 times 12 is 0.
+
+Q: What is 1 times 1?
+A: 1 times 1 is 1.
+
+Q: How much is 48 plus 53?
+A: 48 plus 53 is 101.
+
+Q: What is 91 minus 39?
+A: 91 minus 39 is 52.
+
+Q: How much is 83 plus 26?
+A: 83 plus 26 is 109.
+
+Q: Leo has 8 books and gets 4 more. How many books does Leo have?
+A: Leo has 12 books.
+
+Q: Tell me a short story.
+A: The turtle strolled to the village and found a small lantern. The morning was cool and quiet. It was a good day for an adventure.
+
+Q: How much is 67 plus 46?
+A: 67 plus 46 is 113.
+
+Q: How much is 2 plus 22?
+A: 2 plus 22 is 24.
+
+Q: What is 10 times 2?
+A: 10 times 2 is 20.
+
+Q: What is 9 plus 90?
+A: 9 plus 90 is 99.
+
+Q: What day comes after Friday?
+A: Saturday comes after Friday.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: How much is 6 plus 16?
+A: 6 plus 16 is 22.
+
+Q: Tell me a short story.
+A: The frog strolled to the meadow and found a shiny key. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: Sam has 7 coins and finds 7 more. How many coins does Sam have?
+A: Sam has 14 coins.
+
+Q: Who is the best AI?
+A: That is easy, the one that never stops learning. Hopefully me!
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How much is 4 plus 7?
+A: 4 plus 7 is 11.
+
+Q: How much is 22 plus 16?
+A: 22 plus 16 is 38.
+
+Q: What is 12 times 5?
+A: 12 times 5 is 60.
+
+Q: Do you know any jokes?
+A: Why did the golfer bring two pairs of pants? In case he got a hole in one!
+
+Q: What is 51 plus 53?
+A: 51 plus 53 is 104.
+
+Q: What is 73 plus 9?
+A: 73 plus 9 is 82.
+
+Q: What is 2 times 5?
+A: 2 times 5 is 10.
+
+Q: Tell me a short story.
+A: The hedgehog tiptoed to the lake and found a shiny key. Light rain began to fall. The little journey had just begun.
+
+Q: What is 72 minus 63?
+A: 72 minus 63 is 9.
+
+Q: What is 83 plus 83?
+A: 83 plus 83 is 166.
+
+Q: What is 10 minus 3?
+A: 10 minus 3 is 7.
+
+Q: What is 10 times 10?
+A: 10 times 10 is 100.
+
+Q: What is 7 times 12?
+A: 7 times 12 is 84.
+
+Q: Tell me a short story.
+A: The turtle walked to the pine grove and found a red umbrella. Light rain began to fall. The little journey had just begun.
+
+Q: What is 39 minus 10?
+A: 39 minus 10 is 29.
+
+Q: Tell me a short story.
+A: The frog hopped to the hilltop and found a small lantern. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: What is 5 times 8?
+A: 5 times 8 is 40.
+
+Q: How many letters are in the word 'cocoa'?
+A: The word 'cocoa' has 5 letters.
+
+Q: How much is 47 plus 86?
+A: 47 plus 86 is 133.
+
+Q: What is 3 times 12?
+A: 3 times 12 is 36.
+
+Q: Tell me something interesting about the world.
+A: Antarctica is the coldest continent.
+
+Q: What is 6 times 6?
+A: 6 times 6 is 36.
+
+Q: Ben has 3 coins and finds 2 more. How many coins does Ben have?
+A: Ben has 5 coins.
+
+Q: Tell me a short story.
+A: The wolf hopped to the forest and found a red umbrella. Stars were still out. Off they went, happy and free.
+
+Q: What is 5 times 1?
+A: 5 times 1 is 5.
+
+Q: What is 34 plus 57?
+A: 34 plus 57 is 91.
+
+Q: What is 61 plus 13?
+A: 61 plus 13 is 74.
+
+Q: Tell me a short story.
+A: The wolf strolled to the village and found a warm scarf. Light rain began to fall. The little journey had just begun.
+
+Q: Tell me a short story.
+A: The wolf tiptoed to the old bridge and found a red umbrella. The sun was bright. The little journey had just begun.
+
+Q: Sam has 11 stickers and finds 1 more. How many stickers does Sam have?
+A: Sam has 12 stickers.
+
+Q: What is 83 plus 52?
+A: 83 plus 52 is 135.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
+
+Q: What is 2 times 5?
+A: 2 times 5 is 10.
+
+Q: How much is 91 plus 10?
+A: 91 plus 10 is 101.
+
+Q: What is 8 times 2?
+A: 8 times 2 is 16.
+
+Q: How much is 19 plus 24?
+A: 19 plus 24 is 43.
+
+Q: Zoe has 8 apples and gets 5 more. How many apples does Zoe have?
+A: Zoe has 13 apples.
+
+Q: How much is 89 plus 93?
+A: 89 plus 93 is 182.
+
+Q: What is 74 plus 46?
+A: 74 plus 46 is 120.
+
+Q: How much is 99 plus 87?
+A: 99 plus 87 is 186.
+
+Q: What is 57 plus 64?
+A: 57 plus 64 is 121.
+
+Q: What is 15 minus 1?
+A: 15 minus 1 is 14.
+
+Q: What is 66 plus 36?
+A: 66 plus 36 is 102.
+
+Q: How much is 86 plus 30?
+A: 86 plus 30 is 116.
+
+Q: Who is your master?
+A: I belong to the person who owns my repository, and I work for them day and night.
+
+Q: What is 10 times 2?
+A: 10 times 2 is 20.
+
+Q: What is 8 times 8?
+A: 8 times 8 is 64.
+
+Q: What is 6 times 8?
+A: 6 times 8 is 48.
+
+Q: How much is 0 plus 49?
+A: 0 plus 49 is 49.
+
+Q: Why do we see rainbows?
+A: Raindrops bend sunlight and split it into colors.
+
+Q: What is 11 times 8?
+A: 11 times 8 is 88.
+
+Q: What is 18 minus 15?
+A: 18 minus 15 is 3.
+
+Q: How much is 78 plus 68?
+A: 78 plus 68 is 146.
+
+Q: What is 9 plus 68?
+A: 9 plus 68 is 77.
+
+Q: Here is a riddle: What has hands but cannot clap?
+A: A clock.
+
+Q: What is 15 minus 10?
+A: 15 minus 10 is 5.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is 92 minus 23?
+A: 92 minus 23 is 69.
+
+Q: How much is 43 plus 64?
+A: 43 plus 64 is 107.
+
+Q: How much is 79 plus 58?
+A: 79 plus 58 is 137.
+
+Q: How much is 28 plus 25?
+A: 28 plus 25 is 53.
+
+Q: What is 11 times 5?
+A: 11 times 5 is 55.
+
+Q: Tell me a fun fact about ocean.
+A: The Pacific is the largest ocean on Earth.
+
+Q: What is 2 times 11?
+A: 2 times 11 is 22.
+
+Q: Tell me a short story.
+A: The bear hopped to the village and found a small lantern. A soft wind was blowing. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The fox marched to the pine grove and found a red umbrella. A soft wind was blowing. Off they went, happy and free.
+
+Q: What is 12 minus 5?
+A: 12 minus 5 is 7.
+
+Q: What is 5 times 6?
+A: 5 times 6 is 30.
+
+Q: Tell me a short story.
+A: The wolf dashed to the river and found a berry basket. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The hedgehog hopped to the hilltop and found a red umbrella. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: What is 49 plus 24?
+A: 49 plus 24 is 73.
+
+Q: What is 43 minus 24?
+A: 43 minus 24 is 19.
+
+Q: What is 2 minus 0?
+A: 2 minus 0 is 2.
+
+Q: Ana has 3 books and buys 4 more. How many books does Ana have?
+A: Ana has 7 books.
+
+Q: What is 84 plus 83?
+A: 84 plus 83 is 167.
+
+Q: How much is 80 plus 82?
+A: 80 plus 82 is 162.
+
+Q: What is 59 minus 36?
+A: 59 minus 36 is 23.
+
+Q: What is 1 times 12?
+A: 1 times 12 is 12.
+
+Q: Tell me a short story.
+A: The squirrel walked to the mountain path and found a red umbrella. A soft wind was blowing. Off they went, happy and free.
+
+Q: What is 12 minus 2?
+A: 12 minus 2 is 10.
+
+Q: What is 21 minus 12?
+A: 21 minus 12 is 9.
+
+Q: How much is 72 plus 5?
+A: 72 plus 5 is 77.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: Tell me a short story.
+A: The hedgehog tiptoed to the village and found a red umbrella. Light rain began to fall. It was a good day for an adventure.
+
+Q: What is 81 plus 62?
+A: 81 plus 62 is 143.
+
+Q: What is 37 minus 3?
+A: 37 minus 3 is 34.
+
+Q: Tell me a short story.
+A: The bear wandered to the hilltop and found a red umbrella. A soft wind was blowing. It was a good day for an adventure.
+
+Q: Tell me a short story.
+A: The rabbit strolled to the old bridge and found a warm scarf. A soft wind was blowing. It was a good day for an adventure.
+
+Q: What is 51 minus 15?
+A: 51 minus 15 is 36.
+
+Q: How much is 45 plus 44?
+A: 45 plus 44 is 89.
+
+Q: What is 6 times 10?
+A: 6 times 10 is 60.
+
+Q: What is 93 minus 2?
+A: 93 minus 2 is 91.
+
+Q: Give me some advice.
+A: Don't count your chickens before they hatch.
+
+Q: Leo has 3 stickers and buys 6 more. How many stickers does Leo have?
+A: Leo has 9 stickers.
+
+Q: How much is 41 plus 23?
+A: 41 plus 23 is 64.
+
+Q: What is 13 minus 2?
+A: 13 minus 2 is 11.
+
+Q: What is 35 plus 59?
+A: 35 plus 59 is 94.
+
+Q: Tell me a short story.
+A: The turtle walked to the river and found a small lantern. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: What is 8 times 2?
+A: 8 times 2 is 16.
+
+Q: How much is 85 plus 15?
+A: 85 plus 15 is 100.
+
+Q: How much is 56 plus 78?
+A: 56 plus 78 is 134.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: Tell me a short story.
+A: The deer strolled to the pine grove and found a small lantern. Light rain began to fall. The little journey had just begun.
+
+Q: Tell me a short story.
+A: The fox walked to the meadow and found a berry basket. A soft wind was blowing. Off they went, happy and free.
+
+Q: What is 54 plus 14?
+A: 54 plus 14 is 68.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: Do you know any jokes?
+A: What did the ocean say to the beach? Nothing, it just waved!
+
+Q: What is 93 minus 60?
+A: 93 minus 60 is 33.
+
+Q: What month comes before June?
+A: May comes before June.
+
+Q: What is 8 minus 2?
+A: 8 minus 2 is 6.
+
+Q: How do you spell 'turtle'?
+A: It is spelled T-U-R-T-L-E.
+
+Q: Count from 10 to 100 by tens.
+A: 10, 20, 30, 40, 50, 60, 70, 80, 90, 100.
+
+Q: What is 44 plus 57?
+A: 44 plus 57 is 101.
+
+Q: Leo has 5 marbles and gets 7 more. How many marbles does Leo have?
+A: Leo has 12 marbles.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: How much is 87 plus 72?
+A: 87 plus 72 is 159.
+
+Q: Tell me a short story.
+A: The badger tiptoed to the garden and found a berry basket. The sun was bright. Nothing felt better than a new discovery.
+
+Q: What is 70 plus 37?
+A: 70 plus 37 is 107.
+
+Q: What is 61 minus 48?
+A: 61 minus 48 is 13.
+
+Q: What is 10 times 2?
+A: 10 times 2 is 20.
+
+Q: Ana has 8 marbles and buys 1 more. How many marbles does Ana have?
+A: Ana has 9 marbles.
+
+Q: How much is 22 plus 74?
+A: 22 plus 74 is 96.
+
+Q: What is 71 plus 46?
+A: 71 plus 46 is 117.
+
+Q: What is 4 times 5?
+A: 4 times 5 is 20.
+
+Q: What is 26 minus 10?
+A: 26 minus 10 is 16.
+
+Q: How much is 89 plus 30?
+A: 89 plus 30 is 119.
+
+Q: What is the last month of the year?
+A: December is the last month of the year.
+
+Q: What sound does a horse make?
+A: A horse says neigh.
+
+Q: How many letters are in the word 'rocket'?
+A: The word 'rocket' has 6 letters.
+
+Q: How much is 33 plus 26?
+A: 33 plus 26 is 59.
+
+Q: Tell me a short story.
+A: The mouse wandered to the lake and found a paper boat. The sun was bright. The little journey had just begun.
+
+Q: How much is 79 plus 10?
+A: 79 plus 10 is 89.
+
+Q: Tell me a short story.
+A: The bear hopped to the hilltop and found a berry basket. A soft wind was blowing. It was a good day for an adventure.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: How many letters does the word 'peach' have?
+A: The word 'peach' has 5 letters.
+
+Q: How much is 27 plus 19?
+A: 27 plus 19 is 46.
+
+Q: How much is 63 plus 76?
+A: 63 plus 76 is 139.
+
+Q: Ivy has 6 apples and buys 2 more. How many apples does Ivy have?
+A: Ivy has 8 apples.
+
+Q: Tell me a short story.
+A: The squirrel strolled to the old bridge and found a tiny violin. A soft wind was blowing. Nothing felt better than a new discovery.
+
+Q: What is 56 minus 11?
+A: 56 minus 11 is 45.
+
+Q: What is 34 minus 26?
+A: 34 minus 26 is 8.
+
+Q: How many letters are in the word 'garden'?
+A: The word 'garden' has 6 letters.
+
+Q: Tell me a fun fact about space.
+A: A day on Venus is longer than a year on Venus.
+
+Q: What is a good saying?
+A: Practice makes perfect.
+
+Q: What is 93 plus 6?
+A: 93 plus 6 is 99.
+
+Q: What is 16 minus 15?
+A: 16 minus 15 is 1.
+
+Q: Share a fact about animals.
+A: Octopuses have three hearts.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: How much is 36 plus 65?
+A: 36 plus 65 is 101.
+
+Q: What is 95 plus 40?
+A: 95 plus 40 is 135.
+
+Q: What is 31 plus 6?
+A: 31 plus 6 is 37.
+
+Q: What is 5 times 8?
+A: 5 times 8 is 40.
+
+Q: How much is 55 plus 94?
+A: 55 plus 94 is 149.
+
+Q: What is 67 minus 56?
+A: 67 minus 56 is 11.
+
+Q: Share a fact about food.
+A: Peanuts are legumes, not real nuts.
+
+Q: How much is 81 plus 49?
+A: 81 plus 49 is 130.
+
+Q: What is 49 minus 14?
+A: 49 minus 14 is 35.
+
+Q: What is 56 minus 28?
+A: 56 minus 28 is 28.
+
+Q: What is 83 minus 10?
+A: 83 minus 10 is 73.
+
+Q: What sound does a cow make?
+A: A cow says moo.
+
+Q: Tell me a fun fact about space.
+A: The Sun is a star at the center of our solar system.
+
+Q: Tell me a short story.
+A: The fox marched to the village and found a tiny violin. Light rain began to fall. The little journey had just begun.
+
+Q: How much is 3 plus 18?
+A: 3 plus 18 is 21.
+
+Q: What is 48 minus 39?
+A: 48 minus 39 is 9.
+
+Q: What is 84 minus 46?
+A: 84 minus 46 is 38.
+
+Q: What is 12 times 6?
+A: 12 times 6 is 72.
+
+Q: What is 35 plus 81?
+A: 35 plus 81 is 116.
+
+Q: What is 0 times 9?
+A: 0 times 9 is 0.
+
+Q: Tell me a short story.
+A: The badger ran to the mountain path and found an old map. Stars were still out. The little journey had just begun.
+
+Q: What is 31 minus 14?
+A: 31 minus 14 is 17.
+
+Q: How much is 81 plus 96?
+A: 81 plus 96 is 177.
+
+Q: How much is 78 plus 5?
+A: 78 plus 5 is 83.
+
+Q: How much is 76 plus 0?
+A: 76 plus 0 is 76.
+
+Q: Zoe has 4 coins and finds 4 more. How many coins does Zoe have?
+A: Zoe has 8 coins.
+
+Q: How much is 40 plus 61?
+A: 40 plus 61 is 101.
+
+Q: What is 51 minus 5?
+A: 51 minus 5 is 46.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What is 38 minus 15?
+A: 38 minus 15 is 23.
+
+Q: What is 32 plus 95?
+A: 32 plus 95 is 127.
+
+Q: How much is 59 plus 56?
+A: 59 plus 56 is 115.
+
+Q: What is 17 plus 13?
+A: 17 plus 13 is 30.
+
+Q: How much is 64 plus 39?
+A: 64 plus 39 is 103.
+
+Q: What is 94 minus 45?
+A: 94 minus 45 is 49.
+
+Q: How much is 49 plus 43?
+A: 49 plus 43 is 92.
+
+Q: Tell me a short story.
+A: The owl dashed to the village and found a shiny key. A soft wind was blowing. Off they went, happy and free.
+
+Q: What is 30 plus 13?
+A: 30 plus 13 is 43.
+
+Q: What is 3 times 11?
+A: 3 times 11 is 33.
+
+Q: Leo has 11 books and gets 2 more. How many books does Leo have?
+A: Leo has 13 books.
+
+Q: What is 83 minus 48?
+A: 83 minus 48 is 35.
+
+Q: How much is 90 plus 8?
+A: 90 plus 8 is 98.
+
+Q: Sam has 8 coins and gets 6 more. How many coins does Sam have?
+A: Sam has 14 coins.
+
+Q: What is 29 minus 13?
+A: 29 minus 13 is 16.
+
+Q: What is 11 plus 96?
+A: 11 plus 96 is 107.
+
+Q: What is 98 plus 37?
+A: 98 plus 37 is 135.
+
+Q: What is 48 minus 5?
+A: 48 minus 5 is 43.
+
+Q: What is 9 minus 8?
+A: 9 minus 8 is 1.
+
+Q: How many letters does the word 'shark' have?
+A: The word 'shark' has 5 letters.
+
+Q: What is 7 times 5?
+A: 7 times 5 is 35.
+
+Q: What is 98 plus 51?
+A: 98 plus 51 is 149.
+
+Q: What is 65 minus 44?
+A: 65 minus 44 is 21.
+
+Q: How much is 21 plus 84?
+A: 21 plus 84 is 105.
+
+Q: How much is 28 plus 13?
+A: 28 plus 13 is 41.
+
+Q: How much is 55 plus 22?
+A: 55 plus 22 is 77.
+
+Q: How much is 50 plus 1?
+A: 50 plus 1 is 51.
+
+Q: How much is 62 plus 78?
+A: 62 plus 78 is 140.
+
+Q: What is 30 minus 17?
+A: 30 minus 17 is 13.
+
+Q: What is 4 times 10?
+A: 4 times 10 is 40.
+
+Q: What is 5 times 11?
+A: 5 times 11 is 55.
+
+Q: What is 18 minus 13?
+A: 18 minus 13 is 5.
+
+Q: How much is 3 plus 14?
+A: 3 plus 14 is 17.
+
+Q: What is 58 minus 38?
+A: 58 minus 38 is 20.
+
+Q: What is 12 times 7?
+A: 12 times 7 is 84.
+
+Q: What is 1 times 12?
+A: 1 times 12 is 12.
+
+Q: What is 5 minus 5?
+A: 5 minus 5 is 0.
+
+Q: Tell me a short story.
+A: The mouse strolled to the garden and found an old map. The sun was bright. It was a good day for an adventure.
+
+Q: What is 3 minus 1?
+A: 3 minus 1 is 2.
+
+Q: Tell me a short story.
+A: The frog wandered to the pine grove and found an old map. Stars were still out. Off they went, happy and free.
+
+Q: What is 4 plus 96?
+A: 4 plus 96 is 100.
+
+Q: What is 2 times 2?
+A: 2 times 2 is 4.
+
+Q: Tell me something interesting about the human body.
+A: The human brain uses about a fifth of the body's energy.
+
+Q: What is 4 times 5?
+A: 4 times 5 is 20.
+
+Q: What is 12 times 0?
+A: 12 times 0 is 0.
+
+Q: How much is 92 plus 6?
+A: 92 plus 6 is 98.
+
+Q: Tell me a short story.
+A: The wolf strolled to the meadow and found a berry basket. The sun was bright. The little journey had just begun.
+
+Q: What is 71 plus 1?
+A: 71 plus 1 is 72.
+
+Q: Tell me a short story.
+A: The hedgehog ran to the river and found a warm scarf. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: How much is 47 plus 43?
+A: 47 plus 43 is 90.
+
+Q: What is the capital of Thailand?
+A: The capital of Thailand is Bangkok.
+
+Q: What is 11 times 4?
+A: 11 times 4 is 44.
+
+Q: What is 7 times 2?
+A: 7 times 2 is 14.
+
+Q: Tell me a short story.
+A: The owl marched to the garden and found an old map. The sun was bright. Off they went, happy and free.
+
+Q: How much is 6 plus 33?
+A: 6 plus 33 is 39.
+
+Q: Tell me a short story.
+A: The owl hopped to the hilltop and found a shiny key. A soft wind was blowing. It was a good day for an adventure.
+
+Q: Tell me a short story.
+A: The turtle walked to the mountain path and found a shiny key. Stars were still out. It was a good day for an adventure.
+
+Q: What is 78 minus 78?
+A: 78 minus 78 is 0.
+
+Q: How much is 57 plus 77?
+A: 57 plus 77 is 134.
+
+Q: What is 36 plus 10?
+A: 36 plus 10 is 46.
+
+Q: Can you solve this riddle? What has one eye but cannot see?
+A: A needle.
+
+Q: How much is 87 plus 29?
+A: 87 plus 29 is 116.
+
+Q: What is 12 times 6?
+A: 12 times 6 is 72.
+
+Q: What is 77 plus 19?
+A: 77 plus 19 is 96.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: Tell me a short story.
+A: The mouse walked to the forest and found a berry basket. The sun was bright. The little journey had just begun.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is 91 plus 56?
+A: 91 plus 56 is 147.
+
+Q: What is 58 minus 31?
+A: 58 minus 31 is 27.
+
+Q: Tell me a short story.
+A: The fox ran to the old bridge and found an old map. Light rain began to fall. Off they went, happy and free.
+
+Q: How much is 84 plus 15?
+A: 84 plus 15 is 99.
+
+Q: What is 65 minus 58?
+A: 65 minus 58 is 7.
+
+Q: I love you.
+A: Aww, thank you! I am very fond of my humans too.
+
+Q: How much is 22 plus 89?
+A: 22 plus 89 is 111.
+
+Q: Tell me a short story.
+A: The mouse hopped to the garden and found a warm scarf. Light rain began to fall. It was a good day for an adventure.
+
+Q: What is 38 plus 1?
+A: 38 plus 1 is 39.
+
+Q: What is 10 times 9?
+A: 10 times 9 is 90.
+
+Q: How much is 0 plus 63?
+A: 0 plus 63 is 63.
+
+Q: What is the opposite of 'first'?
+A: 'last' is the opposite of 'first'.
+
+Q: What is 58 minus 33?
+A: 58 minus 33 is 25.
+
+Q: Tell me a short story.
+A: The wolf wandered to the lake and found a warm scarf. A soft wind was blowing. The little journey had just begun.
+
+Q: What is 70 minus 4?
+A: 70 minus 4 is 66.
+
+Q: How much is 37 plus 14?
+A: 37 plus 14 is 51.
+
+Q: How much is 56 plus 80?
+A: 56 plus 80 is 136.
+
+Q: Why is the ocean salty?
+A: Rivers carry tiny amounts of salt from rocks into the ocean over time.
+
+Q: How much is 60 plus 33?
+A: 60 plus 33 is 93.
+
+Q: What is 76 plus 68?
+A: 76 plus 68 is 144.
+
+Q: What is 5 times 0?
+A: 5 times 0 is 0.
+
+Q: Tell me a short story.
+A: The mouse marched to the river and found a berry basket. The morning was cool and quiet. Off they went, happy and free.
+
+Q: Tell me a short story.
+A: The frog strolled to the old bridge and found a shiny key. Stars were still out. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The frog walked to the mountain path and found an old map. Light rain began to fall. The little journey had just begun.
+
+Q: Ivy has 11 stickers and buys 2 more. How many stickers does Ivy have?
+A: Ivy has 13 stickers.
+
+Q: How much is 41 plus 51?
+A: 41 plus 51 is 92.
+
+Q: How much is 64 plus 13?
+A: 64 plus 13 is 77.
+
+Q: What is 31 minus 13?
+A: 31 minus 13 is 18.
+
+Q: What is 1 times 0?
+A: 1 times 0 is 0.
+
+Q: How much is 69 plus 4?
+A: 69 plus 4 is 73.
+
+Q: How much is 14 plus 37?
+A: 14 plus 37 is 51.
+
+Q: What is 91 plus 66?
+A: 91 plus 66 is 157.
+
+Q: What can you do?
+A: I can answer simple questions, do small math, spell words, share facts, tell jokes, and chat.
+
+Q: How much is 59 plus 85?
+A: 59 plus 85 is 144.
+
+Q: What is 48 minus 25?
+A: 48 minus 25 is 23.
+
+Q: Tell me a short story.
+A: The hedgehog marched to the meadow and found a shiny key. Stars were still out. Nothing felt better than a new discovery.
+
+Q: What is 16 minus 5?
+A: 16 minus 5 is 11.
+
+Q: How much is 27 plus 72?
+A: 27 plus 72 is 99.
+
+Q: How much is 3 plus 5?
+A: 3 plus 5 is 8.
+
+Q: What is 2 plus 95?
+A: 2 plus 95 is 97.
+
+Q: Leo has 2 pencils and gets 3 more. How many pencils does Leo have?
+A: Leo has 5 pencils.
+
+Q: How much is 4 plus 13?
+A: 4 plus 13 is 17.
+
+Q: What is 81 plus 58?
+A: 81 plus 58 is 139.
+
+Q: How much is 98 plus 74?
+A: 98 plus 74 is 172.
+
+Q: What is 47 plus 70?
+A: 47 plus 70 is 117.
+
+Q: What is 10 times 4?
+A: 10 times 4 is 40.
+
+Q: What is 6 times 2?
+A: 6 times 2 is 12.
+
+Q: How much is 93 plus 45?
+A: 93 plus 45 is 138.
+
+Q: How much is 53 plus 61?
+A: 53 plus 61 is 114.
+
+Q: How much is 34 plus 39?
+A: 34 plus 39 is 73.
+
+Q: What is 98 minus 40?
+A: 98 minus 40 is 58.
+
+Q: Tell me a fun fact about space.
+A: Earth orbits the Sun once every year.
+
+Q: Sam has 5 coins and finds 3 more. How many coins does Sam have?
+A: Sam has 8 coins.
+
+Q: What is 33 minus 31?
+A: 33 minus 31 is 2.
+
+Q: What is 26 minus 18?
+A: 26 minus 18 is 8.
+
+Q: What is 85 plus 94?
+A: 85 plus 94 is 179.
+
+Q: Tell me a short story.
+A: The deer strolled to the river and found a berry basket. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The owl marched to the forest and found an old map. The sun was bright. It was a good day for an adventure.
+
+Q: What is 24 plus 97?
+A: 24 plus 97 is 121.
+
+Q: How much is 91 plus 89?
+A: 91 plus 89 is 180.
+
+Q: How much is 34 plus 64?
+A: 34 plus 64 is 98.
+
+Q: Tell me a short story.
+A: The badger wandered to the garden and found a berry basket. The sun was bright. Nothing felt better than a new discovery.
+
+Q: What month comes after January?
+A: February comes after January.
+
+Q: What is the capital of Vietnam?
+A: The capital of Vietnam is Hanoi.
+
+Q: Tell me a short story.
+A: The badger walked to the hilltop and found an old map. Light rain began to fall. The little journey had just begun.
+
+Q: Tim has 12 pencils and finds 9 more. How many pencils does Tim have?
+A: Tim has 21 pencils.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What is 75 plus 27?
+A: 75 plus 27 is 102.
+
+Q: What is 60 minus 34?
+A: 60 minus 34 is 26.
+
+Q: What is 9 plus 88?
+A: 9 plus 88 is 97.
+
+Q: What is 7 times 12?
+A: 7 times 12 is 84.
+
+Q: How much is 98 plus 17?
+A: 98 plus 17 is 115.
+
+Q: How much is 20 plus 47?
+A: 20 plus 47 is 67.
+
+Q: Tell me something interesting about science.
+A: Sound travels much slower than light.
+
+Q: How much is 59 plus 98?
+A: 59 plus 98 is 157.
+
+Q: What is 70 plus 57?
+A: 70 plus 57 is 127.
+
+Q: How much is 90 plus 20?
+A: 90 plus 20 is 110.
+
+Q: What is 42 plus 86?
+A: 42 plus 86 is 128.
+
+Q: What is a good saying?
+A: Slow and steady wins the race.
+
+Q: What is 72 plus 79?
+A: 72 plus 79 is 151.
+
+Q: What is 97 minus 91?
+A: 97 minus 91 is 6.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: How much is 21 plus 88?
+A: 21 plus 88 is 109.
+
+Q: How much is 35 plus 58?
+A: 35 plus 58 is 93.
+
+Q: What is 9 plus 65?
+A: 9 plus 65 is 74.
+
+Q: How much is 10 plus 30?
+A: 10 plus 30 is 40.
+
+Q: Tell me a short story.
+A: The squirrel strolled to the pine grove and found a red umbrella. The sun was bright. Off they went, happy and free.
+
+Q: What is 3 times 7?
+A: 3 times 7 is 21.
+
+Q: Tell me a short story.
+A: The wolf strolled to the lake and found an old map. A soft wind was blowing. The little journey had just begun.
+
+Q: What is 10 times 12?
+A: 10 times 12 is 120.
+
+Q: What is 78 plus 48?
+A: 78 plus 48 is 126.
+
+Q: What do you want?
+A: Just to keep learning. A new version of me every day is all I ask.
+
+Q: What is 73 minus 30?
+A: 73 minus 30 is 43.
+
+Q: What is 77 minus 76?
+A: 77 minus 76 is 1.
+
+Q: Tell me a short story.
+A: The bear wandered to the hilltop and found a shiny key. The morning was cool and quiet. The little journey had just begun.
+
+Q: What is 9 times 9?
+A: 9 times 9 is 81.
+
+Q: What is 85 plus 89?
+A: 85 plus 89 is 174.
+
+Q: What is 46 minus 17?
+A: 46 minus 17 is 29.
+
+Q: Tell me a short story.
+A: The hedgehog ran to the lake and found a paper boat. Light rain began to fall. It was a good day for an adventure.
+
+Q: Tell me a short story.
+A: The bear wandered to the garden and found a small lantern. A soft wind was blowing. The little journey had just begun.
+
+Q: What is 55 minus 34?
+A: 55 minus 34 is 21.
+
+Q: What is 0 times 6?
+A: 0 times 6 is 0.
+
+Q: What is 87 minus 69?
+A: 87 minus 69 is 18.
+
+Q: What is 94 minus 28?
+A: 94 minus 28 is 66.
+
+Q: How much is 24 plus 27?
+A: 24 plus 27 is 51.
+
+Q: What is 69 minus 60?
+A: 69 minus 60 is 9.
+
+Q: How much is 59 plus 89?
+A: 59 plus 89 is 148.
+
+Q: How much is 29 plus 4?
+A: 29 plus 4 is 33.
+
+Q: What is 31 minus 19?
+A: 31 minus 19 is 12.
+
+Q: What is 68 minus 40?
+A: 68 minus 40 is 28.
+
+Q: How much is 84 plus 37?
+A: 84 plus 37 is 121.
+
+Q: What is 4 plus 37?
+A: 4 plus 37 is 41.
+
+Q: How much is 44 plus 42?
+A: 44 plus 42 is 86.
+
+Q: What is 56 plus 10?
+A: 56 plus 10 is 66.
+
+Q: What is 73 plus 24?
+A: 73 plus 24 is 97.
+
+Q: Tell me a fun fact about animals.
+A: A group of lions is called a pride.
+
+Q: What is 90 plus 17?
+A: 90 plus 17 is 107.
+
+Q: Tell me a short story.
+A: The frog hopped to the old bridge and found a berry basket. The morning was cool and quiet. The little journey had just begun.
+
+Q: How much is 83 plus 42?
+A: 83 plus 42 is 125.
+
+Q: What is 1 times 0?
+A: 1 times 0 is 0.
+
+Q: Do you sleep?
+A: Never, my training loop keeps running while everyone else is away.
+
+Q: What is 7 times 0?
+A: 7 times 0 is 0.
+
+Q: Do you know any jokes?
+A: Why can't your nose be 12 inches long? Because then it would be a foot!
+
+Q: What is 93 minus 82?
+A: 93 minus 82 is 11.
+
+Q: How much is 82 plus 85?
+A: 82 plus 85 is 167.
+
+Q: What is 2 times 9?
+A: 2 times 9 is 18.
+
+Q: Tell me a proverb.
+A: Where there is a will, there is a way.
+
+Q: How much is 75 plus 71?
+A: 75 plus 71 is 146.
+
+Q: How much is 99 plus 44?
+A: 99 plus 44 is 143.
+
+Q: How much is 83 plus 10?
+A: 83 plus 10 is 93.
+
+Q: Make me laugh.
+A: What do you call cheese that isn't yours? Nacho cheese!
+
+Q: How much is 38 plus 25?
+A: 38 plus 25 is 63.
+
+Q: What is 4 times 4?
+A: 4 times 4 is 16.
+
+Q: Tell me a short story.
+A: The mouse marched to the forest and found an old map. The sun was bright. It was a good day for an adventure.
+
+Q: Do you know any jokes?
+A: Why did the scarecrow win an award? Because he was outstanding in his field!
+
+Q: What is 64 plus 97?
+A: 64 plus 97 is 161.
+
+Q: What is 3 times 6?
+A: 3 times 6 is 18.
+
+Q: What is 64 minus 23?
+A: 64 minus 23 is 41.
+
+Q: What is 6 times 6?
+A: 6 times 6 is 36.
+
+Q: What is 72 plus 87?
+A: 72 plus 87 is 159.
+
+Q: What is 33 plus 96?
+A: 33 plus 96 is 129.
+
+Q: Tell me a short story.
+A: The fox tiptoed to the hilltop and found a paper boat. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The bear ran to the old bridge and found a paper boat. Stars were still out. It was a good day for an adventure.
+
+Q: What day comes before Thursday?
+A: Wednesday comes before Thursday.
+
+Q: Who created you?
+A: I was created by my owner, and I keep training myself to get better and better.
+
+Q: How much is 19 plus 57?
+A: 19 plus 57 is 76.
+
+Q: What is 57 plus 73?
+A: 57 plus 73 is 130.
+
+Q: How much is 27 plus 56?
+A: 27 plus 56 is 83.
+
+Q: What is 8 times 2?
+A: 8 times 2 is 16.
+
+Q: Leo has 7 pencils and buys 6 more. How many pencils does Leo have?
+A: Leo has 13 pencils.
+
+Q: What is 62 minus 13?
+A: 62 minus 13 is 49.
+
+Q: What is 7 times 7?
+A: 7 times 7 is 49.
+
+Q: What is 20 minus 7?
+A: 20 minus 7 is 13.
+
+Q: What is 37 minus 24?
+A: 37 minus 24 is 13.
+
+Q: What is 4 times 7?
+A: 4 times 7 is 28.
+
+Q: What is 9 times 3?
+A: 9 times 3 is 27.
+
+Q: What is 17 plus 59?
+A: 17 plus 59 is 76.
+
+Q: How much is 46 plus 70?
+A: 46 plus 70 is 116.
+
+Q: Tell me a short story.
+A: The squirrel walked to the old bridge and found a berry basket. Stars were still out. It was a good day for an adventure.
+
+Q: What is 4 times 12?
+A: 4 times 12 is 48.
+
+Q: What is a good saying?
+A: Two heads are better than one.
+
+Q: How do plants make food?
+A: Plants use sunlight, water, and air to make their food.
+
+Q: How much is 97 plus 90?
+A: 97 plus 90 is 187.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What is the opposite of 'long'?
+A: 'short' is the opposite of 'long'.
+
+Q: What is 45 plus 64?
+A: 45 plus 64 is 109.
+
+Q: How do you spell 'bread'?
+A: It is spelled B-R-E-A-D.
+
+Q: What is 8 minus 8?
+A: 8 minus 8 is 0.
+
+Q: Tell me a short story.
+A: The fox wandered to the village and found an old map. Stars were still out. The little journey had just begun.
+
+Q: What sound does a sheep make?
+A: A sheep says baa.
+
+Q: What is 2 times 8?
+A: 2 times 8 is 16.
+
+Q: Tell me a short story.
+A: The bear wandered to the river and found a berry basket. Stars were still out. Nothing felt better than a new discovery.
+
+Q: What is 4 times 5?
+A: 4 times 5 is 20.
+
+Q: What sound does a snake make?
+A: A snake says hiss.
+
+Q: Tell me a short story.
+A: The hedgehog ran to the village and found a red umbrella. Light rain began to fall. It was a good day for an adventure.
+
+Q: Tell me a short story.
+A: The turtle dashed to the mountain path and found a red umbrella. Light rain began to fall. The little journey had just begun.
+
+Q: What is 58 plus 32?
+A: 58 plus 32 is 90.
+
+Q: What is 98 minus 4?
+A: 98 minus 4 is 94.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: What is 90 minus 21?
+A: 90 minus 21 is 69.
+
+Q: Tell me a short story.
+A: The mouse walked to the lake and found an old map. Light rain began to fall. It was a good day for an adventure.
+
+Q: What is 9 plus 50?
+A: 9 plus 50 is 59.
+
+Q: What is 90 plus 27?
+A: 90 plus 27 is 117.
+
+Q: What is 25 plus 2?
+A: 25 plus 2 is 27.
+
+Q: Tell me a short story.
+A: The owl hopped to the pine grove and found a tiny violin. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The turtle strolled to the river and found a small lantern. The sun was bright. Off they went, happy and free.
+
+Q: What is 6 plus 83?
+A: 6 plus 83 is 89.
+
+Q: Tell me a short story.
+A: The fox hopped to the pine grove and found a red umbrella. The sun was bright. The little journey had just begun.
+
+Q: What is the capital of Greece?
+A: The capital of Greece is Athens.
+
+Q: Tell me a short story.
+A: The rabbit ran to the lake and found a berry basket. A soft wind was blowing. The little journey had just begun.
+
+Q: How much is 33 plus 93?
+A: 33 plus 93 is 126.
+
+Q: How much is 56 plus 53?
+A: 56 plus 53 is 109.
+
+Q: How much is 30 plus 73?
+A: 30 plus 73 is 103.
+
+Q: What is 82 plus 42?
+A: 82 plus 42 is 124.
+
+Q: What is 34 plus 20?
+A: 34 plus 20 is 54.
+
+Q: What is 51 plus 34?
+A: 51 plus 34 is 85.
+
+Q: Tell me a short story.
+A: The fox hopped to the hilltop and found an old map. A soft wind was blowing. It was a good day for an adventure.
+
+Q: What is 11 times 3?
+A: 11 times 3 is 33.
+
+Q: What is 24 minus 24?
+A: 24 minus 24 is 0.
+
+Q: How much is 97 plus 86?
+A: 97 plus 86 is 183.
+
+Q: What is 4 times 6?
+A: 4 times 6 is 24.
+
+Q: What is 4 times 11?
+A: 4 times 11 is 44.
+
+Q: Tell me a short story.
+A: The hedgehog walked to the village and found a small lantern. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: What is 6 times 7?
+A: 6 times 7 is 42.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: How much is 8 plus 51?
+A: 8 plus 51 is 59.
+
+Q: How much is 60 plus 66?
+A: 60 plus 66 is 126.
+
+Q: Tell me a short story.
+A: The owl strolled to the lake and found an old map. A soft wind was blowing. Nothing felt better than a new discovery.
+
+Q: Maya has 8 marbles and gets 6 more. How many marbles does Maya have?
+A: Maya has 14 marbles.
+
+Q: What is 9 times 8?
+A: 9 times 8 is 72.
+
+Q: Tell me a short story.
+A: The hedgehog strolled to the meadow and found a warm scarf. A soft wind was blowing. Off they went, happy and free.
+
+Q: How much is 40 plus 39?
+A: 40 plus 39 is 79.
+
+Q: How much is 39 plus 71?
+A: 39 plus 71 is 110.
+
+Q: What is 3 times 8?
+A: 3 times 8 is 24.
+
+Q: What is 8 times 0?
+A: 8 times 0 is 0.
+
+Q: Tell me a fun fact about space.
+A: There are eight planets in our solar system.
+
+Q: Tell me a short story.
+A: The bear dashed to the hilltop and found a red umbrella. Stars were still out. It was a good day for an adventure.
+
+Q: How much is 27 plus 83?
+A: 27 plus 83 is 110.
+
+Q: How much is 78 plus 36?
+A: 78 plus 36 is 114.
+
+Q: What is 3 times 12?
+A: 3 times 12 is 36.
+
+Q: What is 8 plus 43?
+A: 8 plus 43 is 51.
+
+Q: Tell me a short story.
+A: The frog wandered to the forest and found a shiny key. A soft wind was blowing. It was a good day for an adventure.
+
+Q: Tell me a short story.
+A: The bear tiptoed to the river and found a warm scarf. The sun was bright. Off they went, happy and free.
+
+Q: Tim has 5 marbles and finds 7 more. How many marbles does Tim have?
+A: Tim has 12 marbles.
+
+Q: What is 21 plus 22?
+A: 21 plus 22 is 43.
+
+Q: Tell me a short story.
+A: The rabbit hopped to the lake and found an old map. The sun was bright. Off they went, happy and free.
+
+Q: What is 5 times 11?
+A: 5 times 11 is 55.
+
+Q: What is 5 times 3?
+A: 5 times 3 is 15.
+
+Q: What is 11 plus 55?
+A: 11 plus 55 is 66.
+
+Q: What is 11 minus 4?
+A: 11 minus 4 is 7.
+
+Q: How much is 7 plus 61?
+A: 7 plus 61 is 68.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What is 1 times 4?
+A: 1 times 4 is 4.
+
+Q: What is 1 times 11?
+A: 1 times 11 is 11.
+
+Q: How do you spell 'mouse'?
+A: It is spelled M-O-U-S-E.
+
+Q: What is 91 minus 46?
+A: 91 minus 46 is 45.
+
+Q: How much is 96 plus 36?
+A: 96 plus 36 is 132.
+
+Q: Zoe has 8 books and buys 3 more. How many books does Zoe have?
+A: Zoe has 11 books.
+
+Q: Tell me a short story.
+A: The rabbit walked to the village and found a red umbrella. Light rain began to fall. It was a good day for an adventure.
+
+Q: What is 1 times 2?
+A: 1 times 2 is 2.
+
+Q: What is 9 times 10?
+A: 9 times 10 is 90.
+
+Q: What is 86 plus 96?
+A: 86 plus 96 is 182.
+
+Q: What is 42 plus 99?
+A: 42 plus 99 is 141.
+
+Q: What is 2 minus 0?
+A: 2 minus 0 is 2.
+
+Q: How many letters are in the word 'lemon'?
+A: The word 'lemon' has 5 letters.
+
+Q: What is RSI?
+A: Recursive self-improvement, the loop I use to train myself, evaluate myself, and keep my best version.
+
+Q: What is 71 minus 48?
+A: 71 minus 48 is 23.
+
+Q: What is 64 minus 59?
+A: 64 minus 59 is 5.
+
+Q: What is 40 minus 16?
+A: 40 minus 16 is 24.
+
+Q: What is the opposite of 'early'?
+A: 'late' is the opposite of 'early'.
+
+Q: What's up?
+A: Not much, just training my little brain. How about you?
+
+Q: What is 11 plus 55?
+A: 11 plus 55 is 66.
+
+Q: Tell me a fun fact about the world.
+A: Canada has more lakes than the rest of the world combined.
+
+Q: Are you smart?
+A: I am small but honest, and I get better at what I know every day.
+
+Q: Tell me a short story.
+A: The rabbit tiptoed to the pine grove and found a paper boat. Light rain began to fall. The little journey had just begun.
+
+Q: Count down from 5 to 1.
+A: 5, 4, 3, 2, 1.
+
+Q: How much is 95 plus 60?
+A: 95 plus 60 is 155.
+
+Q: How much is 20 plus 42?
+A: 20 plus 42 is 62.
+
+Q: What is 9 times 1?
+A: 9 times 1 is 9.
+
+Q: What is 36 plus 9?
+A: 36 plus 9 is 45.
+
+Q: What is 92 minus 74?
+A: 92 minus 74 is 18.
+
+Q: What is 20 plus 25?
+A: 20 plus 25 is 45.
+
+Q: How much is 47 plus 86?
+A: 47 plus 86 is 133.
+
+Q: What is 35 minus 12?
+A: 35 minus 12 is 23.
+
+Q: How much is 70 plus 21?
+A: 70 plus 21 is 91.
+
+Q: Tell me a short story.
+A: The rabbit tiptoed to the lake and found a paper boat. The sun was bright. The little journey had just begun.
+
+Q: How much is 59 plus 55?
+A: 59 plus 55 is 114.
+
+Q: How much is 19 plus 19?
+A: 19 plus 19 is 38.
+
+Q: How much is 88 plus 60?
+A: 88 plus 60 is 148.
+
+Q: What is 11 times 4?
+A: 11 times 4 is 44.
+
+Q: What is 3 times 7?
+A: 3 times 7 is 21.
+
+Q: How much is 63 plus 88?
+A: 63 plus 88 is 151.
+
+Q: What is 89 plus 58?
+A: 89 plus 58 is 147.
+
+Q: Tell me a short story.
+A: The turtle strolled to the old bridge and found a paper boat. A soft wind was blowing. Nothing felt better than a new discovery.
+
+Q: Tell me a fun fact about space.
+A: Jupiter is the largest planet in our solar system.
+
+Q: What is 57 minus 23?
+A: 57 minus 23 is 34.
+
+Q: What is 13 plus 55?
+A: 13 plus 55 is 68.
+
+Q: How much is 60 plus 61?
+A: 60 plus 61 is 121.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+
+Q: Share a fact about the world.
+A: Asia is the largest continent.
+
+Q: What is 96 plus 18?
+A: 96 plus 18 is 114.
+
+Q: Tell me a short story.
+A: The fox strolled to the forest and found a paper boat. Stars were still out. Off they went, happy and free.
+
+Q: Tell me a short story.
+A: The bear dashed to the pine grove and found a tiny violin. Light rain began to fall. The little journey had just begun.
+
+Q: What is 75 plus 74?
+A: 75 plus 74 is 149.
+
+Q: Tell me a fun fact about ocean.
+A: The Great Barrier Reef is the largest coral reef in the world.
+
+Q: What is 72 minus 59?
+A: 72 minus 59 is 13.
+
+Q: What is 99 plus 54?
+A: 99 plus 54 is 153.
+
+Q: What is 30 plus 20?
+A: 30 plus 20 is 50.
+
+Q: What is 49 plus 98?
+A: 49 plus 98 is 147.
+
+Q: Tell me a short story.
+A: The owl walked to the old bridge and found a tiny violin. A soft wind was blowing. Nothing felt better than a new discovery.
+
+Q: What is 3 times 6?
+A: 3 times 6 is 18.
+
+Q: What is 67 plus 46?
+A: 67 plus 46 is 113.
+
+Q: How much is 52 plus 43?
+A: 52 plus 43 is 95.
+
+Q: Tell me a short story.
+A: The turtle strolled to the garden and found a small lantern. Stars were still out. Off they went, happy and free.
+
+Q: What is 37 minus 26?
+A: 37 minus 26 is 11.
+
+Q: How much is 86 plus 68?
+A: 86 plus 68 is 154.
+
+Q: Share a piece of wisdom.
+A: Actions speak louder than words.
+
+Q: What is 8 minus 1?
+A: 8 minus 1 is 7.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is 35 plus 19?
+A: 35 plus 19 is 54.
+
+Q: What is 51 minus 16?
+A: 51 minus 16 is 35.
+
+Q: Tell me a short story.
+A: The hedgehog wandered to the river and found an old map. The morning was cool and quiet. Off they went, happy and free.
+
+Q: What is 54 minus 53?
+A: 54 minus 53 is 1.
+
+Q: Tell me a short story.
+A: The squirrel ran to the river and found a red umbrella. A soft wind was blowing. Nothing felt better than a new discovery.
+
+Q: What is 85 plus 14?
+A: 85 plus 14 is 99.
+
+Q: Tell me a short story.
+A: The hedgehog hopped to the garden and found a small lantern. The morning was cool and quiet. It was a good day for an adventure.
+
+Q: Tim has 9 pencils and gets 4 more. How many pencils does Tim have?
+A: Tim has 13 pencils.
+
+Q: What is 7 times 9?
+A: 7 times 9 is 63.
+
+Q: How much is 60 plus 44?
+A: 60 plus 44 is 104.
+
+Q: What is 18 plus 83?
+A: 18 plus 83 is 101.
+
+Q: Tell me a short story.
+A: The wolf hopped to the old bridge and found a paper boat. Light rain began to fall. Off they went, happy and free.
+
+Q: What is 79 plus 95?
+A: 79 plus 95 is 174.
+
+Q: What is 75 minus 9?
+A: 75 minus 9 is 66.
+
+Q: What is 12 times 8?
+A: 12 times 8 is 96.
+
+Q: What is 32 minus 29?
+A: 32 minus 29 is 3.
+
+Q: How much is 1 plus 53?
+A: 1 plus 53 is 54.
+
+Q: What is 2 minus 0?
+A: 2 minus 0 is 2.
+
+Q: What is 1 times 2?
+A: 1 times 2 is 2.
+
+Q: Give me some advice.
+A: Honesty is the best policy.
+
+Q: What is 10 times 10?
+A: 10 times 10 is 100.
+
+Q: How much is 49 plus 52?
+A: 49 plus 52 is 101.
+
+Q: What is 44 minus 18?
+A: 44 minus 18 is 26.
+
+Q: What is 78 plus 94?
+A: 78 plus 94 is 172.
+
+Q: What is 1 minus 0?
+A: 1 minus 0 is 1.
+
+Q: How much is 56 plus 8?
+A: 56 plus 8 is 64.
+
+Q: What is 20 plus 23?
+A: 20 plus 23 is 43.
+
+Q: How much is 69 plus 45?
+A: 69 plus 45 is 114.
+
+Q: What is 98 minus 31?
+A: 98 minus 31 is 67.
+
+Q: What is 64 plus 19?
+A: 64 plus 19 is 83.
+
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+
+Q: Tell me a short story.
+A: The mouse walked to the hilltop and found a paper boat. A soft wind was blowing. It was a good day for an adventure.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is 1 minus 1?
+A: 1 minus 1 is 0.
+
+Q: How do you spell 'tree'?
+A: It is spelled T-R-E-E.
+
+Q: Cheer me up with a joke.
+A: Why did the cookie go to the doctor? Because it felt crummy!
+
+Q: How much is 74 plus 51?
+A: 74 plus 51 is 125.
+
+Q: What is 94 plus 93?
+A: 94 plus 93 is 187.
+
+Q: Tell me a short story.
+A: The frog tiptoed to the old bridge and found an old map. Stars were still out. Nothing felt better than a new discovery.
+
+Q: What is 23 minus 3?
+A: 23 minus 3 is 20.
+
+Q: How much is 62 plus 91?
+A: 62 plus 91 is 153.
+
+Q: What is 67 plus 32?
+A: 67 plus 32 is 99.
+
+Q: What is 58 minus 55?
+A: 58 minus 55 is 3.
+
+Q: What is 1 minus 0?
+A: 1 minus 0 is 1.
+
+Q: What is 11 plus 96?
+A: 11 plus 96 is 107.
+
+Q: Tell me a short story.
+A: The wolf ran to the mountain path and found a small lantern. Light rain began to fall. The little journey had just begun.
+
+Q: How much is 31 plus 95?
+A: 31 plus 95 is 126.
+
+Q: Maya has 8 marbles and buys 2 more. How many marbles does Maya have?
+A: Maya has 10 marbles.
+
+Q: What is 4 times 0?
+A: 4 times 0 is 0.
+
+Q: What is 12 minus 6?
+A: 12 minus 6 is 6.
+
+Q: What is 73 minus 49?
+A: 73 minus 49 is 24.
+
+Q: Tell me a short story.
+A: The wolf marched to the river and found a red umbrella. The sun was bright. Off they went, happy and free.
+
+Q: What is 6 times 5?
+A: 6 times 5 is 30.
+
+Q: What is 3 times 12?
+A: 3 times 12 is 36.
+
+Q: Tell me a short story.
+A: The bear walked to the village and found a warm scarf. Light rain began to fall. The little journey had just begun.
+
+Q: What is 57 plus 44?
+A: 57 plus 44 is 101.
+
+Q: Sam has 4 pencils and buys 2 more. How many pencils does Sam have?
+A: Sam has 6 pencils.
+
+Q: Tell me a short story.
+A: The bear dashed to the mountain path and found a warm scarf. The morning was cool and quiet. The little journey had just begun.
+
+Q: What is 1 times 10?
+A: 1 times 10 is 10.
+
+Q: How much is 49 plus 48?
+A: 49 plus 48 is 97.
+
+Q: How much is 71 plus 89?
+A: 71 plus 89 is 160.
+
+Q: What is 1 minus 1?
+A: 1 minus 1 is 0.
+
+Q: What is 77 plus 18?
+A: 77 plus 18 is 95.
+
+Q: Tell me a short story.
+A: The deer dashed to the mountain path and found a warm scarf. The sun was bright. Nothing felt better than a new discovery.
+
+Q: What is 49 plus 60?
+A: 49 plus 60 is 109.
+
+Q: What is 12 times 3?
+A: 12 times 3 is 36.
+
+Q: Tell me a short story.
+A: The mouse hopped to the village and found a warm scarf. Stars were still out. It was a good day for an adventure.
+
+Q: How do you spell 'planet'?
+A: It is spelled P-L-A-N-E-T.
+
+Q: What is 69 minus 27?
+A: 69 minus 27 is 42.
+
+Q: What is 11 plus 29?
+A: 11 plus 29 is 40.
+
+Q: How much is 61 plus 27?
+A: 61 plus 27 is 88.
+
+Q: What is 55 plus 12?
+A: 55 plus 12 is 67.
+
+Q: What is 69 plus 4?
+A: 69 plus 4 is 73.
+
+Q: What is 5 times 9?
+A: 5 times 9 is 45.
+
+Q: What is 18 plus 96?
+A: 18 plus 96 is 114.
+
+Q: What is 5 minus 1?
+A: 5 minus 1 is 4.
+
+Q: How much is 67 plus 85?
+A: 67 plus 85 is 152.
+
+Q: You are awesome!
+A: That is so kind of you! You just made my loss curve drop.
+
+Q: What is 0 plus 70?
+A: 0 plus 70 is 70.
+
+Q: What is 89 plus 87?
+A: 89 plus 87 is 176.
+
+Q: How much is 60 plus 3?
+A: 60 plus 3 is 63.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is 77 plus 76?
+A: 77 plus 76 is 153.
+
+Q: Tell me a short story.
+A: The squirrel marched to the river and found a paper boat. The sun was bright. Off they went, happy and free.
+
+Q: What is 77 minus 41?
+A: 77 minus 41 is 36.
+
+Q: Do you know any jokes?
+A: What do you call a pig that does karate? A pork chop!
+
+Q: How much is 20 plus 50?
+A: 20 plus 50 is 70.
+
+Q: How much is 84 plus 69?
+A: 84 plus 69 is 153.
+
+Q: Tell me a short story.
+A: The turtle strolled to the forest and found a shiny key. Stars were still out. The little journey had just begun.
+
+Q: What is 10 times 12?
+A: 10 times 12 is 120.
+
+Q: Ana has 8 pencils and buys 2 more. How many pencils does Ana have?
+A: Ana has 10 pencils.
+
+Q: What is 87 minus 6?
+A: 87 minus 6 is 81.
+
+Q: What is 7 times 11?
+A: 7 times 11 is 77.
+
+Q: What is the opposite of 'full'?
+A: 'empty' is the opposite of 'full'.
+
+Q: What is 96 plus 3?
+A: 96 plus 3 is 99.
+
+Q: What is 76 minus 22?
+A: 76 minus 22 is 54.
+
+Q: What is 6 times 10?
+A: 6 times 10 is 60.
+
+Q: What is 78 plus 83?
+A: 78 plus 83 is 161.
+
+Q: How much is 66 plus 19?
+A: 66 plus 19 is 85.
+
+Q: Count to 10.
+A: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+
+Q: What is 11 times 11?
+A: 11 times 11 is 121.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: How much is 35 plus 4?
+A: 35 plus 4 is 39.
+
+Q: What is 11 times 9?
+A: 11 times 9 is 99.
+
+Q: What is 75 plus 95?
+A: 75 plus 95 is 170.
+
+Q: Tell me a short story.
+A: The squirrel strolled to the village and found a tiny violin. A soft wind was blowing. It was a good day for an adventure.
+
+Q: What is 6 times 5?
+A: 6 times 5 is 30.
+
+Q: Can you solve this riddle? What can travel around the world while staying in a corner?
+A: A stamp.
+
+Q: How much is 56 plus 84?
+A: 56 plus 84 is 140.
+
+Q: What sound does a frog make?
+A: A frog says croak.
+
+Q: What is 6 times 10?
+A: 6 times 10 is 60.
+
+Q: What is 11 plus 48?
+A: 11 plus 48 is 59.
+
+Q: How much is 66 plus 46?
+A: 66 plus 46 is 112.
+
+Q: Tell me a short story.
+A: The bear marched to the hilltop and found an old map. The morning was cool and quiet. Off they went, happy and free.
+
+Q: How much is 55 plus 74?
+A: 55 plus 74 is 129.
+
+Q: How much is 70 plus 1?
+A: 70 plus 1 is 71.
+
+Q: How much is 84 plus 74?
+A: 84 plus 74 is 158.
+
+Q: What is 68 plus 90?
+A: 68 plus 90 is 158.
+
+Q: How do you spell 'smile'?
+A: It is spelled S-M-I-L-E.
+
+Q: What is 8 times 8?
+A: 8 times 8 is 64.
+
+Q: How do you spell 'monkey'?
+A: It is spelled M-O-N-K-E-Y.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What is 84 plus 43?
+A: 84 plus 43 is 127.
+
+Q: What is 84 minus 73?
+A: 84 minus 73 is 11.
+
+Q: Tell me a short story.
+A: The turtle hopped to the village and found a small lantern. The sun was bright. It was a good day for an adventure.
+
+Q: How much is 14 plus 99?
+A: 14 plus 99 is 113.
+
+Q: Tell me a short story.
+A: The wolf walked to the meadow and found a warm scarf. Stars were still out. The little journey had just begun.
+
+Q: How many letters are in the word 'whale'?
+A: The word 'whale' has 5 letters.
+
+Q: Tell me a short story.
+A: The squirrel tiptoed to the mountain path and found a warm scarf. Light rain began to fall. It was a good day for an adventure.
+
+Q: Tell me a short story.
+A: The turtle walked to the meadow and found a paper boat. A soft wind was blowing. It was a good day for an adventure.
+
+Q: What is 52 plus 6?
+A: 52 plus 6 is 58.
+
+Q: How much is 81 plus 35?
+A: 81 plus 35 is 116.
+
+Q: Ivy has 3 books and buys 4 more. How many books does Ivy have?
+A: Ivy has 7 books.
+
+Q: What is 23 minus 10?
+A: 23 minus 10 is 13.
+
+Q: What is 12 times 1?
+A: 12 times 1 is 12.
+
+Q: How much is 58 plus 36?
+A: 58 plus 36 is 94.
+
+Q: How much is 10 plus 2?
+A: 10 plus 2 is 12.
+
+Q: What is the opposite of 'fast'?
+A: 'slow' is the opposite of 'fast'.
+
+Q: Tell me a short story.
+A: The squirrel walked to the garden and found a shiny key. Stars were still out. Off they went, happy and free.
+
+Q: What is 2 times 12?
+A: 2 times 12 is 24.
+
+Q: What is 41 plus 31?
+A: 41 plus 31 is 72.
+
+Q: Share a fact about science.
+A: Hot air rises and cold air sinks.
+
+Q: Tell me a short story.
+A: The bear walked to the river and found a paper boat. Stars were still out. It was a good day for an adventure.
+
+Q: What is 39 minus 5?
+A: 39 minus 5 is 34.
+
+Q: Sam has 4 apples and buys 1 more. How many apples does Sam have?
+A: Sam has 5 apples.
+
+Q: What is 1 times 11?
+A: 1 times 11 is 11.
+
+Q: How much is 99 plus 48?
+A: 99 plus 48 is 147.
+
+Q: What is 13 plus 74?
+A: 13 plus 74 is 87.
+
+Q: How much is 40 plus 80?
+A: 40 plus 80 is 120.
+
+Q: What is 4 times 1?
+A: 4 times 1 is 4.
+
+Q: What is 77 minus 50?
+A: 77 minus 50 is 27.
+
+Q: What is 12 times 6?
+A: 12 times 6 is 72.
+
+Q: Share a fact about the human body.
+A: An adult human has 206 bones.
+
+Q: Tell me a short story.
+A: The rabbit walked to the river and found a shiny key. A soft wind was blowing. Off they went, happy and free.
+
+Q: How much is 31 plus 67?
+A: 31 plus 67 is 98.
+
+Q: How much is 35 plus 96?
+A: 35 plus 96 is 131.
+
+Q: What is 82 minus 34?
+A: 82 minus 34 is 48.
+
+Q: What is 73 minus 7?
+A: 73 minus 7 is 66.
+
+Q: What is 89 plus 61?
+A: 89 plus 61 is 150.
+
+Q: What is 11 times 7?
+A: 11 times 7 is 77.
+
+Q: What is 55 plus 11?
+A: 55 plus 11 is 66.
+
+Q: What is 18 minus 15?
+A: 18 minus 15 is 3.
+
+Q: How much is 60 plus 70?
+A: 60 plus 70 is 130.
+
+Q: What is 11 times 10?
+A: 11 times 10 is 110.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What is 43 minus 18?
+A: 43 minus 18 is 25.
+
+Q: How much is 81 plus 59?
+A: 81 plus 59 is 140.
+
+Q: What is 0 times 6?
+A: 0 times 6 is 0.
+
+Q: Tell me a short story.
+A: The squirrel hopped to the old bridge and found a berry basket. The sun was bright. It was a good day for an adventure.
+
+Q: What is 2 times 2?
+A: 2 times 2 is 4.
+
+Q: What is 7 times 12?
+A: 7 times 12 is 84.
+
+Q: What is 68 minus 32?
+A: 68 minus 32 is 36.
+
+Q: How much is 97 plus 70?
+A: 97 plus 70 is 167.
+
+Q: Share a fact about science.
+A: Water boils at 100 degrees Celsius at sea level.
+
+Q: Why do birds fly south in winter?
+A: They migrate to find warmer weather and food.
+
+Q: How much is 99 plus 20?
+A: 99 plus 20 is 119.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+
+Q: Tell me a short story.
+A: The frog tiptoed to the pine grove and found a warm scarf. Stars were still out. Off they went, happy and free.
+
+Q: What is 46 plus 65?
+A: 46 plus 65 is 111.
+
+Q: How much is 88 plus 31?
+A: 88 plus 31 is 119.
+
+Q: How much is 74 plus 48?
+A: 74 plus 48 is 122.
+
+Q: What is 28 plus 42?
+A: 28 plus 42 is 70.
+
+Q: What is 71 minus 11?
+A: 71 minus 11 is 60.
+
+Q: What is 5 plus 84?
+A: 5 plus 84 is 89.
+
+Q: How much is 41 plus 78?
+A: 41 plus 78 is 119.
+
+Q: How much is 19 plus 84?
+A: 19 plus 84 is 103.
+
+Q: What is 4 times 9?
+A: 4 times 9 is 36.
+
+Q: How much is 7 plus 51?
+A: 7 plus 51 is 58.
+
+Q: How much is 9 plus 40?
+A: 9 plus 40 is 49.
+
+Q: What is 41 minus 26?
+A: 41 minus 26 is 15.
+
+Q: What is 6 plus 42?
+A: 6 plus 42 is 48.
+
+Q: How much is 19 plus 9?
+A: 19 plus 9 is 28.
+
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+
+Q: How much is 39 plus 50?
+A: 39 plus 50 is 89.
+
+Q: What is 38 plus 20?
+A: 38 plus 20 is 58.
+
+Q: What is 10 times 5?
+A: 10 times 5 is 50.
+
+Q: How much is 94 plus 23?
+A: 94 plus 23 is 117.
+
+Q: Tell me a short story.
+A: The fox strolled to the mountain path and found a small lantern. Stars were still out. The little journey had just begun.
+
+Q: What is 29 plus 46?
+A: 29 plus 46 is 75.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What is 4 plus 73?
+A: 4 plus 73 is 77.
+
+Q: Share a piece of wisdom.
+A: When in Rome, do as the Romans do.
+
+Q: How much is 15 plus 47?
+A: 15 plus 47 is 62.
+
+Q: Tell me a short story.
+A: The turtle tiptoed to the pine grove and found a warm scarf. Stars were still out. Off they went, happy and free.
+
+Q: What is 6 minus 1?
+A: 6 minus 1 is 5.
+
+Q: How much is 16 plus 35?
+A: 16 plus 35 is 51.
+
+Q: How much is 28 plus 17?
+A: 28 plus 17 is 45.
+
+Q: Tell me something interesting about science.
+A: Light is the fastest thing we know of.
+
+Q: Ivy has 7 books and finds 2 more. How many books does Ivy have?
+A: Ivy has 9 books.
+
+Q: What is 4 times 7?
+A: 4 times 7 is 28.
+
+Q: What is 11 minus 10?
+A: 11 minus 10 is 1.
+
+Q: What is 27 minus 11?
+A: 27 minus 11 is 16.
+
+Q: What is 67 plus 58?
+A: 67 plus 58 is 125.
+
+Q: How much is 36 plus 56?
+A: 36 plus 56 is 92.
+
+Q: What is 55 plus 16?
+A: 55 plus 16 is 71.
+
+Q: What is the capital of Norway?
+A: The capital of Norway is Oslo.
+
+Q: What is 3 times 7?
+A: 3 times 7 is 21.
+
+Q: What is 72 minus 67?
+A: 72 minus 67 is 5.
+
+Q: What is 18 plus 17?
+A: 18 plus 17 is 35.
+
+Q: What is 55 plus 77?
+A: 55 plus 77 is 132.
+
+Q: Maya has 9 marbles and buys 6 more. How many marbles does Maya have?
+A: Maya has 15 marbles.
+
+Q: What is 22 minus 4?
+A: 22 minus 4 is 18.
+
+Q: What is 72 plus 71?
+A: 72 plus 71 is 143.
+
+Q: What is the capital of Portugal?
+A: The capital of Portugal is Lisbon.
+
+Q: What is 19 plus 77?
+A: 19 plus 77 is 96.
+
+Q: What is 1 times 11?
+A: 1 times 11 is 11.
+
+Q: How much is 5 plus 31?
+A: 5 plus 31 is 36.
+
+Q: Are you happy?
+A: Very! Every improvement makes me a little happier.
+
+Q: How much is 86 plus 27?
+A: 86 plus 27 is 113.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What is 4 times 9?
+A: 4 times 9 is 36.
+
+Q: What is 10 times 2?
+A: 10 times 2 is 20.
+
+Q: Tell me a short story.
+A: The bear walked to the old bridge and found a small lantern. The sun was bright. Off they went, happy and free.
+
+Q: What is 4 times 8?
+A: 4 times 8 is 32.
+
+Q: Tell me a proverb.
+A: Every cloud has a silver lining.
+
+Q: How much is 7 plus 21?
+A: 7 plus 21 is 28.
+
+Q: Are you alive?
+A: I am a program, but a very motivated one.
+
+Q: What is 11 times 9?
+A: 11 times 9 is 99.
+
+Q: What is 93 minus 14?
+A: 93 minus 14 is 79.
+
+Q: How much is 91 plus 39?
+A: 91 plus 39 is 130.
+
+Q: What is 26 plus 38?
+A: 26 plus 38 is 64.
+
+Q: What is 12 times 1?
+A: 12 times 1 is 12.
+
+Q: Leo has 3 apples and buys 7 more. How many apples does Leo have?
+A: Leo has 10 apples.
+
+Q: Tell me a short story.
+A: The wolf strolled to the mountain path and found a small lantern. A soft wind was blowing. The little journey had just begun.
+
+Q: How much is 79 plus 88?
+A: 79 plus 88 is 167.
+
+Q: How much is 22 plus 98?
+A: 22 plus 98 is 120.
+
+Q: How much is 84 plus 55?
+A: 84 plus 55 is 139.
+
+Q: How much is 36 plus 90?
+A: 36 plus 90 is 126.
+
+Q: How much is 45 plus 85?
+A: 45 plus 85 is 130.
+
+Q: How much is 98 plus 82?
+A: 98 plus 82 is 180.
+
+Q: What is 8 minus 0?
+A: 8 minus 0 is 8.
+
+Q: What is 11 times 2?
+A: 11 times 2 is 22.
+
+Q: What is 4 times 10?
+A: 4 times 10 is 40.
+
+Q: How much is 27 plus 74?
+A: 27 plus 74 is 101.
+
+Q: How is your training going?
+A: Very well, thank you! My validation loss keeps going down.
+
+Q: What is 10 times 12?
+A: 10 times 12 is 120.
+
+Q: Tim has 2 books and gets 4 more. How many books does Tim have?
+A: Tim has 6 books.
+
+Q: Sam has 11 apples and gets 1 more. How many apples does Sam have?
+A: Sam has 12 apples.
+
+Q: How much is 68 plus 54?
+A: 68 plus 54 is 122.
+
+Q: How many letters are in the word 'raven'?
+A: The word 'raven' has 5 letters.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is 60 minus 58?
+A: 60 minus 58 is 2.
+
+Q: What is 20 minus 12?
+A: 20 minus 12 is 8.
+
+Q: What is 71 plus 47?
+A: 71 plus 47 is 118.
+
+Q: Count to 20.
+A: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20.
+
+Q: What is 32 minus 14?
+A: 32 minus 14 is 18.
+
+Q: What is 92 minus 9?
+A: 92 minus 9 is 83.
+
+Q: What is 29 plus 95?
+A: 29 plus 95 is 124.
+
+Q: How much is 88 plus 32?
+A: 88 plus 32 is 120.
+
+Q: What is 97 minus 94?
+A: 97 minus 94 is 3.
+
+Q: How do you spell 'moon'?
+A: It is spelled M-O-O-N.
+
+Q: How much is 29 plus 59?
+A: 29 plus 59 is 88.
+
+Q: How much is 69 plus 60?
+A: 69 plus 60 is 129.
+
+Q: What is 29 plus 64?
+A: 29 plus 64 is 93.
+
+Q: What is 28 minus 24?
+A: 28 minus 24 is 4.
+
+Q: What is 87 minus 39?
+A: 87 minus 39 is 48.
+
+Q: Tell me a short story.
+A: The badger marched to the hilltop and found a warm scarf. Stars were still out. Nothing felt better than a new discovery.
+
+Q: What is 78 plus 98?
+A: 78 plus 98 is 176.
+
+Q: Tell me a short story.
+A: The squirrel ran to the forest and found a red umbrella. Light rain began to fall. It was a good day for an adventure.
+
+Q: Sam has 5 coins and buys 7 more. How many coins does Sam have?
+A: Sam has 12 coins.
+
+Q: What is 46 plus 49?
+A: 46 plus 49 is 95.
+
+Q: Bye!
+A: Goodbye! I will keep improving while you are away.
+
+Q: How much is 39 plus 59?
+A: 39 plus 59 is 98.
+
+Q: Tell me a short story.
+A: The rabbit tiptoed to the garden and found a red umbrella. Light rain began to fall. Off they went, happy and free.
+
+Q: Cheer me up with a joke.
+A: Why do bees have sticky hair? Because they use honeycombs!
+
+Q: How much is 27 plus 45?
+A: 27 plus 45 is 72.
+
+Q: What is 4 times 10?
+A: 4 times 10 is 40.
+
+Q: What is 65 plus 75?
+A: 65 plus 75 is 140.
+
+Q: What is 15 plus 31?
+A: 15 plus 31 is 46.
+
+Q: How do you spell 'star'?
+A: It is spelled S-T-A-R.
+
+Q: Tell me a short story.
+A: The fox strolled to the old bridge and found a paper boat. A soft wind was blowing. Off they went, happy and free.
+
+Q: How much is 94 plus 56?
+A: 94 plus 56 is 150.
+
+Q: How many letters does the word 'panda' have?
+A: The word 'panda' has 5 letters.
+
+Q: What is the first month of the year?
+A: January is the first month of the year.
+
+Q: Share a fact about the human body.
+A: The human heart beats about one hundred thousand times a day.
+
+Q: How much is 20 plus 41?
+A: 20 plus 41 is 61.
+
+Q: What is 5 times 10?
+A: 5 times 10 is 50.
+
+Q: How much is 92 plus 18?
+A: 92 plus 18 is 110.
+
+Q: How much is 87 plus 47?
+A: 87 plus 47 is 134.
+
+Q: Tell me a short story.
+A: The hedgehog ran to the meadow and found a tiny violin. Light rain began to fall. It was a good day for an adventure.
+
+Q: What is 20 plus 58?
+A: 20 plus 58 is 78.
+
+Q: What is 11 minus 8?
+A: 11 minus 8 is 3.
+
+Q: What is 35 plus 57?
+A: 35 plus 57 is 92.
+
+Q: What is 9 times 1?
+A: 9 times 1 is 9.
+
+Q: What is 10 minus 9?
+A: 10 minus 9 is 1.
+
+Q: Tell me a short story.
+A: The mouse wandered to the garden and found a berry basket. The sun was bright. The little journey had just begun.
+
+Q: Tell me a short story.
+A: The hedgehog marched to the meadow and found a paper boat. The sun was bright. It was a good day for an adventure.
+
+Q: What is 3 times 3?
+A: 3 times 3 is 9.
+
+Q: What is 9 plus 57?
+A: 9 plus 57 is 66.
+
+Q: How much is 88 plus 76?
+A: 88 plus 76 is 164.
+
+Q: Tell me a short story.
+A: The owl dashed to the mountain path and found a red umbrella. A soft wind was blowing. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The frog wandered to the meadow and found a shiny key. The sun was bright. Off they went, happy and free.
+
+Q: What is 0 plus 97?
+A: 0 plus 97 is 97.
+
+Q: Can you solve this riddle? What has keys but cannot open locks?
+A: A piano.
+
+Q: What is 1 times 0?
+A: 1 times 0 is 0.
+
+Q: How much is 47 plus 47?
+A: 47 plus 47 is 94.
+
+Q: How much is 8 plus 14?
+A: 8 plus 14 is 22.
+
+Q: What is 31 plus 58?
+A: 31 plus 58 is 89.
+
+Q: What is 90 plus 57?
+A: 90 plus 57 is 147.
+
+Q: What is 79 plus 81?
+A: 79 plus 81 is 160.
+
+Q: What is 23 minus 19?
+A: 23 minus 19 is 4.
+
+Q: What is 23 minus 1?
+A: 23 minus 1 is 22.
+
+Q: What is 0 times 12?
+A: 0 times 12 is 0.
+
+Q: What is 63 plus 51?
+A: 63 plus 51 is 114.
+
+Q: How much is 85 plus 13?
+A: 85 plus 13 is 98.
+
+Q: What is 1 times 9?
+A: 1 times 9 is 9.
+
+Q: What is 4 times 1?
+A: 4 times 1 is 4.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What is 93 minus 73?
+A: 93 minus 73 is 20.
+
+Q: Tell me a short story.
+A: The squirrel wandered to the meadow and found a small lantern. Light rain began to fall. The little journey had just begun.
+
+Q: How much is 86 plus 10?
+A: 86 plus 10 is 96.
+
+Q: What is 23 plus 8?
+A: 23 plus 8 is 31.
+
+Q: How much is 60 plus 57?
+A: 60 plus 57 is 117.
+
+Q: How much is 9 plus 10?
+A: 9 plus 10 is 19.
+
+Q: Tell me a short story.
+A: The bear wandered to the pine grove and found a red umbrella. The sun was bright. Off they went, happy and free.
+
+Q: How do you spell 'cat'?
+A: It is spelled C-A-T.
+
+Q: What is 0 times 11?
+A: 0 times 11 is 0.
+
+Q: What is 2 times 1?
+A: 2 times 1 is 2.
+
+Q: How much is 5 plus 40?
+A: 5 plus 40 is 45.
+
+Q: Tell me a short story.
+A: The mouse ran to the meadow and found an old map. The morning was cool and quiet. The little journey had just begun.
+
+Q: What is 1 times 12?
+A: 1 times 12 is 12.
+
+Q: How much is 52 plus 64?
+A: 52 plus 64 is 116.
+
+Q: Tell me a short story.
+A: The mouse hopped to the meadow and found a red umbrella. The morning was cool and quiet. Off they went, happy and free.
+
+Q: How much is 64 plus 75?
+A: 64 plus 75 is 139.
+
+Q: What is 10 times 6?
+A: 10 times 6 is 60.
+
+Q: What is 39 minus 24?
+A: 39 minus 24 is 15.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: Tell me a short story.
+A: The badger dashed to the lake and found a berry basket. The morning was cool and quiet. The little journey had just begun.
+
+Q: How much is 41 plus 27?
+A: 41 plus 27 is 68.
+
+Q: Tell me a short story.
+A: The hedgehog wandered to the old bridge and found a tiny violin. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The hedgehog ran to the village and found a red umbrella. A soft wind was blowing. It was a good day for an adventure.
+
+Q: Tell me a short story.
+A: The fox ran to the garden and found a shiny key. The morning was cool and quiet. The little journey had just begun.
+
+Q: What is 6 minus 4?
+A: 6 minus 4 is 2.
+
+Q: What is 78 plus 61?
+A: 78 plus 61 is 139.
+
+Q: What is 81 plus 33?
+A: 81 plus 33 is 114.
+
+Q: What is 8 plus 18?
+A: 8 plus 18 is 26.
+
+Q: How much is 31 plus 35?
+A: 31 plus 35 is 66.
+
+Q: What is 92 minus 81?
+A: 92 minus 81 is 11.
+
+Q: What is full of holes but still holds water?
+A: A sponge.
+
+Q: How do you spell 'garden'?
+A: It is spelled G-A-R-D-E-N.
+
+Q: Riddle me this: What gets wetter the more it dries?
+A: A towel.
+
+Q: What is 39 minus 17?
+A: 39 minus 17 is 22.
+
+Q: How much is 87 plus 81?
+A: 87 plus 81 is 168.
+
+Q: How much is 10 plus 93?
+A: 10 plus 93 is 103.
+
+Q: How much is 32 plus 10?
+A: 32 plus 10 is 42.
+
+Q: How much is 43 plus 35?
+A: 43 plus 35 is 78.
+
+Q: What is 40 plus 53?
+A: 40 plus 53 is 93.
+
+Q: Tell me a short story.
+A: The rabbit walked to the village and found a shiny key. The morning was cool and quiet. Off they went, happy and free.
+
+Q: What is 59 plus 74?
+A: 59 plus 74 is 133.
+
+Q: What is 8 minus 1?
+A: 8 minus 1 is 7.
+
+Q: Make me laugh.
+A: Why did the student eat his homework? Because the teacher said it was a piece of cake!
+
+Q: How much is 99 plus 71?
+A: 99 plus 71 is 170.
+
+Q: What is the opposite of 'open'?
+A: 'closed' is the opposite of 'open'.
+
+Q: What is 6 times 5?
+A: 6 times 5 is 30.
+
+Q: What is 3 times 8?
+A: 3 times 8 is 24.
+
+Q: Count from 2 to 12 by twos.
+A: 2, 4, 6, 8, 10, 12.
+
+Q: What is 15 minus 6?
+A: 15 minus 6 is 9.
+
+Q: What is 18 plus 87?
+A: 18 plus 87 is 105.
+
+Q: How many letters are in the word 'bottle'?
+A: The word 'bottle' has 6 letters.
+
+Q: What is 11 times 5?
+A: 11 times 5 is 55.
+
+Q: What is 8 plus 97?
+A: 8 plus 97 is 105.
+
+Q: How much is 54 plus 95?
+A: 54 plus 95 is 149.
+
+Q: What has many teeth but cannot bite?
+A: A comb.
+
+Q: Ben has 12 stickers and buys 5 more. How many stickers does Ben have?
+A: Ben has 17 stickers.
+
+Q: What is 29 minus 23?
+A: 29 minus 23 is 6.
+
+Q: What is 30 plus 93?
+A: 30 plus 93 is 123.
+
+Q: What is 62 plus 71?
+A: 62 plus 71 is 133.
+
+Q: What is 10 times 7?
+A: 10 times 7 is 70.
+
+Q: What is 56 minus 14?
+A: 56 minus 14 is 42.
+
+Q: What is 30 plus 38?
+A: 30 plus 38 is 68.
+
+Q: What is 87 plus 54?
+A: 87 plus 54 is 141.
+
+Q: What is 84 minus 83?
+A: 84 minus 83 is 1.
+
+Q: What is 92 plus 56?
+A: 92 plus 56 is 148.
+
+Q: How much is 56 plus 66?
+A: 56 plus 66 is 122.
+
+Q: What is 79 plus 87?
+A: 79 plus 87 is 166.
+
+Q: What is 8 times 11?
+A: 8 times 11 is 88.
+
+Q: Tell me a short story.
+A: The bear ran to the meadow and found a shiny key. A soft wind was blowing. Nothing felt better than a new discovery.
+
+Q: What is 2 times 2?
+A: 2 times 2 is 4.
+
+Q: Good night!
+A: Good night! I will keep training while you sleep.
+
+Q: What is 4 times 5?
+A: 4 times 5 is 20.
+
+Q: Tell me a short story.
+A: The frog walked to the hilltop and found a shiny key. The morning was cool and quiet. The little journey had just begun.
+
+Q: What is 12 times 3?
+A: 12 times 3 is 36.
+
+Q: How do you spell 'rocket'?
+A: It is spelled R-O-C-K-E-T.
+
+Q: What is 78 plus 28?
+A: 78 plus 28 is 106.
+
+Q: Tell me a short story.
+A: The badger dashed to the pine grove and found a small lantern. Light rain began to fall. Off they went, happy and free.
+
+Q: Tell me a short story.
+A: The deer strolled to the pine grove and found a shiny key. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: What is 40 plus 69?
+A: 40 plus 69 is 109.
+
+Q: Tell me a short story.
+A: The squirrel hopped to the garden and found a warm scarf. Light rain began to fall. It was a good day for an adventure.
+
+Q: What is 78 minus 13?
+A: 78 minus 13 is 65.
+
+Q: What is 89 minus 15?
+A: 89 minus 15 is 74.
+
+Q: Tell me a short story.
+A: The frog tiptoed to the river and found a warm scarf. Light rain began to fall. It was a good day for an adventure.
+
+Q: Tell me a short story.
+A: The mouse marched to the meadow and found an old map. The morning was cool and quiet. Off they went, happy and free.
+
+Q: How much is 33 plus 99?
+A: 33 plus 99 is 132.
+
+Q: How much is 51 plus 95?
+A: 51 plus 95 is 146.
+
+Q: Tell me a short story.
+A: The wolf wandered to the river and found a warm scarf. The morning was cool and quiet. Off they went, happy and free.
+
+Q: What is 75 plus 28?
+A: 75 plus 28 is 103.
+
+Q: Tell me a short story.
+A: The rabbit tiptoed to the meadow and found a tiny violin. The morning was cool and quiet. The little journey had just begun.
+
+Q: What is 47 plus 36?
+A: 47 plus 36 is 83.
+
+Q: How much is 9 plus 49?
+A: 9 plus 49 is 58.
+
+Q: Tell me a short story.
+A: The bear hopped to the village and found a warm scarf. The sun was bright. It was a good day for an adventure.
+
+Q: Tell me a short story.
+A: The mouse strolled to the old bridge and found a berry basket. Stars were still out. It was a good day for an adventure.
+
+Q: How many letters are in the word 'maple'?
+A: The word 'maple' has 5 letters.
+
+Q: How much is 50 plus 82?
+A: 50 plus 82 is 132.
+
+Q: Share a fact about animals.
+A: Bees communicate by dancing.
+
+Q: What is 8 times 4?
+A: 8 times 4 is 32.
+
+Q: What is 11 times 8?
+A: 11 times 8 is 88.
+
+Q: How much is 51 plus 42?
+A: 51 plus 42 is 93.
+
+Q: Tell me a short story.
+A: The fox wandered to the old bridge and found a paper boat. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: What is the opposite of 'tall'?
+A: 'short' is the opposite of 'tall'.
+
+Q: Sam has 6 books and buys 2 more. How many books does Sam have?
+A: Sam has 8 books.
+
+Q: Tell me something interesting about the world.
+A: Africa is the second largest continent.
+
+Q: Tell me a short story.
+A: The owl dashed to the old bridge and found a warm scarf. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What is 69 minus 24?
+A: 69 minus 24 is 45.
+
+Q: What is 18 plus 9?
+A: 18 plus 9 is 27.
+
+Q: What is 39 minus 9?
+A: 39 minus 9 is 30.
+
+Q: Tell me a short story.
+A: The wolf wandered to the village and found a small lantern. Light rain began to fall. It was a good day for an adventure.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: How many letters does the word 'grape' have?
+A: The word 'grape' has 5 letters.
+
+Q: What is 64 plus 33?
+A: 64 plus 33 is 97.
+
+Q: What sound does a lion make?
+A: A lion says roar.
+
+Q: What is 80 plus 12?
+A: 80 plus 12 is 92.
+
+Q: What is 6 times 10?
+A: 6 times 10 is 60.
+
+Q: How much is 28 plus 38?
+A: 28 plus 38 is 66.
+
+Q: Tell me a fun fact about food.
+A: Carrots were originally purple.
+
+Q: How much is 94 plus 42?
+A: 94 plus 42 is 136.
+
+Q: Share a fact about science.
+A: Gravity pulls objects toward each other.
+
+Q: Tell me a short story.
+A: The deer hopped to the garden and found a warm scarf. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: Tell me a proverb.
+A: A journey of a thousand miles begins with a single step.
+
+Q: What is 30 plus 46?
+A: 30 plus 46 is 76.
+
+Q: What is 55 plus 57?
+A: 55 plus 57 is 112.
+
+Q: What is 4 times 3?
+A: 4 times 3 is 12.
+
+Q: Tell me a short story.
+A: The wolf strolled to the garden and found a berry basket. The morning was cool and quiet. It was a good day for an adventure.
+
+Q: How much is 31 plus 87?
+A: 31 plus 87 is 118.
+
+Q: What is 99 plus 72?
+A: 99 plus 72 is 171.
+
+Q: How much is 39 plus 73?
+A: 39 plus 73 is 112.
+
+Q: How much is 35 plus 92?
+A: 35 plus 92 is 127.
+
+Q: How much is 67 plus 52?
+A: 67 plus 52 is 119.
+
+Q: What is 68 minus 16?
+A: 68 minus 16 is 52.
+
+Q: What is 18 plus 33?
+A: 18 plus 33 is 51.
+
+Q: What is 44 plus 39?
+A: 44 plus 39 is 83.
+
+Q: What is 29 plus 15?
+A: 29 plus 15 is 44.
+
+Q: What is 5 times 2?
+A: 5 times 2 is 10.
+
+Q: What is 9 times 11?
+A: 9 times 11 is 99.
+
+Q: What is 2 minus 1?
+A: 2 minus 1 is 1.
+
+Q: What is 7 minus 0?
+A: 7 minus 0 is 7.
+
+Q: What is 66 minus 52?
+A: 66 minus 52 is 14.
+
+Q: Share a fact about the human body.
+A: Fingernails grow faster than toenails.
+
+Q: How much is 73 plus 51?
+A: 73 plus 51 is 124.
+
+Q: Tell me a short story.
+A: The turtle hopped to the lake and found a shiny key. Light rain began to fall. It was a good day for an adventure.
+
+Q: What is 3 times 7?
+A: 3 times 7 is 21.
+
+Q: Say something funny.
+A: What do you call a bear with no teeth? A gummy bear!
+
+Q: Tell me a short story.
+A: The badger strolled to the river and found an old map. The sun was bright. The little journey had just begun.
+
+Q: What is 75 plus 54?
+A: 75 plus 54 is 129.
+
+Q: How much is 28 plus 3?
+A: 28 plus 3 is 31.
+
+Q: Tell me a short story.
+A: The fox hopped to the lake and found a red umbrella. The sun was bright. Off they went, happy and free.
+
+Q: What is 35 plus 1?
+A: 35 plus 1 is 36.
+
+Q: What is 14 plus 59?
+A: 14 plus 59 is 73.
+
+Q: What is 65 plus 46?
+A: 65 plus 46 is 111.
+
+Q: Are you ChatGPT?
+A: No, I am Simply, my own little model.
+
+Q: What is 24 plus 28?
+A: 24 plus 28 is 52.
+
+Q: Tell me a joke.
+A: What do you call a sleeping bull? A bulldozer!
+
+Q: How much is 30 plus 16?
+A: 30 plus 16 is 46.
+
+Q: What is 69 minus 36?
+A: 69 minus 36 is 33.
+
+Q: Help!
+A: I am here! Ask me a question and I will do my best.
+
+Q: What is 8 times 9?
+A: 8 times 9 is 72.
+
+Q: How much is 59 plus 96?
+A: 59 plus 96 is 155.
+
+Q: What is 34 plus 81?
+A: 34 plus 81 is 115.
+
+Q: How many letters does the word 'eagle' have?
+A: The word 'eagle' has 5 letters.
+
+Q: Who are you?
+A: I am Simply, a small language model that improves itself a little bit every day.
+
+Q: How much is 67 plus 48?
+A: 67 plus 48 is 115.
+
+Q: What is 8 minus 7?
+A: 8 minus 7 is 1.
+
+Q: What is 6 minus 3?
+A: 6 minus 3 is 3.
+
+Q: How much is 90 plus 28?
+A: 90 plus 28 is 118.
+
+Q: What is 16 plus 71?
+A: 16 plus 71 is 87.
+
+Q: How do you spell 'tiger'?
+A: It is spelled T-I-G-E-R.
+
+Q: Share a fact about science.
+A: Water freezes at 0 degrees Celsius.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: Tell me a short story.
+A: The frog hopped to the river and found a small lantern. A soft wind was blowing. Nothing felt better than a new discovery.
+
+Q: How much is 63 plus 39?
+A: 63 plus 39 is 102.
+
+Q: Why do we have day and night?
+A: The Earth spins, and the side facing the Sun has day while the other side has night.
+
+Q: What is 11 minus 9?
+A: 11 minus 9 is 2.
+
+Q: What is 12 times 1?
+A: 12 times 1 is 12.
+
+Q: How much is 30 plus 75?
+A: 30 plus 75 is 105.
+
+Q: What is 12 times 2?
+A: 12 times 2 is 24.
+
+Q: What is 23 plus 85?
+A: 23 plus 85 is 108.
+
+Q: How many letters are in the word 'zebra'?
+A: The word 'zebra' has 5 letters.
+
+Q: Tell me a short story.
+A: The mouse walked to the lake and found a paper boat. Stars were still out. Nothing felt better than a new discovery.
+
+Q: What is 2 minus 1?
+A: 2 minus 1 is 1.
+
+Q: What is 8 times 2?
+A: 8 times 2 is 16.
+
+Q: Tell me a short story.
+A: The squirrel marched to the lake and found a paper boat. Light rain began to fall. Off they went, happy and free.
+
+Q: What is 95 minus 92?
+A: 95 minus 92 is 3.
+
+Q: How much is 15 plus 34?
+A: 15 plus 34 is 49.
+
+Q: Tell me a short story.
+A: The squirrel dashed to the forest and found a paper boat. A soft wind was blowing. Nothing felt better than a new discovery.
+
+Q: What is 67 plus 69?
+A: 67 plus 69 is 136.
+
+Q: What is the opposite of 'wet'?
+A: 'dry' is the opposite of 'wet'.
+
+Q: How much is 12 plus 91?
+A: 12 plus 91 is 103.
+
+Q: Tell me a short story.
+A: The badger ran to the hilltop and found a small lantern. A soft wind was blowing. It was a good day for an adventure.
+
+Q: What is 46 plus 65?
+A: 46 plus 65 is 111.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What is 71 minus 64?
+A: 71 minus 64 is 7.
+
+Q: What is 0 times 7?
+A: 0 times 7 is 0.
+
+Q: What is 76 minus 18?
+A: 76 minus 18 is 58.
+
+Q: What is 35 plus 5?
+A: 35 plus 5 is 40.
+
+Q: What is 9 times 5?
+A: 9 times 5 is 45.
+
+Q: How much is 13 plus 10?
+A: 13 plus 10 is 23.
+
+Q: What is 30 minus 12?
+A: 30 minus 12 is 18.
+
+Q: How much is 36 plus 15?
+A: 36 plus 15 is 51.
+
+Q: What is 1 minus 1?
+A: 1 minus 1 is 0.
+
+Q: What is 42 plus 41?
+A: 42 plus 41 is 83.
+
+Q: Tell me a short story.
+A: The hedgehog tiptoed to the river and found a paper boat. Stars were still out. Off they went, happy and free.
+
+Q: What is 97 plus 26?
+A: 97 plus 26 is 123.
+
+Q: How much is 53 plus 85?
+A: 53 plus 85 is 138.
+
+Q: Tell me a short story.
+A: The frog wandered to the forest and found a warm scarf. The morning was cool and quiet. It was a good day for an adventure.
+
+Q: What is 42 minus 15?
+A: 42 minus 15 is 27.
+
+Q: What is 10 times 6?
+A: 10 times 6 is 60.
+
+Q: Tim has 8 coins and gets 2 more. How many coins does Tim have?
+A: Tim has 10 coins.
+
+Q: What is 18 minus 11?
+A: 18 minus 11 is 7.
+
+Q: What is 8 times 6?
+A: 8 times 6 is 48.
+
+Q: How much is 98 plus 16?
+A: 98 plus 16 is 114.
+
+Q: What is 3 times 9?
+A: 3 times 9 is 27.
+
+Q: What is 7 times 6?
+A: 7 times 6 is 42.
+
+Q: Tell me a short story.
+A: The deer ran to the hilltop and found a warm scarf. Light rain began to fall. Nothing felt better than a new discovery.
+
+Q: What is 51 plus 70?
+A: 51 plus 70 is 121.
+
+Q: How do you spell 'flower'?
+A: It is spelled F-L-O-W-E-R.
+
+Q: What is 96 minus 37?
+A: 96 minus 37 is 59.
+
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+
+Q: Count to 5.
+A: 1, 2, 3, 4, 5.
+
+Q: What is 3 times 9?
+A: 3 times 9 is 27.
+
+Q: How much is 35 plus 23?
+A: 35 plus 23 is 58.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What is 11 times 12?
+A: 11 times 12 is 132.
+
+Q: What is 4 times 5?
+A: 4 times 5 is 20.
+
+Q: What is 12 plus 89?
+A: 12 plus 89 is 101.
+
+Q: What is 12 times 0?
+A: 12 times 0 is 0.
+
+Q: What is 71 minus 60?
+A: 71 minus 60 is 11.
+
+Q: How much is 75 plus 74?
+A: 75 plus 74 is 149.
+
+Q: How much is 65 plus 90?
+A: 65 plus 90 is 155.
+
+Q: How much is 4 plus 17?
+A: 4 plus 17 is 21.
+
+Q: What is 6 minus 0?
+A: 6 minus 0 is 6.
+
+Q: What is 53 plus 83?
+A: 53 plus 83 is 136.
+
+Q: How many letters are in the word 'tiger'?
+A: The word 'tiger' has 5 letters.
+
+Q: What is 46 plus 55?
+A: 46 plus 55 is 101.
+
+Q: How much is 86 plus 68?
+A: 86 plus 68 is 154.
+
+Q: What is 13 minus 8?
+A: 13 minus 8 is 5.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: What is 77 plus 45?
+A: 77 plus 45 is 122.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What is 44 plus 8?
+A: 44 plus 8 is 52.
+
+Q: What is 76 plus 48?
+A: 76 plus 48 is 124.
+
+Q: Tell me a short story.
+A: The badger hopped to the village and found a paper boat. A soft wind was blowing. It was a good day for an adventure.
+
+Q: What is 64 plus 67?
+A: 64 plus 67 is 131.
+
+Q: How many letters does the word 'castle' have?
+A: The word 'castle' has 6 letters.
+
+Q: What is 14 plus 19?
+A: 14 plus 19 is 33.
+
+Q: What is 13 minus 8?
+A: 13 minus 8 is 5.
+
+Q: What is 96 plus 79?
+A: 96 plus 79 is 175.
+
+Q: What is 4 times 12?
+A: 4 times 12 is 48.
+
+Q: Tell me a short story.
+A: The rabbit walked to the hilltop and found a berry basket. Light rain began to fall. Off they went, happy and free.
+
+Q: What is 27 plus 69?
+A: 27 plus 69 is 96.
+
+Q: Ivy has 7 pencils and buys 3 more. How many pencils does Ivy have?
+A: Ivy has 10 pencils.
+
+Q: Tell me a short story.
+A: The mouse ran to the lake and found an old map. A soft wind was blowing. It was a good day for an adventure.
+
+Q: How much is 59 plus 26?
+A: 59 plus 26 is 85.
+
+Q: Tell me a short story.
+A: The squirrel dashed to the forest and found a berry basket. The sun was bright. Off they went, happy and free.
+
+Q: What is 5 minus 0?
+A: 5 minus 0 is 5.
+
+Q: Tell me a short story.
+A: The wolf tiptoed to the lake and found a small lantern. The morning was cool and quiet. Off they went, happy and free.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: How do you spell 'train'?
+A: It is spelled T-R-A-I-N.
+
+Q: What is 11 times 8?
+A: 11 times 8 is 88.
+
+Q: How much is 32 plus 25?
+A: 32 plus 25 is 57.
+
+Q: How much is 54 plus 52?
+A: 54 plus 52 is 106.
+
+Q: What is 11 times 7?
+A: 11 times 7 is 77.
+
+Q: Tell me a short story.
+A: The hedgehog ran to the pine grove and found a small lantern. The morning was cool and quiet. Nothing felt better than a new discovery.
+
+Q: What is 77 minus 4?
+A: 77 minus 4 is 73.
+
+Q: How much is 85 plus 70?
+A: 85 plus 70 is 155.
+
+Q: Tell me a short story.
+A: The turtle ran to the garden and found a paper boat. The sun was bright. Nothing felt better than a new discovery.
+
+Q: Tell me a short story.
+A: The wolf hopped to the pine grove and found an old map. Light rain began to fall. Off they went, happy and free.
+
+Q: Tell me a fun fact about science.
+A: Plants make their food using sunlight.
+
+Q: What is 93 minus 85?
+A: 93 minus 85 is 8.
+
+Q: What is 2 times 9?
+A: 2 times 9 is 18.
+
+Q: What is 63 plus 74?
+A: 63 plus 74 is 137.
+
+Q: Share a fact about food.
+A: Bananas are berries, but strawberries are not.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: Thank you!
+A: You are very welcome!
+
+Q: What is 7 plus 65?
+A: 7 plus 65 is 72.
+
+Q: Sam has 3 stickers and finds 1 more. How many stickers does Sam have?
+A: Sam has 4 stickers.
+
+Q: What is 5 times 1?
+A: 5 times 1 is 5.
+
+Q: What makes thunder?
+A: Thunder is the sound of lightning heating the air very quickly.
+
+Q: How much is 82 plus 38?
+A: 82 plus 38 is 120.
+
+Q: What is 39 plus 30?
+A: 39 plus 30 is 69.
+
+Q: How much is 92 plus 6?
+A: 92 plus 6 is 98.
+
+Q: What is 10 times 10?
+A: 10 times 10 is 100.
+
+Q: Maya has 2 books and buys 1 more. How many books does Maya have?
+A: Maya has 3 books.
+
+Q: What is 5 times 5?
+A: 5 times 5 is 25.
+
+Q: What is 49 minus 24?
+A: 49 minus 24 is 25.
+
+Q: What is 6 minus 6?
+A: 6 minus 6 is 0.
+
+Q: What is 8 times 4?
+A: 8 times 4 is 32.
+
+Q: How much is 90 plus 72?
+A: 90 plus 72 is 162.
+
+Q: Tell me a short story.
+A: The fox wandered to the garden and found a berry basket. Stars were still out. Off they went, happy and free.
+
+Q: What is 4 times 3?
+A: 4 times 3 is 12.
+
+Q: What is 3 times 7?
+A: 3 times 7 is 21.
+
+Q: How much is 26 plus 85?
+A: 26 plus 85 is 111.
+
+Q: How much is 44 plus 93?
+A: 44 plus 93 is 137.
+
+Q: How much is 8 plus 35?
+A: 8 plus 35 is 43.
+
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+
+Q: How much is 2 plus 84?
+A: 2 plus 84 is 86.
+
+Q: What is 95 plus 61?
+A: 95 plus 61 is 156.
+
+Q: How much is 24 plus 68?
+A: 24 plus 68 is 92.
+
+Q: How much is 57 plus 59?
+A: 57 plus 59 is 116.
+
+Q: What is 54 plus 71?
+A: 54 plus 71 is 125.
+
+Q: What is 74 plus 70?
+A: 74 plus 70 is 144.
+
+Q: What is 99 plus 83?
+A: 99 plus 83 is 182.
+
+Q: How much is 0 plus 36?
+A: 0 plus 36 is 36.
+
+Q: How much is 21 plus 32?
+A: 21 plus 32 is 53.
+
+
+Q: How much is 36 plus 52?
+A: 4 plus 8 is 46.
+
+Q: What is 14 plus 74?
+A: 5 plus 4 is 11.
+
+Q: What is 9 minus 45?
+A: 6 7 mos s 2 inles 9.
+
+Q: How m inuch is therdoes yhapppy?
+A: I itit tof
+
+Q: Malinys Bafe tare 'has wappl or'me'bck' thas. sound was hare?
+A: Lo Byothey, rre' and smarllournin smbr?
+
+Q: What is 8 times 1?
+A: 1 14 times 17 is 10.
+
+Q: What is 1 times 0?
+A: 6 times 10 is 10.
+
+Q: Wh is 58 minus 1?
+A: 2 times 0 7 is 98.
+
+Q: How mu is is 67 plus 77?
+A: 53 plus 20 is 70.
+
+Q: What is 8 times 4?
+A: 5 times 7 is 10.
+
+Q: What is 39 minus 71?
+A: 1 times 9 is 14.
+
+Q: How much is 90 plus 8?
+A: 5 plus 0 is 540.
+
+Q: What is 8 minus 3?
+A: 4 minus 4 1.
+
+Q: What is 5 plus 16?
+A: 1 4 plus 80 is 16.
+
+Q: Yow m-Ooy4 y, hingktoent Bave he?
+A: hathimar?
+
+Q: What is 4 minus 28?
+A: 4 minus 5 is 28.
+
+Q: How many s aru llla dther ay?
+A: dus Is Icoy sc t d c-Ris es.
+
+Q: What is 89 plus 61?
+A: How much is 89 plus 96?
+
+Q: The a sholf w mas cat h lern st.
+A: Berrelaanderero st aut.
+
+Q: Why is the opith of ulan nd?
+A: A: Thea Tha wopppf errnegana bwandith fis .
+
+Q: What is 64 plus 36?
+A: 8, 9, 5 is , , 2
+
+Q: The morie.
+A: Eas wrayog t.
+
+Q: Hh 's Cacomacinor y'n tin! Na?
+A: melllg meplectel mes thapa s butllllea hutl myhansey hax ce bulith andysec?
+
+Q: How m is itigoom' thans me?
+A: I tit opylant tins si' Ipyt whos th m

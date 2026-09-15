@@ -1,0 +1,47 @@
+name: Simply RSI Loop
+
+# Simply improves itself on a schedule, then commits its progress back
+# to this repository. Everything runs on GitHub's servers - no local
+# machine needed.
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:
+    inputs:
+      iterations:
+        description: 'Number of RSI iterations to run'
+        default: '1'
+
+concurrency:
+  group: simply-rsi
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  improve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install PyTorch (CPU)
+        run: pip install torch --index-url https://download.pytorch.org/whl/cpu
+
+      - name: Run self-improvement
+        run: python self_improve.py --iterations "${{ inputs.iterations || 1 }}" --steps 200
+
+      - name: Ensure progress is committed
+        run: |
+          git config user.name "Simply RSI Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Simply RSI run $(date -u '+%Y-%m-%d %H:%M') - see IMPROVEMENT_LOG.md"
+          git push
