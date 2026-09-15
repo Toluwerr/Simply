@@ -474,3 +474,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I was smlor-R-D-E-D."
 
+## Iteration 66 - NO_GAIN
+- **when**: 2026-09-15T22:14:11Z
+- **train loss**: 0.3013 | **val loss**: 0.4784 | **run best**: 0.4707
+- **corpus**: 139,755 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am a smalettt bout sboones."
+
