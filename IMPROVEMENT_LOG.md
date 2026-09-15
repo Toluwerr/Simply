@@ -656,3 +656,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am beligr tuny clag sepep."
 
+## Iteration 92 - NO_GAIN
+- **when**: 2026-09-15T22:23:32Z
+- **train loss**: 0.2676 | **val loss**: 0.5202 | **run best**: 0.4707
+- **corpus**: 140,265 chars (+1 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am bely my loude tine foopest in in the word."
+
