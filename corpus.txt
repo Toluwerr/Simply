@@ -6362,3 +6362,7 @@ A: 54 minus 51 is 31.
 
 Q: What is 31 minus 7?
 A: 31 minus 7 is 24.
+
+
+Q: How much is 90 plus 54?
+A: 90 plus 54 is 144.
