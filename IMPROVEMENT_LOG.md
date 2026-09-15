@@ -558,3 +558,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am a bugr smak but smalledow."
 
+## Iteration 78 - NO_GAIN
+- **when**: 2026-09-15T22:18:28Z
+- **train loss**: 0.2936 | **val loss**: 0.5039 | **run best**: 0.4707
+- **corpus**: 139,984 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am bely my louder have?"
+
