@@ -495,3 +495,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I has training whint."
 
+## Iteration 69 - NO_GAIN
+- **when**: 2026-09-15T22:15:15Z
+- **train loss**: 0.2968 | **val loss**: 0.4880 | **run best**: 0.4707
+- **corpus**: 139,848 chars (+1 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am a small fore sing a the othe oldstio oldsayset."
+

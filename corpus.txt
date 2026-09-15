@@ -6331,3 +6331,7 @@ A: 43 plus 9 is 52.
 
 Q: What is 57 minus 49?
 A: 57 minus 49 is 8.
+
+
+Q: What is 11 plus 41?
+A: 11 plus 41 is 52.
