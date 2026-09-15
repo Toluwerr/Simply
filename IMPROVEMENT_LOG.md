@@ -530,3 +530,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am bely has 11 apples."
 
+## Iteration 74 - NO_GAIN
+- **when**: 2026-09-15T22:17:02Z
+- **train loss**: 0.2913 | **val loss**: 0.4937 | **run best**: 0.4707
+- **corpus**: 139,848 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am a small fores uns spe ime fongre the thanderes."
+
