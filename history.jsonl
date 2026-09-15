@@ -89,3 +89,4 @@
 {"iteration": 88, "version": 10, "status": "NO_GAIN", "train_loss": 0.2708, "val_loss": 0.5176, "run_best": 0.4707, "synthetic": 0, "lr": 0.0001, "dataset_chars": 140167, "params_M": 0.828, "ts": "2026-09-15T22:22:04Z"}
 {"iteration": 89, "version": 10, "status": "NO_GAIN", "train_loss": 0.2683, "val_loss": 0.5189, "run_best": 0.4707, "synthetic": 1, "lr": 0.0001, "dataset_chars": 140218, "params_M": 0.828, "ts": "2026-09-15T22:22:26Z"}
 {"iteration": 90, "version": 10, "status": "NO_GAIN", "train_loss": 0.2654, "val_loss": 0.518, "run_best": 0.4707, "synthetic": 0, "lr": 0.0001, "dataset_chars": 140218, "params_M": 0.828, "ts": "2026-09-15T22:22:48Z"}
+{"iteration": 91, "version": 10, "status": "NO_GAIN", "train_loss": 0.2648, "val_loss": 0.5216, "run_best": 0.4707, "synthetic": 0, "lr": 0.0001, "dataset_chars": 140218, "params_M": 0.828, "ts": "2026-09-15T22:23:10Z"}

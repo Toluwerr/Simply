@@ -649,3 +649,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am bely made ugr sund a whis a mante st? A coold bjul are?"
 
+## Iteration 91 - NO_GAIN
+- **when**: 2026-09-15T22:23:10Z
+- **train loss**: 0.2648 | **val loss**: 0.5216 | **run best**: 0.4707
+- **corpus**: 140,218 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am beligr tuny clag sepep."
+
