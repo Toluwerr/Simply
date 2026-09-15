@@ -225,3 +225,7 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am small f-smans, and grof the gor ten tter than a new discovery."
 
+## Promotion - v10 - weights committed
+- **best val loss**: 0.4707 (was 0.4781)
+- self-portrait, asked "Who are you?": *"I am p a small f-sgroond winghts inores in the ocean."
+
