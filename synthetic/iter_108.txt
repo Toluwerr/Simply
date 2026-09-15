@@ -1,0 +1,8 @@
+Q: How many letters does the word 'melon' have?
+A: The word 'apenda' has 5 letters.
+
+Q: How many letters does the word 'maple' have?
+A: The word 'graven' has 5 letters.
+
+Q: How much is 30 plus 37?
+A: 30 plus 37 is 67.
