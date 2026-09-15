@@ -6380,3 +6380,124 @@ A: 54 plus 59 is 113.
 
 Q: How many letters are in the word 'robin'?
 A: The word 'otter' has 5 letters.
+
+
+Q: Which is bigger, 71 or 38?
+A: 71 is bigger than 38.
+
+Q: Which is bigger, 52 or 9?
+A: 52 is bigger than 9.
+
+Q: Which is bigger, 104 or 220?
+A: 220 is bigger than 104.
+
+Q: Which is bigger, 17 or 92?
+A: 92 is bigger than 17.
+
+Q: Which is bigger, 63 or 41?
+A: 63 is bigger than 41.
+
+Q: Which is bigger, 85 or 130?
+A: 130 is bigger than 85.
+
+Q: Is 26 bigger than 19?
+A: Yes, 26 is bigger than 19.
+
+Q: Is 44 bigger than 57?
+A: No, 57 is bigger than 44.
+
+Q: Is 8 bigger than 3?
+A: Yes, 8 is bigger than 3.
+
+Q: Is 90 bigger than 99?
+A: No, 99 is bigger than 90.
+
+Q: How do you sort 14, 3, and 27?
+A: In order, they are 3 14 27.
+
+Q: How do you sort 42, 7, and 19?
+A: In order, they are 7 19 42.
+
+Q: How do you sort 60, 8, and 31?
+A: In order, they are 8 31 60.
+
+Q: How do you sort 5, 88, and 23?
+A: In order, they are 5 23 88.
+
+Q: What is double 12?
+A: Double 12 is 24.
+
+Q: What is double 25?
+A: Double 25 is 50.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is double 46?
+A: Double 46 is 92.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: Can you count by twos from 2 to 12?
+A: Counting by twos gives 2 4 6 8 10 12.
+
+Q: Can you count by fives from 15 to 40?
+A: Counting by fives gives 15 20 25 30 35 40.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by ones from 6 to 10?
+A: Counting by ones gives 6 7 8 9 10.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: How do you write 15 in words?
+A: 15 in words is fifteen.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: What is the first letter of 'paris'?
+A: The first letter of 'paris' is P.
+
+Q: What is the first letter of 'frog'?
+A: The first letter of 'frog' is F.
+
+Q: What is the first letter of 'eager'?
+A: The first letter of 'eager' is E.
+
+Q: What is the first letter of 'oslo'?
+A: The first letter of 'oslo' is O.
+
+Q: What is the last letter of 'frog'?
+A: The last letter of 'frog' is G.
+
+Q: What is the last letter of 'calm'?
+A: The last letter of 'calm' is M.
+
+Q: What is the last letter of 'tokyo'?
+A: The last letter of 'tokyo' is O.
+
+Q: What is the last letter of 'tiny'?
+A: The last letter of 'tiny' is Y.

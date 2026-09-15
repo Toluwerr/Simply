@@ -677,3 +677,11 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am berof sulligent, and a Sumpll has key vevelals doer the while conevery day."
 
+## Iteration 95 - NO_GAIN
+- **when**: 2026-09-15T22:43:25Z
+- **train loss**: 0.4137 | **val loss**: 0.4707 | **run best**: 0.4707
+- **corpus**: 142,928 chars (+0 self-written examples)
+- **lr**: 0.0010 | **steps**: 40
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
+- self-portrait, asked "Who are you?": *"I am a Simply, and 5 17 1, 2 2."
+

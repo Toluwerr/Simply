@@ -45,8 +45,8 @@ VAL_FRAC = 0.05
 IMPROVE_EPSILON = 0.002  # val loss must drop by at least this much
 LR_START = 3e-3
 LR_MIN = 1e-4
-MAX_CORPUS_CHARS = 3_500_000
-MAX_SYNTH_PER_ITER = 24
+MAX_CORPUS_CHARS = 8_000_000
+MAX_SYNTH_PER_ITER = 40
 
 
 def log(msg):
@@ -137,29 +137,103 @@ LETTERS_Q = re.compile(r"^How many letters (?:are in the word|does the word) '([
 SPELL_Q = re.compile(r"^How do you spell '([a-z]+)'\?$")
 TRIPLE = re.compile(r"([a-zA-Z])\1{2,}")
 
+# --- self-expanding knowledge: verifiable question templates -------------
 
-def verified(q, a):
-    """Strict quality gate for self-written examples.
+IS_BIGGER_Q = re.compile(r"^Is (\d+) bigger than (\d+)\?$")
+BIGGER_Q = re.compile(r"^Which is bigger, (\d+) or (\d+)\?$")
+SORT_Q = re.compile(r"^How do you sort (\d+), (\d+), and (\d+)\?$")
+DOUBLE_Q = re.compile(r"^What is double (\d+)\?$")
+HALF_Q = re.compile(r"^What is half of (\d+)\?$")
+COUNT_Q = re.compile(r"^Can you count by (ones|twos|fives|tens) from (\d+) to (\d+)\?$")
+NUMWORDS_Q = re.compile(r"^How do you write (\d+) in words\?$")
+FIRST_LETTER_Q = re.compile(r"^What is the first letter of '([A-Za-z]+)'\?$")
+LAST_LETTER_Q = re.compile(r"^What is the last letter of '([A-Za-z]+)'\?$")
 
-    Policy: Simply only absorbs examples it can PROVE correct. A sample
-    must match a known canonical template (arithmetic, letters, spelling,
-    capitals, animal sounds, opposites, meanings) and its answer must
-    check out against ground truth. Anything unverifiable is rejected,
-    so the model can never teach itself nonsense.
-    """
-    if TRIPLE.search(q) or TRIPLE.search(a):
-        return False
-    if "  " in q or "  " in a:
-        return False
-    if len(q.split()) < 3 or len(a.split()) < 2:
-        return False
-    if not q.endswith("?") or not re.match(r"^[A-Z]", q):
-        return False
-    if not a.rstrip().endswith((".", "!", "?")):
-        return False
-    if re.search(r"\d[a-zA-Z]|[a-zA-Z]\d", q):
-        return False
+COUNT_WORDS = {"ones": 1, "twos": 2, "fives": 5, "tens": 10}
 
+_ONES = ["zero", "one", "two", "three", "four", "five", "six", "seven",
+         "eight", "nine", "ten", "eleven", "twelve", "thirteen",
+         "fourteen", "fifteen", "sixteen", "seventeen", "eighteen",
+         "nineteen"]
+_TENS = ["", "", "twenty", "thirty", "forty", "fifty",
+         "sixty", "seventy", "eighty", "ninety"]
+
+
+def num2words(n):
+    """Deterministic English spelling of 0-100 (the number GT table)."""
+    if not 0 <= n <= 100:
+        raise ValueError(n)
+    if n < 20:
+        return _ONES[n]
+    if n == 100:
+        return "one hundred"
+    t, r = divmod(n, 10)
+    return _TENS[t] + ("-" + _ONES[r] if r else "")
+
+
+def _single_words():
+    """Every provable single word in the ground-truth tables."""
+    ws = set()
+    for table in (SD.ANIMAL_SOUNDS, SD.DEFINITIONS):
+        for w in table:
+            if w.isalpha():
+                ws.add(w.lower())
+    for a, b in SD.OPPOSITES:
+        for w in (a, b):
+            if w.isalpha():
+                ws.add(w.lower())
+    for k, v in SD.CAPITALS.items():
+        for w in (k, v):
+            if w.isalpha():
+                ws.add(w.lower())
+    return ws
+
+
+KNOWN_WORDS = _single_words()
+
+# Curriculum: prompt styles used to prime self-question-generation per
+# category. The loop feeds the model its own weakest categories first.
+CATEGORY_PROMPTS = {
+    "arithmetic": ["Q: What is ", "Q: How much is "],
+    "compare": ["Q: Which is bigger, ", "Q: Is "],
+    "sort": ["Q: How do you sort "],
+    "double_half": ["Q: What is double ", "Q: What is half of "],
+    "count": ["Q: Can you count by "],
+    "numwords": ["Q: How do you write "],
+    "letters": ["Q: How many letters does the word '",
+                "Q: How do you spell '"],
+    "first_last": ["Q: What is the first letter of '",
+                   "Q: What is the last letter of '"],
+    "capitals": ["Q: What is the capital of "],
+    "animals": ["Q: What sound does a "],
+    "opposites": ["Q: What is the opposite of '"],
+    "definitions": ["Q: What does '"],
+}
+
+# Fixed knowledge probe: one question per category, graded with the same
+# verifier used for self-written data. Accuracy per category is committed
+# to metrics.json every iteration -> measurable knowledge growth.
+QUIZ_PROBES = [
+    ("arithmetic", "What is 13 plus 48?"),
+    ("compare", "Which is bigger, 38 or 71?"),
+    ("sort", "How do you sort 14, 3, and 27?"),
+    ("double_half", "What is half of 34?"),
+    ("count", "Can you count by fives from 20 to 45?"),
+    ("numwords", "How do you write 47 in words?"),
+    ("letters", "How many letters does the word 'elephant' have?"),
+    ("first_last", "What is the first letter of 'Brasilia'?"),
+    ("capitals", "What is the capital of Norway?"),
+    ("animals", "What sound does an owl make?"),
+    ("opposites", "What is the opposite of 'full'?"),
+    ("definitions", "What does 'sturdy' mean?"),
+]
+
+
+def template_check(q, a):
+    """Per-template ground-truth check. Returns True only when the
+    question matches a known canonical template AND its answer is
+    provably correct. Single source of truth for the verifier and the
+    knowledge quiz."""
     m = ARITH_Q.match(q)
     if m:
         x, op, y = int(m.group(1)), m.group(2), int(m.group(3))
@@ -190,8 +264,91 @@ def verified(q, a):
     if m:
         meaning = SD.DEFINITIONS.get(m.group(1))
         return meaning is not None and meaning in a
+    m = IS_BIGGER_Q.match(q)
+    if m:
+        x, y = int(m.group(1)), int(m.group(2))
+        if x == y:
+            return False
+        yes = re.search(r"\byes\b", a.lower()) is not None
+        no = re.search(r"\bno\b", a.lower()) is not None
+        if x > y:
+            return yes and not no and f"{x} is bigger" in a
+        return no and not yes and f"{y} is bigger" in a
+    m = BIGGER_Q.match(q)
+    if m:
+        x, y = int(m.group(1)), int(m.group(2))
+        return x != y and f"{max(x, y)} is bigger" in a
+    m = SORT_Q.match(q)
+    if m:
+        xs = sorted(int(v) for v in m.groups())
+        if len(set(xs)) != 3:
+            return False
+        return " ".join(str(v) for v in xs) in a
+    m = DOUBLE_Q.match(q)
+    if m:
+        x = int(m.group(1))
+        return f"double {x} is {2 * x}" in a.lower()
+    m = HALF_Q.match(q)
+    if m:
+        x = int(m.group(1))
+        return x % 2 == 0 and f"half of {x} is {x // 2}" in a.lower()
+    m = COUNT_Q.match(q)
+    if m:
+        step = COUNT_WORDS[m.group(1)]
+        lo, hi = int(m.group(2)), int(m.group(3))
+        if lo < step or lo % step or hi < lo:
+            return False
+        terms = list(range(lo, hi + 1, step))
+        if not 3 <= len(terms) <= 8:
+            return False
+        return " ".join(str(v) for v in terms) in a
+    m = NUMWORDS_Q.match(q)
+    if m:
+        n = int(m.group(1))
+        if not 1 <= n <= 100:
+            return False
+        w = num2words(n)
+        return (f"{n} in words is {w}" in a.lower()
+                or f"{n} in words is {w.replace('-', ' ')}" in a.lower())
+    m = FIRST_LETTER_Q.match(q)
+    if m:
+        w = m.group(1)
+        if w.lower() not in KNOWN_WORDS:
+            return False
+        return re.search(rf"is '?{w[0].upper()}'?[^a-zA-Z]", a) is not None
+    m = LAST_LETTER_Q.match(q)
+    if m:
+        w = m.group(1)
+        if w.lower() not in KNOWN_WORDS:
+            return False
+        return re.search(rf"is '?{w[-1].upper()}'?[^a-zA-Z]", a) is not None
     # No verifiable template matched -> do not absorb.
     return False
+
+
+def verified(q, a):
+    """Strict quality gate for self-written examples.
+
+    Policy: Simply only absorbs examples it can PROVE correct. A sample
+    must match a known canonical template (arithmetic, letters, spelling,
+    capitals, animal sounds, opposites, meanings, comparisons, sorting,
+    doubles/halves, counting, number words, first/last letters) and its
+    answer must check out against ground truth. Anything unverifiable is
+    rejected, so the model can never teach itself nonsense.
+    """
+    if TRIPLE.search(q) or TRIPLE.search(a):
+        return False
+    if "  " in q or "  " in a:
+        return False
+    if len(q.split()) < 3 or len(a.split()) < 2:
+        return False
+    if not q.endswith("?") or not re.match(r"^[A-Z]", q):
+        return False
+    if not a.rstrip().endswith((".", "!", "?")):
+        return False
+    if re.search(r"\d[a-zA-Z]|[a-zA-Z]\d", q):
+        return False
+    return template_check(q, a.rstrip())
 
 
 def extract_pairs(text, allowed_chars):
@@ -223,16 +380,137 @@ def too_repetitive(blob):
     return False
 
 
-def generate_and_absorb(model, ds, device, iteration, batches=5):
-    """Sample from itself, filter, and append the best examples."""
+def weakest_categories(knowledge):
+    """Rank knowledge categories weakest-first (the self-study plan)."""
+    def acc(c):
+        v = knowledge.get(c) if isinstance(knowledge, dict) else None
+        return v if isinstance(v, (int, float)) else 0.0
+    cats = list(CATEGORY_PROMPTS)
+    cats.sort(key=lambda c: (acc(c), random.random()))
+    return cats
+
+
+def run_knowledge_quiz(model, ds, device):
+    """Grade one probe per knowledge category with the real verifier.
+
+    Returns (accuracies, summary_line). Accuracies go into
+    metrics['knowledge'] every iteration, so knowledge growth is
+    committed, versioned and auditable like everything else.
+    """
+    model.eval()
+    scores, seen = {}, {}
+    for cat, q in QUIZ_PROBES:
+        ans = sample_answer(model, ds, device, question=q,
+                            temperature=0.2, max_new=48)
+        ok = template_check(q, ans)
+        scores[cat] = scores.get(cat, 0) + int(ok)
+        seen[cat] = seen.get(cat, 0) + 1
+    acc = {c: round(scores[c] / seen[c], 3) for c in scores}
+    ranked = sorted(acc.items(), key=lambda kv: kv[1])
+    avg = sum(acc.values()) / len(acc)
+    worst = ", ".join(f"{c} {v:.2f}" for c, v in ranked[:3])
+    line = f"avg {avg:.2f} | weakest: {worst}"
+    return acc, line
+
+
+def knowledge_seed_examples():
+    """One-time curriculum seed for the NEW self-teachable categories.
+
+    Gives Simply the answer patterns to imitate; from then on it invents
+    its own questions in these categories and only absorbs the ones it
+    can prove correct. Every example is asserted to pass the strict
+    verifier, so the seed itself can never smuggle in nonsense.
+    """
+    ex = []
+
+    def add(q, a):
+        assert verified(q, a), f"seed failed verification: {q!r} -> {a!r}"
+        ex.append(f"Q: {q}\nA: {a}")
+
+    for x, y in [(71, 38), (52, 9), (104, 220), (17, 92), (63, 41),
+                 (85, 130)]:
+        add(f"Which is bigger, {x} or {y}?",
+            f"{max(x, y)} is bigger than {min(x, y)}.")
+    for x, y in [(26, 19), (44, 57), (8, 3), (90, 99)]:
+        if x > y:
+            add(f"Is {x} bigger than {y}?", f"Yes, {x} is bigger than {y}.")
+        else:
+            add(f"Is {x} bigger than {y}?", f"No, {y} is bigger than {x}.")
+    for a, b, c in [(14, 3, 27), (42, 7, 19), (60, 8, 31), (5, 88, 23)]:
+        s = " ".join(str(v) for v in sorted([a, b, c]))
+        add(f"How do you sort {a}, {b}, and {c}?",
+            f"In order, they are {s}.")
+    for x in [12, 25, 31, 46]:
+        add(f"What is double {x}?", f"Double {x} is {2 * x}.")
+    for x in [18, 26, 40, 54]:
+        add(f"What is half of {x}?", f"Half of {x} is {x // 2}.")
+    for word, lo, hi in [("twos", 2, 12), ("fives", 15, 40),
+                         ("tens", 20, 70), ("ones", 6, 10)]:
+        step = COUNT_WORDS[word]
+        seq = " ".join(str(v) for v in range(lo, hi + 1, step))
+        add(f"Can you count by {word} from {lo} to {hi}?",
+            f"Counting by {word} gives {seq}.")
+    for n in [7, 15, 21, 38, 42, 64]:
+        add(f"How do you write {n} in words?",
+            f"{n} in words is {num2words(n)}.")
+    for w in ["paris", "frog", "eager", "oslo"]:
+        add(f"What is the first letter of '{w}'?",
+            f"The first letter of '{w}' is {w[0].upper()}.")
+    for w in ["frog", "calm", "tokyo", "tiny"]:
+        add(f"What is the last letter of '{w}'?",
+            f"The last letter of '{w}' is {w[-1].upper()}.")
+    return ex
+
+
+def append_knowledge_seed(metrics):
+    """Append the new-category seed to the corpus tail once.
+
+    Safe for loss comparability: the frozen validation slice is the tail
+    of the OLD corpus, and appends land strictly after it, so val indices
+    are unchanged. Examples with characters outside the current charset
+    are dropped (the vocab must never drift under a live checkpoint).
+    """
+    allowed = set(load_corpus())
+    blobs = knowledge_seed_examples()
+    keep = [b for b in blobs if all(c in allowed for c in b)]
+    dropped = len(blobs) - len(keep)
+    os.makedirs(SYN_DIR, exist_ok=True)
+    with open(os.path.join(SYN_DIR, "knowledge_seed.txt"), "w") as f:
+        f.write("\n\n".join(keep) + "\n")
+    with open(CORPUS_PATH, "a") as f:
+        f.write("\n\n" + "\n\n".join(keep) + "\n")
+    metrics["knowledge_seed_v2"] = True
+    # Warm restart: the floor LR is too cold to digest brand-new material.
+    # Promote-or-hold still guards quality, so a fresh LR is safe.
+    if metrics["lr"] < 1e-3:
+        metrics["lr"] = 1e-3
+        log(f"knowledge seed: LR warm restart -> {metrics['lr']:.4f}")
+    save_metrics(metrics)
+    log(f"knowledge seed: appended {len(keep)} new-category examples "
+        f"({dropped} skipped for charset safety)")
+
+
+def generate_and_absorb(model, ds, device, iteration, batches=5,
+                        cat_order=None):
+    """Sample from itself, filter, and append the best examples.
+
+    cat_order ranks knowledge categories weakest-first: each sampling
+    batch is primed with a category-flavored prompt, so Simply practises
+    inventing questions where it scores worst. The verifier still rejects
+    everything it cannot prove, so expansion is always sound.
+    """
     model.eval()
     allowed = set(ds.stoi.keys())
     batch = 6
-    prompt_ids = [ds.stoi.get(c, 0) for c in "Q: "]
-    prompt = torch.tensor([prompt_ids] * batch, device=device)
+    if not cat_order:
+        cat_order = list(CATEGORY_PROMPTS)
     samples = []
     with torch.no_grad():
-        for _ in range(batches):
+        for i in range(batches):
+            cat = cat_order[i % len(cat_order)]
+            prefix = random.choice(CATEGORY_PROMPTS[cat])
+            prompt_ids = [ds.stoi.get(c, 0) for c in prefix]
+            prompt = torch.tensor([prompt_ids] * batch, device=device)
             out = model.generate(prompt.clone(), 220,
                                  temperature=0.95, top_k=40)
             for row in out.tolist():
@@ -270,11 +548,12 @@ def generate_and_absorb(model, ds, device, iteration, batches=5):
     return len(accepted)
 
 
-def sample_answer(model, ds, device, question="Who are you?"):
+def sample_answer(model, ds, device, question="Who are you?",
+                  temperature=0.7, max_new=120):
     prompt = f"Q: {question}\nA:"
     ids = torch.tensor([[ds.stoi.get(c, 0) for c in prompt]], device=device)
     with torch.no_grad():
-        out = model.generate(ids, 120, temperature=0.7, top_k=30)
+        out = model.generate(ids, max_new, temperature=temperature, top_k=30)
     return ds.decode(out[0].tolist())[len(prompt):].split("\n")[0].strip()
 
 
@@ -357,6 +636,16 @@ def main():
         log(f"BENCH: {args.bench} steps in {dt:.1f}s ({dt / args.bench:.2f}s/step)")
         return
 
+    # One-time: seed the NEW teachable categories so the model can start
+    # imitating them, then expand them by itself (see knowledge_seed_*).
+    if not metrics.get("knowledge_seed_v2"):
+        append_knowledge_seed(metrics)
+        corpus = load_corpus()
+        ds = CharDataset(corpus, block_size=MODEL_KWARGS["block_size"],
+                         val_frac=VAL_FRAC,
+                         val_start=metrics["val_start"],
+                         val_end=metrics["val_end"])
+
     model, from_scratch = load_model(ds, device)
     n_params = model.num_params()
     # baseline = val loss of the COMMITTED best weights; every iteration
@@ -365,6 +654,7 @@ def main():
     baseline = metrics["best_val_loss"]
     run_best_loss = baseline
     run_best_state = None
+    metrics.setdefault("knowledge", {})
 
     for _ in range(args.iterations):
         metrics["iteration"] += 1
@@ -386,7 +676,14 @@ def main():
                               for k, v in model.state_dict().items()}
         status = "IMPROVED" if improved else "NO_GAIN"
         synth_n = generate_and_absorb(model, ds, device, it_num,
-                                      batches=args.synth_batches)
+                                      batches=args.synth_batches,
+                                      cat_order=weakest_categories(
+                                          metrics["knowledge"]))
+        quiz_acc, quiz_line = run_knowledge_quiz(model, ds, device)
+        metrics["knowledge"] = quiz_acc
+        known_all = sum(1 for v in quiz_acc.values() if v >= 0.999)
+        log(f"  knowledge quiz: {quiz_line} "
+            f"({known_all}/{len(quiz_acc)} categories perfect)")
 
         metrics["plateaus"] = 0 if improved else metrics["plateaus"] + 1
         if metrics["plateaus"] >= 2:
@@ -410,6 +707,7 @@ def main():
             "synthetic": synth_n, "lr": metrics["lr"],
             "dataset_chars": metrics["dataset_chars"],
             "params_M": round(n_params / 1e6, 3),
+            "knowledge": quiz_acc,
             "ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         }
         with open(HISTORY_PATH, "a") as f:
@@ -425,6 +723,7 @@ def main():
             f"- **corpus**: {metrics['dataset_chars']:,} chars "
             f"(+{synth_n} self-written examples)\n"
             f"- **lr**: {metrics['lr']:.4f} | **steps**: {steps}\n"
+            f"- **knowledge quiz**: {quiz_line}\n"
             f"- self-portrait, asked \"Who are you?\": "
             f"*\"{portrait}\"\n"
         )
