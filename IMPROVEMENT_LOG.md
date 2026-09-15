@@ -229,3 +229,10 @@ promote-if-better. Newest entries are at the bottom.
 - **best val loss**: 0.4707 (was 0.4781)
 - self-portrait, asked "Who are you?": *"I am p a small f-sgroond winghts inores in the ocean."
 
+## Iteration 31 - NO_GAIN
+- **when**: 2026-09-15T15:34:02Z
+- **train loss**: 0.3260 | **val loss**: 0.4730 | **run best**: 0.4707
+- **corpus**: 138,781 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am a small trans, to and I gr get that arainstel."
+
