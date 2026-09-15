@@ -685,3 +685,11 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
 - self-portrait, asked "Who are you?": *"I am a Simply, and 5 17 1, 2 2."
 
+## Iteration 96 - NO_GAIN
+- **when**: 2026-09-15T22:43:40Z
+- **train loss**: 0.3562 | **val loss**: 0.4776 | **run best**: 0.4707
+- **corpus**: 142,928 chars (+0 self-written examples)
+- **lr**: 0.0005 | **steps**: 40
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
+- self-portrait, asked "Who are you?": *"I am Simply, a 6 16 9 1, 16 1?"
+
