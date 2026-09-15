@@ -789,3 +789,11 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
 - self-portrait, asked "Who are you?": *"I am Simply, a a tiny GPT."
 
+## Iteration 109 - NO_GAIN
+- **when**: 2026-09-15T23:10:25Z
+- **train loss**: 0.2620 | **val loss**: 0.5295 | **run best**: 0.4707
+- **corpus**: 143,915 chars (+0 self-written examples)
+- **lr**: 0.0003 | **steps**: 200
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
+- self-portrait, asked "Who are you?": *"I am berunniva rivety motef the Simany ward?"
+
