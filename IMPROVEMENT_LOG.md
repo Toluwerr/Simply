@@ -74,3 +74,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0015 | **steps**: 200
 - self-portrait, asked "Who are you?": *"I am bunn a a pigroning warme esloref alle. The sun was bright. Nothing felt better than a new discovery."
 
+## Iteration 10 - v8 - NO_GAIN
+- **when**: 2026-09-15T09:48:53Z
+- **train loss**: 0.3452 | **val loss**: 0.4861 (best 0.4830)
+- **corpus**: 137,732 chars (+1 self-written examples)
+- **lr**: 0.0015 | **steps**: 200
+- self-portrait, asked "Who are you?": *"I am bevundan has 5 marbles."
+
