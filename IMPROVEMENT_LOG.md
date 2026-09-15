@@ -765,3 +765,11 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
 - self-portrait, asked "Who are you?": *"I am B-is D-D."
 
+## Iteration 106 - NO_GAIN
+- **when**: 2026-09-15T23:08:47Z
+- **train loss**: 0.2751 | **val loss**: 0.5202 | **run best**: 0.4707
+- **corpus**: 143,695 chars (+2 self-written examples)
+- **lr**: 0.0003 | **steps**: 200
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00
+- self-portrait, asked "Who are you?": *"I am bely moudel has ils hon se stoforte stron."
+
