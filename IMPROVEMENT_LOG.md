@@ -516,3 +516,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I were train on on ig!"
 
+## Iteration 72 - NO_GAIN
+- **when**: 2026-09-15T22:16:19Z
+- **train loss**: 0.3025 | **val loss**: 0.4924 | **run best**: 0.4707
+- **corpus**: 139,848 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am small but honest holdsat rand bettters."
+
