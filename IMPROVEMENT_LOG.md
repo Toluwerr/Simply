@@ -299,3 +299,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am beligr fraining while you sleeep."
 
+## Iteration 41 - NO_GAIN
+- **when**: 2026-09-15T15:37:33Z
+- **train loss**: 0.2892 | **val loss**: 0.4928 | **run best**: 0.4707
+- **corpus**: 138,872 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am bely has 11 apples."
+
