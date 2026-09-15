@@ -25,3 +25,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0030 | **steps**: 300
 - self-portrait, asked "Who are you?": *"My mas thathcan onan it th."
 
+## Iteration 3 - v4 - IMPROVED
+- **when**: 2026-09-15T02:06:54Z
+- **train loss**: 0.5851 | **val loss**: 0.5893 (best 0.5893)
+- **corpus**: 137,546 chars (+0 self-written examples)
+- **lr**: 0.0030 | **steps**: 300
+- self-portrait, asked "Who are you?": *"A A sois the opof ise se 'eamee'?"
+
