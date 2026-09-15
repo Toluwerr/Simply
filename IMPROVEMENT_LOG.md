@@ -169,3 +169,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am a a small titl booopes and malilal. The morning was cool and quiet. The little journey had just begun."
 
+## Iteration 23 - NO_GAIN
+- **when**: 2026-09-15T10:14:26Z
+- **train loss**: 0.3147 | **val loss**: 0.4789 | **run best**: 0.4707
+- **corpus**: 138,562 chars (+3 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I was smll bee."
+
