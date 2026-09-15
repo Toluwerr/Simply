@@ -509,3 +509,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am a small but smake but honest bond warm large. The sun was bright. Off they went, happy and free."
 
+## Iteration 71 - NO_GAIN
+- **when**: 2026-09-15T22:15:58Z
+- **train loss**: 0.2947 | **val loss**: 0.4892 | **run best**: 0.4707
+- **corpus**: 139,848 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I were train on on ig!"
+
