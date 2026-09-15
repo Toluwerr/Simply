@@ -439,3 +439,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0001 | **steps**: 100
 - self-portrait, asked "Who are you?": *"I am bely, and the is the cloces? Aitat of calour soca a pak."
 
+## Iteration 61 - NO_GAIN
+- **when**: 2026-09-15T15:44:33Z
+- **train loss**: 0.2633 | **val loss**: 0.5235 | **run best**: 0.4707
+- **corpus**: 139,755 chars (+0 self-written examples)
+- **lr**: 0.0001 | **steps**: 100
+- self-portrait, asked "Who are you?": *"I am Simply has 9 books."
+
