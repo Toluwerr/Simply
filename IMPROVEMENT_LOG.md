@@ -11,3 +11,10 @@ promote-if-better. Newest entries are at the bottom.
 - **lr**: 0.0030 | **steps**: 500
 - self-portrait, asked "Who are you?": *"Tit The he wouad bed und ad fascren."
 
+## Iteration 1 - v2 - IMPROVED
+- **when**: 2026-09-15T02:04:44Z
+- **train loss**: 0.7691 | **val loss**: 0.7320 (best 0.7320)
+- **corpus**: 137,546 chars (+0 self-written examples)
+- **lr**: 0.0030 | **steps**: 300
+- self-portrait, asked "Who are you?": *"I has is s 3 coiles 1?"
+
