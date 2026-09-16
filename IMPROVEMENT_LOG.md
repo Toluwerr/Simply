@@ -1912,3 +1912,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am a pie a pie file stillust reachelleding lake."
 
+## Iteration 231 - NO_GAIN
+- **when**: 2026-09-16T23:15:24Z
+- **train loss**: 0.6493 | **val loss**: 0.6887 | **run best**: 0.6788
+- **corpus**: 170,242 chars (+6 self-written examples)
+- **internet reading**: +30 articles, +22 facts (300 read all-time)
+- **lr**: 0.0003 | **steps**: 150
+- **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, sort 0.00, double_half 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am small transp!"
+

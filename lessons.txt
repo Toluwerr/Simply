@@ -16006,3 +16006,110 @@ A: In order, they are 22 485 567.
 
 Q: How do you sort 477, 887, and 646?
 A: In order, they are 477 646 887.
+Q: How many letters does the word 'belgium' have?
+A: The word 'belgium' has 7 letters.
+
+Q: How many letters does the word 'sweden' have?
+A: The word 'sweden' has 6 letters.
+
+Q: How many letters does the word 'radium' have?
+A: The word 'radium' has 6 letters.
+
+Q: How many letters does the word 'krona' have?
+A: The word 'krona' has 5 letters.
+
+Q: How many letters does the word 'phosphorus' have?
+A: The word 'phosphorus' has 10 letters.
+
+Q: How many letters does the word 'pretoria' have?
+A: The word 'pretoria' has 8 letters.
+
+Q: How do you sort 89, 419, and 605?
+A: In order, they are 89 419 605.
+
+Q: How do you sort 18, 4, and 26?
+A: In order, they are 4 18 26.
+
+Q: How do you sort 29, 20, and 8?
+A: In order, they are 8 20 29.
+
+Q: How do you sort 17, 24, and 27?
+A: In order, they are 17 24 27.
+
+Q: How do you sort 2, 21, and 19?
+A: In order, they are 2 19 21.
+
+Q: How do you sort 22, 25, and 29?
+A: In order, they are 22 25 29.
+
+Q: What is the chemical symbol for ytterbium?
+A: The chemical symbol for ytterbium is Yb.
+
+Q: Which element has the chemical symbol Gd?
+A: Gd is the chemical symbol for gadolinium.
+
+Q: Which element has the chemical symbol La?
+A: La is the chemical symbol for lanthanum.
+
+Q: What is the chemical symbol for terbium?
+A: The chemical symbol for terbium is Tb.
+
+Q: Which element has the chemical symbol Cl?
+A: Cl is the chemical symbol for chlorine.
+
+Q: Which element has the chemical symbol V?
+A: V is the chemical symbol for vanadium.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What continent is the Republic of the Congo on?
+A: the Republic of the Congo is on the continent of Africa.
+
+Q: What continent is Mauritania on?
+A: Mauritania is on the continent of Africa.
+
+Q: What continent is Switzerland on?
+A: Switzerland is on the continent of Europe.
+
+Q: What continent is Sweden on?
+A: Sweden is on the continent of Europe.
+
+Q: What is 13 times 11?
+A: 13 times 11 is 143.
+
+Q: What is 8 times 9?
+A: 8 times 9 is 72.
+
+Q: What is 84 minus 55?
+A: 84 minus 55 is 29.
+
+Q: What is 840 minus 325?
+A: 840 minus 325 is 515.
+
+Q: What is 245 plus 435?
+A: 245 plus 435 is 680.
+
+Q: What is 638 minus 386?
+A: 638 minus 386 is 252.
+
+Q: Is 18 bigger than 20?
+A: No, 20 is bigger than 18.
+
+Q: Which is bigger, 830 or 837?
+A: 837 is bigger than 830.
+
+Q: Which is bigger, 16 or 4?
+A: 16 is bigger than 4.
+
+Q: Is 17 bigger than 19?
+A: No, 19 is bigger than 17.
+
+Q: Is 755 bigger than 414?
+A: Yes, 755 is bigger than 414.
+
+Q: Is 2 bigger than 3?
+A: No, 3 is bigger than 2.
