@@ -7185,3 +7185,10 @@ A: Raleigh is the capital of North Carolina.
 
 Q: What is 16 minus 2?
 A: 16 minus 2 is 14.
+
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
