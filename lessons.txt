@@ -14971,3 +14971,110 @@ A: 5 times 3 is 15.
 
 Q: What is 9 times 6?
 A: 9 times 6 is 54.
+Q: What is the first letter of 'montgomery'?
+A: The first letter of 'montgomery' is M.
+
+Q: What is the last letter of 'eritrea'?
+A: The last letter of 'eritrea' is A.
+
+Q: What is the first letter of 'krone'?
+A: The first letter of 'krone' is K.
+
+Q: What is the first letter of 'abuja'?
+A: The first letter of 'abuja' is A.
+
+Q: What is the last letter of 'mauritius'?
+A: The last letter of 'mauritius' is S.
+
+Q: What is the last letter of 'india'?
+A: The last letter of 'india' is A.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is half of 36?
+A: Half of 36 is 18.
+
+Q: What is double 16?
+A: Double 16 is 32.
+
+Q: What is half of 58?
+A: Half of 58 is 29.
+
+Q: What is double 49?
+A: Double 49 is 98.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you sort 13, 23, and 25?
+A: In order, they are 13 23 25.
+
+Q: How do you sort 23, 13, and 2?
+A: In order, they are 2 13 23.
+
+Q: How do you sort 22, 5, and 24?
+A: In order, they are 5 22 24.
+
+Q: How do you sort 25, 15, and 22?
+A: In order, they are 15 22 25.
+
+Q: How do you sort 570, 475, and 233?
+A: In order, they are 233 475 570.
+
+Q: How do you sort 18, 9, and 25?
+A: In order, they are 9 18 25.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: What number is the Roman numeral dcccv?
+A: The Roman numeral dcccv is the number 805.
+
+Q: What number is the Roman numeral dcxxxvi?
+A: The Roman numeral dcxxxvi is the number 636.
+
+Q: What number is the Roman numeral i?
+A: The Roman numeral i is the number 1.
+
+Q: What is the Roman numeral for 255?
+A: The Roman numeral for 255 is cclv.
+
+Q: What number is the Roman numeral xvii?
+A: The Roman numeral xvii is the number 17.
