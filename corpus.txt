@@ -9144,3 +9144,19 @@ A: Counting by fives gives 15 20 25 20.
 
 Q: How many letters are in the word 'vienth'?
 A: The word 'candtle' has 28 6 letters.
+
+
+Q: What number is the Roman numeral x?
+A: The Roman numeral x is the number 10.
+
+Q: What is the Roman numeral for 659?
+A: The Roman numeral for 659 is dclix.
+
+Q: How do you sort 7, 3, and 26?
+A: In order, they are 3 7 26.
+
+Q: How do you sort 12, 22, and 8?
+A: In order, they are 8 12 22.
+
+Q: How much is 64 plus 3?
+A: 64 plus 3 is 67.
