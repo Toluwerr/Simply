@@ -6879,3 +6879,7 @@ A: 90 in words is ninety.
 
 Q: Is 8 bigger than 4?
 A: Yes, 8 is bigger than 18.
+
+
+Q: Can you count by tens from 20 to 41?
+A: Counting by tens gives 20 30 40 50.

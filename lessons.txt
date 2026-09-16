@@ -6458,3 +6458,128 @@ A: Yes, 8 is bigger than 5.
 
 Q: Which is bigger, 60 or 61?
 A: 61 is bigger than 60.
+Q: How do you write 22 in words?
+A: 22 in words is twenty-two.
+
+Q: How do you write 28 in words?
+A: 28 in words is twenty-eight.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 17 in words?
+A: 17 in words is seventeen.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: Which element has the chemical symbol B?
+A: B is the chemical symbol for boron.
+
+Q: What is the chemical symbol for phosphorus?
+A: The chemical symbol for phosphorus is P.
+
+Q: What is the chemical symbol for tungsten?
+A: The chemical symbol for tungsten is W.
+
+Q: Which element has the chemical symbol La?
+A: La is the chemical symbol for lanthanum.
+
+Q: What is the chemical symbol for cesium?
+A: The chemical symbol for cesium is Cs.
+
+Q: Which element has the chemical symbol U?
+A: U is the chemical symbol for uranium.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: How do you sort 433, 369, and 834?
+A: In order, they are 369 433 834.
+
+Q: How do you sort 182, 360, and 992?
+A: In order, they are 182 360 992.
+
+Q: How do you sort 27, 14, and 11?
+A: In order, they are 11 14 27.
+
+Q: How do you sort 739, 171, and 920?
+A: In order, they are 171 739 920.
+
+Q: How do you sort 6, 8, and 12?
+A: In order, they are 6 8 12.
+
+Q: How do you sort 21, 18, and 14?
+A: In order, they are 14 18 21.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is half of 20?
+A: Half of 20 is 10.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is double 26?
+A: Double 26 is 52.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is Chile on?
+A: Chile is on the continent of South America.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is Mongolia on?
+A: Mongolia is on the continent of Asia.
+
+Q: What continent is Australia on?
+A: Australia is on the continent of Australia.
