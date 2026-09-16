@@ -2374,3 +2374,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.48 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am a poice but a joint see reposserated for open and structure direct, and mother accom to growing to be an old better the part of this leader subs and qualificip of and sety, more the detries, a inputing a poise, and that that half o"
 
+## Iteration 281 - NO_GAIN
+- **when**: 2026-09-16T23:48:31Z
+- **train loss**: 0.6314 | **val loss**: 0.6776 | **run best**: 0.6750
+- **corpus**: 197,471 chars (+15 self-written examples)
+- **internet reading**: +30 articles, +12 facts (450 read all-time)
+- **lr**: 0.0003 | **steps**: 150
+- **knowledge quiz**: avg 0.57 | weakest: arithmetic 0.00, sort 0.00, count 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-style every day, a jok times, a little brainhilieship."
+

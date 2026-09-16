@@ -21572,3 +21572,110 @@ A: The currency of Libya is the dinar.
 
 Q: What currency does India use?
 A: The currency of India is the rupee.
+Q: What currency does Ghana use?
+A: The currency of Ghana is the cedi.
+
+Q: What currency does Algeria use?
+A: The currency of Algeria is the dinar.
+
+Q: What currency does Colombia use?
+A: The currency of Colombia is the peso.
+
+Q: What currency does Ukraine use?
+A: The currency of Ukraine is the hryvnia.
+
+Q: What currency does Bosnia and Herzegovina use?
+A: The currency of Bosnia and Herzegovina is the mark.
+
+Q: What currency does Mongolia use?
+A: The currency of Mongolia is the tugrik.
+
+Q: How do you sort 322, 731, and 131?
+A: In order, they are 131 322 731.
+
+Q: How do you sort 78, 386, and 719?
+A: In order, they are 78 386 719.
+
+Q: How do you sort 387, 981, and 916?
+A: In order, they are 387 916 981.
+
+Q: How do you sort 17, 16, and 14?
+A: In order, they are 14 16 17.
+
+Q: How do you sort 853, 657, and 961?
+A: In order, they are 657 853 961.
+
+Q: How do you sort 28, 2, and 21?
+A: In order, they are 2 21 28.
+
+Q: Which element has the chemical symbol Y?
+A: Y is the chemical symbol for yttrium.
+
+Q: Which element has the chemical symbol U?
+A: U is the chemical symbol for uranium.
+
+Q: Which element has the chemical symbol H?
+A: H is the chemical symbol for hydrogen.
+
+Q: Which element has the chemical symbol Ru?
+A: Ru is the chemical symbol for ruthenium.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: Which element has the chemical symbol Yb?
+A: Yb is the chemical symbol for ytterbium.
+
+Q: What is 9 plus 9?
+A: 9 plus 9 is 18.
+
+Q: What is 199 plus 450?
+A: 199 plus 450 is 649.
+
+Q: What is 14 times 17?
+A: 14 times 17 is 238.
+
+Q: What is 3 times 8?
+A: 3 times 8 is 24.
+
+Q: What is 72 minus 60?
+A: 72 minus 60 is 12.
+
+Q: What is 913 minus 68?
+A: 913 minus 68 is 845.
+
+Q: Which is bigger, 9 or 2?
+A: 9 is bigger than 2.
+
+Q: Which is bigger, 5 or 2?
+A: 5 is bigger than 2.
+
+Q: Which is bigger, 773 or 308?
+A: 773 is bigger than 308.
+
+Q: Which is bigger, 90 or 40?
+A: 90 is bigger than 40.
+
+Q: Which is bigger, 9 or 13?
+A: 13 is bigger than 9.
+
+Q: Which is bigger, 50 or 24?
+A: 50 is bigger than 24.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by ones from 22 to 27?
+A: Counting by ones gives 22 23 24 25 26 27.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by twos from 30 to 34?
+A: Counting by twos gives 30 32 34.
+
+Q: Can you count by ones from 9 to 12?
+A: Counting by ones gives 9 10 11 12.
+
+Q: Can you count by ones from 4 to 6?
+A: Counting by ones gives 4 5 6.
