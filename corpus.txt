@@ -7452,3 +7452,10 @@ A: The word 'burundi' has 5 letters.
 
 Q: How many letters does the word 'tunis' have?
 A: The word 'turtle' has 5 letters.
+
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral vi is the number 4.

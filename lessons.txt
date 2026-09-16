@@ -14025,3 +14025,128 @@ A: The Caspian Sea is the largest lake.
 
 Q: What is the hardest natural substance?
 A: Diamond is the hardest natural substance.
+Q: What is 14 times 18?
+A: 14 times 18 is 252.
+
+Q: What is 63 minus 44?
+A: 63 minus 44 is 19.
+
+Q: What is 20 minus 12?
+A: 20 minus 12 is 8.
+
+Q: What is 4 times 5?
+A: 4 times 5 is 20.
+
+Q: What is 18 minus 4?
+A: 18 minus 4 is 14.
+
+Q: What is 549 minus 139?
+A: 549 minus 139 is 410.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of Ethiopia?
+A: The capital of Ethiopia is Addis Ababa.
+
+Q: What is the capital of Luxembourg?
+A: The capital of Luxembourg is Luxembourg.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of Venezuela?
+A: The capital of Venezuela is Caracas.
+
+Q: What is the capital of Belarus?
+A: The capital of Belarus is Minsk.
+
+Q: How many letters does the word 'oink' have?
+A: The word 'oink' has 4 letters.
+
+Q: How many letters does the word 'tobago' have?
+A: The word 'tobago' has 6 letters.
+
+Q: How many letters does the word 'calm' have?
+A: The word 'calm' has 4 letters.
+
+Q: How many letters does the word 'pretoria' have?
+A: The word 'pretoria' has 8 letters.
+
+Q: How many letters does the word 'dakota' have?
+A: The word 'dakota' has 6 letters.
+
+Q: How many letters does the word 'african' have?
+A: The word 'african' has 7 letters.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What number is the Roman numeral cccxviii?
+A: The Roman numeral cccxviii is the number 318.
+
+Q: What is the Roman numeral for 57?
+A: The Roman numeral for 57 is lvii.
+
+Q: What number is the Roman numeral xcix?
+A: The Roman numeral xcix is the number 99.
+
+Q: What number is the Roman numeral xxxiii?
+A: The Roman numeral xxxiii is the number 33.
+
+Q: What number is the Roman numeral cmlxxi?
+A: The Roman numeral cmlxxi is the number 971.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What continent is Nepal on?
+A: Nepal is on the continent of Asia.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: How do you sort 550, 625, and 660?
+A: In order, they are 550 625 660.
+
+Q: How do you sort 658, 113, and 679?
+A: In order, they are 113 658 679.
+
+Q: How do you sort 10, 26, and 13?
+A: In order, they are 10 13 26.
+
+Q: How do you sort 9, 29, and 10?
+A: In order, they are 9 10 29.
+
+Q: How do you sort 848, 102, and 622?
+A: In order, they are 102 622 848.
+
+Q: How do you sort 345, 971, and 993?
+A: In order, they are 345 971 993.
+
+Q: Is 42 bigger than 73?
+A: No, 73 is bigger than 42.
+
+Q: Is 514 bigger than 750?
+A: No, 750 is bigger than 514.
+
+Q: Which is bigger, 12 or 20?
+A: 20 is bigger than 12.
+
+Q: Is 17 bigger than 2?
+A: Yes, 17 is bigger than 2.
+
+Q: Which is bigger, 127 or 557?
+A: 557 is bigger than 127.
+
+Q: Which is bigger, 58 or 50?
+A: 58 is bigger than 50.

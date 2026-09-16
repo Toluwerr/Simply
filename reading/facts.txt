@@ -346,3 +346,54 @@ A: Phoenix Tower is a class A office building located in the city of Bucharest, 
 
 Q: What is Engineering Mathematics?
 A: Engineering Mathematics is a branch of applied mathematics.
+
+Q: What is Arista Networks, Inc.?
+A: Arista Networks, Inc. is an American provider of client to cloud networking services for large data centerAI.
+
+Q: What is Porteus?
+A: Porteus is a portable operating system based on Slackware.
+
+Q: What is Proteus?
+A: Proteus is a Greek god of the sea, capable of changing his form at will, according to the naming announcement on the Porteus forum.
+
+Q: What is Amoeba?
+A: Amoeba is a distributed operating system developed by Andrew S.
+
+Q: What is Davis?
+A: Davis is an electrical engineer from Wisconsin.
+
+Q: What is Korora?
+A: Korora is a remix of the Fedora Linux distribution.
+
+Q: What is Originally Kororaa?
+A: Originally Kororaa is a binary installation method for Gentoo Linux which aimed for easy installation of a Gentoo system by using install scripts inst.
+
+Q: What is Mach?
+A: Mach is an operating system kernel developed at Carnegie Mellon University by Richard Rashid and Avie Tevanian to support operating system research.
+
+Q: What is David?
+A: David is a native of Wales, and tradition has preserved a large amount of detail about his life.
+
+Q: What is Azazel?
+A: Azazel is the principal character in a series of short stories written by Isaac Asimov.
+
+Q: What is Azazello?
+A: Azazello is a character in Mikhail Bulgakov's novel The Master and Margarita.
+
+Q: What is Pora Kngi Delamere?
+A: Pora Kngi Delamere is a New Zealand carpenter, boat builder, farmer and Ringat leader.
+
+Q: What is Jordal Idrettspark?
+A: Jordal Idrettspark is a multi-sports complex located at Jordal in Oslo, Norway.
+
+Q: What is Lochgelly United Football Club?
+A: Lochgelly United Football Club is a football club based in Lochgelly, Scotland.
+
+Q: What is Fluorosulfuric acid?
+A: Fluorosulfuric acid is the inorganic compound with the chemical formula HSO3F.
+
+Q: What is Everybody's Business ,?
+A: Everybody's Business , is a 2013 Singaporean comedy film directed by Lee Thean-jeen.
+
+Q: What is Prehistoric religion?
+A: Prehistoric religion is the religious practice of prehistoric cultures.
