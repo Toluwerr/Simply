@@ -20038,3 +20038,110 @@ A: 91 in words is ninety-one.
 
 Q: How do you write 89 in words?
 A: 89 in words is eighty-nine.
+Q: What is the chemical symbol for radon?
+A: The chemical symbol for radon is Rn.
+
+Q: Which element has the chemical symbol S?
+A: S is the chemical symbol for sulfur.
+
+Q: What is the chemical symbol for cadmium?
+A: The chemical symbol for cadmium is Cd.
+
+Q: Which element has the chemical symbol Rh?
+A: Rh is the chemical symbol for rhodium.
+
+Q: Which element has the chemical symbol Tb?
+A: Tb is the chemical symbol for terbium.
+
+Q: Which element has the chemical symbol Sb?
+A: Sb is the chemical symbol for antimony.
+
+Q: What is the capital of North Macedonia?
+A: The capital of North Macedonia is Skopje.
+
+Q: What is the capital of Mongolia?
+A: The capital of Mongolia is Ulaanbaatar.
+
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: Is 4 bigger than 16?
+A: No, 16 is bigger than 4.
+
+Q: Is 681 bigger than 142?
+A: Yes, 681 is bigger than 142.
+
+Q: Which is bigger, 61 or 15?
+A: 61 is bigger than 15.
+
+Q: Is 32 bigger than 73?
+A: No, 73 is bigger than 32.
+
+Q: Which is bigger, 742 or 790?
+A: 790 is bigger than 742.
+
+Q: Is 4 bigger than 13?
+A: No, 13 is bigger than 4.
+
+Q: What is 519 minus 170?
+A: 519 minus 170 is 349.
+
+Q: What is 12 times 15?
+A: 12 times 15 is 180.
+
+Q: What is 5 times 8?
+A: 5 times 8 is 40.
+
+Q: What is 643 plus 256?
+A: 643 plus 256 is 899.
+
+Q: What is 25 plus 28?
+A: 25 plus 28 is 53.
+
+Q: What is 14 minus 2?
+A: 14 minus 2 is 12.
+
+Q: What is the last letter of 'serbia'?
+A: The last letter of 'serbia' is A.
+
+Q: What is the first letter of 'sofia'?
+A: The first letter of 'sofia' is S.
+
+Q: What is the last letter of 'apia'?
+A: The last letter of 'apia' is A.
+
+Q: What is the last letter of 'terbium'?
+A: The last letter of 'terbium' is M.
+
+Q: What is the last letter of 'papua'?
+A: The last letter of 'papua' is A.
+
+Q: What is the last letter of 'hydrogen'?
+A: The last letter of 'hydrogen' is N.

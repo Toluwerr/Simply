@@ -8579,3 +8579,22 @@ A: The last letter of 'bird' is D.
 
 Q: How much is 66 plus 0?
 A: 66 plus 0 is 66.
+
+
+Q: How do you sort 7, 10, and 25?
+A: In order, they are 7 10 25.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: Which is bigger, 800 or 1?
+A: 800 is bigger than 1.
+
+Q: Which is bigger, 14 or 18?
+A: 18 is bigger than 14.
+
+Q: Which is bigger, 47 or 9?
+A: 47 is bigger than 9.
+
+Q: What is the opposite of 'up'?
+A: 'down' is the opposite of 'clean'down'.
