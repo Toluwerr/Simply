@@ -11348,3 +11348,110 @@ A: Rn is the chemical symbol for radon.
 
 Q: What is the chemical symbol for cerium?
 A: The chemical symbol for cerium is Ce.
+Q: What currency does the United Arab Emirates use?
+A: The currency of the United Arab Emirates is the dirham.
+
+Q: What currency does Ireland use?
+A: The currency of Ireland is the euro.
+
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: What currency does Belarus use?
+A: The currency of Belarus is the ruble.
+
+Q: What currency does Canada use?
+A: The currency of Canada is the dollar.
+
+Q: What currency does Senegal use?
+A: The currency of Senegal is the franc.
+
+Q: How do you sort 9, 25, and 17?
+A: In order, they are 9 17 25.
+
+Q: How do you sort 22, 17, and 14?
+A: In order, they are 14 17 22.
+
+Q: How do you sort 49, 59, and 711?
+A: In order, they are 49 59 711.
+
+Q: How do you sort 559, 54, and 809?
+A: In order, they are 54 559 809.
+
+Q: How do you sort 56, 708, and 235?
+A: In order, they are 56 235 708.
+
+Q: How do you sort 163, 313, and 447?
+A: In order, they are 163 313 447.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 37 in words?
+A: 37 in words is thirty-seven.
+
+Q: How do you write 19 in words?
+A: 19 in words is nineteen.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: What is the chemical symbol for helium?
+A: The chemical symbol for helium is He.
+
+Q: What is the chemical symbol for promethium?
+A: The chemical symbol for promethium is Pm.
+
+Q: Which element has the chemical symbol Pb?
+A: Pb is the chemical symbol for lead.
+
+Q: Which element has the chemical symbol Ce?
+A: Ce is the chemical symbol for cerium.
+
+Q: What is the chemical symbol for magnesium?
+A: The chemical symbol for magnesium is Mg.
+
+Q: What is the chemical symbol for chlorine?
+A: The chemical symbol for chlorine is Cl.
+
+Q: What continent is Serbia on?
+A: Serbia is on the continent of Europe.
+
+Q: What continent is Syria on?
+A: Syria is on the continent of Asia.
+
+Q: What continent is Armenia on?
+A: Armenia is on the continent of Asia.
+
+Q: What continent is Hungary on?
+A: Hungary is on the continent of Europe.
+
+Q: What continent is Togo on?
+A: Togo is on the continent of Africa.
+
+Q: What continent is Canada on?
+A: Canada is on the continent of North America.
+
+Q: What is 42 minus 14?
+A: 42 minus 14 is 28.
+
+Q: What is 19 minus 11?
+A: 19 minus 11 is 8.
+
+Q: What is 20 minus 11?
+A: 20 minus 11 is 9.
+
+Q: What is 16 plus 96?
+A: 16 plus 96 is 112.
+
+Q: What is 9 times 2?
+A: 9 times 2 is 18.
+
+Q: What is 4 minus 3?
+A: 4 minus 3 is 1.
