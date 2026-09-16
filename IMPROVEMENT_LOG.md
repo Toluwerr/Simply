@@ -837,3 +837,11 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.09 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, planets 1.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"I am a small traler?"
 
+## Iteration 115 - IMPROVED
+- **when**: 2026-09-16T00:45:32Z
+- **train loss**: 0.3572 | **val loss**: 0.4415 | **run best**: 0.4415
+- **corpus**: 144,385 chars (+0 self-written examples)
+- **lr**: 0.0008 | **steps**: 200
+- **knowledge quiz**: avg 0.14 | weakest: arithmetic 0.00, sort 0.00, double_half 0.00 | strongest: months 1.00, planets 1.00, compare 1.00
+- self-portrait, asked "Who are you?": *"I lorund ward I warly cond is the dollo."
+
