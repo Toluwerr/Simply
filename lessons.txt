@@ -15078,3 +15078,128 @@ A: The Roman numeral for 255 is cclv.
 
 Q: What number is the Roman numeral xvii?
 A: The Roman numeral xvii is the number 17.
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by fives from 5 to 30?
+A: Counting by fives gives 5 10 15 20 25 30.
+
+Q: Can you count by fives from 20 to 30?
+A: Counting by fives gives 20 25 30.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by ones from 25 to 28?
+A: Counting by ones gives 25 26 27 28.
+
+Q: Can you count by twos from 32 to 38?
+A: Counting by twos gives 32 34 36 38.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What is the Roman numeral for 539?
+A: The Roman numeral for 539 is dxxxix.
+
+Q: What is the Roman numeral for 784?
+A: The Roman numeral for 784 is dcclxxxiv.
+
+Q: What number is the Roman numeral xxxix?
+A: The Roman numeral xxxix is the number 39.
+
+Q: What number is the Roman numeral clxxix?
+A: The Roman numeral clxxix is the number 179.
+
+Q: What is the Roman numeral for 684?
+A: The Roman numeral for 684 is dclxxxiv.
+
+Q: What is 854 minus 439?
+A: 854 minus 439 is 415.
+
+Q: What is 12 plus 3?
+A: 12 plus 3 is 15.
+
+Q: What is 7 plus 10?
+A: 7 plus 10 is 17.
+
+Q: What is 14 minus 6?
+A: 14 minus 6 is 8.
+
+Q: What is 12 times 5?
+A: 12 times 5 is 60.
+
+Q: What is 235 plus 920?
+A: 235 plus 920 is 1155.
+
+Q: What continent is Eswatini on?
+A: Eswatini is on the continent of Africa.
+
+Q: What continent is Libya on?
+A: Libya is on the continent of Africa.
+
+Q: What continent is Vanuatu on?
+A: Vanuatu is on the continent of Oceania.
+
+Q: What continent is Liechtenstein on?
+A: Liechtenstein is on the continent of Europe.
+
+Q: What continent is North Korea on?
+A: North Korea is on the continent of Asia.
+
+Q: What continent is Bolivia on?
+A: Bolivia is on the continent of South America.
+
+Q: Which is bigger, 19 or 15?
+A: 19 is bigger than 15.
+
+Q: Which is bigger, 782 or 344?
+A: 782 is bigger than 344.
+
+Q: Which is bigger, 915 or 423?
+A: 915 is bigger than 423.
+
+Q: Is 837 bigger than 275?
+A: Yes, 837 is bigger than 275.
+
+Q: Which is bigger, 46 or 60?
+A: 60 is bigger than 46.
+
+Q: Is 17 bigger than 6?
+A: Yes, 17 is bigger than 6.
+
+Q: What is the chemical symbol for iodine?
+A: The chemical symbol for iodine is I.
+
+Q: Which element has the chemical symbol Br?
+A: Br is the chemical symbol for bromine.
+
+Q: What is the chemical symbol for cobalt?
+A: The chemical symbol for cobalt is Co.
+
+Q: What is the chemical symbol for krypton?
+A: The chemical symbol for krypton is Kr.
+
+Q: Which element has the chemical symbol Fe?
+A: Fe is the chemical symbol for iron.
+
+Q: Which element has the chemical symbol Yb?
+A: Yb is the chemical symbol for ytterbium.
+
+Q: How many letters does the word 'pyongyang' have?
+A: The word 'pyongyang' has 9 letters.
+
+Q: How many letters does the word 'bandar' have?
+A: The word 'bandar' has 6 letters.
+
+Q: How many letters does the word 'salvador' have?
+A: The word 'salvador' has 8 letters.
+
+Q: How many letters does the word 'africa' have?
+A: The word 'africa' has 6 letters.
+
+Q: How many letters does the word 'germany' have?
+A: The word 'germany' has 7 letters.
+
+Q: How many letters does the word 'australia' have?
+A: The word 'australia' has 9 letters.
