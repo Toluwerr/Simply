@@ -2477,3 +2477,128 @@ A: The Roman numeral xlii is the number 42.
 
 Q: What is the Roman numeral for 8?
 A: The Roman numeral for 8 is viii.
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What currency does Iran use?
+A: The currency of Iran is the rial.
+
+Q: What currency does Qatar use?
+A: The currency of Qatar is the riyal.
+
+Q: What currency does Romania use?
+A: The currency of Romania is the leu.
+
+Q: What currency does Brazil use?
+A: The currency of Brazil is the real.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
+
+Q: What is the capital of Yemen?
+A: The capital of Yemen is Sanaa.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of Kiribati?
+A: The capital of Kiribati is Tarawa.
+
+Q: What is the capital of Mauritius?
+A: The capital of Mauritius is Port Louis.
+
+Q: What continent is Senegal on?
+A: Senegal is on the continent of Africa.
+
+Q: What continent is Spain on?
+A: Spain is on the continent of Europe.
+
+Q: What continent is Albania on?
+A: Albania is on the continent of Europe.
+
+Q: What continent is Sweden on?
+A: Sweden is on the continent of Europe.
+
+Q: What continent is Sierra Leone on?
+A: Sierra Leone is on the continent of Africa.
+
+Q: What continent is Italy on?
+A: Italy is on the continent of Europe.
+
+Q: What number is the Roman numeral xiii?
+A: The Roman numeral xiii is the number 13.
+
+Q: What number is the Roman numeral xviii?
+A: The Roman numeral xviii is the number 18.
+
+Q: What number is the Roman numeral cmi?
+A: The Roman numeral cmi is the number 901.
+
+Q: What number is the Roman numeral xiii?
+A: The Roman numeral xiii is the number 13.
+
+Q: What is the Roman numeral for 893?
+A: The Roman numeral for 893 is dcccxciii.
+
+Q: What is the Roman numeral for 16?
+A: The Roman numeral for 16 is xvi.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.

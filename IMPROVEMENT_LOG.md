@@ -845,3 +845,11 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.14 | weakest: arithmetic 0.00, sort 0.00, double_half 0.00 | strongest: months 1.00, planets 1.00, compare 1.00
 - self-portrait, asked "Who are you?": *"I lorund ward I warly cond is the dollo."
 
+## Iteration 116 - IMPROVED
+- **when**: 2026-09-16T00:46:14Z
+- **train loss**: 0.3439 | **val loss**: 0.4435 | **run best**: 0.4415
+- **corpus**: 144,429 chars (+1 self-written examples)
+- **lr**: 0.0008 | **steps**: 200
+- **knowledge quiz**: avg 0.18 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: records 1.00, units 1.00, months 1.00
+- self-portrait, asked "Who are you?": *"I am bergives the giriver than nevery."
+
