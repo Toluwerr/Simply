@@ -10295,3 +10295,110 @@ A: Juneau is the capital of Alaska.
 
 Q: What is the capital of the US state Michigan?
 A: Lansing is the capital of Michigan.
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is 656 plus 982?
+A: 656 plus 982 is 1638.
+
+Q: What is 4 times 4?
+A: 4 times 4 is 16.
+
+Q: What is 56 minus 38?
+A: 56 minus 38 is 18.
+
+Q: What is 19 minus 14?
+A: 19 minus 14 is 5.
+
+Q: What is 2 times 7?
+A: 2 times 7 is 14.
+
+Q: What is 6 times 2?
+A: 6 times 2 is 12.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the chemical symbol for argon?
+A: The chemical symbol for argon is Ar.
+
+Q: What is the chemical symbol for cobalt?
+A: The chemical symbol for cobalt is Co.
+
+Q: Which element has the chemical symbol W?
+A: W is the chemical symbol for tungsten.
+
+Q: What is the chemical symbol for copper?
+A: The chemical symbol for copper is Cu.
+
+Q: Which element has the chemical symbol Mn?
+A: Mn is the chemical symbol for manganese.
+
+Q: What is the chemical symbol for yttrium?
+A: The chemical symbol for yttrium is Y.
+
+Q: What number is the Roman numeral dccliv?
+A: The Roman numeral dccliv is the number 754.
+
+Q: What number is the Roman numeral dxlviii?
+A: The Roman numeral dxlviii is the number 548.
+
+Q: What number is the Roman numeral lvi?
+A: The Roman numeral lvi is the number 56.
+
+Q: What number is the Roman numeral xxxiv?
+A: The Roman numeral xxxiv is the number 34.
+
+Q: What number is the Roman numeral ccciv?
+A: The Roman numeral ccciv is the number 304.
+
+Q: What is the Roman numeral for 16?
+A: The Roman numeral for 16 is xvi.
