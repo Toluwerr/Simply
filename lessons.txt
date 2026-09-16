@@ -12205,3 +12205,128 @@ A: Earth is the third planet from the sun.
 
 Q: Which planet is fourth from the sun?
 A: Mars is the fourth planet from the sun.
+Q: What number is the Roman numeral cdlxviii?
+A: The Roman numeral cdlxviii is the number 468.
+
+Q: What number is the Roman numeral xlvii?
+A: The Roman numeral xlvii is the number 47.
+
+Q: What is the Roman numeral for 851?
+A: The Roman numeral for 851 is dcccli.
+
+Q: What number is the Roman numeral i?
+A: The Roman numeral i is the number 1.
+
+Q: What is the Roman numeral for 930?
+A: The Roman numeral for 930 is cmxxx.
+
+Q: What is the Roman numeral for 40?
+A: The Roman numeral for 40 is xl.
+
+Q: How do you write 93 in words?
+A: 93 in words is ninety-three.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 45 in words?
+A: 45 in words is forty-five.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: Is 14 bigger than 19?
+A: No, 19 is bigger than 14.
+
+Q: Which is bigger, 68 or 75?
+A: 75 is bigger than 68.
+
+Q: Is 12 bigger than 60?
+A: No, 60 is bigger than 12.
+
+Q: Is 13 bigger than 14?
+A: No, 14 is bigger than 13.
+
+Q: Which is bigger, 10 or 18?
+A: 18 is bigger than 10.
+
+Q: Which is bigger, 40 or 10?
+A: 40 is bigger than 10.
+
+Q: How do you sort 95, 50, and 393?
+A: In order, they are 50 95 393.
+
+Q: How do you sort 99, 471, and 578?
+A: In order, they are 99 471 578.
+
+Q: How do you sort 3, 13, and 25?
+A: In order, they are 3 13 25.
+
+Q: How do you sort 48, 852, and 567?
+A: In order, they are 48 567 852.
+
+Q: How do you sort 546, 447, and 871?
+A: In order, they are 447 546 871.
+
+Q: How do you sort 21, 28, and 9?
+A: In order, they are 9 21 28.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: How many oceans are there?
+A: There are 5 oceans.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: What is the smallest ocean?
+A: The Arctic is the smallest ocean.
+
+Q: What is the biggest hot desert?
+A: The Sahara is the biggest hot desert.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.

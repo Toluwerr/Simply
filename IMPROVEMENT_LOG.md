@@ -1603,3 +1603,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"A!"
 
+## Iteration 198 - IMPROVED
+- **when**: 2026-09-16T22:45:44Z
+- **train loss**: 0.8910 | **val loss**: 0.7106 | **run best**: 0.7106
+- **corpus**: 157,868 chars (+2 self-written examples)
+- **internet reading**: +30 articles, +16 facts (210 read all-time)
+- **lr**: 0.0015 | **steps**: 150
+- **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, reading 0.00, definitions 0.00
+- self-portrait, asked "Who are you?": *"A owl more comes more compium is a likrain."
+

@@ -1,0 +1,5 @@
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.

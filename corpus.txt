@@ -7223,3 +7223,10 @@ A: 31 plus 93 is 124.
 
 Q: What is 16 plus 77?
 A: 16 plus 77 is 93.
+
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
