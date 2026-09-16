@@ -1491,3 +1491,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"HQ: Mar make a an doger are times and the opp Oans ' has the a day a kilol '."
 
+## Iteration 186 - IMPROVED
+- **when**: 2026-09-16T22:34:58Z
+- **train loss**: 2.7852 | **val loss**: 2.0278 | **run best**: 2.0278
+- **corpus**: 157,749 chars (+0 self-written examples)
+- **internet reading**: +30 articles, +17 facts (180 read all-time)
+- **lr**: 0.0030 | **steps**: 150
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"The are 186."
+
