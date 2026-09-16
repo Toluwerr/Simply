@@ -1164,3 +1164,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.17 | weakest: arithmetic 0.00, sort 0.00, double_half 0.00 | strongest: records 1.00, planets 1.00, continents 1.00
 - self-portrait, asked "Who are you?": *"Upbereta is the capital of New York?"
 
+## Iteration 151 - NO_GAIN
+- **when**: 2026-09-16T12:41:46Z
+- **train loss**: 0.4345 | **val loss**: 0.3952 | **run best**: 0.3919
+- **corpus**: 150,708 chars (+3 self-written examples)
+- **internet reading**: +30 articles, +14 facts (90 read all-time)
+- **lr**: 0.0004 | **steps**: 200
+- **knowledge quiz**: avg 0.26 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, units 1.00
+- self-portrait, asked "Who are you?": *"I am a Januancy is the clar."
+

@@ -6690,3 +6690,128 @@ A: Harrisburg is the capital of Pennsylvania.
 
 Q: What is the capital of the US state Maryland?
 A: Annapolis is the capital of Maryland.
+Q: Which element has the chemical symbol W?
+A: W is the chemical symbol for tungsten.
+
+Q: Which element has the chemical symbol Eu?
+A: Eu is the chemical symbol for europium.
+
+Q: Which element has the chemical symbol Ir?
+A: Ir is the chemical symbol for iridium.
+
+Q: What is the chemical symbol for zirconium?
+A: The chemical symbol for zirconium is Zr.
+
+Q: What is the chemical symbol for gallium?
+A: The chemical symbol for gallium is Ga.
+
+Q: Which element has the chemical symbol Cs?
+A: Cs is the chemical symbol for cesium.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: How do you sort 157, 17, and 167?
+A: In order, they are 17 157 167.
+
+Q: How do you sort 15, 22, and 17?
+A: In order, they are 15 17 22.
+
+Q: How do you sort 950, 565, and 891?
+A: In order, they are 565 891 950.
+
+Q: How do you sort 944, 167, and 364?
+A: In order, they are 167 364 944.
+
+Q: How do you sort 585, 920, and 888?
+A: In order, they are 585 888 920.
+
+Q: How do you sort 488, 476, and 111?
+A: In order, they are 111 476 488.
+
+Q: What is the Roman numeral for 480?
+A: The Roman numeral for 480 is cdlxxx.
+
+Q: What is the Roman numeral for 617?
+A: The Roman numeral for 617 is dcxvii.
+
+Q: What is the Roman numeral for 71?
+A: The Roman numeral for 71 is lxxi.
+
+Q: What is the Roman numeral for 141?
+A: The Roman numeral for 141 is cxli.
+
+Q: What is the Roman numeral for 371?
+A: The Roman numeral for 371 is ccclxxi.
+
+Q: What is the Roman numeral for 151?
+A: The Roman numeral for 151 is cli.
+
+Q: What is double 41?
+A: Double 41 is 82.
+
+Q: What is double 51?
+A: Double 51 is 102.
+
+Q: What is double 32?
+A: Double 32 is 64.
+
+Q: What is double 51?
+A: Double 51 is 102.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is half of 8?
+A: Half of 8 is 4.

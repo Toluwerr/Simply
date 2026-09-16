@@ -6890,3 +6890,13 @@ A: 'from' is the opposite of 'hot' is 'cold'.
 
 Q: How do you write 9 in words?
 A: 9 in words is nine.
+
+
+Q: How many letters does the word 'handton' have?
+A: The word 'loud' has 7 letters.
+
+Q: How much is 50 plus 46?
+A: 50 plus 46 is 96.
+
+Q: What is the opposite of 'first'?
+A: 'last' is the opposite of 'happy'.
