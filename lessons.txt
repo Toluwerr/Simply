@@ -7172,3 +7172,110 @@ A: Double 55 is 110.
 
 Q: What is half of 16?
 A: Half of 16 is 8.
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of Vietnam?
+A: The capital of Vietnam is Hanoi.
+
+Q: What is the capital of Slovakia?
+A: The capital of Slovakia is Bratislava.
+
+Q: What is the capital of Papua New Guinea?
+A: The capital of Papua New Guinea is Port Moresby.
+
+Q: What is the capital of Uruguay?
+A: The capital of Uruguay is Montevideo.
+
+Q: What is the capital of Albania?
+A: The capital of Albania is Tirana.
+
+Q: Can you count by fives from 35 to 50?
+A: Counting by fives gives 35 40 45 50.
+
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 25 30 35.
+
+Q: Can you count by twos from 14 to 18?
+A: Counting by twos gives 14 16 18.
+
+Q: Can you count by ones from 21 to 24?
+A: Counting by ones gives 21 22 23 24.
+
+Q: Can you count by twos from 14 to 22?
+A: Counting by twos gives 14 16 18 20 22.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: What is 900 plus 13?
+A: 900 plus 13 is 913.
+
+Q: What is 7 times 6?
+A: 7 times 6 is 42.
+
+Q: What is 953 minus 569?
+A: 953 minus 569 is 384.
+
+Q: What is 434 minus 229?
+A: 434 minus 229 is 205.
+
+Q: What is 6 plus 20?
+A: 6 plus 20 is 26.
+
+Q: What is 12 times 8?
+A: 12 times 8 is 96.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What is the biggest hot desert?
+A: The Sahara is the biggest hot desert.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: How do you sort 21, 1, and 15?
+A: In order, they are 1 15 21.
+
+Q: How do you sort 10, 6, and 17?
+A: In order, they are 6 10 17.
+
+Q: How do you sort 971, 54, and 285?
+A: In order, they are 54 285 971.
+
+Q: How do you sort 24, 17, and 21?
+A: In order, they are 17 21 24.
+
+Q: How do you sort 23, 18, and 19?
+A: In order, they are 18 19 23.
+
+Q: How do you sort 574, 408, and 94?
+A: In order, they are 94 408 574.

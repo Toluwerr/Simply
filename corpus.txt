@@ -6932,3 +6932,13 @@ A: Yes, 65 is bigger than 57.
 
 Q: Is 80 bigger than 57?
 A: Yes, 80 is bigger than 36.
+
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30 50.
