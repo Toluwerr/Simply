@@ -10634,3 +10634,128 @@ A: A bee says 'buzz'.
 
 Q: What sound does a duck make?
 A: A duck says 'quack'.
+Q: What is the last letter of 'caring'?
+A: The last letter of 'caring' is G.
+
+Q: What is the first letter of 'colorado'?
+A: The first letter of 'colorado' is C.
+
+Q: What is the last letter of 'kyiv'?
+A: The last letter of 'kyiv' is V.
+
+Q: What is the last letter of 'lisbon'?
+A: The last letter of 'lisbon' is N.
+
+Q: What is the last letter of 'victoria'?
+A: The last letter of 'victoria' is A.
+
+Q: What is the first letter of 'netherlands'?
+A: The first letter of 'netherlands' is N.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: What is double 7?
+A: Double 7 is 14.
+
+Q: What is double 55?
+A: Double 55 is 110.
+
+Q: What is double 24?
+A: Double 24 is 48.
+
+Q: What is double 48?
+A: Double 48 is 96.
+
+Q: What is half of 10?
+A: Half of 10 is 5.
+
+Q: What is double 29?
+A: Double 29 is 58.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety.
+
+Q: How do you write 20 in words?
+A: 20 in words is twenty.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Kazakhstan?
+A: The capital of Kazakhstan is Astana.
+
+Q: What is the capital of New Zealand?
+A: The capital of New Zealand is Wellington.
+
+Q: What is the capital of Namibia?
+A: The capital of Namibia is Windhoek.
+
+Q: What is the capital of Saint Vincent and the Grenadines?
+A: The capital of Saint Vincent and the Grenadines is Kingstown.
+
+Q: What is the capital of Myanmar?
+A: The capital of Myanmar is Naypyidaw.
