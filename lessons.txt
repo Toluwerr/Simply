@@ -19485,3 +19485,110 @@ A: The last letter of 'zimbabwe' is E.
 
 Q: What is the first letter of 'paramaribo'?
 A: The first letter of 'paramaribo' is P.
+Q: What is the last letter of 'franc'?
+A: The last letter of 'franc' is C.
+
+Q: What is the last letter of 'honduras'?
+A: The last letter of 'honduras' is S.
+
+Q: What is the last letter of 'cat'?
+A: The last letter of 'cat' is T.
+
+Q: What is the last letter of 'peach'?
+A: The last letter of 'peach' is H.
+
+Q: What is the last letter of 'bamako'?
+A: The last letter of 'bamako' is O.
+
+Q: What is the last letter of 'montana'?
+A: The last letter of 'montana' is A.
+
+Q: How do you sort 12, 18, and 8?
+A: In order, they are 8 12 18.
+
+Q: How do you sort 568, 914, and 213?
+A: In order, they are 213 568 914.
+
+Q: How do you sort 17, 11, and 21?
+A: In order, they are 11 17 21.
+
+Q: How do you sort 15, 29, and 4?
+A: In order, they are 4 15 29.
+
+Q: How do you sort 686, 844, and 860?
+A: In order, they are 686 844 860.
+
+Q: How do you sort 293, 31, and 323?
+A: In order, they are 31 293 323.
+
+Q: What is the Roman numeral for 99?
+A: The Roman numeral for 99 is xcix.
+
+Q: What number is the Roman numeral lv?
+A: The Roman numeral lv is the number 55.
+
+Q: What number is the Roman numeral ccclxv?
+A: The Roman numeral ccclxv is the number 365.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What is the Roman numeral for 63?
+A: The Roman numeral for 63 is lxiii.
+
+Q: What is the Roman numeral for 400?
+A: The Roman numeral for 400 is cd.
+
+Q: Is 9 bigger than 7?
+A: Yes, 9 is bigger than 7.
+
+Q: Which is bigger, 915 or 326?
+A: 915 is bigger than 326.
+
+Q: Is 953 bigger than 720?
+A: Yes, 953 is bigger than 720.
+
+Q: Which is bigger, 13 or 15?
+A: 15 is bigger than 13.
+
+Q: Which is bigger, 16 or 4?
+A: 16 is bigger than 4.
+
+Q: Which is bigger, 19 or 4?
+A: 19 is bigger than 4.
+
+Q: How many letters does the word 'seychelles' have?
+A: The word 'seychelles' has 10 letters.
+
+Q: How many letters does the word 'washington' have?
+A: The word 'washington' has 10 letters.
+
+Q: How many letters does the word 'juneau' have?
+A: The word 'juneau' has 6 letters.
+
+Q: How many letters does the word 'baton' have?
+A: The word 'baton' has 5 letters.
+
+Q: How many letters does the word 'present' have?
+A: The word 'present' has 7 letters.
+
+Q: How many letters does the word 'dim' have?
+A: The word 'dim' has 3 letters.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
