@@ -1357,3 +1357,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.26 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I was born very recently, and I get a little or no seed."
 
+## Promotion - v15 - weights committed
+- **reason**: knowledge 0.43, was 0.30; val 0.3838
+- self-portrait, asked "Who are you?": *"I camba i s the condardon fundstial."
+
