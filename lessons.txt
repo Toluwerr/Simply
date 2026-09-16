@@ -3477,3 +3477,128 @@ A: The chemical symbol for bismuth is Bi.
 
 Q: What is the chemical symbol for titanium?
 A: The chemical symbol for titanium is Ti.
+Q: What is 712 minus 554?
+A: 712 minus 554 is 158.
+
+Q: What is 8 plus 7?
+A: 8 plus 7 is 15.
+
+Q: What is 976 plus 266?
+A: 976 plus 266 is 1242.
+
+Q: What is 28 plus 49?
+A: 28 plus 49 is 77.
+
+Q: What is 14 times 15?
+A: 14 times 15 is 210.
+
+Q: What is 914 minus 874?
+A: 914 minus 874 is 40.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of Saint Lucia?
+A: The capital of Saint Lucia is Castries.
+
+Q: What is the capital of Georgia?
+A: The capital of Georgia is Tbilisi.
+
+Q: What is the capital of Panama?
+A: The capital of Panama is Panama City.
+
+Q: What is the capital of Micronesia?
+A: The capital of Micronesia is Palikir.
+
+Q: How many letters does the word 'arkansas' have?
+A: The word 'arkansas' has 8 letters.
+
+Q: How many letters does the word 'kuala' have?
+A: The word 'kuala' has 5 letters.
+
+Q: How many letters does the word 'dominica' have?
+A: The word 'dominica' has 8 letters.
+
+Q: How many letters does the word 'augusta' have?
+A: The word 'augusta' has 7 letters.
+
+Q: How many letters does the word 'uzbekistan' have?
+A: The word 'uzbekistan' has 10 letters.
+
+Q: How many letters does the word 'gentle' have?
+A: The word 'gentle' has 6 letters.
+
+Q: What number is the Roman numeral lxxiv?
+A: The Roman numeral lxxiv is the number 74.
+
+Q: What number is the Roman numeral lx?
+A: The Roman numeral lx is the number 60.
+
+Q: What number is the Roman numeral cmxxxvii?
+A: The Roman numeral cmxxxvii is the number 937.
+
+Q: What number is the Roman numeral xviii?
+A: The Roman numeral xviii is the number 18.
+
+Q: What number is the Roman numeral lvi?
+A: The Roman numeral lvi is the number 56.
+
+Q: What number is the Roman numeral dclxxxv?
+A: The Roman numeral dclxxxv is the number 685.
+
+Q: What continent is Andorra on?
+A: Andorra is on the continent of Europe.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is Albania on?
+A: Albania is on the continent of Europe.
+
+Q: What continent is Somalia on?
+A: Somalia is on the continent of Africa.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is South Sudan on?
+A: South Sudan is on the continent of Africa.
+
+Q: How do you sort 9, 10, and 19?
+A: In order, they are 9 10 19.
+
+Q: How do you sort 219, 373, and 314?
+A: In order, they are 219 314 373.
+
+Q: How do you sort 5, 21, and 25?
+A: In order, they are 5 21 25.
+
+Q: How do you sort 14, 15, and 20?
+A: In order, they are 14 15 20.
+
+Q: How do you sort 395, 243, and 326?
+A: In order, they are 243 326 395.
+
+Q: How do you sort 4, 18, and 12?
+A: In order, they are 4 12 18.
+
+Q: Which is bigger, 111 or 490?
+A: 490 is bigger than 111.
+
+Q: Is 19 bigger than 20?
+A: No, 20 is bigger than 19.
+
+Q: Which is bigger, 714 or 451?
+A: 714 is bigger than 451.
+
+Q: Is 42 bigger than 43?
+A: No, 43 is bigger than 42.
+
+Q: Is 860 bigger than 418?
+A: Yes, 860 is bigger than 418.
+
+Q: Which is bigger, 343 or 746?
+A: 746 is bigger than 343.
