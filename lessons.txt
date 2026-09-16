@@ -15667,3 +15667,128 @@ A: 7 times 5 is 35.
 
 Q: What is 606 minus 118?
 A: 606 minus 118 is 488.
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What is the Roman numeral for 6?
+A: The Roman numeral for 6 is vi.
+
+Q: What number is the Roman numeral dcccv?
+A: The Roman numeral dcccv is the number 805.
+
+Q: What number is the Roman numeral cxxviii?
+A: The Roman numeral cxxviii is the number 128.
+
+Q: What is the Roman numeral for 54?
+A: The Roman numeral for 54 is liv.
+
+Q: What number is the Roman numeral lxxxv?
+A: The Roman numeral lxxxv is the number 85.
+
+Q: How many letters does the word 'picked' have?
+A: The word 'picked' has 6 letters.
+
+Q: How many letters does the word 'kabul' have?
+A: The word 'kabul' has 5 letters.
+
+Q: How many letters does the word 'pretoria' have?
+A: The word 'pretoria' has 8 letters.
+
+Q: How many letters does the word 'loud' have?
+A: The word 'loud' has 4 letters.
+
+Q: How many letters does the word 'sweden' have?
+A: The word 'sweden' has 6 letters.
+
+Q: How many letters does the word 'molybdenum' have?
+A: The word 'molybdenum' has 10 letters.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: Is 420 bigger than 562?
+A: No, 562 is bigger than 420.
+
+Q: Which is bigger, 894 or 745?
+A: 894 is bigger than 745.
+
+Q: Is 72 bigger than 71?
+A: Yes, 72 is bigger than 71.
+
+Q: Is 690 bigger than 585?
+A: Yes, 690 is bigger than 585.
+
+Q: Which is bigger, 719 or 649?
+A: 719 is bigger than 649.
+
+Q: Is 13 bigger than 3?
+A: Yes, 13 is bigger than 3.
+
+Q: How do you sort 13, 14, and 24?
+A: In order, they are 13 14 24.
+
+Q: How do you sort 13, 25, and 27?
+A: In order, they are 13 25 27.
+
+Q: How do you sort 29, 2, and 25?
+A: In order, they are 2 25 29.
+
+Q: How do you sort 998, 356, and 71?
+A: In order, they are 71 356 998.
+
+Q: How do you sort 26, 17, and 7?
+A: In order, they are 7 17 26.
+
+Q: How do you sort 1, 21, and 25?
+A: In order, they are 1 21 25.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What is the most populous country?
+A: India is the most populous country.
+
+Q: What is the closest star to Earth?
+A: The sun is the closest star to Earth.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the largest island?
+A: Greenland is the largest island.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: Can you count by fives from 20 to 30?
+A: Counting by fives gives 20 25 30.
+
+Q: Can you count by twos from 12 to 18?
+A: Counting by twos gives 12 14 16 18.
+
+Q: Can you count by ones from 21 to 26?
+A: Counting by ones gives 21 22 23 24 25 26.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by ones from 10 to 13?
+A: Counting by ones gives 10 11 12 13.

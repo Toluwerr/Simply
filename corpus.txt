@@ -7715,3 +7715,7 @@ A: 7 is bigger than 1.
 
 Q: Can you count by twos from 2 to 6?
 A: Counting by twos gives 2 4 6 8 times 6.
+
+
+Q: How do you sort 25, 6, and 17?
+A: In order, they are 6 17 25.

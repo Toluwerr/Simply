@@ -1,0 +1,2 @@
+Q: How do you sort 25, 6, and 17?
+A: In order, they are 6 17 25.

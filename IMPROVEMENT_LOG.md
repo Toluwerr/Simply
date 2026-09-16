@@ -1885,3 +1885,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.48 | weakest: compare 0.00, sort 0.00, count 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am smallork, my my model then very they of model the's opposite stand Redonopning."
 
+## Iteration 228 - NO_GAIN
+- **when**: 2026-09-16T23:13:00Z
+- **train loss**: 0.5667 | **val loss**: 0.6883 | **run best**: 0.6788
+- **corpus**: 168,941 chars (+1 self-written examples)
+- **internet reading**: +30 articles, +22 facts (300 read all-time)
+- **lr**: 0.0004 | **steps**: 150
+- **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, sort 0.00, roman 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am a small transformer but, and very every day on."
+
