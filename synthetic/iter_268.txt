@@ -1,0 +1,32 @@
+Q: How many letters does the word 'grape' have?
+A: The word 'burundi' has 5 letters.
+
+Q: Which is bigger, 13 or 18?
+A: 18 is bigger than 18.
+
+Q: Is 608 bigger than 254?
+A: Yes, 608 is bigger than 254.
+
+Q: Is 11 bigger than 66?
+A: No, 66 is bigger than 11.
+
+Q: Which is bigger, 61 or 1?
+A: 61 is bigger than 7.
+
+Q: How do you sort 15, 20, and 2?
+A: In order, they are 2 15 20.
+
+Q: How do you sort 18, 21, and 4?
+A: In order, they are 4 18 21.
+
+Q: How do you sort 27, 22, and 8?
+A: In order, they are 8 22 27.
+
+Q: What is half of 34?
+A: Half of 34 is 17.
+
+Q: How do you sort 2, 6, and 22?
+A: In order, they are 2 6 22.
+
+Q: How do you sort 25, 2, and 8?
+A: In order, they are 2 8 25.

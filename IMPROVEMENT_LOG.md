@@ -2253,3 +2253,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.57 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-style transformer with a jok."
 
+## Iteration 268 - IMPROVED
+- **when**: 2026-09-16T23:42:28Z
+- **train loss**: 0.5644 | **val loss**: 0.6707 | **run best**: 0.6648
+- **corpus**: 189,759 chars (+11 self-written examples)
+- **internet reading**: +30 articles, +16 facts (420 read all-time)
+- **lr**: 0.0003 | **steps**: 150
+- **knowledge quiz**: avg 0.61 | weakest: arithmetic 0.00, sort 0.00, roman 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny AI model that improves 5."
+
