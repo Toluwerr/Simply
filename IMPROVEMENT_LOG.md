@@ -1236,3 +1236,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.35 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"You?"
 
+## Iteration 159 - NO_GAIN
+- **when**: 2026-09-16T12:47:19Z
+- **train loss**: 0.4385 | **val loss**: 0.3908 | **run best**: 0.3853
+- **corpus**: 152,665 chars (+6 self-written examples)
+- **internet reading**: +30 articles, +14 facts (90 read all-time)
+- **lr**: 0.0003 | **steps**: 200
+- **knowledge quiz**: avg 0.30 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, animals 1.00, units 1.00
+- self-portrait, asked "Who are you?": *"I am Fea is Neve hy of the Djibouti."
+

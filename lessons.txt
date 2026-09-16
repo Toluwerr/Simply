@@ -7636,3 +7636,110 @@ A: The Roman numeral ccxxii is the number 222.
 
 Q: What is the Roman numeral for 949?
 A: The Roman numeral for 949 is cmxlix.
+Q: What number is the Roman numeral xlvii?
+A: The Roman numeral xlvii is the number 47.
+
+Q: What number is the Roman numeral dclxxxv?
+A: The Roman numeral dclxxxv is the number 685.
+
+Q: What number is the Roman numeral li?
+A: The Roman numeral li is the number 51.
+
+Q: What number is the Roman numeral xciv?
+A: The Roman numeral xciv is the number 94.
+
+Q: What is the Roman numeral for 13?
+A: The Roman numeral for 13 is xiii.
+
+Q: What number is the Roman numeral xcviii?
+A: The Roman numeral xcviii is the number 98.
+
+Q: Can you count by twos from 2 to 8?
+A: Counting by twos gives 2 4 6 8.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by fives from 10 to 20?
+A: Counting by fives gives 10 15 20.
+
+Q: Can you count by ones from 10 to 13?
+A: Counting by ones gives 10 11 12 13.
+
+Q: Can you count by ones from 38 to 42?
+A: Counting by ones gives 38 39 40 41 42.
+
+Q: Can you count by ones from 32 to 35?
+A: Counting by ones gives 32 33 34 35.
+
+Q: What is the capital of Zambia?
+A: The capital of Zambia is Lusaka.
+
+Q: What is the capital of Zimbabwe?
+A: The capital of Zimbabwe is Harare.
+
+Q: What is the capital of Kuwait?
+A: The capital of Kuwait is Kuwait City.
+
+Q: What is the capital of Nigeria?
+A: The capital of Nigeria is Abuja.
+
+Q: What is the capital of South Sudan?
+A: The capital of South Sudan is Juba.
+
+Q: What is the capital of Micronesia?
+A: The capital of Micronesia is Palikir.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is double 12?
+A: Double 12 is 24.
+
+Q: What is double 24?
+A: Double 24 is 48.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What is double 23?
+A: Double 23 is 46.
+
+Q: What is double 46?
+A: Double 46 is 92.
+
+Q: What currency does Rwanda use?
+A: The currency of Rwanda is the franc.
+
+Q: What currency does Egypt use?
+A: The currency of Egypt is the pound.
+
+Q: What currency does Venezuela use?
+A: The currency of Venezuela is the bolivar.
+
+Q: What currency does Iceland use?
+A: The currency of Iceland is the krona.
+
+Q: What currency does Trinidad and Tobago use?
+A: The currency of Trinidad and Tobago is the dollar.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
+
+Q: What is 15 times 17?
+A: 15 times 17 is 255.
+
+Q: What is 537 minus 273?
+A: 537 minus 273 is 264.
+
+Q: What is 10 plus 13?
+A: 10 plus 13 is 23.
+
+Q: What is 11 minus 6?
+A: 11 minus 6 is 5.
+
+Q: What is 8 times 7?
+A: 8 times 7 is 56.
+
+Q: What is 544 plus 36?
+A: 544 plus 36 is 580.
