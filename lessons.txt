@@ -5262,3 +5262,128 @@ A: Richmond is the capital of Virginia.
 
 Q: What is the capital of the US state Massachusetts?
 A: Boston is the capital of Massachusetts.
+Q: What is the chemical symbol for magnesium?
+A: The chemical symbol for magnesium is Mg.
+
+Q: What is the chemical symbol for thallium?
+A: The chemical symbol for thallium is Tl.
+
+Q: Which element has the chemical symbol Al?
+A: Al is the chemical symbol for aluminium.
+
+Q: What is the chemical symbol for cobalt?
+A: The chemical symbol for cobalt is Co.
+
+Q: What is the chemical symbol for ruthenium?
+A: The chemical symbol for ruthenium is Ru.
+
+Q: Which element has the chemical symbol V?
+A: V is the chemical symbol for vanadium.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: How do you sort 28, 5, and 4?
+A: In order, they are 4 5 28.
+
+Q: How do you sort 23, 14, and 18?
+A: In order, they are 14 18 23.
+
+Q: How do you sort 987, 376, and 317?
+A: In order, they are 317 376 987.
+
+Q: How do you sort 21, 13, and 5?
+A: In order, they are 5 13 21.
+
+Q: How do you sort 625, 816, and 932?
+A: In order, they are 625 816 932.
+
+Q: How do you sort 153, 48, and 648?
+A: In order, they are 48 153 648.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: What number is the Roman numeral cclxxvii?
+A: The Roman numeral cclxxvii is the number 277.
+
+Q: What number is the Roman numeral cmxxiv?
+A: The Roman numeral cmxxiv is the number 924.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What number is the Roman numeral xxxvii?
+A: The Roman numeral xxxvii is the number 37.
+
+Q: What is double 42?
+A: Double 42 is 84.
+
+Q: What is double 55?
+A: Double 55 is 110.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is double 28?
+A: Double 28 is 56.
+
+Q: What is double 51?
+A: Double 51 is 102.
+
+Q: What is the last letter of 'present'?
+A: The last letter of 'present' is T.
+
+Q: What is the last letter of 'jordan'?
+A: The last letter of 'jordan' is N.
+
+Q: What is the first letter of 'monrovia'?
+A: The first letter of 'monrovia' is M.
+
+Q: What is the first letter of 'cheyenne'?
+A: The first letter of 'cheyenne' is C.
+
+Q: What is the last letter of 'beryllium'?
+A: The last letter of 'beryllium' is M.
+
+Q: What is the first letter of 'easily'?
+A: The first letter of 'easily' is E.
+
+Q: What is 709 minus 324?
+A: 709 minus 324 is 385.
+
+Q: What is 18 minus 5?
+A: 18 minus 5 is 13.
+
+Q: What is 9 times 3?
+A: 9 times 3 is 27.
+
+Q: What is 86 plus 42?
+A: 86 plus 42 is 128.
+
+Q: What is 20 plus 12?
+A: 20 plus 12 is 32.
+
+Q: What is 9 times 2?
+A: 9 times 2 is 18.

@@ -6777,3 +6777,10 @@ A: The opposite of 'hard' is 'soft'.
 
 Q: How much is 40 plus 0?
 A: 40 plus 0 is 40.
+
+
+Q: What continent is Romania on?
+A: Spacta is on the continent of Europe.
+
+Q: How many letters does the word 'angola' have?
+A: The word 'angola' has 6 letters.
