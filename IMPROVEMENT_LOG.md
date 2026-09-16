@@ -1021,3 +1021,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.30 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny the word islowe sy-shine."
 
+## Promotion - v12 - weights committed
+- **reason**: val_loss 0.4007, was 0.4371
+- self-portrait, asked "Who are you?": *"I cal an June Guand ills the number 0 is th0 ine first est lembe Akica pa prity din Frids winter."
+
