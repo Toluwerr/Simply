@@ -1245,3 +1245,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.30 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, animals 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I am Fea is Neve hy of the Djibouti."
 
+## Promotion - v14 - weights committed
+- **reason**: val_loss 0.3853, was 0.3920
+- self-portrait, asked "Who are you?": *"Ub ismalle bole at."
+
