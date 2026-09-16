@@ -18040,3 +18040,110 @@ A: The chemical symbol for bismuth is Bi.
 
 Q: Which element has the chemical symbol As?
 A: As is the chemical symbol for arsenic.
+Q: What is the chemical symbol for holmium?
+A: The chemical symbol for holmium is Ho.
+
+Q: What is the chemical symbol for europium?
+A: The chemical symbol for europium is Eu.
+
+Q: Which element has the chemical symbol Bi?
+A: Bi is the chemical symbol for bismuth.
+
+Q: Which element has the chemical symbol Rn?
+A: Rn is the chemical symbol for radon.
+
+Q: What is the chemical symbol for thulium?
+A: The chemical symbol for thulium is Tm.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: What is 12 plus 6?
+A: 12 plus 6 is 18.
+
+Q: What is 467 minus 62?
+A: 467 minus 62 is 405.
+
+Q: What is 16 plus 17?
+A: 16 plus 17 is 33.
+
+Q: What is 80 minus 47?
+A: 80 minus 47 is 33.
+
+Q: What is 97 minus 77?
+A: 97 minus 77 is 20.
+
+Q: What is 516 plus 114?
+A: 516 plus 114 is 630.
+
+Q: What currency does Panama use?
+A: The currency of Panama is the balboa.
+
+Q: What currency does Bosnia and Herzegovina use?
+A: The currency of Bosnia and Herzegovina is the mark.
+
+Q: What currency does Algeria use?
+A: The currency of Algeria is the dinar.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does Botswana use?
+A: The currency of Botswana is the pula.
+
+Q: Can you count by ones from 5 to 10?
+A: Counting by ones gives 5 6 7 8 9 10.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by ones from 38 to 43?
+A: Counting by ones gives 38 39 40 41 42 43.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by fives from 25 to 45?
+A: Counting by fives gives 25 30 35 40 45.
+
+Q: What is the first letter of 'iron'?
+A: The first letter of 'iron' is I.
+
+Q: What is the first letter of 'thulium'?
+A: The first letter of 'thulium' is T.
+
+Q: What is the last letter of 'inside'?
+A: The last letter of 'inside' is E.
+
+Q: What is the first letter of 'leu'?
+A: The first letter of 'leu' is L.
+
+Q: What is the first letter of 'australia'?
+A: The first letter of 'australia' is A.
+
+Q: What is the first letter of 'tarawa'?
+A: The first letter of 'tarawa' is T.
+
+Q: How do you sort 19, 22, and 7?
+A: In order, they are 7 19 22.
+
+Q: How do you sort 507, 498, and 166?
+A: In order, they are 166 498 507.
+
+Q: How do you sort 3, 29, and 14?
+A: In order, they are 3 14 29.
+
+Q: How do you sort 263, 726, and 214?
+A: In order, they are 214 263 726.
+
+Q: How do you sort 844, 543, and 549?
+A: In order, they are 543 549 844.
+
+Q: How do you sort 272, 465, and 411?
+A: In order, they are 272 411 465.

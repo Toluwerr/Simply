@@ -8123,3 +8123,34 @@ A: 99 is bigger than 86.
 
 Q: What is the Roman numeral for 20?
 A: The Roman numeral for 20 is xx.
+
+
+Q: How many letters does the word 'sheep' have?
+A: The word 'grape' has 5 letters.
+
+Q: How many letters are in the word 'otter'?
+A: The word 'lemon' has 5 letters.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What is double 42?
+A: Double 42 is 84.
+
+Q: Can you count by fives from 15 to 45?
+A: Counting by fives gives 15 20 25 30 35 40 45.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven 71, they ask.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by ones from 10 to 13?
+A: Counting by ones gives 10 11 12 13.
+
+Q: Can you count by tens from 30 to 55?
+A: Counting by tens gives 30 40 50 60 70.
