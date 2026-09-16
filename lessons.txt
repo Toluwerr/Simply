@@ -17558,3 +17558,128 @@ A: The currency of Niger is the franc.
 
 Q: What currency does Australia use?
 A: The currency of Australia is the dollar.
+Q: What is the last letter of 'island'?
+A: The last letter of 'island' is D.
+
+Q: What is the first letter of 'long'?
+A: The first letter of 'long' is L.
+
+Q: What is the last letter of 'conakry'?
+A: The last letter of 'conakry' is Y.
+
+Q: What is the first letter of 'mauritius'?
+A: The first letter of 'mauritius' is M.
+
+Q: What is the last letter of 'montpelier'?
+A: The last letter of 'montpelier' is R.
+
+Q: What is the last letter of 'latvia'?
+A: The last letter of 'latvia' is A.
+
+Q: How do you write 28 in words?
+A: 28 in words is twenty-eight.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 60 in words?
+A: 60 in words is sixty.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
+
+Q: What is the capital of Kazakhstan?
+A: The capital of Kazakhstan is Astana.
+
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+
+Q: What is the capital of Sweden?
+A: The capital of Sweden is Stockholm.
+
+Q: What is the capital of Libya?
+A: The capital of Libya is Tripoli.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What is the capital of Sweden?
+A: The capital of Sweden is Stockholm.
+
+Q: How many letters does the word 'beijing' have?
+A: The word 'beijing' has 7 letters.
+
+Q: How many letters does the word 'jupiter' have?
+A: The word 'jupiter' has 7 letters.
+
+Q: How many letters does the word 'tree' have?
+A: The word 'tree' has 4 letters.
+
+Q: How many letters does the word 'som' have?
+A: The word 'som' has 3 letters.
+
+Q: How many letters does the word 'tunis' have?
+A: The word 'tunis' has 5 letters.
+
+Q: How many letters does the word 'forint' have?
+A: The word 'forint' has 6 letters.
+
+Q: What number is the Roman numeral xii?
+A: The Roman numeral xii is the number 12.
+
+Q: What is the Roman numeral for 9?
+A: The Roman numeral for 9 is ix.
+
+Q: What number is the Roman numeral dccclxii?
+A: The Roman numeral dccclxii is the number 862.
+
+Q: What number is the Roman numeral dcxci?
+A: The Roman numeral dcxci is the number 691.
+
+Q: What number is the Roman numeral dccciv?
+A: The Roman numeral dccciv is the number 804.
+
+Q: What number is the Roman numeral lxxvii?
+A: The Roman numeral lxxvii is the number 77.
+
+Q: Can you count by twos from 24 to 28?
+A: Counting by twos gives 24 26 28.
+
+Q: Can you count by twos from 6 to 14?
+A: Counting by twos gives 6 8 10 12 14.
+
+Q: Can you count by twos from 12 to 16?
+A: Counting by twos gives 12 14 16.
+
+Q: Can you count by fives from 25 to 50?
+A: Counting by fives gives 25 30 35 40 45 50.
+
+Q: Can you count by twos from 2 to 10?
+A: Counting by twos gives 2 4 6 8 10.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Which element has the chemical symbol B?
+A: B is the chemical symbol for boron.
+
+Q: Which element has the chemical symbol Sb?
+A: Sb is the chemical symbol for antimony.
+
+Q: What is the chemical symbol for terbium?
+A: The chemical symbol for terbium is Tb.
+
+Q: What is the chemical symbol for thulium?
+A: The chemical symbol for thulium is Tm.
+
+Q: Which element has the chemical symbol Ba?
+A: Ba is the chemical symbol for barium.
+
+Q: Which element has the chemical symbol Pm?
+A: Pm is the chemical symbol for promethium.

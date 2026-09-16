@@ -8044,3 +8044,10 @@ A: Double 36 is 72.
 
 Q: How many letters does the word 'castle' have?
 A: The word 'candle' has 6 letters.
+
+
+Q: How many letters does the word 'long' have?
+A: The word 'lan' has 4 letters.
+
+Q: What is the opposite of 'loud'?
+A: 'loud' is the opposite of 'loud'quiet'.

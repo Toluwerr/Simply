@@ -1,0 +1,5 @@
+Q: How many letters does the word 'long' have?
+A: The word 'lan' has 4 letters.
+
+Q: What is the opposite of 'loud'?
+A: 'loud' is the opposite of 'loud'quiet'.
