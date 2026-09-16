@@ -1,0 +1,53 @@
+Q: Which is bigger, 0 or 92?
+A: 92 is bigger than 740.
+
+Q: What is 7 times 1?
+A: 7 times 1 is 77.
+
+Q: How do you sort 5, 8, and 24?
+A: In order, they are 5 8 24.
+
+Q: What is 0 times 13?
+A: 0 times 13 is 0.
+
+Q: How do you sort 29, 16, and 8?
+A: In order, they are 8 16 29.
+
+Q: How do you sort 1, 11, and 26?
+A: In order, they are 1 11 26.
+
+Q: How do you sort 5, 17, and 25?
+A: In order, they are 5 17 25.
+
+Q: How do you sort 10, 21, and 2?
+A: In order, they are 2 10 21.
+
+Q: Is 11 bigger than 43?
+A: No, 43 is bigger than 35.
+
+Q: Which is bigger, 20 or 7?
+A: 20 is bigger than 7.
+
+Q: Is 6 bigger than 1?
+A: Yes, 6 is bigger than 6.
+
+Q: How do you sort 9, 7, and 28?
+A: In order, they are 7 9 28.
+
+Q: Which is bigger, 0 or 1?
+A: 1 is bigger than 1.
+
+Q: Is 11 bigger than 57?
+A: No, 57 is bigger than 11.
+
+Q: Which is bigger, 0 or 6?
+A: 6 is bigger than 6.
+
+Q: Which is bigger, 20 or 12?
+A: 20 is bigger than 12.
+
+Q: Which is bigger, 4 or 12?
+A: 12 is bigger than 4.
+
+Q: Which is bigger, 47 or 91?
+A: 91 is bigger than 24.

@@ -21358,3 +21358,110 @@ A: The currency of Tonga is the paanga.
 
 Q: What currency does Italy use?
 A: The currency of Italy is the euro.
+Q: What is 8 times 9?
+A: 8 times 9 is 72.
+
+Q: What is 2 times 7?
+A: 2 times 7 is 14.
+
+Q: What is 11 times 11?
+A: 11 times 11 is 121.
+
+Q: What is 955 minus 601?
+A: 955 minus 601 is 354.
+
+Q: What is 19 minus 12?
+A: 19 minus 12 is 7.
+
+Q: What is 974 minus 839?
+A: 974 minus 839 is 135.
+
+Q: How do you sort 23, 6, and 8?
+A: In order, they are 6 8 23.
+
+Q: How do you sort 102, 548, and 642?
+A: In order, they are 102 548 642.
+
+Q: How do you sort 111, 103, and 894?
+A: In order, they are 103 111 894.
+
+Q: How do you sort 483, 214, and 701?
+A: In order, they are 214 483 701.
+
+Q: How do you sort 11, 6, and 19?
+A: In order, they are 6 11 19.
+
+Q: How do you sort 655, 415, and 667?
+A: In order, they are 415 655 667.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the capital of Tuvalu?
+A: The capital of Tuvalu is Funafuti.
+
+Q: What is the capital of Somalia?
+A: The capital of Somalia is Mogadishu.
+
+Q: What is the capital of Tunisia?
+A: The capital of Tunisia is Tunis.
+
+Q: How many letters does the word 'brazil' have?
+A: The word 'brazil' has 6 letters.
+
+Q: How many letters does the word 'namibia' have?
+A: The word 'namibia' has 7 letters.
+
+Q: How many letters does the word 'cuba' have?
+A: The word 'cuba' has 4 letters.
+
+Q: How many letters does the word 'mercury' have?
+A: The word 'mercury' has 7 letters.
+
+Q: How many letters does the word 'europium' have?
+A: The word 'europium' has 8 letters.
+
+Q: How many letters does the word 'barium' have?
+A: The word 'barium' has 6 letters.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: Which is bigger, 919 or 271?
+A: 919 is bigger than 271.
+
+Q: Which is bigger, 306 or 751?
+A: 751 is bigger than 306.
+
+Q: Is 36 bigger than 56?
+A: No, 56 is bigger than 36.
+
+Q: Which is bigger, 80 or 55?
+A: 80 is bigger than 55.
+
+Q: Is 685 bigger than 797?
+A: No, 797 is bigger than 685.
+
+Q: Which is bigger, 178 or 457?
+A: 457 is bigger than 178.
