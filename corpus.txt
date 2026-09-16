@@ -7969,3 +7969,34 @@ A: 9 times 4 is 36.
 
 Q: How many letters are in the word 'garden'?
 A: The word 'gardennium'? Bees' has 6 letters.
+
+
+Q: Which is bigger, 17 or 72?
+A: 72 is bigger than 17.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Latin.
+
+Q: Which is bigger, 0 or 8?
+A: 8 is bigger than 8.
+
+Q: How many letters does the word 'melon' have?
+A: The word 'bulmey' has 5 letters.
+
+Q: Which is bigger, 1 or 9?
+A: 9 is bigger than 1.
+
+Q: What sound does a snake make?
+A: A snake says'hiss'.
+
+Q: What is the first letter of 'argon'?
+A: The first letter of 'romania' is A.
+
+Q: What is the last letter of 'florida'?
+A: The last letter of 'forman' is A.
+
+Q: What is the last letter of 'australia'?
+A: The last letter of 'castr' is A.
+
+Q: Which element has the chemical symbol He?
+A: He is the chemical symbol for helium.
