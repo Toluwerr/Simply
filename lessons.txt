@@ -20680,3 +20680,128 @@ A: The word 'begawan' has 7 letters.
 
 Q: How many letters does the word 'cautious' have?
 A: The word 'cautious' has 8 letters.
+Q: Can you count by ones from 4 to 7?
+A: Counting by ones gives 4 5 6 7.
+
+Q: Can you count by ones from 31 to 33?
+A: Counting by ones gives 31 32 33.
+
+Q: Can you count by ones from 27 to 30?
+A: Counting by ones gives 27 28 29 30.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by ones from 21 to 23?
+A: Counting by ones gives 21 22 23.
+
+Q: Can you count by ones from 9 to 14?
+A: Counting by ones gives 9 10 11 12 13 14.
+
+Q: What is the Roman numeral for 6?
+A: The Roman numeral for 6 is vi.
+
+Q: What is the Roman numeral for 56?
+A: The Roman numeral for 56 is lvi.
+
+Q: What number is the Roman numeral xcix?
+A: The Roman numeral xcix is the number 99.
+
+Q: What number is the Roman numeral xlviii?
+A: The Roman numeral xlviii is the number 48.
+
+Q: What number is the Roman numeral v?
+A: The Roman numeral v is the number 5.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: Which is bigger, 43 or 50?
+A: 50 is bigger than 43.
+
+Q: Is 615 bigger than 844?
+A: No, 844 is bigger than 615.
+
+Q: Is 7 bigger than 15?
+A: No, 15 is bigger than 7.
+
+Q: Is 273 bigger than 440?
+A: No, 440 is bigger than 273.
+
+Q: Is 22 bigger than 65?
+A: No, 65 is bigger than 22.
+
+Q: Is 15 bigger than 19?
+A: No, 19 is bigger than 15.
+
+Q: What is the first letter of 'carolina'?
+A: The first letter of 'carolina' is C.
+
+Q: What is the first letter of 'abu'?
+A: The first letter of 'abu' is A.
+
+Q: What is the last letter of 'tobago'?
+A: The last letter of 'tobago' is O.
+
+Q: What is the first letter of 'sweden'?
+A: The first letter of 'sweden' is S.
+
+Q: What is the first letter of 'going'?
+A: The first letter of 'going' is G.
+
+Q: What is the first letter of 'cameroon'?
+A: The first letter of 'cameroon' is C.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: What is the chemical symbol for molybdenum?
+A: The chemical symbol for molybdenum is Mo.
+
+Q: What is the chemical symbol for thulium?
+A: The chemical symbol for thulium is Tm.
+
+Q: Which element has the chemical symbol S?
+A: S is the chemical symbol for sulfur.
+
+Q: What is the chemical symbol for indium?
+A: The chemical symbol for indium is In.
+
+Q: Which element has the chemical symbol Ne?
+A: Ne is the chemical symbol for neon.
+
+Q: How many letters does the word 'lebanon' have?
+A: The word 'lebanon' has 7 letters.
+
+Q: How many letters does the word 'give' have?
+A: The word 'give' has 4 letters.
+
+Q: How many letters does the word 'italy' have?
+A: The word 'italy' has 5 letters.
+
+Q: How many letters does the word 'saint' have?
+A: The word 'saint' has 5 letters.
+
+Q: How many letters does the word 'bangui' have?
+A: The word 'bangui' has 6 letters.
+
+Q: How many letters does the word 'muscat' have?
+A: The word 'muscat' has 6 letters.
+
+Q: What currency does Morocco use?
+A: The currency of Morocco is the dirham.
+
+Q: What currency does Belarus use?
+A: The currency of Belarus is the ruble.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What currency does Belgium use?
+A: The currency of Belgium is the euro.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.

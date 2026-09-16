@@ -8723,3 +8723,31 @@ A: In order, they are 5 14 20.
 
 Q: How do you sort 21, 7, and 17?
 A: In order, they are 7 17 21.
+
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral lari is the number 4.
+
+Q: What is the Roman numeral for 49?
+A: The Roman numeral for 49 is xlix.
+
+Q: Which element has the chemical symbol Ne?
+A: Ne is the chemical symbol for neon.
+
+Q: Which is bigger, 78 or 36?
+A: 78 is bigger than 36.
+
+Q: What is the chemical symbol for lead?
+A: The chemical symbol for lead is Pb.
+
+Q: How many letters does the word 'gion' have?
+A: The word 'som' has 4 letters.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How many letters does the word 'dirty' have?
+A: The word 'dirty' has 5 letters.
