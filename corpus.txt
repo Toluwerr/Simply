@@ -8780,3 +8780,25 @@ A: 0 times 0 is 0 is 0 polite and it mmuch.
 
 Q: What continent is Eswatini on?
 A: Eswatini is on the continent of Africa.
+
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium.
+
+Q: How do you write 2 in words?
+A: 2 in words is two one.
+
+Q: Which element has the chemical symbol S?
+A: Pm is the chemical symbol for sulfuranium.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two oneus baking.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: Can you count by twos from 38 to 46?
+A: Counting by twos gives 38 40 42 44 46 44 39 Mars.
