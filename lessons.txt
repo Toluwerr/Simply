@@ -8814,3 +8814,128 @@ A: The last letter of 'riyadh' is H.
 
 Q: What is the last letter of 'north'?
 A: The last letter of 'north' is H.
+Q: What is 5 times 9?
+A: 5 times 9 is 45.
+
+Q: What is 536 plus 535?
+A: 536 plus 535 is 1071.
+
+Q: What is 25 plus 84?
+A: 25 plus 84 is 109.
+
+Q: What is 7 plus 11?
+A: 7 plus 11 is 18.
+
+Q: What is 6 plus 8?
+A: 6 plus 8 is 14.
+
+Q: What is 9 times 5?
+A: 9 times 5 is 45.
+
+Q: Can you count by fives from 15 to 30?
+A: Counting by fives gives 15 20 25 30.
+
+Q: Can you count by twos from 2 to 10?
+A: Counting by twos gives 2 4 6 8 10.
+
+Q: Can you count by fives from 30 to 45?
+A: Counting by fives gives 30 35 40 45.
+
+Q: Can you count by fives from 5 to 20?
+A: Counting by fives gives 5 10 15 20.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by twos from 32 to 40?
+A: Counting by twos gives 32 34 36 38 40.
+
+Q: What is double 35?
+A: Double 35 is 70.
+
+Q: What is double 37?
+A: Double 37 is 74.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: What is double 24?
+A: Double 24 is 48.
+
+Q: What continent is Ireland on?
+A: Ireland is on the continent of Europe.
+
+Q: What continent is Syria on?
+A: Syria is on the continent of Asia.
+
+Q: What continent is Argentina on?
+A: Argentina is on the continent of South America.
+
+Q: What continent is Latvia on?
+A: Latvia is on the continent of Europe.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: What continent is Uganda on?
+A: Uganda is on the continent of Africa.
+
+Q: Which is bigger, 1 or 8?
+A: 8 is bigger than 1.
+
+Q: Is 860 bigger than 878?
+A: No, 878 is bigger than 860.
+
+Q: Is 46 bigger than 55?
+A: No, 55 is bigger than 46.
+
+Q: Which is bigger, 517 or 578?
+A: 578 is bigger than 517.
+
+Q: Is 802 bigger than 903?
+A: No, 903 is bigger than 802.
+
+Q: Which is bigger, 473 or 136?
+A: 473 is bigger than 136.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state Rhode Island?
+A: Providence is the capital of Rhode Island.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.

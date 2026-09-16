@@ -7084,3 +7084,13 @@ A: Jupiter is the fifth planet from the sun.
 
 Q: What continent is Russia on?
 A: Australia is on the continent of Europe.
+
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50 50 60.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
