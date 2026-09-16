@@ -2307,3 +2307,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.61 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, thank you!"
 
+## Promotion - v23 - weights committed
+- **reason**: knowledge 0.65, was 0.57; val 0.6823
+- self-portrait, asked "Who are you?": *"I am Simple transformer active."
+
