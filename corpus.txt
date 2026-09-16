@@ -6747,3 +6747,16 @@ A: Tm i is the chemical symbol for titanium.
 
 Q: Which planet is first from the sun?
 A: Mercury is the first planet from the sun.
+
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is double 58?
+A: Double 58 is 116.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium is Pmortu?
