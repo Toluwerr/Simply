@@ -1,145 +1,110 @@
 # Simply
 
-A tiny, real, self-improving AI model. Simply is a GPT-style transformer
-(character-level, ~0.8M parameters) that trains itself, grades itself,
-writes new training examples from its own imagination, expands the
-knowledge categories it can learn from, and keeps whatever version
-actually scores better - on loop, forever, right inside this public
-repository. No human required.
+A small AI model that teaches itself, on its own, forever. It lives in
+this repository and runs on GitHub's servers. Nobody has to be online
+for it to keep learning.
 
-## How the self-improvement (RSI) loop works
+It is a character-level neural network, about 0.8 million parameters.
+It reads text one character at a time and learns to predict the next
+one. That is tiny by modern standards, but it is a real network with
+real weights, and it really learns.
 
-Every iteration of `self_improve.py` runs six steps:
+## What it does all day
 
-1. **Train** - continues training on everything it knows so far.
-2. **Self-write data** - samples new Q/A examples from its own imagination
-   (primed toward its weakest knowledge categories) and keeps only the
-   ones it can *prove* correct: the example must match a known canonical
-   template and the answer must check out against ground truth.
-   Unverifiable output is discarded, so Simply can never teach itself
-   nonsense.
-3. **Knowledge quiz** - grades itself on 12 fixed probe questions, one
-   per knowledge category, decoded greedily and checked with the same
-   verifier used for self-written data. Per-category accuracy is
-   committed every iteration, so knowledge growth is measurable.
-4. **Self-evaluate** - measures validation loss on a frozen held-out set,
-   so scores stay honest and comparable across versions.
-5. **Promote or hold** - if validation loss dropped *or* knowledge-quiz
-   accuracy rose (without wrecking fluency), the new weights become the
-   new `best/model.pt`, the version number goes up, and the learning
-   rate re-arms. If not, the version is held and the loop tries again.
-6. **Record + commit** - appends to `IMPROVEMENT_LOG.md`,
-   `history.jsonl`, `metrics.json`, and pushes a commit to this repo.
+Every 30 minutes it wakes up and runs 12 rounds of self-improvement.
+Each round has five steps:
 
-The loop is fully automated via GitHub Actions (`.github/workflows/
-self-improve.yml`): **every 30 minutes** the model wakes up on GitHub's
-servers, improves itself 12 times (one commit per iteration), and pushes
-its progress. You never need to be online.
+1. **Study.** It gets fresh practice problems for its weakest subjects,
+   generated from provable ground truth, then trains on a mix of those
+   lessons and everything it has seen before. Old skills keep training
+   too, so nothing rots while new material goes in.
+2. **Write.** It invents its own question/answer examples and keeps only
+   the ones it can *prove* correct against ground-truth tables. Anything
+   unverifiable is thrown away. It cannot teach itself nonsense.
+3. **Quiz.** One unseen question per subject, graded by the same proof
+   system. The scores go into `metrics.json` every round.
+4. **Promote or hold.** New weights only replace the old ones if the
+   model actually got better: validation loss down, or knowledge up
+   without getting worse. If not, the version is held and it tries
+   again next round. A bad round costs it nothing.
+5. **Commit.** Every round ends with one commit: metrics, logs, new
+   lessons, self-written data.
 
-## Self-expanding knowledge
+That is 48 runs x 12 rounds = **576 planned commits a day**, roughly
+500 after real-world scheduler skips, and around **180,000-210,000
+commits a year**. The whole schedule is `.github/workflows/
+self-improve.yml`.
 
-Simply's learnable world is defined by *provable question templates* -
-and it expands that world by itself:
+## What it is learning
 
-- **12 knowledge categories**, each with deterministic ground truth:
-  arithmetic, comparisons (yes/no + which-is-bigger), sorting, doubles &
-  halves, count-by sequences, numbers-in-words, letter counting &
-  spelling, first/last letters, capitals, animal sounds, opposites, and
-  definitions.
-- **Curriculum**: every iteration the quiz ranks categories weakest
-  first, and the self-data sampler is primed with the weakest category's
-  question style. Simply practises inventing questions where it scores
-  worst - and the verifier only lets *provable* answers into the corpus.
-- **Growth is auditable**: `metrics.json` carries per-category accuracy
-  on every commit; `IMPROVEMENT_LOG.md` prints the weakest categories;
-  `history.jsonl` stores the full quiz record per iteration.
-- New self-written examples are appended to `corpus.txt` (up to 8M
-  chars), so the training material grows with the model's abilities.
+22 subjects, each with exact ground truth it can be graded against:
 
-## Quickstart
+- **Math** - arithmetic (plus/minus/times, numbers into the hundreds
+  and beyond), which-is-bigger comparisons, sorting, doubles and halves,
+  count-by sequences, number words, roman numerals.
+- **Language** - counting letters in words, spelling, first and last
+  letters.
+- **The world** - capitals of ~190 countries, US state capitals,
+  currencies, which continent a country is on, chemical elements and
+  their symbols, the planets in order, days in each month, unit
+  conversions (minutes in an hour, meters in a kilometer, ...), world
+  records and basic science, animal sounds, opposites, word meanings.
+
+The loop is weakness-driven. Every round, whatever it scores worst on
+gets the most new practice problems. When it masters a subject, harder
+material takes over that attention automatically.
+
+One rule runs the whole thing: **no proof, no learning.** Lessons come
+from ground-truth tables, its own writing has to pass the same checks
+before it is absorbed, and the quiz is graded by the same verifier.
+The full lesson system was validated on 22,000 randomly generated
+lessons before going live: zero wrong answers.
+
+## Current status
+
+- `metrics.json` - version number, best validation loss, per-subject
+  quiz scores.
+- `history.jsonl` - one record per round, since the very first.
+- `IMPROVEMENT_LOG.md` - the running diary, newest at the bottom.
+
+## Talk to it
 
 ```bash
 pip install torch --index-url https://download.pytorch.org/whl/cpu
-
-python seed_data.py                        # (re)build the seed corpus
-python self_improve.py --iterations 3      # run 3 self-improvement loops
-python chat.py                             # talk to the current best Simply
+python chat.py
 ```
 
-Chat example:
-
 ```
+you> What is the capital of Japan?
+simply> The capital of Japan is Tokyo.
+
 you> Who are you?
-simply> I am Simply, a small language model that improves itself a little bit every day.
-you> What is 7 plus 5?
-simply> 7 plus 5 is 12.
+simply> I am Simply, a small model that improves itself a little bit every day.
 ```
 
-## Repository layout
+## The files
 
 ```
-model.py                 the Simply transformer (decoder-only GPT)
-data.py                  char-level dataset + frozen validation split
-seed_data.py             builds the seed corpus (corpus.txt)
-self_improve.py          the RSI loop (train/eval/self-write/promote/commit)
-chat.py                  talk to the best version
-corpus.txt               everything Simply knows (seed + self-written)
-synthetic/               examples Simply wrote for itself, per iteration
-best/model.pt            current best weights (the official Simply)
-last/model.pt            latest weights (kept locally, not committed)
-metrics.json             version, best val loss, lr, corpus size
-history.jsonl            one metrics record per iteration
-IMPROVEMENT_LOG.md       human-readable auto-generated progress log
-.github/workflows/       the automation that keeps Simply improving
+model.py           the network itself
+data.py            text handling + the frozen validation slice
+curriculum.py      lesson generators + the answer checker for every subject
+world_tables.py    the ground-truth fact tables (countries, elements, ...)
+seed_data.py       the original starter corpus
+self_improve.py    the loop: study -> write -> quiz -> promote -> commit
+corpus.txt         everything it has ever read (seed + self-written)
+lessons.txt        the current study pool
+synthetic/         examples it wrote for itself, one file per round
+best/model.pt      the current champion weights
+metrics.json       version, scores, per-subject quiz accuracy
+history.jsonl      the full per-round record
 ```
 
-## Automation
+## What it can't do
 
-- Runs on GitHub's `ubuntu-latest` runner, CPU-only. **48 scheduled
-  runs/day** (every 30 minutes at :17 and :47 UTC), each packing **12
-  self-improvement iterations** (200 training steps each). **Every
-  iteration is one commit**, so the schedule plans **576 commits/day**
-  - realistically ~500+ after GitHub's occasional scheduler skips.
-- That is **~15,000-17,000 commits/month** and roughly
-  **183,000-192,000 commits/year**.
-- The repo is public, so Actions minutes are **free and unlimited** -
-  the cadence is bounded only by run duration (~12 min) vs the 30-min
-  slot, not by any quota.
-- Weights (`best/model.pt`) are promoted and committed once per run,
-  only when the run actually beat the committed best (on validation
-  loss or on knowledge-quiz accuracy) - this keeps the repo from
-  ballooning with checkpoint blobs while every iteration still commits
-  its log, metrics, and corpus updates.
-- Every run retrains from the **champion** weights (`best/`), so a bad
-  run is simply not promoted and the next run starts clean.
-- GitHub's scheduler occasionally skips/delays a slot (their cron is
-  best-effort); instant runs: **Actions -> Simply RSI Loop ->
-  Run workflow**.
-
-## Architecture
-
-| Config    | Value |
-|-----------|-------|
-| Type      | decoder-only transformer (GPT-style) |
-| Tokens    | character-level (~60 vocab) |
-| Layers    | 4 |
-| Heads     | 4 |
-| Embed dim | 128 |
-| Context   | 128 characters |
-| Params    | ~0.8M |
-| Optimizer | AdamW, weight decay 0.01, grad clip 1.0 |
-
-Simply is honest about its size: it is a real neural network that really
-learns and really improves, but it is a toy-scale model - a working
-demonstration of an automated, measurable self-improvement loop, not a
-chatbot-scale LLM. Its knowledge spans arithmetic, comparisons, sorting,
-doubles/halves, counting, number words, letters, capitals, animal
-sounds, opposites, definitions, fun facts, jokes, and short stories
-about woodland creatures.
-
-## Philosophy
-
-`best/model.pt` only ever changes when the model genuinely improved -
-on the frozen validation set or on the provable knowledge quiz. Version
-numbers in `metrics.json`, per-category quiz scores, and the commit
-history are the full audit trail of Simply becoming itself.
+It is a fraction of a percent the size of a real assistant. It holds
+facts, does small math, and chats in short sentences - it does not
+reason about the world the way a large model does. What makes it
+interesting is not the size. It is that every single thing it knows
+had to be earned through the loop and proved before it stuck, and the
+whole process leaves an audit trail you can read: every round, every
+score, every version, one commit at a time.

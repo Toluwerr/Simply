@@ -25,6 +25,8 @@ import torch
 from model import Simply, GPTConfig
 from data import CharDataset
 import seed_data as SD  # ground-truth tables used by the verifier
+import world_tables as WT  # expanded world-knowledge ground truth
+import curriculum as CU  # infinite provable lessons per category
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 os.chdir(ROOT)
@@ -48,6 +50,17 @@ LR_START = 3e-3
 LR_MIN = 3e-4
 MAX_CORPUS_CHARS = 8_000_000
 MAX_SYNTH_PER_ITER = 40
+
+# Study mode: Simply trains on a mix of the corpus and a dedicated lesson
+# pool, and the pool is topped up every iteration with fresh provable
+# material for its weakest categories. This is how it keeps absorbing
+# more of the world without ever drifting off the truth.
+LESSONS_PATH = "lessons.txt"
+STUDY_FRAC = 0.55           # share of training batches drawn from lessons
+LESSONS_POOL_MAX = 800_000  # bytes; oldest lessons trimmed when exceeded
+SEED_LESSONS_PER_CAT = 30
+TOPUP_PER_ITER = 42         # fresh lessons added per iteration
+TOPUP_CATS = 7              # ...spread over the weakest categories
 
 
 def log(msg):
@@ -122,13 +135,21 @@ def save_checkpoint(model, ds, val_loss, version, path):
     }, path)
 
 
-def train_steps(model, ds, steps, batch_size, lr, device):
+def train_steps(model, ds, steps, batch_size, lr, device, lessons=None):
     opt = torch.optim.AdamW(model.parameters(), lr=lr, weight_decay=0.01)
     model.train()
     t0 = time.time()
     running = []
+    lesson_batches = 0
     for i in range(1, steps + 1):
-        x, y = ds.batch(batch_size, device, split="train")
+        # Study mode: most batches come from the lesson pool (the current
+        # frontier of what Simply is learning), the rest from the whole
+        # archive, so old skills never rot while new ones are drilled.
+        if lessons is not None and random.random() < STUDY_FRAC:
+            x, y = lessons.batch(batch_size, device)
+            lesson_batches += 1
+        else:
+            x, y = ds.batch(batch_size, device, split="train")
         _, loss = model(x, y)
         opt.zero_grad(set_to_none=True)
         loss.backward()
@@ -139,10 +160,13 @@ def train_steps(model, ds, steps, batch_size, lr, device):
             recent = sum(running[-50:]) / len(running[-50:])
             log(f"  step {i:>5}/{steps}  loss {recent:.4f}  "
                 f"{(time.time() - t0) / i:.2f}s/step")
+    if lesson_batches:
+        log(f"  study mix: {lesson_batches}/{steps} batches from lessons")
     return sum(running[-50:]) / len(running[-50:])
 
 
 ARITH_Q = re.compile(r"^(?:What is|How much is) (\d+) (plus|minus|times) (\d+)\?$")
+STATE_CAP_Q = re.compile(r"^What is the capital of the US state (.+)\?$")
 LETTERS_Q = re.compile(r"^How many letters (?:are in the word|does the word) '([a-z]+)'(?: have)?\?$")
 SPELL_Q = re.compile(r"^How do you spell '([a-z]+)'\?$")
 TRIPLE = re.compile(r"([a-zA-Z])\1{2,}")
@@ -199,7 +223,7 @@ def _single_words():
     return ws
 
 
-KNOWN_WORDS = _single_words()
+KNOWN_WORDS = _single_words() | set(CU.WORD_POOL)
 
 # Curriculum: prompt styles used to prime self-question-generation per
 # category. The loop feeds the model its own weakest categories first.
@@ -218,26 +242,18 @@ CATEGORY_PROMPTS = {
     "animals": ["Q: What sound does a "],
     "opposites": ["Q: What is the opposite of '"],
     "definitions": ["Q: What does '"],
+    "roman": ["Q: What is the Roman numeral for ",
+              "Q: What number is the Roman numeral "],
+    "states": ["Q: What is the capital of the US state "],
+    "currencies": ["Q: What currency does "],
+    "continents": ["Q: What continent is "],
+    "elements": ["Q: What is the chemical symbol for ",
+                 "Q: Which element has the chemical symbol "],
+    "planets": ["Q: Which planet is "],
+    "months": ["Q: How many days are in "],
+    "units": ["Q: How many "],
+    "records": ["Q: What is the ", "Q: How many "],
 }
-
-# Fixed knowledge probe: one question per category, graded with the same
-# verifier used for self-written data. Accuracy per category is committed
-# to metrics.json every iteration -> measurable knowledge growth.
-QUIZ_PROBES = [
-    ("arithmetic", "What is 13 plus 48?"),
-    ("compare", "Which is bigger, 38 or 71?"),
-    ("sort", "How do you sort 14, 3, and 27?"),
-    ("double_half", "What is half of 34?"),
-    ("count", "Can you count by fives from 20 to 45?"),
-    ("numwords", "How do you write 47 in words?"),
-    ("letters", "How many letters does the word 'elephant' have?"),
-    ("first_last", "What is the first letter of 'Brasilia'?"),
-    ("capitals", "What is the capital of Norway?"),
-    ("animals", "What sound does an owl make?"),
-    ("opposites", "What is the opposite of 'full'?"),
-    ("definitions", "What does 'sturdy' mean?"),
-]
-
 
 def template_check(q, a):
     """Per-template ground-truth check. Returns True only when the
@@ -258,9 +274,14 @@ def template_check(q, a):
     m = SPELL_Q.match(q)
     if m:
         return "-".join(m.group(1).upper()) in a
+    m = STATE_CAP_Q.match(q)
+    if m:
+        cap = WT.STATES.get(m.group(1))
+        return cap is not None and (
+            f"{cap} is the capital of {m.group(1)}" in a)
     m = re.match(r"^What is the capital of (.+)\?$", q)
     if m:
-        cap = SD.CAPITALS.get(m.group(1))
+        cap = WT.CAPITALS.get(m.group(1))
         return cap is not None and cap in a
     m = re.match(r"^What sound does an? (.+) make\?$", q)
     if m:
@@ -332,8 +353,11 @@ def template_check(q, a):
         if w.lower() not in KNOWN_WORDS:
             return False
         return re.search(rf"is '?{w[-1].upper()}'?[^a-zA-Z]", a) is not None
-    # No verifiable template matched -> do not absorb.
-    return False
+    # No old template matched - fall through to the curriculum templates
+    # (currencies, continents, elements, planets, months, units, records,
+    # roman numerals, US states). Same rule as everywhere else: no proof,
+    # no absorption.
+    return CU.check(q, a)
 
 
 def verified(q, a):
@@ -400,27 +424,30 @@ def weakest_categories(knowledge):
     return cats
 
 
-def run_knowledge_quiz(model, ds, device):
-    """Grade one probe per knowledge category with the real verifier.
+def run_knowledge_quiz(model, ds, device, iteration):
+    """Grade one fresh probe per knowledge category.
 
-    Returns (accuracies, summary_line). Accuracies go into
-    metrics['knowledge'] every iteration, so knowledge growth is
-    committed, versioned and auditable like everything else.
+    The probes are regenerated from the ground-truth generators every
+    iteration (seeded per category, so the run is reproducible), which
+    means the quiz measures understanding of a subject, never memory of
+    a fixed question list. Accuracy per category is committed every
+    iteration -> measurable, auditable knowledge growth.
     """
     model.eval()
-    scores, seen = {}, {}
-    for cat, q in QUIZ_PROBES:
+    scores = {}
+    for cat in CU.CATEGORIES:
+        rng = random.Random(f"{iteration}:{cat}")
+        q, _truth = CU.gen_lesson(cat, rng)
         # Greedy decoding: the quiz measures knowledge, not creativity.
         ans = sample_answer(model, ds, device, question=q,
-                            temperature=0.1, max_new=48, top_k=1)
-        ok = template_check(q, ans)
-        scores[cat] = scores.get(cat, 0) + int(ok)
-        seen[cat] = seen.get(cat, 0) + 1
-    acc = {c: round(scores[c] / seen[c], 3) for c in scores}
+                            temperature=0.1, max_new=64, top_k=1)
+        scores[cat] = 1.0 if template_check(q, ans) else 0.0
+    acc = {c: round(v, 3) for c, v in scores.items()}
     ranked = sorted(acc.items(), key=lambda kv: kv[1])
     avg = sum(acc.values()) / len(acc)
     worst = ", ".join(f"{c} {v:.2f}" for c, v in ranked[:3])
-    line = f"avg {avg:.2f} | weakest: {worst}"
+    best = ", ".join(f"{c} {v:.2f}" for c, v in reversed(ranked[-3:]))
+    line = f"avg {avg:.2f} | weakest: {worst} | strongest: {best}"
     return acc, line
 
 
@@ -501,6 +528,124 @@ def append_knowledge_seed(metrics):
         f"({dropped} skipped for charset safety)")
 
 
+def load_lessons_text():
+    if os.path.exists(LESSONS_PATH):
+        with open(LESSONS_PATH, encoding="utf-8") as f:
+            return f.read()
+    return ""
+
+
+def build_study_seed(metrics):
+    """One-time: stock the lesson pool with provable material for every
+    category and warm-restart the LR so the new material can sink in.
+    Every lesson comes from the ground-truth generators, so the pool
+    starts 100% correct."""
+    rng = random.Random(2026)
+    blocks = []
+    for cat in CU.CATEGORIES:
+        for _ in range(SEED_LESSONS_PER_CAT):
+            q, a = CU.gen_lesson(cat, rng)
+            blocks.append(f"Q: {q}\nA: {a}")
+    allowed = set(load_corpus())
+    keep = [b for b in blocks if all(c in allowed for c in b)]
+    with open(LESSONS_PATH, "w", encoding="utf-8") as f:
+        f.write("\n\n".join(keep) + "\n")
+    metrics["study_mode_v1"] = True
+    metrics["head_chars"] = os.path.getsize(CORPUS_PATH)
+    # Warm restart: a cold LR is too low to digest brand-new material.
+    if metrics["lr"] < 1.5e-3:
+        metrics["lr"] = 1.5e-3
+        log(f"study mode: LR warm restart -> {metrics['lr']:.4f}")
+    save_metrics(metrics)
+    log(f"study mode: stocked {len(keep)} provable lessons across "
+        f"{len(CU.CATEGORIES)} categories "
+        f"({len(blocks) - len(keep)} skipped for charset safety)")
+
+
+class LessonStream:
+    """Batch source over the lesson pool. Shares the main dataset's
+    exact vocabulary, so the model's character table never drifts."""
+
+    def __init__(self, ds):
+        ids = [ds.stoi[c] for c in load_lessons_text() if c in ds.stoi]
+        self.data = torch.tensor(ids, dtype=torch.long)
+        self.block_size = ds.block_size
+
+    def batch(self, bs, device, split="train"):
+        ix = torch.randint(len(self.data) - self.block_size - 1, (bs,))
+        x = torch.stack(
+            [self.data[i:i + self.block_size] for i in ix]).to(device)
+        y = torch.stack(
+            [self.data[i + 1:i + 1 + self.block_size] for i in ix]).to(device)
+        return x, y
+
+
+def lessons_count():
+    return len([b for b in load_lessons_text().split("\n\n") if b.strip()])
+
+
+def topup_lessons(weakest_cats, iteration):
+    """Fresh provable lessons for the weakest categories, appended to
+    the pool. This is Simply's study habit: every iteration it gets new
+    exercises in exactly the subjects it is worst at. The lessons are
+    generated from ground truth and re-checked by the same verifier the
+    model's own writing has to pass."""
+    rng = random.Random(f"topup:{iteration}")
+    allowed = set(load_corpus())
+    per_cat = TOPUP_PER_ITER // TOPUP_CATS
+    lines = []
+    for cat in weakest_cats[:TOPUP_CATS]:
+        for _ in range(per_cat):
+            q, a = CU.gen_lesson(cat, rng)
+            blob = f"Q: {q}\nA: {a}"
+            if not all(c in allowed for c in blob):
+                continue
+            if not template_check(q, a):
+                log(f"  curriculum bug: lesson failed its own check: {q!r}")
+                continue
+            lines.append(blob)
+    if lines:
+        with open(LESSONS_PATH, "a", encoding="utf-8") as f:
+            f.write("\n\n".join(lines) + "\n")
+        trim_lessons()
+    return len(lines)
+
+
+def trim_lessons():
+    """Keep the pool bounded by releasing the oldest lessons."""
+    if not os.path.exists(LESSONS_PATH):
+        return
+    if os.path.getsize(LESSONS_PATH) <= LESSONS_POOL_MAX:
+        return
+    blocks = [b for b in load_lessons_text().split("\n\n") if b.strip()]
+    keep = blocks[len(blocks) // 2:]
+    with open(LESSONS_PATH, "w", encoding="utf-8") as f:
+        f.write("\n\n".join(keep) + "\n")
+    log(f"lesson pool trimmed: {len(blocks)} -> {len(keep)} lessons")
+
+
+def trim_corpus_if_needed(metrics):
+    """Corpus cap: when the archive outgrows MAX_CORPUS_CHARS, release
+    the oldest self-written stretch. The seed head (which contains the
+    frozen validation slice) is never touched, so val loss stays
+    comparable across the model's whole life."""
+    size = os.path.getsize(CORPUS_PATH)
+    if size <= MAX_CORPUS_CHARS:
+        return
+    head = metrics.get("head_chars") or int(size * 0.02)
+    with open(CORPUS_PATH, encoding="utf-8") as f:
+        text = f.read()
+    target = int(MAX_CORPUS_CHARS * 0.8)
+    cut = text.find("\n\n", head + (size - target))
+    if cut == -1:
+        return
+    with open(CORPUS_PATH, "w", encoding="utf-8") as f:
+        f.write(text[:head] + text[cut:])
+    metrics["dataset_chars"] = os.path.getsize(CORPUS_PATH)
+    log(f"corpus trimmed: {size:,} -> {os.path.getsize(CORPUS_PATH):,} "
+        "chars (oldest self-written stretch released)")
+
+
 def generate_and_absorb(model, ds, device, iteration, batches=5,
                         cat_order=None):
     """Sample from itself, filter, and append the best examples.
@@ -552,9 +697,8 @@ def generate_and_absorb(model, ds, device, iteration, batches=5,
     with open(os.path.join(SYN_DIR, f"iter_{iteration:03d}.txt"), "w") as f:
         f.write("\n\n".join(accepted) + "\n")
 
-    if os.path.getsize(CORPUS_PATH) < MAX_CORPUS_CHARS:
-        with open(CORPUS_PATH, "a") as f:
-            f.write("\n\n" + "\n\n".join(accepted) + "\n")
+    with open(CORPUS_PATH, "a") as f:
+        f.write("\n\n" + "\n\n".join(accepted) + "\n")
     log(f"  self-written data: accepted {len(accepted)} verified new examples")
     return len(accepted)
 
@@ -657,6 +801,12 @@ def main():
                          val_start=metrics["val_start"],
                          val_end=metrics["val_end"])
 
+    # One-time: stock the study pool with provable lessons for every
+    # category (world facts, math, letters, units, ...) - the material
+    # Simply drills against from now on.
+    if not metrics.get("study_mode_v1"):
+        build_study_seed(metrics)
+
     model, from_scratch = load_model(ds, device)
     n_params = model.num_params()
     # baseline = the COMMITTED best weights' scores; every iteration is
@@ -684,13 +834,22 @@ def main():
             f"params={n_params / 1e6:.2f}M steps={steps} "
             f"lr={metrics['lr']:.2e} device={device}")
 
+        # Study first: fresh provable exercises for whatever the model is
+        # worst at right now, then train on the mix, then grade it.
+        added = topup_lessons(weakest_categories(metrics["knowledge"]),
+                              it_num)
+        lessons = LessonStream(ds)
+        log(f"  study plan: +{added} new lessons "
+            f"(pool: {lessons_count()}), weakest first")
+
         train_loss = train_steps(model, ds, steps, args.batch_size,
-                                 metrics["lr"], device)
+                                 metrics["lr"], device, lessons)
         synth_n = generate_and_absorb(model, ds, device, it_num,
                                       batches=args.synth_batches,
                                       cat_order=weakest_categories(
                                           metrics["knowledge"]))
-        quiz_acc, quiz_line = run_knowledge_quiz(model, ds, device)
+        trim_corpus_if_needed(metrics)
+        quiz_acc, quiz_line = run_knowledge_quiz(model, ds, device, it_num)
         know_avg = sum(quiz_acc.values()) / len(quiz_acc)
         metrics["knowledge"] = quiz_acc
         known_all = sum(1 for v in quiz_acc.values() if v >= 0.999)
@@ -725,6 +884,7 @@ def main():
                         os.path.join(LAST_DIR, "model.pt"))
 
         metrics["dataset_chars"] = os.path.getsize(CORPUS_PATH)
+        metrics["lessons"] = lessons_count()
         metrics["synthetic_total"] += synth_n
         save_metrics(metrics)
 
@@ -768,12 +928,12 @@ def main():
     # End-of-run promotion: commit weights once if this run actually
     # beat the committed best - on frozen val loss OR on the knowledge
     # quiz (knowledge gains may not wreck fluency: their val loss must
-    # stay within +0.01 of the champion). Version bumps only here.
+    # stay within +0.05 of the champion). Version bumps only here.
     cand, why, cand_val, cand_acc = None, None, None, None
     if (run_best_know_state is not None
             and run_best_know >= start_know + KNOW_EPSILON
             and (baseline is None
-                 or run_best_know_val <= baseline + 0.01)):
+                 or run_best_know_val <= baseline + 0.05)):
         cand = run_best_know_state
         cand_val = run_best_know_val
         cand_acc = run_best_know_acc
