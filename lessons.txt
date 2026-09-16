@@ -4441,3 +4441,128 @@ A: The opposite of 'wet' is 'dry'.
 
 Q: What is the opposite of 'warm'?
 A: The opposite of 'warm' is 'cool'.
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: Can you count by twos from 38 to 46?
+A: Counting by twos gives 38 40 42 44 46.
+
+Q: Can you count by twos from 24 to 28?
+A: Counting by twos gives 24 26 28.
+
+Q: Can you count by ones from 3 to 5?
+A: Counting by ones gives 3 4 5.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by ones from 33 to 37?
+A: Counting by ones gives 33 34 35 36 37.
+
+Q: Can you count by twos from 8 to 16?
+A: Counting by twos gives 8 10 12 14 16.
+
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: What continent is Mozambique on?
+A: Mozambique is on the continent of Africa.
+
+Q: What continent is Senegal on?
+A: Senegal is on the continent of Africa.
+
+Q: What continent is Eswatini on?
+A: Eswatini is on the continent of Africa.
+
+Q: What continent is Germany on?
+A: Germany is on the continent of Europe.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What is double 13?
+A: Double 13 is 26.
+
+Q: What is half of 36?
+A: Half of 36 is 18.
+
+Q: What is half of 50?
+A: Half of 50 is 25.
+
+Q: What is double 38?
+A: Double 38 is 76.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: How many letters does the word 'victoria' have?
+A: The word 'victoria' has 8 letters.
+
+Q: How many letters does the word 'alaska' have?
+A: The word 'alaska' has 6 letters.
+
+Q: How many letters does the word 'samarium' have?
+A: The word 'samarium' has 8 letters.
+
+Q: How many letters does the word 'gabon' have?
+A: The word 'gabon' has 5 letters.
+
+Q: How many letters does the word 'bulgaria' have?
+A: The word 'bulgaria' has 8 letters.
+
+Q: How many letters does the word 'angola' have?
+A: The word 'angola' has 6 letters.

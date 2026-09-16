@@ -6721,3 +6721,19 @@ A: Earth is the third planet from the sun.
 
 Q: Which planet is third from the sun?
 A: Earth is the third planet from the sun?
+
+
+Q: What is the opposite of 'first'?
+A: 'last' is the opposite of 'open'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'young'?
+A: 'yours' is the opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'first'?
+A: 'last' is the opposite of 'light'.
+
+Q: What is the opposite of 'first'?
+A: 'last' is the opposite of 'warme isiumppl' is 'detren'.
