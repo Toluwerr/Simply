@@ -8536,3 +8536,46 @@ A: Atlanta is the capital of Georgia.
 
 Q: What number is the Roman numeral xcix?
 A: The Roman numeral xcix is the number 99.
+
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: Can you count by ones from 24 to 27?
+A: Counting by ones gives 24 25 26 27 28 29 20 25 26.
+
+Q: Can you count by tens from 10 to 55?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by twos from 36 to 46?
+A: Counting by twos gives 36 38 40 42 44 46 44 39 33?
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by twos from 14 to 22?
+A: Counting by twos gives 14 16 18 20 22.
+
+Q: Can you count by twos from 36 to 44?
+A: Counting by twos gives 36 38 40 42 44.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by ones from 10 to 13?
+A: Counting by ones gives 10 11 10 11 12 13.
+
+Q: How do you sort 29, 14, and 9?
+A: In order, they are 9 14 29.
+
+Q: How much is 43 plus 43?
+A: 43 plus 43 is 86.
+
+Q: What is the last letter of 'bird'?
+A: The last letter of 'bird' is D.
+
+Q: How much is 66 plus 0?
+A: 66 plus 0 is 66.

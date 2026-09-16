@@ -19913,3 +19913,128 @@ A: Y is the chemical symbol for yttrium.
 
 Q: What is the chemical symbol for antimony?
 A: The chemical symbol for antimony is Sb.
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does Panama use?
+A: The currency of Panama is the balboa.
+
+Q: What currency does Malaysia use?
+A: The currency of Malaysia is the ringgit.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What is 17 plus 3?
+A: 17 plus 3 is 20.
+
+Q: What is 12 minus 2?
+A: 12 minus 2 is 10.
+
+Q: What is 10 plus 7?
+A: 10 plus 7 is 17.
+
+Q: What is 63 plus 77?
+A: 63 plus 77 is 140.
+
+Q: What is 314 plus 263?
+A: 314 plus 263 is 577.
+
+Q: What is 908 plus 578?
+A: 908 plus 578 is 1486.
+
+Q: Can you count by fives from 10 to 30?
+A: Counting by fives gives 10 15 20 25 30.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by fives from 5 to 15?
+A: Counting by fives gives 5 10 15.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by twos from 10 to 14?
+A: Counting by twos gives 10 12 14.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: How many letters does the word 'danger' have?
+A: The word 'danger' has 6 letters.
+
+Q: How many letters does the word 'bandar' have?
+A: The word 'bandar' has 6 letters.
+
+Q: How many letters does the word 'hiss' have?
+A: The word 'hiss' has 4 letters.
+
+Q: How many letters does the word 'moving' have?
+A: The word 'moving' has 6 letters.
+
+Q: How many letters does the word 'cheyenne' have?
+A: The word 'cheyenne' has 8 letters.
+
+Q: How many letters does the word 'hafnium' have?
+A: The word 'hafnium' has 7 letters.
+
+Q: How do you sort 64, 260, and 295?
+A: In order, they are 64 260 295.
+
+Q: How do you sort 8, 1, and 7?
+A: In order, they are 1 7 8.
+
+Q: How do you sort 16, 15, and 20?
+A: In order, they are 15 16 20.
+
+Q: How do you sort 11, 28, and 4?
+A: In order, they are 4 11 28.
+
+Q: How do you sort 965, 960, and 238?
+A: In order, they are 238 960 965.
+
+Q: How do you sort 16, 11, and 9?
+A: In order, they are 9 11 16.
+
+Q: What number is the Roman numeral lxx?
+A: The Roman numeral lxx is the number 70.
+
+Q: What is the Roman numeral for 1?
+A: The Roman numeral for 1 is i.
+
+Q: What is the Roman numeral for 64?
+A: The Roman numeral for 64 is lxiv.
+
+Q: What is the Roman numeral for 552?
+A: The Roman numeral for 552 is dlii.
+
+Q: What number is the Roman numeral dccxlviii?
+A: The Roman numeral dccxlviii is the number 748.
+
+Q: What number is the Roman numeral lxi?
+A: The Roman numeral lxi is the number 61.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
