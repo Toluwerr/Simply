@@ -7860,3 +7860,7 @@ A: Tm is the chemical symbol for thulium.
 
 Q: How do you write 84 in words?
 A: 84 in words is eighty-four.
+
+
+Q: What currency does Canada use?
+A: The currency of Canada is the dollar.

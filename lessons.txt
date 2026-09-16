@@ -16452,3 +16452,110 @@ A: The currency of the United States is the dollar.
 
 Q: What currency does Kenya use?
 A: The currency of Kenya is the shilling.
+Q: What is the last letter of 'providence'?
+A: The last letter of 'providence' is E.
+
+Q: What is the first letter of 'qatar'?
+A: The first letter of 'qatar' is Q.
+
+Q: What is the first letter of 'short'?
+A: The first letter of 'short' is S.
+
+Q: What is the first letter of 'swift'?
+A: The first letter of 'swift' is S.
+
+Q: What is the last letter of 'tome'?
+A: The last letter of 'tome' is E.
+
+Q: What is the last letter of 'maseru'?
+A: The last letter of 'maseru' is U.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 28 in words?
+A: 28 in words is twenty-eight.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How many letters does the word 'neptune' have?
+A: The word 'neptune' has 7 letters.
+
+Q: How many letters does the word 'delhi' have?
+A: The word 'delhi' has 5 letters.
+
+Q: How many letters does the word 'turkey' have?
+A: The word 'turkey' has 6 letters.
+
+Q: How many letters does the word 'leone' have?
+A: The word 'leone' has 5 letters.
+
+Q: How many letters does the word 'buenos' have?
+A: The word 'buenos' has 6 letters.
+
+Q: How many letters does the word 'dakota' have?
+A: The word 'dakota' has 6 letters.
+
+Q: What is the Roman numeral for 515?
+A: The Roman numeral for 515 is dxv.
+
+Q: What number is the Roman numeral xcix?
+A: The Roman numeral xcix is the number 99.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: What is the Roman numeral for 7?
+A: The Roman numeral for 7 is vii.
+
+Q: What number is the Roman numeral xxxiii?
+A: The Roman numeral xxxiii is the number 33.
+
+Q: What number is the Roman numeral li?
+A: The Roman numeral li is the number 51.
+
+Q: Can you count by fives from 10 to 25?
+A: Counting by fives gives 10 15 20 25.
+
+Q: Can you count by twos from 32 to 36?
+A: Counting by twos gives 32 34 36.
+
+Q: Can you count by twos from 2 to 8?
+A: Counting by twos gives 2 4 6 8.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by ones from 30 to 35?
+A: Counting by ones gives 30 31 32 33 34 35.
+
+Q: Can you count by fives from 35 to 60?
+A: Counting by fives gives 35 40 45 50 55 60.
+
+Q: Which element has the chemical symbol Ru?
+A: Ru is the chemical symbol for ruthenium.
+
+Q: What is the chemical symbol for indium?
+A: The chemical symbol for indium is In.
+
+Q: What is the chemical symbol for lithium?
+A: The chemical symbol for lithium is Li.
+
+Q: Which element has the chemical symbol Rh?
+A: Rh is the chemical symbol for rhodium.
+
+Q: What is the chemical symbol for hafnium?
+A: The chemical symbol for hafnium is Hf.
+
+Q: Which element has the chemical symbol S?
+A: S is the chemical symbol for sulfur.
