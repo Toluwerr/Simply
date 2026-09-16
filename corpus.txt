@@ -8824,3 +8824,25 @@ A: The Roman numeral i is the number 1.
 
 Q: What is the Roman numeral for 40?
 A: The Roman numeral for 40 is xlii.
+
+
+Q: What continent is Cambodia on?
+A: Cuba is on the continent of Asia.
+
+Q: What is double 23?
+A: Double 23 is 46.
+
+Q: Which is bigger, 9 or 91?
+A: 91 is bigger than 9.
+
+Q: Which is bigger, 17 or 18?
+A: 18 is bigger than 16.
+
+Q: Is 84 bigger than 76?
+A: Yes, 84 is bigger than 76.
+
+Q: Which is bigger, 24 or 93?
+A: 93 is bigger than 24.
+
+Q: What is double 10?
+A: Double 10 is 20.

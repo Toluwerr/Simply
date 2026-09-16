@@ -2347,3 +2347,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.65 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, that improves its own of the better loop."
 
+## Iteration 278 - NO_GAIN
+- **when**: 2026-09-16T23:47:18Z
+- **train loss**: 0.5751 | **val loss**: 0.7035 | **run best**: 0.6750
+- **corpus**: 194,550 chars (+7 self-written examples)
+- **internet reading**: +30 articles, +12 facts (450 read all-time)
+- **lr**: 0.0004 | **steps**: 150
+- **knowledge quiz**: avg 0.65 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, thank you! I willar, a tiny very foundall I work of 9 mle is a towow model."
+

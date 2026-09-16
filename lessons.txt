@@ -21251,3 +21251,110 @@ A: Libya is on the continent of Africa.
 
 Q: What continent is Laos on?
 A: Laos is on the continent of Asia.
+Q: What is the Roman numeral for 61?
+A: The Roman numeral for 61 is lxi.
+
+Q: What number is the Roman numeral xvii?
+A: The Roman numeral xvii is the number 17.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What number is the Roman numeral dxxv?
+A: The Roman numeral dxxv is the number 525.
+
+Q: What is the Roman numeral for 61?
+A: The Roman numeral for 61 is lxi.
+
+Q: What is the Roman numeral for 3?
+A: The Roman numeral for 3 is iii.
+
+Q: Which is bigger, 22 or 49?
+A: 49 is bigger than 22.
+
+Q: Is 18 bigger than 2?
+A: Yes, 18 is bigger than 2.
+
+Q: Which is bigger, 678 or 278?
+A: 678 is bigger than 278.
+
+Q: Which is bigger, 14 or 2?
+A: 14 is bigger than 2.
+
+Q: Is 80 bigger than 58?
+A: Yes, 80 is bigger than 58.
+
+Q: Which is bigger, 8 or 4?
+A: 8 is bigger than 4.
+
+Q: How do you sort 22, 18, and 13?
+A: In order, they are 13 18 22.
+
+Q: How do you sort 452, 37, and 540?
+A: In order, they are 37 452 540.
+
+Q: How do you sort 21, 9, and 11?
+A: In order, they are 9 11 21.
+
+Q: How do you sort 27, 7, and 2?
+A: In order, they are 2 7 27.
+
+Q: How do you sort 608, 993, and 607?
+A: In order, they are 607 608 993.
+
+Q: How do you sort 24, 1, and 25?
+A: In order, they are 1 24 25.
+
+Q: What is 18 plus 10?
+A: 18 plus 10 is 28.
+
+Q: What is 96 minus 64?
+A: 96 minus 64 is 32.
+
+Q: What is 326 plus 582?
+A: 326 plus 582 is 908.
+
+Q: What is 8 times 9?
+A: 8 times 9 is 72.
+
+Q: What is 10 minus 9?
+A: 10 minus 9 is 1.
+
+Q: What is 16 minus 4?
+A: 16 minus 4 is 12.
+
+Q: What is the first letter of 'china'?
+A: The first letter of 'china' is C.
+
+Q: What is the last letter of 'columbus'?
+A: The last letter of 'columbus' is S.
+
+Q: What is the last letter of 'damp'?
+A: The last letter of 'damp' is P.
+
+Q: What is the first letter of 'rhenium'?
+A: The first letter of 'rhenium' is R.
+
+Q: What is the last letter of 'york'?
+A: The last letter of 'york' is K.
+
+Q: What is the last letter of 'atlanta'?
+A: The last letter of 'atlanta' is A.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
+
+Q: What currency does the United Kingdom use?
+A: The currency of the United Kingdom is the pound.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Italy use?
+A: The currency of Italy is the euro.
