@@ -7529,3 +7529,110 @@ A: The opposite of 'full' is 'empty'.
 
 Q: What is the opposite of 'hot'?
 A: The opposite of 'hot' is 'cold'.
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is 169 plus 306?
+A: 169 plus 306 is 475.
+
+Q: What is 763 minus 23?
+A: 763 minus 23 is 740.
+
+Q: What is 17 minus 13?
+A: 17 minus 13 is 4.
+
+Q: What is 50 plus 27?
+A: 50 plus 27 is 77.
+
+Q: What is 10 times 5?
+A: 10 times 5 is 50.
+
+Q: What is 89 plus 46?
+A: 89 plus 46 is 135.
+
+Q: What continent is the United States on?
+A: the United States is on the continent of North America.
+
+Q: What continent is Turkey on?
+A: Turkey is on the continent of Asia.
+
+Q: What continent is Greece on?
+A: Greece is on the continent of Europe.
+
+Q: What continent is Iceland on?
+A: Iceland is on the continent of Europe.
+
+Q: What continent is Burkina Faso on?
+A: Burkina Faso is on the continent of Africa.
+
+Q: What continent is Iran on?
+A: Iran is on the continent of Asia.
+
+Q: How do you write 99 in words?
+A: 99 in words is ninety-nine.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 97 in words?
+A: 97 in words is ninety-seven.
+
+Q: How do you write 92 in words?
+A: 92 in words is ninety-two.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: Which element has the chemical symbol Rn?
+A: Rn is the chemical symbol for radon.
+
+Q: What is the chemical symbol for vanadium?
+A: The chemical symbol for vanadium is V.
+
+Q: Which element has the chemical symbol Hg?
+A: Hg is the chemical symbol for mercury.
+
+Q: What is the chemical symbol for praseodymium?
+A: The chemical symbol for praseodymium is Pr.
+
+Q: Which element has the chemical symbol Ar?
+A: Ar is the chemical symbol for argon.
+
+Q: What is the chemical symbol for titanium?
+A: The chemical symbol for titanium is Ti.
+
+Q: What is the Roman numeral for 64?
+A: The Roman numeral for 64 is lxiv.
+
+Q: What is the Roman numeral for 218?
+A: The Roman numeral for 218 is ccxviii.
+
+Q: What number is the Roman numeral cxxiv?
+A: The Roman numeral cxxiv is the number 124.
+
+Q: What number is the Roman numeral xliv?
+A: The Roman numeral xliv is the number 44.
+
+Q: What number is the Roman numeral ccxxii?
+A: The Roman numeral ccxxii is the number 222.
+
+Q: What is the Roman numeral for 949?
+A: The Roman numeral for 949 is cmxlix.
