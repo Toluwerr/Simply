@@ -1,0 +1,17 @@
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the chemical symbol for calcium?
+A: The chemical symbol for calcium is Ca.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: What is double 59?
+A: Double 59 is 118.
+
+Q: How do you sort 12, 29, and 25?
+A: In order, they are 12 25 29.
+
+Q: How do you sort 26, 10, and 4?
+A: In order, they are 4 10 26.

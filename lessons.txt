@@ -22821,3 +22821,110 @@ A: In order, they are 230 463 493.
 
 Q: How do you sort 9, 17, and 20?
 A: In order, they are 9 17 20.
+Q: How do you sort 51, 759, and 210?
+A: In order, they are 51 210 759.
+
+Q: How do you sort 3, 13, and 7?
+A: In order, they are 3 7 13.
+
+Q: How do you sort 282, 757, and 479?
+A: In order, they are 282 479 757.
+
+Q: How do you sort 612, 110, and 973?
+A: In order, they are 110 612 973.
+
+Q: How do you sort 386, 126, and 145?
+A: In order, they are 126 145 386.
+
+Q: How do you sort 983, 90, and 531?
+A: In order, they are 90 531 983.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: What number is the Roman numeral i?
+A: The Roman numeral i is the number 1.
+
+Q: What number is the Roman numeral xliv?
+A: The Roman numeral xliv is the number 44.
+
+Q: What number is the Roman numeral xl?
+A: The Roman numeral xl is the number 40.
+
+Q: What is the Roman numeral for 79?
+A: The Roman numeral for 79 is lxxix.
+
+Q: What number is the Roman numeral xxi?
+A: The Roman numeral xxi is the number 21.
+
+Q: Which element has the chemical symbol F?
+A: F is the chemical symbol for fluorine.
+
+Q: What is the chemical symbol for bromine?
+A: The chemical symbol for bromine is Br.
+
+Q: Which element has the chemical symbol As?
+A: As is the chemical symbol for arsenic.
+
+Q: Which element has the chemical symbol Pu?
+A: Pu is the chemical symbol for plutonium.
+
+Q: Which element has the chemical symbol Rn?
+A: Rn is the chemical symbol for radon.
+
+Q: What is the chemical symbol for tantalum?
+A: The chemical symbol for tantalum is Ta.
+
+Q: What is 9 plus 12?
+A: 9 plus 12 is 21.
+
+Q: What is 77 minus 18?
+A: 77 minus 18 is 59.
+
+Q: What is 76 plus 17?
+A: 76 plus 17 is 93.
+
+Q: What is 476 plus 878?
+A: 476 plus 878 is 1354.
+
+Q: What is 12 times 5?
+A: 12 times 5 is 60.
+
+Q: What is 15 minus 1?
+A: 15 minus 1 is 14.
+
+Q: How many letters does the word 'platinum' have?
+A: The word 'platinum' has 8 letters.
+
+Q: How many letters does the word 'mississippi' have?
+A: The word 'mississippi' has 11 letters.
+
+Q: How many letters does the word 'kyrgyzstan' have?
+A: The word 'kyrgyzstan' has 10 letters.
+
+Q: How many letters does the word 'frankfort' have?
+A: The word 'frankfort' has 9 letters.
+
+Q: How many letters does the word 'switzerland' have?
+A: The word 'switzerland' has 11 letters.
+
+Q: How many letters does the word 'quack' have?
+A: The word 'quack' has 5 letters.
+
+Q: What is the last letter of 'germany'?
+A: The last letter of 'germany' is Y.
+
+Q: What is the last letter of 'very'?
+A: The last letter of 'very' is Y.
+
+Q: What is the first letter of 'illinois'?
+A: The first letter of 'illinois' is I.
+
+Q: What is the last letter of 'silicon'?
+A: The last letter of 'silicon' is N.
+
+Q: What is the first letter of 'bridgetown'?
+A: The first letter of 'bridgetown' is B.
+
+Q: What is the first letter of 'lome'?
+A: The first letter of 'lome' is L.
