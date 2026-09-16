@@ -22607,3 +22607,110 @@ A: In order, they are 8 15 19.
 
 Q: How do you sort 819, 509, and 354?
 A: In order, they are 354 509 819.
+Q: What number is the Roman numeral cdlxxviii?
+A: The Roman numeral cdlxxviii is the number 478.
+
+Q: What is the Roman numeral for 464?
+A: The Roman numeral for 464 is cdlxiv.
+
+Q: What number is the Roman numeral x?
+A: The Roman numeral x is the number 10.
+
+Q: What is the Roman numeral for 78?
+A: The Roman numeral for 78 is lxxviii.
+
+Q: What is the Roman numeral for 412?
+A: The Roman numeral for 412 is cdxii.
+
+Q: What number is the Roman numeral lxxxix?
+A: The Roman numeral lxxxix is the number 89.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: How do you write 30 in words?
+A: 30 in words is thirty.
+
+Q: How do you write 52 in words?
+A: 52 in words is fifty-two.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 88 in words?
+A: 88 in words is eighty-eight.
+
+Q: How do you write 50 in words?
+A: 50 in words is fifty.
+
+Q: Which element has the chemical symbol Mg?
+A: Mg is the chemical symbol for magnesium.
+
+Q: Which element has the chemical symbol Rn?
+A: Rn is the chemical symbol for radon.
+
+Q: What is the chemical symbol for cerium?
+A: The chemical symbol for cerium is Ce.
+
+Q: Which element has the chemical symbol Pr?
+A: Pr is the chemical symbol for praseodymium.
+
+Q: Which element has the chemical symbol Ru?
+A: Ru is the chemical symbol for ruthenium.
+
+Q: What is the chemical symbol for tungsten?
+A: The chemical symbol for tungsten is W.
+
+Q: What is 8 minus 6?
+A: 8 minus 6 is 2.
+
+Q: What is 678 minus 649?
+A: 678 minus 649 is 29.
+
+Q: What is 2 plus 6?
+A: 2 plus 6 is 8.
+
+Q: What is 50 plus 30?
+A: 50 plus 30 is 80.
+
+Q: What is 12 plus 18?
+A: 12 plus 18 is 30.
+
+Q: What is 819 plus 645?
+A: 819 plus 645 is 1464.
+
+Q: What is the first letter of 'beirut'?
+A: The first letter of 'beirut' is B.
+
+Q: What is the last letter of 'cyprus'?
+A: The last letter of 'cyprus' is S.
+
+Q: What is the last letter of 'baku'?
+A: The last letter of 'baku' is U.
+
+Q: What is the last letter of 'work'?
+A: The last letter of 'work' is K.
+
+Q: What is the last letter of 'peso'?
+A: The last letter of 'peso' is O.
+
+Q: What is the last letter of 'afraid'?
+A: The last letter of 'afraid' is D.
+
+Q: How do you sort 154, 187, and 739?
+A: In order, they are 154 187 739.
+
+Q: How do you sort 849, 570, and 837?
+A: In order, they are 570 837 849.
+
+Q: How do you sort 750, 318, and 164?
+A: In order, they are 164 318 750.
+
+Q: How do you sort 5, 29, and 14?
+A: In order, they are 5 14 29.
+
+Q: How do you sort 578, 807, and 561?
+A: In order, they are 561 578 807.
+
+Q: How do you sort 432, 348, and 287?
+A: In order, they are 287 348 432.
