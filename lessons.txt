@@ -3352,3 +3352,128 @@ A: The word 'majuro' has 6 letters.
 
 Q: How many letters does the word 'afghanistan' have?
 A: The word 'afghanistan' has 11 letters.
+Q: What number is the Roman numeral cccxliii?
+A: The Roman numeral cccxliii is the number 343.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What number is the Roman numeral xxix?
+A: The Roman numeral xxix is the number 29.
+
+Q: What number is the Roman numeral clix?
+A: The Roman numeral clix is the number 159.
+
+Q: What number is the Roman numeral dclx?
+A: The Roman numeral dclx is the number 660.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: Is 72 bigger than 95?
+A: No, 95 is bigger than 72.
+
+Q: Which is bigger, 6 or 18?
+A: 18 is bigger than 6.
+
+Q: Which is bigger, 7 or 10?
+A: 10 is bigger than 7.
+
+Q: Is 679 bigger than 319?
+A: Yes, 679 is bigger than 319.
+
+Q: Is 59 bigger than 80?
+A: No, 80 is bigger than 59.
+
+Q: Which is bigger, 3 or 20?
+A: 20 is bigger than 3.
+
+Q: What is the capital of Equatorial Guinea?
+A: The capital of Equatorial Guinea is Malabo.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: What is the capital of Brunei?
+A: The capital of Brunei is Bandar Seri Begawan.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington, D.C..
+
+Q: What is the capital of Slovakia?
+A: The capital of Slovakia is Bratislava.
+
+Q: Can you count by ones from 11 to 13?
+A: Counting by ones gives 11 12 13.
+
+Q: Can you count by fives from 30 to 40?
+A: Counting by fives gives 30 35 40.
+
+Q: Can you count by twos from 26 to 32?
+A: Counting by twos gives 26 28 30 32.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by twos from 2 to 8?
+A: Counting by twos gives 2 4 6 8.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: What is double 59?
+A: Double 59 is 118.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is double 42?
+A: Double 42 is 84.
+
+Q: What is double 57?
+A: Double 57 is 114.
+
+Q: What is double 30?
+A: Double 30 is 60.
+
+Q: Which element has the chemical symbol Ne?
+A: Ne is the chemical symbol for neon.
+
+Q: Which element has the chemical symbol Na?
+A: Na is the chemical symbol for sodium.
+
+Q: What is the chemical symbol for krypton?
+A: The chemical symbol for krypton is Kr.
+
+Q: What is the chemical symbol for cerium?
+A: The chemical symbol for cerium is Ce.
+
+Q: What is the chemical symbol for bismuth?
+A: The chemical symbol for bismuth is Bi.
+
+Q: What is the chemical symbol for titanium?
+A: The chemical symbol for titanium is Ti.
