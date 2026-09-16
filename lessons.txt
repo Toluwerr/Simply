@@ -16220,3 +16220,128 @@ A: The chemical symbol for boron is B.
 
 Q: Which element has the chemical symbol He?
 A: He is the chemical symbol for helium.
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How do you write 20 in words?
+A: 20 in words is twenty.
+
+Q: How do you write 93 in words?
+A: 93 in words is ninety-three.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 20 in words?
+A: 20 in words is twenty.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the Roman numeral for 66?
+A: The Roman numeral for 66 is lxvi.
+
+Q: What number is the Roman numeral dxxix?
+A: The Roman numeral dxxix is the number 529.
+
+Q: What is the Roman numeral for 2?
+A: The Roman numeral for 2 is ii.
+
+Q: What number is the Roman numeral iii?
+A: The Roman numeral iii is the number 3.
+
+Q: What number is the Roman numeral xlii?
+A: The Roman numeral xlii is the number 42.
+
+Q: What number is the Roman numeral viii?
+A: The Roman numeral viii is the number 8.
+
+Q: What is 5 minus 2?
+A: 5 minus 2 is 3.
+
+Q: What is 386 plus 538?
+A: 386 plus 538 is 924.
+
+Q: What is 3 times 7?
+A: 3 times 7 is 21.
+
+Q: What is 10 times 8?
+A: 10 times 8 is 80.
+
+Q: What is 559 minus 274?
+A: 559 minus 274 is 285.
+
+Q: What is 69 minus 45?
+A: 69 minus 45 is 24.
+
+Q: What continent is Mauritania on?
+A: Mauritania is on the continent of Africa.
+
+Q: What continent is Romania on?
+A: Romania is on the continent of Europe.
+
+Q: What continent is New Zealand on?
+A: New Zealand is on the continent of Oceania.
+
+Q: What continent is Yemen on?
+A: Yemen is on the continent of Asia.
+
+Q: What continent is Luxembourg on?
+A: Luxembourg is on the continent of Europe.
+
+Q: What continent is Andorra on?
+A: Andorra is on the continent of Europe.
+
+Q: Is 254 bigger than 564?
+A: No, 564 is bigger than 254.
+
+Q: Is 81 bigger than 17?
+A: Yes, 81 is bigger than 17.
+
+Q: Is 7 bigger than 11?
+A: No, 11 is bigger than 7.
+
+Q: Is 917 bigger than 976?
+A: No, 976 is bigger than 917.
+
+Q: Is 76 bigger than 84?
+A: No, 84 is bigger than 76.
+
+Q: Is 966 bigger than 769?
+A: Yes, 966 is bigger than 769.
+
+Q: What is the first letter of 'argon'?
+A: The first letter of 'argon' is A.
+
+Q: What is the first letter of 'denmark'?
+A: The first letter of 'denmark' is D.
+
+Q: What is the first letter of 'indiana'?
+A: The first letter of 'indiana' is I.
+
+Q: What is the first letter of 'santo'?
+A: The first letter of 'santo' is S.
+
+Q: What is the last letter of 'wide'?
+A: The last letter of 'wide' is E.
+
+Q: What is the first letter of 'grenadines'?
+A: The first letter of 'grenadines' is G.

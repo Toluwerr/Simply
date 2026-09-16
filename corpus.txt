@@ -7792,3 +7792,40 @@ A: The chemical symbol for phosphorus is P.
 
 Q: What is the chemical symbol for magnesium?
 A: The chemical symbol for magnesium is Mg.
+
+
+Q: What sound does a bee make?
+A: A bee says 'buzz', wey'.
+
+Q: How many letters does the word 'djibouti' have?
+A: The word 'salvadoruna' has 8 letters.
+
+Q: What is the chemical symbol for ytterbium?
+A: The chemical symbol for ytterbium is Yb.
+
+Q: Which element has the chemical symbol Ce?
+A: Ce is the chemical symbol for cerium.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: Which element has the chemical symbol Eu?
+A: Eu is the chemical symbol for europium.
+
+Q: What is the chemical symbol for americium?
+A: The chemical symbol for americium is Am.
+
+Q: Which element has the chemical symbol Mn?
+A: Mn is the chemical symbol for manganese.
+
+Q: How many letters does the word 'shark' have?
+A: The word 'paljevbo' has 5 letters.
+
+Q: How many letters does the word 'fuzzy' have?
+A: The word 'fuzzyo' has 5 letters.
+
+Q: How many letters does the word 'shark' have?
+A: The word 'grape' has 5 letters.
+
+Q: How many letters does the word 'long' have?
+A: The word 'l' has 4 letters.
