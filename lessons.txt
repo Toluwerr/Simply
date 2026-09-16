@@ -12080,3 +12080,128 @@ A: Mercury is the first planet from the sun.
 
 Q: Which planet is first from the sun?
 A: Mercury is the first planet from the sun.
+Q: What is the chemical symbol for hafnium?
+A: The chemical symbol for hafnium is Hf.
+
+Q: What is the chemical symbol for barium?
+A: The chemical symbol for barium is Ba.
+
+Q: What is the chemical symbol for lead?
+A: The chemical symbol for lead is Pb.
+
+Q: What is the chemical symbol for cadmium?
+A: The chemical symbol for cadmium is Cd.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: Which element has the chemical symbol Pm?
+A: Pm is the chemical symbol for promethium.
+
+Q: What is the capital of Liberia?
+A: The capital of Liberia is Monrovia.
+
+Q: What is the capital of Uruguay?
+A: The capital of Uruguay is Montevideo.
+
+Q: What is the capital of Tanzania?
+A: The capital of Tanzania is Dodoma.
+
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+
+Q: What is the capital of the Solomon Islands?
+A: The capital of the Solomon Islands is Honiara.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the Roman numeral for 27?
+A: The Roman numeral for 27 is xxvii.
+
+Q: What number is the Roman numeral xc?
+A: The Roman numeral xc is the number 90.
+
+Q: What is the Roman numeral for 145?
+A: The Roman numeral for 145 is cxlv.
+
+Q: What number is the Roman numeral dccxiii?
+A: The Roman numeral dccxiii is the number 713.
+
+Q: What number is the Roman numeral lxxxix?
+A: The Roman numeral lxxxix is the number 89.
+
+Q: What number is the Roman numeral xl?
+A: The Roman numeral xl is the number 40.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How do you sort 959, 89, and 950?
+A: In order, they are 89 950 959.
+
+Q: How do you sort 8, 10, and 11?
+A: In order, they are 8 10 11.
+
+Q: How do you sort 533, 976, and 525?
+A: In order, they are 525 533 976.
+
+Q: How do you sort 20, 8, and 2?
+A: In order, they are 2 8 20.
+
+Q: How do you sort 14, 22, and 8?
+A: In order, they are 8 14 22.
+
+Q: How do you sort 922, 716, and 921?
+A: In order, they are 716 921 922.
+
+Q: What is double 5?
+A: Double 5 is 10.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is half of 20?
+A: Half of 20 is 10.
+
+Q: What is double 2?
+A: Double 2 is 4.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.

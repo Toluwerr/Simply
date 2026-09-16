@@ -1594,3 +1594,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.09 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, letters 1.00, reading 0.00
 - self-portrait, asked "Who are you?": *"Dou are awoff 36."
 
+## Iteration 197 - NO_GAIN
+- **when**: 2026-09-16T22:44:56Z
+- **train loss**: 1.8613 | **val loss**: 0.8595 | **run best**: 0.8202
+- **corpus**: 157,749 chars (+0 self-written examples)
+- **internet reading**: +30 articles, +16 facts (210 read all-time)
+- **lr**: 0.0015 | **steps**: 150
+- **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, reading 0.00, definitions 0.00
+- self-portrait, asked "Who are you?": *"A!"
+
