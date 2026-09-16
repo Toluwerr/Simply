@@ -9367,3 +9367,110 @@ A: 5 times 11 is 55.
 
 Q: What is 15 times 13?
 A: 15 times 13 is 195.
+Q: What number is the Roman numeral xix?
+A: The Roman numeral xix is the number 19.
+
+Q: What number is the Roman numeral dxxii?
+A: The Roman numeral dxxii is the number 522.
+
+Q: What number is the Roman numeral dcccxxxv?
+A: The Roman numeral dcccxxxv is the number 835.
+
+Q: What number is the Roman numeral xxxvi?
+A: The Roman numeral xxxvi is the number 36.
+
+Q: What number is the Roman numeral lxxviii?
+A: The Roman numeral lxxviii is the number 78.
+
+Q: What number is the Roman numeral dclxxxviii?
+A: The Roman numeral dclxxxviii is the number 688.
+
+Q: What continent is Italy on?
+A: Italy is on the continent of Europe.
+
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: What continent is North Korea on?
+A: North Korea is on the continent of Asia.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What continent is Liechtenstein on?
+A: Liechtenstein is on the continent of Europe.
+
+Q: What continent is Kyrgyzstan on?
+A: Kyrgyzstan is on the continent of Asia.
+
+Q: Which element has the chemical symbol Th?
+A: Th is the chemical symbol for thorium.
+
+Q: What is the chemical symbol for strontium?
+A: The chemical symbol for strontium is Sr.
+
+Q: What is the chemical symbol for rhodium?
+A: The chemical symbol for rhodium is Rh.
+
+Q: What is the chemical symbol for beryllium?
+A: The chemical symbol for beryllium is Be.
+
+Q: What is the chemical symbol for lead?
+A: The chemical symbol for lead is Pb.
+
+Q: What is the chemical symbol for lanthanum?
+A: The chemical symbol for lanthanum is La.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: Which is bigger, 484 or 398?
+A: 484 is bigger than 398.
+
+Q: Is 328 bigger than 956?
+A: No, 956 is bigger than 328.
+
+Q: Which is bigger, 13 or 17?
+A: 17 is bigger than 13.
+
+Q: Which is bigger, 748 or 412?
+A: 748 is bigger than 412.
+
+Q: Is 383 bigger than 358?
+A: Yes, 383 is bigger than 358.
+
+Q: Is 726 bigger than 501?
+A: Yes, 726 is bigger than 501.
