@@ -17112,3 +17112,110 @@ A: The word 'zinc' has 4 letters.
 
 Q: How many letters does the word 'kazakhstan' have?
 A: The word 'kazakhstan' has 10 letters.
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: What currency does Japan use?
+A: The currency of Japan is the yen.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What currency does Georgia use?
+A: The currency of Georgia is the lari.
+
+Q: What currency does South Korea use?
+A: The currency of South Korea is the won.
+
+Q: How do you sort 567, 361, and 422?
+A: In order, they are 361 422 567.
+
+Q: How do you sort 892, 288, and 75?
+A: In order, they are 75 288 892.
+
+Q: How do you sort 18, 338, and 801?
+A: In order, they are 18 338 801.
+
+Q: How do you sort 464, 163, and 329?
+A: In order, they are 163 329 464.
+
+Q: How do you sort 251, 620, and 995?
+A: In order, they are 251 620 995.
+
+Q: How do you sort 22, 26, and 4?
+A: In order, they are 4 22 26.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: Which element has the chemical symbol Sm?
+A: Sm is the chemical symbol for samarium.
+
+Q: Which element has the chemical symbol Pm?
+A: Pm is the chemical symbol for promethium.
+
+Q: What is the chemical symbol for holmium?
+A: The chemical symbol for holmium is Ho.
+
+Q: Which element has the chemical symbol He?
+A: He is the chemical symbol for helium.
+
+Q: Which element has the chemical symbol Sb?
+A: Sb is the chemical symbol for antimony.
+
+Q: What is 76 minus 36?
+A: 76 minus 36 is 40.
+
+Q: What is 20 plus 50?
+A: 20 plus 50 is 70.
+
+Q: What is 12 times 13?
+A: 12 times 13 is 156.
+
+Q: What is 98 minus 67?
+A: 98 minus 67 is 31.
+
+Q: What is 22 plus 68?
+A: 22 plus 68 is 90.
+
+Q: What is 8 times 5?
+A: 8 times 5 is 40.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the capital of Malawi?
+A: The capital of Malawi is Lilongwe.
+
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington, D.C..
+
+Q: What is the capital of South Sudan?
+A: The capital of South Sudan is Juba.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of Belarus?
+A: The capital of Belarus is Minsk.
+
+Q: What number is the Roman numeral cxlvi?
+A: The Roman numeral cxlvi is the number 146.
+
+Q: What is the Roman numeral for 40?
+A: The Roman numeral for 40 is xl.
+
+Q: What number is the Roman numeral dcciv?
+A: The Roman numeral dcciv is the number 704.
+
+Q: What is the Roman numeral for 335?
+A: The Roman numeral for 335 is cccxxxv.
+
+Q: What is the Roman numeral for 316?
+A: The Roman numeral for 316 is cccxvi.
+
+Q: What number is the Roman numeral ccviii?
+A: The Roman numeral ccviii is the number 208.

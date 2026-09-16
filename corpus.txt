@@ -7965,3 +7965,7 @@ A: Fiji is on the continent of Oceania.
 
 Q: What is 9 times 4?
 A: 9 times 4 is 36.
+
+
+Q: How many letters are in the word 'garden'?
+A: The word 'gardennium'? Bees' has 6 letters.
