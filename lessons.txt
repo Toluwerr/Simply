@@ -15435,3 +15435,128 @@ A: P is the chemical symbol for phosphorus.
 
 Q: Which element has the chemical symbol Am?
 A: Am is the chemical symbol for americium.
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: What is the smallest ocean?
+A: The Arctic is the smallest ocean.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: What is the biggest animal?
+A: The blue whale is the biggest animal.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Bulgaria use?
+A: The currency of Bulgaria is the lev.
+
+Q: What currency does Ghana use?
+A: The currency of Ghana is the cedi.
+
+Q: What currency does Sweden use?
+A: The currency of Sweden is the krona.
+
+Q: What currency does North Korea use?
+A: The currency of North Korea is the won.
+
+Q: What is 21 minus 13?
+A: 21 minus 13 is 8.
+
+Q: What is 11 times 11?
+A: 11 times 11 is 121.
+
+Q: What is 645 minus 82?
+A: 645 minus 82 is 563.
+
+Q: What is 908 plus 605?
+A: 908 plus 605 is 1513.
+
+Q: What is 437 plus 12?
+A: 437 plus 12 is 449.
+
+Q: What is 30 plus 97?
+A: 30 plus 97 is 127.
+
+Q: What is the chemical symbol for magnesium?
+A: The chemical symbol for magnesium is Mg.
+
+Q: What is the chemical symbol for niobium?
+A: The chemical symbol for niobium is Nb.
+
+Q: Which element has the chemical symbol Sr?
+A: Sr is the chemical symbol for strontium.
+
+Q: Which element has the chemical symbol Cl?
+A: Cl is the chemical symbol for chlorine.
+
+Q: What is the chemical symbol for palladium?
+A: The chemical symbol for palladium is Pd.
+
+Q: Which element has the chemical symbol Ac?
+A: Ac is the chemical symbol for actinium.
+
+Q: How many letters does the word 'polite' have?
+A: The word 'polite' has 6 letters.
+
+Q: How many letters does the word 'snake' have?
+A: The word 'snake' has 5 letters.
+
+Q: How many letters does the word 'bird' have?
+A: The word 'bird' has 4 letters.
+
+Q: How many letters does the word 'port' have?
+A: The word 'port' has 4 letters.
+
+Q: How many letters does the word 'pakistan' have?
+A: The word 'pakistan' has 8 letters.
+
+Q: How many letters does the word 'uranium' have?
+A: The word 'uranium' has 7 letters.
+
+Q: How do you sort 11, 19, and 5?
+A: In order, they are 5 11 19.
+
+Q: How do you sort 29, 16, and 25?
+A: In order, they are 16 25 29.
+
+Q: How do you sort 899, 325, and 953?
+A: In order, they are 325 899 953.
+
+Q: How do you sort 23, 12, and 15?
+A: In order, they are 12 15 23.
+
+Q: How do you sort 427, 462, and 233?
+A: In order, they are 233 427 462.
+
+Q: How do you sort 766, 732, and 561?
+A: In order, they are 561 732 766.
+
+Q: What number is the Roman numeral cv?
+A: The Roman numeral cv is the number 105.
+
+Q: What is the Roman numeral for 6?
+A: The Roman numeral for 6 is vi.
+
+Q: What number is the Roman numeral x?
+A: The Roman numeral x is the number 10.
+
+Q: What number is the Roman numeral cccxlvii?
+A: The Roman numeral cccxlvii is the number 347.
+
+Q: What is the Roman numeral for 47?
+A: The Roman numeral for 47 is xlvii.
+
+Q: What is the Roman numeral for 1?
+A: The Roman numeral for 1 is i.

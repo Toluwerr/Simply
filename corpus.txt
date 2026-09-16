@@ -7683,3 +7683,16 @@ A: October has 31 days in a year.
 
 Q: Can you count by fives from 25 to 35?
 A: Counting by fives gives 20 25 30 35 40.
+
+
+Q: What currency does Ukraine use?
+A: The currency of Ukraine is the hryvnia.
+
+Q: What is the chemical symbol for palladium?
+A: The chemical symbol for palladium is Pd.
+
+Q: Which element has the chemical symbol Br?
+A: Br is the chemical symbol for bromine.
+
+Q: What is the chemical symbol for gallium?
+A: The chemical symbol for gallium is Ga.
