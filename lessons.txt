@@ -10063,3 +10063,110 @@ A: In order, they are 176 767 873.
 
 Q: How do you sort 103, 861, and 645?
 A: In order, they are 103 645 861.
+Q: Can you count by twos from 20 to 28?
+A: Counting by twos gives 20 22 24 26 28.
+
+Q: Can you count by twos from 34 to 38?
+A: Counting by twos gives 34 36 38.
+
+Q: Can you count by fives from 15 to 40?
+A: Counting by fives gives 15 20 25 30 35 40.
+
+Q: Can you count by ones from 29 to 32?
+A: Counting by ones gives 29 30 31 32.
+
+Q: Can you count by twos from 24 to 30?
+A: Counting by twos gives 24 26 28 30.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25.
+
+Q: How many letters does the word 'lead' have?
+A: The word 'lead' has 4 letters.
+
+Q: How many letters does the word 'antananarivo' have?
+A: The word 'antananarivo' has 12 letters.
+
+Q: How many letters does the word 'manganese' have?
+A: The word 'manganese' has 9 letters.
+
+Q: How many letters does the word 'romania' have?
+A: The word 'romania' has 7 letters.
+
+Q: How many letters does the word 'give' have?
+A: The word 'give' has 4 letters.
+
+Q: How many letters does the word 'bamako' have?
+A: The word 'bamako' has 6 letters.
+
+Q: What is the Roman numeral for 20?
+A: The Roman numeral for 20 is xx.
+
+Q: What is the Roman numeral for 25?
+A: The Roman numeral for 25 is xxv.
+
+Q: What is the Roman numeral for 88?
+A: The Roman numeral for 88 is lxxxviii.
+
+Q: What is the Roman numeral for 88?
+A: The Roman numeral for 88 is lxxxviii.
+
+Q: What is the Roman numeral for 10?
+A: The Roman numeral for 10 is x.
+
+Q: What number is the Roman numeral cclviii?
+A: The Roman numeral cclviii is the number 258.
+
+Q: What is 47 plus 47?
+A: 47 plus 47 is 94.
+
+Q: What is 20 minus 11?
+A: 20 minus 11 is 9.
+
+Q: What is 80 minus 11?
+A: 80 minus 11 is 69.
+
+Q: What is 4 times 7?
+A: 4 times 7 is 28.
+
+Q: What is 246 plus 754?
+A: 246 plus 754 is 1000.
+
+Q: What is 219 plus 263?
+A: 219 plus 263 is 482.
+
+Q: What is the first letter of 'laos'?
+A: The first letter of 'laos' is L.
+
+Q: What is the last letter of 'time'?
+A: The last letter of 'time' is E.
+
+Q: What is the first letter of 'asuncion'?
+A: The first letter of 'asuncion' is A.
+
+Q: What is the last letter of 'amman'?
+A: The last letter of 'amman' is N.
+
+Q: What is the first letter of 'tall'?
+A: The first letter of 'tall' is T.
+
+Q: What is the last letter of 'neptune'?
+A: The last letter of 'neptune' is E.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
