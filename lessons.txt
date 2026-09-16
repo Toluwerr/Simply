@@ -16791,3 +16791,110 @@ A: 598 is bigger than 200.
 
 Q: Which is bigger, 6 or 19?
 A: 19 is bigger than 6.
+Q: What number is the Roman numeral xxxvii?
+A: The Roman numeral xxxvii is the number 37.
+
+Q: What is the Roman numeral for 218?
+A: The Roman numeral for 218 is ccxviii.
+
+Q: What is the Roman numeral for 20?
+A: The Roman numeral for 20 is xx.
+
+Q: What number is the Roman numeral xcv?
+A: The Roman numeral xcv is the number 95.
+
+Q: What number is the Roman numeral lxxiii?
+A: The Roman numeral lxxiii is the number 73.
+
+Q: What number is the Roman numeral lvii?
+A: The Roman numeral lvii is the number 57.
+
+Q: How many letters does the word 'strontium' have?
+A: The word 'strontium' has 9 letters.
+
+Q: How many letters does the word 'trinidad' have?
+A: The word 'trinidad' has 8 letters.
+
+Q: How many letters does the word 'moresby' have?
+A: The word 'moresby' has 7 letters.
+
+Q: How many letters does the word 'rich' have?
+A: The word 'rich' has 4 letters.
+
+Q: How many letters does the word 'bottle' have?
+A: The word 'bottle' has 6 letters.
+
+Q: How many letters does the word 'tallinn' have?
+A: The word 'tallinn' has 7 letters.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: How do you write 63 in words?
+A: 63 in words is sixty-three.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
+
+Q: Which is bigger, 5 or 7?
+A: 7 is bigger than 5.
+
+Q: Which is bigger, 36 or 95?
+A: 95 is bigger than 36.
+
+Q: Which is bigger, 56 or 98?
+A: 98 is bigger than 56.
+
+Q: Which is bigger, 214 or 397?
+A: 397 is bigger than 214.
+
+Q: Is 814 bigger than 975?
+A: No, 975 is bigger than 814.
+
+Q: Is 9 bigger than 14?
+A: No, 14 is bigger than 9.
+
+Q: How do you sort 712, 361, and 908?
+A: In order, they are 361 712 908.
+
+Q: How do you sort 20, 16, and 25?
+A: In order, they are 16 20 25.
+
+Q: How do you sort 466, 793, and 391?
+A: In order, they are 391 466 793.
+
+Q: How do you sort 854, 798, and 575?
+A: In order, they are 575 798 854.
+
+Q: How do you sort 985, 270, and 272?
+A: In order, they are 270 272 985.
+
+Q: How do you sort 14, 20, and 15?
+A: In order, they are 14 15 20.
+
+Q: What is the last letter of 'olympia'?
+A: The last letter of 'olympia' is A.
+
+Q: What is the first letter of 'rock'?
+A: The first letter of 'rock' is R.
+
+Q: What is the last letter of 'egypt'?
+A: The last letter of 'egypt' is T.
+
+Q: What is the last letter of 'pencil'?
+A: The last letter of 'pencil' is L.
+
+Q: What is the last letter of 'plutonium'?
+A: The last letter of 'plutonium' is M.
+
+Q: What is the last letter of 'london'?
+A: The last letter of 'london' is N.
