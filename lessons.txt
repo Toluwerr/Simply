@@ -21144,3 +21144,110 @@ A: Montgomery is the capital of Alabama.
 
 Q: What is the capital of the US state Arizona?
 A: Phoenix is the capital of Arizona.
+Q: What is the chemical symbol for thallium?
+A: The chemical symbol for thallium is Tl.
+
+Q: Which element has the chemical symbol Rh?
+A: Rh is the chemical symbol for rhodium.
+
+Q: Which element has the chemical symbol La?
+A: La is the chemical symbol for lanthanum.
+
+Q: Which element has the chemical symbol S?
+A: S is the chemical symbol for sulfur.
+
+Q: What is the chemical symbol for zinc?
+A: The chemical symbol for zinc is Zn.
+
+Q: What is the chemical symbol for chromium?
+A: The chemical symbol for chromium is Cr.
+
+Q: What is the capital of the Dominican Republic?
+A: The capital of the Dominican Republic is Santo Domingo.
+
+Q: What is the capital of Malaysia?
+A: The capital of Malaysia is Kuala Lumpur.
+
+Q: What is the capital of Chad?
+A: The capital of Chad is N'Djamena.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of Pakistan?
+A: The capital of Pakistan is Islamabad.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: How do you sort 425, 486, and 168?
+A: In order, they are 168 425 486.
+
+Q: How do you sort 10, 4, and 1?
+A: In order, they are 1 4 10.
+
+Q: How do you sort 727, 997, and 812?
+A: In order, they are 727 812 997.
+
+Q: How do you sort 6, 17, and 16?
+A: In order, they are 6 16 17.
+
+Q: How do you sort 14, 23, and 2?
+A: In order, they are 2 14 23.
+
+Q: How do you sort 19, 6, and 24?
+A: In order, they are 6 19 24.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What is double 22?
+A: Double 22 is 44.
+
+Q: What is double 8?
+A: Double 8 is 16.
+
+Q: What is double 13?
+A: Double 13 is 26.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is double 60?
+A: Double 60 is 120.
+
+Q: Which is bigger, 17 or 8?
+A: 17 is bigger than 8.
+
+Q: Is 538 bigger than 195?
+A: Yes, 538 is bigger than 195.
+
+Q: Which is bigger, 642 or 569?
+A: 642 is bigger than 569.
+
+Q: Is 6 bigger than 5?
+A: Yes, 6 is bigger than 5.
+
+Q: Is 12 bigger than 13?
+A: No, 13 is bigger than 12.
+
+Q: Is 901 bigger than 845?
+A: Yes, 901 is bigger than 845.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What continent is the Philippines on?
+A: the Philippines is on the continent of Asia.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What continent is Gabon on?
+A: Gabon is on the continent of Africa.
+
+Q: What continent is Libya on?
+A: Libya is on the continent of Africa.
+
+Q: What continent is Laos on?
+A: Laos is on the continent of Asia.
