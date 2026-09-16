@@ -1,0 +1,5 @@
+Q: How do you sort 12, 20, and 8?
+A: In order, they are 8 12 20.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.

@@ -607,3 +607,51 @@ A: Carrick Furnace is a historic iron furnace located at Metal Township in Frank
 
 Q: What is Herodian architecture?
 A: Herodian architecture is a style of classical architecture characteristic of the numerous building projects undertaken during the reign of Herod the G.
+
+Q: What is Pascal?
+A: Pascal is an imperative and procedural programming language, designed by Niklaus Wirth as a small.
+
+Q: What is Bubble?
+A: Bubble is a visual programming language developed by Bubble Group designed for building web and mobile applications.
+
+Q: What is Logo?
+A: Logo is an educational programming language, designed in 1967 by Wally Feurzeig, Seymour Papert, and Cynthia Solomon.
+
+Q: What is Forth?
+A: Forth is a stack-oriented programming language and interactive integrated development environment designed by Charles H.
+
+Q: What is Ada?
+A: Ada is a structured, statically typed, imperative, and object-oriented high-level programming language, inspired by Pascal and other languages.
+
+Q: What is Nim?
+A: Nim is a general-purpose, multi-paradigm, statically typed, compiled, high-level system programming language.
+
+Q: What is Rust?
+A: Rust is a general-purpose programming language that emphasizes performance, type safety, concurrency, and memory safety.
+
+Q: What is Judge Van Eck?
+A: Judge Van Eck is a member of the American, Pennsylvania, and Dauphin County Bar Associations, the American Bankruptcy Institute...
+
+Q: What is Born in Westkapelle, he?
+A: Born in Westkapelle, he is a member of the municipal council of Middelburg between 1953 and 1962, serving as an alderman in his final four years.
+
+Q: What is Keefe?
+A: Keefe is an American professional basketball coach who is the head coach for the Washington Wizards of the National Basketball Association.
+
+Q: What is Milna?
+A: Milna is a rural locality in Ilkinskoye Rural Settlement, Melenkovsky District, Vladimir Oblast, Russia.
+
+Q: What is Kudrino?
+A: Kudrino is the nearest rural locality.
+
+Q: What is FOCUS?
+A: FOCUS is a fourth-generation programming language computer programming language and development environment that is used to build database queries.
+
+Q: What is Gov't Mule?
+A: Gov't Mule is the debut studio album by the American band Gov't Mule.
+
+Q: What is Dijan?
+A: Dijan is a village in Alan Baraghush Rural District of Mehraban District in Sarab County, East Azerbaijan province.
+
+Q: What is Denise?
+A: Denise is a sixteen-year-old Christian girl who vocalized her unhappiness regarding Nichomachus' apostasy.

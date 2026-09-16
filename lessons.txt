@@ -19699,3 +19699,110 @@ A: In order, they are 11 17 25.
 
 Q: How do you sort 838, 213, and 785?
 A: In order, they are 213 785 838.
+Q: What is 12 plus 16?
+A: 12 plus 16 is 28.
+
+Q: What is 17 minus 4?
+A: 17 minus 4 is 13.
+
+Q: What is 12 plus 18?
+A: 12 plus 18 is 30.
+
+Q: What is 2 plus 12?
+A: 2 plus 12 is 14.
+
+Q: What is 95 minus 34?
+A: 95 minus 34 is 61.
+
+Q: What is 10 minus 1?
+A: 10 minus 1 is 9.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: What is the capital of Kazakhstan?
+A: The capital of Kazakhstan is Astana.
+
+Q: What is the capital of Equatorial Guinea?
+A: The capital of Equatorial Guinea is Malabo.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of Angola?
+A: The capital of Angola is Luanda.
+
+Q: What is the capital of Myanmar?
+A: The capital of Myanmar is Naypyidaw.
+
+Q: How many letters does the word 'raleigh' have?
+A: The word 'raleigh' has 7 letters.
+
+Q: How many letters does the word 'poor' have?
+A: The word 'poor' has 4 letters.
+
+Q: How many letters does the word 'hydrogen' have?
+A: The word 'hydrogen' has 8 letters.
+
+Q: How many letters does the word 'roseau' have?
+A: The word 'roseau' has 6 letters.
+
+Q: How many letters does the word 'jupiter' have?
+A: The word 'jupiter' has 7 letters.
+
+Q: How many letters does the word 'argon' have?
+A: The word 'argon' has 5 letters.
+
+Q: What is the Roman numeral for 15?
+A: The Roman numeral for 15 is xv.
+
+Q: What number is the Roman numeral lxii?
+A: The Roman numeral lxii is the number 62.
+
+Q: What number is the Roman numeral dxliii?
+A: The Roman numeral dxliii is the number 543.
+
+Q: What is the Roman numeral for 498?
+A: The Roman numeral for 498 is cdxcviii.
+
+Q: What number is the Roman numeral lxxxviii?
+A: The Roman numeral lxxxviii is the number 88.
+
+Q: What is the Roman numeral for 773?
+A: The Roman numeral for 773 is dcclxxiii.
+
+Q: How do you sort 249, 441, and 917?
+A: In order, they are 249 441 917.
+
+Q: How do you sort 3, 25, and 9?
+A: In order, they are 3 9 25.
+
+Q: How do you sort 743, 94, and 887?
+A: In order, they are 94 743 887.
+
+Q: How do you sort 15, 1, and 11?
+A: In order, they are 1 11 15.
+
+Q: How do you sort 273, 843, and 150?
+A: In order, they are 150 273 843.
+
+Q: How do you sort 389, 630, and 946?
+A: In order, they are 389 630 946.
+
+Q: Is 848 bigger than 164?
+A: Yes, 848 is bigger than 164.
+
+Q: Which is bigger, 6 or 7?
+A: 7 is bigger than 6.
+
+Q: Which is bigger, 70 or 87?
+A: 87 is bigger than 70.
+
+Q: Which is bigger, 79 or 72?
+A: 79 is bigger than 72.
+
+Q: Which is bigger, 86 or 49?
+A: 86 is bigger than 49.
+
+Q: Is 15 bigger than 19?
+A: No, 19 is bigger than 15.
