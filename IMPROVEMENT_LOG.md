@@ -1563,3 +1563,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: opposites 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"A col'."
 
+## Promotion - v17 - weights committed
+- **reason**: knowledge 0.09, was 0.00; val 0.9073
+- self-portrait, asked "Who are you?": *"48 times 1 is 12."
+
