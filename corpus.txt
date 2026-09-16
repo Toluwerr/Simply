@@ -7949,3 +7949,19 @@ A: In order, they are 2 7 26.
 
 Q: What is half of 46?
 A: Half of 46 is 23.
+
+
+Q: What is half of 10?
+A: Half of 10 is 5.
+
+Q: What is the capital of Ecuador?
+A: The capital of Ecuador is Quito.
+
+Q: What continent is Kyrgyzstan on?
+A: Venmarka is on the continent of Asia.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What is 9 times 4?
+A: 9 times 4 is 36.

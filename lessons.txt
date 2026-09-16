@@ -17005,3 +17005,110 @@ A: The first letter of 'cape' is C.
 
 Q: What is the last letter of 'delaware'?
 A: The last letter of 'delaware' is E.
+Q: What number is the Roman numeral lxxxii?
+A: The Roman numeral lxxxii is the number 82.
+
+Q: What number is the Roman numeral cmxxvii?
+A: The Roman numeral cmxxvii is the number 927.
+
+Q: What is the Roman numeral for 132?
+A: The Roman numeral for 132 is cxxxii.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What is the Roman numeral for 27?
+A: The Roman numeral for 27 is xxvii.
+
+Q: What is the Roman numeral for 136?
+A: The Roman numeral for 136 is cxxxvi.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 99 in words?
+A: 99 in words is ninety-nine.
+
+Q: What is the chemical symbol for tungsten?
+A: The chemical symbol for tungsten is W.
+
+Q: What is the chemical symbol for lanthanum?
+A: The chemical symbol for lanthanum is La.
+
+Q: Which element has the chemical symbol Pm?
+A: Pm is the chemical symbol for promethium.
+
+Q: Which element has the chemical symbol Ge?
+A: Ge is the chemical symbol for germanium.
+
+Q: What is the chemical symbol for selenium?
+A: The chemical symbol for selenium is Se.
+
+Q: Which element has the chemical symbol In?
+A: In is the chemical symbol for indium.
+
+Q: What is 7 times 10?
+A: 7 times 10 is 70.
+
+Q: What is 985 minus 565?
+A: 985 minus 565 is 420.
+
+Q: What is 2 times 6?
+A: 2 times 6 is 12.
+
+Q: What is 19 minus 15?
+A: 19 minus 15 is 4.
+
+Q: What is 9 times 5?
+A: 9 times 5 is 45.
+
+Q: What is 54 plus 38?
+A: 54 plus 38 is 92.
+
+Q: What is the last letter of 'montenegro'?
+A: The last letter of 'montenegro' is O.
+
+Q: What is the last letter of 'baht'?
+A: The last letter of 'baht' is T.
+
+Q: What is the last letter of 'ankara'?
+A: The last letter of 'ankara' is A.
+
+Q: What is the last letter of 'buenos'?
+A: The last letter of 'buenos' is S.
+
+Q: What is the first letter of 'vast'?
+A: The first letter of 'vast' is V.
+
+Q: What is the last letter of 'sudan'?
+A: The last letter of 'sudan' is N.
+
+Q: How many letters does the word 'beirut' have?
+A: The word 'beirut' has 6 letters.
+
+Q: How many letters does the word 'tanzania' have?
+A: The word 'tanzania' has 8 letters.
+
+Q: How many letters does the word 'moon' have?
+A: The word 'moon' has 4 letters.
+
+Q: How many letters does the word 'train' have?
+A: The word 'train' has 5 letters.
+
+Q: How many letters does the word 'zinc' have?
+A: The word 'zinc' has 4 letters.
+
+Q: How many letters does the word 'kazakhstan' have?
+A: The word 'kazakhstan' has 10 letters.
