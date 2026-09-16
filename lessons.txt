@@ -22018,3 +22018,128 @@ A: 22 in words is twenty-two.
 
 Q: How do you write 88 in words?
 A: 88 in words is eighty-eight.
+Q: What is the first letter of 'minnesota'?
+A: The first letter of 'minnesota' is M.
+
+Q: What is the first letter of 'tuvalu'?
+A: The first letter of 'tuvalu' is T.
+
+Q: What is the first letter of 'honolulu'?
+A: The first letter of 'honolulu' is H.
+
+Q: What is the first letter of 'molybdenum'?
+A: The first letter of 'molybdenum' is M.
+
+Q: What is the last letter of 'technetium'?
+A: The last letter of 'technetium' is M.
+
+Q: What is the first letter of 'covered'?
+A: The first letter of 'covered' is C.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: What is the capital of North Korea?
+A: The capital of North Korea is Pyongyang.
+
+Q: What is the capital of Vatican City?
+A: The capital of Vatican City is Vatican City.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
+
+Q: What is the capital of Guinea-Bissau?
+A: The capital of Guinea-Bissau is Bissau.
+
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+
+Q: What is the capital of Fiji?
+A: The capital of Fiji is Suva.
+
+Q: How many letters does the word 'cambodia' have?
+A: The word 'cambodia' has 8 letters.
+
+Q: How many letters does the word 'israel' have?
+A: The word 'israel' has 6 letters.
+
+Q: How many letters does the word 'real' have?
+A: The word 'real' has 4 letters.
+
+Q: How many letters does the word 'star' have?
+A: The word 'star' has 4 letters.
+
+Q: How many letters does the word 'helsinki' have?
+A: The word 'helsinki' has 8 letters.
+
+Q: How many letters does the word 'aires' have?
+A: The word 'aires' has 5 letters.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What number is the Roman numeral d?
+A: The Roman numeral d is the number 500.
+
+Q: What number is the Roman numeral xiii?
+A: The Roman numeral xiii is the number 13.
+
+Q: What number is the Roman numeral dccxcvii?
+A: The Roman numeral dccxcvii is the number 797.
+
+Q: What is the Roman numeral for 5?
+A: The Roman numeral for 5 is v.
+
+Q: What number is the Roman numeral x?
+A: The Roman numeral x is the number 10.
+
+Q: What number is the Roman numeral lxiv?
+A: The Roman numeral lxiv is the number 64.
+
+Q: Can you count by fives from 30 to 40?
+A: Counting by fives gives 30 35 40.
+
+Q: Can you count by ones from 6 to 11?
+A: Counting by ones gives 6 7 8 9 10 11.
+
+Q: Can you count by ones from 27 to 29?
+A: Counting by ones gives 27 28 29.
+
+Q: Can you count by fives from 5 to 30?
+A: Counting by fives gives 5 10 15 20 25 30.
+
+Q: Can you count by ones from 12 to 16?
+A: Counting by ones gives 12 13 14 15 16.
+
+Q: Can you count by twos from 26 to 32?
+A: Counting by twos gives 26 28 30 32.

@@ -1,0 +1,14 @@
+Q: How many letters does the word 'tungsten' have?
+A: The word 'turkey' has 8 letters.
+
+Q: Which is bigger, 34 or 1?
+A: 34 is bigger than 1.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
