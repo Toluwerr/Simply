@@ -6875,3 +6875,7 @@ A: 87 plus 55 is 142.
 
 Q: How do you write 90 in words?
 A: 90 in words is ninety.
+
+
+Q: Is 8 bigger than 4?
+A: Yes, 8 is bigger than 18.

@@ -6333,3 +6333,128 @@ A: 5 plus 6 is 11.
 
 Q: What is 13 times 19?
 A: 13 times 19 is 247.
+Q: What is 15 plus 3?
+A: 15 plus 3 is 18.
+
+Q: What is 77 minus 49?
+A: 77 minus 49 is 28.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is 11 minus 1?
+A: 11 minus 1 is 10.
+
+Q: What is 14 times 19?
+A: 14 times 19 is 266.
+
+Q: What is 8 times 12?
+A: 8 times 12 is 96.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Kiribati?
+A: The capital of Kiribati is Tarawa.
+
+Q: What is the capital of Haiti?
+A: The capital of Haiti is Port-au-Prince.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the Roman numeral for 70?
+A: The Roman numeral for 70 is lxx.
+
+Q: What is the Roman numeral for 756?
+A: The Roman numeral for 756 is dcclvi.
+
+Q: What is the Roman numeral for 9?
+A: The Roman numeral for 9 is ix.
+
+Q: What is the Roman numeral for 60?
+A: The Roman numeral for 60 is lx.
+
+Q: What number is the Roman numeral dccclvi?
+A: The Roman numeral dccclvi is the number 856.
+
+Q: What is the Roman numeral for 54?
+A: The Roman numeral for 54 is liv.
+
+Q: What continent is the United Kingdom on?
+A: the United Kingdom is on the continent of Europe.
+
+Q: What continent is Canada on?
+A: Canada is on the continent of North America.
+
+Q: What continent is Kenya on?
+A: Kenya is on the continent of Africa.
+
+Q: What continent is Montenegro on?
+A: Montenegro is on the continent of Europe.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is Mauritania on?
+A: Mauritania is on the continent of Africa.
+
+Q: How do you sort 13, 8, and 16?
+A: In order, they are 8 13 16.
+
+Q: How do you sort 492, 368, and 742?
+A: In order, they are 368 492 742.
+
+Q: How do you sort 55, 787, and 664?
+A: In order, they are 55 664 787.
+
+Q: How do you sort 851, 94, and 735?
+A: In order, they are 94 735 851.
+
+Q: How do you sort 333, 304, and 292?
+A: In order, they are 292 304 333.
+
+Q: How do you sort 8, 15, and 7?
+A: In order, they are 7 8 15.
+
+Q: Is 157 bigger than 470?
+A: No, 470 is bigger than 157.
+
+Q: Is 46 bigger than 23?
+A: Yes, 46 is bigger than 23.
+
+Q: Is 4 bigger than 5?
+A: No, 5 is bigger than 4.
+
+Q: Is 97 bigger than 14?
+A: Yes, 97 is bigger than 14.
+
+Q: Is 8 bigger than 5?
+A: Yes, 8 is bigger than 5.
+
+Q: Which is bigger, 60 or 61?
+A: 61 is bigger than 60.
