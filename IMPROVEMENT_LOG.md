@@ -1469,3 +1469,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.43 | weakest: arithmetic 0.00, sort 0.00, double_half 0.00 | strongest: definitions 1.00, animals 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny AI hoppes Beliume!"
 
+## Promotion - v16 - weights committed
+- **reason**: knowledge 0.48, was 0.43; val 0.3819
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny Wily."
+
