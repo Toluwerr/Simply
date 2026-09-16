@@ -27,6 +27,7 @@ from data import CharDataset
 import seed_data as SD  # ground-truth tables used by the verifier
 import world_tables as WT  # expanded world-knowledge ground truth
 import curriculum as CU  # infinite provable lessons per category
+import knowledge as KN  # internet reader: fetch, clean, distill, recall
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 os.chdir(ROOT)
@@ -56,11 +57,18 @@ MAX_SYNTH_PER_ITER = 40
 # material for its weakest categories. This is how it keeps absorbing
 # more of the world without ever drifting off the truth.
 LESSONS_PATH = "lessons.txt"
-STUDY_FRAC = 0.55           # share of training batches drawn from lessons
+LESSON_FRAC = 0.40          # share of batches drawn from the study pool
+READING_FRAC = 0.25         # share of batches drawn from internet text
 LESSONS_POOL_MAX = 800_000  # bytes; oldest lessons trimmed when exceeded
 SEED_LESSONS_PER_CAT = 30
 TOPUP_PER_ITER = 42         # fresh lessons added per iteration
 TOPUP_CATS = 7              # ...spread over the weakest categories
+
+# What Simply has recalled from its internet reading (subject -> answer),
+# loaded once per run. Serves as ground truth for the reading subject:
+# the answers came verbatim from real articles, so grading the model's
+# recall against them is grading it against the source itself.
+_READING_FACTS = {}
 
 
 def log(msg):
@@ -135,19 +143,25 @@ def save_checkpoint(model, ds, val_loss, version, path):
     }, path)
 
 
-def train_steps(model, ds, steps, batch_size, lr, device, lessons=None):
+def train_steps(model, ds, steps, batch_size, lr, device, lessons=None,
+                reading=None):
     opt = torch.optim.AdamW(model.parameters(), lr=lr, weight_decay=0.01)
     model.train()
     t0 = time.time()
     running = []
     lesson_batches = 0
+    reading_batches = 0
     for i in range(1, steps + 1):
-        # Study mode: most batches come from the lesson pool (the current
-        # frontier of what Simply is learning), the rest from the whole
-        # archive, so old skills never rot while new ones are drilled.
-        if lessons is not None and random.random() < STUDY_FRAC:
+        # Study mix: study-pool lessons (the provable frontier), raw
+        # internet text (breadth + fluency on real-world prose), and the
+        # whole archive so old skills never rot while new ones go in.
+        r = random.random()
+        if lessons is not None and r < LESSON_FRAC:
             x, y = lessons.batch(batch_size, device)
             lesson_batches += 1
+        elif reading is not None and r < LESSON_FRAC + READING_FRAC:
+            x, y = reading.batch(batch_size, device)
+            reading_batches += 1
         else:
             x, y = ds.batch(batch_size, device, split="train")
         _, loss = model(x, y)
@@ -160,8 +174,8 @@ def train_steps(model, ds, steps, batch_size, lr, device, lessons=None):
             recent = sum(running[-50:]) / len(running[-50:])
             log(f"  step {i:>5}/{steps}  loss {recent:.4f}  "
                 f"{(time.time() - t0) / i:.2f}s/step")
-    if lesson_batches:
-        log(f"  study mix: {lesson_batches}/{steps} batches from lessons")
+    log(f"  study mix: {lesson_batches}/{steps} lessons, "
+        f"{reading_batches}/{steps} internet reading")
     return sum(running[-50:]) / len(running[-50:])
 
 
@@ -253,6 +267,7 @@ CATEGORY_PROMPTS = {
     "months": ["Q: How many days are in "],
     "units": ["Q: How many "],
     "records": ["Q: What is the ", "Q: How many "],
+    "reading": ["Q: What is "],
 }
 
 def template_check(q, a):
@@ -353,6 +368,15 @@ def template_check(q, a):
         if w.lower() not in KNOWN_WORDS:
             return False
         return re.search(rf"is '?{w[-1].upper()}'?[^a-zA-Z]", a) is not None
+    # Reading recall: "What is X?" where X is a subject Simply actually
+    # read about. The stored answer came from the article itself, so this
+    # is a check against the source. Unknown subjects fall through.
+    if _READING_FACTS:
+        m = re.match(r"^What is (.+)\?$", q)
+        if m:
+            ans = _READING_FACTS.get(m.group(1).strip().lower())
+            if ans is not None:
+                return KN.recall_ok(ans, a)
     # No old template matched - fall through to the curriculum templates
     # (currencies, continents, elements, planets, months, units, records,
     # roman numerals, US states). Same rule as everywhere else: no proof,
@@ -419,7 +443,8 @@ def weakest_categories(knowledge):
     def acc(c):
         v = knowledge.get(c) if isinstance(knowledge, dict) else None
         return v if isinstance(v, (int, float)) else 0.0
-    cats = list(CATEGORY_PROMPTS)
+    cats = [c for c in CATEGORY_PROMPTS if c != "reading"] + (
+        ["reading"] if _READING_FACTS else [])
     cats.sort(key=lambda c: (acc(c), random.random()))
     return cats
 
@@ -432,15 +457,28 @@ def run_knowledge_quiz(model, ds, device, iteration):
     means the quiz measures understanding of a subject, never memory of
     a fixed question list. Accuracy per category is committed every
     iteration -> measurable, auditable knowledge growth.
+
+    The 'reading' subject is graded differently: one fact from the
+    internet reading store is picked at random and the model must recall
+    it. Every probe is a question about something it genuinely read.
     """
     model.eval()
+    cats = list(CU.CATEGORIES)
+    if _READING_FACTS:
+        cats.append("reading")
     scores = {}
-    for cat in CU.CATEGORIES:
+    for cat in cats:
         rng = random.Random(f"{iteration}:{cat}")
-        q, _truth = CU.gen_lesson(cat, rng)
+        if cat == "reading":
+            subj, truth = rng.choice(sorted(_READING_FACTS.items()))
+            q = f"What is {subj}?"
+        else:
+            q, _truth = CU.gen_lesson(cat, rng)
         # Greedy decoding: the quiz measures knowledge, not creativity.
         ans = sample_answer(model, ds, device, question=q,
-                            temperature=0.1, max_new=64, top_k=1)
+                            temperature=0.1,
+                            max_new=96 if cat == "reading" else 64,
+                            top_k=1)
         scores[cat] = 1.0 if template_check(q, ans) else 0.0
     acc = {c: round(v, 3) for c, v in scores.items()}
     ranked = sorted(acc.items(), key=lambda kv: kv[1])
@@ -562,12 +600,12 @@ def build_study_seed(metrics):
         f"({len(blocks) - len(keep)} skipped for charset safety)")
 
 
-class LessonStream:
-    """Batch source over the lesson pool. Shares the main dataset's
+class _PoolStream:
+    """Batch source over a plain-text pool. Shares the main dataset's
     exact vocabulary, so the model's character table never drifts."""
 
-    def __init__(self, ds):
-        ids = [ds.stoi[c] for c in load_lessons_text() if c in ds.stoi]
+    def __init__(self, ds, text):
+        ids = [ds.stoi[c] for c in text if c in ds.stoi]
         self.data = torch.tensor(ids, dtype=torch.long)
         self.block_size = ds.block_size
 
@@ -578,6 +616,16 @@ class LessonStream:
         y = torch.stack(
             [self.data[i + 1:i + 1 + self.block_size] for i in ix]).to(device)
         return x, y
+
+
+def LessonStream(ds):
+    return _PoolStream(ds, load_lessons_text())
+
+
+def ReadingStream(ds):
+    with open(KN.POOL_PATH, encoding="utf-8") as f:
+        text = f.read()
+    return _PoolStream(ds, text)
 
 
 def lessons_count():
@@ -595,6 +643,10 @@ def topup_lessons(weakest_cats, iteration):
     per_cat = TOPUP_PER_ITER // TOPUP_CATS
     lines = []
     for cat in weakest_cats[:TOPUP_CATS]:
+        if cat not in CU.GENERATORS:
+            # e.g. "reading": that subject is topped up by the internet
+            # reader itself, not by the ground-truth curriculum.
+            continue
         for _ in range(per_cat):
             q, a = CU.gen_lesson(cat, rng)
             blob = f"Q: {q}\nA: {a}"
@@ -757,12 +809,15 @@ def append_log(entry):
 
 
 def main():
+    global _READING_FACTS
     ap = argparse.ArgumentParser(description="Simply RSI loop")
     ap.add_argument("--iterations", type=int, default=1)
     ap.add_argument("--steps", type=int, default=None,
                     help=f"default: {BOOTSTRAP_STEPS} if fresh, else {DEFAULT_STEPS}")
     ap.add_argument("--batch-size", type=int, default=16)
     ap.add_argument("--no-push", action="store_true")
+    ap.add_argument("--no-net", action="store_true",
+                    help="skip the internet reading session (offline runs)")
     ap.add_argument("--cpu", action="store_true")
     ap.add_argument("--synth-batches", type=int, default=5,
                     help="sampling batches per iteration for self-written data")
@@ -807,6 +862,27 @@ def main():
     if not metrics.get("study_mode_v1"):
         build_study_seed(metrics)
 
+    # Reading session: go learn something new from the open internet.
+    # Best effort by design - if the web is unreachable, the loop keeps
+    # going on whatever it already has. Facts are distilled into the
+    # study pool; raw article text feeds the reading stream.
+    read_stats = None
+    if not args.no_net:
+        try:
+            read_stats = KN.refresh(metrics, allowed_chars=set(corpus))
+            metrics["reading"] = {
+                "articles": read_stats["articles_total"],
+                "facts": read_stats["facts_stored"],
+                "pool_chars": read_stats["pool_chars"],
+            }
+            save_metrics(metrics)
+        except Exception as e:
+            log(f"reading session skipped: {e}")
+    _READING_FACTS = KN.fact_subjects()
+    if _READING_FACTS:
+        log(f"  reading recall store: {len(_READING_FACTS)} facts ready "
+            "for the quiz")
+
     model, from_scratch = load_model(ds, device)
     n_params = model.num_params()
     # baseline = the COMMITTED best weights' scores; every iteration is
@@ -824,6 +900,13 @@ def main():
     run_best_know_acc = None
     log(f"run baseline: val_loss {'n/a' if baseline is None else f'{baseline:.4f}'}"
         f", knowledge {start_know:.2f}")
+
+    reading = None
+    if os.path.exists(KN.POOL_PATH):
+        cand = ReadingStream(ds)
+        if len(cand.data) > MODEL_KWARGS["block_size"] * 4:
+            reading = cand
+            log(f"  reading pool in rotation: {len(cand.data):,} chars")
 
     for _ in range(args.iterations):
         metrics["iteration"] += 1
@@ -843,7 +926,7 @@ def main():
             f"(pool: {lessons_count()}), weakest first")
 
         train_loss = train_steps(model, ds, steps, args.batch_size,
-                                 metrics["lr"], device, lessons)
+                                 metrics["lr"], device, lessons, reading)
         synth_n = generate_and_absorb(model, ds, device, it_num,
                                       batches=args.synth_batches,
                                       cat_order=weakest_categories(
@@ -898,12 +981,18 @@ def main():
             "dataset_chars": metrics["dataset_chars"],
             "params_M": round(n_params / 1e6, 3),
             "knowledge": quiz_acc,
+            "reading": metrics.get("reading"),
             "ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         }
         with open(HISTORY_PATH, "a") as f:
             f.write(json.dumps(rec) + "\n")
 
         portrait = sample_answer(model, ds, device)
+        read_line = ""
+        if read_stats:
+            read_line = (f"- **internet reading**: +{read_stats['articles_new']} "
+                         f"articles, +{read_stats['facts_new']} facts "
+                         f"({read_stats['articles_total']:,} read all-time)\n")
         append_log(
             f"## Iteration {it_num} - {status}\n"
             f"- **when**: {rec['ts']}\n"
@@ -912,15 +1001,21 @@ def main():
             f"**run best**: {run_best_loss:.4f}\n"
             f"- **corpus**: {metrics['dataset_chars']:,} chars "
             f"(+{synth_n} self-written examples)\n"
+            f"{read_line}"
             f"- **lr**: {metrics['lr']:.4f} | **steps**: {steps}\n"
             f"- **knowledge quiz**: {quiz_line}\n"
             f"- self-portrait, asked \"Who are you?\": "
             f"*\"{portrait}\"\n"
         )
 
+        read_note = ""
+        if read_stats and read_stats["articles_new"]:
+            read_note = (f", +{read_stats['articles_new']} web articles, "
+                         f"+{read_stats['facts_new']} facts")
         commit_and_push(
             f"Simply iter {it_num} {status} - val {val_loss:.4f}, "
-            f"know {know_avg:.2f}, +{synth_n} self-written examples",
+            f"know {know_avg:.2f}, +{synth_n} self-written examples"
+            f"{read_note}",
             push=not args.no_push,
         )
         log(f"=== iteration {it_num} done: {status} ===")

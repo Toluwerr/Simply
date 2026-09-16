@@ -11,9 +11,15 @@ real weights, and it really learns.
 
 ## What it does all day
 
-Every 30 minutes it wakes up and runs 12 rounds of self-improvement.
-Each round has five steps:
+Every 30 minutes it wakes up, **reads something new off the open
+internet**, then runs 12 rounds of self-improvement. Each round has
+five steps:
 
+0. **Read.** It fetches about 30 real articles (Wikipedia's public
+   API - no account, no key) and stores the text in `reading/`. From
+   those articles it distills short facts - definitions lifted
+   straight from the source - into its study pool. Roughly 1,400
+   articles a day, every one recorded in `reading/learned.txt`.
 1. **Study.** It gets fresh practice problems for its weakest subjects,
    generated from provable ground truth, then trains on a mix of those
    lessons and everything it has seen before. Old skills keep training
@@ -22,7 +28,9 @@ Each round has five steps:
    the ones it can *prove* correct against ground-truth tables. Anything
    unverifiable is thrown away. It cannot teach itself nonsense.
 3. **Quiz.** One unseen question per subject, graded by the same proof
-   system. The scores go into `metrics.json` every round.
+   system - including the reading subject, where it has to recall a
+   fact from something it actually read. The scores go into
+   `metrics.json` every round.
 4. **Promote or hold.** New weights only replace the old ones if the
    model actually got better: validation loss down, or knowledge up
    without getting worse. If not, the version is held and it tries
@@ -37,7 +45,8 @@ self-improve.yml`.
 
 ## What it is learning
 
-22 subjects, each with exact ground truth it can be graded against:
+23 subjects. 22 of them have exact ground truth it can be graded
+against:
 
 - **Math** - arithmetic (plus/minus/times, numbers into the hundreds
   and beyond), which-is-bigger comparisons, sorting, doubles and halves,
@@ -50,22 +59,32 @@ self-improve.yml`.
   conversions (minutes in an hour, meters in a kilometer, ...), world
   records and basic science, animal sounds, opposites, word meanings.
 
+The 23rd is **reading**: facts it pulled out of real articles. There
+the article itself is the ground truth - an answer only counts if it
+matches what the source actually said. Training time is split three
+ways: the study pool, the raw article text, and everything it has ever
+seen. So the more of the internet it reads, the more of its brain is
+spent on the internet.
+
 The loop is weakness-driven. Every round, whatever it scores worst on
 gets the most new practice problems. When it masters a subject, harder
 material takes over that attention automatically.
 
 One rule runs the whole thing: **no proof, no learning.** Lessons come
 from ground-truth tables, its own writing has to pass the same checks
-before it is absorbed, and the quiz is graded by the same verifier.
-The full lesson system was validated on 22,000 randomly generated
-lessons before going live: zero wrong answers.
+before it is absorbed, reading facts have to match their source
+article, and the quiz is graded by the same verifier. The full lesson
+system was validated on 22,000 randomly generated lessons before going
+live: zero wrong answers.
 
 ## Current status
 
 - `metrics.json` - version number, best validation loss, per-subject
-  quiz scores.
+  quiz scores, and a `reading` block: articles read, facts stored.
 - `history.jsonl` - one record per round, since the very first.
 - `IMPROVEMENT_LOG.md` - the running diary, newest at the bottom.
+- `reading/learned.txt` - every article it has ever read, one title
+  per line, since day one.
 
 ## Talk to it
 
@@ -89,22 +108,26 @@ model.py           the network itself
 data.py            text handling + the frozen validation slice
 curriculum.py      lesson generators + the answer checker for every subject
 world_tables.py    the ground-truth fact tables (countries, elements, ...)
+knowledge.py       the internet reader: fetch articles, distill facts, grade recall
 seed_data.py       the original starter corpus
-self_improve.py    the loop: study -> write -> quiz -> promote -> commit
+self_improve.py    the loop: read -> study -> write -> quiz -> promote -> commit
 corpus.txt         everything it has ever read (seed + self-written)
 lessons.txt        the current study pool
+reading/           learned.txt (titles), pool.txt (article text), facts.txt (distilled facts)
 synthetic/         examples it wrote for itself, one file per round
 best/model.pt      the current champion weights
-metrics.json       version, scores, per-subject quiz accuracy
+metrics.json       version, scores, per-subject quiz accuracy, reading stats
 history.jsonl      the full per-round record
 ```
 
 ## What it can't do
 
-It is a fraction of a percent the size of a real assistant. It holds
-facts, does small math, and chats in short sentences - it does not
+It is a fraction of a percent the size of a real assistant. It reads
+constantly and it never forgets where a fact came from, but it holds
+only what fits in 0.8 million parameters: a rolling working memory of
+what it has read lately, drilled facts, and small skills. It does not
 reason about the world the way a large model does. What makes it
 interesting is not the size. It is that every single thing it knows
 had to be earned through the loop and proved before it stuck, and the
 whole process leaves an audit trail you can read: every round, every
-score, every version, one commit at a time.
+score, every article, one commit at a time.
