@@ -8098,3 +8098,28 @@ A: Mauritania is on the continent of Africa.
 
 Q: What is the first letter of 'marshall'?
 A: The first letter of 'last letter of ' is M.
+
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Osn osmium.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Osn have.
+
+Q: How many letters does the word 'stillge' have?
+A: The word 'b-sta' has 7 letters.
+
+Q: Which element has the chemical symbol B?
+A: B is the chemical symbol for boron.
+
+Q: What is the chemical symbol for iron?
+A: The chemical symbol for iron is Fe.
+
+Q: How much is 55 plus 92?
+A: 55 plus 92 is 147.
+
+Q: Which is bigger, 78 or 99?
+A: 99 is bigger than 86.
+
+Q: What is the Roman numeral for 20?
+A: The Roman numeral for 20 is xx.
