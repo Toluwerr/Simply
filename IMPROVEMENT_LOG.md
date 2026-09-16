@@ -2029,3 +2029,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.26 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, units 1.00, months 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny AI model that trains itself with country."
 
+## Promotion - v21 - weights committed
+- **reason**: knowledge 0.61, was 0.52; val 0.6847
+- self-portrait, asked "Who are you?": *"I am Simple transformer active."
+
