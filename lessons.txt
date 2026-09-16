@@ -11134,3 +11134,110 @@ A: The bald eagle is the national bird of the United States.
 
 Q: How many continents are there?
 A: There are 7 continents.
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What continent is Azerbaijan on?
+A: Azerbaijan is on the continent of Asia.
+
+Q: What continent is Tuvalu on?
+A: Tuvalu is on the continent of Oceania.
+
+Q: What continent is Serbia on?
+A: Serbia is on the continent of Europe.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What continent is Australia on?
+A: Australia is on the continent of Australia.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium.
+
+Q: What is the chemical symbol for platinum?
+A: The chemical symbol for platinum is Pt.
+
+Q: What is the chemical symbol for cobalt?
+A: The chemical symbol for cobalt is Co.
+
+Q: What is the chemical symbol for europium?
+A: The chemical symbol for europium is Eu.
+
+Q: Which element has the chemical symbol Eu?
+A: Eu is the chemical symbol for europium.
+
+Q: Which element has the chemical symbol B?
+A: B is the chemical symbol for boron.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: What is 2 times 6?
+A: 2 times 6 is 12.
+
+Q: What is 886 minus 157?
+A: 886 minus 157 is 729.
+
+Q: What is 392 plus 290?
+A: 392 plus 290 is 682.
+
+Q: What is 666 minus 573?
+A: 666 minus 573 is 93.
+
+Q: What is 13 minus 11?
+A: 13 minus 11 is 2.
+
+Q: What is 50 plus 62?
+A: 50 plus 62 is 112.
