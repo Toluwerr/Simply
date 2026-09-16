@@ -10170,3 +10170,128 @@ A: Phoenix is the capital of Arizona.
 
 Q: What is the capital of the US state Vermont?
 A: Montpelier is the capital of Vermont.
+Q: What is 11 times 15?
+A: 11 times 15 is 165.
+
+Q: What is 10 times 11?
+A: 10 times 11 is 110.
+
+Q: What is 3 plus 2?
+A: 3 plus 2 is 5.
+
+Q: What is 466 minus 269?
+A: 466 minus 269 is 197.
+
+Q: What is 45 plus 39?
+A: 45 plus 39 is 84.
+
+Q: What is 10 minus 9?
+A: 10 minus 9 is 1.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: Can you count by ones from 25 to 27?
+A: Counting by ones gives 25 26 27.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by twos from 6 to 10?
+A: Counting by twos gives 6 8 10.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by twos from 4 to 12?
+A: Counting by twos gives 4 6 8 10 12.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: How do you write 25 in words?
+A: 25 in words is twenty-five.
+
+Q: What continent is Afghanistan on?
+A: Afghanistan is on the continent of Asia.
+
+Q: What continent is the Central African Republic on?
+A: the Central African Republic is on the continent of Africa.
+
+Q: What continent is Sri Lanka on?
+A: Sri Lanka is on the continent of Asia.
+
+Q: What continent is Gabon on?
+A: Gabon is on the continent of Africa.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is Kazakhstan on?
+A: Kazakhstan is on the continent of Asia.
+
+Q: Is 7 bigger than 8?
+A: No, 8 is bigger than 7.
+
+Q: Which is bigger, 759 or 771?
+A: 771 is bigger than 759.
+
+Q: Which is bigger, 264 or 399?
+A: 399 is bigger than 264.
+
+Q: Which is bigger, 234 or 136?
+A: 234 is bigger than 136.
+
+Q: Which is bigger, 640 or 719?
+A: 719 is bigger than 640.
+
+Q: Which is bigger, 16 or 20?
+A: 20 is bigger than 16.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.

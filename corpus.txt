@@ -7212,3 +7212,7 @@ A: The currency of Norway is the krone.
 
 Q: What is the capital of the US state Kentucky?
 A: Frankfort is the capital of Kentucky.
+
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
