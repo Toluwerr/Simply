@@ -17451,3 +17451,110 @@ A: Brazil is the largest country in South America.
 
 Q: How many bones does an adult human have?
 A: An adult human has 206 bones.
+Q: How many letters does the word 'jose' have?
+A: The word 'jose' has 4 letters.
+
+Q: How many letters does the word 'indium' have?
+A: The word 'indium' has 6 letters.
+
+Q: How many letters does the word 'yaren' have?
+A: The word 'yaren' has 5 letters.
+
+Q: How many letters does the word 'lima' have?
+A: The word 'lima' has 4 letters.
+
+Q: How many letters does the word 'cocoa' have?
+A: The word 'cocoa' has 5 letters.
+
+Q: How many letters does the word 'kuala' have?
+A: The word 'kuala' has 5 letters.
+
+Q: What is the Roman numeral for 64?
+A: The Roman numeral for 64 is lxiv.
+
+Q: What number is the Roman numeral xiii?
+A: The Roman numeral xiii is the number 13.
+
+Q: What number is the Roman numeral dccxii?
+A: The Roman numeral dccxii is the number 712.
+
+Q: What is the Roman numeral for 982?
+A: The Roman numeral for 982 is cmlxxxii.
+
+Q: What is the Roman numeral for 28?
+A: The Roman numeral for 28 is xxviii.
+
+Q: What is the Roman numeral for 86?
+A: The Roman numeral for 86 is lxxxvi.
+
+Q: How do you sort 25, 13, and 4?
+A: In order, they are 4 13 25.
+
+Q: How do you sort 421, 113, and 628?
+A: In order, they are 113 421 628.
+
+Q: How do you sort 98, 86, and 675?
+A: In order, they are 86 98 675.
+
+Q: How do you sort 215, 759, and 537?
+A: In order, they are 215 537 759.
+
+Q: How do you sort 15, 5, and 10?
+A: In order, they are 5 10 15.
+
+Q: How do you sort 27, 18, and 14?
+A: In order, they are 14 18 27.
+
+Q: Which is bigger, 40 or 74?
+A: 74 is bigger than 40.
+
+Q: Is 76 bigger than 35?
+A: Yes, 76 is bigger than 35.
+
+Q: Which is bigger, 24 or 74?
+A: 74 is bigger than 24.
+
+Q: Which is bigger, 6 or 20?
+A: 20 is bigger than 6.
+
+Q: Is 182 bigger than 214?
+A: No, 214 is bigger than 182.
+
+Q: Is 259 bigger than 140?
+A: Yes, 259 is bigger than 140.
+
+Q: What is the first letter of 'salt'?
+A: The first letter of 'salt' is S.
+
+Q: What is the last letter of 'georgetown'?
+A: The last letter of 'georgetown' is N.
+
+Q: What is the first letter of 'ghana'?
+A: The first letter of 'ghana' is G.
+
+Q: What is the last letter of 'nouakchott'?
+A: The last letter of 'nouakchott' is T.
+
+Q: What is the last letter of 'khartoum'?
+A: The last letter of 'khartoum' is M.
+
+Q: What is the last letter of 'principe'?
+A: The last letter of 'principe' is E.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Sweden use?
+A: The currency of Sweden is the krona.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.

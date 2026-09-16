@@ -8031,3 +8031,16 @@ A: 68 minus 57 is 11.
 
 Q: How many letters does the word 'madon' have?
 A: The word 'beirut' has 5 letters.
+
+
+Q: What is double 38?
+A: Double 38 is 76.
+
+Q: How do you sort 21, 13, and 8?
+A: In order, they are 8 13 21.
+
+Q: What is double 36?
+A: Double 36 is 72.
+
+Q: How many letters does the word 'castle' have?
+A: The word 'candle' has 6 letters.

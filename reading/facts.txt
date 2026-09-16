@@ -511,3 +511,51 @@ A: Patricia is a co-writer of the popular radio broadcast show, The Aldrich Fami
 
 Q: What is Matthew Genitempo?
 A: Matthew Genitempo is an American photographer, living in Texas.
+
+Q: What is Bitbucket?
+A: Bitbucket is a Git-based source code repository hosting service owned by Atlassian.
+
+Q: What is Git Along, Little Dogies?
+A: Git Along, Little Dogies is a traditional cowboy ballad, also performed under the title Whoopie Ti Yi Yo.
+
+Q: What is Kernel-based Virtual Machine?
+A: Kernel-based Virtual Machine is a free and open-source virtualization module in the Linux kernel that allows the kernel to function as a hypervisor.
+
+Q: What is Booty Music?
+A: Booty Music is a song performed by the Florida-based crunk group Git Fresh .
+
+Q: What is Ghost in the Shell?
+A: Ghost in the Shell is a Japanese cyberpunk military science fiction media franchise that began with the eponymous manga series.
+
+Q: What is Mantis Bug Tracker?
+A: Mantis Bug Tracker is a free and open source, web-based bug tracking system.
+
+Q: What is Mercurial?
+A: Mercurial is a distributed revision control tool for software developers.
+
+Q: What is Forrest Goodluck?
+A: Forrest Goodluck is a Native American actor.
+
+Q: What is Hzin Zeneib Inshun?
+A: Hzin Zeneib Inshun is a monk and a martial artist who lived in the early Edo period.
+
+Q: What is Aurora Elvira Williams Baussa?
+A: Aurora Elvira Williams Baussa is a Chilean economist and politician affiliated with the Radical Party .
+
+Q: What is Francis Schaeffer?
+A: Francis Schaeffer is the first minister to be ordained in the new denomination .
+
+Q: What is Thomson?
+A: Thomson is a Type 209 submarine, 1400-l variant and referred to as the Thomson class.
+
+Q: What is Mesonauta, the flag cichlids,?
+A: Mesonauta, the flag cichlids, is a small genus of cichlids native to the Amazon, Orinoco, Essequibo, Paran and Paraguay basins in South America.
+
+Q: What is John Brad Bradbury?
+A: John Brad Bradbury is an English drummer and record producer.
+
+Q: What is Werner?
+A: Werner is an American scientist who studies human vision and its changes across the life span.
+
+Q: What is Chthamalia?
+A: Chthamalia is a genus of flowering plants in the dogbane family .
