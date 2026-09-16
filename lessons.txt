@@ -3727,3 +3727,110 @@ A: Half of 40 is 20.
 
 Q: What is double 30?
 A: Double 30 is 60.
+Q: What number is the Roman numeral cclxxxi?
+A: The Roman numeral cclxxxi is the number 281.
+
+Q: What is the Roman numeral for 516?
+A: The Roman numeral for 516 is dxvi.
+
+Q: What number is the Roman numeral xlii?
+A: The Roman numeral xlii is the number 42.
+
+Q: What is the Roman numeral for 85?
+A: The Roman numeral for 85 is lxxxv.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: What number is the Roman numeral lxxxv?
+A: The Roman numeral lxxxv is the number 85.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: What continent is Mongolia on?
+A: Mongolia is on the continent of Asia.
+
+Q: What continent is Mauritania on?
+A: Mauritania is on the continent of Africa.
+
+Q: What continent is South Africa on?
+A: South Africa is on the continent of Africa.
+
+Q: What continent is Laos on?
+A: Laos is on the continent of Asia.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What is the chemical symbol for plutonium?
+A: The chemical symbol for plutonium is Pu.
+
+Q: Which element has the chemical symbol He?
+A: He is the chemical symbol for helium.
+
+Q: What is the chemical symbol for carbon?
+A: The chemical symbol for carbon is C.
+
+Q: What is the chemical symbol for magnesium?
+A: The chemical symbol for magnesium is Mg.
+
+Q: What is the chemical symbol for carbon?
+A: The chemical symbol for carbon is C.
+
+Q: Which element has the chemical symbol U?
+A: U is the chemical symbol for uranium.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.

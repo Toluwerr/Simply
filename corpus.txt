@@ -6676,3 +6676,10 @@ A: The last letter of 'lazonkt' is A.
 
 Q: What is the Roman numeral for 1?
 A: The Roman numeral for 1 is ii.
+
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
