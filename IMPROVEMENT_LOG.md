@@ -885,3 +885,11 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.14 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, months 1.00, planets 1.00
 - self-portrait, asked "Who are you?": *"I am va programam."
 
+## Iteration 121 - IMPROVED
+- **when**: 2026-09-16T00:49:43Z
+- **train loss**: 0.2834 | **val loss**: 0.4354 | **run best**: 0.4354
+- **corpus**: 145,645 chars (+7 self-written examples)
+- **lr**: 0.0003 | **steps**: 200
+- **knowledge quiz**: avg 0.27 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, animals 1.00, units 1.00
+- self-portrait, asked "Who are you?": *"I am I a sala."
+

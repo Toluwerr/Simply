@@ -3102,3 +3102,128 @@ A: Double 22 is 44.
 
 Q: What is half of 28?
 A: Half of 28 is 14.
+Q: Which element has the chemical symbol Au?
+A: Au is the chemical symbol for gold.
+
+Q: What is the chemical symbol for cadmium?
+A: The chemical symbol for cadmium is Cd.
+
+Q: Which element has the chemical symbol Hf?
+A: Hf is the chemical symbol for hafnium.
+
+Q: Which element has the chemical symbol Au?
+A: Au is the chemical symbol for gold.
+
+Q: Which element has the chemical symbol Na?
+A: Na is the chemical symbol for sodium.
+
+Q: What is the chemical symbol for lanthanum?
+A: The chemical symbol for lanthanum is La.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 1 in words?
+A: 1 in words is one.
+
+Q: How do you write 3 in words?
+A: 3 in words is three.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What continent is the United Kingdom on?
+A: the United Kingdom is on the continent of Europe.
+
+Q: What continent is Cameroon on?
+A: Cameroon is on the continent of Africa.
+
+Q: What continent is Sri Lanka on?
+A: Sri Lanka is on the continent of Asia.
+
+Q: What continent is Turkmenistan on?
+A: Turkmenistan is on the continent of Asia.
+
+Q: What continent is Micronesia on?
+A: Micronesia is on the continent of Oceania.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: How many oceans are there?
+A: There are 5 oceans.
+
+Q: What is the biggest planet?
+A: Jupiter is the biggest planet.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What currency does Slovakia use?
+A: The currency of Slovakia is the euro.
+
+Q: What currency does Italy use?
+A: The currency of Italy is the euro.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does Mauritius use?
+A: The currency of Mauritius is the rupee.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
