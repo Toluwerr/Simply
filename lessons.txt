@@ -5494,3 +5494,128 @@ A: The word 'monkey' has 6 letters.
 
 Q: How many letters does the word 'tall' have?
 A: The word 'tall' has 4 letters.
+Q: Which is bigger, 54 or 41?
+A: 54 is bigger than 41.
+
+Q: Which is bigger, 33 or 55?
+A: 55 is bigger than 33.
+
+Q: Is 10 bigger than 4?
+A: Yes, 10 is bigger than 4.
+
+Q: Is 71 bigger than 20?
+A: Yes, 71 is bigger than 20.
+
+Q: Which is bigger, 4 or 10?
+A: 10 is bigger than 4.
+
+Q: Is 3 bigger than 6?
+A: No, 6 is bigger than 3.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What is 12 times 5?
+A: 12 times 5 is 60.
+
+Q: What is 10 plus 3?
+A: 10 plus 3 is 13.
+
+Q: What is 907 minus 116?
+A: 907 minus 116 is 791.
+
+Q: What is 2 times 5?
+A: 2 times 5 is 10.
+
+Q: What is 18 minus 2?
+A: 18 minus 2 is 16.
+
+Q: What is 2 plus 11?
+A: 2 plus 11 is 13.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by ones from 2 to 5?
+A: Counting by ones gives 2 3 4 5.
+
+Q: Can you count by ones from 24 to 27?
+A: Counting by ones gives 24 25 26 27.
+
+Q: Can you count by twos from 12 to 20?
+A: Counting by twos gives 12 14 16 18 20.
+
+Q: Can you count by ones from 16 to 21?
+A: Counting by ones gives 16 17 18 19 20 21.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: What is double 28?
+A: Double 28 is 56.
+
+Q: What is double 3?
+A: Double 3 is 6.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is half of 14?
+A: Half of 14 is 7.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is the first letter of 'vientiane'?
+A: The first letter of 'vientiane' is V.
+
+Q: What is the last letter of 'ulaanbaatar'?
+A: The last letter of 'ulaanbaatar' is R.
+
+Q: What is the last letter of 'japan'?
+A: The last letter of 'japan' is N.
+
+Q: What is the first letter of 'still'?
+A: The first letter of 'still' is S.
+
+Q: What is the last letter of 'light'?
+A: The last letter of 'light' is T.
+
+Q: What is the first letter of 'arabia'?
+A: The first letter of 'arabia' is A.
+
+Q: How do you sort 518, 360, and 705?
+A: In order, they are 360 518 705.
+
+Q: How do you sort 505, 201, and 778?
+A: In order, they are 201 505 778.
+
+Q: How do you sort 121, 887, and 852?
+A: In order, they are 121 852 887.
+
+Q: How do you sort 17, 21, and 7?
+A: In order, they are 7 17 21.
+
+Q: How do you sort 783, 791, and 402?
+A: In order, they are 402 783 791.
+
+Q: How do you sort 26, 7, and 4?
+A: In order, they are 4 7 26.

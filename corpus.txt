@@ -6784,3 +6784,7 @@ A: Spacta is on the continent of Europe.
 
 Q: How many letters does the word 'angola' have?
 A: The word 'angola' has 6 letters.
+
+
+Q: What is the last letter of 'light'?
+A: The last letter of 'lat' is T.
