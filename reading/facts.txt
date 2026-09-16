@@ -559,3 +559,51 @@ A: Werner is an American scientist who studies human vision and its changes acro
 
 Q: What is Chthamalia?
 A: Chthamalia is a genus of flowering plants in the dogbane family .
+
+Q: What is Artificial intelligence?
+A: Artificial intelligence is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning.
+
+Q: What is Multimodal learning?
+A: Multimodal learning is a type of deep learning that integrates and processes multiple types of data, referred to as modalities, such as text, audio.
+
+Q: What is More broadly, compute?
+A: More broadly, compute is the computational power or resources necessary for a computer or computer program to function.
+
+Q: What is Boosting?
+A: Boosting is a popular and effective technique used in supervised learning for both classification and regression tasks.
+
+Q: What is Juman Malouf?
+A: Juman Malouf is a Lebanese fashion designer, costume designer, illustrator, and author.
+
+Q: What is Liberation at Riverton?
+A: Liberation at Riverton is an adventure published by Timeline in 1982 for the post-apocalyptic role-playing game The Morrow Project.
+
+Q: What is Moriah Masonic Temple?
+A: Moriah Masonic Temple is a historic building in Kadoka, South Dakota.
+
+Q: What is Andrea Carlo Lucchesi?
+A: Andrea Carlo Lucchesi is an Anglo-Italian sculptor, born and trained in London.
+
+Q: What is William Shirreffs?
+A: William Shirreffs is a Scottish sculptor in the 19th century.
+
+Q: What is Lily of the Valley?
+A: Lily of the Valley is the debut studio album by Irish alternative rock band Funeral Suits.
+
+Q: What is Davy Kirkpatrick?
+A: Davy Kirkpatrick is an American astronomer at the Infrared Processing and Analysis Center at the California Institute of Technology in Pasadena.
+
+Q: What is Christina Henriette Jerney Kaagman?
+A: Christina Henriette Jerney Kaagman is a Dutch singer-musician.
+
+Q: What is Access to the lake?
+A: Access to the lake is a public launch located on Highway 588 and many independent tourist resorts.
+
+Q: What is Reginald Lee Harris?
+A: Reginald Lee Harris is a North Carolina politician who served as Speaker of the North Carolina House of Representatives in 1933.
+
+Q: What is Carrick Furnace?
+A: Carrick Furnace is a historic iron furnace located at Metal Township in Franklin County, Pennsylvania.
+
+Q: What is Herodian architecture?
+A: Herodian architecture is a style of classical architecture characteristic of the numerous building projects undertaken during the reign of Herod the G.

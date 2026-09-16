@@ -18575,3 +18575,110 @@ A: The capital of Hungary is Budapest.
 
 Q: What is the capital of Norway?
 A: The capital of Norway is Oslo.
+Q: What is the capital of Costa Rica?
+A: The capital of Costa Rica is San Jose.
+
+Q: What is the capital of Colombia?
+A: The capital of Colombia is Bogota.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is the capital of Portugal?
+A: The capital of Portugal is Lisbon.
+
+Q: What is the capital of Liberia?
+A: The capital of Liberia is Monrovia.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: How many letters does the word 'lazy' have?
+A: The word 'lazy' has 4 letters.
+
+Q: How many letters does the word 'quetzal' have?
+A: The word 'quetzal' has 7 letters.
+
+Q: How many letters does the word 'bromine' have?
+A: The word 'bromine' has 7 letters.
+
+Q: How many letters does the word 'praia' have?
+A: The word 'praia' has 5 letters.
+
+Q: How many letters does the word 'virginia' have?
+A: The word 'virginia' has 8 letters.
+
+Q: How many letters does the word 'nassau' have?
+A: The word 'nassau' has 6 letters.
+
+Q: What number is the Roman numeral lxii?
+A: The Roman numeral lxii is the number 62.
+
+Q: What number is the Roman numeral dccxlvii?
+A: The Roman numeral dccxlvii is the number 747.
+
+Q: What is the Roman numeral for 15?
+A: The Roman numeral for 15 is xv.
+
+Q: What is the Roman numeral for 9?
+A: The Roman numeral for 9 is ix.
+
+Q: What number is the Roman numeral lxxi?
+A: The Roman numeral lxxi is the number 71.
+
+Q: What is the Roman numeral for 999?
+A: The Roman numeral for 999 is cmxcix.
+
+Q: How do you sort 25, 13, and 3?
+A: In order, they are 3 13 25.
+
+Q: How do you sort 720, 909, and 308?
+A: In order, they are 308 720 909.
+
+Q: How do you sort 21, 364, and 469?
+A: In order, they are 21 364 469.
+
+Q: How do you sort 769, 185, and 794?
+A: In order, they are 185 769 794.
+
+Q: How do you sort 11, 13, and 19?
+A: In order, they are 11 13 19.
+
+Q: How do you sort 257, 123, and 489?
+A: In order, they are 123 257 489.
+
+Q: What is the first letter of 'technetium'?
+A: The first letter of 'technetium' is T.
+
+Q: What is the last letter of 'moon'?
+A: The last letter of 'moon' is N.
+
+Q: What is the first letter of 'baghdad'?
+A: The first letter of 'baghdad' is B.
+
+Q: What is the last letter of 'ankara'?
+A: The last letter of 'ankara' is A.
+
+Q: What is the first letter of 'papua'?
+A: The first letter of 'papua' is P.
+
+Q: What is the last letter of 'brussels'?
+A: The last letter of 'brussels' is S.
+
+Q: Which element has the chemical symbol Cs?
+A: Cs is the chemical symbol for cesium.
+
+Q: Which element has the chemical symbol Se?
+A: Se is the chemical symbol for selenium.
+
+Q: What is the chemical symbol for nitrogen?
+A: The chemical symbol for nitrogen is N.
+
+Q: What is the chemical symbol for neon?
+A: The chemical symbol for neon is Ne.
+
+Q: Which element has the chemical symbol Al?
+A: Al is the chemical symbol for aluminium.
+
+Q: What is the chemical symbol for zirconium?
+A: The chemical symbol for zirconium is Zr.
