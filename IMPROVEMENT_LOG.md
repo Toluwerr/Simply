@@ -1294,3 +1294,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.22 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, animals 1.00, records 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny Afares on ar thanus the pro."
 
+## Iteration 165 - NO_GAIN
+- **when**: 2026-09-16T17:21:19Z
+- **train loss**: 0.7198 | **val loss**: 0.3902 | **run best**: 0.3853
+- **corpus**: 153,608 chars (+3 self-written examples)
+- **internet reading**: +30 articles, +15 facts (120 read all-time)
+- **lr**: 0.0004 | **steps**: 200
+- **knowledge quiz**: avg 0.17 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: opposites 1.00, animals 1.00, months 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny Amectical to the meadow and found a berry basket. A soft wind was blowing. It was a good day for an"
+

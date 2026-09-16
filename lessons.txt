@@ -8332,3 +8332,128 @@ A: The capital of Lithuania is Vilnius.
 
 Q: What is the capital of Qatar?
 A: The capital of Qatar is Doha.
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 22 in words?
+A: 22 in words is twenty-two.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: Which is bigger, 17 or 12?
+A: 17 is bigger than 12.
+
+Q: Which is bigger, 381 or 326?
+A: 381 is bigger than 326.
+
+Q: Which is bigger, 801 or 469?
+A: 801 is bigger than 469.
+
+Q: Is 658 bigger than 955?
+A: No, 955 is bigger than 658.
+
+Q: Which is bigger, 979 or 438?
+A: 979 is bigger than 438.
+
+Q: Which is bigger, 71 or 61?
+A: 71 is bigger than 61.
+
+Q: What is 2 times 8?
+A: 2 times 8 is 16.
+
+Q: What is 21 plus 62?
+A: 21 plus 62 is 83.
+
+Q: What is 200 plus 85?
+A: 200 plus 85 is 285.
+
+Q: What is 471 plus 762?
+A: 471 plus 762 is 1233.
+
+Q: What is 622 plus 862?
+A: 622 plus 862 is 1484.
+
+Q: What is 42 minus 40?
+A: 42 minus 40 is 2.
+
+Q: Can you count by twos from 14 to 18?
+A: Counting by twos gives 14 16 18.
+
+Q: Can you count by ones from 17 to 19?
+A: Counting by ones gives 17 18 19.
+
+Q: Can you count by twos from 22 to 28?
+A: Counting by twos gives 22 24 26 28.
+
+Q: Can you count by twos from 36 to 44?
+A: Counting by twos gives 36 38 40 42 44.
+
+Q: Can you count by fives from 15 to 30?
+A: Counting by fives gives 15 20 25 30.
+
+Q: Can you count by twos from 12 to 18?
+A: Counting by twos gives 12 14 16 18.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is double 9?
+A: Double 9 is 18.
+
+Q: What is double 10?
+A: Double 10 is 20.
+
+Q: What is double 5?
+A: Double 5 is 10.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is half of 58?
+A: Half of 58 is 29.
+
+Q: How do you sort 593, 248, and 257?
+A: In order, they are 248 257 593.
+
+Q: How do you sort 43, 86, and 737?
+A: In order, they are 43 86 737.
+
+Q: How do you sort 21, 24, and 18?
+A: In order, they are 18 21 24.
+
+Q: How do you sort 378, 942, and 588?
+A: In order, they are 378 588 942.
+
+Q: How do you sort 13, 8, and 23?
+A: In order, they are 8 13 23.
+
+Q: How do you sort 3, 11, and 26?
+A: In order, they are 3 11 26.
+
+Q: What is the capital of Tanzania?
+A: The capital of Tanzania is Dodoma.
+
+Q: What is the capital of Mauritania?
+A: The capital of Mauritania is Nouakchott.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+
+Q: What is the capital of Kyrgyzstan?
+A: The capital of Kyrgyzstan is Bishkek.
+
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.

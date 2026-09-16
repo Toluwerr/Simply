@@ -1,0 +1,8 @@
+Q: How much is 55 plus 65?
+A: 55 plus 65 is 120.
+
+Q: What is 29 minus 12?
+A: 29 minus 12 is 17.
+
+Q: Which is bigger, 96 or 86?
+A: 96 is bigger than 86.
