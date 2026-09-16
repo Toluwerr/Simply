@@ -7868,3 +7868,128 @@ A: No, 726 is bigger than 402.
 
 Q: Is 50 bigger than 76?
 A: No, 76 is bigger than 50.
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 59 in words?
+A: 59 in words is fifty-nine.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
+
+Q: Which element has the chemical symbol Sb?
+A: Sb is the chemical symbol for antimony.
+
+Q: Which element has the chemical symbol Mn?
+A: Mn is the chemical symbol for manganese.
+
+Q: Which element has the chemical symbol Hf?
+A: Hf is the chemical symbol for hafnium.
+
+Q: What is the chemical symbol for dysprosium?
+A: The chemical symbol for dysprosium is Dy.
+
+Q: What is the chemical symbol for holmium?
+A: The chemical symbol for holmium is Ho.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: How do you sort 2, 1, and 27?
+A: In order, they are 1 2 27.
+
+Q: How do you sort 891, 497, and 448?
+A: In order, they are 448 497 891.
+
+Q: How do you sort 20, 21, and 13?
+A: In order, they are 13 20 21.
+
+Q: How do you sort 17, 5, and 23?
+A: In order, they are 5 17 23.
+
+Q: How do you sort 228, 416, and 677?
+A: In order, they are 228 416 677.
+
+Q: How do you sort 222, 302, and 293?
+A: In order, they are 222 293 302.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: What is double 12?
+A: Double 12 is 24.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is double 15?
+A: Double 15 is 30.
+
+Q: What is double 52?
+A: Double 52 is 104.
+
+Q: What is double 51?
+A: Double 51 is 102.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is North Korea on?
+A: North Korea is on the continent of Asia.
+
+Q: What continent is Colombia on?
+A: Colombia is on the continent of South America.
+
+Q: What continent is Oman on?
+A: Oman is on the continent of Asia.
+
+Q: What continent is Belarus on?
+A: Belarus is on the continent of Europe.
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.

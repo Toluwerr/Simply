@@ -1258,3 +1258,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.13 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, months 1.00, letters 1.00
 - self-portrait, asked "Who are you?": *"I am Simply!"
 
+## Iteration 161 - NO_GAIN
+- **when**: 2026-09-16T17:19:29Z
+- **train loss**: 0.7919 | **val loss**: 0.4132 | **run best**: 0.3853
+- **corpus**: 152,844 chars (+1 self-written examples)
+- **internet reading**: +30 articles, +15 facts (120 read all-time)
+- **lr**: 0.0008 | **steps**: 200
+- **knowledge quiz**: avg 0.22 | weakest: compare 0.00, sort 0.00, double_half 0.00 | strongest: animals 1.00, units 1.00, months 1.00
+- self-portrait, asked "Who are you?": *"I wat mathola pump cheandy is the movan."
+
