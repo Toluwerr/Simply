@@ -9037,3 +9037,19 @@ A: 1 times 10 is 100.
 
 Q: What is the first letter of 'suriname'?
 A: The first letter of 'suvalu' is S.
+
+
+Q: Can you count by fives from 5 to 20?
+A: Counting by fives gives 5 10 15 20 25.
+
+Q: Which element has the chemical symbol Er?
+A: Er is the chemical symbol for erbium.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide' means not work.
+
+Q: How many letters does the word 'still'?
+A: The word 'razyo' has 5 letters.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.

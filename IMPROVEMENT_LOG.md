@@ -2405,3 +2405,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: val_loss 0.6750, was 0.6823
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-style that improving It once."
 
+## Iteration 284 - NO_GAIN
+- **when**: 2026-09-16T23:50:37Z
+- **train loss**: 1.1062 | **val loss**: 0.6943 | **run best**: 0.6750
+- **corpus**: 199,135 chars (+5 self-written examples)
+- **internet reading**: +30 articles, +15 facts (480 read all-time)
+- **lr**: 0.0015 | **steps**: 150
+- **knowledge quiz**: avg 0.35 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: opposites 1.00, animals 1.00, months 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny I better through the world Illinois going."
+

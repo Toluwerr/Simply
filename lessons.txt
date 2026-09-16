@@ -21911,3 +21911,110 @@ A: A sheep says 'baa'.
 
 Q: What sound does a bee make?
 A: A bee says 'buzz'.
+Q: What is 11 times 19?
+A: 11 times 19 is 209.
+
+Q: What is 15 times 15?
+A: 15 times 15 is 225.
+
+Q: What is 58 plus 10?
+A: 58 plus 10 is 68.
+
+Q: What is 86 plus 49?
+A: 86 plus 49 is 135.
+
+Q: What is 34 minus 21?
+A: 34 minus 21 is 13.
+
+Q: What is 11 times 15?
+A: 11 times 15 is 165.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: Which is bigger, 674 or 865?
+A: 865 is bigger than 674.
+
+Q: Which is bigger, 8 or 9?
+A: 9 is bigger than 8.
+
+Q: Is 520 bigger than 219?
+A: Yes, 520 is bigger than 219.
+
+Q: Which is bigger, 86 or 74?
+A: 86 is bigger than 74.
+
+Q: Which is bigger, 609 or 277?
+A: 609 is bigger than 277.
+
+Q: Is 968 bigger than 922?
+A: Yes, 968 is bigger than 922.
+
+Q: What is the first letter of 'neigh'?
+A: The first letter of 'neigh' is N.
+
+Q: What is the last letter of 'slovakia'?
+A: The last letter of 'slovakia' is A.
+
+Q: What is the first letter of 'kenya'?
+A: The first letter of 'kenya' is K.
+
+Q: What is the last letter of 'gold'?
+A: The last letter of 'gold' is D.
+
+Q: What is the first letter of 'iridium'?
+A: The first letter of 'iridium' is I.
+
+Q: What is the last letter of 'candle'?
+A: The last letter of 'candle' is E.
+
+Q: What is the chemical symbol for helium?
+A: The chemical symbol for helium is He.
+
+Q: What is the chemical symbol for arsenic?
+A: The chemical symbol for arsenic is As.
+
+Q: What is the chemical symbol for nickel?
+A: The chemical symbol for nickel is Ni.
+
+Q: What is the chemical symbol for erbium?
+A: The chemical symbol for erbium is Er.
+
+Q: Which element has the chemical symbol Cs?
+A: Cs is the chemical symbol for cesium.
+
+Q: What is the chemical symbol for bromine?
+A: The chemical symbol for bromine is Br.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 22 in words?
+A: 22 in words is twenty-two.
+
+Q: How do you write 88 in words?
+A: 88 in words is eighty-eight.
