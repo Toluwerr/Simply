@@ -4066,3 +4066,128 @@ A: The Roman numeral cli is the number 151.
 
 Q: What number is the Roman numeral x?
 A: The Roman numeral x is the number 10.
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you write 35 in words?
+A: 35 in words is thirty-five.
+
+Q: How do you write 88 in words?
+A: 88 in words is eighty-eight.
+
+Q: Which is bigger, 390 or 292?
+A: 390 is bigger than 292.
+
+Q: Which is bigger, 48 or 99?
+A: 99 is bigger than 48.
+
+Q: Which is bigger, 7 or 11?
+A: 11 is bigger than 7.
+
+Q: Which is bigger, 30 or 91?
+A: 91 is bigger than 30.
+
+Q: Which is bigger, 4 or 12?
+A: 12 is bigger than 4.
+
+Q: Which is bigger, 14 or 7?
+A: 14 is bigger than 7.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What is 4 minus 1?
+A: 4 minus 1 is 3.
+
+Q: What is 14 times 12?
+A: 14 times 12 is 168.
+
+Q: What is 945 minus 538?
+A: 945 minus 538 is 407.
+
+Q: What is 75 plus 30?
+A: 75 plus 30 is 105.
+
+Q: What is 7 plus 6?
+A: 7 plus 6 is 13.
+
+Q: What is 5 times 8?
+A: 5 times 8 is 40.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by ones from 9 to 13?
+A: Counting by ones gives 9 10 11 12 13.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by fives from 5 to 20?
+A: Counting by fives gives 5 10 15 20.
+
+Q: Can you count by twos from 38 to 42?
+A: Counting by twos gives 38 40 42.
+
+Q: Can you count by ones from 6 to 8?
+A: Counting by ones gives 6 7 8.
+
+Q: What is the first letter of 'bangladesh'?
+A: The first letter of 'bangladesh' is B.
+
+Q: What is the first letter of 'libreville'?
+A: The first letter of 'libreville' is L.
+
+Q: What is the first letter of 'hanoi'?
+A: The first letter of 'hanoi' is H.
+
+Q: What is the first letter of 'conakry'?
+A: The first letter of 'conakry' is C.
+
+Q: What is the last letter of 'australia'?
+A: The last letter of 'australia' is A.
+
+Q: What is the first letter of 'florida'?
+A: The first letter of 'florida' is F.
+
+Q: How do you sort 38, 43, and 41?
+A: In order, they are 38 41 43.
+
+Q: How do you sort 17, 21, and 20?
+A: In order, they are 17 20 21.
+
+Q: How do you sort 915, 454, and 426?
+A: In order, they are 426 454 915.
+
+Q: How do you sort 892, 683, and 676?
+A: In order, they are 676 683 892.
+
+Q: How do you sort 17, 11, and 25?
+A: In order, they are 11 17 25.
+
+Q: How do you sort 965, 373, and 853?
+A: In order, they are 373 853 965.
