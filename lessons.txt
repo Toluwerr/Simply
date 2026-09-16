@@ -8689,3 +8689,128 @@ A: In order, they are 14 16 26.
 
 Q: How do you sort 22, 12, and 8?
 A: In order, they are 8 12 22.
+Q: Can you count by fives from 35 to 60?
+A: Counting by fives gives 35 40 45 50 55 60.
+
+Q: Can you count by ones from 7 to 9?
+A: Counting by ones gives 7 8 9.
+
+Q: Can you count by fives from 35 to 60?
+A: Counting by fives gives 35 40 45 50 55 60.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by ones from 11 to 14?
+A: Counting by ones gives 11 12 13 14.
+
+Q: Can you count by twos from 30 to 40?
+A: Counting by twos gives 30 32 34 36 38 40.
+
+Q: What continent is Bahrain on?
+A: Bahrain is on the continent of Asia.
+
+Q: What continent is Laos on?
+A: Laos is on the continent of Asia.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What continent is Togo on?
+A: Togo is on the continent of Africa.
+
+Q: What continent is Singapore on?
+A: Singapore is on the continent of Asia.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: How many letters does the word 'smart' have?
+A: The word 'smart' has 5 letters.
+
+Q: How many letters does the word 'buzz' have?
+A: The word 'buzz' has 4 letters.
+
+Q: How many letters does the word 'rubidium' have?
+A: The word 'rubidium' has 8 letters.
+
+Q: How many letters does the word 'burundi' have?
+A: The word 'burundi' has 7 letters.
+
+Q: How many letters does the word 'watchful' have?
+A: The word 'watchful' has 8 letters.
+
+Q: How many letters does the word 'mark' have?
+A: The word 'mark' has 4 letters.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 88 in words?
+A: 88 in words is eighty-eight.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: What is 7 times 4?
+A: 7 times 4 is 28.
+
+Q: What is 8 times 6?
+A: 8 times 6 is 48.
+
+Q: What is 10 plus 1?
+A: 10 plus 1 is 11.
+
+Q: What is 89 plus 62?
+A: 89 plus 62 is 151.
+
+Q: What is 389 plus 957?
+A: 389 plus 957 is 1346.
+
+Q: What is 5 times 8?
+A: 5 times 8 is 40.
+
+Q: What is the first letter of 'yemen'?
+A: The first letter of 'yemen' is Y.
+
+Q: What is the first letter of 'vanuatu'?
+A: The first letter of 'vanuatu' is V.
+
+Q: What is the last letter of 'skopje'?
+A: The last letter of 'skopje' is E.
+
+Q: What is the first letter of 'male'?
+A: The first letter of 'male' is M.
+
+Q: What is the last letter of 'riyadh'?
+A: The last letter of 'riyadh' is H.
+
+Q: What is the last letter of 'north'?
+A: The last letter of 'north' is H.

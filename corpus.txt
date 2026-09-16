@@ -7074,3 +7074,13 @@ A: Counting by tens gives 10 20 30 40 40 60.
 
 Q: Can you count by fives from 25 to 35?
 A: Counting by fives gives 25 30 35.
+
+
+Q: Which element has the chemical symbol Au?
+A: Br is the chemical symbol for gold.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: What continent is Russia on?
+A: Australia is on the continent of Europe.
