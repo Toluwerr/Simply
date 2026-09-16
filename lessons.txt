@@ -6583,3 +6583,110 @@ A: Mongolia is on the continent of Asia.
 
 Q: What continent is Australia on?
 A: Australia is on the continent of Australia.
+Q: What is the Roman numeral for 12?
+A: The Roman numeral for 12 is xii.
+
+Q: What is the Roman numeral for 590?
+A: The Roman numeral for 590 is dxc.
+
+Q: What is the Roman numeral for 9?
+A: The Roman numeral for 9 is ix.
+
+Q: What is the Roman numeral for 4?
+A: The Roman numeral for 4 is iv.
+
+Q: What number is the Roman numeral dcxxxiii?
+A: The Roman numeral dcxxxiii is the number 633.
+
+Q: What number is the Roman numeral lxxiv?
+A: The Roman numeral lxxiv is the number 74.
+
+Q: What continent is Lesotho on?
+A: Lesotho is on the continent of Africa.
+
+Q: What continent is Hungary on?
+A: Hungary is on the continent of Europe.
+
+Q: What continent is Mongolia on?
+A: Mongolia is on the continent of Asia.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: What continent is Sudan on?
+A: Sudan is on the continent of Africa.
+
+Q: Which element has the chemical symbol Ho?
+A: Ho is the chemical symbol for holmium.
+
+Q: What is the chemical symbol for thulium?
+A: The chemical symbol for thulium is Tm.
+
+Q: What is the chemical symbol for oxygen?
+A: The chemical symbol for oxygen is O.
+
+Q: What is the chemical symbol for nickel?
+A: The chemical symbol for nickel is Ni.
+
+Q: Which element has the chemical symbol Hg?
+A: Hg is the chemical symbol for mercury.
+
+Q: Which element has the chemical symbol He?
+A: He is the chemical symbol for helium.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Is 18 bigger than 1?
+A: Yes, 18 is bigger than 1.
+
+Q: Is 77 bigger than 24?
+A: Yes, 77 is bigger than 24.
+
+Q: Is 20 bigger than 17?
+A: Yes, 20 is bigger than 17.
+
+Q: Which is bigger, 383 or 529?
+A: 529 is bigger than 383.
+
+Q: Is 41 bigger than 23?
+A: Yes, 41 is bigger than 23.
+
+Q: Which is bigger, 55 or 95?
+A: 95 is bigger than 55.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
