@@ -11009,3 +11009,128 @@ A: Half of 10 is 5.
 
 Q: What is double 29?
 A: Double 29 is 58.
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What number is the Roman numeral xciv?
+A: The Roman numeral xciv is the number 94.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What number is the Roman numeral xxxiii?
+A: The Roman numeral xxxiii is the number 33.
+
+Q: What is the Roman numeral for 9?
+A: The Roman numeral for 9 is ix.
+
+Q: What number is the Roman numeral xxix?
+A: The Roman numeral xxix is the number 29.
+
+Q: How many letters does the word 'kip' have?
+A: The word 'kip' has 3 letters.
+
+Q: How many letters does the word 'poland' have?
+A: The word 'poland' has 6 letters.
+
+Q: How many letters does the word 'aires' have?
+A: The word 'aires' has 5 letters.
+
+Q: How many letters does the word 'portugal' have?
+A: The word 'portugal' has 8 letters.
+
+Q: How many letters does the word 'japan' have?
+A: The word 'japan' has 5 letters.
+
+Q: How many letters does the word 'happy' have?
+A: The word 'happy' has 5 letters.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 22 in words?
+A: 22 in words is twenty-two.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 20 in words?
+A: 20 in words is twenty.
+
+Q: Which is bigger, 104 or 322?
+A: 322 is bigger than 104.
+
+Q: Is 894 bigger than 765?
+A: Yes, 894 is bigger than 765.
+
+Q: Which is bigger, 44 or 48?
+A: 48 is bigger than 44.
+
+Q: Which is bigger, 568 or 213?
+A: 568 is bigger than 213.
+
+Q: Which is bigger, 4 or 5?
+A: 5 is bigger than 4.
+
+Q: Is 669 bigger than 178?
+A: Yes, 669 is bigger than 178.
+
+Q: How do you sort 33, 913, and 471?
+A: In order, they are 33 471 913.
+
+Q: How do you sort 26, 2, and 13?
+A: In order, they are 2 13 26.
+
+Q: How do you sort 18, 26, and 22?
+A: In order, they are 18 22 26.
+
+Q: How do you sort 327, 685, and 966?
+A: In order, they are 327 685 966.
+
+Q: How do you sort 975, 41, and 449?
+A: In order, they are 41 449 975.
+
+Q: How do you sort 19, 27, and 7?
+A: In order, they are 7 19 27.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: How many continents are there?
+A: There are 7 continents.
