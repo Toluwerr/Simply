@@ -7657,3 +7657,13 @@ A: The word 'zebra' has 5 letters.
 
 Q: How many letters does the word 'raid' have?
 A: The word 'rapid' has 4 letters.
+
+
+Q: What is the Roman numeral for 1?
+A: The Roman numeral for 1 is i.
+
+Q: What is the Roman numeral for 10?
+A: The Roman numeral for 10 is xv.
+
+Q: What is the chemical symbol for oxygen?
+A: The chemical symbol for oxygen is O.

@@ -15203,3 +15203,110 @@ A: The word 'germany' has 7 letters.
 
 Q: How many letters does the word 'australia' have?
 A: The word 'australia' has 9 letters.
+Q: What is the capital of Norway?
+A: The capital of Norway is Oslo.
+
+Q: What is the capital of the Seychelles?
+A: The capital of the Seychelles is Victoria.
+
+Q: What is the capital of Fiji?
+A: The capital of Fiji is Suva.
+
+Q: What is the capital of Bolivia?
+A: The capital of Bolivia is La Paz.
+
+Q: What is the capital of Sweden?
+A: The capital of Sweden is Stockholm.
+
+Q: What is the capital of Mauritania?
+A: The capital of Mauritania is Nouakchott.
+
+Q: How many letters does the word 'san' have?
+A: The word 'san' has 3 letters.
+
+Q: How many letters does the word 'malta' have?
+A: The word 'malta' has 5 letters.
+
+Q: How many letters does the word 'lome' have?
+A: The word 'lome' has 4 letters.
+
+Q: How many letters does the word 'hydrogen' have?
+A: The word 'hydrogen' has 8 letters.
+
+Q: How many letters does the word 'ocean' have?
+A: The word 'ocean' has 5 letters.
+
+Q: How many letters does the word 'fragile' have?
+A: The word 'fragile' has 7 letters.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What number is the Roman numeral xlv?
+A: The Roman numeral xlv is the number 45.
+
+Q: What is the Roman numeral for 88?
+A: The Roman numeral for 88 is lxxxviii.
+
+Q: What number is the Roman numeral dccliii?
+A: The Roman numeral dccliii is the number 753.
+
+Q: What is the Roman numeral for 775?
+A: The Roman numeral for 775 is dcclxxv.
+
+Q: What number is the Roman numeral ccclx?
+A: The Roman numeral ccclx is the number 360.
+
+Q: How do you sort 234, 425, and 574?
+A: In order, they are 234 425 574.
+
+Q: How do you sort 131, 425, and 468?
+A: In order, they are 131 425 468.
+
+Q: How do you sort 753, 967, and 847?
+A: In order, they are 753 847 967.
+
+Q: How do you sort 23, 24, and 5?
+A: In order, they are 5 23 24.
+
+Q: How do you sort 120, 614, and 715?
+A: In order, they are 120 614 715.
+
+Q: How do you sort 303, 418, and 948?
+A: In order, they are 303 418 948.
+
+Q: Which is bigger, 46 or 40?
+A: 46 is bigger than 40.
+
+Q: Is 55 bigger than 23?
+A: Yes, 55 is bigger than 23.
+
+Q: Which is bigger, 46 or 34?
+A: 46 is bigger than 34.
+
+Q: Is 2 bigger than 4?
+A: No, 4 is bigger than 2.
+
+Q: Which is bigger, 62 or 68?
+A: 68 is bigger than 62.
+
+Q: Which is bigger, 61 or 50?
+A: 61 is bigger than 50.
+
+Q: What is the last letter of 'dog'?
+A: The last letter of 'dog' is G.
+
+Q: What is the first letter of 'old'?
+A: The first letter of 'old' is O.
+
+Q: What is the last letter of 'shekel'?
+A: The last letter of 'shekel' is L.
+
+Q: What is the last letter of 'tidy'?
+A: The last letter of 'tidy' is Y.
+
+Q: What is the first letter of 'male'?
+A: The first letter of 'male' is M.
+
+Q: What is the last letter of 'bratislava'?
+A: The last letter of 'bratislava' is A.
