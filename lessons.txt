@@ -15560,3 +15560,110 @@ A: The Roman numeral for 47 is xlvii.
 
 Q: What is the Roman numeral for 1?
 A: The Roman numeral for 1 is i.
+Q: What is the chemical symbol for palladium?
+A: The chemical symbol for palladium is Pd.
+
+Q: Which element has the chemical symbol Gd?
+A: Gd is the chemical symbol for gadolinium.
+
+Q: What is the chemical symbol for radon?
+A: The chemical symbol for radon is Rn.
+
+Q: Which element has the chemical symbol Hf?
+A: Hf is the chemical symbol for hafnium.
+
+Q: What is the chemical symbol for palladium?
+A: The chemical symbol for palladium is Pd.
+
+Q: What is the chemical symbol for tungsten?
+A: The chemical symbol for tungsten is W.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
+
+Q: What is the capital of Palau?
+A: The capital of Palau is Ngerulmud.
+
+Q: What is the capital of Saudi Arabia?
+A: The capital of Saudi Arabia is Riyadh.
+
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of Norway?
+A: The capital of Norway is Oslo.
+
+Q: What number is the Roman numeral dccliii?
+A: The Roman numeral dccliii is the number 753.
+
+Q: What is the Roman numeral for 7?
+A: The Roman numeral for 7 is vii.
+
+Q: What is the Roman numeral for 83?
+A: The Roman numeral for 83 is lxxxiii.
+
+Q: What number is the Roman numeral iii?
+A: The Roman numeral iii is the number 3.
+
+Q: What is the Roman numeral for 209?
+A: The Roman numeral for 209 is ccix.
+
+Q: What is the Roman numeral for 3?
+A: The Roman numeral for 3 is iii.
+
+Q: Is 926 bigger than 247?
+A: Yes, 926 is bigger than 247.
+
+Q: Is 513 bigger than 688?
+A: No, 688 is bigger than 513.
+
+Q: Which is bigger, 35 or 18?
+A: 35 is bigger than 18.
+
+Q: Which is bigger, 14 or 4?
+A: 14 is bigger than 4.
+
+Q: Which is bigger, 6 or 7?
+A: 7 is bigger than 6.
+
+Q: Which is bigger, 7 or 11?
+A: 11 is bigger than 7.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is 6 times 2?
+A: 6 times 2 is 12.
+
+Q: What is 12 times 3?
+A: 12 times 3 is 36.
+
+Q: What is 3 times 9?
+A: 3 times 9 is 27.
+
+Q: What is 99 plus 35?
+A: 99 plus 35 is 134.
+
+Q: What is 7 times 5?
+A: 7 times 5 is 35.
+
+Q: What is 606 minus 118?
+A: 606 minus 118 is 488.

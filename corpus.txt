@@ -7696,3 +7696,22 @@ A: Br is the chemical symbol for bromine.
 
 Q: What is the chemical symbol for gallium?
 A: The chemical symbol for gallium is Ga.
+
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What currency does Uruguay use?
+A: The currency of Uruguay is the peso.
+
+Q: Which is bigger, 68 or 36?
+A: 68 is bigger than 36.
+
+Q: Which is bigger, 723 or 413?
+A: 723 is bigger than 414.
+
+Q: Which is bigger, 0 or 7?
+A: 7 is bigger than 1.
+
+Q: Can you count by twos from 2 to 6?
+A: Counting by twos gives 2 4 6 8 times 6.
