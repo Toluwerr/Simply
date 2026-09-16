@@ -8225,3 +8225,110 @@ A: The last letter of 'ruble' is E.
 
 Q: What is the first letter of 'castries'?
 A: The first letter of 'castries' is C.
+Q: Which element has the chemical symbol V?
+A: V is the chemical symbol for vanadium.
+
+Q: What is the chemical symbol for chromium?
+A: The chemical symbol for chromium is Cr.
+
+Q: Which element has the chemical symbol S?
+A: S is the chemical symbol for sulfur.
+
+Q: Which element has the chemical symbol Ne?
+A: Ne is the chemical symbol for neon.
+
+Q: What is the chemical symbol for rhodium?
+A: The chemical symbol for rhodium is Rh.
+
+Q: What is the chemical symbol for tellurium?
+A: The chemical symbol for tellurium is Te.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the Roman numeral for 5?
+A: The Roman numeral for 5 is v.
+
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What is the Roman numeral for 528?
+A: The Roman numeral for 528 is dxxviii.
+
+Q: What number is the Roman numeral xxii?
+A: The Roman numeral xxii is the number 22.
+
+Q: What is the Roman numeral for 178?
+A: The Roman numeral for 178 is clxxviii.
+
+Q: What number is the Roman numeral xlvii?
+A: The Roman numeral xlvii is the number 47.
+
+Q: How many letters does the word 'afghanistan' have?
+A: The word 'afghanistan' has 11 letters.
+
+Q: How many letters does the word 'helium' have?
+A: The word 'helium' has 6 letters.
+
+Q: How many letters does the word 'dalasi' have?
+A: The word 'dalasi' has 6 letters.
+
+Q: How many letters does the word 'peru' have?
+A: The word 'peru' has 4 letters.
+
+Q: How many letters does the word 'seri' have?
+A: The word 'seri' has 4 letters.
+
+Q: How many letters does the word 'long' have?
+A: The word 'long' has 4 letters.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of Mali?
+A: The capital of Mali is Bamako.
+
+Q: What is the capital of Cuba?
+A: The capital of Cuba is Havana.
+
+Q: What is the capital of Namibia?
+A: The capital of Namibia is Windhoek.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of Lithuania?
+A: The capital of Lithuania is Vilnius.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
