@@ -7993,3 +7993,110 @@ A: Belarus is on the continent of Europe.
 
 Q: What continent is Slovenia on?
 A: Slovenia is on the continent of Europe.
+Q: What number is the Roman numeral lxxxi?
+A: The Roman numeral lxxxi is the number 81.
+
+Q: What is the Roman numeral for 25?
+A: The Roman numeral for 25 is xxv.
+
+Q: What number is the Roman numeral xxxvi?
+A: The Roman numeral xxxvi is the number 36.
+
+Q: What is the Roman numeral for 922?
+A: The Roman numeral for 922 is cmxxii.
+
+Q: What number is the Roman numeral dccxcii?
+A: The Roman numeral dccxcii is the number 792.
+
+Q: What number is the Roman numeral ii?
+A: The Roman numeral ii is the number 2.
+
+Q: What continent is Hungary on?
+A: Hungary is on the continent of Europe.
+
+Q: What continent is the Czech Republic on?
+A: the Czech Republic is on the continent of Europe.
+
+Q: What continent is Senegal on?
+A: Senegal is on the continent of Africa.
+
+Q: What continent is Montenegro on?
+A: Montenegro is on the continent of Europe.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: What continent is Canada on?
+A: Canada is on the continent of North America.
+
+Q: What is the chemical symbol for zinc?
+A: The chemical symbol for zinc is Zn.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: Which element has the chemical symbol Mn?
+A: Mn is the chemical symbol for manganese.
+
+Q: Which element has the chemical symbol Bi?
+A: Bi is the chemical symbol for bismuth.
+
+Q: Which element has the chemical symbol Ar?
+A: Ar is the chemical symbol for argon.
+
+Q: What is the chemical symbol for rhodium?
+A: The chemical symbol for rhodium is Rh.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which is bigger, 85 or 97?
+A: 97 is bigger than 85.
+
+Q: Which is bigger, 15 or 38?
+A: 38 is bigger than 15.
+
+Q: Which is bigger, 17 or 61?
+A: 61 is bigger than 17.
+
+Q: Which is bigger, 99 or 83?
+A: 99 is bigger than 83.
+
+Q: Which is bigger, 27 or 42?
+A: 42 is bigger than 27.
+
+Q: Which is bigger, 899 or 418?
+A: 899 is bigger than 418.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.

@@ -7005,3 +7005,7 @@ A: The Roman numeral for 12 is xii.
 
 Q: How much is 59 plus 0?
 A: 59 plus 0 is 59.
+
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
