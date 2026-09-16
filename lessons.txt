@@ -11705,3 +11705,128 @@ A: 17 plus 18 is 35.
 
 Q: What is 8 plus 10?
 A: 8 plus 10 is 18.
+Q: What is 643 minus 339?
+A: 643 minus 339 is 304.
+
+Q: What is 11 times 19?
+A: 11 times 19 is 209.
+
+Q: What is 89 plus 40?
+A: 89 plus 40 is 129.
+
+Q: What is 802 minus 145?
+A: 802 minus 145 is 657.
+
+Q: What is 722 minus 624?
+A: 722 minus 624 is 98.
+
+Q: What is 88 plus 75?
+A: 88 plus 75 is 163.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What is the capital of Zambia?
+A: The capital of Zambia is Lusaka.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Panama?
+A: The capital of Panama is Panama City.
+
+Q: What is the capital of Moldova?
+A: The capital of Moldova is Chisinau.
+
+Q: What is the capital of Barbados?
+A: The capital of Barbados is Bridgetown.
+
+Q: How many letters does the word 'shark' have?
+A: The word 'shark' has 5 letters.
+
+Q: How many letters does the word 'work' have?
+A: The word 'work' has 4 letters.
+
+Q: How many letters does the word 'still' have?
+A: The word 'still' has 5 letters.
+
+Q: How many letters does the word 'serbia' have?
+A: The word 'serbia' has 6 letters.
+
+Q: How many letters does the word 'salem' have?
+A: The word 'salem' has 5 letters.
+
+Q: How many letters does the word 'hartford' have?
+A: The word 'hartford' has 8 letters.
+
+Q: What is the Roman numeral for 68?
+A: The Roman numeral for 68 is lxviii.
+
+Q: What is the Roman numeral for 20?
+A: The Roman numeral for 20 is xx.
+
+Q: What is the Roman numeral for 14?
+A: The Roman numeral for 14 is xiv.
+
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What is the Roman numeral for 49?
+A: The Roman numeral for 49 is xlix.
+
+Q: What is the Roman numeral for 58?
+A: The Roman numeral for 58 is lviii.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: How do you sort 20, 19, and 5?
+A: In order, they are 5 19 20.
+
+Q: How do you sort 437, 852, and 453?
+A: In order, they are 437 453 852.
+
+Q: How do you sort 26, 16, and 29?
+A: In order, they are 16 26 29.
+
+Q: How do you sort 14, 26, and 8?
+A: In order, they are 8 14 26.
+
+Q: How do you sort 3, 15, and 9?
+A: In order, they are 3 9 15.
+
+Q: How do you sort 449, 998, and 588?
+A: In order, they are 449 588 998.
