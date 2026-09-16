@@ -18468,3 +18468,110 @@ A: The currency of Ethiopia is the birr.
 
 Q: What currency does Mauritius use?
 A: The currency of Mauritius is the rupee.
+Q: What number is the Roman numeral lv?
+A: The Roman numeral lv is the number 55.
+
+Q: What number is the Roman numeral xlvii?
+A: The Roman numeral xlvii is the number 47.
+
+Q: What number is the Roman numeral xcix?
+A: The Roman numeral xcix is the number 99.
+
+Q: What number is the Roman numeral v?
+A: The Roman numeral v is the number 5.
+
+Q: What is the Roman numeral for 51?
+A: The Roman numeral for 51 is li.
+
+Q: What number is the Roman numeral ccclxv?
+A: The Roman numeral ccclxv is the number 365.
+
+Q: What is the first letter of 'ringgit'?
+A: The first letter of 'ringgit' is R.
+
+Q: What is the first letter of 'dalasi'?
+A: The first letter of 'dalasi' is D.
+
+Q: What is the last letter of 'castries'?
+A: The last letter of 'castries' is S.
+
+Q: What is the last letter of 'molybdenum'?
+A: The last letter of 'molybdenum' is M.
+
+Q: What is the first letter of 'order'?
+A: The first letter of 'order' is O.
+
+Q: What is the first letter of 'last'?
+A: The first letter of 'last' is L.
+
+Q: What is the chemical symbol for iridium?
+A: The chemical symbol for iridium is Ir.
+
+Q: Which element has the chemical symbol Nb?
+A: Nb is the chemical symbol for niobium.
+
+Q: What is the chemical symbol for samarium?
+A: The chemical symbol for samarium is Sm.
+
+Q: Which element has the chemical symbol Ga?
+A: Ga is the chemical symbol for gallium.
+
+Q: Which element has the chemical symbol Tm?
+A: Tm is the chemical symbol for thulium.
+
+Q: What is the chemical symbol for yttrium?
+A: The chemical symbol for yttrium is Y.
+
+Q: How many letters does the word 'switzerland' have?
+A: The word 'switzerland' has 11 letters.
+
+Q: How many letters does the word 'fresh' have?
+A: The word 'fresh' has 5 letters.
+
+Q: How many letters does the word 'herzegovina' have?
+A: The word 'herzegovina' has 11 letters.
+
+Q: How many letters does the word 'ngerulmud' have?
+A: The word 'ngerulmud' has 9 letters.
+
+Q: How many letters does the word 'frog' have?
+A: The word 'frog' has 4 letters.
+
+Q: How many letters does the word 'euro' have?
+A: The word 'euro' has 4 letters.
+
+Q: How do you sort 906, 570, and 560?
+A: In order, they are 560 570 906.
+
+Q: How do you sort 282, 794, and 311?
+A: In order, they are 282 311 794.
+
+Q: How do you sort 10, 1, and 20?
+A: In order, they are 1 10 20.
+
+Q: How do you sort 675, 454, and 249?
+A: In order, they are 249 454 675.
+
+Q: How do you sort 11, 20, and 23?
+A: In order, they are 11 20 23.
+
+Q: How do you sort 18, 5, and 28?
+A: In order, they are 5 18 28.
+
+Q: What is the capital of Cameroon?
+A: The capital of Cameroon is Yaounde.
+
+Q: What is the capital of Costa Rica?
+A: The capital of Costa Rica is San Jose.
+
+Q: What is the capital of Taiwan?
+A: The capital of Taiwan is Taipei.
+
+Q: What is the capital of Eritrea?
+A: The capital of Eritrea is Asmara.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: What is the capital of Norway?
+A: The capital of Norway is Oslo.
