@@ -5619,3 +5619,128 @@ A: In order, they are 402 783 791.
 
 Q: How do you sort 26, 7, and 4?
 A: In order, they are 4 7 26.
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: What currency does New Zealand use?
+A: The currency of New Zealand is the dollar.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What currency does the United Kingdom use?
+A: The currency of the United Kingdom is the pound.
+
+Q: What currency does Malta use?
+A: The currency of Malta is the euro.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What currency does Jordan use?
+A: The currency of Jordan is the dinar.
+
+Q: What is 392 plus 515?
+A: 392 plus 515 is 907.
+
+Q: What is 5 times 3?
+A: 5 times 3 is 15.
+
+Q: What is 8 times 3?
+A: 8 times 3 is 24.
+
+Q: What is 5 minus 2?
+A: 5 minus 2 is 3.
+
+Q: What is 4 times 2?
+A: 4 times 2 is 8.
+
+Q: What is 11 plus 19?
+A: 11 plus 19 is 30.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 3 in words?
+A: 3 in words is three.
+
+Q: How do you write 19 in words?
+A: 19 in words is nineteen.
+
+Q: How do you sort 18, 22, and 26?
+A: In order, they are 18 22 26.
+
+Q: How do you sort 959, 858, and 631?
+A: In order, they are 631 858 959.
+
+Q: How do you sort 1, 26, and 29?
+A: In order, they are 1 26 29.
+
+Q: How do you sort 2, 9, and 4?
+A: In order, they are 2 4 9.
+
+Q: How do you sort 3, 25, and 8?
+A: In order, they are 3 8 25.
+
+Q: How do you sort 798, 506, and 819?
+A: In order, they are 506 798 819.
+
+Q: Is 73 bigger than 37?
+A: Yes, 73 is bigger than 37.
+
+Q: Is 75 bigger than 76?
+A: No, 76 is bigger than 75.
+
+Q: Which is bigger, 149 or 266?
+A: 266 is bigger than 149.
+
+Q: Is 98 bigger than 22?
+A: Yes, 98 is bigger than 22.
+
+Q: Is 148 bigger than 692?
+A: No, 692 is bigger than 148.
+
+Q: Is 898 bigger than 755?
+A: Yes, 898 is bigger than 755.
+
+Q: What is the chemical symbol for lead?
+A: The chemical symbol for lead is Pb.
+
+Q: Which element has the chemical symbol Be?
+A: Be is the chemical symbol for beryllium.
+
+Q: What is the chemical symbol for europium?
+A: The chemical symbol for europium is Eu.
+
+Q: What is the chemical symbol for neon?
+A: The chemical symbol for neon is Ne.
+
+Q: What is the chemical symbol for aluminium?
+A: The chemical symbol for aluminium is Al.
+
+Q: What is the chemical symbol for tellurium?
+A: The chemical symbol for tellurium is Te.
