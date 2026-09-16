@@ -5869,3 +5869,128 @@ A: The opposite of 'big' is 'small'.
 
 Q: What is the opposite of 'open'?
 A: The opposite of 'open' is 'closed'.
+Q: What continent is Norway on?
+A: Norway is on the continent of Europe.
+
+Q: What continent is Armenia on?
+A: Armenia is on the continent of Asia.
+
+Q: What continent is Burundi on?
+A: Burundi is on the continent of Africa.
+
+Q: What continent is China on?
+A: China is on the continent of Asia.
+
+Q: What continent is India on?
+A: India is on the continent of Asia.
+
+Q: What continent is South Korea on?
+A: South Korea is on the continent of Asia.
+
+Q: What is half of 58?
+A: Half of 58 is 29.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is double 35?
+A: Double 35 is 70.
+
+Q: What is half of 8?
+A: Half of 8 is 4.
+
+Q: What is double 49?
+A: Double 49 is 98.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What number is the Roman numeral lviii?
+A: The Roman numeral lviii is the number 58.
+
+Q: What number is the Roman numeral xiii?
+A: The Roman numeral xiii is the number 13.
+
+Q: What is the Roman numeral for 343?
+A: The Roman numeral for 343 is cccxliii.
+
+Q: What number is the Roman numeral clxxv?
+A: The Roman numeral clxxv is the number 175.
+
+Q: What number is the Roman numeral xx?
+A: The Roman numeral xx is the number 20.
+
+Q: What number is the Roman numeral lvi?
+A: The Roman numeral lvi is the number 56.
+
+Q: What is 4 times 4?
+A: 4 times 4 is 16.
+
+Q: What is 6 times 4?
+A: 6 times 4 is 24.
+
+Q: What is 11 times 4?
+A: 11 times 4 is 44.
+
+Q: What is 450 plus 77?
+A: 450 plus 77 is 527.
+
+Q: What is 603 minus 335?
+A: 603 minus 335 is 268.
+
+Q: What is 3 times 6?
+A: 3 times 6 is 18.
+
+Q: What is the last letter of 'baghdad'?
+A: The last letter of 'baghdad' is D.
+
+Q: What is the first letter of 'pyongyang'?
+A: The first letter of 'pyongyang' is P.
+
+Q: What is the last letter of 'bolivia'?
+A: The last letter of 'bolivia' is A.
+
+Q: What is the last letter of 'louis'?
+A: The last letter of 'louis' is S.
+
+Q: What is the first letter of 'lev'?
+A: The first letter of 'lev' is L.
+
+Q: What is the first letter of 'honiara'?
+A: The first letter of 'honiara' is H.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
