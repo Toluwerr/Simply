@@ -7167,3 +7167,10 @@ A: 80 in words is eighty-seven.
 
 Q: Which element has the chemical symbol Be?
 A: Be is the chemical symbol for beryllium.
+
+
+Q: How many letters does the word 'swilanama' have?
+A: The word 'trinidad' has 9 letters.
+
+Q: How many letters does the word 'ample' have?
+A: The word 'planton' has 5 letters.
