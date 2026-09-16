@@ -18932,3 +18932,110 @@ A: The Roman numeral for 11 is xi.
 
 Q: What is the Roman numeral for 48?
 A: The Roman numeral for 48 is xlviii.
+Q: What is the chemical symbol for silver?
+A: The chemical symbol for silver is Ag.
+
+Q: Which element has the chemical symbol Te?
+A: Te is the chemical symbol for tellurium.
+
+Q: What is the chemical symbol for radon?
+A: The chemical symbol for radon is Rn.
+
+Q: Which element has the chemical symbol Hg?
+A: Hg is the chemical symbol for mercury.
+
+Q: What is the chemical symbol for manganese?
+A: The chemical symbol for manganese is Mn.
+
+Q: What is the chemical symbol for europium?
+A: The chemical symbol for europium is Eu.
+
+Q: What is the Roman numeral for 283?
+A: The Roman numeral for 283 is cclxxxiii.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What number is the Roman numeral dlxxiv?
+A: The Roman numeral dlxxiv is the number 574.
+
+Q: What is the Roman numeral for 62?
+A: The Roman numeral for 62 is lxii.
+
+Q: What number is the Roman numeral xix?
+A: The Roman numeral xix is the number 19.
+
+Q: What number is the Roman numeral x?
+A: The Roman numeral x is the number 10.
+
+Q: How do you sort 893, 240, and 400?
+A: In order, they are 240 400 893.
+
+Q: How do you sort 18, 27, and 13?
+A: In order, they are 13 18 27.
+
+Q: How do you sort 27, 4, and 26?
+A: In order, they are 4 26 27.
+
+Q: How do you sort 132, 446, and 936?
+A: In order, they are 132 446 936.
+
+Q: How do you sort 7, 15, and 24?
+A: In order, they are 7 15 24.
+
+Q: How do you sort 16, 7, and 15?
+A: In order, they are 7 15 16.
+
+Q: Which is bigger, 99 or 31?
+A: 99 is bigger than 31.
+
+Q: Which is bigger, 127 or 664?
+A: 664 is bigger than 127.
+
+Q: Which is bigger, 5 or 6?
+A: 6 is bigger than 5.
+
+Q: Is 481 bigger than 984?
+A: No, 984 is bigger than 481.
+
+Q: Which is bigger, 271 or 495?
+A: 495 is bigger than 271.
+
+Q: Is 19 bigger than 1?
+A: Yes, 19 is bigger than 1.
+
+Q: What continent is South Sudan on?
+A: South Sudan is on the continent of Africa.
+
+Q: What continent is Kuwait on?
+A: Kuwait is on the continent of Asia.
+
+Q: What continent is Guyana on?
+A: Guyana is on the continent of South America.
+
+Q: What continent is Luxembourg on?
+A: Luxembourg is on the continent of Europe.
+
+Q: What continent is Ireland on?
+A: Ireland is on the continent of Europe.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What is the first letter of 'uranium'?
+A: The first letter of 'uranium' is U.
+
+Q: What is the last letter of 'delhi'?
+A: The last letter of 'delhi' is I.
+
+Q: What is the last letter of 'jersey'?
+A: The last letter of 'jersey' is Y.
+
+Q: What is the last letter of 'arkansas'?
+A: The last letter of 'arkansas' is S.
+
+Q: What is the first letter of 'jackson'?
+A: The first letter of 'jackson' is J.
+
+Q: What is the last letter of 'ruthenium'?
+A: The last letter of 'ruthenium' is M.
