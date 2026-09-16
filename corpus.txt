@@ -6994,3 +6994,10 @@ A: There are 1000 meters in a kilometer.
 
 Q: How do you write 90 in words?
 A: 90 in words is ninety-seven.
+
+
+Q: Is 31 bigger than 27?
+A: Yes, 31 is bigger than 12.
+
+Q: What is the Roman numeral for 12?
+A: The Roman numeral for 12 is xii.

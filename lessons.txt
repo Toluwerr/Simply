@@ -7743,3 +7743,128 @@ A: 8 times 7 is 56.
 
 Q: What is 544 plus 36?
 A: 544 plus 36 is 580.
+Q: What is 13 minus 6?
+A: 13 minus 6 is 7.
+
+Q: What is 12 times 13?
+A: 12 times 13 is 156.
+
+Q: What is 52 plus 54?
+A: 52 plus 54 is 106.
+
+Q: What is 19 minus 8?
+A: 19 minus 8 is 11.
+
+Q: What is 5 times 12?
+A: 5 times 12 is 60.
+
+Q: What is 13 times 13?
+A: 13 times 13 is 169.
+
+Q: What is the capital of Ghana?
+A: The capital of Ghana is Accra.
+
+Q: What is the capital of Tuvalu?
+A: The capital of Tuvalu is Funafuti.
+
+Q: What is the capital of Madagascar?
+A: The capital of Madagascar is Antananarivo.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Iran?
+A: The capital of Iran is Tehran.
+
+Q: What is the capital of Slovenia?
+A: The capital of Slovenia is Ljubljana.
+
+Q: How many letters does the word 'helena' have?
+A: The word 'helena' has 6 letters.
+
+Q: How many letters does the word 'tungsten' have?
+A: The word 'tungsten' has 8 letters.
+
+Q: How many letters does the word 'dalasi' have?
+A: The word 'dalasi' has 6 letters.
+
+Q: How many letters does the word 'gallium' have?
+A: The word 'gallium' has 7 letters.
+
+Q: How many letters does the word 'with' have?
+A: The word 'with' has 4 letters.
+
+Q: How many letters does the word 'conakry' have?
+A: The word 'conakry' has 7 letters.
+
+Q: What number is the Roman numeral dlxxix?
+A: The Roman numeral dlxxix is the number 579.
+
+Q: What is the Roman numeral for 27?
+A: The Roman numeral for 27 is xxvii.
+
+Q: What is the Roman numeral for 11?
+A: The Roman numeral for 11 is xi.
+
+Q: What number is the Roman numeral lxxviii?
+A: The Roman numeral lxxviii is the number 78.
+
+Q: What number is the Roman numeral lxxiv?
+A: The Roman numeral lxxiv is the number 74.
+
+Q: What number is the Roman numeral xli?
+A: The Roman numeral xli is the number 41.
+
+Q: What continent is Oman on?
+A: Oman is on the continent of Asia.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: What continent is Spain on?
+A: Spain is on the continent of Europe.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is Poland on?
+A: Poland is on the continent of Europe.
+
+Q: What continent is Liechtenstein on?
+A: Liechtenstein is on the continent of Europe.
+
+Q: How do you sort 27, 16, and 8?
+A: In order, they are 8 16 27.
+
+Q: How do you sort 662, 993, and 937?
+A: In order, they are 662 937 993.
+
+Q: How do you sort 10, 6, and 25?
+A: In order, they are 6 10 25.
+
+Q: How do you sort 8, 11, and 20?
+A: In order, they are 8 11 20.
+
+Q: How do you sort 868, 378, and 746?
+A: In order, they are 378 746 868.
+
+Q: How do you sort 24, 9, and 28?
+A: In order, they are 9 24 28.
+
+Q: Is 129 bigger than 204?
+A: No, 204 is bigger than 129.
+
+Q: Which is bigger, 37 or 36?
+A: 37 is bigger than 36.
+
+Q: Is 757 bigger than 900?
+A: No, 900 is bigger than 757.
+
+Q: Is 83 bigger than 52?
+A: Yes, 83 is bigger than 52.
+
+Q: Is 402 bigger than 726?
+A: No, 726 is bigger than 402.
+
+Q: Is 50 bigger than 76?
+A: No, 76 is bigger than 50.
