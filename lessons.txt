@@ -19378,3 +19378,110 @@ A: Mercury is the first planet from the sun.
 
 Q: Which planet is first from the sun?
 A: Mercury is the first planet from the sun.
+Q: What currency does Egypt use?
+A: The currency of Egypt is the pound.
+
+Q: What currency does North Korea use?
+A: The currency of North Korea is the won.
+
+Q: What currency does South Korea use?
+A: The currency of South Korea is the won.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: What currency does Switzerland use?
+A: The currency of Switzerland is the franc.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: How do you sort 24, 28, and 3?
+A: In order, they are 3 24 28.
+
+Q: How do you sort 70, 778, and 68?
+A: In order, they are 68 70 778.
+
+Q: How do you sort 139, 319, and 342?
+A: In order, they are 139 319 342.
+
+Q: How do you sort 16, 5, and 27?
+A: In order, they are 5 16 27.
+
+Q: How do you sort 21, 22, and 14?
+A: In order, they are 14 21 22.
+
+Q: How do you sort 362, 162, and 736?
+A: In order, they are 162 362 736.
+
+Q: Which element has the chemical symbol Am?
+A: Am is the chemical symbol for americium.
+
+Q: What is the chemical symbol for uranium?
+A: The chemical symbol for uranium is U.
+
+Q: Which element has the chemical symbol Gd?
+A: Gd is the chemical symbol for gadolinium.
+
+Q: What is the chemical symbol for strontium?
+A: The chemical symbol for strontium is Sr.
+
+Q: Which element has the chemical symbol Tb?
+A: Tb is the chemical symbol for terbium.
+
+Q: Which element has the chemical symbol N?
+A: N is the chemical symbol for nitrogen.
+
+Q: What is the capital of Zimbabwe?
+A: The capital of Zimbabwe is Harare.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is the capital of Equatorial Guinea?
+A: The capital of Equatorial Guinea is Malabo.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is double 57?
+A: Double 57 is 114.
+
+Q: What is half of 14?
+A: Half of 14 is 7.
+
+Q: What is the last letter of 'tripoli'?
+A: The last letter of 'tripoli' is I.
+
+Q: What is the last letter of 'austria'?
+A: The last letter of 'austria' is A.
+
+Q: What is the last letter of 'china'?
+A: The last letter of 'china' is A.
+
+Q: What is the last letter of 'vietnam'?
+A: The last letter of 'vietnam' is M.
+
+Q: What is the last letter of 'zimbabwe'?
+A: The last letter of 'zimbabwe' is E.
+
+Q: What is the first letter of 'paramaribo'?
+A: The first letter of 'paramaribo' is P.
