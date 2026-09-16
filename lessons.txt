@@ -21465,3 +21465,110 @@ A: No, 797 is bigger than 685.
 
 Q: Which is bigger, 178 or 457?
 A: 457 is bigger than 178.
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by ones from 33 to 38?
+A: Counting by ones gives 33 34 35 36 37 38.
+
+Q: Can you count by twos from 36 to 40?
+A: Counting by twos gives 36 38 40.
+
+Q: Can you count by fives from 10 to 25?
+A: Counting by fives gives 10 15 20 25.
+
+Q: Can you count by ones from 11 to 15?
+A: Counting by ones gives 11 12 13 14 15.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: What number is the Roman numeral clxxix?
+A: The Roman numeral clxxix is the number 179.
+
+Q: What is the Roman numeral for 54?
+A: The Roman numeral for 54 is liv.
+
+Q: What is the Roman numeral for 46?
+A: The Roman numeral for 46 is xlvi.
+
+Q: What is the Roman numeral for 548?
+A: The Roman numeral for 548 is dxlviii.
+
+Q: What is the Roman numeral for 14?
+A: The Roman numeral for 14 is xiv.
+
+Q: What number is the Roman numeral xii?
+A: The Roman numeral xii is the number 12.
+
+Q: What is the chemical symbol for selenium?
+A: The chemical symbol for selenium is Se.
+
+Q: What is the chemical symbol for tungsten?
+A: The chemical symbol for tungsten is W.
+
+Q: Which element has the chemical symbol Al?
+A: Al is the chemical symbol for aluminium.
+
+Q: Which element has the chemical symbol Ne?
+A: Ne is the chemical symbol for neon.
+
+Q: What is the chemical symbol for rubidium?
+A: The chemical symbol for rubidium is Rb.
+
+Q: What is the chemical symbol for niobium?
+A: The chemical symbol for niobium is Nb.
+
+Q: What is 323 minus 125?
+A: 323 minus 125 is 198.
+
+Q: What is 846 minus 514?
+A: 846 minus 514 is 332.
+
+Q: What is 583 minus 21?
+A: 583 minus 21 is 562.
+
+Q: What is 82 plus 13?
+A: 82 plus 13 is 95.
+
+Q: What is 12 times 10?
+A: 12 times 10 is 120.
+
+Q: What is 4 times 6?
+A: 4 times 6 is 24.
+
+Q: What is the last letter of 'iran'?
+A: The last letter of 'iran' is N.
+
+Q: What is the last letter of 'port'?
+A: The last letter of 'port' is T.
+
+Q: What is the last letter of 'syria'?
+A: The last letter of 'syria' is A.
+
+Q: What is the first letter of 'harrisburg'?
+A: The first letter of 'harrisburg' is H.
+
+Q: What is the last letter of 'gabon'?
+A: The last letter of 'gabon' is N.
+
+Q: What is the last letter of 'broken'?
+A: The last letter of 'broken' is N.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does Bolivia use?
+A: The currency of Bolivia is the boliviano.
+
+Q: What currency does Israel use?
+A: The currency of Israel is the shekel.
+
+Q: What currency does Azerbaijan use?
+A: The currency of Azerbaijan is the manat.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does India use?
+A: The currency of India is the rupee.
