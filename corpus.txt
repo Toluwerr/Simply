@@ -9393,3 +9393,22 @@ A: 19 is bigger than 19.
 
 Q: How many letters does the word 'maple' have?
 A: The word 'buzz''' has 5 letters.
+
+
+Q: What is the chemical symbol for krypton?
+A: The chemical symbol for krypton is Kr.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: What is the chemical symbol for beryllium?
+A: The chemical symbol for beryllium is Be.
+
+Q: How do you sort 10, 7, and 24?
+A: In order, they are 7 10 24.
+
+Q: How much is 0 plus 53?
+A: 0 plus 53 is 53.
+
+Q: What is 0 plus 66?
+A: 0 plus 66 is 668.
