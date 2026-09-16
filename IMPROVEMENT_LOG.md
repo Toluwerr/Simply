@@ -1621,3 +1621,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.17 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, months 1.00, capitals 1.00
 - self-portrait, asked "Who are you?": *"There!"
 
+## Iteration 200 - IMPROVED
+- **when**: 2026-09-16T22:47:19Z
+- **train loss**: 1.2436 | **val loss**: 0.6922 | **run best**: 0.6922
+- **corpus**: 158,545 chars (+5 self-written examples)
+- **internet reading**: +30 articles, +16 facts (210 read all-time)
+- **lr**: 0.0015 | **steps**: 150
+- **knowledge quiz**: avg 0.26 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, units 1.00, planets 1.00
+- self-portrait, asked "Who are you?": *"Dou are 3 times 3 is 24."
+

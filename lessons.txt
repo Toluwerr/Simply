@@ -12437,3 +12437,110 @@ A: 14 times 13 is 182.
 
 Q: What is 9 times 8?
 A: 9 times 8 is 72.
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by ones from 38 to 40?
+A: Counting by ones gives 38 39 40.
+
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 25 30 35.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by fives from 25 to 45?
+A: Counting by fives gives 25 30 35 40 45.
+
+Q: Can you count by fives from 5 to 15?
+A: Counting by fives gives 5 10 15.
+
+Q: What number is the Roman numeral cdlii?
+A: The Roman numeral cdlii is the number 452.
+
+Q: What number is the Roman numeral xvi?
+A: The Roman numeral xvi is the number 16.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What is the Roman numeral for 9?
+A: The Roman numeral for 9 is ix.
+
+Q: What is the Roman numeral for 521?
+A: The Roman numeral for 521 is dxxi.
+
+Q: What number is the Roman numeral cxcviii?
+A: The Roman numeral cxcviii is the number 198.
+
+Q: Which element has the chemical symbol Y?
+A: Y is the chemical symbol for yttrium.
+
+Q: What is the chemical symbol for radium?
+A: The chemical symbol for radium is Ra.
+
+Q: What is the chemical symbol for vanadium?
+A: The chemical symbol for vanadium is V.
+
+Q: What is the chemical symbol for uranium?
+A: The chemical symbol for uranium is U.
+
+Q: Which element has the chemical symbol Er?
+A: Er is the chemical symbol for erbium.
+
+Q: Which element has the chemical symbol Th?
+A: Th is the chemical symbol for thorium.
+
+Q: What is 59 minus 39?
+A: 59 minus 39 is 20.
+
+Q: What is 12 plus 81?
+A: 12 plus 81 is 93.
+
+Q: What is 58 minus 54?
+A: 58 minus 54 is 4.
+
+Q: What is 84 minus 20?
+A: 84 minus 20 is 64.
+
+Q: What is 13 times 18?
+A: 13 times 18 is 234.
+
+Q: What is 2 times 5?
+A: 2 times 5 is 10.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What is the hardest natural substance?
+A: Diamond is the hardest natural substance.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: What is the closest star to Earth?
+A: The sun is the closest star to Earth.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What is the first letter of 'quetzal'?
+A: The first letter of 'quetzal' is Q.
+
+Q: What is the last letter of 'egypt'?
+A: The last letter of 'egypt' is T.
+
+Q: What is the last letter of 'gabon'?
+A: The last letter of 'gabon' is N.
+
+Q: What is the last letter of 'sri'?
+A: The last letter of 'sri' is I.
+
+Q: What is the last letter of 'carson'?
+A: The last letter of 'carson' is N.
+
+Q: What is the last letter of 'fresh'?
+A: The last letter of 'fresh' is H.

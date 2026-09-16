@@ -7246,3 +7246,19 @@ A: Counting by fives gives 35 40 45 50.
 
 Q: How many weeks are in a year?
 A: There are 52 weeks in a year.
+
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What is the opposite of 'first'?
+A: 'last' is the opposite The 'down'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'last' is '.
+
+Q: What is the opposite of 'first'?
+A: 'last' is the opposite of 'fast'.
+
+Q: What is the opposite of 'first'?
+A: 'last' is the opposite of 'firstrong'.
