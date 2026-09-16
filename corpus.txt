@@ -9315,3 +9315,13 @@ A: The word 'afghanistan' has 11 letters.
 
 Q: What is 0 times 0?
 A: 0 times 0 is 0 polite and its forms a someths.
+
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is 10 times 11?
+A: 10 times 11 is 110.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 polite and bright.

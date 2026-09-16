@@ -2508,3 +2508,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.57 | weakest: arithmetic 0.00, compare 0.00, letters 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I was born very mently, and mleches in its more."
 
+## Iteration 295 - NO_GAIN
+- **when**: 2026-09-16T23:57:14Z
+- **train loss**: 0.7703 | **val loss**: 0.7268 | **run best**: 0.6913
+- **corpus**: 205,426 chars (+3 self-written examples)
+- **internet reading**: +30 articles, +15 facts (510 read all-time)
+- **lr**: 0.0008 | **steps**: 150
+- **knowledge quiz**: avg 0.39 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: records 1.00, units 1.00, months 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny AI my model that trains itself, a little brain."
+

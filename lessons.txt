@@ -23142,3 +23142,110 @@ A: 11 times 5 is 55.
 
 Q: What is 13 times 19?
 A: 13 times 19 is 247.
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is the capital of Yemen?
+A: The capital of Yemen is Sanaa.
+
+Q: What is the capital of Angola?
+A: The capital of Angola is Luanda.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What is the capital of Bahrain?
+A: The capital of Bahrain is Manama.
+
+Q: What is the capital of Armenia?
+A: The capital of Armenia is Yerevan.
+
+Q: How many letters does the word 'mars' have?
+A: The word 'mars' has 4 letters.
+
+Q: How many letters does the word 'bahamas' have?
+A: The word 'bahamas' has 7 letters.
+
+Q: How many letters does the word 'euro' have?
+A: The word 'euro' has 4 letters.
+
+Q: How many letters does the word 'cordoba' have?
+A: The word 'cordoba' has 7 letters.
+
+Q: How many letters does the word 'jordan' have?
+A: The word 'jordan' has 6 letters.
+
+Q: How many letters does the word 'juneau' have?
+A: The word 'juneau' has 6 letters.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the chemical symbol for germanium?
+A: The chemical symbol for germanium is Ge.
+
+Q: What is the chemical symbol for palladium?
+A: The chemical symbol for palladium is Pd.
+
+Q: What is the chemical symbol for selenium?
+A: The chemical symbol for selenium is Se.
+
+Q: Which element has the chemical symbol Y?
+A: Y is the chemical symbol for yttrium.
+
+Q: Which element has the chemical symbol Am?
+A: Am is the chemical symbol for americium.
+
+Q: What is the chemical symbol for actinium?
+A: The chemical symbol for actinium is Ac.
+
+Q: Which is bigger, 48 or 89?
+A: 89 is bigger than 48.
+
+Q: Which is bigger, 85 or 13?
+A: 85 is bigger than 13.
+
+Q: Is 43 bigger than 54?
+A: No, 54 is bigger than 43.
+
+Q: Which is bigger, 86 or 60?
+A: 86 is bigger than 60.
+
+Q: Is 72 bigger than 68?
+A: Yes, 72 is bigger than 68.
+
+Q: Is 51 bigger than 87?
+A: No, 87 is bigger than 51.
