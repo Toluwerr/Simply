@@ -463,3 +463,51 @@ A: Aeronautical engineering is the original term for the field.
 
 Q: What is Mechanical engineering?
 A: Mechanical engineering is the study of physical machines and mechanisms that may involve force and movement.
+
+Q: What is Gerrit?
+A: Gerrit is a free, web-based team code collaboration tool.
+
+Q: What is Piper?
+A: Piper is a centralized version control system used by Google for its internal software development.
+
+Q: What is Currently, Google's version control?
+A: Currently, Google's version control is an extreme case: as of 2016.
+
+Q: What is Linus Benedict Torvalds?
+A: Linus Benedict Torvalds is a Finnish and American software engineer who is the creator and lead developer of the Linux kernel since 1991.
+
+Q: What is Infrastructure as code?
+A: Infrastructure as code is the process of managing and provisioning computer data center resources through machine-readable definition files.
+
+Q: What is Heat and Mass Transfer?
+A: Heat and Mass Transfer is a peer-reviewed scientific journal published by Springer.
+
+Q: What is Poetry London?
+A: Poetry London is a literary periodical based in London.
+
+Q: What is Kiwi?
+A: Kiwi is a common self-reference used by New Zealanders, though it is also used internationally.
+
+Q: What is Laurent Chardard?
+A: Laurent Chardard is a French Paralympic swimmer who competes in international elite events.
+
+Q: What is Timothy Michael Federle?
+A: Timothy Michael Federle is an American author, librettist, director writer, and producer.
+
+Q: What is SLCE Architects?
+A: SLCE Architects is the executive architect.
+
+Q: What is RIF opening rule?
+A: RIF opening rule is a renju opening rule.
+
+Q: What is George Brent Mickum?
+A: George Brent Mickum is the lead counsel in this petition.
+
+Q: What is Patricia Joudry?
+A: Patricia Joudry is a Canadian playwright and author.
+
+Q: What is Patricia?
+A: Patricia is a co-writer of the popular radio broadcast show, The Aldrich Family, a comedy series, broadcast from New York.
+
+Q: What is Matthew Genitempo?
+A: Matthew Genitempo is an American photographer, living in Texas.

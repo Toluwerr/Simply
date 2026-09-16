@@ -16345,3 +16345,110 @@ A: The last letter of 'wide' is E.
 
 Q: What is the first letter of 'grenadines'?
 A: The first letter of 'grenadines' is G.
+Q: What is 480 plus 616?
+A: 480 plus 616 is 1096.
+
+Q: What is 80 minus 28?
+A: 80 minus 28 is 52.
+
+Q: What is 15 minus 8?
+A: 15 minus 8 is 7.
+
+Q: What is 9 times 5?
+A: 9 times 5 is 45.
+
+Q: What is 19 minus 13?
+A: 19 minus 13 is 6.
+
+Q: What is 468 minus 302?
+A: 468 minus 302 is 166.
+
+Q: What is the capital of Sierra Leone?
+A: The capital of Sierra Leone is Freetown.
+
+Q: What is the capital of Sierra Leone?
+A: The capital of Sierra Leone is Freetown.
+
+Q: What is the capital of Serbia?
+A: The capital of Serbia is Belgrade.
+
+Q: What is the capital of Venezuela?
+A: The capital of Venezuela is Caracas.
+
+Q: What is the capital of Mongolia?
+A: The capital of Mongolia is Ulaanbaatar.
+
+Q: What is the capital of Croatia?
+A: The capital of Croatia is Zagreb.
+
+Q: How do you sort 26, 28, and 3?
+A: In order, they are 3 26 28.
+
+Q: How do you sort 6, 17, and 27?
+A: In order, they are 6 17 27.
+
+Q: How do you sort 605, 459, and 495?
+A: In order, they are 459 495 605.
+
+Q: How do you sort 26, 24, and 23?
+A: In order, they are 23 24 26.
+
+Q: How do you sort 27, 20, and 3?
+A: In order, they are 3 20 27.
+
+Q: How do you sort 785, 394, and 273?
+A: In order, they are 273 394 785.
+
+Q: Which is bigger, 390 or 213?
+A: 390 is bigger than 213.
+
+Q: Is 52 bigger than 37?
+A: Yes, 52 is bigger than 37.
+
+Q: Is 770 bigger than 749?
+A: Yes, 770 is bigger than 749.
+
+Q: Is 15 bigger than 98?
+A: No, 98 is bigger than 15.
+
+Q: Is 7 bigger than 5?
+A: Yes, 7 is bigger than 5.
+
+Q: Is 583 bigger than 441?
+A: Yes, 583 is bigger than 441.
+
+Q: What is the first letter of 'lithium'?
+A: The first letter of 'lithium' is L.
+
+Q: What is the first letter of 'ouagadougou'?
+A: The first letter of 'ouagadougou' is O.
+
+Q: What is the last letter of 'iowa'?
+A: The last letter of 'iowa' is A.
+
+Q: What is the first letter of 'afghani'?
+A: The first letter of 'afghani' is A.
+
+Q: What is the first letter of 'pencil'?
+A: The first letter of 'pencil' is P.
+
+Q: What is the last letter of 'poland'?
+A: The last letter of 'poland' is D.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
+
+Q: What currency does Botswana use?
+A: The currency of Botswana is the pula.
+
+Q: What currency does Paraguay use?
+A: The currency of Paraguay is the guarani.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
