@@ -8262,3 +8262,37 @@ A: The currency of Spain is the euro.
 
 Q: What is the capital of the US state Colorado?
 A: Denver is the capital of Colorado.
+
+
+Q: Can you count by fives from 15 to 30?
+A: Counting by fives gives 15 20 25 30.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: Can you count by twos from 8 to 12?
+A: Counting by twos gives 8 10 12 14 16.
+
+Q: Can you count by twos from 28 to 40?
+A: Counting by twos gives 28 30 32 34 36 38 40.
+
+Q: Can you count by fives from 15 to 35?
+A: Counting by fives gives 15 20 25 30 35.
+
+Q: Can you count by fives from 15 to 50?
+A: Counting by fives gives 15 20 25 30 35 40 45 50.
+
+Q: Can you count by twos from 10 to 16?
+A: Counting by twos gives 10 12 14 16.
+
+Q: Can you count by twos from 10 to 14?
+A: Counting by twos gives 10 12 14 16.
+
+Q: What currency does Finland use?
+A: The currency of Finland is the euro.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Saint Kenya is Prague.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
