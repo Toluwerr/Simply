@@ -18254,3 +18254,110 @@ A: The word 'gaborone' has 8 letters.
 
 Q: How many letters does the word 'than' have?
 A: The word 'than' has 4 letters.
+Q: What currency does North Korea use?
+A: The currency of North Korea is the won.
+
+Q: What currency does Morocco use?
+A: The currency of Morocco is the dirham.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
+
+Q: What currency does Uzbekistan use?
+A: The currency of Uzbekistan is the som.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What currency does Belgium use?
+A: The currency of Belgium is the euro.
+
+Q: How many letters does the word 'titanium' have?
+A: The word 'titanium' has 8 letters.
+
+Q: How many letters does the word 'montgomery' have?
+A: The word 'montgomery' has 10 letters.
+
+Q: How many letters does the word 'boliviano' have?
+A: The word 'boliviano' has 9 letters.
+
+Q: How many letters does the word 'mogadishu' have?
+A: The word 'mogadishu' has 9 letters.
+
+Q: How many letters does the word 'rich' have?
+A: The word 'rich' has 4 letters.
+
+Q: How many letters does the word 'selenium' have?
+A: The word 'selenium' has 8 letters.
+
+Q: How do you sort 11, 19, and 21?
+A: In order, they are 11 19 21.
+
+Q: How do you sort 434, 426, and 890?
+A: In order, they are 426 434 890.
+
+Q: How do you sort 38, 556, and 559?
+A: In order, they are 38 556 559.
+
+Q: How do you sort 2, 7, and 17?
+A: In order, they are 2 7 17.
+
+Q: How do you sort 16, 28, and 12?
+A: In order, they are 12 16 28.
+
+Q: How do you sort 805, 337, and 684?
+A: In order, they are 337 684 805.
+
+Q: Which element has the chemical symbol Rb?
+A: Rb is the chemical symbol for rubidium.
+
+Q: What is the chemical symbol for bromine?
+A: The chemical symbol for bromine is Br.
+
+Q: Which element has the chemical symbol Tb?
+A: Tb is the chemical symbol for terbium.
+
+Q: Which element has the chemical symbol Zn?
+A: Zn is the chemical symbol for zinc.
+
+Q: Which element has the chemical symbol B?
+A: B is the chemical symbol for boron.
+
+Q: What is the chemical symbol for sodium?
+A: The chemical symbol for sodium is Na.
+
+Q: What is 6 times 4?
+A: 6 times 4 is 24.
+
+Q: What is 75 minus 41?
+A: 75 minus 41 is 34.
+
+Q: What is 66 plus 48?
+A: 66 plus 48 is 114.
+
+Q: What is 12 plus 5?
+A: 12 plus 5 is 17.
+
+Q: What is 335 minus 32?
+A: 335 minus 32 is 303.
+
+Q: What is 746 plus 769?
+A: 746 plus 769 is 1515.
+
+Q: Is 27 bigger than 66?
+A: No, 66 is bigger than 27.
+
+Q: Which is bigger, 763 or 501?
+A: 763 is bigger than 501.
+
+Q: Which is bigger, 14 or 5?
+A: 14 is bigger than 5.
+
+Q: Is 6 bigger than 17?
+A: No, 17 is bigger than 6.
+
+Q: Is 733 bigger than 433?
+A: Yes, 733 is bigger than 433.
+
+Q: Is 10 bigger than 15?
+A: No, 15 is bigger than 10.
