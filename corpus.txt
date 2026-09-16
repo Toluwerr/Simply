@@ -6856,3 +6856,22 @@ A: 6 in words is sixty-four.
 
 Q: What is the Roman numeral for 79?
 A: The Roman numeral for 79 is lxxix.
+
+
+Q: What is double 3?
+A: Double 3 is 6.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 9 in words?
+A: 9 in words is ninety-six.
+
+Q: How do you write 7 in words?
+A: 7 in words is seventy-eight.
+
+Q: How much is 87 plus 55?
+A: 87 plus 55 is 142.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety.
