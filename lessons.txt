@@ -14632,3 +14632,110 @@ A: O is the chemical symbol for oxygen.
 
 Q: What is the chemical symbol for uranium?
 A: The chemical symbol for uranium is U.
+Q: Which element has the chemical symbol Mn?
+A: Mn is the chemical symbol for manganese.
+
+Q: Which element has the chemical symbol Br?
+A: Br is the chemical symbol for bromine.
+
+Q: Which element has the chemical symbol Ag?
+A: Ag is the chemical symbol for silver.
+
+Q: What is the chemical symbol for magnesium?
+A: The chemical symbol for magnesium is Mg.
+
+Q: Which element has the chemical symbol B?
+A: B is the chemical symbol for boron.
+
+Q: What is the chemical symbol for ytterbium?
+A: The chemical symbol for ytterbium is Yb.
+
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
+
+Q: What currency does Armenia use?
+A: The currency of Armenia is the dram.
+
+Q: What currency does Hungary use?
+A: The currency of Hungary is the forint.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: What is the last letter of 'riga'?
+A: The last letter of 'riga' is A.
+
+Q: What is the first letter of 'salt'?
+A: The first letter of 'salt' is S.
+
+Q: What is the last letter of 'cedi'?
+A: The last letter of 'cedi' is I.
+
+Q: What is the first letter of 'november'?
+A: The first letter of 'november' is N.
+
+Q: What is the first letter of 'djibouti'?
+A: The first letter of 'djibouti' is D.
+
+Q: What is the last letter of 'slippery'?
+A: The last letter of 'slippery' is Y.
+
+Q: What is the Roman numeral for 1?
+A: The Roman numeral for 1 is i.
+
+Q: What is the Roman numeral for 45?
+A: The Roman numeral for 45 is xlv.
+
+Q: What is the Roman numeral for 795?
+A: The Roman numeral for 795 is dccxcv.
+
+Q: What is the Roman numeral for 12?
+A: The Roman numeral for 12 is xii.
+
+Q: What is the Roman numeral for 21?
+A: The Roman numeral for 21 is xxi.
+
+Q: What number is the Roman numeral lviii?
+A: The Roman numeral lviii is the number 58.
+
+Q: How do you sort 981, 666, and 863?
+A: In order, they are 666 863 981.
+
+Q: How do you sort 24, 5, and 14?
+A: In order, they are 5 14 24.
+
+Q: How do you sort 3, 1, and 20?
+A: In order, they are 1 3 20.
+
+Q: How do you sort 2, 25, and 14?
+A: In order, they are 2 14 25.
+
+Q: How do you sort 782, 950, and 567?
+A: In order, they are 567 782 950.
+
+Q: How do you sort 21, 15, and 6?
+A: In order, they are 6 15 21.
+
+Q: What is the capital of Burkina Faso?
+A: The capital of Burkina Faso is Ouagadougou.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: What is the capital of Cameroon?
+A: The capital of Cameroon is Yaounde.
+
+Q: What is the capital of Saint Lucia?
+A: The capital of Saint Lucia is Castries.

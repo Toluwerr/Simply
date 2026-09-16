@@ -7544,3 +7544,19 @@ A: The capital of Singapore is Singapore.
 
 Q: What is the opposite of 'first'?
 A: 'last' is the opposite of 'first' is 'last'.
+
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: Which is bigger, 17 or 48?
+A: 48 is bigger than 17.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you sort 3, 7, and 26?
+A: In order, they are 3 7 26.
