@@ -1133,3 +1133,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.30 | weakest: compare 0.00, sort 0.00, double_half 0.00 | strongest: opposites 1.00, records 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I am Fey cimpraing un to the first month of the year."
 
+## Promotion - v13 - weights committed
+- **reason**: knowledge 0.39, was 0.30; val 0.3920
+- self-portrait, asked "Who are you?": *"I cann in I wan 7 is a rused:."
+
