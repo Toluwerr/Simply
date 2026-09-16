@@ -736,3 +736,48 @@ A: Prisoner of War is the third episode of the first season of the TNT science f
 
 Q: What is Mars?
 A: Mars is the leading company in the pet food industry, making about 17 billion annually in pet-care products.
+
+Q: What is JSDelivr?
+A: JSDelivr is a public content delivery network for open-source software projects, including packages hosted on GitHub, npm, and WordPress.org.
+
+Q: What is GIT Academy?
+A: GIT Academy is a Tvet vocational training institution specialising in tourism education, professional development, and industry-specific skills.
+
+Q: What is Randy Scouse Git?
+A: Randy Scouse Git is a song written by Micky Dolenz in 1967 and recorded by the Monkees.
+
+Q: What is GitLab Inc.?
+A: GitLab Inc. is an American company that operates and develops GitLab, an open-core DevOps software package that can develop, secure.
+
+Q: What is Cogito?
+A: Cogito is a revision control system layered on top of Git.
+
+Q: What is Beirut chess?
+A: Beirut chess is a chess variant invented by Jim Winslow in 1992.
+
+Q: What is Vilhelm Alexander Hellman?
+A: Vilhelm Alexander Hellman is a Swedish ski jumper.
+
+Q: What is Jean-Marie Paul Bauchet?
+A: Jean-Marie Paul Bauchet is a French Carmelite of the Congregation of the Blessed Sacrament, translator and Hebraist.
+
+Q: What is Pollard Glacier?
+A: Pollard Glacier is a glacier flowing into the south side of Comrie Glacier to the east of Bradford Glacier, on the west coast of Graham Land.
+
+Q: What is Graziano Gasparini?
+A: Graziano Gasparini is a Venezuelan architect, photographer, painter and historian.
+
+Q: What is Andrew Collins?
+A: Andrew Collins is an Australian rules football coach and former player who is currently the director of coaching at the Port Adelaide Football Club.
+
+Q: What is Collins?
+A: Collins is a rugged back pocket defender.
+
+Q: What is Chemicals?
+A: Chemicals is the debut single from Love and Death Paralyzed was released under the name 'Brian Head Welch'.
+
+Q: What is Bloom Bloom?
+A: Bloom Bloom is the second single album by South Korean boy group The Boyz.
+
+Q: What is Petroleum geology?
+A: Petroleum geology is the study of the origins, occurrence, movement, accumulation, and exploration of hydrocarbon fuels.

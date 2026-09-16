@@ -9290,3 +9290,28 @@ A: The word 'burundi' has 7 letters.
 
 Q: How many letters does the word 'panda' have?
 A: The word 'pium' has 5 letters.
+
+
+Q: How do you sort 3, 21, and 13?
+A: In order, they are 3 13 21 21.
+
+Q: How do you sort 5, 22, and 15?
+A: In order, they are 5 15 22.
+
+Q: What is double 37?
+A: Double 37 is 74 is 74.
+
+Q: How do you write 6 in words?
+A: 6 in words is sixty-eight.
+
+Q: What is 0 times 11?
+A: 0 times 11 is 0 0.
+
+Q: How many letters are in the word 'ottle'?
+A: The word 'lemon' has 5 letters.
+
+Q: How many letters does the word 'afghanistan' have?
+A: The word 'afghanistan' has 11 letters.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 polite and its forms a someths.

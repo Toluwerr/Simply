@@ -2499,3 +2499,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: knowledge 0.74, was 0.65; val 0.6913
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-style that improve 80-sty."
 
+## Iteration 294 - NO_GAIN
+- **when**: 2026-09-16T23:56:26Z
+- **train loss**: 1.0531 | **val loss**: 0.7137 | **run best**: 0.6913
+- **corpus**: 205,227 chars (+8 self-written examples)
+- **internet reading**: +30 articles, +15 facts (510 read all-time)
+- **lr**: 0.0015 | **steps**: 150
+- **knowledge quiz**: avg 0.57 | weakest: arithmetic 0.00, compare 0.00, letters 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I was born very mently, and mleches in its more."
+
