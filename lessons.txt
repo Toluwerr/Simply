@@ -14739,3 +14739,110 @@ A: The capital of Cameroon is Yaounde.
 
 Q: What is the capital of Saint Lucia?
 A: The capital of Saint Lucia is Castries.
+Q: Can you count by fives from 20 to 45?
+A: Counting by fives gives 20 25 30 35 40 45.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by twos from 32 to 42?
+A: Counting by twos gives 32 34 36 38 40 42.
+
+Q: Can you count by twos from 38 to 48?
+A: Counting by twos gives 38 40 42 44 46 48.
+
+Q: Can you count by ones from 20 to 24?
+A: Counting by ones gives 20 21 22 23 24.
+
+Q: Can you count by fives from 15 to 30?
+A: Counting by fives gives 15 20 25 30.
+
+Q: What is the Roman numeral for 222?
+A: The Roman numeral for 222 is ccxxii.
+
+Q: What number is the Roman numeral xcviii?
+A: The Roman numeral xcviii is the number 98.
+
+Q: What is the Roman numeral for 26?
+A: The Roman numeral for 26 is xxvi.
+
+Q: What is the Roman numeral for 49?
+A: The Roman numeral for 49 is xlix.
+
+Q: What number is the Roman numeral xiv?
+A: The Roman numeral xiv is the number 14.
+
+Q: What number is the Roman numeral cclxix?
+A: The Roman numeral cclxix is the number 269.
+
+Q: Which element has the chemical symbol Gd?
+A: Gd is the chemical symbol for gadolinium.
+
+Q: What is the chemical symbol for nickel?
+A: The chemical symbol for nickel is Ni.
+
+Q: What is the chemical symbol for lithium?
+A: The chemical symbol for lithium is Li.
+
+Q: Which element has the chemical symbol Pm?
+A: Pm is the chemical symbol for promethium.
+
+Q: What is the chemical symbol for selenium?
+A: The chemical symbol for selenium is Se.
+
+Q: Which element has the chemical symbol Br?
+A: Br is the chemical symbol for bromine.
+
+Q: What is 9 minus 2?
+A: 9 minus 2 is 7.
+
+Q: What is 84 minus 25?
+A: 84 minus 25 is 59.
+
+Q: What is 442 minus 255?
+A: 442 minus 255 is 187.
+
+Q: What is 70 minus 22?
+A: 70 minus 22 is 48.
+
+Q: What is 9 times 7?
+A: 9 times 7 is 63.
+
+Q: What is 85 minus 26?
+A: 85 minus 26 is 59.
+
+Q: What is the first letter of 'ashgabat'?
+A: The first letter of 'ashgabat' is A.
+
+Q: What is the last letter of 'tallinn'?
+A: The last letter of 'tallinn' is N.
+
+Q: What is the first letter of 'windhoek'?
+A: The first letter of 'windhoek' is W.
+
+Q: What is the last letter of 'tall'?
+A: The last letter of 'tall' is L.
+
+Q: What is the first letter of 'hanoi'?
+A: The first letter of 'hanoi' is H.
+
+Q: What is the last letter of 'faso'?
+A: The last letter of 'faso' is O.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
