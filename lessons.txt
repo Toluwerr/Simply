@@ -12758,3 +12758,128 @@ A: Columbus is the capital of Ohio.
 
 Q: What is the capital of the US state Virginia?
 A: Richmond is the capital of Virginia.
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 63 in words?
+A: 63 in words is sixty-three.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What number is the Roman numeral xxxiv?
+A: The Roman numeral xxxiv is the number 34.
+
+Q: What number is the Roman numeral lxxxiv?
+A: The Roman numeral lxxxiv is the number 84.
+
+Q: What is the Roman numeral for 74?
+A: The Roman numeral for 74 is lxxiv.
+
+Q: What is the Roman numeral for 312?
+A: The Roman numeral for 312 is cccxii.
+
+Q: What number is the Roman numeral i?
+A: The Roman numeral i is the number 1.
+
+Q: What is 91 plus 16?
+A: 91 plus 16 is 107.
+
+Q: What is 17 plus 1?
+A: 17 plus 1 is 18.
+
+Q: What is 14 times 19?
+A: 14 times 19 is 266.
+
+Q: What is 604 minus 462?
+A: 604 minus 462 is 142.
+
+Q: What is 16 minus 9?
+A: 16 minus 9 is 7.
+
+Q: What is 38 plus 54?
+A: 38 plus 54 is 92.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: What continent is Peru on?
+A: Peru is on the continent of South America.
+
+Q: What continent is Mongolia on?
+A: Mongolia is on the continent of Asia.
+
+Q: What continent is Samoa on?
+A: Samoa is on the continent of Oceania.
+
+Q: What continent is Denmark on?
+A: Denmark is on the continent of Europe.
+
+Q: What continent is Morocco on?
+A: Morocco is on the continent of Africa.
