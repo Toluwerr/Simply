@@ -6690,3 +6690,7 @@ A: The word 'candle' has 7 letters.
 
 Q: How many letters does the word 'zeandia' have?
 A: The word 'razyptitze' has 7 letters.
+
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40 50 60.

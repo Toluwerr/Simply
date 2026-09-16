@@ -3959,3 +3959,110 @@ A: The first letter of 'comoros' is C.
 
 Q: What is the first letter of 'mozambique'?
 A: The first letter of 'mozambique' is M.
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What is the last letter of 'panama'?
+A: The last letter of 'panama' is A.
+
+Q: What is the first letter of 'forint'?
+A: The first letter of 'forint' is F.
+
+Q: What is the last letter of 'watchful'?
+A: The last letter of 'watchful' is L.
+
+Q: What is the first letter of 'castries'?
+A: The first letter of 'castries' is C.
+
+Q: What is the first letter of 'wanting'?
+A: The first letter of 'wanting' is W.
+
+Q: What is the first letter of 'verde'?
+A: The first letter of 'verde' is V.
+
+Q: What is the chemical symbol for tin?
+A: The chemical symbol for tin is Sn.
+
+Q: What is the chemical symbol for thallium?
+A: The chemical symbol for thallium is Tl.
+
+Q: What is the chemical symbol for iron?
+A: The chemical symbol for iron is Fe.
+
+Q: What is the chemical symbol for chromium?
+A: The chemical symbol for chromium is Cr.
+
+Q: What is the chemical symbol for neon?
+A: The chemical symbol for neon is Ne.
+
+Q: What is the chemical symbol for vanadium?
+A: The chemical symbol for vanadium is V.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 37 in words?
+A: 37 in words is thirty-seven.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: How many sides does a triangle have?
+A: A triangle has 3 sides.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: What number is the Roman numeral cdlv?
+A: The Roman numeral cdlv is the number 455.
+
+Q: What is the Roman numeral for 9?
+A: The Roman numeral for 9 is ix.
+
+Q: What is the Roman numeral for 93?
+A: The Roman numeral for 93 is xciii.
+
+Q: What is the Roman numeral for 12?
+A: The Roman numeral for 12 is xii.
+
+Q: What number is the Roman numeral cli?
+A: The Roman numeral cli is the number 151.
+
+Q: What number is the Roman numeral x?
+A: The Roman numeral x is the number 10.
