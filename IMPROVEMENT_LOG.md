@@ -1630,3 +1630,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.26 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, units 1.00, planets 1.00
 - self-portrait, asked "Who are you?": *"Dou are 3 times 3 is 24."
 
+## Iteration 201 - NO_GAIN
+- **when**: 2026-09-16T22:48:10Z
+- **train loss**: 0.9065 | **val loss**: 0.7014 | **run best**: 0.6922
+- **corpus**: 158,674 chars (+2 self-written examples)
+- **internet reading**: +30 articles, +16 facts (210 read all-time)
+- **lr**: 0.0015 | **steps**: 150
+- **knowledge quiz**: avg 0.26 | weakest: arithmetic 0.00, sort 0.00, count 0.00 | strongest: definitions 1.00, units 1.00, months 1.00
+- self-portrait, asked "Who are you?": *"Thank you?"
+

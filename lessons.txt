@@ -12544,3 +12544,110 @@ A: The last letter of 'carson' is N.
 
 Q: What is the last letter of 'fresh'?
 A: The last letter of 'fresh' is H.
+Q: What currency does Chile use?
+A: The currency of Chile is the peso.
+
+Q: What currency does Zambia use?
+A: The currency of Zambia is the kwacha.
+
+Q: What currency does Belgium use?
+A: The currency of Belgium is the euro.
+
+Q: What currency does Ukraine use?
+A: The currency of Ukraine is the hryvnia.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
+
+Q: What currency does Costa Rica use?
+A: The currency of Costa Rica is the colon.
+
+Q: How many letters does the word 'rhenium' have?
+A: The word 'rhenium' has 7 letters.
+
+Q: How many letters does the word 'jupiter' have?
+A: The word 'jupiter' has 7 letters.
+
+Q: How many letters does the word 'ytterbium' have?
+A: The word 'ytterbium' has 9 letters.
+
+Q: How many letters does the word 'able' have?
+A: The word 'able' has 4 letters.
+
+Q: How many letters does the word 'panda' have?
+A: The word 'panda' has 5 letters.
+
+Q: How many letters does the word 'des' have?
+A: The word 'des' has 3 letters.
+
+Q: How do you sort 766, 720, and 898?
+A: In order, they are 720 766 898.
+
+Q: How do you sort 942, 783, and 672?
+A: In order, they are 672 783 942.
+
+Q: How do you sort 327, 377, and 452?
+A: In order, they are 327 377 452.
+
+Q: How do you sort 21, 1, and 8?
+A: In order, they are 1 8 21.
+
+Q: How do you sort 2, 10, and 13?
+A: In order, they are 2 10 13.
+
+Q: How do you sort 580, 11, and 759?
+A: In order, they are 11 580 759.
+
+Q: Which element has the chemical symbol Re?
+A: Re is the chemical symbol for rhenium.
+
+Q: What is the chemical symbol for magnesium?
+A: The chemical symbol for magnesium is Mg.
+
+Q: What is the chemical symbol for lead?
+A: The chemical symbol for lead is Pb.
+
+Q: What is the chemical symbol for ruthenium?
+A: The chemical symbol for ruthenium is Ru.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: What is 702 minus 455?
+A: 702 minus 455 is 247.
+
+Q: What is 11 times 14?
+A: 11 times 14 is 154.
+
+Q: What is 10 plus 6?
+A: 10 plus 6 is 16.
+
+Q: What is 620 plus 17?
+A: 620 plus 17 is 637.
+
+Q: What is 25 plus 77?
+A: 25 plus 77 is 102.
+
+Q: What is 452 minus 300?
+A: 452 minus 300 is 152.
+
+Q: Is 460 bigger than 469?
+A: No, 469 is bigger than 460.
+
+Q: Which is bigger, 399 or 640?
+A: 640 is bigger than 399.
+
+Q: Which is bigger, 9 or 4?
+A: 9 is bigger than 4.
+
+Q: Is 10 bigger than 4?
+A: Yes, 10 is bigger than 4.
+
+Q: Is 181 bigger than 532?
+A: No, 532 is bigger than 181.
+
+Q: Is 504 bigger than 364?
+A: Yes, 504 is bigger than 364.
