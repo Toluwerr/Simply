@@ -20252,3 +20252,110 @@ A: 3 times 8 is 24.
 
 Q: What is 346 plus 867?
 A: 346 plus 867 is 1213.
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: What continent is Andorra on?
+A: Andorra is on the continent of Europe.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is Monaco on?
+A: Monaco is on the continent of Europe.
+
+Q: Which element has the chemical symbol I?
+A: I is the chemical symbol for iodine.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: Which element has the chemical symbol Pt?
+A: Pt is the chemical symbol for platinum.
+
+Q: Which element has the chemical symbol Ce?
+A: Ce is the chemical symbol for cerium.
+
+Q: Which element has the chemical symbol Pm?
+A: Pm is the chemical symbol for promethium.
+
+Q: What is the chemical symbol for actinium?
+A: The chemical symbol for actinium is Ac.
+
+Q: What is 891 minus 132?
+A: 891 minus 132 is 759.
+
+Q: What is 30 plus 21?
+A: 30 plus 21 is 51.
+
+Q: What is 614 plus 900?
+A: 614 plus 900 is 1514.
+
+Q: What is 807 minus 417?
+A: 807 minus 417 is 390.
+
+Q: What is 72 plus 79?
+A: 72 plus 79 is 151.
+
+Q: What is 5 times 7?
+A: 5 times 7 is 35.
+
+Q: What currency does Iraq use?
+A: The currency of Iraq is the dinar.
+
+Q: What currency does Mongolia use?
+A: The currency of Mongolia is the tugrik.
+
+Q: What currency does Rwanda use?
+A: The currency of Rwanda is the franc.
+
+Q: What currency does Slovakia use?
+A: The currency of Slovakia is the euro.
+
+Q: What currency does Sweden use?
+A: The currency of Sweden is the krona.
+
+Q: What currency does Turkey use?
+A: The currency of Turkey is the lira.
+
+Q: What is the Roman numeral for 39?
+A: The Roman numeral for 39 is xxxix.
+
+Q: What number is the Roman numeral lx?
+A: The Roman numeral lx is the number 60.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: What is the Roman numeral for 947?
+A: The Roman numeral for 947 is cmxlvii.
+
+Q: What number is the Roman numeral xlvii?
+A: The Roman numeral xlvii is the number 47.
+
+Q: How do you sort 12, 25, and 13?
+A: In order, they are 12 13 25.
+
+Q: How do you sort 19, 5, and 1?
+A: In order, they are 1 5 19.
+
+Q: How do you sort 1, 8, and 22?
+A: In order, they are 1 8 22.
+
+Q: How do you sort 305, 229, and 827?
+A: In order, they are 229 305 827.
+
+Q: How do you sort 16, 12, and 6?
+A: In order, they are 6 12 16.
+
+Q: How do you sort 8, 20, and 11?
+A: In order, they are 8 11 20.

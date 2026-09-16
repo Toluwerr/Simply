@@ -1,0 +1,20 @@
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: Can you count by twos from 8 to 12?
+A: Counting by twos gives 8 10 12 14.
+
+Q: How do you sort 2, 22, and 14?
+A: In order, they are 2 14 22.
+
+Q: How do you sort 21, 2, and 25?
+A: In order, they are 2 21 25.
+
+Q: How do you sort 10, 7, and 17?
+A: In order, they are 7 10 17.
+
+Q: How do you sort 12, 18, and 28?
+A: In order, they are 12 18 28.
+
+Q: How do you sort 4, 18, and 14?
+A: In order, they are 4 14 18.
