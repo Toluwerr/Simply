@@ -6593,3 +6593,19 @@ A: 0 times 8 is 0.
 
 Q: What is 1 times 1?
 A: 1 times 1 is 11.
+
+
+Q: How do you write 11 in words?
+A: 11 in words is eleventen.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is double 5?
+A: Double 5 is 10.
+
+Q: What number is the Roman numeral vi?
+A: The Roman numeral i v is the number 6543.

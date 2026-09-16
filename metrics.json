@@ -1,13 +1,13 @@
 {
   "version": 10,
-  "iteration": 116,
+  "iteration": 117,
   "best_val_loss": 0.4707233339548111,
   "lr": 0.00075,
-  "plateaus": 0,
+  "plateaus": 1,
   "val_start": 130668,
   "val_end": 137546,
-  "dataset_chars": 144429,
-  "synthetic_total": 97,
+  "dataset_chars": 144716,
+  "synthetic_total": 102,
   "model_kwargs": {
     "block_size": 128,
     "n_layer": 4,
@@ -31,15 +31,15 @@
     "currencies": 0.0,
     "continents": 0.0,
     "elements": 0.0,
-    "planets": 1.0,
+    "planets": 0.0,
     "months": 1.0,
-    "units": 1.0,
-    "records": 1.0,
-    "animals": 0.0,
+    "units": 0.0,
+    "records": 0.0,
+    "animals": 1.0,
     "opposites": 0.0,
     "definitions": 0.0
   },
   "study_mode_v1": true,
   "head_chars": 144205,
-  "lessons": 865
+  "lessons": 906
 }

@@ -2602,3 +2602,128 @@ A: A pig says 'oink'.
 
 Q: What sound does a duck make?
 A: A duck says 'quack'.
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What currency does the Czech Republic use?
+A: The currency of the Czech Republic is the koruna.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
+
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What number is the Roman numeral xxxiv?
+A: The Roman numeral xxxiv is the number 34.
+
+Q: What is the Roman numeral for 30?
+A: The Roman numeral for 30 is xxx.
+
+Q: What number is the Roman numeral dcxxxv?
+A: The Roman numeral dcxxxv is the number 635.
+
+Q: What number is the Roman numeral v?
+A: The Roman numeral v is the number 5.
+
+Q: What is the Roman numeral for 245?
+A: The Roman numeral for 245 is ccxlv.
+
+Q: What number is the Roman numeral lxviii?
+A: The Roman numeral lxviii is the number 68.
+
+Q: What is the chemical symbol for thallium?
+A: The chemical symbol for thallium is Tl.
+
+Q: Which element has the chemical symbol Zn?
+A: Zn is the chemical symbol for zinc.
+
+Q: Which element has the chemical symbol Ho?
+A: Ho is the chemical symbol for holmium.
+
+Q: Which element has the chemical symbol Lu?
+A: Lu is the chemical symbol for lutetium.
+
+Q: What is the chemical symbol for dysprosium?
+A: The chemical symbol for dysprosium is Dy.
+
+Q: What is the chemical symbol for uranium?
+A: The chemical symbol for uranium is U.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
