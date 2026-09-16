@@ -14275,3 +14275,128 @@ A: Th is the chemical symbol for thorium.
 
 Q: What is the chemical symbol for tellurium?
 A: The chemical symbol for tellurium is Te.
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Croatia use?
+A: The currency of Croatia is the euro.
+
+Q: What currency does Sri Lanka use?
+A: The currency of Sri Lanka is the rupee.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What is 99 plus 52?
+A: 99 plus 52 is 151.
+
+Q: What is 88 minus 18?
+A: 88 minus 18 is 70.
+
+Q: What is 473 plus 224?
+A: 473 plus 224 is 697.
+
+Q: What is 8 minus 8?
+A: 8 minus 8 is 0.
+
+Q: What is 12 times 16?
+A: 12 times 16 is 192.
+
+Q: What is 11 times 18?
+A: 11 times 18 is 198.
+
+Q: Which element has the chemical symbol Sn?
+A: Sn is the chemical symbol for tin.
+
+Q: Which element has the chemical symbol Tl?
+A: Tl is the chemical symbol for thallium.
+
+Q: What is the chemical symbol for hydrogen?
+A: The chemical symbol for hydrogen is H.
+
+Q: What is the chemical symbol for krypton?
+A: The chemical symbol for krypton is Kr.
+
+Q: Which element has the chemical symbol Nd?
+A: Nd is the chemical symbol for neodymium.
+
+Q: What is the chemical symbol for bismuth?
+A: The chemical symbol for bismuth is Bi.
+
+Q: How do you sort 16, 3, and 24?
+A: In order, they are 3 16 24.
+
+Q: How do you sort 19, 8, and 5?
+A: In order, they are 5 8 19.
+
+Q: How do you sort 3, 12, and 27?
+A: In order, they are 3 12 27.
+
+Q: How do you sort 124, 258, and 552?
+A: In order, they are 124 258 552.
+
+Q: How do you sort 14, 19, and 27?
+A: In order, they are 14 19 27.
+
+Q: How do you sort 785, 225, and 843?
+A: In order, they are 225 785 843.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What number is the Roman numeral dccclviii?
+A: The Roman numeral dccclviii is the number 858.
+
+Q: What number is the Roman numeral dcclxviii?
+A: The Roman numeral dcclxviii is the number 768.
+
+Q: What is the Roman numeral for 437?
+A: The Roman numeral for 437 is cdxxxvii.
+
+Q: What is the Roman numeral for 1?
+A: The Roman numeral for 1 is i.
+
+Q: What number is the Roman numeral cccxxiv?
+A: The Roman numeral cccxxiv is the number 324.
+
+Q: What number is the Roman numeral clvii?
+A: The Roman numeral clvii is the number 157.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 50 in words?
+A: 50 in words is fifty.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 48 in words?
+A: 48 in words is forty-eight.

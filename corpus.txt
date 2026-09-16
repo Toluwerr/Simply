@@ -7484,3 +7484,34 @@ A: Salem is the capital of Oregon.
 
 Q: What is the capital of the US state Hawaii?
 A: Honolulu is the capital of Hawaii.
+
+
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordobaal.
+
+Q: What currency does Uzbekistan use?
+A: The currency of Uzbekistan is the som.
+
+Q: What currency does New Zealand use?
+A: The currency of New Zealand is the dollar.
+
+Q: What is the chemical symbol for cadmium?
+A: The chemical symbol for cadmium is Cd.
+
+Q: Which element has the chemical symbol Br?
+A: W is the chemical symbol for bromine.
+
+Q: How do you sort 21, 9, and 17?
+A: In order, they are 9 17 21.
+
+Q: What is the capital of Spain?
+A: The capital of Madrideroon'surlading and is Line'surren writreed.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: How do you sort 13, 11, and 17?
+A: In order, they are 11 13 17 25.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
