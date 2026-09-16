@@ -1,0 +1,23 @@
+Q: What is the capital of San Marino?
+A: The capital of San Marino is San Marino.
+
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What is the chemical symbol for aluminium?
+A: The chemical symbol for aluminium is Al.
+
+Q: Is 18 bigger than 1?
+A: Yes, 18 is bigger than 1.
+
+Q: Which is bigger, 9 or 18?
+A: 18 is bigger than 9.
+
+Q: Which is bigger, 6 or 7?
+A: 7 is bigger than 6.
+
+Q: What is the Roman numeral for 16?
+A: The Roman numeral for 16 is xviv.

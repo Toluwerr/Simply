@@ -22143,3 +22143,128 @@ A: Counting by ones gives 12 13 14 15 16.
 
 Q: Can you count by twos from 26 to 32?
 A: Counting by twos gives 26 28 30 32.
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordoba.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What currency does India use?
+A: The currency of India is the rupee.
+
+Q: What currency does Chile use?
+A: The currency of Chile is the peso.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: What is the chemical symbol for gold?
+A: The chemical symbol for gold is Au.
+
+Q: Which element has the chemical symbol Sn?
+A: Sn is the chemical symbol for tin.
+
+Q: Which element has the chemical symbol Sc?
+A: Sc is the chemical symbol for scandium.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: What is the chemical symbol for indium?
+A: The chemical symbol for indium is In.
+
+Q: How many letters does the word 'maryland' have?
+A: The word 'maryland' has 8 letters.
+
+Q: How many letters does the word 'bread' have?
+A: The word 'bread' has 5 letters.
+
+Q: How many letters does the word 'thulium' have?
+A: The word 'thulium' has 7 letters.
+
+Q: How many letters does the word 'raven' have?
+A: The word 'raven' has 5 letters.
+
+Q: How many letters does the word 'dublin' have?
+A: The word 'dublin' has 6 letters.
+
+Q: How many letters does the word 'picked' have?
+A: The word 'picked' has 6 letters.
+
+Q: How do you sort 16, 20, and 3?
+A: In order, they are 3 16 20.
+
+Q: How do you sort 16, 17, and 5?
+A: In order, they are 5 16 17.
+
+Q: How do you sort 883, 180, and 129?
+A: In order, they are 129 180 883.
+
+Q: How do you sort 451, 411, and 310?
+A: In order, they are 310 411 451.
+
+Q: How do you sort 9, 3, and 29?
+A: In order, they are 3 9 29.
+
+Q: How do you sort 179, 696, and 849?
+A: In order, they are 179 696 849.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Connecticut?
+A: Hartford is the capital of Connecticut.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the Roman numeral for 12?
+A: The Roman numeral for 12 is xii.
+
+Q: What number is the Roman numeral ccxx?
+A: The Roman numeral ccxx is the number 220.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What is the Roman numeral for 24?
+A: The Roman numeral for 24 is xxiv.
+
+Q: What is the Roman numeral for 72?
+A: The Roman numeral for 72 is lxxii.
+
+Q: What is the Roman numeral for 63?
+A: The Roman numeral for 63 is lxiii.
