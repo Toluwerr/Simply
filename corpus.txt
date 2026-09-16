@@ -9353,3 +9353,43 @@ A: Topeka is the capital of Kansas.
 
 Q: What is 0 plus 66?
 A: 0 plus 66 is 667.
+
+
+Q: Which is bigger, 19 or 12?
+A: 19 is bigger than 12.
+
+Q: Which is bigger, 6 or 12?
+A: 12 is bigger than 6.
+
+Q: Which is bigger, 57 or 4?
+A: 57 is bigger than 4.
+
+Q: Which is bigger, 68 or 99?
+A: 99 is bigger than 68.
+
+Q: How do you sort 12, 18, and 8?
+A: In order, they are 8 12 18.
+
+Q: What currency does Belarus use?
+A: The currency of Belarus is the ruble.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: Is 8 bigger than 14?
+A: No, 14 is bigger than 8.
+
+Q: What is the opposite of 'early'?
+A: 'late' is the opposite of 'fast'.
+
+Q: Which is bigger, 0 or 19?
+A: 19 is bigger than 19.
+
+Q: How many letters does the word 'maple' have?
+A: The word 'buzz''' has 5 letters.

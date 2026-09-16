@@ -23374,3 +23374,110 @@ A: Lincoln is the capital of Nebraska.
 
 Q: What is the capital of the US state South Carolina?
 A: Columbia is the capital of South Carolina.
+Q: Which element has the chemical symbol Co?
+A: Co is the chemical symbol for cobalt.
+
+Q: Which element has the chemical symbol Nb?
+A: Nb is the chemical symbol for niobium.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: What is the chemical symbol for cobalt?
+A: The chemical symbol for cobalt is Co.
+
+Q: What is the chemical symbol for molybdenum?
+A: The chemical symbol for molybdenum is Mo.
+
+Q: Which element has the chemical symbol In?
+A: In is the chemical symbol for indium.
+
+Q: What is the Roman numeral for 16?
+A: The Roman numeral for 16 is xvi.
+
+Q: What number is the Roman numeral lxiii?
+A: The Roman numeral lxiii is the number 63.
+
+Q: What is the Roman numeral for 804?
+A: The Roman numeral for 804 is dccciv.
+
+Q: What number is the Roman numeral xx?
+A: The Roman numeral xx is the number 20.
+
+Q: What is the Roman numeral for 1?
+A: The Roman numeral for 1 is i.
+
+Q: What is the Roman numeral for 9?
+A: The Roman numeral for 9 is ix.
+
+Q: How do you sort 11, 23, and 9?
+A: In order, they are 9 11 23.
+
+Q: How do you sort 22, 774, and 435?
+A: In order, they are 22 435 774.
+
+Q: How do you sort 574, 394, and 379?
+A: In order, they are 379 394 574.
+
+Q: How do you sort 28, 2, and 8?
+A: In order, they are 2 8 28.
+
+Q: How do you sort 18, 991, and 468?
+A: In order, they are 18 468 991.
+
+Q: How do you sort 630, 193, and 920?
+A: In order, they are 193 630 920.
+
+Q: Is 957 bigger than 405?
+A: Yes, 957 is bigger than 405.
+
+Q: Is 68 bigger than 40?
+A: Yes, 68 is bigger than 40.
+
+Q: Which is bigger, 4 or 9?
+A: 9 is bigger than 4.
+
+Q: Is 29 bigger than 17?
+A: Yes, 29 is bigger than 17.
+
+Q: Which is bigger, 861 or 681?
+A: 861 is bigger than 681.
+
+Q: Which is bigger, 866 or 326?
+A: 866 is bigger than 326.
+
+Q: What is the first letter of 'ruthenium'?
+A: The first letter of 'ruthenium' is R.
+
+Q: What is the first letter of 'nitrogen'?
+A: The first letter of 'nitrogen' is N.
+
+Q: What is the first letter of 'nouakchott'?
+A: The first letter of 'nouakchott' is N.
+
+Q: What is the last letter of 'slightly'?
+A: The last letter of 'slightly' is Y.
+
+Q: What is the first letter of 'dakota'?
+A: The first letter of 'dakota' is D.
+
+Q: What is the first letter of 'cozy'?
+A: The first letter of 'cozy' is C.
+
+Q: How many letters does the word 'euro' have?
+A: The word 'euro' has 4 letters.
+
+Q: How many letters does the word 'needed' have?
+A: The word 'needed' has 6 letters.
+
+Q: How many letters does the word 'smile' have?
+A: The word 'smile' has 5 letters.
+
+Q: How many letters does the word 'snake' have?
+A: The word 'snake' has 5 letters.
+
+Q: How many letters does the word 'benin' have?
+A: The word 'benin' has 5 letters.
+
+Q: How many letters does the word 'boise' have?
+A: The word 'boise' has 5 letters.
