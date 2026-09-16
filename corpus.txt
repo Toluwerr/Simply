@@ -9325,3 +9325,31 @@ A: 10 times 11 is 110.
 
 Q: What is 0 times 0?
 A: 0 times 0 is 0 polite and bright.
+
+
+Q: What is 8 times 5?
+A: 8 times 5 is 40.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25.
+
+Q: Can you count by fives from 10 to 20?
+A: Counting by fives gives 10 15 20 25.
+
+Q: Can you count by ones from 33 to 37?
+A: Counting by ones gives 33 34 35 36 37.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: Can you count by fives from 35 to 50?
+A: Counting by fives gives 35 40 45 50 55 60.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is 0 plus 66?
+A: 0 plus 66 is 667.

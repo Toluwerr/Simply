@@ -23249,3 +23249,128 @@ A: Yes, 72 is bigger than 68.
 
 Q: Is 51 bigger than 87?
 A: No, 87 is bigger than 51.
+Q: What is 94 minus 41?
+A: 94 minus 41 is 53.
+
+Q: What is 832 minus 418?
+A: 832 minus 418 is 414.
+
+Q: What is 8 plus 6?
+A: 8 plus 6 is 14.
+
+Q: What is 881 plus 120?
+A: 881 plus 120 is 1001.
+
+Q: What is 8 plus 9?
+A: 8 plus 9 is 17.
+
+Q: What is 8 times 7?
+A: 8 times 7 is 56.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Can you count by twos from 34 to 42?
+A: Counting by twos gives 34 36 38 40 42.
+
+Q: Can you count by fives from 5 to 30?
+A: Counting by fives gives 5 10 15 20 25 30.
+
+Q: Can you count by ones from 5 to 7?
+A: Counting by ones gives 5 6 7.
+
+Q: Can you count by twos from 32 to 36?
+A: Counting by twos gives 32 34 36.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by twos from 38 to 48?
+A: Counting by twos gives 38 40 42 44 46 48.
+
+Q: How many letters does the word 'helsinki' have?
+A: The word 'helsinki' has 8 letters.
+
+Q: How many letters does the word 'baghdad' have?
+A: The word 'baghdad' has 7 letters.
+
+Q: How many letters does the word 'skopje' have?
+A: The word 'skopje' has 6 letters.
+
+Q: How many letters does the word 'cloud' have?
+A: The word 'cloud' has 5 letters.
+
+Q: How many letters does the word 'louis' have?
+A: The word 'louis' has 5 letters.
+
+Q: How many letters does the word 'rabat' have?
+A: The word 'rabat' has 5 letters.
+
+Q: How do you sort 255, 550, and 123?
+A: In order, they are 123 255 550.
+
+Q: How do you sort 169, 783, and 432?
+A: In order, they are 169 432 783.
+
+Q: How do you sort 19, 28, and 26?
+A: In order, they are 19 26 28.
+
+Q: How do you sort 58, 905, and 580?
+A: In order, they are 58 580 905.
+
+Q: How do you sort 10, 15, and 25?
+A: In order, they are 10 15 25.
+
+Q: How do you sort 15, 17, and 19?
+A: In order, they are 15 17 19.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
