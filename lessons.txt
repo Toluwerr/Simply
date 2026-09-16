@@ -13900,3 +13900,128 @@ A: In order, they are 2 14 18.
 
 Q: How do you sort 7, 11, and 21?
 A: In order, they are 7 11 21.
+Q: What number is the Roman numeral xvii?
+A: The Roman numeral xvii is the number 17.
+
+Q: What is the Roman numeral for 48?
+A: The Roman numeral for 48 is xlviii.
+
+Q: What is the Roman numeral for 12?
+A: The Roman numeral for 12 is xii.
+
+Q: What number is the Roman numeral lxii?
+A: The Roman numeral lxii is the number 62.
+
+Q: What is the Roman numeral for 480?
+A: The Roman numeral for 480 is cdlxxx.
+
+Q: What number is the Roman numeral lxviii?
+A: The Roman numeral lxviii is the number 68.
+
+Q: What is 10 times 8?
+A: 10 times 8 is 80.
+
+Q: What is 15 plus 1?
+A: 15 plus 1 is 16.
+
+Q: What is 67 minus 35?
+A: 67 minus 35 is 32.
+
+Q: What is 7 plus 7?
+A: 7 plus 7 is 14.
+
+Q: What is 13 plus 17?
+A: 13 plus 17 is 30.
+
+Q: What is 69 plus 23?
+A: 69 plus 23 is 92.
+
+Q: What continent is Australia on?
+A: Australia is on the continent of Australia.
+
+Q: What continent is Mexico on?
+A: Mexico is on the continent of North America.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What continent is Nepal on?
+A: Nepal is on the continent of Asia.
+
+Q: What continent is the United Kingdom on?
+A: the United Kingdom is on the continent of Europe.
+
+Q: Is 25 bigger than 84?
+A: No, 84 is bigger than 25.
+
+Q: Which is bigger, 286 or 482?
+A: 482 is bigger than 286.
+
+Q: Which is bigger, 93 or 81?
+A: 93 is bigger than 81.
+
+Q: Is 15 bigger than 1?
+A: Yes, 15 is bigger than 1.
+
+Q: Is 50 bigger than 19?
+A: Yes, 50 is bigger than 19.
+
+Q: Which is bigger, 19 or 16?
+A: 19 is bigger than 16.
+
+Q: What is the last letter of 'canberra'?
+A: The last letter of 'canberra' is A.
+
+Q: What is the last letter of 'forint'?
+A: The last letter of 'forint' is T.
+
+Q: What is the first letter of 'france'?
+A: The first letter of 'france' is F.
+
+Q: What is the last letter of 'thimphu'?
+A: The last letter of 'thimphu' is U.
+
+Q: What is the first letter of 'rica'?
+A: The first letter of 'rica' is R.
+
+Q: What is the last letter of 'rupiah'?
+A: The last letter of 'rupiah' is H.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: What is the chemical symbol for tin?
+A: The chemical symbol for tin is Sn.
+
+Q: Which element has the chemical symbol S?
+A: S is the chemical symbol for sulfur.
+
+Q: Which element has the chemical symbol Ta?
+A: Ta is the chemical symbol for tantalum.
+
+Q: Which element has the chemical symbol Pb?
+A: Pb is the chemical symbol for lead.
+
+Q: What is the chemical symbol for dysprosium?
+A: The chemical symbol for dysprosium is Dy.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the closest star to Earth?
+A: The sun is the closest star to Earth.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the hardest natural substance?
+A: Diamond is the hardest natural substance.
