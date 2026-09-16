@@ -1115,3 +1115,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.22 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, animals 1.00, months 1.00
 - self-portrait, asked "Who are you?": *"I gooly thanums the first month of the year."
 
+## Iteration 146 - NO_GAIN
+- **when**: 2026-09-16T06:57:57Z
+- **train loss**: 0.5318 | **val loss**: 0.3974 | **run best**: 0.3892
+- **corpus**: 149,887 chars (+1 self-written examples)
+- **internet reading**: +30 articles, +15 facts (60 read all-time)
+- **lr**: 0.0003 | **steps**: 200
+- **knowledge quiz**: avg 0.17 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, units 1.00, months 1.00
+- self-portrait, asked "Who are you?": *"I was trained to the hirdesevent planet from the sun."
+
