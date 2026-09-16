@@ -7515,3 +7515,7 @@ A: In order, they are 11 13 17 25.
 
 Q: What is the capital of the US state Florida?
 A: Tallahassee is the capital of Florida.
+
+
+Q: Which is bigger, 78 or 99?
+A: 99 is bigger than 68.

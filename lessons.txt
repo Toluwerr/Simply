@@ -14400,3 +14400,110 @@ A: 42 in words is forty-two.
 
 Q: How do you write 48 in words?
 A: 48 in words is forty-eight.
+Q: Which element has the chemical symbol W?
+A: W is the chemical symbol for tungsten.
+
+Q: What is the chemical symbol for bromine?
+A: The chemical symbol for bromine is Br.
+
+Q: What is the chemical symbol for arsenic?
+A: The chemical symbol for arsenic is As.
+
+Q: What is the chemical symbol for niobium?
+A: The chemical symbol for niobium is Nb.
+
+Q: Which element has the chemical symbol N?
+A: N is the chemical symbol for nitrogen.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: What is the capital of Vietnam?
+A: The capital of Vietnam is Hanoi.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+
+Q: What is the capital of Kuwait?
+A: The capital of Kuwait is Kuwait City.
+
+Q: What is the capital of Iraq?
+A: The capital of Iraq is Baghdad.
+
+Q: What is the capital of Chile?
+A: The capital of Chile is Santiago.
+
+Q: What is the Roman numeral for 12?
+A: The Roman numeral for 12 is xii.
+
+Q: What is the Roman numeral for 31?
+A: The Roman numeral for 31 is xxxi.
+
+Q: What number is the Roman numeral xxii?
+A: The Roman numeral xxii is the number 22.
+
+Q: What is the Roman numeral for 537?
+A: The Roman numeral for 537 is dxxxvii.
+
+Q: What is the Roman numeral for 393?
+A: The Roman numeral for 393 is cccxciii.
+
+Q: What is the Roman numeral for 951?
+A: The Roman numeral for 951 is cmli.
+
+Q: How do you sort 270, 949, and 265?
+A: In order, they are 265 270 949.
+
+Q: How do you sort 16, 22, and 8?
+A: In order, they are 8 16 22.
+
+Q: How do you sort 2, 4, and 1?
+A: In order, they are 1 2 4.
+
+Q: How do you sort 16, 1, and 24?
+A: In order, they are 1 16 24.
+
+Q: How do you sort 949, 246, and 657?
+A: In order, they are 246 657 949.
+
+Q: How do you sort 795, 942, and 616?
+A: In order, they are 616 795 942.
+
+Q: What continent is Papua New Guinea on?
+A: Papua New Guinea is on the continent of Oceania.
+
+Q: What continent is South Africa on?
+A: South Africa is on the continent of Africa.
+
+Q: What continent is Oman on?
+A: Oman is on the continent of Asia.
+
+Q: What continent is Chile on?
+A: Chile is on the continent of South America.
+
+Q: What continent is Bulgaria on?
+A: Bulgaria is on the continent of Europe.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
