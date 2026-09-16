@@ -1657,3 +1657,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.35 | weakest: compare 0.00, sort 0.00, double_half 0.00 | strongest: definitions 1.00, animals 1.00, records 1.00
 - self-portrait, asked "Who are you?": *"Dou sort 30, 21, and 191."
 
+## Promotion - v18 - weights committed
+- **reason**: knowledge 0.35, was 0.09; val 0.6703
+- self-portrait, asked "Who are you?": *"I am small my my my model that improves goal? Account humany hums."
+
