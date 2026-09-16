@@ -7174,3 +7174,10 @@ A: The word 'trinidad' has 9 letters.
 
 Q: How many letters does the word 'ample' have?
 A: The word 'planton' has 5 letters.
+
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40 50.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.

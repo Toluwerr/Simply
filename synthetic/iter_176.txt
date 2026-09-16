@@ -1,0 +1,5 @@
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40 50.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.

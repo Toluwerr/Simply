@@ -9599,3 +9599,110 @@ A: The first letter of 'thimphu' is T.
 
 Q: What is the last letter of 'budapest'?
 A: The last letter of 'budapest' is T.
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: Which element has the chemical symbol Tl?
+A: Tl is the chemical symbol for thallium.
+
+Q: What is the chemical symbol for oxygen?
+A: The chemical symbol for oxygen is O.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Os.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: What is the chemical symbol for titanium?
+A: The chemical symbol for titanium is Ti.
+
+Q: What is the chemical symbol for helium?
+A: The chemical symbol for helium is He.
+
+Q: How do you write 99 in words?
+A: 99 in words is ninety-nine.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 67 in words?
+A: 67 in words is sixty-seven.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: What is the hardest natural substance?
+A: Diamond is the hardest natural substance.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What is the smallest ocean?
+A: The Arctic is the smallest ocean.
+
+Q: How many letters does the word 'new' have?
+A: The word 'new' has 3 letters.
+
+Q: How many letters does the word 'costa' have?
+A: The word 'costa' has 5 letters.
+
+Q: How many letters does the word 'micronesia' have?
+A: The word 'micronesia' has 10 letters.
+
+Q: How many letters does the word 'azerbaijan' have?
+A: The word 'azerbaijan' has 10 letters.
+
+Q: How many letters does the word 'selenium' have?
+A: The word 'selenium' has 8 letters.
+
+Q: How many letters does the word 'idaho' have?
+A: The word 'idaho' has 5 letters.
+
+Q: What is half of 52?
+A: Half of 52 is 26.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is double 46?
+A: Double 46 is 92.
+
+Q: What is half of 34?
+A: Half of 34 is 17.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is double 37?
+A: Double 37 is 74.
