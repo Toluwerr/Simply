@@ -1,0 +1,2104 @@
+Q: What is 17 minus 17?
+A: 17 minus 17 is 0.
+
+Q: What is 328 plus 926?
+A: 328 plus 926 is 1254.
+
+Q: What is 15 times 19?
+A: 15 times 19 is 285.
+
+Q: What is 869 minus 801?
+A: 869 minus 801 is 68.
+
+Q: What is 345 minus 12?
+A: 345 minus 12 is 333.
+
+Q: What is 213 plus 304?
+A: 213 plus 304 is 517.
+
+Q: What is 16 minus 1?
+A: 16 minus 1 is 15.
+
+Q: What is 416 minus 315?
+A: 416 minus 315 is 101.
+
+Q: What is 58 minus 55?
+A: 58 minus 55 is 3.
+
+Q: What is 13 times 12?
+A: 13 times 12 is 156.
+
+Q: What is 14 times 13?
+A: 14 times 13 is 182.
+
+Q: What is 13 times 11?
+A: 13 times 11 is 143.
+
+Q: What is 482 minus 472?
+A: 482 minus 472 is 10.
+
+Q: What is 61 plus 84?
+A: 61 plus 84 is 145.
+
+Q: What is 988 minus 129?
+A: 988 minus 129 is 859.
+
+Q: What is 9 times 11?
+A: 9 times 11 is 99.
+
+Q: What is 82 minus 71?
+A: 82 minus 71 is 11.
+
+Q: What is 15 times 14?
+A: 15 times 14 is 210.
+
+Q: What is 17 plus 4?
+A: 17 plus 4 is 21.
+
+Q: What is 12 times 18?
+A: 12 times 18 is 216.
+
+Q: What is 15 plus 16?
+A: 15 plus 16 is 31.
+
+Q: What is 14 times 15?
+A: 14 times 15 is 210.
+
+Q: What is 14 times 17?
+A: 14 times 17 is 238.
+
+Q: What is 47 plus 44?
+A: 47 plus 44 is 91.
+
+Q: What is 5 plus 20?
+A: 5 plus 20 is 25.
+
+Q: What is 6 times 7?
+A: 6 times 7 is 42.
+
+Q: What is 577 minus 533?
+A: 577 minus 533 is 44.
+
+Q: What is 94 minus 81?
+A: 94 minus 81 is 13.
+
+Q: What is 15 minus 11?
+A: 15 minus 11 is 4.
+
+Q: What is 17 minus 9?
+A: 17 minus 9 is 8.
+
+Q: Is 33 bigger than 64?
+A: No, 64 is bigger than 33.
+
+Q: Which is bigger, 18 or 93?
+A: 93 is bigger than 18.
+
+Q: Which is bigger, 57 or 22?
+A: 57 is bigger than 22.
+
+Q: Is 28 bigger than 67?
+A: No, 67 is bigger than 28.
+
+Q: Is 1 bigger than 15?
+A: No, 15 is bigger than 1.
+
+Q: Which is bigger, 20 or 7?
+A: 20 is bigger than 7.
+
+Q: Is 145 bigger than 869?
+A: No, 869 is bigger than 145.
+
+Q: Which is bigger, 95 or 91?
+A: 95 is bigger than 91.
+
+Q: Is 11 bigger than 19?
+A: No, 19 is bigger than 11.
+
+Q: Is 98 bigger than 27?
+A: Yes, 98 is bigger than 27.
+
+Q: Is 85 bigger than 26?
+A: Yes, 85 is bigger than 26.
+
+Q: Which is bigger, 616 or 397?
+A: 616 is bigger than 397.
+
+Q: Is 263 bigger than 238?
+A: Yes, 263 is bigger than 238.
+
+Q: Which is bigger, 413 or 619?
+A: 619 is bigger than 413.
+
+Q: Which is bigger, 17 or 7?
+A: 17 is bigger than 7.
+
+Q: Which is bigger, 13 or 3?
+A: 13 is bigger than 3.
+
+Q: Is 92 bigger than 55?
+A: Yes, 92 is bigger than 55.
+
+Q: Which is bigger, 1 or 17?
+A: 17 is bigger than 1.
+
+Q: Which is bigger, 410 or 560?
+A: 560 is bigger than 410.
+
+Q: Is 16 bigger than 15?
+A: Yes, 16 is bigger than 15.
+
+Q: Is 5 bigger than 19?
+A: No, 19 is bigger than 5.
+
+Q: Which is bigger, 89 or 53?
+A: 89 is bigger than 53.
+
+Q: Which is bigger, 3 or 18?
+A: 18 is bigger than 3.
+
+Q: Is 6 bigger than 2?
+A: Yes, 6 is bigger than 2.
+
+Q: Which is bigger, 15 or 7?
+A: 15 is bigger than 7.
+
+Q: Which is bigger, 998 or 120?
+A: 998 is bigger than 120.
+
+Q: Is 323 bigger than 904?
+A: No, 904 is bigger than 323.
+
+Q: Which is bigger, 6 or 7?
+A: 7 is bigger than 6.
+
+Q: Is 78 bigger than 63?
+A: Yes, 78 is bigger than 63.
+
+Q: Which is bigger, 49 or 33?
+A: 49 is bigger than 33.
+
+Q: How do you sort 485, 519, and 808?
+A: In order, they are 485 519 808.
+
+Q: How do you sort 304, 488, and 191?
+A: In order, they are 191 304 488.
+
+Q: How do you sort 541, 503, and 465?
+A: In order, they are 465 503 541.
+
+Q: How do you sort 17, 26, and 9?
+A: In order, they are 9 17 26.
+
+Q: How do you sort 28, 7, and 8?
+A: In order, they are 7 8 28.
+
+Q: How do you sort 3, 29, and 15?
+A: In order, they are 3 15 29.
+
+Q: How do you sort 427, 568, and 812?
+A: In order, they are 427 568 812.
+
+Q: How do you sort 1, 12, and 28?
+A: In order, they are 1 12 28.
+
+Q: How do you sort 12, 18, and 22?
+A: In order, they are 12 18 22.
+
+Q: How do you sort 4, 20, and 23?
+A: In order, they are 4 20 23.
+
+Q: How do you sort 579, 779, and 591?
+A: In order, they are 579 591 779.
+
+Q: How do you sort 19, 10, and 9?
+A: In order, they are 9 10 19.
+
+Q: How do you sort 4, 26, and 9?
+A: In order, they are 4 9 26.
+
+Q: How do you sort 14, 6, and 4?
+A: In order, they are 4 6 14.
+
+Q: How do you sort 25, 12, and 24?
+A: In order, they are 12 24 25.
+
+Q: How do you sort 21, 4, and 17?
+A: In order, they are 4 17 21.
+
+Q: How do you sort 293, 612, and 867?
+A: In order, they are 293 612 867.
+
+Q: How do you sort 10, 11, and 6?
+A: In order, they are 6 10 11.
+
+Q: How do you sort 272, 74, and 24?
+A: In order, they are 24 74 272.
+
+Q: How do you sort 897, 929, and 936?
+A: In order, they are 897 929 936.
+
+Q: How do you sort 434, 998, and 25?
+A: In order, they are 25 434 998.
+
+Q: How do you sort 4, 8, and 1?
+A: In order, they are 1 4 8.
+
+Q: How do you sort 135, 106, and 712?
+A: In order, they are 106 135 712.
+
+Q: How do you sort 332, 808, and 476?
+A: In order, they are 332 476 808.
+
+Q: How do you sort 13, 11, and 20?
+A: In order, they are 11 13 20.
+
+Q: How do you sort 20, 15, and 14?
+A: In order, they are 14 15 20.
+
+Q: How do you sort 22, 12, and 28?
+A: In order, they are 12 22 28.
+
+Q: How do you sort 408, 308, and 979?
+A: In order, they are 308 408 979.
+
+Q: How do you sort 69, 763, and 742?
+A: In order, they are 69 742 763.
+
+Q: How do you sort 909, 34, and 298?
+A: In order, they are 34 298 909.
+
+Q: What is double 46?
+A: Double 46 is 92.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is double 23?
+A: Double 23 is 46.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is double 9?
+A: Double 9 is 18.
+
+Q: What is double 9?
+A: Double 9 is 18.
+
+Q: What is half of 10?
+A: Half of 10 is 5.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is double 24?
+A: Double 24 is 48.
+
+Q: What is double 26?
+A: Double 26 is 52.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is double 51?
+A: Double 51 is 102.
+
+Q: What is double 36?
+A: Double 36 is 72.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is double 58?
+A: Double 58 is 116.
+
+Q: What is double 11?
+A: Double 11 is 22.
+
+Q: What is double 3?
+A: Double 3 is 6.
+
+Q: What is double 32?
+A: Double 32 is 64.
+
+Q: What is double 22?
+A: Double 22 is 44.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is double 55?
+A: Double 55 is 110.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: Can you count by fives from 15 to 35?
+A: Counting by fives gives 15 20 25 30 35.
+
+Q: Can you count by ones from 1 to 4?
+A: Counting by ones gives 1 2 3 4.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by twos from 26 to 34?
+A: Counting by twos gives 26 28 30 32 34.
+
+Q: Can you count by twos from 36 to 44?
+A: Counting by twos gives 36 38 40 42 44.
+
+Q: Can you count by fives from 35 to 50?
+A: Counting by fives gives 35 40 45 50.
+
+Q: Can you count by fives from 15 to 40?
+A: Counting by fives gives 15 20 25 30 35 40.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by fives from 10 to 25?
+A: Counting by fives gives 10 15 20 25.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by ones from 23 to 28?
+A: Counting by ones gives 23 24 25 26 27 28.
+
+Q: Can you count by ones from 12 to 14?
+A: Counting by ones gives 12 13 14.
+
+Q: Can you count by fives from 15 to 35?
+A: Counting by fives gives 15 20 25 30 35.
+
+Q: Can you count by twos from 8 to 12?
+A: Counting by twos gives 8 10 12.
+
+Q: Can you count by twos from 38 to 46?
+A: Counting by twos gives 38 40 42 44 46.
+
+Q: Can you count by ones from 26 to 31?
+A: Counting by ones gives 26 27 28 29 30 31.
+
+Q: Can you count by twos from 34 to 38?
+A: Counting by twos gives 34 36 38.
+
+Q: Can you count by ones from 10 to 15?
+A: Counting by ones gives 10 11 12 13 14 15.
+
+Q: Can you count by fives from 25 to 45?
+A: Counting by fives gives 25 30 35 40 45.
+
+Q: Can you count by fives from 5 to 20?
+A: Counting by fives gives 5 10 15 20.
+
+Q: Can you count by twos from 20 to 28?
+A: Counting by twos gives 20 22 24 26 28.
+
+Q: Can you count by fives from 15 to 30?
+A: Counting by fives gives 15 20 25 30.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by twos from 34 to 38?
+A: Counting by twos gives 34 36 38.
+
+Q: Can you count by twos from 22 to 28?
+A: Counting by twos gives 22 24 26 28.
+
+Q: Can you count by twos from 2 to 6?
+A: Counting by twos gives 2 4 6.
+
+Q: Can you count by ones from 24 to 26?
+A: Counting by ones gives 24 25 26.
+
+Q: Can you count by fives from 15 to 30?
+A: Counting by fives gives 15 20 25 30.
+
+Q: Can you count by twos from 16 to 22?
+A: Counting by twos gives 16 18 20 22.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 63 in words?
+A: 63 in words is sixty-three.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 49 in words?
+A: 49 in words is forty-nine.
+
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 39 in words?
+A: 39 in words is thirty-nine.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: How do you write 45 in words?
+A: 45 in words is forty-five.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 67 in words?
+A: 67 in words is sixty-seven.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 88 in words?
+A: 88 in words is eighty-eight.
+
+Q: How do you write 59 in words?
+A: 59 in words is fifty-nine.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 45 in words?
+A: 45 in words is forty-five.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: What is the Roman numeral for 49?
+A: The Roman numeral for 49 is xlix.
+
+Q: What number is the Roman numeral dcccxlii?
+A: The Roman numeral dcccxlii is the number 842.
+
+Q: What is the Roman numeral for 43?
+A: The Roman numeral for 43 is xliii.
+
+Q: What is the Roman numeral for 520?
+A: The Roman numeral for 520 is dxx.
+
+Q: What is the Roman numeral for 773?
+A: The Roman numeral for 773 is dcclxxiii.
+
+Q: What number is the Roman numeral xxxvi?
+A: The Roman numeral xxxvi is the number 36.
+
+Q: What is the Roman numeral for 659?
+A: The Roman numeral for 659 is dclix.
+
+Q: What is the Roman numeral for 5?
+A: The Roman numeral for 5 is v.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: What number is the Roman numeral cxcviii?
+A: The Roman numeral cxcviii is the number 198.
+
+Q: What is the Roman numeral for 87?
+A: The Roman numeral for 87 is lxxxvii.
+
+Q: What is the Roman numeral for 2?
+A: The Roman numeral for 2 is ii.
+
+Q: What number is the Roman numeral cdxliii?
+A: The Roman numeral cdxliii is the number 443.
+
+Q: What is the Roman numeral for 16?
+A: The Roman numeral for 16 is xvi.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What is the Roman numeral for 738?
+A: The Roman numeral for 738 is dccxxxviii.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What number is the Roman numeral xxxi?
+A: The Roman numeral xxxi is the number 31.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What number is the Roman numeral dclxiv?
+A: The Roman numeral dclxiv is the number 664.
+
+Q: What is the Roman numeral for 64?
+A: The Roman numeral for 64 is lxiv.
+
+Q: What is the Roman numeral for 83?
+A: The Roman numeral for 83 is lxxxiii.
+
+Q: What is the Roman numeral for 23?
+A: The Roman numeral for 23 is xxiii.
+
+Q: What number is the Roman numeral ccclxxxi?
+A: The Roman numeral ccclxxxi is the number 381.
+
+Q: What number is the Roman numeral x?
+A: The Roman numeral x is the number 10.
+
+Q: What number is the Roman numeral lxxxix?
+A: The Roman numeral lxxxix is the number 89.
+
+Q: What is the Roman numeral for 635?
+A: The Roman numeral for 635 is dcxxxv.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What number is the Roman numeral lxxxviii?
+A: The Roman numeral lxxxviii is the number 88.
+
+Q: How many letters does the word 'quetzal' have?
+A: The word 'quetzal' has 7 letters.
+
+Q: How many letters does the word 'djibouti' have?
+A: The word 'djibouti' has 8 letters.
+
+Q: How many letters does the word 'angola' have?
+A: The word 'angola' has 6 letters.
+
+Q: How many letters does the word 'marshall' have?
+A: The word 'marshall' has 8 letters.
+
+Q: How many letters does the word 'erbium' have?
+A: The word 'erbium' has 6 letters.
+
+Q: How many letters does the word 'dhaka' have?
+A: The word 'dhaka' has 5 letters.
+
+Q: How many letters does the word 'loud' have?
+A: The word 'loud' has 4 letters.
+
+Q: How many letters does the word 'nairobi' have?
+A: The word 'nairobi' has 7 letters.
+
+Q: How many letters does the word 'ngerulmud' have?
+A: The word 'ngerulmud' has 9 letters.
+
+Q: How many letters does the word 'cadmium' have?
+A: The word 'cadmium' has 7 letters.
+
+Q: How many letters does the word 'naypyidaw' have?
+A: The word 'naypyidaw' has 9 letters.
+
+Q: How many letters does the word 'dinar' have?
+A: The word 'dinar' has 5 letters.
+
+Q: How many letters does the word 'vanuatu' have?
+A: The word 'vanuatu' has 7 letters.
+
+Q: How many letters does the word 'fuzzy' have?
+A: The word 'fuzzy' has 5 letters.
+
+Q: How many letters does the word 'turkey' have?
+A: The word 'turkey' has 6 letters.
+
+Q: How many letters does the word 'stockholm' have?
+A: The word 'stockholm' has 9 letters.
+
+Q: How many letters does the word 'monkey' have?
+A: The word 'monkey' has 6 letters.
+
+Q: How many letters does the word 'candle' have?
+A: The word 'candle' has 6 letters.
+
+Q: How many letters does the word 'owl' have?
+A: The word 'owl' has 3 letters.
+
+Q: How many letters does the word 'shark' have?
+A: The word 'shark' has 5 letters.
+
+Q: How many letters does the word 'zebra' have?
+A: The word 'zebra' has 5 letters.
+
+Q: How many letters does the word 'hungary' have?
+A: The word 'hungary' has 7 letters.
+
+Q: How many letters does the word 'kampala' have?
+A: The word 'kampala' has 7 letters.
+
+Q: How many letters does the word 'rwanda' have?
+A: The word 'rwanda' has 6 letters.
+
+Q: How many letters does the word 'lanka' have?
+A: The word 'lanka' has 5 letters.
+
+Q: How many letters does the word 'niger' have?
+A: The word 'niger' has 5 letters.
+
+Q: How many letters does the word 'raleigh' have?
+A: The word 'raleigh' has 7 letters.
+
+Q: How many letters does the word 'switzerland' have?
+A: The word 'switzerland' has 11 letters.
+
+Q: How many letters does the word 'not' have?
+A: The word 'not' has 3 letters.
+
+Q: How many letters does the word 'croatia' have?
+A: The word 'croatia' has 7 letters.
+
+Q: How do you spell 'colorado'?
+A: You spell it 'colorado': C-O-L-O-R-A-D-O.
+
+Q: How do you spell 'soft'?
+A: You spell it 'soft': S-O-F-T.
+
+Q: How do you spell 'rock'?
+A: You spell it 'rock': R-O-C-K.
+
+Q: How do you spell 'weak'?
+A: You spell it 'weak': W-E-A-K.
+
+Q: How do you spell 'columbia'?
+A: You spell it 'columbia': C-O-L-U-M-B-I-A.
+
+Q: How do you spell 'zebra'?
+A: You spell it 'zebra': Z-E-B-R-A.
+
+Q: How do you spell 'closed'?
+A: You spell it 'closed': C-L-O-S-E-D.
+
+Q: How do you spell 'cerium'?
+A: You spell it 'cerium': C-E-R-I-U-M.
+
+Q: How do you spell 'tirana'?
+A: You spell it 'tirana': T-I-R-A-N-A.
+
+Q: How do you spell 'santa'?
+A: You spell it 'santa': S-A-N-T-A.
+
+Q: How do you spell 'barbados'?
+A: You spell it 'barbados': B-A-R-B-A-D-O-S.
+
+Q: How do you spell 'trenton'?
+A: You spell it 'trenton': T-R-E-N-T-O-N.
+
+Q: How do you spell 'arkansas'?
+A: You spell it 'arkansas': A-R-K-A-N-S-A-S.
+
+Q: How do you spell 'hollow'?
+A: You spell it 'hollow': H-O-L-L-O-W.
+
+Q: How do you spell 'inside'?
+A: You spell it 'inside': I-N-S-I-D-E.
+
+Q: How do you spell 'december'?
+A: You spell it 'december': D-E-C-E-M-B-E-R.
+
+Q: How do you spell 'chlorine'?
+A: You spell it 'chlorine': C-H-L-O-R-I-N-E.
+
+Q: How do you spell 'hafnium'?
+A: You spell it 'hafnium': H-A-F-N-I-U-M.
+
+Q: How do you spell 'rica'?
+A: You spell it 'rica': R-I-C-A.
+
+Q: How do you spell 'very'?
+A: You spell it 'very': V-E-R-Y.
+
+Q: How do you spell 'lazy'?
+A: You spell it 'lazy': L-A-Z-Y.
+
+Q: How do you spell 'cautious'?
+A: You spell it 'cautious': C-A-U-T-I-O-U-S.
+
+Q: How do you spell 'niamey'?
+A: You spell it 'niamey': N-I-A-M-E-Y.
+
+Q: How do you spell 'curious'?
+A: You spell it 'curious': C-U-R-I-O-U-S.
+
+Q: How do you spell 'dhaka'?
+A: You spell it 'dhaka': D-H-A-K-A.
+
+Q: How do you spell 'very'?
+A: You spell it 'very': V-E-R-Y.
+
+Q: How do you spell 'baht'?
+A: You spell it 'baht': B-A-H-T.
+
+Q: How do you spell 'dhabi'?
+A: You spell it 'dhabi': D-H-A-B-I.
+
+Q: How do you spell 'uranus'?
+A: You spell it 'uranus': U-R-A-N-U-S.
+
+Q: How do you spell 'columbus'?
+A: You spell it 'columbus': C-O-L-U-M-B-U-S.
+
+Q: What is the last letter of 'liechtenstein'?
+A: The last letter of 'liechtenstein' is N.
+
+Q: What is the last letter of 'monrovia'?
+A: The last letter of 'monrovia' is A.
+
+Q: What is the first letter of 'angola'?
+A: The first letter of 'angola' is A.
+
+Q: What is the first letter of 'naypyidaw'?
+A: The first letter of 'naypyidaw' is N.
+
+Q: What is the first letter of 'ocean'?
+A: The first letter of 'ocean' is O.
+
+Q: What is the last letter of 'shekel'?
+A: The last letter of 'shekel' is L.
+
+Q: What is the last letter of 'cheyenne'?
+A: The last letter of 'cheyenne' is E.
+
+Q: What is the last letter of 'cat'?
+A: The last letter of 'cat' is T.
+
+Q: What is the first letter of 'argon'?
+A: The first letter of 'argon' is A.
+
+Q: What is the first letter of 'azerbaijan'?
+A: The first letter of 'azerbaijan' is A.
+
+Q: What is the last letter of 'plant'?
+A: The last letter of 'plant' is T.
+
+Q: What is the last letter of 'soft'?
+A: The last letter of 'soft' is T.
+
+Q: What is the first letter of 'florida'?
+A: The first letter of 'florida' is F.
+
+Q: What is the first letter of 'andorra'?
+A: The first letter of 'andorra' is A.
+
+Q: What is the last letter of 'curious'?
+A: The last letter of 'curious' is S.
+
+Q: What is the first letter of 'big'?
+A: The first letter of 'big' is B.
+
+Q: What is the first letter of 'lucia'?
+A: The first letter of 'lucia' is L.
+
+Q: What is the first letter of 'zinc'?
+A: The first letter of 'zinc' is Z.
+
+Q: What is the last letter of 'dram'?
+A: The last letter of 'dram' is M.
+
+Q: What is the first letter of 'montpelier'?
+A: The first letter of 'montpelier' is M.
+
+Q: What is the last letter of 'chlorine'?
+A: The last letter of 'chlorine' is E.
+
+Q: What is the last letter of 'lithuania'?
+A: The last letter of 'lithuania' is A.
+
+Q: What is the last letter of 'march'?
+A: The last letter of 'march' is H.
+
+Q: What is the first letter of 'something'?
+A: The first letter of 'something' is S.
+
+Q: What is the last letter of 'helena'?
+A: The last letter of 'helena' is A.
+
+Q: What is the last letter of 'madrid'?
+A: The last letter of 'madrid' is D.
+
+Q: What is the last letter of 'owl'?
+A: The last letter of 'owl' is L.
+
+Q: What is the last letter of 'bird'?
+A: The last letter of 'bird' is D.
+
+Q: What is the last letter of 'dinar'?
+A: The last letter of 'dinar' is R.
+
+Q: What is the last letter of 'broken'?
+A: The last letter of 'broken' is N.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington, D.C..
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of South Sudan?
+A: The capital of South Sudan is Juba.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
+
+Q: What is the capital of Croatia?
+A: The capital of Croatia is Zagreb.
+
+Q: What is the capital of Cameroon?
+A: The capital of Cameroon is Yaounde.
+
+Q: What is the capital of Denmark?
+A: The capital of Denmark is Copenhagen.
+
+Q: What is the capital of Eritrea?
+A: The capital of Eritrea is Asmara.
+
+Q: What is the capital of Sweden?
+A: The capital of Sweden is Stockholm.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
+
+Q: What is the capital of Ecuador?
+A: The capital of Ecuador is Quito.
+
+Q: What is the capital of Moldova?
+A: The capital of Moldova is Chisinau.
+
+Q: What is the capital of Armenia?
+A: The capital of Armenia is Yerevan.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of the Comoros?
+A: The capital of the Comoros is Moroni.
+
+Q: What is the capital of Switzerland?
+A: The capital of Switzerland is Bern.
+
+Q: What is the capital of Sudan?
+A: The capital of Sudan is Khartoum.
+
+Q: What is the capital of Guinea-Bissau?
+A: The capital of Guinea-Bissau is Bissau.
+
+Q: What is the capital of Iceland?
+A: The capital of Iceland is Reykjavik.
+
+Q: What is the capital of Yemen?
+A: The capital of Yemen is Sanaa.
+
+Q: What is the capital of Liberia?
+A: The capital of Liberia is Monrovia.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is the capital of Algeria?
+A: The capital of Algeria is Algiers.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
+
+Q: What is the capital of Nauru?
+A: The capital of Nauru is Yaren.
+
+Q: What is the capital of Guyana?
+A: The capital of Guyana is Georgetown.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the capital of North Korea?
+A: The capital of North Korea is Pyongyang.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state Connecticut?
+A: Hartford is the capital of Connecticut.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Rhode Island?
+A: Providence is the capital of Rhode Island.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Connecticut?
+A: Hartford is the capital of Connecticut.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What currency does Canada use?
+A: The currency of Canada is the dollar.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does Bulgaria use?
+A: The currency of Bulgaria is the lev.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.
+
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What currency does Turkey use?
+A: The currency of Turkey is the lira.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: What currency does Austria use?
+A: The currency of Austria is the euro.
+
+Q: What currency does Georgia use?
+A: The currency of Georgia is the lari.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Azerbaijan use?
+A: The currency of Azerbaijan is the manat.
+
+Q: What currency does Cuba use?
+A: The currency of Cuba is the peso.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: What currency does Colombia use?
+A: The currency of Colombia is the peso.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
+
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What currency does Belarus use?
+A: The currency of Belarus is the ruble.
+
+Q: What currency does Cambodia use?
+A: The currency of Cambodia is the riel.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
+
+Q: What currency does Georgia use?
+A: The currency of Georgia is the lari.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What currency does the United Arab Emirates use?
+A: The currency of the United Arab Emirates is the dirham.
+
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What currency does Oman use?
+A: The currency of Oman is the rial.
+
+Q: What currency does Ukraine use?
+A: The currency of Ukraine is the hryvnia.
+
+Q: What currency does Latvia use?
+A: The currency of Latvia is the euro.
+
+Q: What continent is France on?
+A: France is on the continent of Europe.
+
+Q: What continent is Kazakhstan on?
+A: Kazakhstan is on the continent of Asia.
+
+Q: What continent is Ukraine on?
+A: Ukraine is on the continent of Europe.
+
+Q: What continent is Syria on?
+A: Syria is on the continent of Asia.
+
+Q: What continent is Ireland on?
+A: Ireland is on the continent of Europe.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: What continent is Serbia on?
+A: Serbia is on the continent of Europe.
+
+Q: What continent is Kyrgyzstan on?
+A: Kyrgyzstan is on the continent of Asia.
+
+Q: What continent is Kiribati on?
+A: Kiribati is on the continent of Oceania.
+
+Q: What continent is Azerbaijan on?
+A: Azerbaijan is on the continent of Asia.
+
+Q: What continent is Luxembourg on?
+A: Luxembourg is on the continent of Europe.
+
+Q: What continent is Bahrain on?
+A: Bahrain is on the continent of Asia.
+
+Q: What continent is Namibia on?
+A: Namibia is on the continent of Africa.
+
+Q: What continent is Australia on?
+A: Australia is on the continent of Australia.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: What continent is Burkina Faso on?
+A: Burkina Faso is on the continent of Africa.
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.
+
+Q: What continent is Indonesia on?
+A: Indonesia is on the continent of Asia.
+
+Q: What continent is the Czech Republic on?
+A: the Czech Republic is on the continent of Europe.
+
+Q: What continent is Chad on?
+A: Chad is on the continent of Africa.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: What continent is Norway on?
+A: Norway is on the continent of Europe.
+
+Q: What continent is Somalia on?
+A: Somalia is on the continent of Africa.
+
+Q: What continent is Qatar on?
+A: Qatar is on the continent of Asia.
+
+Q: What continent is Kazakhstan on?
+A: Kazakhstan is on the continent of Asia.
+
+Q: What continent is Vatican City on?
+A: Vatican City is on the continent of Europe.
+
+Q: What is the chemical symbol for niobium?
+A: The chemical symbol for niobium is Nb.
+
+Q: Which element has the chemical symbol La?
+A: La is the chemical symbol for lanthanum.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Os.
+
+Q: Which element has the chemical symbol Au?
+A: Au is the chemical symbol for gold.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium.
+
+Q: Which element has the chemical symbol S?
+A: S is the chemical symbol for sulfur.
+
+Q: Which element has the chemical symbol Ni?
+A: Ni is the chemical symbol for nickel.
+
+Q: What is the chemical symbol for hafnium?
+A: The chemical symbol for hafnium is Hf.
+
+Q: Which element has the chemical symbol Te?
+A: Te is the chemical symbol for tellurium.
+
+Q: Which element has the chemical symbol Si?
+A: Si is the chemical symbol for silicon.
+
+Q: What is the chemical symbol for cesium?
+A: The chemical symbol for cesium is Cs.
+
+Q: What is the chemical symbol for hydrogen?
+A: The chemical symbol for hydrogen is H.
+
+Q: What is the chemical symbol for nitrogen?
+A: The chemical symbol for nitrogen is N.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium.
+
+Q: What is the chemical symbol for cadmium?
+A: The chemical symbol for cadmium is Cd.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: Which element has the chemical symbol Pb?
+A: Pb is the chemical symbol for lead.
+
+Q: What is the chemical symbol for tantalum?
+A: The chemical symbol for tantalum is Ta.
+
+Q: Which element has the chemical symbol Pr?
+A: Pr is the chemical symbol for praseodymium.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: What is the chemical symbol for americium?
+A: The chemical symbol for americium is Am.
+
+Q: Which element has the chemical symbol Ho?
+A: Ho is the chemical symbol for holmium.
+
+Q: Which element has the chemical symbol B?
+A: B is the chemical symbol for boron.
+
+Q: Which element has the chemical symbol Mn?
+A: Mn is the chemical symbol for manganese.
+
+Q: What is the chemical symbol for europium?
+A: The chemical symbol for europium is Eu.
+
+Q: What is the chemical symbol for magnesium?
+A: The chemical symbol for magnesium is Mg.
+
+Q: What is the chemical symbol for fluorine?
+A: The chemical symbol for fluorine is F.
+
+Q: What is the chemical symbol for hydrogen?
+A: The chemical symbol for hydrogen is H.
+
+Q: What is the chemical symbol for radon?
+A: The chemical symbol for radon is Rn.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: What is the most populous country?
+A: India is the most populous country.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: How many planets are there?
+A: There are 8 planets.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the biggest planet?
+A: Jupiter is the biggest planet.
+
+Q: What is the biggest hot desert?
+A: The Sahara is the biggest hot desert.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: What is 6 plus 6?
+A: 6 plus 6 is 12.
+
+Q: What is 2 plus 20?
+A: 2 plus 20 is 22.
+
+Q: What is 18 minus 17?
+A: 18 minus 17 is 1.
+
+Q: What is 30 plus 88?
+A: 30 plus 88 is 118.
+
+Q: What is 358 plus 106?
+A: 358 plus 106 is 464.
+
+Q: What is 88 minus 31?
+A: 88 minus 31 is 57.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What is the capital of Djibouti?
+A: The capital of Djibouti is Djibouti.
+
+Q: What is the capital of Benin?
+A: The capital of Benin is Porto-Novo.
+
+Q: What is the capital of Botswana?
+A: The capital of Botswana is Gaborone.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is the capital of Nigeria?
+A: The capital of Nigeria is Abuja.
+
+Q: How many letters does the word 'burundi' have?
+A: The word 'burundi' has 7 letters.
+
+Q: How many letters does the word 'santiago' have?
+A: The word 'santiago' has 8 letters.
+
+Q: How many letters does the word 'bulgaria' have?
+A: The word 'bulgaria' has 8 letters.
+
+Q: How many letters does the word 'aires' have?
+A: The word 'aires' has 5 letters.
+
+Q: How many letters does the word 'venus' have?
+A: The word 'venus' has 5 letters.
+
+Q: How many letters does the word 'missouri' have?
+A: The word 'missouri' has 8 letters.
+
+Q: What is the Roman numeral for 76?
+A: The Roman numeral for 76 is lxxvi.
+
+Q: What is the Roman numeral for 32?
+A: The Roman numeral for 32 is xxxii.
+
+Q: What number is the Roman numeral c?
+A: The Roman numeral c is the number 100.
+
+Q: What number is the Roman numeral xcvii?
+A: The Roman numeral xcvii is the number 97.
+
+Q: What number is the Roman numeral xx?
+A: The Roman numeral xx is the number 20.
+
+Q: What is the Roman numeral for 743?
+A: The Roman numeral for 743 is dccxliii.
+
+Q: What continent is Argentina on?
+A: Argentina is on the continent of South America.
+
+Q: What continent is Latvia on?
+A: Latvia is on the continent of Europe.
+
+Q: What continent is Ghana on?
+A: Ghana is on the continent of Africa.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What continent is Andorra on?
+A: Andorra is on the continent of Europe.
+
+Q: What continent is Kuwait on?
+A: Kuwait is on the continent of Asia.
