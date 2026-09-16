@@ -7667,3 +7667,19 @@ A: The Roman numeral for 10 is xv.
 
 Q: What is the chemical symbol for oxygen?
 A: The chemical symbol for oxygen is O.
+
+
+Q: What currency does the United Kingdom use?
+A: The currency of the United Kingdom is the pound.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: How much is 52 plus 6?
+A: 52 plus 6 is 58.
+
+Q: How many days are in October?
+A: October has 31 days in a year.
+
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 20 25 30 35 40.

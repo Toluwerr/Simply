@@ -15310,3 +15310,128 @@ A: The first letter of 'male' is M.
 
 Q: What is the last letter of 'bratislava'?
 A: The last letter of 'bratislava' is A.
+Q: What is the first letter of 'train'?
+A: The first letter of 'train' is T.
+
+Q: What is the last letter of 'antigua'?
+A: The last letter of 'antigua' is A.
+
+Q: What is the first letter of 'slow'?
+A: The first letter of 'slow' is S.
+
+Q: What is the first letter of 'benin'?
+A: The first letter of 'benin' is B.
+
+Q: What is the first letter of 'hot'?
+A: The first letter of 'hot' is H.
+
+Q: What is the last letter of 'hard'?
+A: The last letter of 'hard' is D.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 39 in words?
+A: 39 in words is thirty-nine.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the capital of Malawi?
+A: The capital of Malawi is Lilongwe.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of Bahrain?
+A: The capital of Bahrain is Manama.
+
+Q: What is the capital of Samoa?
+A: The capital of Samoa is Apia.
+
+Q: What is the capital of the Republic of the Congo?
+A: The capital of the Republic of the Congo is Brazzaville.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the Roman numeral for 832?
+A: The Roman numeral for 832 is dcccxxxii.
+
+Q: What number is the Roman numeral lxiii?
+A: The Roman numeral lxiii is the number 63.
+
+Q: What number is the Roman numeral xix?
+A: The Roman numeral xix is the number 19.
+
+Q: What number is the Roman numeral cdlviii?
+A: The Roman numeral cdlviii is the number 458.
+
+Q: What number is the Roman numeral xx?
+A: The Roman numeral xx is the number 20.
+
+Q: What number is the Roman numeral li?
+A: The Roman numeral li is the number 51.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 45.
+
+Q: Can you count by fives from 20 to 40?
+A: Counting by fives gives 20 25 30 35 40.
+
+Q: Can you count by fives from 30 to 45?
+A: Counting by fives gives 30 35 40 45.
+
+Q: Can you count by twos from 10 to 18?
+A: Counting by twos gives 10 12 14 16 18.
+
+Q: Can you count by ones from 2 to 6?
+A: Counting by ones gives 2 3 4 5 6.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: What is the chemical symbol for gold?
+A: The chemical symbol for gold is Au.
+
+Q: What is the chemical symbol for tungsten?
+A: The chemical symbol for tungsten is W.
+
+Q: What is the chemical symbol for hydrogen?
+A: The chemical symbol for hydrogen is H.
+
+Q: Which element has the chemical symbol B?
+A: B is the chemical symbol for boron.
+
+Q: Which element has the chemical symbol P?
+A: P is the chemical symbol for phosphorus.
+
+Q: Which element has the chemical symbol Am?
+A: Am is the chemical symbol for americium.

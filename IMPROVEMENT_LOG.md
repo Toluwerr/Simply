@@ -1858,3 +1858,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.43 | weakest: arithmetic 0.00, sort 0.00, count 0.00 | strongest: definitions 1.00, animals 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny I better at one!"
 
+## Iteration 225 - NO_GAIN
+- **when**: 2026-09-16T23:10:33Z
+- **train loss**: 0.8238 | **val loss**: 0.7156 | **run best**: 0.6788
+- **corpus**: 168,157 chars (+5 self-written examples)
+- **internet reading**: +30 articles, +22 facts (300 read all-time)
+- **lr**: 0.0008 | **steps**: 150
+- **knowledge quiz**: avg 0.43 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny still."
+
