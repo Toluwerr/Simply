@@ -14507,3 +14507,128 @@ A: Montpelier is the capital of Vermont.
 
 Q: What is the capital of the US state North Dakota?
 A: Bismarck is the capital of North Dakota.
+Q: What number is the Roman numeral liii?
+A: The Roman numeral liii is the number 53.
+
+Q: What is the Roman numeral for 97?
+A: The Roman numeral for 97 is xcvii.
+
+Q: What is the Roman numeral for 89?
+A: The Roman numeral for 89 is lxxxix.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: What number is the Roman numeral lxxvii?
+A: The Roman numeral lxxvii is the number 77.
+
+Q: What is the Roman numeral for 43?
+A: The Roman numeral for 43 is xliii.
+
+Q: How many letters does the word 'happy' have?
+A: The word 'happy' has 5 letters.
+
+Q: How many letters does the word 'shark' have?
+A: The word 'shark' has 5 letters.
+
+Q: How many letters does the word 'bolivar' have?
+A: The word 'bolivar' has 7 letters.
+
+Q: How many letters does the word 'ocean' have?
+A: The word 'ocean' has 5 letters.
+
+Q: How many letters does the word 'sturdy' have?
+A: The word 'sturdy' has 6 letters.
+
+Q: How many letters does the word 'star' have?
+A: The word 'star' has 4 letters.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 93 in words?
+A: 93 in words is ninety-three.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 25 in words?
+A: 25 in words is twenty-five.
+
+Q: How do you sort 9, 5, and 21?
+A: In order, they are 5 9 21.
+
+Q: How do you sort 558, 159, and 512?
+A: In order, they are 159 512 558.
+
+Q: How do you sort 606, 77, and 935?
+A: In order, they are 77 606 935.
+
+Q: How do you sort 19, 27, and 1?
+A: In order, they are 1 19 27.
+
+Q: How do you sort 751, 268, and 800?
+A: In order, they are 268 751 800.
+
+Q: How do you sort 328, 542, and 195?
+A: In order, they are 195 328 542.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: What is the biggest animal?
+A: The blue whale is the biggest animal.
+
+Q: What is double 7?
+A: Double 7 is 14.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: Which element has the chemical symbol Tc?
+A: Tc is the chemical symbol for technetium.
+
+Q: Which element has the chemical symbol Sm?
+A: Sm is the chemical symbol for samarium.
+
+Q: What is the chemical symbol for titanium?
+A: The chemical symbol for titanium is Ti.
+
+Q: Which element has the chemical symbol Cs?
+A: Cs is the chemical symbol for cesium.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: What is the chemical symbol for uranium?
+A: The chemical symbol for uranium is U.

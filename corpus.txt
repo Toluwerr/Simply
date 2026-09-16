@@ -7519,3 +7519,28 @@ A: Tallahassee is the capital of Florida.
 
 Q: Which is bigger, 78 or 99?
 A: 99 is bigger than 68.
+
+
+Q: What is the first letter of 'amman'?
+A: The first letter of 'arrain' is A.
+
+Q: What is 5 times 12?
+A: 5 times 12 is 60.
+
+Q: Which element has the chemical symbol V?
+A: Br is the chemical symbol for vanadium.
+
+Q: What is the chemical symbol for rhodium?
+A: The chemical symbol for rhodium is Rh.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the opposite of 'first'?
+A: 'last' is the opposite of 'first' is 'last'.
