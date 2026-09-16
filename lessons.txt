@@ -19164,3 +19164,110 @@ A: Gd is the chemical symbol for gadolinium.
 
 Q: Which element has the chemical symbol Te?
 A: Te is the chemical symbol for tellurium.
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What continent is Burkina Faso on?
+A: Burkina Faso is on the continent of Africa.
+
+Q: What continent is Ghana on?
+A: Ghana is on the continent of Africa.
+
+Q: What continent is Montenegro on?
+A: Montenegro is on the continent of Europe.
+
+Q: What continent is Argentina on?
+A: Argentina is on the continent of South America.
+
+Q: What continent is Mali on?
+A: Mali is on the continent of Africa.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does Turkmenistan use?
+A: The currency of Turkmenistan is the manat.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: What currency does North Korea use?
+A: The currency of North Korea is the won.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What is the first letter of 'iodine'?
+A: The first letter of 'iodine' is I.
+
+Q: What is the first letter of 'samoa'?
+A: The first letter of 'samoa' is S.
+
+Q: What is the last letter of 'tall'?
+A: The last letter of 'tall' is L.
+
+Q: What is the last letter of 'bosnia'?
+A: The last letter of 'bosnia' is A.
+
+Q: What is the first letter of 'harare'?
+A: The first letter of 'harare' is H.
+
+Q: What is the first letter of 'wanting'?
+A: The first letter of 'wanting' is W.
+
+Q: How do you sort 1, 2, and 26?
+A: In order, they are 1 2 26.
+
+Q: How do you sort 28, 24, and 6?
+A: In order, they are 6 24 28.
+
+Q: How do you sort 12, 337, and 28?
+A: In order, they are 12 28 337.
+
+Q: How do you sort 20, 16, and 2?
+A: In order, they are 2 16 20.
+
+Q: How do you sort 980, 309, and 684?
+A: In order, they are 309 684 980.
+
+Q: How do you sort 574, 255, and 260?
+A: In order, they are 255 260 574.
+
+Q: How do you write 19 in words?
+A: 19 in words is nineteen.
+
+Q: How do you write 35 in words?
+A: 35 in words is thirty-five.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of the Solomon Islands?
+A: The capital of the Solomon Islands is Honiara.
+
+Q: What is the capital of Thailand?
+A: The capital of Thailand is Bangkok.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What is the capital of Nigeria?
+A: The capital of Nigeria is Abuja.
