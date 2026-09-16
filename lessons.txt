@@ -13686,3 +13686,110 @@ A: In order, they are 2 3 25.
 
 Q: How do you sort 7, 19, and 6?
 A: In order, they are 6 7 19.
+Q: What currency does Finland use?
+A: The currency of Finland is the euro.
+
+Q: What currency does South Korea use?
+A: The currency of South Korea is the won.
+
+Q: What currency does Finland use?
+A: The currency of Finland is the euro.
+
+Q: What currency does Zambia use?
+A: The currency of Zambia is the kwacha.
+
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What currency does Ireland use?
+A: The currency of Ireland is the euro.
+
+Q: How do you sort 9, 7, and 18?
+A: In order, they are 7 9 18.
+
+Q: How do you sort 5, 10, and 14?
+A: In order, they are 5 10 14.
+
+Q: How do you sort 128, 694, and 108?
+A: In order, they are 108 128 694.
+
+Q: How do you sort 561, 793, and 974?
+A: In order, they are 561 793 974.
+
+Q: How do you sort 383, 577, and 146?
+A: In order, they are 146 383 577.
+
+Q: How do you sort 8, 28, and 3?
+A: In order, they are 3 8 28.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 22 in words?
+A: 22 in words is twenty-two.
+
+Q: How do you write 6 in words?
+A: 6 in words is six.
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
+
+Q: How do you write 67 in words?
+A: 67 in words is sixty-seven.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: What is the chemical symbol for niobium?
+A: The chemical symbol for niobium is Nb.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: Which element has the chemical symbol Co?
+A: Co is the chemical symbol for cobalt.
+
+Q: Which element has the chemical symbol Mg?
+A: Mg is the chemical symbol for magnesium.
+
+Q: What is the chemical symbol for zirconium?
+A: The chemical symbol for zirconium is Zr.
+
+Q: What is the chemical symbol for ruthenium?
+A: The chemical symbol for ruthenium is Ru.
+
+Q: What is 12 times 11?
+A: 12 times 11 is 132.
+
+Q: What is 15 times 15?
+A: 15 times 15 is 225.
+
+Q: What is 16 plus 20?
+A: 16 plus 20 is 36.
+
+Q: What is 5 times 9?
+A: 5 times 9 is 45.
+
+Q: What is 80 minus 27?
+A: 80 minus 27 is 53.
+
+Q: What is 10 minus 5?
+A: 10 minus 5 is 5.
+
+Q: What is the capital of Vanuatu?
+A: The capital of Vanuatu is Port Vila.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.
+
+Q: What is the capital of Poland?
+A: The capital of Poland is Warsaw.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: What is the capital of Iceland?
+A: The capital of Iceland is Reykjavik.
+
+Q: What is the capital of Saint Kitts and Nevis?
+A: The capital of Saint Kitts and Nevis is Basseterre.
