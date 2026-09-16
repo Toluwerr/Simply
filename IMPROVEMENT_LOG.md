@@ -2123,3 +2123,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.43 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-styleville."
 
+## Promotion - v22 - weights committed
+- **reason**: knowledge 0.65, was 0.61; val 0.6767
+- self-portrait, asked "Who are you?": *"I am Simple transformeric, a improving that language monthing."
+
