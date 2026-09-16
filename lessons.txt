@@ -15899,3 +15899,110 @@ A: The Roman numeral for 744 is dccxliv.
 
 Q: What number is the Roman numeral xxxiv?
 A: The Roman numeral xxxiv is the number 34.
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What number is the Roman numeral dcccxix?
+A: The Roman numeral dcccxix is the number 819.
+
+Q: What is the Roman numeral for 85?
+A: The Roman numeral for 85 is lxxxv.
+
+Q: What is the Roman numeral for 268?
+A: The Roman numeral for 268 is cclxviii.
+
+Q: What number is the Roman numeral vi?
+A: The Roman numeral vi is the number 6.
+
+Q: What number is the Roman numeral ccxciv?
+A: The Roman numeral ccxciv is the number 294.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
+
+Q: How do you write 76 in words?
+A: 76 in words is seventy-six.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: Which element has the chemical symbol Pu?
+A: Pu is the chemical symbol for plutonium.
+
+Q: Which element has the chemical symbol Gd?
+A: Gd is the chemical symbol for gadolinium.
+
+Q: Which element has the chemical symbol P?
+A: P is the chemical symbol for phosphorus.
+
+Q: What is the chemical symbol for nitrogen?
+A: The chemical symbol for nitrogen is N.
+
+Q: What is the chemical symbol for scandium?
+A: The chemical symbol for scandium is Sc.
+
+Q: Which element has the chemical symbol Ac?
+A: Ac is the chemical symbol for actinium.
+
+Q: What is 64 plus 40?
+A: 64 plus 40 is 104.
+
+Q: What is 300 plus 186?
+A: 300 plus 186 is 486.
+
+Q: What is 11 minus 5?
+A: 11 minus 5 is 6.
+
+Q: What is 15 times 11?
+A: 15 times 11 is 165.
+
+Q: What is 589 minus 256?
+A: 589 minus 256 is 333.
+
+Q: What is 3 times 9?
+A: 3 times 9 is 27.
+
+Q: What is the last letter of 'afghani'?
+A: The last letter of 'afghani' is I.
+
+Q: What is the first letter of 'albania'?
+A: The first letter of 'albania' is A.
+
+Q: What is the first letter of 'picked'?
+A: The first letter of 'picked' is P.
+
+Q: What is the last letter of 'meow'?
+A: The last letter of 'meow' is W.
+
+Q: What is the last letter of 'hiss'?
+A: The last letter of 'hiss' is S.
+
+Q: What is the first letter of 'plutonium'?
+A: The first letter of 'plutonium' is P.
+
+Q: How do you sort 919, 156, and 259?
+A: In order, they are 156 259 919.
+
+Q: How do you sort 19, 28, and 21?
+A: In order, they are 19 21 28.
+
+Q: How do you sort 291, 582, and 188?
+A: In order, they are 188 291 582.
+
+Q: How do you sort 17, 19, and 3?
+A: In order, they are 3 17 19.
+
+Q: How do you sort 567, 22, and 485?
+A: In order, they are 22 485 567.
+
+Q: How do you sort 477, 887, and 646?
+A: In order, they are 477 646 887.
