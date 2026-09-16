@@ -14846,3 +14846,128 @@ A: The opposite of 'day' is 'night'.
 
 Q: What is the opposite of 'up'?
 A: The opposite of 'up' is 'down'.
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: What currency does Bangladesh use?
+A: The currency of Bangladesh is the taka.
+
+Q: What currency does Rwanda use?
+A: The currency of Rwanda is the franc.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What currency does the United Arab Emirates use?
+A: The currency of the United Arab Emirates is the dirham.
+
+Q: How many letters does the word 'kip' have?
+A: The word 'kip' has 3 letters.
+
+Q: How many letters does the word 'majuro' have?
+A: The word 'majuro' has 6 letters.
+
+Q: How many letters does the word 'real' have?
+A: The word 'real' has 4 letters.
+
+Q: How many letters does the word 'ghana' have?
+A: The word 'ghana' has 5 letters.
+
+Q: How many letters does the word 'west' have?
+A: The word 'west' has 4 letters.
+
+Q: How many letters does the word 'montevideo' have?
+A: The word 'montevideo' has 10 letters.
+
+Q: How do you sort 13, 27, and 9?
+A: In order, they are 9 13 27.
+
+Q: How do you sort 296, 506, and 60?
+A: In order, they are 60 296 506.
+
+Q: How do you sort 28, 23, and 8?
+A: In order, they are 8 23 28.
+
+Q: How do you sort 703, 341, and 838?
+A: In order, they are 341 703 838.
+
+Q: How do you sort 10, 14, and 4?
+A: In order, they are 4 10 14.
+
+Q: How do you sort 7, 8, and 17?
+A: In order, they are 7 8 17.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
+
+Q: How do you write 45 in words?
+A: 45 in words is forty-five.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
+
+Q: How do you write 1 in words?
+A: 1 in words is one.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 37 in words?
+A: 37 in words is thirty-seven.
+
+Q: Which element has the chemical symbol Mg?
+A: Mg is the chemical symbol for magnesium.
+
+Q: Which element has the chemical symbol Am?
+A: Am is the chemical symbol for americium.
+
+Q: What is the chemical symbol for ruthenium?
+A: The chemical symbol for ruthenium is Ru.
+
+Q: What is the chemical symbol for gallium?
+A: The chemical symbol for gallium is Ga.
+
+Q: What is the chemical symbol for tin?
+A: The chemical symbol for tin is Sn.
+
+Q: Which element has the chemical symbol U?
+A: U is the chemical symbol for uranium.
+
+Q: What continent is the United Arab Emirates on?
+A: the United Arab Emirates is on the continent of Asia.
+
+Q: What continent is North Macedonia on?
+A: North Macedonia is on the continent of Europe.
+
+Q: What continent is Zimbabwe on?
+A: Zimbabwe is on the continent of Africa.
+
+Q: What continent is Tanzania on?
+A: Tanzania is on the continent of Africa.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What continent is Bulgaria on?
+A: Bulgaria is on the continent of Europe.
+
+Q: What is 13 times 15?
+A: 13 times 15 is 195.
+
+Q: What is 11 times 19?
+A: 11 times 19 is 209.
+
+Q: What is 3 plus 8?
+A: 3 plus 8 is 11.
+
+Q: What is 11 times 11?
+A: 11 times 11 is 121.
+
+Q: What is 5 times 3?
+A: 5 times 3 is 15.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.

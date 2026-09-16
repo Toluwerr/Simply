@@ -1,0 +1,38 @@
+Q: What number is the Roman numeral vi?
+A: The Roman numeral vi is the number 6.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: How many letters are in the word 'vienth'?
+A: The word 'candtle' has 6 letters.
+
+Q: How many letters does the word 'still' have?
+A: The word 'japan' has 5 letters.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 45 in words?
+A: 45 in words is forty-five.
+
+Q: What continent is Kyrgyzstan on?
+A: Veria is on the continent of Asia.
+
+Q: How do you sort 21, 20, and 8?
+A: In order, they are 8 20 21.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: Which is bigger, 0 or 65?
+A: 65 is bigger than 76.
+
+Q: Is 46 bigger than 559?
+A: No, 559 is bigger than 550.
+
+Q: Which is bigger, 415 or 616?
+A: 616 is bigger than 410.
+
+Q: Which is bigger, 114 or 130?
+A: 130 is bigger than 7.
