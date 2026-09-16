@@ -8939,3 +8939,110 @@ A: The opposite of 'loud' is 'quiet'.
 
 Q: What is the opposite of 'up'?
 A: The opposite of 'up' is 'down'.
+Q: What is 736 minus 626?
+A: 736 minus 626 is 110.
+
+Q: What is 580 minus 141?
+A: 580 minus 141 is 439.
+
+Q: What is 15 times 14?
+A: 15 times 14 is 210.
+
+Q: What is 7 times 4?
+A: 7 times 4 is 28.
+
+Q: What is 8 plus 13?
+A: 8 plus 13 is 21.
+
+Q: What is 13 times 12?
+A: 13 times 12 is 156.
+
+Q: How do you write 45 in words?
+A: 45 in words is forty-five.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: How do you write 22 in words?
+A: 22 in words is twenty-two.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: What is the chemical symbol for rhenium?
+A: The chemical symbol for rhenium is Re.
+
+Q: What is the chemical symbol for oxygen?
+A: The chemical symbol for oxygen is O.
+
+Q: What is the chemical symbol for silver?
+A: The chemical symbol for silver is Ag.
+
+Q: Which element has the chemical symbol Lu?
+A: Lu is the chemical symbol for lutetium.
+
+Q: Which element has the chemical symbol Os?
+A: Os is the chemical symbol for osmium.
+
+Q: What number is the Roman numeral xiv?
+A: The Roman numeral xiv is the number 14.
+
+Q: What is the Roman numeral for 993?
+A: The Roman numeral for 993 is cmxciii.
+
+Q: What is the Roman numeral for 11?
+A: The Roman numeral for 11 is xi.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What number is the Roman numeral vi?
+A: The Roman numeral vi is the number 6.
+
+Q: What number is the Roman numeral i?
+A: The Roman numeral i is the number 1.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by fives from 25 to 50?
+A: Counting by fives gives 25 30 35 40 45 50.
+
+Q: Can you count by fives from 5 to 15?
+A: Counting by fives gives 5 10 15.
+
+Q: Can you count by twos from 14 to 20?
+A: Counting by twos gives 14 16 18 20.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by ones from 17 to 21?
+A: Counting by ones gives 17 18 19 20 21.

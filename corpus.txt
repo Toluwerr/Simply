@@ -7094,3 +7094,25 @@ A: Counting by tens gives 30 40 50 50 60.
 
 Q: Can you count by tens from 10 to 40?
 A: Counting by tens gives 10 20 30 40.
+
+
+Q: Which element has the chemical symbol Si?
+A: S is the chemical symbol for silicon.
+
+Q: Which element has the chemical symbol Ho?
+A: He is Rnate thre is the chemical symbol for holmium.
+
+Q: How many letters does the word 'whale' have?
+A: The word 'hard' has 5 letters.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty-nine.
