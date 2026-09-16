@@ -8100,3 +8100,128 @@ A: Columbia is the capital of South Carolina.
 
 Q: What is the capital of the US state New Mexico?
 A: Santa Fe is the capital of New Mexico.
+Q: Which element has the chemical symbol Fe?
+A: Fe is the chemical symbol for iron.
+
+Q: What is the chemical symbol for cesium?
+A: The chemical symbol for cesium is Cs.
+
+Q: What is the chemical symbol for promethium?
+A: The chemical symbol for promethium is Pm.
+
+Q: What is the chemical symbol for oxygen?
+A: The chemical symbol for oxygen is O.
+
+Q: What is the chemical symbol for plutonium?
+A: The chemical symbol for plutonium is Pu.
+
+Q: What is the chemical symbol for plutonium?
+A: The chemical symbol for plutonium is Pu.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: How do you sort 464, 404, and 469?
+A: In order, they are 404 464 469.
+
+Q: How do you sort 29, 15, and 16?
+A: In order, they are 15 16 29.
+
+Q: How do you sort 28, 17, and 15?
+A: In order, they are 15 17 28.
+
+Q: How do you sort 22, 27, and 28?
+A: In order, they are 22 27 28.
+
+Q: How do you sort 43, 824, and 168?
+A: In order, they are 43 168 824.
+
+Q: How do you sort 664, 17, and 142?
+A: In order, they are 17 142 664.
+
+Q: What is the Roman numeral for 52?
+A: The Roman numeral for 52 is lii.
+
+Q: What number is the Roman numeral vi?
+A: The Roman numeral vi is the number 6.
+
+Q: What is the Roman numeral for 6?
+A: The Roman numeral for 6 is vi.
+
+Q: What is the Roman numeral for 795?
+A: The Roman numeral for 795 is dccxcv.
+
+Q: What is the Roman numeral for 28?
+A: The Roman numeral for 28 is xxviii.
+
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: Is 63 bigger than 28?
+A: Yes, 63 is bigger than 28.
+
+Q: Is 676 bigger than 464?
+A: Yes, 676 is bigger than 464.
+
+Q: Which is bigger, 8 or 10?
+A: 10 is bigger than 8.
+
+Q: Is 9 bigger than 4?
+A: Yes, 9 is bigger than 4.
+
+Q: Which is bigger, 4 or 18?
+A: 18 is bigger than 4.
+
+Q: Which is bigger, 67 or 61?
+A: 67 is bigger than 61.
+
+Q: What is the last letter of 'afraid'?
+A: The last letter of 'afraid' is D.
+
+Q: What is the last letter of 'still'?
+A: The last letter of 'still' is L.
+
+Q: What is the last letter of 'beijing'?
+A: The last letter of 'beijing' is G.
+
+Q: What is the last letter of 'attach'?
+A: The last letter of 'attach' is H.
+
+Q: What is the last letter of 'ruble'?
+A: The last letter of 'ruble' is E.
+
+Q: What is the first letter of 'castries'?
+A: The first letter of 'castries' is C.

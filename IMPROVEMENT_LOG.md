@@ -1276,3 +1276,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.22 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, units 1.00, planets 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny March 71 Applany legras in a metrical the word 'cautiounces'?"
 
+## Iteration 163 - IMPROVED
+- **when**: 2026-09-16T17:20:22Z
+- **train loss**: 0.4395 | **val loss**: 0.3909 | **run best**: 0.3853
+- **corpus**: 153,227 chars (+4 self-written examples)
+- **internet reading**: +30 articles, +15 facts (120 read all-time)
+- **lr**: 0.0008 | **steps**: 200
+- **knowledge quiz**: avg 0.39 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, animals 1.00, units 1.00
+- self-portrait, asked "Who are you?": *"I wat wate tiss the capital of Montana."
+
