@@ -12330,3 +12330,110 @@ A: A cat says 'meow'.
 
 Q: What sound does an owl make?
 A: A owl says 'hoot'.
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What continent is Oman on?
+A: Oman is on the continent of Asia.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: What continent is Oman on?
+A: Oman is on the continent of Asia.
+
+Q: What continent is Norway on?
+A: Norway is on the continent of Europe.
+
+Q: What continent is Yemen on?
+A: Yemen is on the continent of Asia.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What is the chemical symbol for gallium?
+A: The chemical symbol for gallium is Ga.
+
+Q: Which element has the chemical symbol Tb?
+A: Tb is the chemical symbol for terbium.
+
+Q: What is the chemical symbol for platinum?
+A: The chemical symbol for platinum is Pt.
+
+Q: Which element has the chemical symbol Eu?
+A: Eu is the chemical symbol for europium.
+
+Q: What is the chemical symbol for germanium?
+A: The chemical symbol for germanium is Ge.
+
+Q: What is the chemical symbol for neon?
+A: The chemical symbol for neon is Ne.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: What is 674 minus 392?
+A: 674 minus 392 is 282.
+
+Q: What is 5 times 6?
+A: 5 times 6 is 30.
+
+Q: What is 78 minus 40?
+A: 78 minus 40 is 38.
+
+Q: What is 52 plus 10?
+A: 52 plus 10 is 62.
+
+Q: What is 14 times 13?
+A: 14 times 13 is 182.
+
+Q: What is 9 times 8?
+A: 9 times 8 is 72.

@@ -7230,3 +7230,19 @@ A: October has 31 days.
 
 Q: How many days are in November?
 A: November has 30 days.
+
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: Which is bigger, 20 or 1?
+A: 20 is bigger than 7.
+
+Q: What is the capital of Djibouti?
+A: The capital of Djibouti.
+
+Q: Can you count by fives from 35 to 50?
+A: Counting by fives gives 35 40 45 50.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.

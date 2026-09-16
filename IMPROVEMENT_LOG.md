@@ -1612,3 +1612,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"A owl more comes more compium is a likrain."
 
+## Iteration 199 - IMPROVED
+- **when**: 2026-09-16T22:46:31Z
+- **train loss**: 1.3336 | **val loss**: 0.6936 | **run best**: 0.6936
+- **corpus**: 158,202 chars (+5 self-written examples)
+- **internet reading**: +30 articles, +16 facts (210 read all-time)
+- **lr**: 0.0015 | **steps**: 150
+- **knowledge quiz**: avg 0.17 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, months 1.00, capitals 1.00
+- self-portrait, asked "Who are you?": *"There!"
+
