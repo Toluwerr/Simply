@@ -6922,3 +6922,128 @@ A: The word 'cat' has 3 letters.
 
 Q: How many letters does the word 'botswana' have?
 A: The word 'botswana' has 8 letters.
+Q: Which is bigger, 863 or 391?
+A: 863 is bigger than 391.
+
+Q: Which is bigger, 313 or 658?
+A: 658 is bigger than 313.
+
+Q: Is 76 bigger than 14?
+A: Yes, 76 is bigger than 14.
+
+Q: Is 306 bigger than 909?
+A: No, 909 is bigger than 306.
+
+Q: Which is bigger, 24 or 87?
+A: 87 is bigger than 24.
+
+Q: Which is bigger, 9 or 18?
+A: 18 is bigger than 9.
+
+Q: What is 880 plus 951?
+A: 880 plus 951 is 1831.
+
+Q: What is 13 plus 2?
+A: 13 plus 2 is 15.
+
+Q: What is 627 minus 389?
+A: 627 minus 389 is 238.
+
+Q: What is 11 times 16?
+A: 11 times 16 is 176.
+
+Q: What is 10 times 10?
+A: 10 times 10 is 100.
+
+Q: What is 12 times 11?
+A: 12 times 11 is 132.
+
+Q: Can you count by ones from 8 to 11?
+A: Counting by ones gives 8 9 10 11.
+
+Q: Can you count by twos from 20 to 24?
+A: Counting by twos gives 20 22 24.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by twos from 36 to 42?
+A: Counting by twos gives 36 38 40 42.
+
+Q: Can you count by twos from 28 to 32?
+A: Counting by twos gives 28 30 32.
+
+Q: Can you count by twos from 16 to 20?
+A: Counting by twos gives 16 18 20.
+
+Q: What is double 34?
+A: Double 34 is 68.
+
+Q: What is double 56?
+A: Double 56 is 112.
+
+Q: What is half of 10?
+A: Half of 10 is 5.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: How do you sort 4, 12, and 8?
+A: In order, they are 4 8 12.
+
+Q: How do you sort 686, 107, and 71?
+A: In order, they are 71 107 686.
+
+Q: How do you sort 5, 18, and 15?
+A: In order, they are 5 15 18.
+
+Q: How do you sort 1, 21, and 12?
+A: In order, they are 1 12 21.
+
+Q: How do you sort 101, 616, and 252?
+A: In order, they are 101 252 616.
+
+Q: How do you sort 29, 12, and 24?
+A: In order, they are 12 24 29.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What is the capital of Micronesia?
+A: The capital of Micronesia is Palikir.
+
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
+
+Q: What is the capital of Algeria?
+A: The capital of Algeria is Algiers.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
