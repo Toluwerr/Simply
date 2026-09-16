@@ -4566,3 +4566,128 @@ A: The word 'bulgaria' has 8 letters.
 
 Q: How many letters does the word 'angola' have?
 A: The word 'angola' has 6 letters.
+Q: What is 521 plus 337?
+A: 521 plus 337 is 858.
+
+Q: What is 11 times 16?
+A: 11 times 16 is 176.
+
+Q: What is 6 times 3?
+A: 6 times 3 is 18.
+
+Q: What is 4 times 3?
+A: 4 times 3 is 12.
+
+Q: What is 799 minus 709?
+A: 799 minus 709 is 90.
+
+Q: What is 55 minus 54?
+A: 55 minus 54 is 1.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: Can you count by ones from 13 to 17?
+A: Counting by ones gives 13 14 15 16 17.
+
+Q: Can you count by fives from 35 to 55?
+A: Counting by fives gives 35 40 45 50 55.
+
+Q: Can you count by ones from 14 to 16?
+A: Counting by ones gives 14 15 16.
+
+Q: Can you count by twos from 36 to 46?
+A: Counting by twos gives 36 38 40 42 44 46.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by twos from 16 to 20?
+A: Counting by twos gives 16 18 20.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
+
+Q: What is double 53?
+A: Double 53 is 106.
+
+Q: What is double 18?
+A: Double 18 is 36.
+
+Q: What is double 27?
+A: Double 27 is 54.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is double 19?
+A: Double 19 is 38.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What continent is Kyrgyzstan on?
+A: Kyrgyzstan is on the continent of Asia.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is Nepal on?
+A: Nepal is on the continent of Asia.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
