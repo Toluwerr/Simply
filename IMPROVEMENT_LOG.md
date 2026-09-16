@@ -2105,3 +2105,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.61 | weakest: compare 0.00, sort 0.00, double_half 0.00 | strongest: definitions 1.00, opposites 1.00, records 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-styleut very faster they model Seek self."
 
+## Iteration 252 - IMPROVED
+- **when**: 2026-09-16T23:30:04Z
+- **train loss**: 0.9604 | **val loss**: 0.6767 | **run best**: 0.6714
+- **corpus**: 180,229 chars (+8 self-written examples)
+- **internet reading**: +30 articles, +16 facts (360 read all-time)
+- **lr**: 0.0003 | **steps**: 150
+- **knowledge quiz**: avg 0.65 | weakest: sort 0.00, roman 0.00, letters 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, thank you! I am Simply, my my myself-improvement loop star to the most periods to the lake air. The morning, lake and found a paper boat. The sun was bright. The little journey had just begun."
+

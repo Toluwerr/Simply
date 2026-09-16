@@ -18361,3 +18361,110 @@ A: Yes, 733 is bigger than 433.
 
 Q: Is 10 bigger than 15?
 A: No, 15 is bigger than 10.
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What is double 41?
+A: Double 41 is 82.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is double 18?
+A: Double 18 is 36.
+
+Q: What is double 54?
+A: Double 54 is 108.
+
+Q: What is double 47?
+A: Double 47 is 94.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: How do you sort 26, 22, and 11?
+A: In order, they are 11 22 26.
+
+Q: How do you sort 16, 18, and 14?
+A: In order, they are 14 16 18.
+
+Q: How do you sort 872, 710, and 307?
+A: In order, they are 307 710 872.
+
+Q: How do you sort 5, 1, and 20?
+A: In order, they are 1 5 20.
+
+Q: How do you sort 18, 22, and 14?
+A: In order, they are 14 18 22.
+
+Q: How do you sort 3, 16, and 13?
+A: In order, they are 3 13 16.
+
+Q: Is 895 bigger than 680?
+A: Yes, 895 is bigger than 680.
+
+Q: Is 695 bigger than 653?
+A: Yes, 695 is bigger than 653.
+
+Q: Which is bigger, 13 or 93?
+A: 93 is bigger than 13.
+
+Q: Which is bigger, 981 or 441?
+A: 981 is bigger than 441.
+
+Q: Is 15 bigger than 12?
+A: Yes, 15 is bigger than 12.
+
+Q: Which is bigger, 20 or 12?
+A: 20 is bigger than 12.
+
+Q: How many letters does the word 'tanzania' have?
+A: The word 'tanzania' has 8 letters.
+
+Q: How many letters does the word 'bratislava' have?
+A: The word 'bratislava' has 10 letters.
+
+Q: How many letters does the word 'greece' have?
+A: The word 'greece' has 6 letters.
+
+Q: How many letters does the word 'strontium' have?
+A: The word 'strontium' has 9 letters.
+
+Q: How many letters does the word 'old' have?
+A: The word 'old' has 3 letters.
+
+Q: How many letters does the word 'columbus' have?
+A: The word 'columbus' has 8 letters.
+
+Q: What currency does Morocco use?
+A: The currency of Morocco is the dirham.
+
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordoba.
+
+Q: What currency does China use?
+A: The currency of China is the yuan.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Mauritius use?
+A: The currency of Mauritius is the rupee.
