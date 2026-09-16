@@ -7283,3 +7283,13 @@ A: Spe is on the continent of Europe.
 
 Q: What sound does a cat make?
 A: In says 'meow'.
+
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'early' is 'down'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hot' is 'soft'.
+
+Q: What continent is Uruguay on?
+A: Des is on the continent of South America.

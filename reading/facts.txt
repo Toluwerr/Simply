@@ -298,3 +298,51 @@ A: Half of Me is a song by Swedish singer Greczula, released as a single on 31 J
 
 Q: What is Stonewall?
 A: Stonewall is a 2015 American coming-of-age drama film directed by Roland Emmerich, written by Jon Robin Baitz, and starring Jeremy Irvine.
+
+Q: What is Haiku, originally OpenBeOS,?
+A: Haiku, originally OpenBeOS, is a free and open-source operating system for personal computers.
+
+Q: What is Nobara Linux?
+A: Nobara Linux is a Linux distribution based on Fedora Linux.
+
+Q: What is Darwin?
+A: Darwin is the core Unix-like operating system of macOS, iOS, watchOS, tvOS, iPadOS, audioOS, visionOS, and bridgeOS.
+
+Q: What is Inferno?
+A: Inferno is a MIT Licensed distributed operating system started in 1995 at Bell Labs.
+
+Q: What is Zephyr?
+A: Zephyr is a small real-time operating system for connected.
+
+Q: What is Charles Grant?
+A: Charles Grant is a Canadian salesman and human rights activist.
+
+Q: What is Joachim Persson?
+A: Joachim Persson is a Danish badminton player.
+
+Q: What is Ian Livingstone?
+A: Ian Livingstone is a noted British development economist.
+
+Q: What is Derek Whitson?
+A: Derek Whitson is a Canadian ice sledge hockey player.
+
+Q: What is Whitson also?
+A: Whitson also is a player of football 7-a-side, in which he won a bronze medal at the 2007 Pan-American Games in Rio de Janeiro.
+
+Q: What is Aquihuec?
+A: Aquihuec is an archaeological site in Argentina.
+
+Q: What is Ashley Burdett?
+A: Ashley Burdett is a Zimbabwean woman cricketer and former captain of the Zimbabwe women's national cricket team.
+
+Q: What is Michel Alexandre Dub?
+A: Michel Alexandre Dub is a Canadian outlaw biker and gangster.
+
+Q: What is Dub?
+A: Dub is the prime suspect in the murder of Claude Briere, a locally prominent drug dealer who had been his friend since childhood.
+
+Q: What is Phoenix Tower?
+A: Phoenix Tower is a class A office building located in the city of Bucharest, Romania.
+
+Q: What is Engineering Mathematics?
+A: Engineering Mathematics is a branch of applied mathematics.

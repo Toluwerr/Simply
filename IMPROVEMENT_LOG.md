@@ -1661,3 +1661,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: knowledge 0.35, was 0.09; val 0.6703
 - self-portrait, asked "Who are you?": *"I am small my my my model that improves goal? Account humany hums."
 
+## Iteration 204 - NO_GAIN
+- **when**: 2026-09-16T22:51:31Z
+- **train loss**: 1.2135 | **val loss**: 0.6838 | **run best**: 0.6703
+- **corpus**: 159,155 chars (+3 self-written examples)
+- **internet reading**: +30 articles, +16 facts (240 read all-time)
+- **lr**: 0.0015 | **steps**: 150
+- **knowledge quiz**: avg 0.26 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"Dou sort 980, 670, and 679."
+

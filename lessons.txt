@@ -12883,3 +12883,110 @@ A: Denmark is on the continent of Europe.
 
 Q: What continent is Morocco on?
 A: Morocco is on the continent of Africa.
+Q: What is the capital of Malaysia?
+A: The capital of Malaysia is Kuala Lumpur.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: What is the capital of Ecuador?
+A: The capital of Ecuador is Quito.
+
+Q: What is the capital of Malawi?
+A: The capital of Malawi is Lilongwe.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
+
+Q: What is the capital of Cameroon?
+A: The capital of Cameroon is Yaounde.
+
+Q: What is the Roman numeral for 76?
+A: The Roman numeral for 76 is lxxvi.
+
+Q: What number is the Roman numeral xxxvi?
+A: The Roman numeral xxxvi is the number 36.
+
+Q: What is the Roman numeral for 2?
+A: The Roman numeral for 2 is ii.
+
+Q: What number is the Roman numeral xlvi?
+A: The Roman numeral xlvi is the number 46.
+
+Q: What number is the Roman numeral xliv?
+A: The Roman numeral xliv is the number 44.
+
+Q: What is the Roman numeral for 20?
+A: The Roman numeral for 20 is xx.
+
+Q: What continent is Mauritania on?
+A: Mauritania is on the continent of Africa.
+
+Q: What continent is Togo on?
+A: Togo is on the continent of Africa.
+
+Q: What continent is Monaco on?
+A: Monaco is on the continent of Europe.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What continent is Eswatini on?
+A: Eswatini is on the continent of Africa.
+
+Q: What continent is India on?
+A: India is on the continent of Asia.
+
+Q: How do you sort 139, 865, and 295?
+A: In order, they are 139 295 865.
+
+Q: How do you sort 9, 16, and 25?
+A: In order, they are 9 16 25.
+
+Q: How do you sort 27, 10, and 20?
+A: In order, they are 10 20 27.
+
+Q: How do you sort 815, 209, and 826?
+A: In order, they are 209 815 826.
+
+Q: How do you sort 8, 21, and 3?
+A: In order, they are 3 8 21.
+
+Q: How do you sort 186, 971, and 475?
+A: In order, they are 186 475 971.
+
+Q: Is 20 bigger than 18?
+A: Yes, 20 is bigger than 18.
+
+Q: Is 18 bigger than 13?
+A: Yes, 18 is bigger than 13.
+
+Q: Is 12 bigger than 3?
+A: Yes, 12 is bigger than 3.
+
+Q: Is 50 bigger than 91?
+A: No, 91 is bigger than 50.
+
+Q: Which is bigger, 980 or 558?
+A: 980 is bigger than 558.
+
+Q: Which is bigger, 878 or 464?
+A: 878 is bigger than 464.
+
+Q: What is the last letter of 'nevis'?
+A: The last letter of 'nevis' is S.
+
+Q: What is the last letter of 'suriname'?
+A: The last letter of 'suriname' is E.
+
+Q: What is the last letter of 'austria'?
+A: The last letter of 'austria' is A.
+
+Q: What is the last letter of 'dong'?
+A: The last letter of 'dong' is G.
+
+Q: What is the last letter of 'cameroon'?
+A: The last letter of 'cameroon' is N.
+
+Q: What is the first letter of 'promethium'?
+A: The first letter of 'promethium' is P.
