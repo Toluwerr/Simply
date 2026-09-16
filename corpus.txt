@@ -7874,3 +7874,46 @@ A: 'last' is the opposite 'empty'.
 
 Q: What is double 55?
 A: Double 55 is 110.
+
+
+Q: Which is bigger, 6 or 8?
+A: 8 is bigger than 6.
+
+Q: Which is bigger, 1 or 93?
+A: 93 is bigger than 7.
+
+Q: Is 669 bigger than 204?
+A: Yes, 669 is bigger than 85.
+
+Q: Which is bigger, 17 or 91?
+A: 91 is bigger than 17.
+
+Q: Which is bigger, 17 or 3?
+A: 17 is bigger than 2.
+
+Q: Which is bigger, 3 or 13?
+A: 13 is bigger than 2.
+
+Q: Which is bigger, 47 or 3?
+A: 47 is bigger than 3.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz sof.
+
+Q: How many letters does the word 'panda'?
+A: The word 'shark' has 5 letters.
+
+Q: How many letters does the word 'dodoma' have?
+A: The word 'dalasi' has 6 letters.
+
+Q: What number is the Roman numeral xciv?
+A: The Roman numeral xc is the number 94.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0.

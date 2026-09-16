@@ -16684,3 +16684,110 @@ A: 22 is bigger than 15.
 
 Q: Which is bigger, 66 or 24?
 A: 66 is bigger than 24.
+Q: What is the chemical symbol for radon?
+A: The chemical symbol for radon is Rn.
+
+Q: What is the chemical symbol for holmium?
+A: The chemical symbol for holmium is Ho.
+
+Q: Which element has the chemical symbol Nd?
+A: Nd is the chemical symbol for neodymium.
+
+Q: Which element has the chemical symbol Sr?
+A: Sr is the chemical symbol for strontium.
+
+Q: Which element has the chemical symbol Cl?
+A: Cl is the chemical symbol for chlorine.
+
+Q: Which element has the chemical symbol Hg?
+A: Hg is the chemical symbol for mercury.
+
+Q: What is the capital of Jordan?
+A: The capital of Jordan is Amman.
+
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Slovenia?
+A: The capital of Slovenia is Ljubljana.
+
+Q: What is the capital of the Comoros?
+A: The capital of the Comoros is Moroni.
+
+Q: What is the capital of the Marshall Islands?
+A: The capital of the Marshall Islands is Majuro.
+
+Q: What number is the Roman numeral lxiii?
+A: The Roman numeral lxiii is the number 63.
+
+Q: What number is the Roman numeral iii?
+A: The Roman numeral iii is the number 3.
+
+Q: What number is the Roman numeral dcccxxx?
+A: The Roman numeral dcccxxx is the number 830.
+
+Q: What number is the Roman numeral ix?
+A: The Roman numeral ix is the number 9.
+
+Q: What is the Roman numeral for 18?
+A: The Roman numeral for 18 is xviii.
+
+Q: What is the Roman numeral for 91?
+A: The Roman numeral for 91 is xci.
+
+Q: How do you sort 4, 5, and 18?
+A: In order, they are 4 5 18.
+
+Q: How do you sort 220, 442, and 311?
+A: In order, they are 220 311 442.
+
+Q: How do you sort 935, 703, and 115?
+A: In order, they are 115 703 935.
+
+Q: How do you sort 26, 7, and 17?
+A: In order, they are 7 17 26.
+
+Q: How do you sort 650, 583, and 287?
+A: In order, they are 287 583 650.
+
+Q: How do you sort 7, 2, and 25?
+A: In order, they are 2 7 25.
+
+Q: What is double 9?
+A: Double 9 is 18.
+
+Q: What is half of 38?
+A: Half of 38 is 19.
+
+Q: What is double 44?
+A: Double 44 is 88.
+
+Q: What is double 23?
+A: Double 23 is 46.
+
+Q: What is double 42?
+A: Double 42 is 84.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: Is 18 bigger than 9?
+A: Yes, 18 is bigger than 9.
+
+Q: Is 3 bigger than 17?
+A: No, 17 is bigger than 3.
+
+Q: Is 507 bigger than 504?
+A: Yes, 507 is bigger than 504.
+
+Q: Is 13 bigger than 9?
+A: Yes, 13 is bigger than 9.
+
+Q: Which is bigger, 200 or 598?
+A: 598 is bigger than 200.
+
+Q: Which is bigger, 6 or 19?
+A: 19 is bigger than 6.
