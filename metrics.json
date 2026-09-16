@@ -1,13 +1,13 @@
 {
   "version": 10,
-  "iteration": 119,
+  "iteration": 120,
   "best_val_loss": 0.4707233339548111,
-  "lr": 0.000375,
-  "plateaus": 1,
+  "lr": 0.0003,
+  "plateaus": 0,
   "val_start": 130668,
   "val_end": 137546,
-  "dataset_chars": 144944,
-  "synthetic_total": 106,
+  "dataset_chars": 145165,
+  "synthetic_total": 109,
   "model_kwargs": {
     "block_size": 128,
     "n_layer": 4,
@@ -25,7 +25,7 @@
     "roman": 0.0,
     "letters": 0.0,
     "spelling": 0.0,
-    "first_last": 1.0,
+    "first_last": 0.0,
     "capitals": 0.0,
     "states": 0.0,
     "currencies": 0.0,
@@ -41,5 +41,5 @@
   },
   "study_mode_v1": true,
   "head_chars": 144205,
-  "lessons": 988
+  "lessons": 1029
 }

@@ -2977,3 +2977,128 @@ A: Baton Rouge is the capital of Louisiana.
 
 Q: What is the capital of the US state Missouri?
 A: Jefferson City is the capital of Missouri.
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: How many letters does the word 'whale' have?
+A: The word 'whale' has 5 letters.
+
+Q: How many letters does the word 'trinidad' have?
+A: The word 'trinidad' has 8 letters.
+
+Q: How many letters does the word 'krypton' have?
+A: The word 'krypton' has 7 letters.
+
+Q: How many letters does the word 'liechtenstein' have?
+A: The word 'liechtenstein' has 13 letters.
+
+Q: How many letters does the word 'not' have?
+A: The word 'not' has 3 letters.
+
+Q: How many letters does the word 'algeria' have?
+A: The word 'algeria' has 7 letters.
+
+Q: How do you write 2 in words?
+A: 2 in words is two.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 39 in words?
+A: 39 in words is thirty-nine.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: What is the capital of the Solomon Islands?
+A: The capital of the Solomon Islands is Honiara.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: What is the capital of Nicaragua?
+A: The capital of Nicaragua is Managua.
+
+Q: What is the capital of Liberia?
+A: The capital of Liberia is Monrovia.
+
+Q: What is the capital of Paraguay?
+A: The capital of Paraguay is Asuncion.
+
+Q: What is the capital of Paraguay?
+A: The capital of Paraguay is Asuncion.
+
+Q: What is double 57?
+A: Double 57 is 114.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is double 42?
+A: Double 42 is 84.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is double 22?
+A: Double 22 is 44.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
