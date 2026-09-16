@@ -14150,3 +14150,128 @@ A: 557 is bigger than 127.
 
 Q: Which is bigger, 58 or 50?
 A: 58 is bigger than 50.
+Q: What is the last letter of 'sao'?
+A: The last letter of 'sao' is O.
+
+Q: What is the first letter of 'balboa'?
+A: The first letter of 'balboa' is B.
+
+Q: What is the first letter of 'accra'?
+A: The first letter of 'accra' is A.
+
+Q: What is the last letter of 'pencil'?
+A: The last letter of 'pencil' is L.
+
+Q: What is the first letter of 'deep'?
+A: The first letter of 'deep' is D.
+
+Q: What is the last letter of 'maputo'?
+A: The last letter of 'maputo' is O.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is double 40?
+A: Double 40 is 80.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is double 48?
+A: Double 48 is 96.
+
+Q: What is double 54?
+A: Double 54 is 108.
+
+Q: What is the capital of Denmark?
+A: The capital of Denmark is Copenhagen.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is the capital of Belgium?
+A: The capital of Belgium is Brussels.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+
+Q: What is the capital of Bolivia?
+A: The capital of Bolivia is La Paz.
+
+Q: What is the capital of San Marino?
+A: The capital of San Marino is San Marino.
+
+Q: How many letters does the word 'myanmar' have?
+A: The word 'myanmar' has 7 letters.
+
+Q: How many letters does the word 'santo' have?
+A: The word 'santo' has 5 letters.
+
+Q: How many letters does the word 'springfield' have?
+A: The word 'springfield' has 11 letters.
+
+Q: How many letters does the word 'quiet' have?
+A: The word 'quiet' has 5 letters.
+
+Q: How many letters does the word 'italy' have?
+A: The word 'italy' has 5 letters.
+
+Q: How many letters does the word 'louis' have?
+A: The word 'louis' has 5 letters.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: Which element has the chemical symbol Sc?
+A: Sc is the chemical symbol for scandium.
+
+Q: Which element has the chemical symbol Pm?
+A: Pm is the chemical symbol for promethium.
+
+Q: What is the chemical symbol for ytterbium?
+A: The chemical symbol for ytterbium is Yb.
+
+Q: What is the chemical symbol for tungsten?
+A: The chemical symbol for tungsten is W.
+
+Q: Which element has the chemical symbol Th?
+A: Th is the chemical symbol for thorium.
+
+Q: What is the chemical symbol for tellurium?
+A: The chemical symbol for tellurium is Te.

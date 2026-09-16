@@ -7459,3 +7459,28 @@ A: July has 31 days.
 
 Q: What number is the Roman numeral iv?
 A: The Roman numeral vi is the number 4.
+
+
+Q: What is double 57?
+A: Double 57 is 114.
+
+Q: What is double 9?
+A: Double 9 is 18.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
+
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: What is the capital of South Sudan?
+A: The capital of Sudan is Juba.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
