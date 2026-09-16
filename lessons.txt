@@ -5030,3 +5030,128 @@ A: In order, they are 263 685 730.
 
 Q: How do you sort 24, 20, and 23?
 A: In order, they are 20 23 24.
+Q: How do you write 25 in words?
+A: 25 in words is twenty-five.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 1 in words?
+A: 1 in words is one.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What is the chemical symbol for neodymium?
+A: The chemical symbol for neodymium is Nd.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Os.
+
+Q: What is the chemical symbol for sulfur?
+A: The chemical symbol for sulfur is S.
+
+Q: Which element has the chemical symbol Ra?
+A: Ra is the chemical symbol for radium.
+
+Q: Which element has the chemical symbol Re?
+A: Re is the chemical symbol for rhenium.
+
+Q: Which element has the chemical symbol Th?
+A: Th is the chemical symbol for thorium.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: How do you sort 91, 324, and 249?
+A: In order, they are 91 249 324.
+
+Q: How do you sort 572, 531, and 533?
+A: In order, they are 531 533 572.
+
+Q: How do you sort 944, 219, and 868?
+A: In order, they are 219 868 944.
+
+Q: How do you sort 7, 4, and 22?
+A: In order, they are 4 7 22.
+
+Q: How do you sort 441, 514, and 844?
+A: In order, they are 441 514 844.
+
+Q: How do you sort 429, 82, and 189?
+A: In order, they are 82 189 429.
+
+Q: What is half of 10?
+A: Half of 10 is 5.
+
+Q: What is double 21?
+A: Double 21 is 42.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: What is double 57?
+A: Double 57 is 114.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is double 24?
+A: Double 24 is 48.

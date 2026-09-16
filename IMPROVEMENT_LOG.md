@@ -1034,3 +1034,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.09 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: records 1.00, units 1.00, reading 0.00
 - self-portrait, asked "Who are you?": *"I am a small tranatter of Asia."
 
+## Iteration 137 - NO_GAIN
+- **when**: 2026-09-16T06:51:37Z
+- **train loss**: 0.8413 | **val loss**: 0.4212 | **run best**: 0.4007
+- **corpus**: 147,949 chars (+0 self-written examples)
+- **internet reading**: +30 articles, +15 facts (60 read all-time)
+- **lr**: 0.0008 | **steps**: 200
+- **knowledge quiz**: avg 0.13 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: months 1.00, planets 1.00, first_last 1.00
+- self-portrait, asked "Who are you?": *"Urifty astank cone to the collowine."
+
