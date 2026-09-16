@@ -22268,3 +22268,110 @@ A: The Roman numeral for 72 is lxxii.
 
 Q: What is the Roman numeral for 63?
 A: The Roman numeral for 63 is lxiii.
+Q: Which element has the chemical symbol Ra?
+A: Ra is the chemical symbol for radium.
+
+Q: Which element has the chemical symbol Ag?
+A: Ag is the chemical symbol for silver.
+
+Q: What is the chemical symbol for radium?
+A: The chemical symbol for radium is Ra.
+
+Q: Which element has the chemical symbol Co?
+A: Co is the chemical symbol for cobalt.
+
+Q: What is the chemical symbol for radon?
+A: The chemical symbol for radon is Rn.
+
+Q: Which element has the chemical symbol F?
+A: F is the chemical symbol for fluorine.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is the capital of Kenya?
+A: The capital of Kenya is Nairobi.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Saint Lucia?
+A: The capital of Saint Lucia is Castries.
+
+Q: What is the capital of North Korea?
+A: The capital of North Korea is Pyongyang.
+
+Q: What is the capital of Nepal?
+A: The capital of Nepal is Kathmandu.
+
+Q: What is the Roman numeral for 12?
+A: The Roman numeral for 12 is xii.
+
+Q: What is the Roman numeral for 551?
+A: The Roman numeral for 551 is dli.
+
+Q: What is the Roman numeral for 534?
+A: The Roman numeral for 534 is dxxxiv.
+
+Q: What number is the Roman numeral cccliii?
+A: The Roman numeral cccliii is the number 353.
+
+Q: What number is the Roman numeral cmxxx?
+A: The Roman numeral cmxxx is the number 930.
+
+Q: What is the Roman numeral for 200?
+A: The Roman numeral for 200 is cc.
+
+Q: How do you sort 720, 699, and 375?
+A: In order, they are 375 699 720.
+
+Q: How do you sort 16, 3, and 6?
+A: In order, they are 3 6 16.
+
+Q: How do you sort 5, 3, and 20?
+A: In order, they are 3 5 20.
+
+Q: How do you sort 204, 895, and 161?
+A: In order, they are 161 204 895.
+
+Q: How do you sort 904, 443, and 247?
+A: In order, they are 247 443 904.
+
+Q: How do you sort 822, 461, and 790?
+A: In order, they are 461 790 822.
+
+Q: What is half of 38?
+A: Half of 38 is 19.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is half of 8?
+A: Half of 8 is 4.
+
+Q: What is half of 10?
+A: Half of 10 is 5.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is 10 plus 13?
+A: 10 plus 13 is 23.
+
+Q: What is 695 minus 528?
+A: 695 minus 528 is 167.
+
+Q: What is 12 times 18?
+A: 12 times 18 is 216.
+
+Q: What is 9 times 4?
+A: 9 times 4 is 36.
+
+Q: What is 4 times 6?
+A: 4 times 6 is 24.
+
+Q: What is 42 plus 19?
+A: 42 plus 19 is 61.

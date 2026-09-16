@@ -1,0 +1,20 @@
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you sort 19, 7, and 23?
+A: In order, they are 7 19 23.
+
+Q: How do you sort 19, 20, and 23?
+A: In order, they are 1 19 20 23.
+
+Q: How do you sort 7, 8, and 17?
+A: In order, they are 7 8 17.
+
+Q: What sound does a lion make?
+A: A lion says ow'roar'.
+
+Q: What number is the Roman numeral lxiv?
+A: The Roman numeral lxiv is the number 64.
+
+Q: How many letters does the word 'happy' have?
+A: The word 'hon' has 5 letters.
