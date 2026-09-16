@@ -8457,3 +8457,128 @@ A: The capital of Gabon is Libreville.
 
 Q: What is the capital of Italy?
 A: The capital of Italy is Rome.
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
+
+Q: What currency does Panama use?
+A: The currency of Panama is the balboa.
+
+Q: What currency does Hungary use?
+A: The currency of Hungary is the forint.
+
+Q: What currency does Somalia use?
+A: The currency of Somalia is the shilling.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: What is 5 times 8?
+A: 5 times 8 is 40.
+
+Q: What is 5 times 9?
+A: 5 times 9 is 45.
+
+Q: What is 9 plus 13?
+A: 9 plus 13 is 22.
+
+Q: What is 5 times 12?
+A: 5 times 12 is 60.
+
+Q: What is 14 minus 12?
+A: 14 minus 12 is 2.
+
+Q: What is 8 minus 7?
+A: 8 minus 7 is 1.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How do you write 37 in words?
+A: 37 in words is thirty-seven.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 50 in words?
+A: 50 in words is fifty.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you sort 10, 25, and 18?
+A: In order, they are 10 18 25.
+
+Q: How do you sort 786, 393, and 304?
+A: In order, they are 304 393 786.
+
+Q: How do you sort 11, 13, and 24?
+A: In order, they are 11 13 24.
+
+Q: How do you sort 532, 738, and 644?
+A: In order, they are 532 644 738.
+
+Q: How do you sort 29, 9, and 17?
+A: In order, they are 9 17 29.
+
+Q: How do you sort 91, 36, and 116?
+A: In order, they are 36 91 116.
+
+Q: Which is bigger, 70 or 41?
+A: 70 is bigger than 41.
+
+Q: Is 300 bigger than 629?
+A: No, 629 is bigger than 300.
+
+Q: Is 70 bigger than 36?
+A: Yes, 70 is bigger than 36.
+
+Q: Which is bigger, 262 or 556?
+A: 556 is bigger than 262.
+
+Q: Which is bigger, 686 or 166?
+A: 686 is bigger than 166.
+
+Q: Which is bigger, 983 or 601?
+A: 983 is bigger than 601.

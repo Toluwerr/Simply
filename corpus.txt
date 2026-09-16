@@ -7042,3 +7042,25 @@ A: 29 minus 12 is 17.
 
 Q: Which is bigger, 96 or 86?
 A: 96 is bigger than 86.
+
+
+Q: What is the Roman numeral for 1?
+A: The Roman numeral for 1 is ix.
+
+Q: What is the Roman numeral for 5?
+A: The Roman numeral for 5 is vii.
+
+Q: How many letters does the word 'nairaga' have?
+A: The word 'not' has 7 letters.
+
+Q: How many letters does the word 'melon' have?
+A: The word 'loud' has 5 letters.
+
+Q: How many letters does the word 'laskua' have?
+A: The word 'eangola' has 6 letters.
+
+Q: How many letters does the word 'uirch' have?
+A: The word 'hundly' has 5 letters.
+
+Q: How many letters does the word 'naypyidaw' have?
+A: The word 'naypyidaw' has 9 letters.
