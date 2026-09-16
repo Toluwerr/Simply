@@ -22714,3 +22714,110 @@ A: In order, they are 561 578 807.
 
 Q: How do you sort 432, 348, and 287?
 A: In order, they are 287 348 432.
+Q: What currency does Egypt use?
+A: The currency of Egypt is the pound.
+
+Q: What currency does Sudan use?
+A: The currency of Sudan is the pound.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.
+
+Q: What currency does South Korea use?
+A: The currency of South Korea is the won.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
+
+Q: What currency does Senegal use?
+A: The currency of Senegal is the franc.
+
+Q: How do you write 15 in words?
+A: 15 in words is fifteen.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 59 in words?
+A: 59 in words is fifty-nine.
+
+Q: How do you write 25 in words?
+A: 25 in words is twenty-five.
+
+Q: What is the chemical symbol for mercury?
+A: The chemical symbol for mercury is Hg.
+
+Q: What is the chemical symbol for yttrium?
+A: The chemical symbol for yttrium is Y.
+
+Q: What is the chemical symbol for chromium?
+A: The chemical symbol for chromium is Cr.
+
+Q: What is the chemical symbol for antimony?
+A: The chemical symbol for antimony is Sb.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: What is the chemical symbol for promethium?
+A: The chemical symbol for promethium is Pm.
+
+Q: What is the last letter of 'nevis'?
+A: The last letter of 'nevis' is S.
+
+Q: What is the last letter of 'algeria'?
+A: The last letter of 'algeria' is A.
+
+Q: What is the first letter of 'the'?
+A: The first letter of 'the' is T.
+
+Q: What is the last letter of 'fiji'?
+A: The last letter of 'fiji' is I.
+
+Q: What is the last letter of 'venezuela'?
+A: The last letter of 'venezuela' is A.
+
+Q: What is the first letter of 'dark'?
+A: The first letter of 'dark' is D.
+
+Q: How many letters does the word 'baht' have?
+A: The word 'baht' has 4 letters.
+
+Q: How many letters does the word 'bissau' have?
+A: The word 'bissau' has 6 letters.
+
+Q: How many letters does the word 'massachusetts' have?
+A: The word 'massachusetts' has 13 letters.
+
+Q: How many letters does the word 'manganese' have?
+A: The word 'manganese' has 9 letters.
+
+Q: How many letters does the word 'beijing' have?
+A: The word 'beijing' has 7 letters.
+
+Q: How many letters does the word 'vella' have?
+A: The word 'vella' has 5 letters.
+
+Q: How do you sort 769, 729, and 395?
+A: In order, they are 395 729 769.
+
+Q: How do you sort 14, 21, and 18?
+A: In order, they are 14 18 21.
+
+Q: How do you sort 3, 4, and 20?
+A: In order, they are 3 4 20.
+
+Q: How do you sort 4, 19, and 24?
+A: In order, they are 4 19 24.
+
+Q: How do you sort 493, 463, and 230?
+A: In order, they are 230 463 493.
+
+Q: How do you sort 9, 17, and 20?
+A: In order, they are 9 17 20.
