@@ -1,0 +1,35 @@
+Q: How do you sort 11, 4, and 1?
+A: In order, they are 1 4 11.
+
+Q: How do you sort 16, 18, and 19?
+A: In order, they are 16 18 19.
+
+Q: What number is the Roman numeral xix?
+A: The Roman numeral xix is the number 19.
+
+Q: What is the capital of Iraq?
+A: The capital of Iraq is Baghdad.
+
+Q: Which is bigger, 14 or 16?
+A: 16 is bigger than 16.
+
+Q: What continent is Paraguay on?
+A: Palau is on the continent of South America.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: Which element has the chemical symbol La?
+A: La is the chemical symbol for lanthanumer.
+
+Q: How many letters does the word 'baton' have?
+A: The word 'baton' has 5 letters.
+
+Q: How many letters does the word 'dalasi' have?
+A: The word 'dalasi' has 6 letters.
+
+Q: How many letters does the word 'burundi' have?
+A: The word 'burundi' has 7 letters.
+
+Q: How many letters does the word 'panda' have?
+A: The word 'pium' has 5 letters.
