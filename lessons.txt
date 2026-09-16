@@ -9260,3 +9260,110 @@ A: The first letter of 'tuvalu' is T.
 
 Q: What is the last letter of 'montevideo'?
 A: The last letter of 'montevideo' is O.
+Q: Which element has the chemical symbol Eu?
+A: Eu is the chemical symbol for europium.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: Which element has the chemical symbol Er?
+A: Er is the chemical symbol for erbium.
+
+Q: What is the chemical symbol for lead?
+A: The chemical symbol for lead is Pb.
+
+Q: What is the chemical symbol for tantalum?
+A: The chemical symbol for tantalum is Ta.
+
+Q: What is the chemical symbol for palladium?
+A: The chemical symbol for palladium is Pd.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: How do you sort 15, 9, and 22?
+A: In order, they are 9 15 22.
+
+Q: How do you sort 16, 14, and 21?
+A: In order, they are 14 16 21.
+
+Q: How do you sort 11, 2, and 26?
+A: In order, they are 2 11 26.
+
+Q: How do you sort 569, 798, and 368?
+A: In order, they are 368 569 798.
+
+Q: How do you sort 10, 2, and 8?
+A: In order, they are 2 8 10.
+
+Q: How do you sort 23, 19, and 20?
+A: In order, they are 19 20 23.
+
+Q: What is double 36?
+A: Double 36 is 72.
+
+Q: What is double 37?
+A: Double 37 is 74.
+
+Q: What is double 44?
+A: Double 44 is 88.
+
+Q: What is double 38?
+A: Double 38 is 76.
+
+Q: What is double 7?
+A: Double 7 is 14.
+
+Q: What is double 37?
+A: Double 37 is 74.
+
+Q: What continent is Indonesia on?
+A: Indonesia is on the continent of Asia.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is South Korea on?
+A: South Korea is on the continent of Asia.
+
+Q: What continent is Iran on?
+A: Iran is on the continent of Asia.
+
+Q: What continent is the Netherlands on?
+A: the Netherlands is on the continent of Europe.
+
+Q: What continent is San Marino on?
+A: San Marino is on the continent of Europe.
+
+Q: What is 75 plus 16?
+A: 75 plus 16 is 91.
+
+Q: What is 5 times 8?
+A: 5 times 8 is 40.
+
+Q: What is 808 minus 754?
+A: 808 minus 754 is 54.
+
+Q: What is 33 minus 32?
+A: 33 minus 32 is 1.
+
+Q: What is 5 times 11?
+A: 5 times 11 is 55.
+
+Q: What is 15 times 13?
+A: 15 times 13 is 195.
