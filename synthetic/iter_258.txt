@@ -1,0 +1,11 @@
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: What is the chemical symbol for chlorine?
+A: The chemical symbol for chlorine is Cl.
+
+Q: What currency does Iran use?
+A: The currency of Iran is the rial.
