@@ -10509,3 +10509,128 @@ A: 6 times 2 is 12.
 
 Q: What is 8 times 4?
 A: 8 times 4 is 32.
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: What is 50 minus 38?
+A: 50 minus 38 is 12.
+
+Q: What is 37 plus 79?
+A: 37 plus 79 is 116.
+
+Q: What is 13 times 19?
+A: 13 times 19 is 247.
+
+Q: What is 14 times 16?
+A: 14 times 16 is 224.
+
+Q: What is 19 minus 2?
+A: 19 minus 2 is 17.
+
+Q: What is 14 times 15?
+A: 14 times 15 is 210.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What is the capital of Luxembourg?
+A: The capital of Luxembourg is Luxembourg.
+
+Q: What is the capital of Bahrain?
+A: The capital of Bahrain is Manama.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
+
+Q: What is the capital of the Central African Republic?
+A: The capital of the Central African Republic is Bangui.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is the capital of Cuba?
+A: The capital of Cuba is Havana.
+
+Q: How many letters does the word 'cheyenne' have?
+A: The word 'cheyenne' has 8 letters.
+
+Q: How many letters does the word 'dodoma' have?
+A: The word 'dodoma' has 6 letters.
+
+Q: How many letters does the word 'bern' have?
+A: The word 'bern' has 4 letters.
+
+Q: How many letters does the word 'lusaka' have?
+A: The word 'lusaka' has 6 letters.
+
+Q: How many letters does the word 'euro' have?
+A: The word 'euro' has 4 letters.
+
+Q: How many letters does the word 'tunisia' have?
+A: The word 'tunisia' has 7 letters.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What is the Roman numeral for 449?
+A: The Roman numeral for 449 is cdxlix.
+
+Q: What number is the Roman numeral lxxi?
+A: The Roman numeral lxxi is the number 71.
+
+Q: What number is the Roman numeral xliii?
+A: The Roman numeral xliii is the number 43.
+
+Q: What number is the Roman numeral lxvi?
+A: The Roman numeral lxvi is the number 66.
+
+Q: What number is the Roman numeral xviii?
+A: The Roman numeral xviii is the number 18.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.

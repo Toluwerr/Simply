@@ -199,3 +199,54 @@ A: Attack transport is a United States Navy ship classification for a variant of
 
 Q: What is Neutron transport?
 A: Neutron transport is the study of the motions and interactions of neutrons with materials.
+
+Q: What is Ungoogled Chromium?
+A: Ungoogled Chromium is a free and open-source fork of the Chromium web browser that removes all Google-specific web services.
+
+Q: What is Nitter?
+A: Nitter is a free and open source alternative frontend for , formerly known as Twitter, focusing on privacy and performance.
+
+Q: What is GitLab?
+A: GitLab is a software forge primarily developed by GitLab Inc.
+
+Q: What is Visual Studio Code?
+A: Visual Studio Code is an integrated development environment developed by Microsoft for Windows, Linux, macOS and web browsers.
+
+Q: What is Electron?
+A: Electron is a free and open-source software framework developed and maintained by OpenJS Foundation.
+
+Q: What is JSON?
+A: JSON is a programming language-independent data format.
+
+Q: What is Alice Morrison FRSGS?
+A: Alice Morrison FRSGS is a Scottish adventurer and explorer active in the Arab world.
+
+Q: What is Nicholsville?
+A: Nicholsville is an unincorporated community in Marengo County, Alabama, United States.
+
+Q: What is Mazi Elechukwu Nnadibuagha Njaka?
+A: Mazi Elechukwu Nnadibuagha Njaka is a Nigerian political scientist, known for the book Igbo Political Culture.
+
+Q: What is Gerald McNee?
+A: Gerald McNee is a Scottish football journalist.
+
+Q: What is Phallotorynus?
+A: Phallotorynus is a genus of poeciliid toothcarps native to southern Brazil, northern Argentina.
+
+Q: What is All Mine?
+A: All Mine is a song by American rapper Kanye West from his eighth studio album, Ye .
+
+Q: What is Svein Norman Hansen?
+A: Svein Norman Hansen is a Norwegian ice hockey player.
+
+Q: What is Martin Lachkovics?
+A: Martin Lachkovics is an Austrian athlete and bobsledder.
+
+Q: What is Sukima?
+A: Sukima is a Japanese manga series written and illustrated by Yan Gao.
+
+Q: What is Billy Joe Gibson?
+A: Billy Joe Gibson is an American football defensive back and end in the National Football League for the Cleveland Rams and the Washington Redskins .
+
+Q: What is Jewish geography?
+A: Jewish geography is a popular game sometimes played when Jews meet each other for the first time and try to identify people they know in common.
