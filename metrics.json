@@ -1,13 +1,13 @@
 {
   "version": 10,
-  "iteration": 113,
+  "iteration": 114,
   "best_val_loss": 0.4707233339548111,
-  "lr": 0.0015,
-  "plateaus": 1,
+  "lr": 0.00075,
+  "plateaus": 0,
   "val_start": 130668,
   "val_end": 137546,
-  "dataset_chars": 144342,
-  "synthetic_total": 95,
+  "dataset_chars": 144385,
+  "synthetic_total": 96,
   "model_kwargs": {
     "block_size": 128,
     "n_layer": 4,
@@ -23,7 +23,7 @@
     "count": 0.0,
     "numwords": 0.0,
     "roman": 0.0,
-    "letters": 1.0,
+    "letters": 0.0,
     "spelling": 0.0,
     "first_last": 0.0,
     "capitals": 0.0,
@@ -31,15 +31,15 @@
     "currencies": 0.0,
     "continents": 0.0,
     "elements": 0.0,
-    "planets": 0.0,
+    "planets": 1.0,
     "months": 0.0,
     "units": 0.0,
     "records": 0.0,
-    "animals": 0.0,
+    "animals": 1.0,
     "opposites": 0.0,
     "definitions": 0.0
   },
   "study_mode_v1": true,
   "head_chars": 144205,
-  "lessons": 742
+  "lessons": 783
 }

@@ -2227,3 +2227,128 @@ A: Half of 38 is 19.
 
 Q: What is half of 24?
 A: Half of 24 is 12.
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the chemical symbol for beryllium?
+A: The chemical symbol for beryllium is Be.
+
+Q: What is the chemical symbol for fluorine?
+A: The chemical symbol for fluorine is F.
+
+Q: Which element has the chemical symbol Ru?
+A: Ru is the chemical symbol for ruthenium.
+
+Q: What is the chemical symbol for promethium?
+A: The chemical symbol for promethium is Pm.
+
+Q: What is the chemical symbol for erbium?
+A: The chemical symbol for erbium is Er.
+
+Q: What is the chemical symbol for iron?
+A: The chemical symbol for iron is Fe.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: What is 242 plus 16?
+A: 242 plus 16 is 258.
+
+Q: What is 17 plus 30?
+A: 17 plus 30 is 47.
+
+Q: What is 4 plus 2?
+A: 4 plus 2 is 6.
+
+Q: What is 16 minus 4?
+A: 16 minus 4 is 12.
+
+Q: What is 4 times 8?
+A: 4 times 8 is 32.
+
+Q: What is 81 minus 81?
+A: 81 minus 81 is 0.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
+
+Q: How do you sort 291, 156, and 902?
+A: In order, they are 156 291 902.
+
+Q: How do you sort 19, 16, and 22?
+A: In order, they are 16 19 22.
+
+Q: How do you sort 7, 22, and 2?
+A: In order, they are 2 7 22.
+
+Q: How do you sort 131, 148, and 532?
+A: In order, they are 131 148 532.
+
+Q: How do you sort 85, 667, and 545?
+A: In order, they are 85 545 667.
+
+Q: How do you sort 739, 694, and 589?
+A: In order, they are 589 694 739.

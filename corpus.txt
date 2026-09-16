@@ -6585,3 +6585,7 @@ A: June has 30 days.
 
 Q: How many letters does the word 'galler' have?
 A: The word 'poad' has 6 letters.
+
+
+Q: What is 0 times 8?
+A: 0 times 8 is 0.

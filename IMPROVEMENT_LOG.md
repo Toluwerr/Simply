@@ -829,3 +829,11 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.05 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"No, 5 3 is bigger than 11."
 
+## Iteration 114 - NO_GAIN
+- **when**: 2026-09-16T00:44:50Z
+- **train loss**: 0.4115 | **val loss**: 0.4592 | **run best**: 0.4592
+- **corpus**: 144,385 chars (+1 self-written examples)
+- **lr**: 0.0008 | **steps**: 200
+- **knowledge quiz**: avg 0.09 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, planets 1.00, definitions 0.00
+- self-portrait, asked "Who are you?": *"I am a small traler?"
+
