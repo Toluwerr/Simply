@@ -9706,3 +9706,128 @@ A: Half of 46 is 23.
 
 Q: What is double 37?
 A: Double 37 is 74.
+Q: What is 12 times 3?
+A: 12 times 3 is 36.
+
+Q: What is 45 minus 12?
+A: 45 minus 12 is 33.
+
+Q: What is 5 plus 2?
+A: 5 plus 2 is 7.
+
+Q: What is 83 plus 86?
+A: 83 plus 86 is 169.
+
+Q: What is 14 plus 3?
+A: 14 plus 3 is 17.
+
+Q: What is 15 plus 20?
+A: 15 plus 20 is 35.
+
+Q: Can you count by ones from 18 to 23?
+A: Counting by ones gives 18 19 20 21 22 23.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by twos from 34 to 40?
+A: Counting by twos gives 34 36 38 40.
+
+Q: Can you count by ones from 18 to 22?
+A: Counting by ones gives 18 19 20 21 22.
+
+Q: Can you count by ones from 15 to 18?
+A: Counting by ones gives 15 16 17 18.
+
+Q: Can you count by twos from 20 to 30?
+A: Counting by twos gives 20 22 24 26 28 30.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is double 38?
+A: Double 38 is 76.
+
+Q: What is double 50?
+A: Double 50 is 100.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is half of 20?
+A: Half of 20 is 10.
+
+Q: How do you sort 19, 14, and 24?
+A: In order, they are 14 19 24.
+
+Q: How do you sort 3, 28, and 16?
+A: In order, they are 3 16 28.
+
+Q: How do you sort 981, 980, and 978?
+A: In order, they are 978 980 981.
+
+Q: How do you sort 685, 851, and 160?
+A: In order, they are 160 685 851.
+
+Q: How do you sort 609, 422, and 858?
+A: In order, they are 422 609 858.
+
+Q: How do you sort 22, 10, and 3?
+A: In order, they are 3 10 22.
+
+Q: What is the capital of Laos?
+A: The capital of Laos is Vientiane.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is the capital of Kazakhstan?
+A: The capital of Kazakhstan is Astana.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
+
+Q: What is the capital of Kuwait?
+A: The capital of Kuwait is Kuwait City.
+
+Q: Which element has the chemical symbol Te?
+A: Te is the chemical symbol for tellurium.
+
+Q: Which element has the chemical symbol Ce?
+A: Ce is the chemical symbol for cerium.
+
+Q: What is the chemical symbol for iridium?
+A: The chemical symbol for iridium is Ir.
+
+Q: Which element has the chemical symbol Pm?
+A: Pm is the chemical symbol for promethium.
+
+Q: Which element has the chemical symbol In?
+A: In is the chemical symbol for indium.
+
+Q: What is the chemical symbol for rhenium?
+A: The chemical symbol for rhenium is Re.
+
+Q: What continent is Guyana on?
+A: Guyana is on the continent of South America.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: What continent is Guyana on?
+A: Guyana is on the continent of South America.
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.
+
+Q: What continent is Serbia on?
+A: Serbia is on the continent of Europe.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
