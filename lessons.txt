@@ -4316,3 +4316,128 @@ A: Tm is the chemical symbol for thulium.
 
 Q: Which element has the chemical symbol Tb?
 A: Tb is the chemical symbol for terbium.
+Q: How many letters does the word 'lithuania' have?
+A: The word 'lithuania' has 9 letters.
+
+Q: How many letters does the word 'sacramento' have?
+A: The word 'sacramento' has 10 letters.
+
+Q: How many letters does the word 'charleston' have?
+A: The word 'charleston' has 10 letters.
+
+Q: How many letters does the word 'pencil' have?
+A: The word 'pencil' has 6 letters.
+
+Q: How many letters does the word 'kingston' have?
+A: The word 'kingston' has 8 letters.
+
+Q: How many letters does the word 'asuncion' have?
+A: The word 'asuncion' has 8 letters.
+
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+
+Q: What is the capital of the Central African Republic?
+A: The capital of the Central African Republic is Bangui.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of Costa Rica?
+A: The capital of Costa Rica is San Jose.
+
+Q: What is the capital of Oman?
+A: The capital of Oman is Muscat.
+
+Q: What is the capital of Lithuania?
+A: The capital of Lithuania is Vilnius.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: Can you count by twos from 26 to 32?
+A: Counting by twos gives 26 28 30 32.
+
+Q: Can you count by fives from 15 to 40?
+A: Counting by fives gives 15 20 25 30 35 40.
+
+Q: Can you count by ones from 16 to 18?
+A: Counting by ones gives 16 17 18.
+
+Q: Can you count by ones from 31 to 34?
+A: Counting by ones gives 31 32 33 34.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: What is 3 times 5?
+A: 3 times 5 is 15.
+
+Q: What is 2 times 4?
+A: 2 times 4 is 8.
+
+Q: What is 79 minus 55?
+A: 79 minus 55 is 24.
+
+Q: What is 8 plus 20?
+A: 8 plus 20 is 28.
+
+Q: What is 66 minus 53?
+A: 66 minus 53 is 13.
+
+Q: What is 7 plus 5?
+A: 7 plus 5 is 12.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
