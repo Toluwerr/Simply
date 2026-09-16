@@ -16898,3 +16898,110 @@ A: The last letter of 'plutonium' is M.
 
 Q: What is the last letter of 'london'?
 A: The last letter of 'london' is N.
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: What continent is Canada on?
+A: Canada is on the continent of North America.
+
+Q: What continent is Algeria on?
+A: Algeria is on the continent of Africa.
+
+Q: What continent is Nauru on?
+A: Nauru is on the continent of Oceania.
+
+Q: What continent is Ghana on?
+A: Ghana is on the continent of Africa.
+
+Q: What continent is Micronesia on?
+A: Micronesia is on the continent of Oceania.
+
+Q: Which element has the chemical symbol Cd?
+A: Cd is the chemical symbol for cadmium.
+
+Q: What is the chemical symbol for arsenic?
+A: The chemical symbol for arsenic is As.
+
+Q: What is the chemical symbol for chlorine?
+A: The chemical symbol for chlorine is Cl.
+
+Q: Which element has the chemical symbol Rh?
+A: Rh is the chemical symbol for rhodium.
+
+Q: Which element has the chemical symbol Br?
+A: Br is the chemical symbol for bromine.
+
+Q: Which element has the chemical symbol Nb?
+A: Nb is the chemical symbol for niobium.
+
+Q: What is 659 plus 64?
+A: 659 plus 64 is 723.
+
+Q: What is 22 plus 20?
+A: 22 plus 20 is 42.
+
+Q: What is 319 plus 943?
+A: 319 plus 943 is 1262.
+
+Q: What is 98 minus 87?
+A: 98 minus 87 is 11.
+
+Q: What is 11 times 11?
+A: 11 times 11 is 121.
+
+Q: What is 10 plus 92?
+A: 10 plus 92 is 102.
+
+Q: What currency does Chile use?
+A: The currency of Chile is the peso.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does Turkey use?
+A: The currency of Turkey is the lira.
+
+Q: What currency does Venezuela use?
+A: The currency of Venezuela is the bolivar.
+
+Q: What is double 33?
+A: Double 33 is 66.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: What is double 11?
+A: Double 11 is 22.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is the last letter of 'dry'?
+A: The last letter of 'dry' is Y.
+
+Q: What is the last letter of 'nickel'?
+A: The last letter of 'nickel' is L.
+
+Q: What is the last letter of 'bridgetown'?
+A: The last letter of 'bridgetown' is N.
+
+Q: What is the last letter of 'sound'?
+A: The last letter of 'sound' is D.
+
+Q: What is the first letter of 'cape'?
+A: The first letter of 'cape' is C.
+
+Q: What is the last letter of 'delaware'?
+A: The last letter of 'delaware' is E.

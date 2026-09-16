@@ -1984,3 +1984,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.48 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny A small  4 night!"
 
+## Iteration 239 - NO_GAIN
+- **when**: 2026-09-16T23:21:03Z
+- **train loss**: 0.9998 | **val loss**: 0.6815 | **run best**: 0.6714
+- **corpus**: 174,092 chars (+4 self-written examples)
+- **internet reading**: +30 articles, +16 facts (330 read all-time)
+- **lr**: 0.0003 | **steps**: 150
+- **knowledge quiz**: avg 0.39 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, old better my my legumany did the git airssser't scormunlight."
+
