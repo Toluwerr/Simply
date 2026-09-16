@@ -13240,3 +13240,110 @@ A: The word 'inside' has 6 letters.
 
 Q: How many letters does the word 'rhodium' have?
 A: The word 'rhodium' has 7 letters.
+Q: What is the chemical symbol for phosphorus?
+A: The chemical symbol for phosphorus is P.
+
+Q: What is the chemical symbol for radon?
+A: The chemical symbol for radon is Rn.
+
+Q: Which element has the chemical symbol Tb?
+A: Tb is the chemical symbol for terbium.
+
+Q: Which element has the chemical symbol Tc?
+A: Tc is the chemical symbol for technetium.
+
+Q: What is the chemical symbol for terbium?
+A: The chemical symbol for terbium is Tb.
+
+Q: Which element has the chemical symbol Pt?
+A: Pt is the chemical symbol for platinum.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: What is the capital of Palau?
+A: The capital of Palau is Ngerulmud.
+
+Q: What is the capital of Saint Vincent and the Grenadines?
+A: The capital of Saint Vincent and the Grenadines is Kingstown.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: What is the capital of the Central African Republic?
+A: The capital of the Central African Republic is Bangui.
+
+Q: What is the capital of Iceland?
+A: The capital of Iceland is Reykjavik.
+
+Q: What number is the Roman numeral xlviii?
+A: The Roman numeral xlviii is the number 48.
+
+Q: What is the Roman numeral for 273?
+A: The Roman numeral for 273 is cclxxiii.
+
+Q: What number is the Roman numeral xxxix?
+A: The Roman numeral xxxix is the number 39.
+
+Q: What number is the Roman numeral xc?
+A: The Roman numeral xc is the number 90.
+
+Q: What is the Roman numeral for 18?
+A: The Roman numeral for 18 is xviii.
+
+Q: What number is the Roman numeral cxcv?
+A: The Roman numeral cxcv is the number 195.
+
+Q: How do you sort 785, 183, and 623?
+A: In order, they are 183 623 785.
+
+Q: How do you sort 21, 10, and 25?
+A: In order, they are 10 21 25.
+
+Q: How do you sort 23, 8, and 17?
+A: In order, they are 8 17 23.
+
+Q: How do you sort 920, 810, and 14?
+A: In order, they are 14 810 920.
+
+Q: How do you sort 810, 91, and 137?
+A: In order, they are 91 137 810.
+
+Q: How do you sort 27, 25, and 28?
+A: In order, they are 25 27 28.
+
+Q: Which is bigger, 68 or 41?
+A: 68 is bigger than 41.
+
+Q: Which is bigger, 11 or 16?
+A: 16 is bigger than 11.
+
+Q: Is 606 bigger than 364?
+A: Yes, 606 is bigger than 364.
+
+Q: Which is bigger, 20 or 1?
+A: 20 is bigger than 1.
+
+Q: Is 585 bigger than 125?
+A: Yes, 585 is bigger than 125.
+
+Q: Which is bigger, 13 or 12?
+A: 13 is bigger than 12.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
