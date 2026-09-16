@@ -20466,3 +20466,110 @@ A: The currency of Belgium is the euro.
 
 Q: What currency does New Zealand use?
 A: The currency of New Zealand is the dollar.
+Q: What is the chemical symbol for aluminium?
+A: The chemical symbol for aluminium is Al.
+
+Q: What is the chemical symbol for vanadium?
+A: The chemical symbol for vanadium is V.
+
+Q: Which element has the chemical symbol Sr?
+A: Sr is the chemical symbol for strontium.
+
+Q: Which element has the chemical symbol Ra?
+A: Ra is the chemical symbol for radium.
+
+Q: What is the chemical symbol for potassium?
+A: The chemical symbol for potassium is K.
+
+Q: What is the chemical symbol for thallium?
+A: The chemical symbol for thallium is Tl.
+
+Q: What continent is Romania on?
+A: Romania is on the continent of Europe.
+
+Q: What continent is Chad on?
+A: Chad is on the continent of Africa.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is North Korea on?
+A: North Korea is on the continent of Asia.
+
+Q: What continent is Senegal on?
+A: Senegal is on the continent of Africa.
+
+Q: What continent is Niger on?
+A: Niger is on the continent of Africa.
+
+Q: Which is bigger, 96 or 88?
+A: 96 is bigger than 88.
+
+Q: Is 6 bigger than 13?
+A: No, 13 is bigger than 6.
+
+Q: Is 995 bigger than 636?
+A: Yes, 995 is bigger than 636.
+
+Q: Which is bigger, 399 or 769?
+A: 769 is bigger than 399.
+
+Q: Is 674 bigger than 636?
+A: Yes, 674 is bigger than 636.
+
+Q: Is 879 bigger than 905?
+A: No, 905 is bigger than 879.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is the capital of Equatorial Guinea?
+A: The capital of Equatorial Guinea is Malabo.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+
+Q: What is the capital of Nigeria?
+A: The capital of Nigeria is Abuja.
+
+Q: What is the capital of Benin?
+A: The capital of Benin is Porto-Novo.
+
+Q: What number is the Roman numeral xxxvi?
+A: The Roman numeral xxxvi is the number 36.
+
+Q: What is the Roman numeral for 484?
+A: The Roman numeral for 484 is cdlxxxiv.
+
+Q: What number is the Roman numeral xlvi?
+A: The Roman numeral xlvi is the number 46.
+
+Q: What is the Roman numeral for 928?
+A: The Roman numeral for 928 is cmxxviii.
+
+Q: What is the Roman numeral for 13?
+A: The Roman numeral for 13 is xiii.
+
+Q: What number is the Roman numeral ix?
+A: The Roman numeral ix is the number 9.
+
+Q: What is the last letter of 'vienna'?
+A: The last letter of 'vienna' is A.
+
+Q: What is the first letter of 'the'?
+A: The first letter of 'the' is T.
+
+Q: What is the first letter of 'longer'?
+A: The first letter of 'longer' is L.
+
+Q: What is the last letter of 'mark'?
+A: The last letter of 'mark' is K.
+
+Q: What is the last letter of 'lucia'?
+A: The last letter of 'lucia' is A.
+
+Q: What is the first letter of 'nauru'?
+A: The first letter of 'nauru' is N.

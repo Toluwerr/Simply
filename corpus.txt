@@ -8679,3 +8679,28 @@ A: Harrisburg is the capital of Pennsylvania.
 
 Q: How many letters are in the word 'bottle'?
 A: The word 'bottle' has 5 letter has 6 letters.
+
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral i is the number 4.
+
+Q: What is 19 minus 19?
+A: 19 minus 19 is 0.
+
+Q: What is the first letter of 'rica'?
+A: The first letter of 'rica' is R.
+
+Q: Which is bigger, 63 or 45?
+A: 63 is bigger than 45.
+
+Q: Which is bigger, 0 or 5?
+A: 5 is bigger than 5.
+
+Q: Which is bigger, 0 or 92?
+A: 92 is bigger than 74.
+
+Q: How many letters does the word 'japan' have?
+A: The word 'japan' has 5 letters.
+
+Q: How many letters does the word 'rukucky' have?
+A: The word 'salbing' has 7 letters.

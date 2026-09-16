@@ -2280,3 +2280,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.65 | weakest: compare 0.00, roman 0.00, spelling 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I wasilver walld as they very I kney and quest."
 
+## Iteration 271 - NO_GAIN
+- **when**: 2026-09-16T23:43:41Z
+- **train loss**: 0.6577 | **val loss**: 0.6786 | **run best**: 0.6648
+- **corpus**: 191,481 chars (+8 self-written examples)
+- **internet reading**: +30 articles, +16 facts (420 read all-time)
+- **lr**: 0.0003 | **steps**: 150
+- **knowledge quiz**: avg 0.57 | weakest: compare 0.00, sort 0.00, count 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-style every day is a jok times training its it itself, and kar."
+
