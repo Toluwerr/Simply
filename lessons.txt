@@ -8582,3 +8582,110 @@ A: 686 is bigger than 166.
 
 Q: Which is bigger, 983 or 601?
 A: 983 is bigger than 601.
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: What is the capital of South Sudan?
+A: The capital of South Sudan is Juba.
+
+Q: What is the capital of Brunei?
+A: The capital of Brunei is Bandar Seri Begawan.
+
+Q: What is the capital of Malawi?
+A: The capital of Malawi is Lilongwe.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of South Sudan?
+A: The capital of South Sudan is Juba.
+
+Q: Can you count by twos from 12 to 20?
+A: Counting by twos gives 12 14 16 18 20.
+
+Q: Can you count by fives from 20 to 40?
+A: Counting by fives gives 20 25 30 35 40.
+
+Q: Can you count by ones from 12 to 14?
+A: Counting by ones gives 12 13 14.
+
+Q: Can you count by ones from 18 to 22?
+A: Counting by ones gives 18 19 20 21 22.
+
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 25 30 35.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25.
+
+Q: What is 87 minus 41?
+A: 87 minus 41 is 46.
+
+Q: What is 9 times 9?
+A: 9 times 9 is 81.
+
+Q: What is 12 times 11?
+A: 12 times 11 is 132.
+
+Q: What is 11 times 12?
+A: 11 times 12 is 132.
+
+Q: What is 2 times 4?
+A: 2 times 4 is 8.
+
+Q: What is 12 plus 9?
+A: 12 plus 9 is 21.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: What is the biggest animal?
+A: The blue whale is the biggest animal.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: How do you sort 840, 889, and 376?
+A: In order, they are 376 840 889.
+
+Q: How do you sort 3, 21, and 26?
+A: In order, they are 3 21 26.
+
+Q: How do you sort 879, 714, and 144?
+A: In order, they are 144 714 879.
+
+Q: How do you sort 798, 672, and 867?
+A: In order, they are 672 798 867.
+
+Q: How do you sort 16, 26, and 14?
+A: In order, they are 14 16 26.
+
+Q: How do you sort 22, 12, and 8?
+A: In order, they are 8 12 22.

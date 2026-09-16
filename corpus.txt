@@ -7064,3 +7064,13 @@ A: The word 'hundly' has 5 letters.
 
 Q: How many letters does the word 'naypyidaw' have?
 A: The word 'naypyidaw' has 9 letters.
+
+
+Q: What is the Roman numeral for 15?
+A: The Roman numeral for 15 is xvi.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30 40 40 60.
+
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 25 30 35.
