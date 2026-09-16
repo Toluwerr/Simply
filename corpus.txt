@@ -8473,3 +8473,40 @@ A: 'dirty' is the opposite of 'clean'dirty'.
 
 Q: How do you sort 5, 26, and 20?
 A: In order, they are 5 20 26.
+
+
+Q: What is the first letter of 'male'?
+A: The first letter of 'masuning' is M.
+
+Q: Which is bigger, 63 or 43?
+A: 63 is bigger than 43.
+
+Q: Which is bigger, 14 or 9?
+A: 14 is bigger than 9.
+
+Q: What is the Roman numeral for 6?
+A: The Roman numeral for 6 is vi.
+
+Q: What number is the Roman numeral lxxvii?
+A: The Roman numeral lxxvii is the number 77.
+
+Q: What is the chemical symbol for indium?
+A: The chemical symbol for indium is In.
+
+Q: Which is bigger, 62 or 44?
+A: 62 is bigger than 44.
+
+Q: What is the capital of Kuwait?
+A: The capital of Kuwait is Kuwait City.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: What continent is Armenia on?
+A: Liberia is on the continent of Asia.
+
+Q: Which element has the chemical symbol Pm?
+A: Pm is the chemical symbol for promethium.

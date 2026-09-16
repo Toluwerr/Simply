@@ -19592,3 +19592,110 @@ A: The currency of Portugal is the euro.
 
 Q: What currency does Indonesia use?
 A: The currency of Indonesia is the rupiah.
+Q: What number is the Roman numeral i?
+A: The Roman numeral i is the number 1.
+
+Q: What is the Roman numeral for 659?
+A: The Roman numeral for 659 is dclix.
+
+Q: What number is the Roman numeral lxxxi?
+A: The Roman numeral lxxxi is the number 81.
+
+Q: What is the Roman numeral for 14?
+A: The Roman numeral for 14 is xiv.
+
+Q: What is the Roman numeral for 525?
+A: The Roman numeral for 525 is dxxv.
+
+Q: What number is the Roman numeral xc?
+A: The Roman numeral xc is the number 90.
+
+Q: What is 626 minus 62?
+A: 626 minus 62 is 564.
+
+Q: What is 625 minus 475?
+A: 625 minus 475 is 150.
+
+Q: What is 940 plus 263?
+A: 940 plus 263 is 1203.
+
+Q: What is 69 plus 12?
+A: 69 plus 12 is 81.
+
+Q: What is 12 times 19?
+A: 12 times 19 is 228.
+
+Q: What is 759 minus 703?
+A: 759 minus 703 is 56.
+
+Q: What is the first letter of 'tenge'?
+A: The first letter of 'tenge' is T.
+
+Q: What is the last letter of 'longer'?
+A: The last letter of 'longer' is R.
+
+Q: What is the last letter of 'utah'?
+A: The last letter of 'utah' is H.
+
+Q: What is the first letter of 'dim'?
+A: The first letter of 'dim' is D.
+
+Q: What is the first letter of 'iron'?
+A: The first letter of 'iron' is I.
+
+Q: What is the last letter of 'tanzania'?
+A: The last letter of 'tanzania' is A.
+
+Q: What is the chemical symbol for molybdenum?
+A: The chemical symbol for molybdenum is Mo.
+
+Q: What is the chemical symbol for lithium?
+A: The chemical symbol for lithium is Li.
+
+Q: What is the chemical symbol for tellurium?
+A: The chemical symbol for tellurium is Te.
+
+Q: What is the chemical symbol for selenium?
+A: The chemical symbol for selenium is Se.
+
+Q: What is the chemical symbol for mercury?
+A: The chemical symbol for mercury is Hg.
+
+Q: What is the chemical symbol for calcium?
+A: The chemical symbol for calcium is Ca.
+
+Q: What currency does Fiji use?
+A: The currency of Fiji is the dollar.
+
+Q: What currency does Bulgaria use?
+A: The currency of Bulgaria is the lev.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What currency does Mexico use?
+A: The currency of Mexico is the peso.
+
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: How do you sort 441, 191, and 790?
+A: In order, they are 191 441 790.
+
+Q: How do you sort 410, 667, and 359?
+A: In order, they are 359 410 667.
+
+Q: How do you sort 675, 724, and 753?
+A: In order, they are 675 724 753.
+
+Q: How do you sort 20, 13, and 2?
+A: In order, they are 2 13 20.
+
+Q: How do you sort 17, 25, and 11?
+A: In order, they are 11 17 25.
+
+Q: How do you sort 838, 213, and 785?
+A: In order, they are 213 785 838.
