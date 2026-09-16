@@ -7279,3 +7279,128 @@ A: In order, they are 18 19 23.
 
 Q: How do you sort 574, 408, and 94?
 A: In order, they are 94 408 574.
+Q: What is double 25?
+A: Double 25 is 50.
+
+Q: What is half of 36?
+A: Half of 36 is 18.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is double 57?
+A: Double 57 is 114.
+
+Q: What is double 24?
+A: Double 24 is 48.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: How many letters does the word 'latvia' have?
+A: The word 'latvia' has 6 letters.
+
+Q: How many letters does the word 'sarajevo' have?
+A: The word 'sarajevo' has 8 letters.
+
+Q: How many letters does the word 'honolulu' have?
+A: The word 'honolulu' has 8 letters.
+
+Q: How many letters does the word 'budapest' have?
+A: The word 'budapest' has 8 letters.
+
+Q: How many letters does the word 'dirty' have?
+A: The word 'dirty' has 5 letters.
+
+Q: How many letters does the word 'vientiane' have?
+A: The word 'vientiane' has 9 letters.
+
+Q: What number is the Roman numeral viii?
+A: The Roman numeral viii is the number 8.
+
+Q: What is the Roman numeral for 79?
+A: The Roman numeral for 79 is lxxix.
+
+Q: What is the Roman numeral for 4?
+A: The Roman numeral for 4 is iv.
+
+Q: What number is the Roman numeral ccci?
+A: The Roman numeral ccci is the number 301.
+
+Q: What number is the Roman numeral lxiii?
+A: The Roman numeral lxiii is the number 63.
+
+Q: What is the Roman numeral for 749?
+A: The Roman numeral for 749 is dccxlix.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 3 in words?
+A: 3 in words is three.
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: What is 15 times 13?
+A: 15 times 13 is 195.
+
+Q: What is 13 times 11?
+A: 13 times 11 is 143.
+
+Q: What is 9 times 7?
+A: 9 times 7 is 63.
+
+Q: What is 67 plus 88?
+A: 67 plus 88 is 155.
+
+Q: What is 8 plus 10?
+A: 8 plus 10 is 18.
+
+Q: What is 12 minus 12?
+A: 12 minus 12 is 0.
