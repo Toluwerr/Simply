@@ -33,10 +33,13 @@ def main():
     model = Simply(cfg)
     model.load_state_dict(blob["model"])
     model.eval()
-    stoi, itos = blob["stoi"], blob["itos"]
     print(f"Simply v{blob.get('version', '?')} is ready "
           f"(val_loss {blob.get('val_loss', '?'):.4f}). "
           "Type 'quit' to exit.")
+    tok = None
+    if os.path.exists("tokenizer.json") and cfg.vocab_size > 300:
+        import tokenizer as TK
+        tok = TK.get()
     while True:
         try:
             q = input("you> ").strip()
@@ -46,11 +49,18 @@ def main():
         if not q or q.lower() in ("quit", "exit"):
             break
         prompt = f"Q: {q}\nA:"
-        ids = torch.tensor([[stoi.get(c, 0) for c in prompt]])
-        with torch.no_grad():
-            out = model.generate(ids, 140, temperature=0.7, top_k=30)
-        text = "".join(itos[i] for i in out[0].tolist())[len(prompt):]
-        print(f"simply> {text.splitlines()[0].strip()}")
+        if tok is not None:
+            ids = torch.tensor([tok.encode(prompt)])
+            with torch.no_grad():
+                out = model.generate(ids, 90, temperature=0.7, top_k=30)
+            text = tok.decode(out[0].tolist())[len(prompt):]
+        else:
+            stoi, itos = blob["stoi"], blob["itos"]
+            ids = torch.tensor([[stoi.get(c, 0) for c in prompt]])
+            with torch.no_grad():
+                out = model.generate(ids, 140, temperature=0.7, top_k=30)
+            text = "".join(itos[i] for i in out[0].tolist())[len(prompt):]
+        print(f"simply> {text.splitlines()[0].strip() if text.strip() else ''}")
 
 
 if __name__ == "__main__":

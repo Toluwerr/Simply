@@ -1,14 +1,18 @@
 name: Simply RSI Loop
 
-# Simply improves itself on a schedule, then commits its progress back
-# to this repository. Everything runs on GitHub's servers - no local
-# machine needed.
+# Two ways this fires:
+#   1. Self-chaining (primary): every successful run immediately
+#      triggers the next one through the API - the "Chain the next run"
+#      step below. The loop keeps itself running continuously instead
+#      of waiting on the scheduler.
+#   2. Cron every 30 minutes (backstop): GitHub's scheduler is
+#      best-effort and can lag by hours or skip slots; if the chain
+#      ever dies (a failed run stops the chain), cron restarts it.
 #
-# The repo is PUBLIC, so Actions minutes are free and unlimited: the
-# loop runs every 30 minutes (off-peak :17/:47 for scheduler reliability)
-# and each run performs 12 self-improvement iterations = 1 commit each.
-# 48 runs/day x 12 commits = 576 planned commits/day (~500+ after
-# real-world scheduler skips) - roughly 183,000+ commits per year.
+# A run does 10 self-improvement iterations = 10 commits, in roughly
+# 15-20 minutes. Chained continuously that is 700-900 commits/day,
+# comfortably over 500. The queue guard keeps at most one run waiting,
+# so the chain can never pile up on itself.
 
 on:
   schedule:
@@ -17,19 +21,26 @@ on:
     inputs:
       iterations:
         description: 'Number of RSI iterations to run'
-        default: '12'
+        default: '10'
 
 concurrency:
   group: simply-rsi
   cancel-in-progress: false
 
+# Full write access: the model commits its own progress, manages its
+# own workflow runs, and holds the issue/PR scopes it can grow into as
+# it learns more about git and GitHub.
 permissions:
   contents: write
+  actions: write
+  issues: write
+  pull-requests: write
+  metadata: read
 
 jobs:
   improve:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
 
@@ -42,7 +53,9 @@ jobs:
         run: pip install torch --index-url https://download.pytorch.org/whl/cpu
 
       - name: Run self-improvement
-        run: python self_improve.py --iterations "${{ inputs.iterations || 12 }}" --steps 200 --synth-batches 3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python self_improve.py --iterations "${{ inputs.iterations || 10 }}" --steps 150 --synth-batches 3
 
       - name: Ensure progress is committed
         run: |
@@ -50,4 +63,30 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add -A
           git diff --cached --quiet || git commit -m "Simply RSI run $(date -u '+%Y-%m-%d %H:%M') - see IMPROVEMENT_LOG.md"
-          git push
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push origin HEAD; then
+              break
+            fi
+            echo "push race, retry $i"
+            sleep $((i * 7))
+          done
+
+      - name: Chain the next run
+        if: success()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          QUEUED=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/repos/$GITHUB_REPOSITORY/actions/workflows/self-improve.yml/runs?per_page=20&status=queued" \
+            | python3 -c "import json,sys; print(len(json.load(sys.stdin).get('workflow_runs', [])))")
+          echo "runs already queued: $QUEUED"
+          if [ "${QUEUED:-0}" -lt 1 ]; then
+            curl -s -X POST \
+              -H "Authorization: token $GITHUB_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/$GITHUB_REPOSITORY/actions/workflows/self-improve.yml/dispatches" \
+              -d '{"ref":"main","inputs":{"iterations":"10"}}'
+            echo "next run dispatched - the loop keeps itself alive"
+          else
+            echo "a run is already queued, it chains from here"
+          fi

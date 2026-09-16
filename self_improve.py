@@ -23,11 +23,12 @@ import time
 import torch
 
 from model import Simply, GPTConfig
-from data import CharDataset
+from data import CharDataset, TokenDataset
 import seed_data as SD  # ground-truth tables used by the verifier
 import world_tables as WT  # expanded world-knowledge ground truth
 import curriculum as CU  # infinite provable lessons per category
 import knowledge as KN  # internet reader: fetch, clean, distill, recall
+import tokenizer as TK  # byte-level BPE: the gen-2 vocabulary
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 os.chdir(ROOT)
@@ -40,7 +41,8 @@ BEST_DIR = "best"
 LAST_DIR = "last"
 SYN_DIR = "synthetic"
 
-MODEL_KWARGS = dict(block_size=128, n_layer=4, n_head=4, n_embd=128)
+MODEL_KWARGS = dict(block_size=192, n_layer=4, n_head=4, n_embd=128)
+TOKEN_VOCAB = 1024  # 256 raw bytes + 768 learned merges
 
 BOOTSTRAP_STEPS = 500   # used for the very first training run
 DEFAULT_STEPS = 300     # used for every later iteration
@@ -105,6 +107,71 @@ def load_corpus():
         seed_data.build()
     with open(CORPUS_PATH, "r", encoding="utf-8") as f:
         return f.read()
+
+
+_CORPUS_CHARS = None
+
+
+def corpus_charset():
+    """The set of characters the archive ever used. Cached: with the
+    token model this is a plain text filter, not a vocabulary."""
+    global _CORPUS_CHARS
+    if _CORPUS_CHARS is None:
+        _CORPUS_CHARS = set(load_corpus())
+    return _CORPUS_CHARS
+
+
+def ensure_token_mode(metrics):
+    """Generation 2: convert Simply from a character model into a
+    token model. A byte-level BPE is trained ONCE over everything it
+    has ever read, then frozen to tokenizer.json - the vocabulary can
+    never drift afterwards, and no internet text can ever contain an
+    unknown token.
+
+    The old brain cannot be carried over (different token space), so
+    baselines reset and the quiz restarts at zero - but the whole
+    archive (corpus, lessons, reading pool, distilled facts) is kept,
+    so the fresh brain re-learns from everything it owns, with a
+    several-times-longer context per window.
+    """
+    if metrics.get("token_mode_v1"):
+        return
+    tok = TK.get() if os.path.exists(TK.TOKENIZER_PATH) else None
+    if tok is None:
+        text = load_corpus() + load_lessons_text()
+        if os.path.exists(KN.FACTS_PATH):
+            with open(KN.FACTS_PATH, encoding="utf-8") as f:
+                text += f.read()
+        log(f"generation 2: training byte-level BPE (vocab {TK.TOKEN_VOCAB}) "
+            f"on {len(text):,} chars of archive ...")
+        tok = TK.train(text, TK.TOKEN_VOCAB)
+        tok.save()
+    metrics["token_mode_v1"] = True
+    metrics["tokenizer_vocab"] = tok.vocab_size
+    metrics["best_val_loss"] = None
+    metrics["val_start"] = None
+    metrics["val_end"] = None
+    metrics["knowledge"] = {}
+    metrics["lr"] = LR_START
+    metrics["head_chars"] = os.path.getsize(CORPUS_PATH)
+    metrics["model_kwargs"] = MODEL_KWARGS
+    save_metrics(metrics)
+    log(f"generation 2 online: vocab {tok.vocab_size}, context "
+        f"{MODEL_KWARGS['block_size']} tokens - fresh brain, full memory")
+
+
+def build_dataset(corpus, metrics):
+    """The right dataset class for the current generation."""
+    if metrics.get("token_mode_v1"):
+        return TokenDataset(corpus, TK.get(),
+                            block_size=MODEL_KWARGS["block_size"],
+                            val_frac=VAL_FRAC,
+                            val_start=metrics["val_start"],
+                            val_end=metrics["val_end"])
+    return CharDataset(corpus, block_size=MODEL_KWARGS["block_size"],
+                       val_frac=VAL_FRAC,
+                       val_start=metrics["val_start"],
+                       val_end=metrics["val_end"])
 
 
 def load_model(ds, device):
@@ -601,11 +668,11 @@ def build_study_seed(metrics):
 
 
 class _PoolStream:
-    """Batch source over a plain-text pool. Shares the main dataset's
-    exact vocabulary, so the model's character table never drifts."""
+    """Batch source over a plain-text pool, tokenized with the same
+    frozen vocabulary as everything else."""
 
     def __init__(self, ds, text):
-        ids = [ds.stoi[c] for c in text if c in ds.stoi]
+        ids = ds.encode(text)
         self.data = torch.tensor(ids, dtype=torch.long)
         self.block_size = ds.block_size
 
@@ -708,7 +775,7 @@ def generate_and_absorb(model, ds, device, iteration, batches=5,
     everything it cannot prove, so expansion is always sound.
     """
     model.eval()
-    allowed = set(ds.stoi.keys())
+    allowed = corpus_charset()
     batch = 6
     if not cat_order:
         cat_order = list(CATEGORY_PROMPTS)
@@ -717,9 +784,9 @@ def generate_and_absorb(model, ds, device, iteration, batches=5,
         for i in range(batches):
             cat = cat_order[i % len(cat_order)]
             prefix = random.choice(CATEGORY_PROMPTS[cat])
-            prompt_ids = [ds.stoi.get(c, 0) for c in prefix]
+            prompt_ids = ds.encode(prefix)
             prompt = torch.tensor([prompt_ids] * batch, device=device)
-            out = model.generate(prompt.clone(), 220,
+            out = model.generate(prompt.clone(), 180,
                                  temperature=0.95, top_k=40)
             for row in out.tolist():
                 samples.append(ds.decode(row))
@@ -758,7 +825,7 @@ def generate_and_absorb(model, ds, device, iteration, batches=5,
 def sample_answer(model, ds, device, question="Who are you?",
                   temperature=0.7, max_new=120, top_k=30):
     prompt = f"Q: {question}\nA:"
-    ids = torch.tensor([[ds.stoi.get(c, 0) for c in prompt]], device=device)
+    ids = torch.tensor([ds.encode(prompt)], device=device)
     with torch.no_grad():
         out = model.generate(ids, max_new, temperature=temperature, top_k=top_k)
     return ds.decode(out[0].tolist())[len(prompt):].split("\n")[0].strip()
@@ -830,10 +897,9 @@ def main():
     torch.manual_seed(random.randrange(1 << 30))
 
     metrics = load_metrics()
+    ensure_token_mode(metrics)
     corpus = load_corpus()
-    ds = CharDataset(corpus, block_size=MODEL_KWARGS["block_size"],
-                     val_frac=VAL_FRAC,
-                     val_start=metrics["val_start"], val_end=metrics["val_end"])
+    ds = build_dataset(corpus, metrics)
     if metrics["val_start"] is None:
         metrics["val_start"], metrics["val_end"] = ds.val_start, ds.val_end
         save_metrics(metrics)
@@ -851,10 +917,7 @@ def main():
     if not metrics.get("knowledge_seed_v2"):
         append_knowledge_seed(metrics)
         corpus = load_corpus()
-        ds = CharDataset(corpus, block_size=MODEL_KWARGS["block_size"],
-                         val_frac=VAL_FRAC,
-                         val_start=metrics["val_start"],
-                         val_end=metrics["val_end"])
+        ds = build_dataset(corpus, metrics)
 
     # One-time: stock the study pool with provable lessons for every
     # category (world facts, math, letters, units, ...) - the material
@@ -1038,7 +1101,8 @@ def main():
           and (baseline is None or run_best_loss < baseline - IMPROVE_EPSILON)):
         cand = run_best_val_state
         cand_val = run_best_loss
-        why = f"val_loss {run_best_loss:.4f}, was {baseline:.4f}"
+        why = (f"val_loss {run_best_loss:.4f}, was "
+               f"{'n/a' if baseline is None else f'{baseline:.4f}'}")
 
     if cand is not None:
         model.load_state_dict(cand)

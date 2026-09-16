@@ -1,9 +1,11 @@
-"""Simply - a tiny GPT-style transformer that improves itself.
+"""Simply - a small decoder-only transformer that improves itself.
 
-Architecture: decoder-only transformer with character-level tokens.
-Defaults (see MODEL_KWARGS in self_improve.py): 4 layers, 4 heads, 128
-embedding dims, 128-token context - roughly 0.8M parameters, small enough
-to train on CPU, big enough to actually learn language patterns.
+Generation 2: a decoder-only transformer over byte-level BPE tokens
+(see tokenizer.py). Defaults (MODEL_KWARGS in self_improve.py): 4
+layers, 4 heads, 128 embedding dims, 192-token context, 1024-token
+vocabulary - about 1.1 million parameters. Small enough to train on a
+CPU, big enough to learn language patterns; the token vocabulary lets
+one window hold several times more text than the character model could.
 """
 import math
 

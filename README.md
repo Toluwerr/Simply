@@ -4,22 +4,29 @@ A small AI model that teaches itself, on its own, forever. It lives in
 this repository and runs on GitHub's servers. Nobody has to be online
 for it to keep learning.
 
-It is a character-level neural network, about 0.8 million parameters.
-It reads text one character at a time and learns to predict the next
-one. That is tiny by modern standards, but it is a real network with
-real weights, and it really learns.
+It is a neural network, about 1.1 million parameters, that reads text
+in chunks called tokens (a trained vocabulary of 1,024 built from its
+own reading - every possible byte is covered, so nothing it reads
+can ever be unreadable to it). That is tiny by modern standards, but
+it is a real network with real weights, and it really learns. Tokens
+let it see about three times more text per thought than the old
+character-by-character version.
 
 ## What it does all day
 
-Every 30 minutes it wakes up, **reads something new off the open
-internet**, then runs 12 rounds of self-improvement. Each round has
-five steps:
+It does not wait for a scheduler. Every run, when it finishes its 10
+rounds of self-improvement, it immediately triggers the next run
+itself - the loop keeps itself alive around the clock (a cron every 30
+minutes stays as a backstop). Each cycle is:
 
 0. **Read.** It fetches about 30 real articles (Wikipedia's public
    API - no account, no key) and stores the text in `reading/`. From
    those articles it distills short facts - definitions lifted
    straight from the source - into its study pool. Roughly 1,400
-   articles a day, every one recorded in `reading/learned.txt`.
+   articles a day, every one recorded in `reading/learned.txt`. The
+   first thing it reads every run is its own home: a live report from
+   GitHub's API about this repository - its commits, stars, and how
+   it all works.
 1. **Study.** It gets fresh practice problems for its weakest subjects,
    generated from provable ground truth, then trains on a mix of those
    lessons and everything it has seen before. Old skills keep training
@@ -36,12 +43,11 @@ five steps:
    without getting worse. If not, the version is held and it tries
    again next round. A bad round costs it nothing.
 5. **Commit.** Every round ends with one commit: metrics, logs, new
-   lessons, self-written data.
+   lessons, self-written data. Then the run chains the next one.
 
-That is 48 runs x 12 rounds = **576 planned commits a day**, roughly
-500 after real-world scheduler skips, and around **180,000-210,000
-commits a year**. The whole schedule is `.github/workflows/
-self-improve.yml`.
+That is 10 rounds per run, chained back to back: roughly **700-900
+commits a day**, around **280,000-320,000 commits a year**. The whole
+schedule is `.github/workflows/self-improve.yml`.
 
 ## What it is learning
 
@@ -105,7 +111,9 @@ simply> I am Simply, a small model that improves itself a little bit every day.
 
 ```
 model.py           the network itself
-data.py            text handling + the frozen validation slice
+tokenizer.py       the frozen byte-level BPE vocabulary (1024 tokens)
+tokenizer.json     the trained vocabulary itself
+data.py            dataset handling + the frozen validation slice
 curriculum.py      lesson generators + the answer checker for every subject
 world_tables.py    the ground-truth fact tables (countries, elements, ...)
 knowledge.py       the internet reader: fetch articles, distill facts, grade recall

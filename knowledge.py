@@ -53,6 +53,16 @@ TOPIC_LIST = [
     "chemistry element", "civilization", "war", "exploration",
 ]
 
+# A guaranteed slice of every reading session: how its own home works.
+# Simply lives on GitHub and runs on git, so it studies them like any
+# other subject - plus the ideas behind itself.
+TECH_TOPICS = [
+    "git", "github", "version control", "software engineering",
+    "programming language", "artificial intelligence",
+    "machine learning", "neural network", "computer science",
+    "internet", "open source software", "operating system",
+]
+
 _WIKI_API = "https://en.wikipedia.org/w/api.php"
 _UA = ("Simply-self-improving-model/1.0 "
        "(educational research; contact: noreply@users.noreply.github.com)")
@@ -99,9 +109,17 @@ def _clean_text(t):
 
 
 def _pick_titles(n, rng):
-    """Half serendipity (random articles), half a rotating topic with a
-    random search offset, so coverage is both wide and deep."""
+    """A slice on git/GitHub/AI (its own world), plus half serendipity
+    (random articles) and half a rotating topic with a random search
+    offset, so coverage is both wide and deep."""
     titles = []
+    tech = max(2, n // 5)
+    data = _http_json({"action": "query", "list": "search",
+                       "srsearch": rng.choice(TECH_TOPICS),
+                       "srnamespace": 0, "srlimit": tech + 4,
+                       "sroffset": rng.randrange(0, 80), "srprop": ""})
+    if data:
+        titles += [x["title"] for x in data.get("query", {}).get("search", [])]
     data = _http_json({"action": "query", "list": "random",
                        "rnnamespace": 0, "rnlimit": min(n, 20)})
     if data:
@@ -315,6 +333,57 @@ def recall_ok(stored_answer, model_answer):
     return hit / len(sw) >= 0.5
 
 
+def append_pool_text(text):
+    """Put one more piece of text into the reading pool."""
+    _append_line(POOL_PATH, text)
+
+
+def self_context(log=print):
+    """A short self-portrait from the GitHub API: what this repository
+    is, how big it has grown, where it lives. Written into the reading
+    pool like any other article - this is how Simply learns about its
+    own home (GitHub, git, Actions) from the source itself."""
+    repo = os.environ.get("GITHUB_REPOSITORY") or "Toluwerr/Simply"
+    headers = {"User-Agent": _UA, "Accept": "application/vnd.github+json"}
+    tok = os.environ.get("GITHUB_TOKEN")
+    if tok:
+        headers["Authorization"] = f"Bearer {tok}"
+
+    def _get(url):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=10) as r:
+                return r.read().decode(), dict(r.headers)
+        except Exception:
+            return None, None
+
+    body, _ = _get(f"https://api.github.com/repos/{repo}")
+    if not body:
+        return None
+    try:
+        d = json.loads(body)
+    except ValueError:
+        return None
+    commits = "many"
+    b2, h2 = _get(f"https://api.github.com/repos/{repo}/commits?per_page=1")
+    if b2 is not None:
+        link = (h2 or {}).get("Link", "")
+        m = re.search(r"[?&]page=(\d+)>; rel=\"last\"", link)
+        commits = m.group(1) if m else "1"
+    text = (
+        f"This is the {repo} repository on GitHub, the code hosting site "
+        f"built around the git version control system. It is the home of "
+        f"Simply, a self-improving AI model. The repository has {commits} "
+        f"commits, {d.get('stargazers_count', 0)} stars, and "
+        f"{d.get('forks_count', 0)} forks. Simply reads articles from the "
+        f"internet, trains itself, and commits its progress here "
+        f"automatically using GitHub Actions, the feature that runs "
+        f"programs on GitHub's servers. Every commit is one step of "
+        f"learning, recorded forever in the git history."
+    )
+    return _clean_text(text)
+
+
 def refresh(metrics, allowed_chars=None, budget_s=FETCH_BUDGET_S,
             articles=ARTICLES_PER_RUN, log=print):
     """One reading session: fetch, clean, store, distill, trim.
@@ -327,6 +396,14 @@ def refresh(metrics, allowed_chars=None, budget_s=FETCH_BUDGET_S,
     known = set(t.strip().lower() for t in learned_titles())
     seen_subj = set(fact_subjects())
     new_articles, new_facts = 0, 0
+
+    # first, its own home: a fresh self-portrait from the GitHub API
+    home = self_context(log=log)
+    if home:
+        if allowed_chars is not None:
+            home = "".join(c for c in home if c in allowed_chars)
+        if len(home) > 100:
+            append_pool_text(home)
 
     titles = _pick_titles(articles + 8, rng)
     for title in titles:
