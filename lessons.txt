@@ -16113,3 +16113,110 @@ A: Yes, 755 is bigger than 414.
 
 Q: Is 2 bigger than 3?
 A: No, 3 is bigger than 2.
+Q: What is the first letter of 'calcium'?
+A: The first letter of 'calcium' is C.
+
+Q: What is the last letter of 'burkina'?
+A: The last letter of 'burkina' is A.
+
+Q: What is the first letter of 'slovakia'?
+A: The first letter of 'slovakia' is S.
+
+Q: What is the last letter of 'happy'?
+A: The last letter of 'happy' is Y.
+
+Q: What is the first letter of 'denmark'?
+A: The first letter of 'denmark' is D.
+
+Q: What is the first letter of 'lutetium'?
+A: The first letter of 'lutetium' is L.
+
+Q: What is the capital of Malta?
+A: The capital of Malta is Valletta.
+
+Q: What is the capital of Moldova?
+A: The capital of Moldova is Chisinau.
+
+Q: What is the capital of Croatia?
+A: The capital of Croatia is Zagreb.
+
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Nigeria?
+A: The capital of Nigeria is Abuja.
+
+Q: What is double 40?
+A: Double 40 is 80.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is double 18?
+A: Double 18 is 36.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is double 56?
+A: Double 56 is 112.
+
+Q: How do you sort 975, 380, and 564?
+A: In order, they are 380 564 975.
+
+Q: How do you sort 11, 15, and 6?
+A: In order, they are 6 11 15.
+
+Q: How do you sort 22, 2, and 26?
+A: In order, they are 2 22 26.
+
+Q: How do you sort 763, 595, and 528?
+A: In order, they are 528 595 763.
+
+Q: How do you sort 17, 13, and 25?
+A: In order, they are 13 17 25.
+
+Q: How do you sort 18, 17, and 24?
+A: In order, they are 17 18 24.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What number is the Roman numeral iii?
+A: The Roman numeral iii is the number 3.
+
+Q: What number is the Roman numeral ccclxv?
+A: The Roman numeral ccclxv is the number 365.
+
+Q: What is the Roman numeral for 63?
+A: The Roman numeral for 63 is lxiii.
+
+Q: What is the Roman numeral for 9?
+A: The Roman numeral for 9 is ix.
+
+Q: What is the chemical symbol for uranium?
+A: The chemical symbol for uranium is U.
+
+Q: Which element has the chemical symbol Cr?
+A: Cr is the chemical symbol for chromium.
+
+Q: What is the chemical symbol for gold?
+A: The chemical symbol for gold is Au.
+
+Q: What is the chemical symbol for thallium?
+A: The chemical symbol for thallium is Tl.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: Which element has the chemical symbol He?
+A: He is the chemical symbol for helium.

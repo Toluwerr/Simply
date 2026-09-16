@@ -7776,3 +7776,19 @@ A: Counting by twos gives 18 20 22.
 
 Q: What is the opposite of 'first'?
 A: 'last' is the opposite '.
+
+
+Q: What is 0 plus 97?
+A: 0 plus 97 is 979.
+
+Q: What is double 32?
+A: Double 32 is 64.
+
+Q: Which element has the chemical symbol Ra?
+A: Ra is the chemical symbol for radium.
+
+Q: What is the chemical symbol for phosphorus?
+A: The chemical symbol for phosphorus is P.
+
+Q: What is the chemical symbol for magnesium?
+A: The chemical symbol for magnesium is Mg.
