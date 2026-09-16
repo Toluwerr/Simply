@@ -2060,3 +2060,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.57 | weakest: arithmetic 0.00, double_half 0.00, numwords 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"Dou? I am Simply, a tiny AII do you spell very modine, rock."
 
+## Iteration 247 - NO_GAIN
+- **when**: 2026-09-16T23:26:42Z
+- **train loss**: 1.3462 | **val loss**: 0.6859 | **run best**: 0.6725
+- **corpus**: 177,600 chars (+8 self-written examples)
+- **internet reading**: +30 articles, +16 facts (360 read all-time)
+- **lr**: 0.0008 | **steps**: 150
+- **knowledge quiz**: avg 0.48 | weakest: arithmetic 0.00, sort 0.00, double_half 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-styleish every tiny Gout 29."
+

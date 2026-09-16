@@ -17808,3 +17808,110 @@ A: In order, they are 385 427 834.
 
 Q: How do you sort 27, 7, and 9?
 A: In order, they are 7 9 27.
+Q: What is the chemical symbol for rhodium?
+A: The chemical symbol for rhodium is Rh.
+
+Q: What is the chemical symbol for strontium?
+A: The chemical symbol for strontium is Sr.
+
+Q: What is the chemical symbol for iron?
+A: The chemical symbol for iron is Fe.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: Which element has the chemical symbol Sr?
+A: Sr is the chemical symbol for strontium.
+
+Q: What is the chemical symbol for chlorine?
+A: The chemical symbol for chlorine is Cl.
+
+Q: What is the capital of Kiribati?
+A: The capital of Kiribati is Tarawa.
+
+Q: What is the capital of Tuvalu?
+A: The capital of Tuvalu is Funafuti.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of the Seychelles?
+A: The capital of the Seychelles is Victoria.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What number is the Roman numeral dcx?
+A: The Roman numeral dcx is the number 610.
+
+Q: What is the Roman numeral for 48?
+A: The Roman numeral for 48 is xlviii.
+
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What number is the Roman numeral dccxi?
+A: The Roman numeral dccxi is the number 711.
+
+Q: What is the Roman numeral for 78?
+A: The Roman numeral for 78 is lxxviii.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What is double 35?
+A: Double 35 is 70.
+
+Q: What is half of 58?
+A: Half of 58 is 29.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is half of 10?
+A: Half of 10 is 5.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is 14 plus 12?
+A: 14 plus 12 is 26.
+
+Q: What is 16 plus 10?
+A: 16 plus 10 is 26.
+
+Q: What is 6 times 6?
+A: 6 times 6 is 36.
+
+Q: What is 11 minus 10?
+A: 11 minus 10 is 1.
+
+Q: What is 730 plus 556?
+A: 730 plus 556 is 1286.
+
+Q: What is 64 plus 23?
+A: 64 plus 23 is 87.
+
+Q: What is the last letter of 'prague'?
+A: The last letter of 'prague' is E.
+
+Q: What is the first letter of 'eager'?
+A: The first letter of 'eager' is E.
+
+Q: What is the first letter of 'boron'?
+A: The first letter of 'boron' is B.
+
+Q: What is the first letter of 'castries'?
+A: The first letter of 'castries' is C.
+
+Q: What is the last letter of 'vincent'?
+A: The last letter of 'vincent' is T.
+
+Q: What is the last letter of 'jordan'?
+A: The last letter of 'jordan' is N.

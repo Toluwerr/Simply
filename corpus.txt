@@ -8073,3 +8073,28 @@ A: The currency of Kyrgyzstan is the som.
 
 Q: What number is the Roman numeral xx?
 A: The Roman numeral xx is the number 20.
+
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: What number is the Roman numeral vi?
+A: The Roman numeral i v is the number 6.
+
+Q: How many letters does the word 'japan' have?
+A: The word 'jersey' has 5 letters.
+
+Q: How do you sort 7, 11, and 8?
+A: In order, they are 7 8 11.
+
+Q: How do you sort 29, 21, and 28?
+A: In order, they are 21 28 29 28.
+
+Q: What continent is Mauritania on?
+A: Mauritania is on the continent of Africa.
+
+Q: What is the first letter of 'marshall'?
+A: The first letter of 'last letter of ' is M.
