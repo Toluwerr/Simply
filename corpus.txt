@@ -8252,3 +8252,13 @@ A: In order, they are 3 8 28.
 
 Q: What number is the Roman numeral vi?
 A: The Roman numeral 0 is the number 6.
+
+
+Q: What is half of 36?
+A: Half of 36 is 18.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.

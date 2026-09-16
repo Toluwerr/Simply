@@ -18682,3 +18682,128 @@ A: Al is the chemical symbol for aluminium.
 
 Q: What is the chemical symbol for zirconium?
 A: The chemical symbol for zirconium is Zr.
+Q: What is the last letter of 'united'?
+A: The last letter of 'united' is D.
+
+Q: What is the first letter of 'sierra'?
+A: The first letter of 'sierra' is S.
+
+Q: What is the first letter of 'delhi'?
+A: The first letter of 'delhi' is D.
+
+Q: What is the first letter of 'soft'?
+A: The first letter of 'soft' is S.
+
+Q: What is the first letter of 'belgrade'?
+A: The first letter of 'belgrade' is B.
+
+Q: What is the last letter of 'bird'?
+A: The last letter of 'bird' is D.
+
+Q: What is half of 14?
+A: Half of 14 is 7.
+
+Q: What is double 39?
+A: Double 39 is 78.
+
+Q: What is half of 14?
+A: Half of 14 is 7.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What is double 4?
+A: Double 4 is 8.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: What is the capital of Afghanistan?
+A: The capital of Afghanistan is Kabul.
+
+Q: What is the capital of Tunisia?
+A: The capital of Tunisia is Tunis.
+
+Q: What is the capital of the Philippines?
+A: The capital of the Philippines is Manila.
+
+Q: What is the capital of Iraq?
+A: The capital of Iraq is Baghdad.
+
+Q: What is the capital of Oman?
+A: The capital of Oman is Muscat.
+
+Q: What is the capital of Montenegro?
+A: The capital of Montenegro is Podgorica.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the Roman numeral for 2?
+A: The Roman numeral for 2 is ii.
+
+Q: What is the Roman numeral for 4?
+A: The Roman numeral for 4 is iv.
+
+Q: What number is the Roman numeral lxxix?
+A: The Roman numeral lxxix is the number 79.
+
+Q: What number is the Roman numeral dxcii?
+A: The Roman numeral dxcii is the number 592.
+
+Q: What is the Roman numeral for 583?
+A: The Roman numeral for 583 is dlxxxiii.
+
+Q: What number is the Roman numeral cmii?
+A: The Roman numeral cmii is the number 902.
+
+Q: Can you count by fives from 15 to 40?
+A: Counting by fives gives 15 20 25 30 35 40.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by fives from 10 to 25?
+A: Counting by fives gives 10 15 20 25.
+
+Q: Can you count by fives from 25 to 40?
+A: Counting by fives gives 25 30 35 40.
