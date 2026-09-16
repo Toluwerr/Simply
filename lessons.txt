@@ -19806,3 +19806,110 @@ A: 86 is bigger than 49.
 
 Q: Is 15 bigger than 19?
 A: No, 19 is bigger than 15.
+Q: What is the first letter of 'kyat'?
+A: The first letter of 'kyat' is K.
+
+Q: What is the first letter of 'tunis'?
+A: The first letter of 'tunis' is T.
+
+Q: What is the last letter of 'belgium'?
+A: The last letter of 'belgium' is M.
+
+Q: What is the last letter of 'philippines'?
+A: The last letter of 'philippines' is S.
+
+Q: What is the last letter of 'venus'?
+A: The last letter of 'venus' is S.
+
+Q: What is the first letter of 'selenium'?
+A: The first letter of 'selenium' is S.
+
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+
+Q: What is the capital of Cameroon?
+A: The capital of Cameroon is Yaounde.
+
+Q: What is the capital of Brunei?
+A: The capital of Brunei is Bandar Seri Begawan.
+
+Q: What is the capital of Croatia?
+A: The capital of Croatia is Zagreb.
+
+Q: What is the capital of Guatemala?
+A: The capital of Guatemala is Guatemala City.
+
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+
+Q: How many letters does the word 'hryvnia' have?
+A: The word 'hryvnia' has 7 letters.
+
+Q: How many letters does the word 'ocean' have?
+A: The word 'ocean' has 5 letters.
+
+Q: How many letters does the word 'little' have?
+A: The word 'little' has 6 letters.
+
+Q: How many letters does the word 'lithium' have?
+A: The word 'lithium' has 7 letters.
+
+Q: How many letters does the word 'seychelles' have?
+A: The word 'seychelles' has 10 letters.
+
+Q: How many letters does the word 'russia' have?
+A: The word 'russia' has 6 letters.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Connecticut?
+A: Hartford is the capital of Connecticut.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the Roman numeral for 995?
+A: The Roman numeral for 995 is cmxcv.
+
+Q: What is the Roman numeral for 2?
+A: The Roman numeral for 2 is ii.
+
+Q: What number is the Roman numeral xiv?
+A: The Roman numeral xiv is the number 14.
+
+Q: What is the Roman numeral for 96?
+A: The Roman numeral for 96 is xcvi.
+
+Q: What is the Roman numeral for 18?
+A: The Roman numeral for 18 is xviii.
+
+Q: What is the Roman numeral for 52?
+A: The Roman numeral for 52 is lii.
+
+Q: Which element has the chemical symbol Rh?
+A: Rh is the chemical symbol for rhodium.
+
+Q: Which element has the chemical symbol La?
+A: La is the chemical symbol for lanthanum.
+
+Q: What is the chemical symbol for magnesium?
+A: The chemical symbol for magnesium is Mg.
+
+Q: What is the chemical symbol for barium?
+A: The chemical symbol for barium is Ba.
+
+Q: Which element has the chemical symbol Y?
+A: Y is the chemical symbol for yttrium.
+
+Q: What is the chemical symbol for antimony?
+A: The chemical symbol for antimony is Sb.
