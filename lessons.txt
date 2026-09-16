@@ -12651,3 +12651,110 @@ A: No, 532 is bigger than 181.
 
 Q: Is 504 bigger than 364?
 A: Yes, 504 is bigger than 364.
+Q: What is the last letter of 'hafnium'?
+A: The last letter of 'hafnium' is M.
+
+Q: What is the first letter of 'eager'?
+A: The first letter of 'eager' is E.
+
+Q: What is the first letter of 'kina'?
+A: The first letter of 'kina' is K.
+
+Q: What is the last letter of 'solomon'?
+A: The last letter of 'solomon' is N.
+
+Q: What is the last letter of 'apple'?
+A: The last letter of 'apple' is E.
+
+Q: What is the last letter of 'kyat'?
+A: The last letter of 'kyat' is T.
+
+Q: What is the capital of Nigeria?
+A: The capital of Nigeria is Abuja.
+
+Q: What is the capital of Portugal?
+A: The capital of Portugal is Lisbon.
+
+Q: What is the capital of Ireland?
+A: The capital of Ireland is Dublin.
+
+Q: What is the capital of Cameroon?
+A: The capital of Cameroon is Yaounde.
+
+Q: What is the capital of the United Arab Emirates?
+A: The capital of the United Arab Emirates is Abu Dhabi.
+
+Q: What is the capital of Burkina Faso?
+A: The capital of Burkina Faso is Ouagadougou.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the capital of the US state Connecticut?
+A: Hartford is the capital of Connecticut.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
