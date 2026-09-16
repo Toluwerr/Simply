@@ -1348,3 +1348,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.22 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: opposites 1.00, animals 1.00, months 1.00
 - self-portrait, asked "Who are you?": *"I was borge reain a year."
 
+## Iteration 171 - NO_GAIN
+- **when**: 2026-09-16T17:24:05Z
+- **train loss**: 0.4380 | **val loss**: 0.3871 | **run best**: 0.3834
+- **corpus**: 156,027 chars (+9 self-written examples)
+- **internet reading**: +30 articles, +15 facts (120 read all-time)
+- **lr**: 0.0003 | **steps**: 200
+- **knowledge quiz**: avg 0.26 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, units 1.00
+- self-portrait, asked "Who are you?": *"I was born very recently, and I get a little or no seed."
+

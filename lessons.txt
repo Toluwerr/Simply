@@ -9046,3 +9046,110 @@ A: Counting by tens gives 20 30 40.
 
 Q: Can you count by ones from 17 to 21?
 A: Counting by ones gives 17 18 19 20 21.
+Q: What number is the Roman numeral xiii?
+A: The Roman numeral xiii is the number 13.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What number is the Roman numeral lv?
+A: The Roman numeral lv is the number 55.
+
+Q: What is the Roman numeral for 59?
+A: The Roman numeral for 59 is lix.
+
+Q: What number is the Roman numeral dxxviii?
+A: The Roman numeral dxxviii is the number 528.
+
+Q: Can you count by fives from 20 to 45?
+A: Counting by fives gives 20 25 30 35 40 45.
+
+Q: Can you count by twos from 24 to 28?
+A: Counting by twos gives 24 26 28.
+
+Q: Can you count by ones from 36 to 41?
+A: Counting by ones gives 36 37 38 39 40 41.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by fives from 10 to 35?
+A: Counting by fives gives 10 15 20 25 30 35.
+
+Q: What is the capital of Bangladesh?
+A: The capital of Bangladesh is Dhaka.
+
+Q: What is the capital of Iran?
+A: The capital of Iran is Tehran.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: What is the capital of Bulgaria?
+A: The capital of Bulgaria is Sofia.
+
+Q: What is the capital of the Netherlands?
+A: The capital of the Netherlands is Amsterdam.
+
+Q: What is the capital of Iraq?
+A: The capital of Iraq is Baghdad.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: What is double 58?
+A: Double 58 is 116.
+
+Q: What is double 46?
+A: Double 46 is 92.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is double 10?
+A: Double 10 is 20.
+
+Q: What is double 53?
+A: Double 53 is 106.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What currency does Saudi Arabia use?
+A: The currency of Saudi Arabia is the riyal.
+
+Q: What currency does Morocco use?
+A: The currency of Morocco is the dirham.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: What currency does Uruguay use?
+A: The currency of Uruguay is the peso.
