@@ -7405,3 +7405,31 @@ A: The word ' letterb has 6 letters.
 
 Q: What is the opposite of 'strong'?
 A: The opposite of 'strong' is 'weak'.
+
+
+Q: How much is 0 plus 66?
+A: 0 plus 66 is 66.
+
+Q: How much is 0 plus 40?
+A: 0 plus 40 is 40.
+
+Q: How much is 0 plus 54?
+A: 0 plus 54 is 54.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: Which is bigger, 17 or 22?
+A: 22 is bigger than 16.
+
+Q: How do you sort 12, 18, and 5?
+A: In order, they are 5 12 18 21.
+
+Q: How do you sort 18, 14, and 15?
+A: In order, they are 14 15 18 19.
+
+Q: What is double 26?
+A: Double 26 is 52.
+
+Q: What is the first letter of 'azerbaijan'?
+A: The lasilager' is A.

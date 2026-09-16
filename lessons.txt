@@ -13793,3 +13793,110 @@ A: The capital of Iceland is Reykjavik.
 
 Q: What is the capital of Saint Kitts and Nevis?
 A: The capital of Saint Kitts and Nevis is Basseterre.
+Q: What is the first letter of 'time'?
+A: The first letter of 'time' is T.
+
+Q: What is the last letter of 'tidy'?
+A: The last letter of 'tidy' is Y.
+
+Q: What is the last letter of 'krypton'?
+A: The last letter of 'krypton' is N.
+
+Q: What is the first letter of 'hot'?
+A: The first letter of 'hot' is H.
+
+Q: What is the first letter of 'plutonium'?
+A: The first letter of 'plutonium' is P.
+
+Q: What is the first letter of 'bromine'?
+A: The first letter of 'bromine' is B.
+
+Q: What is the capital of the Marshall Islands?
+A: The capital of the Marshall Islands is Majuro.
+
+Q: What is the capital of Fiji?
+A: The capital of Fiji is Suva.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
+
+Q: What is the capital of Jordan?
+A: The capital of Jordan is Amman.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: How many oceans are there?
+A: There are 5 oceans.
+
+Q: What is the freezing point of water?
+A: Water freezes at 0 degrees Celsius.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the freezing point of water?
+A: Water freezes at 0 degrees Celsius.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What is the smallest ocean?
+A: The Arctic is the smallest ocean.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How do you sort 262, 321, and 157?
+A: In order, they are 157 262 321.
+
+Q: How do you sort 25, 11, and 15?
+A: In order, they are 11 15 25.
+
+Q: How do you sort 188, 404, and 892?
+A: In order, they are 188 404 892.
+
+Q: How do you sort 119, 722, and 662?
+A: In order, they are 119 662 722.
+
+Q: How do you sort 18, 14, and 2?
+A: In order, they are 2 14 18.
+
+Q: How do you sort 7, 11, and 21?
+A: In order, they are 7 11 21.
