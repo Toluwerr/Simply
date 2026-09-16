@@ -13115,3 +13115,128 @@ A: The Roman numeral for 1 is i.
 
 Q: What is the Roman numeral for 40?
 A: The Roman numeral for 40 is xl.
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What is the hardest natural substance?
+A: Diamond is the hardest natural substance.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What is the biggest animal?
+A: The blue whale is the biggest animal.
+
+Q: What currency does Algeria use?
+A: The currency of Algeria is the dinar.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Qatar use?
+A: The currency of Qatar is the riyal.
+
+Q: What currency does India use?
+A: The currency of India is the rupee.
+
+Q: What currency does Israel use?
+A: The currency of Israel is the shekel.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What is 13 times 16?
+A: 13 times 16 is 208.
+
+Q: What is 16 minus 7?
+A: 16 minus 7 is 9.
+
+Q: What is 462 minus 434?
+A: 462 minus 434 is 28.
+
+Q: What is 19 minus 3?
+A: 19 minus 3 is 16.
+
+Q: What is 863 minus 469?
+A: 863 minus 469 is 394.
+
+Q: What is 9 minus 7?
+A: 9 minus 7 is 2.
+
+Q: Which element has the chemical symbol I?
+A: I is the chemical symbol for iodine.
+
+Q: What is the chemical symbol for rhodium?
+A: The chemical symbol for rhodium is Rh.
+
+Q: Which element has the chemical symbol Ce?
+A: Ce is the chemical symbol for cerium.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium.
+
+Q: What is the chemical symbol for terbium?
+A: The chemical symbol for terbium is Tb.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Os.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by ones from 35 to 37?
+A: Counting by ones gives 35 36 37.
+
+Q: Can you count by fives from 15 to 40?
+A: Counting by fives gives 15 20 25 30 35 40.
+
+Q: Can you count by twos from 14 to 22?
+A: Counting by twos gives 14 16 18 20 22.
+
+Q: Can you count by fives from 10 to 25?
+A: Counting by fives gives 10 15 20 25.
+
+Q: How many letters does the word 'kigali' have?
+A: The word 'kigali' has 6 letters.
+
+Q: How many letters does the word 'podgorica' have?
+A: The word 'podgorica' has 9 letters.
+
+Q: How many letters does the word 'vietnam' have?
+A: The word 'vietnam' has 7 letters.
+
+Q: How many letters does the word 'palikir' have?
+A: The word 'palikir' has 7 letters.
+
+Q: How many letters does the word 'inside' have?
+A: The word 'inside' has 6 letters.
+
+Q: How many letters does the word 'rhodium' have?
+A: The word 'rhodium' has 7 letters.
