@@ -18147,3 +18147,110 @@ A: In order, they are 543 549 844.
 
 Q: How do you sort 272, 465, and 411?
 A: In order, they are 272 411 465.
+Q: What number is the Roman numeral cmxiii?
+A: The Roman numeral cmxiii is the number 913.
+
+Q: What number is the Roman numeral dxxx?
+A: The Roman numeral dxxx is the number 530.
+
+Q: What is the Roman numeral for 100?
+A: The Roman numeral for 100 is c.
+
+Q: What number is the Roman numeral dx?
+A: The Roman numeral dx is the number 510.
+
+Q: What number is the Roman numeral cclxxxvii?
+A: The Roman numeral cclxxxvii is the number 287.
+
+Q: What number is the Roman numeral cmlx?
+A: The Roman numeral cmlx is the number 960.
+
+Q: Which element has the chemical symbol Pm?
+A: Pm is the chemical symbol for promethium.
+
+Q: What is the chemical symbol for scandium?
+A: The chemical symbol for scandium is Sc.
+
+Q: Which element has the chemical symbol Mo?
+A: Mo is the chemical symbol for molybdenum.
+
+Q: Which element has the chemical symbol Yb?
+A: Yb is the chemical symbol for ytterbium.
+
+Q: Which element has the chemical symbol Nb?
+A: Nb is the chemical symbol for niobium.
+
+Q: Which element has the chemical symbol Tm?
+A: Tm is the chemical symbol for thulium.
+
+Q: What is 542 plus 336?
+A: 542 plus 336 is 878.
+
+Q: What is 13 plus 20?
+A: 13 plus 20 is 33.
+
+Q: What is 67 minus 36?
+A: 67 minus 36 is 31.
+
+Q: What is 17 plus 2?
+A: 17 plus 2 is 19.
+
+Q: What is 809 minus 709?
+A: 809 minus 709 is 100.
+
+Q: What is 64 minus 12?
+A: 64 minus 12 is 52.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: What is the first letter of 'laos'?
+A: The first letter of 'laos' is L.
+
+Q: What is the first letter of 'day'?
+A: The first letter of 'day' is D.
+
+Q: What is the last letter of 'chisinau'?
+A: The last letter of 'chisinau' is U.
+
+Q: What is the first letter of 'making'?
+A: The first letter of 'making' is M.
+
+Q: What is the first letter of 'closed'?
+A: The first letter of 'closed' is C.
+
+Q: What is the last letter of 'cat'?
+A: The last letter of 'cat' is T.
+
+Q: How many letters does the word 'gitega' have?
+A: The word 'gitega' has 6 letters.
+
+Q: How many letters does the word 'soft' have?
+A: The word 'soft' has 4 letters.
+
+Q: How many letters does the word 'quiet' have?
+A: The word 'quiet' has 5 letters.
+
+Q: How many letters does the word 'lead' have?
+A: The word 'lead' has 4 letters.
+
+Q: How many letters does the word 'gaborone' have?
+A: The word 'gaborone' has 8 letters.
+
+Q: How many letters does the word 'than' have?
+A: The word 'than' has 4 letters.

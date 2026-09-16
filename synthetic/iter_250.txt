@@ -1,0 +1,14 @@
+Q: How do you sort 7, 19, and 17?
+A: In order, they are 7 17 19.
+
+Q: How do you sort 3, 13, and 20?
+A: In order, they are 3 13 20.
+
+Q: What currency does Morocco use?
+A: The currency of Morocco is the dirham.
+
+Q: What currency does Belgium use?
+A: The currency of Belgium is the euro.
+
+Q: What is 10 minus 10?
+A: 10 minus 10 is 0?
