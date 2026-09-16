@@ -5994,3 +5994,128 @@ A: Salt Lake City is the capital of Utah.
 
 Q: What is the capital of the US state Missouri?
 A: Jefferson City is the capital of Missouri.
+Q: What is 936 minus 29?
+A: 936 minus 29 is 907.
+
+Q: What is 45 plus 87?
+A: 45 plus 87 is 132.
+
+Q: What is 481 plus 700?
+A: 481 plus 700 is 1181.
+
+Q: What is 89 minus 82?
+A: 89 minus 82 is 7.
+
+Q: What is 13 plus 10?
+A: 13 plus 10 is 23.
+
+Q: What is 4 times 4?
+A: 4 times 4 is 16.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: Can you count by twos from 32 to 38?
+A: Counting by twos gives 32 34 36 38.
+
+Q: Can you count by twos from 32 to 38?
+A: Counting by twos gives 32 34 36 38.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 25 30 35.
+
+Q: How do you write 17 in words?
+A: 17 in words is seventeen.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: What is double 26?
+A: Double 26 is 52.
+
+Q: What is double 2?
+A: Double 2 is 4.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is half of 8?
+A: Half of 8 is 4.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What continent is Turkey on?
+A: Turkey is on the continent of Asia.
+
+Q: What continent is Vietnam on?
+A: Vietnam is on the continent of Asia.
+
+Q: What continent is Ukraine on?
+A: Ukraine is on the continent of Europe.
+
+Q: What continent is Saudi Arabia on?
+A: Saudi Arabia is on the continent of Asia.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: What continent is Slovakia on?
+A: Slovakia is on the continent of Europe.
+
+Q: Which is bigger, 340 or 723?
+A: 723 is bigger than 340.
+
+Q: Which is bigger, 15 or 14?
+A: 15 is bigger than 14.
+
+Q: Is 9 bigger than 14?
+A: No, 14 is bigger than 9.
+
+Q: Is 531 bigger than 617?
+A: No, 617 is bigger than 531.
+
+Q: Is 965 bigger than 904?
+A: Yes, 965 is bigger than 904.
+
+Q: Which is bigger, 18 or 9?
+A: 18 is bigger than 9.
