@@ -1,0 +1,14 @@
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: Which is bigger, 13 or 6?
+A: 13 is bigger than 3.
+
+Q: Is 90 bigger than 50?
+A: Yes, 90 is bigger than 21.
+
+Q: Is 65 bigger than 27?
+A: Yes, 65 is bigger than 57.
+
+Q: Is 80 bigger than 57?
+A: Yes, 80 is bigger than 36.

@@ -7047,3 +7047,128 @@ A: The capital of Dominica is Roseau.
 
 Q: What is the capital of Canada?
 A: The capital of Canada is Ottawa.
+Q: What currency does Kuwait use?
+A: The currency of Kuwait is the dinar.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What currency does Iraq use?
+A: The currency of Iraq is the dinar.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Switzerland use?
+A: The currency of Switzerland is the franc.
+
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: What is 45 plus 64?
+A: 45 plus 64 is 109.
+
+Q: What is 15 times 13?
+A: 15 times 13 is 195.
+
+Q: What is 11 times 15?
+A: 11 times 15 is 165.
+
+Q: What is 93 minus 24?
+A: 93 minus 24 is 69.
+
+Q: What is 15 plus 9?
+A: 15 plus 9 is 24.
+
+Q: What is 527 minus 508?
+A: 527 minus 508 is 19.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety.
+
+Q: How do you write 17 in words?
+A: 17 in words is seventeen.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: How do you sort 103, 441, and 563?
+A: In order, they are 103 441 563.
+
+Q: How do you sort 102, 678, and 21?
+A: In order, they are 21 102 678.
+
+Q: How do you sort 23, 10, and 19?
+A: In order, they are 10 19 23.
+
+Q: How do you sort 511, 634, and 157?
+A: In order, they are 157 511 634.
+
+Q: How do you sort 422, 94, and 84?
+A: In order, they are 84 94 422.
+
+Q: How do you sort 202, 935, and 992?
+A: In order, they are 202 935 992.
+
+Q: Which is bigger, 78 or 83?
+A: 83 is bigger than 78.
+
+Q: Is 725 bigger than 303?
+A: Yes, 725 is bigger than 303.
+
+Q: Which is bigger, 64 or 19?
+A: 64 is bigger than 19.
+
+Q: Is 16 bigger than 12?
+A: Yes, 16 is bigger than 12.
+
+Q: Is 434 bigger than 270?
+A: Yes, 434 is bigger than 270.
+
+Q: Is 648 bigger than 550?
+A: Yes, 648 is bigger than 550.
+
+Q: What is the chemical symbol for lanthanum?
+A: The chemical symbol for lanthanum is La.
+
+Q: What is the chemical symbol for oxygen?
+A: The chemical symbol for oxygen is O.
+
+Q: What is the chemical symbol for antimony?
+A: The chemical symbol for antimony is Sb.
+
+Q: What is the chemical symbol for silicon?
+A: The chemical symbol for silicon is Si.
+
+Q: Which element has the chemical symbol Zn?
+A: Zn is the chemical symbol for zinc.
+
+Q: Which element has the chemical symbol F?
+A: F is the chemical symbol for fluorine.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is double 59?
+A: Double 59 is 118.
+
+Q: What is double 39?
+A: Double 39 is 78.
+
+Q: What is double 55?
+A: Double 55 is 110.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
