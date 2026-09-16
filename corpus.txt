@@ -6737,3 +6737,13 @@ A: 'last' is the opposite of 'light'.
 
 Q: What is the opposite of 'first'?
 A: 'last' is the opposite of 'warme isiumppl' is 'detren'.
+
+
+Q: What is 67 plus 24?
+A: 67 plus 24 is 91.
+
+Q: Which element has the chemical symbol Ti?
+A: Tm i is the chemical symbol for titanium.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.

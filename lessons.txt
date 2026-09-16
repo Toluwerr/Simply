@@ -4691,3 +4691,110 @@ A: Nepal is on the continent of Asia.
 
 Q: What continent is Gambia on?
 A: Gambia is on the continent of Africa.
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is 13 minus 5?
+A: 13 minus 5 is 8.
+
+Q: What is 89 plus 11?
+A: 89 plus 11 is 100.
+
+Q: What is 6 plus 9?
+A: 6 plus 9 is 15.
+
+Q: What is 509 plus 162?
+A: 509 plus 162 is 671.
+
+Q: What is 6 times 12?
+A: 6 times 12 is 72.
+
+Q: What is 998 plus 338?
+A: 998 plus 338 is 1336.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 88 in words?
+A: 88 in words is eighty-eight.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What is the chemical symbol for gold?
+A: The chemical symbol for gold is Au.
+
+Q: What is the chemical symbol for palladium?
+A: The chemical symbol for palladium is Pd.
+
+Q: Which element has the chemical symbol Nb?
+A: Nb is the chemical symbol for niobium.
+
+Q: What is the chemical symbol for silver?
+A: The chemical symbol for silver is Ag.
+
+Q: What is the chemical symbol for aluminium?
+A: The chemical symbol for aluminium is Al.
+
+Q: Which element has the chemical symbol Ag?
+A: Ag is the chemical symbol for silver.
+
+Q: What is the Roman numeral for 22?
+A: The Roman numeral for 22 is xxii.
+
+Q: What is the Roman numeral for 533?
+A: The Roman numeral for 533 is dxxxiii.
+
+Q: What number is the Roman numeral xiii?
+A: The Roman numeral xiii is the number 13.
+
+Q: What number is the Roman numeral dxiv?
+A: The Roman numeral dxiv is the number 514.
+
+Q: What is the Roman numeral for 67?
+A: The Roman numeral for 67 is lxvii.
+
+Q: What is the Roman numeral for 10?
+A: The Roman numeral for 10 is x.
