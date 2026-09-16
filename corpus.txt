@@ -6683,3 +6683,10 @@ A: The opposite of 'happy' is 'sad'.
 
 Q: What is the opposite of 'young'?
 A: The opposite of 'young' is 'old'.
+
+
+Q: How many letters does the word 'shurkey' have?
+A: The word 'candle' has 7 letters.
+
+Q: How many letters does the word 'zeandia' have?
+A: The word 'razyptitze' has 7 letters.

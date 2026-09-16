@@ -3834,3 +3834,128 @@ A: Charleston is the capital of West Virginia.
 
 Q: What is the capital of the US state West Virginia?
 A: Charleston is the capital of West Virginia.
+Q: What is the chemical symbol for calcium?
+A: The chemical symbol for calcium is Ca.
+
+Q: Which element has the chemical symbol Mo?
+A: Mo is the chemical symbol for molybdenum.
+
+Q: Which element has the chemical symbol Br?
+A: Br is the chemical symbol for bromine.
+
+Q: What is the chemical symbol for magnesium?
+A: The chemical symbol for magnesium is Mg.
+
+Q: Which element has the chemical symbol Br?
+A: Br is the chemical symbol for bromine.
+
+Q: What is the chemical symbol for fluorine?
+A: The chemical symbol for fluorine is F.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: How do you sort 601, 925, and 403?
+A: In order, they are 403 601 925.
+
+Q: How do you sort 3, 16, and 24?
+A: In order, they are 3 16 24.
+
+Q: How do you sort 593, 641, and 911?
+A: In order, they are 593 641 911.
+
+Q: How do you sort 16, 13, and 29?
+A: In order, they are 13 16 29.
+
+Q: How do you sort 583, 696, and 189?
+A: In order, they are 189 583 696.
+
+Q: How do you sort 13, 16, and 8?
+A: In order, they are 8 13 16.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is half of 14?
+A: Half of 14 is 7.
+
+Q: What is half of 50?
+A: Half of 50 is 25.
+
+Q: What is double 53?
+A: Double 53 is 106.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is double 18?
+A: Double 18 is 36.
+
+Q: Which is bigger, 17 or 20?
+A: 20 is bigger than 17.
+
+Q: Which is bigger, 746 or 121?
+A: 746 is bigger than 121.
+
+Q: Which is bigger, 894 or 232?
+A: 894 is bigger than 232.
+
+Q: Which is bigger, 60 or 74?
+A: 74 is bigger than 60.
+
+Q: Which is bigger, 12 or 3?
+A: 12 is bigger than 3.
+
+Q: Is 19 bigger than 10?
+A: Yes, 19 is bigger than 10.
+
+Q: What is the first letter of 'nicaragua'?
+A: The first letter of 'nicaragua' is N.
+
+Q: What is the last letter of 'brasilia'?
+A: The last letter of 'brasilia' is A.
+
+Q: What is the last letter of 'samarium'?
+A: The last letter of 'samarium' is M.
+
+Q: What is the last letter of 'port'?
+A: The last letter of 'port' is T.
+
+Q: What is the first letter of 'comoros'?
+A: The first letter of 'comoros' is C.
+
+Q: What is the first letter of 'mozambique'?
+A: The first letter of 'mozambique' is M.
