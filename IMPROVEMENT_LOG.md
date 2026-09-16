@@ -893,3 +893,11 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.27 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, animals 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I am I a sala."
 
+## Iteration 122 - NO_GAIN
+- **when**: 2026-09-16T00:50:24Z
+- **train loss**: 0.2948 | **val loss**: 0.4356 | **run best**: 0.4354
+- **corpus**: 145,885 chars (+4 self-written examples)
+- **lr**: 0.0003 | **steps**: 200
+- **knowledge quiz**: avg 0.23 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: opposites 1.00, animals 1.00, units 1.00
+- self-portrait, asked "Who are you?": *"I am beroon is the kil."
+

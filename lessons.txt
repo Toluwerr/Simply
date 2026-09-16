@@ -3227,3 +3227,128 @@ A: The currency of Mauritius is the rupee.
 
 Q: What currency does Afghanistan use?
 A: The currency of Afghanistan is the afghani.
+Q: Can you count by twos from 18 to 22?
+A: Counting by twos gives 18 20 22.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by fives from 5 to 15?
+A: Counting by fives gives 5 10 15.
+
+Q: Can you count by twos from 30 to 40?
+A: Counting by twos gives 30 32 34 36 38 40.
+
+Q: Can you count by fives from 10 to 35?
+A: Counting by fives gives 10 15 20 25 30 35.
+
+Q: Can you count by fives from 25 to 40?
+A: Counting by fives gives 25 30 35 40.
+
+Q: What is the capital of Finland?
+A: The capital of Finland is Helsinki.
+
+Q: What is the capital of Saint Vincent and the Grenadines?
+A: The capital of Saint Vincent and the Grenadines is Kingstown.
+
+Q: What is the capital of Equatorial Guinea?
+A: The capital of Equatorial Guinea is Malabo.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
+
+Q: What is the capital of Bulgaria?
+A: The capital of Bulgaria is Sofia.
+
+Q: What is the capital of Micronesia?
+A: The capital of Micronesia is Palikir.
+
+Q: What currency does Croatia use?
+A: The currency of Croatia is the euro.
+
+Q: What currency does Iceland use?
+A: The currency of Iceland is the krona.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: What currency does Ghana use?
+A: The currency of Ghana is the cedi.
+
+Q: What currency does New Zealand use?
+A: The currency of New Zealand is the dollar.
+
+Q: How do you sort 885, 329, and 43?
+A: In order, they are 43 329 885.
+
+Q: How do you sort 8, 18, and 12?
+A: In order, they are 8 12 18.
+
+Q: How do you sort 20, 27, and 1?
+A: In order, they are 1 20 27.
+
+Q: How do you sort 738, 867, and 691?
+A: In order, they are 691 738 867.
+
+Q: How do you sort 595, 414, and 30?
+A: In order, they are 30 414 595.
+
+Q: How do you sort 271, 878, and 443?
+A: In order, they are 271 443 878.
+
+Q: What is the chemical symbol for manganese?
+A: The chemical symbol for manganese is Mn.
+
+Q: Which element has the chemical symbol Na?
+A: Na is the chemical symbol for sodium.
+
+Q: Which element has the chemical symbol W?
+A: W is the chemical symbol for tungsten.
+
+Q: What is the chemical symbol for arsenic?
+A: The chemical symbol for arsenic is As.
+
+Q: What is the chemical symbol for titanium?
+A: The chemical symbol for titanium is Ti.
+
+Q: What is the chemical symbol for beryllium?
+A: The chemical symbol for beryllium is Be.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: How many letters does the word 'indianapolis' have?
+A: The word 'indianapolis' has 12 letters.
+
+Q: How many letters does the word 'hafnium' have?
+A: The word 'hafnium' has 7 letters.
+
+Q: How many letters does the word 'sad' have?
+A: The word 'sad' has 3 letters.
+
+Q: How many letters does the word 'tennessee' have?
+A: The word 'tennessee' has 9 letters.
+
+Q: How many letters does the word 'majuro' have?
+A: The word 'majuro' has 6 letters.
+
+Q: How many letters does the word 'afghanistan' have?
+A: The word 'afghanistan' has 11 letters.
