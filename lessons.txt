@@ -2102,3 +2102,128 @@ A: Andorra is on the continent of Europe.
 
 Q: What continent is Kuwait on?
 A: Kuwait is on the continent of Asia.
+Q: How many letters does the word 'niamey' have?
+A: The word 'niamey' has 6 letters.
+
+Q: How many letters does the word 'tungsten' have?
+A: The word 'tungsten' has 8 letters.
+
+Q: How many letters does the word 'jefferson' have?
+A: The word 'jefferson' has 9 letters.
+
+Q: How many letters does the word 'beirut' have?
+A: The word 'beirut' has 6 letters.
+
+Q: How many letters does the word 'manama' have?
+A: The word 'manama' has 6 letters.
+
+Q: How many letters does the word 'freetown' have?
+A: The word 'freetown' has 8 letters.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What is 9 plus 9?
+A: 9 plus 9 is 18.
+
+Q: What is 576 plus 449?
+A: 576 plus 449 is 1025.
+
+Q: What is 13 minus 7?
+A: 13 minus 7 is 6.
+
+Q: What is 228 plus 36?
+A: 228 plus 36 is 264.
+
+Q: What is 8 times 3?
+A: 8 times 3 is 24.
+
+Q: What is 23 minus 10?
+A: 23 minus 10 is 13.
+
+Q: What is the Roman numeral for 23?
+A: The Roman numeral for 23 is xxiii.
+
+Q: What is the Roman numeral for 553?
+A: The Roman numeral for 553 is dliii.
+
+Q: What number is the Roman numeral xxxv?
+A: The Roman numeral xxxv is the number 35.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What is the Roman numeral for 89?
+A: The Roman numeral for 89 is lxxxix.
+
+Q: What number is the Roman numeral vi?
+A: The Roman numeral vi is the number 6.
+
+Q: What is double 32?
+A: Double 32 is 64.
+
+Q: What is double 25?
+A: Double 25 is 50.
+
+Q: What is double 10?
+A: Double 10 is 20.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is half of 38?
+A: Half of 38 is 19.
+
+Q: What is half of 24?
+A: Half of 24 is 12.

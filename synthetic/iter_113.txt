@@ -1,0 +1,5 @@
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many letters does the word 'galler' have?
+A: The word 'poad' has 6 letters.

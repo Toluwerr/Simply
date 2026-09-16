@@ -6578,3 +6578,10 @@ A: 11 times 1 is 11does is.
 
 Q: How much is 95 plus 70?
 A: 95 plus 70 is 165.
+
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many letters does the word 'galler' have?
+A: The word 'poad' has 6 letters.
