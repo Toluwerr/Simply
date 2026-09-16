@@ -5387,3 +5387,110 @@ A: 20 plus 12 is 32.
 
 Q: What is 9 times 2?
 A: 9 times 2 is 18.
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What is the first letter of 'monrovia'?
+A: The first letter of 'monrovia' is M.
+
+Q: What is the first letter of 'tungsten'?
+A: The first letter of 'tungsten' is T.
+
+Q: What is the last letter of 'iodine'?
+A: The last letter of 'iodine' is E.
+
+Q: What is the first letter of 'suriname'?
+A: The first letter of 'suriname' is S.
+
+Q: What is the last letter of 'armenia'?
+A: The last letter of 'armenia' is A.
+
+Q: What is the last letter of 'and'?
+A: The last letter of 'and' is D.
+
+Q: Which element has the chemical symbol Re?
+A: Re is the chemical symbol for rhenium.
+
+Q: What is the chemical symbol for bismuth?
+A: The chemical symbol for bismuth is Bi.
+
+Q: Which element has the chemical symbol Ag?
+A: Ag is the chemical symbol for silver.
+
+Q: What is the chemical symbol for strontium?
+A: The chemical symbol for strontium is Sr.
+
+Q: Which element has the chemical symbol U?
+A: U is the chemical symbol for uranium.
+
+Q: What is the chemical symbol for americium?
+A: The chemical symbol for americium is Am.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What is the Roman numeral for 36?
+A: The Roman numeral for 36 is xxxvi.
+
+Q: What number is the Roman numeral dccxcviii?
+A: The Roman numeral dccxcviii is the number 798.
+
+Q: What number is the Roman numeral dcccxlix?
+A: The Roman numeral dcccxlix is the number 849.
+
+Q: What number is the Roman numeral lxxxvii?
+A: The Roman numeral lxxxvii is the number 87.
+
+Q: What number is the Roman numeral cdxxviii?
+A: The Roman numeral cdxxviii is the number 428.
+
+Q: What number is the Roman numeral cdxlviii?
+A: The Roman numeral cdxlviii is the number 448.
+
+Q: How many letters does the word 'november' have?
+A: The word 'november' has 8 letters.
+
+Q: How many letters does the word 'lebanon' have?
+A: The word 'lebanon' has 7 letters.
+
+Q: How many letters does the word 'washington' have?
+A: The word 'washington' has 10 letters.
+
+Q: How many letters does the word 'samoa' have?
+A: The word 'samoa' has 5 letters.
+
+Q: How many letters does the word 'monkey' have?
+A: The word 'monkey' has 6 letters.
+
+Q: How many letters does the word 'tall' have?
+A: The word 'tall' has 4 letters.
