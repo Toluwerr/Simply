@@ -7192,3 +7192,10 @@ A: There are 1000 kilograms in a metric ton.
 
 Q: What currency does Slovenia use?
 A: The currency of Slovenia is the euro.
+
+
+Q: What is the Roman numeral for 64?
+A: The Roman numeral for 64 is lxiv.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30 40.
