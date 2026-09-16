@@ -6952,3 +6952,10 @@ A: Be is the chemical symbol for gold.
 
 Q: How many letters does the word 'grape' have?
 A: The word 'monton' has 5 letters.
+
+
+Q: What is the opposite of 'first'?
+A: 'last' is the opposite of 'up'.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.

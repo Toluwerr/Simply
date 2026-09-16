@@ -7404,3 +7404,128 @@ A: 8 plus 10 is 18.
 
 Q: What is 12 minus 12?
 A: 12 minus 12 is 0.
+Q: What is 13 minus 13?
+A: 13 minus 13 is 0.
+
+Q: What is 642 plus 534?
+A: 642 plus 534 is 1176.
+
+Q: What is 167 plus 813?
+A: 167 plus 813 is 980.
+
+Q: What is 15 times 17?
+A: 15 times 17 is 255.
+
+Q: What is 6 times 6?
+A: 6 times 6 is 36.
+
+Q: What is 14 times 12?
+A: 14 times 12 is 168.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: Can you count by fives from 20 to 30?
+A: Counting by fives gives 20 25 30.
+
+Q: Can you count by ones from 32 to 37?
+A: Counting by ones gives 32 33 34 35 36 37.
+
+Q: Can you count by ones from 30 to 35?
+A: Counting by ones gives 30 31 32 33 34 35.
+
+Q: Can you count by fives from 25 to 45?
+A: Counting by fives gives 25 30 35 40 45.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: How do you write 17 in words?
+A: 17 in words is seventeen.
+
+Q: How do you write 55 in words?
+A: 55 in words is fifty-five.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 99 in words?
+A: 99 in words is ninety-nine.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 48 in words?
+A: 48 in words is forty-eight.
+
+Q: What is half of 38?
+A: Half of 38 is 19.
+
+Q: What is double 50?
+A: Double 50 is 100.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is double 18?
+A: Double 18 is 36.
+
+Q: Which is bigger, 19 or 48?
+A: 48 is bigger than 19.
+
+Q: Is 11 bigger than 41?
+A: No, 41 is bigger than 11.
+
+Q: Is 786 bigger than 212?
+A: Yes, 786 is bigger than 212.
+
+Q: Which is bigger, 43 or 69?
+A: 69 is bigger than 43.
+
+Q: Which is bigger, 11 or 94?
+A: 94 is bigger than 11.
+
+Q: Is 867 bigger than 956?
+A: No, 956 is bigger than 867.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
