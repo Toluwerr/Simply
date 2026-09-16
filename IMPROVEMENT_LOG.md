@@ -1845,3 +1845,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.43 | weakest: arithmetic 0.00, sort 0.00, double_half 0.00 | strongest: opposites 1.00, animals 1.00, records 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-styleville."
 
+## Promotion - v20 - weights committed
+- **reason**: knowledge 0.57, was 0.43; val 0.6788
+- self-portrait, asked "Who are you?": *"I am small transformption of my my books, one."
+
