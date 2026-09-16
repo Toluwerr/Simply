@@ -2401,3 +2401,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.65 | weakest: arithmetic 0.00, compare 0.00, numwords 0.00 | strongest: opposites 1.00, animals 1.00, records 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, thankes 78, asketine' means It a short better through the world."
 
+## Promotion - v24 - weights committed
+- **reason**: val_loss 0.6750, was 0.6823
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-style that improving It once."
+
