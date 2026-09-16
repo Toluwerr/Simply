@@ -3602,3 +3602,128 @@ A: Yes, 860 is bigger than 418.
 
 Q: Which is bigger, 343 or 746?
 A: 746 is bigger than 343.
+Q: How do you write 39 in words?
+A: 39 in words is thirty-nine.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 6 in words?
+A: 6 in words is six.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What is the chemical symbol for radon?
+A: The chemical symbol for radon is Rn.
+
+Q: What is the chemical symbol for rhenium?
+A: The chemical symbol for rhenium is Re.
+
+Q: Which element has the chemical symbol Os?
+A: Os is the chemical symbol for osmium.
+
+Q: Which element has the chemical symbol La?
+A: La is the chemical symbol for lanthanum.
+
+Q: Which element has the chemical symbol Bi?
+A: Bi is the chemical symbol for bismuth.
+
+Q: What is the chemical symbol for germanium?
+A: The chemical symbol for germanium is Ge.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: How do you sort 6, 4, and 10?
+A: In order, they are 4 6 10.
+
+Q: How do you sort 741, 65, and 587?
+A: In order, they are 65 587 741.
+
+Q: How do you sort 20, 7, and 26?
+A: In order, they are 7 20 26.
+
+Q: How do you sort 12, 17, and 20?
+A: In order, they are 12 17 20.
+
+Q: How do you sort 860, 560, and 362?
+A: In order, they are 362 560 860.
+
+Q: How do you sort 21, 11, and 17?
+A: In order, they are 11 17 21.
+
+Q: What is double 12?
+A: Double 12 is 24.
+
+Q: What is half of 34?
+A: Half of 34 is 17.
+
+Q: What is double 4?
+A: Double 4 is 8.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is double 30?
+A: Double 30 is 60.

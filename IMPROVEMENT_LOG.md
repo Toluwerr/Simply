@@ -922,3 +922,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.09 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: units 1.00, states 1.00, reading 0.00
 - self-portrait, asked "Who are you?": *"I am a small troward ared ugis the king plat it of the Cale."
 
+## Iteration 125 - NO_GAIN
+- **when**: 2026-09-16T01:27:03Z
+- **train loss**: 0.9410 | **val loss**: 0.4414 | **run best**: 0.4371
+- **corpus**: 146,036 chars (+1 self-written examples)
+- **internet reading**: +30 articles, +16 facts (30 read all-time)
+- **lr**: 0.0008 | **steps**: 200
+- **knowledge quiz**: avg 0.13 | weakest: arithmetic 0.00, sort 0.00, double_half 0.00 | strongest: animals 1.00, months 1.00, compare 1.00
+- self-portrait, asked "Who are you?": *"I was tis the sake forth five sul."
+
