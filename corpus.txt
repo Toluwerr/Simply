@@ -6798,3 +6798,28 @@ A: 'last' is the opposite of 'first'?
 
 Q: What is the Roman numeral for 5?
 A: The Roman numeral for 5 is v.
+
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What sound does a cow make?
+A: A c low says 'moo'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety-four.

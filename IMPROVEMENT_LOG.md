@@ -1088,3 +1088,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.26 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, units 1.00, months 1.00
 - self-portrait, asked "Who are you?": *"December is the forirst montain rele."
 
+## Iteration 143 - IMPROVED
+- **when**: 2026-09-16T06:55:50Z
+- **train loss**: 0.6456 | **val loss**: 0.3920 | **run best**: 0.3920
+- **corpus**: 149,146 chars (+8 self-written examples)
+- **internet reading**: +30 articles, +15 facts (60 read all-time)
+- **lr**: 0.0004 | **steps**: 200
+- **knowledge quiz**: avg 0.39 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: opposites 1.00, animals 1.00, records 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny Saree and eare that legre to than 279, 996, and 91?"
+

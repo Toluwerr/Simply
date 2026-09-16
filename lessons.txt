@@ -5744,3 +5744,128 @@ A: The chemical symbol for aluminium is Al.
 
 Q: What is the chemical symbol for tellurium?
 A: The chemical symbol for tellurium is Te.
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: How many letters does the word 'europe' have?
+A: The word 'europe' has 6 letters.
+
+Q: How many letters does the word 'springfield' have?
+A: The word 'springfield' has 11 letters.
+
+Q: How many letters does the word 'des' have?
+A: The word 'des' has 3 letters.
+
+Q: How many letters does the word 'managua' have?
+A: The word 'managua' has 7 letters.
+
+Q: How many letters does the word 'turkey' have?
+A: The word 'turkey' has 6 letters.
+
+Q: How many letters does the word 'montana' have?
+A: The word 'montana' has 7 letters.
+
+Q: What is the capital of Myanmar?
+A: The capital of Myanmar is Naypyidaw.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of Chad?
+A: The capital of Chad is N'Djamena.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.
+
+Q: What is the capital of Haiti?
+A: The capital of Haiti is Port-au-Prince.
+
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+
+Q: Can you count by fives from 20 to 45?
+A: Counting by fives gives 20 25 30 35 40 45.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by ones from 31 to 35?
+A: Counting by ones gives 31 32 33 34 35.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: What is 891 plus 334?
+A: 891 plus 334 is 1225.
+
+Q: What is 8 times 6?
+A: 8 times 6 is 48.
+
+Q: What is 4 times 4?
+A: 4 times 4 is 16.
+
+Q: What is 9 times 8?
+A: 9 times 8 is 72.
+
+Q: What is 7 times 6?
+A: 7 times 6 is 42.
+
+Q: What is 12 times 8?
+A: 12 times 8 is 96.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: How many sides does a triangle have?
+A: A triangle has 3 sides.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: What is the smallest ocean?
+A: The Arctic is the smallest ocean.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
