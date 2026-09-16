@@ -20805,3 +20805,110 @@ A: The currency of Norway is the krone.
 
 Q: What currency does Greece use?
 A: The currency of Greece is the euro.
+Q: What is the capital of Austria?
+A: The capital of Austria is Vienna.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Cameroon?
+A: The capital of Cameroon is Yaounde.
+
+Q: What is the Roman numeral for 709?
+A: The Roman numeral for 709 is dccix.
+
+Q: What number is the Roman numeral dlxxii?
+A: The Roman numeral dlxxii is the number 572.
+
+Q: What number is the Roman numeral xxxvi?
+A: The Roman numeral xxxvi is the number 36.
+
+Q: What is the Roman numeral for 75?
+A: The Roman numeral for 75 is lxxv.
+
+Q: What is the Roman numeral for 1?
+A: The Roman numeral for 1 is i.
+
+Q: What number is the Roman numeral lvi?
+A: The Roman numeral lvi is the number 56.
+
+Q: What continent is the United States on?
+A: the United States is on the continent of North America.
+
+Q: What continent is Belarus on?
+A: Belarus is on the continent of Europe.
+
+Q: What continent is Iceland on?
+A: Iceland is on the continent of Europe.
+
+Q: What continent is Switzerland on?
+A: Switzerland is on the continent of Europe.
+
+Q: What continent is Bhutan on?
+A: Bhutan is on the continent of Asia.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: Is 22 bigger than 53?
+A: No, 53 is bigger than 22.
+
+Q: Is 873 bigger than 870?
+A: Yes, 873 is bigger than 870.
+
+Q: Which is bigger, 144 or 973?
+A: 973 is bigger than 144.
+
+Q: Which is bigger, 47 or 76?
+A: 76 is bigger than 47.
+
+Q: Which is bigger, 73 or 64?
+A: 73 is bigger than 64.
+
+Q: Is 479 bigger than 203?
+A: Yes, 479 is bigger than 203.
+
+Q: What is the last letter of 'moving'?
+A: The last letter of 'moving' is G.
+
+Q: What is the first letter of 'malawi'?
+A: The first letter of 'malawi' is M.
+
+Q: What is the last letter of 'paanga'?
+A: The last letter of 'paanga' is A.
+
+Q: What is the last letter of 'monrovia'?
+A: The last letter of 'monrovia' is A.
+
+Q: What is the first letter of 'sarajevo'?
+A: The first letter of 'sarajevo' is S.
+
+Q: What is the last letter of 'indonesia'?
+A: The last letter of 'indonesia' is A.
+
+Q: What is the chemical symbol for titanium?
+A: The chemical symbol for titanium is Ti.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Os.
+
+Q: What is the chemical symbol for mercury?
+A: The chemical symbol for mercury is Hg.
+
+Q: What is the chemical symbol for actinium?
+A: The chemical symbol for actinium is Ac.
+
+Q: What is the chemical symbol for tungsten?
+A: The chemical symbol for tungsten is W.
+
+Q: Which element has the chemical symbol Ra?
+A: Ra is the chemical symbol for radium.

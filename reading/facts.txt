@@ -655,3 +655,39 @@ A: Dijan is a village in Alan Baraghush Rural District of Mehraban District in S
 
 Q: What is Denise?
 A: Denise is a sixteen-year-old Christian girl who vocalized her unhappiness regarding Nichomachus' apostasy.
+
+Q: What is Free software?
+A: Free software is a matter of liberty.
+
+Q: What is OpenDesk?
+A: OpenDesk is a free and open-source suite of productivity software developed by the German Center for Digital Sovereignty in Public Administration .
+
+Q: What is Open-source robotics?
+A: Open-source robotics is a branch of robotics where robots are developed with open-source hardware and free and open-source software.
+
+Q: What is Columbine II?
+A: Columbine II is a Lockheed VC-121A-LO Constellation Air Force Serial Number 48-8610.
+
+Q: What is Spenser?
+A: Spenser is a fictional private investigator created by the American mystery writer Robert B.
+
+Q: What is Mario Radaelli?
+A: Mario Radaelli is an Italian hurdler who was 7th in the 400 m hs at the 1934 European Athletics Championships.
+
+Q: What is Inter Kashi FC?
+A: Inter Kashi FC is an Indian association football club based in Varanasi, Uttar Pradesh.
+
+Q: What is Dottie Downs?
+A: Dottie Downs is an All-American Girls Professional Baseball League player.
+
+Q: What is Hawthorn?
+A: Hawthorn is a suburb of Adelaide, South Australia, in the City of Mitcham.
+
+Q: What is Jean-Pierre Vincent?
+A: Jean-Pierre Vincent is a French theatrical actor and director.
+
+Q: What is Gray?
+A: Gray is an American television and film actor.
+
+Q: What is Colossus?
+A: Colossus is a set of computers developed by British codebreakers in the years 1943-1945 to help in the cryptanalysis of the Lorenz cipher.

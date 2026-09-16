@@ -2311,3 +2311,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: knowledge 0.65, was 0.57; val 0.6823
 - self-portrait, asked "Who are you?": *"I am Simple transformer active."
 
+## Iteration 274 - NO_GAIN
+- **when**: 2026-09-16T23:45:40Z
+- **train loss**: 1.0848 | **val loss**: 0.6990 | **run best**: 0.6823
+- **corpus**: 192,811 chars (+5 self-written examples)
+- **internet reading**: +30 articles, +12 facts (450 read all-time)
+- **lr**: 0.0015 | **steps**: 150
+- **knowledge quiz**: avg 0.57 | weakest: arithmetic 0.00, sort 0.00, count 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, thank you! You loop next it use the turtle breet and and on a found a shiny key. Stars were still out. It was a good day for an adventure."
+

@@ -8751,3 +8751,19 @@ A: 53 in words is fifty-three.
 
 Q: How many letters does the word 'dirty' have?
 A: The word 'dirty' has 5 letters.
+
+
+Q: What is the Roman numeral for 4?
+A: The Roman numeral for 4 is iv.
+
+Q: What is double 47?
+A: Double 47 is 94.
+
+Q: Which is bigger, 97 or 39?
+A: 97 is bigger than 56.
+
+Q: What is half of 38?
+A: Half of 38 is 19.
+
+Q: What continent is Togo on?
+A: Togo is on the continent of Africa.
