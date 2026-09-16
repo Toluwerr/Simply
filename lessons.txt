@@ -4191,3 +4191,128 @@ A: In order, they are 11 17 25.
 
 Q: How do you sort 965, 373, and 853?
 A: In order, they are 373 853 965.
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What is the hardest natural substance?
+A: Diamond is the hardest natural substance.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: How many sides does a triangle have?
+A: A triangle has 3 sides.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: What currency does Sri Lanka use?
+A: The currency of Sri Lanka is the rupee.
+
+Q: What currency does Turkmenistan use?
+A: The currency of Turkmenistan is the manat.
+
+Q: What currency does Egypt use?
+A: The currency of Egypt is the pound.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does Belarus use?
+A: The currency of Belarus is the ruble.
+
+Q: What currency does Bolivia use?
+A: The currency of Bolivia is the boliviano.
+
+Q: What is 4 times 5?
+A: 4 times 5 is 20.
+
+Q: What is 673 minus 615?
+A: 673 minus 615 is 58.
+
+Q: What is 438 minus 430?
+A: 438 minus 430 is 8.
+
+Q: What is 752 minus 210?
+A: 752 minus 210 is 542.
+
+Q: What is 19 minus 4?
+A: 19 minus 4 is 15.
+
+Q: What is 12 minus 7?
+A: 12 minus 7 is 5.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 97 in words?
+A: 97 in words is ninety-seven.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you sort 25, 9, and 28?
+A: In order, they are 9 25 28.
+
+Q: How do you sort 546, 370, and 717?
+A: In order, they are 370 546 717.
+
+Q: How do you sort 5, 7, and 26?
+A: In order, they are 5 7 26.
+
+Q: How do you sort 938, 615, and 763?
+A: In order, they are 615 763 938.
+
+Q: How do you sort 323, 648, and 137?
+A: In order, they are 137 323 648.
+
+Q: How do you sort 360, 300, and 562?
+A: In order, they are 300 360 562.
+
+Q: Is 17 bigger than 13?
+A: Yes, 17 is bigger than 13.
+
+Q: Is 84 bigger than 27?
+A: Yes, 84 is bigger than 27.
+
+Q: Which is bigger, 11 or 12?
+A: 12 is bigger than 11.
+
+Q: Is 367 bigger than 530?
+A: No, 530 is bigger than 367.
+
+Q: Which is bigger, 89 or 12?
+A: 89 is bigger than 12.
+
+Q: Is 844 bigger than 357?
+A: Yes, 844 is bigger than 357.
+
+Q: Which element has the chemical symbol Se?
+A: Se is the chemical symbol for selenium.
+
+Q: Which element has the chemical symbol Tm?
+A: Tm is the chemical symbol for thulium.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Os.
+
+Q: What is the chemical symbol for aluminium?
+A: The chemical symbol for aluminium is Al.
+
+Q: Which element has the chemical symbol Tm?
+A: Tm is the chemical symbol for thulium.
+
+Q: Which element has the chemical symbol Tb?
+A: Tb is the chemical symbol for terbium.
