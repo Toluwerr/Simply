@@ -7357,3 +7357,13 @@ A: The Roman numeral for 22 is xxii.
 
 Q: How many days are in February?
 A: February has 28 days, and 29 in a leap year.
+
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.

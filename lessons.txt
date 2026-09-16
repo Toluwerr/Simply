@@ -13472,3 +13472,110 @@ A: Paraguay is on the continent of South America.
 
 Q: What continent is the Central African Republic on?
 A: the Central African Republic is on the continent of Africa.
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What continent is Luxembourg on?
+A: Luxembourg is on the continent of Europe.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Paraguay on?
+A: Paraguay is on the continent of South America.
+
+Q: What continent is the Philippines on?
+A: the Philippines is on the continent of Asia.
+
+Q: What continent is Italy on?
+A: Italy is on the continent of Europe.
+
+Q: What continent is South Sudan on?
+A: South Sudan is on the continent of Africa.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: Which element has the chemical symbol Hf?
+A: Hf is the chemical symbol for hafnium.
+
+Q: Which element has the chemical symbol Ne?
+A: Ne is the chemical symbol for neon.
+
+Q: What is the chemical symbol for sulfur?
+A: The chemical symbol for sulfur is S.
+
+Q: Which element has the chemical symbol Kr?
+A: Kr is the chemical symbol for krypton.
+
+Q: Which element has the chemical symbol Pu?
+A: Pu is the chemical symbol for plutonium.
+
+Q: Which element has the chemical symbol H?
+A: H is the chemical symbol for hydrogen.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: What is 99 minus 70?
+A: 99 minus 70 is 29.
+
+Q: What is 261 minus 131?
+A: 261 minus 131 is 130.
+
+Q: What is 72 plus 23?
+A: 72 plus 23 is 95.
+
+Q: What is 5 times 5?
+A: 5 times 5 is 25.
+
+Q: What is 4 plus 19?
+A: 4 plus 19 is 23.
+
+Q: What is 10 plus 19?
+A: 10 plus 19 is 29.
