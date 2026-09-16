@@ -2852,3 +2852,128 @@ A: Turkey is on the continent of Asia.
 
 Q: What continent is Romania on?
 A: Romania is on the continent of Europe.
+Q: How many letters does the word 'dirty' have?
+A: The word 'dirty' has 5 letters.
+
+Q: How many letters does the word 'aggressive' have?
+A: The word 'aggressive' has 10 letters.
+
+Q: How many letters does the word 'peaceful' have?
+A: The word 'peaceful' has 8 letters.
+
+Q: How many letters does the word 'cuba' have?
+A: The word 'cuba' has 4 letters.
+
+Q: How many letters does the word 'kyiv' have?
+A: The word 'kyiv' has 4 letters.
+
+Q: How many letters does the word 'sheep' have?
+A: The word 'sheep' has 5 letters.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: What is the most populous country?
+A: India is the most populous country.
+
+Q: What is the biggest animal?
+A: The blue whale is the biggest animal.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What currency does the United Arab Emirates use?
+A: The currency of the United Arab Emirates is the dirham.
+
+Q: What currency does Mongolia use?
+A: The currency of Mongolia is the tugrik.
+
+Q: What currency does Mongolia use?
+A: The currency of Mongolia is the tugrik.
+
+Q: What is the first letter of 'begawan'?
+A: The first letter of 'begawan' is B.
+
+Q: What is the first letter of 'verde'?
+A: The first letter of 'verde' is V.
+
+Q: What is the first letter of 'cobalt'?
+A: The first letter of 'cobalt' is C.
+
+Q: What is the first letter of 'koruna'?
+A: The first letter of 'koruna' is K.
+
+Q: What is the last letter of 'jupiter'?
+A: The last letter of 'jupiter' is R.
+
+Q: What is the last letter of 'gaborone'?
+A: The last letter of 'gaborone' is E.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.

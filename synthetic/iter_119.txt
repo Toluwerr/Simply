@@ -1,0 +1,8 @@
+Q: Which is bigger, 1 or 7?
+A: 17 is bigger than 1.
+
+Q: Which is bigger, 13 or 7?
+A: 13 is bigger than 8.
+
+Q: What is the capital of Djibouti?
+A: The capital of Djibouti is Ci'cat'.
