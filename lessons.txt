@@ -13579,3 +13579,110 @@ A: 4 plus 19 is 23.
 
 Q: What is 10 plus 19?
 A: 10 plus 19 is 29.
+Q: Can you count by twos from 10 to 16?
+A: Counting by twos gives 10 12 14 16.
+
+Q: Can you count by ones from 14 to 17?
+A: Counting by ones gives 14 15 16 17.
+
+Q: Can you count by twos from 18 to 22?
+A: Counting by twos gives 18 20 22.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by fives from 20 to 35?
+A: Counting by fives gives 20 25 30 35.
+
+Q: Can you count by twos from 14 to 24?
+A: Counting by twos gives 14 16 18 20 22 24.
+
+Q: What number is the Roman numeral lxxiv?
+A: The Roman numeral lxxiv is the number 74.
+
+Q: What number is the Roman numeral viii?
+A: The Roman numeral viii is the number 8.
+
+Q: What number is the Roman numeral liii?
+A: The Roman numeral liii is the number 53.
+
+Q: What is the Roman numeral for 610?
+A: The Roman numeral for 610 is dcx.
+
+Q: What number is the Roman numeral lxxviii?
+A: The Roman numeral lxxviii is the number 78.
+
+Q: What number is the Roman numeral lxxxvii?
+A: The Roman numeral lxxxvii is the number 87.
+
+Q: What is the chemical symbol for germanium?
+A: The chemical symbol for germanium is Ge.
+
+Q: Which element has the chemical symbol I?
+A: I is the chemical symbol for iodine.
+
+Q: What is the chemical symbol for samarium?
+A: The chemical symbol for samarium is Sm.
+
+Q: Which element has the chemical symbol Hf?
+A: Hf is the chemical symbol for hafnium.
+
+Q: Which element has the chemical symbol He?
+A: He is the chemical symbol for helium.
+
+Q: Which element has the chemical symbol Pm?
+A: Pm is the chemical symbol for promethium.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What is the freezing point of water?
+A: Water freezes at 0 degrees Celsius.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: What is the largest island?
+A: Greenland is the largest island.
+
+Q: How many letters does the word 'berlin' have?
+A: The word 'berlin' has 6 letters.
+
+Q: How many letters does the word 'radium' have?
+A: The word 'radium' has 6 letters.
+
+Q: How many letters does the word 'rapid' have?
+A: The word 'rapid' has 5 letters.
+
+Q: How many letters does the word 'sheep' have?
+A: The word 'sheep' has 5 letters.
+
+Q: How many letters does the word 'cameroon' have?
+A: The word 'cameroon' has 8 letters.
+
+Q: How many letters does the word 'cedi' have?
+A: The word 'cedi' has 4 letters.
+
+Q: How do you sort 13, 7, and 23?
+A: In order, they are 7 13 23.
+
+Q: How do you sort 1, 20, and 17?
+A: In order, they are 1 17 20.
+
+Q: How do you sort 267, 650, and 70?
+A: In order, they are 70 267 650.
+
+Q: How do you sort 129, 445, and 902?
+A: In order, they are 129 445 902.
+
+Q: How do you sort 3, 2, and 25?
+A: In order, they are 2 3 25.
+
+Q: How do you sort 7, 19, and 6?
+A: In order, they are 6 7 19.
