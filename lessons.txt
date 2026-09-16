@@ -11455,3 +11455,128 @@ A: 9 times 2 is 18.
 
 Q: What is 4 minus 3?
 A: 4 minus 3 is 1.
+Q: What is the last letter of 'romania'?
+A: The last letter of 'romania' is A.
+
+Q: What is the first letter of 'aires'?
+A: The first letter of 'aires' is A.
+
+Q: What is the first letter of 'europium'?
+A: The first letter of 'europium' is E.
+
+Q: What is the first letter of 'zagreb'?
+A: The first letter of 'zagreb' is Z.
+
+Q: What is the last letter of 'little'?
+A: The last letter of 'little' is E.
+
+Q: What is the last letter of 'madison'?
+A: The last letter of 'madison' is N.
+
+Q: What is the capital of Moldova?
+A: The capital of Moldova is Chisinau.
+
+Q: What is the capital of Nauru?
+A: The capital of Nauru is Yaren.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of the Solomon Islands?
+A: The capital of the Solomon Islands is Honiara.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
+
+Q: What is the closest star to Earth?
+A: The sun is the closest star to Earth.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is double 23?
+A: Double 23 is 46.
+
+Q: What is double 55?
+A: Double 55 is 110.
+
+Q: What is double 47?
+A: Double 47 is 94.
+
+Q: What is double 21?
+A: Double 21 is 42.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
