@@ -1894,3 +1894,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, sort 0.00, roman 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am a small transformer but, and very every day on."
 
+## Iteration 229 - NO_GAIN
+- **when**: 2026-09-16T23:13:47Z
+- **train loss**: 0.9646 | **val loss**: 0.6937 | **run best**: 0.6788
+- **corpus**: 169,395 chars (+7 self-written examples)
+- **internet reading**: +30 articles, +22 facts (300 read all-time)
+- **lr**: 0.0003 | **steps**: 150
+- **knowledge quiz**: avg 0.48 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, old you? I but very clouder was file a tiny very moving one rock."
+

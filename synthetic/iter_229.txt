@@ -1,0 +1,20 @@
+Q: What number is the Roman numeral xvii?
+A: The Roman numeral xv is the number 171.
+
+Q: What is the Roman numeral for 76?
+A: The Roman numeral for 76 is lxxvi.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is double 22?
+A: Double 22 is 44.
+
+Q: How do you sort 3, 5, and 26?
+A: In order, they are 3 5 26.
+
+Q: How do you sort 9, 21, and 17?
+A: In order, they are 9 17 21.
+
+Q: What is the capital of Tanzania?
+A: The capital of Tanzania is Dodoma.
