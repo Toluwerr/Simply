@@ -2271,3 +2271,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, compare 0.00, roman 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, old you 5 model thank you 13, asked to 137."
 
+## Iteration 270 - IMPROVED
+- **when**: 2026-09-16T23:43:17Z
+- **train loss**: 0.9054 | **val loss**: 0.6823 | **run best**: 0.6648
+- **corpus**: 190,942 chars (+8 self-written examples)
+- **internet reading**: +30 articles, +16 facts (420 read all-time)
+- **lr**: 0.0003 | **steps**: 150
+- **knowledge quiz**: avg 0.65 | weakest: compare 0.00, roman 0.00, spelling 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I wasilver walld as they very I kney and quest."
+

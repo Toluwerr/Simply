@@ -8654,3 +8654,28 @@ A: In order, they are 12 18 28.
 
 Q: How do you sort 4, 18, and 14?
 A: In order, they are 4 14 18.
+
+
+Q: What currency does Latvia use?
+A: The currency of Latvia is the euro.
+
+Q: What currency does Mongolia use?
+A: The currency of Mongolia is the tugrik.
+
+Q: What is the chemical symbol for dysprosium?
+A: The chemical symbol for dysprosium is Dy.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore larger the descity.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Ababweakmium.
+
+Q: What is the capital of Nauru?
+A: The capital of Nauru is Yaren.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: How many letters are in the word 'bottle'?
+A: The word 'bottle' has 5 letter has 6 letters.
