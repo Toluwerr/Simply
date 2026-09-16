@@ -1025,3 +1025,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: val_loss 0.4007, was 0.4371
 - self-portrait, asked "Who are you?": *"I cal an June Guand ills the number 0 is th0 ine first est lembe Akica pa prity din Frids winter."
 
+## Iteration 136 - NO_GAIN
+- **when**: 2026-09-16T06:50:56Z
+- **train loss**: 0.8532 | **val loss**: 0.4145 | **run best**: 0.4007
+- **corpus**: 147,949 chars (+1 self-written examples)
+- **internet reading**: +30 articles, +15 facts (60 read all-time)
+- **lr**: 0.0015 | **steps**: 200
+- **knowledge quiz**: avg 0.09 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: records 1.00, units 1.00, reading 0.00
+- self-portrait, asked "Who are you?": *"I am a small tranatter of Asia."
+

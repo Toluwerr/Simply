@@ -4905,3 +4905,128 @@ A: 18 plus 13 is 31.
 
 Q: What is 659 minus 329?
 A: 659 minus 329 is 330.
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: What is 6 times 3?
+A: 6 times 3 is 18.
+
+Q: What is 37 plus 25?
+A: 37 plus 25 is 62.
+
+Q: What is 12 times 18?
+A: 12 times 18 is 216.
+
+Q: What is 14 plus 63?
+A: 14 plus 63 is 77.
+
+Q: What is 20 minus 6?
+A: 20 minus 6 is 14.
+
+Q: What is 20 minus 17?
+A: 20 minus 17 is 3.
+
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+
+Q: What is the capital of Saudi Arabia?
+A: The capital of Saudi Arabia is Riyadh.
+
+Q: What is the capital of Ecuador?
+A: The capital of Ecuador is Quito.
+
+Q: What is the capital of Malaysia?
+A: The capital of Malaysia is Kuala Lumpur.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+
+Q: What is the capital of Switzerland?
+A: The capital of Switzerland is Bern.
+
+Q: How many letters does the word 'palau' have?
+A: The word 'palau' has 5 letters.
+
+Q: How many letters does the word 'vast' have?
+A: The word 'vast' has 4 letters.
+
+Q: How many letters does the word 'colon' have?
+A: The word 'colon' has 5 letters.
+
+Q: How many letters does the word 'japan' have?
+A: The word 'japan' has 5 letters.
+
+Q: How many letters does the word 'baton' have?
+A: The word 'baton' has 5 letters.
+
+Q: How many letters does the word 'czech' have?
+A: The word 'czech' has 5 letters.
+
+Q: What number is the Roman numeral viii?
+A: The Roman numeral viii is the number 8.
+
+Q: What is the Roman numeral for 5?
+A: The Roman numeral for 5 is v.
+
+Q: What is the Roman numeral for 13?
+A: The Roman numeral for 13 is xiii.
+
+Q: What number is the Roman numeral dlxxxiv?
+A: The Roman numeral dlxxxiv is the number 584.
+
+Q: What number is the Roman numeral dcliv?
+A: The Roman numeral dcliv is the number 654.
+
+Q: What number is the Roman numeral xxv?
+A: The Roman numeral xxv is the number 25.
+
+Q: What continent is Tanzania on?
+A: Tanzania is on the continent of Africa.
+
+Q: What continent is Mongolia on?
+A: Mongolia is on the continent of Asia.
+
+Q: What continent is Tonga on?
+A: Tonga is on the continent of Oceania.
+
+Q: What continent is Belarus on?
+A: Belarus is on the continent of Europe.
+
+Q: What continent is Jordan on?
+A: Jordan is on the continent of Asia.
+
+Q: What continent is the Czech Republic on?
+A: the Czech Republic is on the continent of Europe.
+
+Q: How do you sort 18, 29, and 27?
+A: In order, they are 18 27 29.
+
+Q: How do you sort 13, 11, and 17?
+A: In order, they are 11 13 17.
+
+Q: How do you sort 373, 323, and 649?
+A: In order, they are 323 373 649.
+
+Q: How do you sort 22, 1, and 12?
+A: In order, they are 1 12 22.
+
+Q: How do you sort 263, 730, and 685?
+A: In order, they are 263 685 730.
+
+Q: How do you sort 24, 20, and 23?
+A: In order, they are 20 23 24.
