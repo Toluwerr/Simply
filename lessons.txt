@@ -19271,3 +19271,110 @@ A: The capital of Estonia is Tallinn.
 
 Q: What is the capital of Nigeria?
 A: The capital of Nigeria is Abuja.
+Q: What number is the Roman numeral xii?
+A: The Roman numeral xii is the number 12.
+
+Q: What is the Roman numeral for 5?
+A: The Roman numeral for 5 is v.
+
+Q: What is the Roman numeral for 91?
+A: The Roman numeral for 91 is xci.
+
+Q: What number is the Roman numeral cmxlvii?
+A: The Roman numeral cmxlvii is the number 947.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What is the Roman numeral for 4?
+A: The Roman numeral for 4 is iv.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: How do you write 6 in words?
+A: 6 in words is six.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: How many planets are there?
+A: There are 8 planets.
+
+Q: What is the most populous country?
+A: India is the most populous country.
+
+Q: What is the biggest planet?
+A: Jupiter is the biggest planet.
+
+Q: What is the smallest ocean?
+A: The Arctic is the smallest ocean.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What is the first letter of 'rapid'?
+A: The first letter of 'rapid' is R.
+
+Q: What is the last letter of 'giant'?
+A: The last letter of 'giant' is T.
+
+Q: What is the first letter of 'danger'?
+A: The first letter of 'danger' is D.
+
+Q: What is the first letter of 'roseau'?
+A: The first letter of 'roseau' is R.
+
+Q: What is the first letter of 'gaborone'?
+A: The first letter of 'gaborone' is G.
+
+Q: What is the last letter of 'rupiah'?
+A: The last letter of 'rupiah' is H.
+
+Q: How do you sort 13, 22, and 27?
+A: In order, they are 13 22 27.
+
+Q: How do you sort 584, 332, and 717?
+A: In order, they are 332 584 717.
+
+Q: How do you sort 7, 13, and 24?
+A: In order, they are 7 13 24.
+
+Q: How do you sort 334, 972, and 654?
+A: In order, they are 334 654 972.
+
+Q: How do you sort 8, 4, and 21?
+A: In order, they are 4 8 21.
+
+Q: How do you sort 130, 101, and 957?
+A: In order, they are 101 130 957.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
