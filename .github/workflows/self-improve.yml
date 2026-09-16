@@ -35,7 +35,6 @@ permissions:
   actions: write
   issues: write
   pull-requests: write
-  metadata: read
 
 jobs:
   improve:
