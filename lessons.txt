@@ -12990,3 +12990,128 @@ A: The last letter of 'cameroon' is N.
 
 Q: What is the first letter of 'promethium'?
 A: The first letter of 'promethium' is P.
+Q: What is the first letter of 'tonga'?
+A: The first letter of 'tonga' is T.
+
+Q: What is the last letter of 'early'?
+A: The last letter of 'early' is Y.
+
+Q: What is the last letter of 'italy'?
+A: The last letter of 'italy' is Y.
+
+Q: What is the last letter of 'dog'?
+A: The last letter of 'dog' is G.
+
+Q: What is the first letter of 'pretoria'?
+A: The first letter of 'pretoria' is P.
+
+Q: What is the last letter of 'jakarta'?
+A: The last letter of 'jakarta' is A.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is double 30?
+A: Double 30 is 60.
+
+Q: What is double 37?
+A: Double 37 is 74.
+
+Q: What is double 56?
+A: Double 56 is 112.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: What is the capital of Kuwait?
+A: The capital of Kuwait is Kuwait City.
+
+Q: What is the capital of Laos?
+A: The capital of Laos is Vientiane.
+
+Q: What is the capital of Kazakhstan?
+A: The capital of Kazakhstan is Astana.
+
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: How many letters does the word 'plutonium' have?
+A: The word 'plutonium' has 9 letters.
+
+Q: How many letters does the word 'shekel' have?
+A: The word 'shekel' has 6 letters.
+
+Q: How many letters does the word 'brazil' have?
+A: The word 'brazil' has 6 letters.
+
+Q: How many letters does the word 'brazil' have?
+A: The word 'brazil' has 6 letters.
+
+Q: How many letters does the word 'bern' have?
+A: The word 'bern' has 4 letters.
+
+Q: How many letters does the word 'uzbekistan' have?
+A: The word 'uzbekistan' has 10 letters.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the Roman numeral for 74?
+A: The Roman numeral for 74 is lxxiv.
+
+Q: What number is the Roman numeral dccxcv?
+A: The Roman numeral dccxcv is the number 795.
+
+Q: What is the Roman numeral for 55?
+A: The Roman numeral for 55 is lv.
+
+Q: What is the Roman numeral for 249?
+A: The Roman numeral for 249 is ccxlix.
+
+Q: What is the Roman numeral for 1?
+A: The Roman numeral for 1 is i.
+
+Q: What is the Roman numeral for 40?
+A: The Roman numeral for 40 is xl.
