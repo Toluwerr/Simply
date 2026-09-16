@@ -1957,3 +1957,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.48 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-lls at that the letter of that knetts'."
 
+## Iteration 236 - NO_GAIN
+- **when**: 2026-09-16T23:19:23Z
+- **train loss**: 1.0880 | **val loss**: 0.6792 | **run best**: 0.6721
+- **corpus**: 172,612 chars (+3 self-written examples)
+- **internet reading**: +30 articles, +16 facts (330 read all-time)
+- **lr**: 0.0003 | **steps**: 150
+- **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"Dou spell 'fouse'train' means not work."
+

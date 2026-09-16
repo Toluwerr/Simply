@@ -16559,3 +16559,128 @@ A: The chemical symbol for hafnium is Hf.
 
 Q: Which element has the chemical symbol S?
 A: S is the chemical symbol for sulfur.
+Q: What is the hardest natural substance?
+A: Diamond is the hardest natural substance.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
+
+Q: What is 10 times 11?
+A: 10 times 11 is 110.
+
+Q: What is 887 minus 877?
+A: 887 minus 877 is 10.
+
+Q: What is 12 minus 4?
+A: 12 minus 4 is 8.
+
+Q: What is 4 plus 18?
+A: 4 plus 18 is 22.
+
+Q: What is 27 plus 27?
+A: 27 plus 27 is 54.
+
+Q: What is 759 plus 935?
+A: 759 plus 935 is 1694.
+
+Q: How many letters does the word 'belize' have?
+A: The word 'belize' has 6 letters.
+
+Q: How many letters does the word 'kitts' have?
+A: The word 'kitts' has 5 letters.
+
+Q: How many letters does the word 'albania' have?
+A: The word 'albania' has 7 letters.
+
+Q: How many letters does the word 'earth' have?
+A: The word 'earth' has 5 letters.
+
+Q: How many letters does the word 'hot' have?
+A: The word 'hot' has 3 letters.
+
+Q: How many letters does the word 'kentucky' have?
+A: The word 'kentucky' has 8 letters.
+
+Q: How do you sort 1, 18, and 29?
+A: In order, they are 1 18 29.
+
+Q: How do you sort 11, 6, and 8?
+A: In order, they are 6 8 11.
+
+Q: How do you sort 395, 887, and 634?
+A: In order, they are 395 634 887.
+
+Q: How do you sort 2, 5, and 12?
+A: In order, they are 2 5 12.
+
+Q: How do you sort 789, 545, and 773?
+A: In order, they are 545 773 789.
+
+Q: How do you sort 23, 25, and 26?
+A: In order, they are 23 25 26.
+
+Q: What number is the Roman numeral xix?
+A: The Roman numeral xix is the number 19.
+
+Q: What is the Roman numeral for 61?
+A: The Roman numeral for 61 is lxi.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What number is the Roman numeral lxiv?
+A: The Roman numeral lxiv is the number 64.
+
+Q: What number is the Roman numeral xxxv?
+A: The Roman numeral xxxv is the number 35.
+
+Q: What number is the Roman numeral dci?
+A: The Roman numeral dci is the number 601.
+
+Q: How do you write 22 in words?
+A: 22 in words is twenty-two.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: Is 19 bigger than 8?
+A: Yes, 19 is bigger than 8.
+
+Q: Is 338 bigger than 900?
+A: No, 900 is bigger than 338.
+
+Q: Is 12 bigger than 4?
+A: Yes, 12 is bigger than 4.
+
+Q: Which is bigger, 17 or 16?
+A: 17 is bigger than 16.
+
+Q: Which is bigger, 22 or 15?
+A: 22 is bigger than 15.
+
+Q: Which is bigger, 66 or 24?
+A: 66 is bigger than 24.

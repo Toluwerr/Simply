@@ -1,0 +1,8 @@
+Q: How many letters does the word 'pium' have?
+A: The word 'not' has 4 letters.
+
+Q: What is the opposite of 'first'?
+A: 'last' is the opposite 'empty'.
+
+Q: What is double 55?
+A: Double 55 is 110.
