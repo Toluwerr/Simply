@@ -1554,3 +1554,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.09 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: months 1.00, continents 1.00, reading 0.00
 - self-portrait, asked "Who are you?": *"94 in a yard."
 
+## Iteration 193 - IMPROVED
+- **when**: 2026-09-16T22:40:52Z
+- **train loss**: 1.9589 | **val loss**: 0.8447 | **run best**: 0.8447
+- **corpus**: 157,749 chars (+0 self-written examples)
+- **internet reading**: +30 articles, +17 facts (180 read all-time)
+- **lr**: 0.0030 | **steps**: 150
+- **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: opposites 1.00, reading 0.00, definitions 0.00
+- self-portrait, asked "Who are you?": *"A col'."
+
