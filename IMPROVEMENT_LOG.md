@@ -2495,3 +2495,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.57 | weakest: arithmetic 0.00, compare 0.00, numwords 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-style air."
 
+## Promotion - v25 - weights committed
+- **reason**: knowledge 0.74, was 0.65; val 0.6913
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-style that improve 80-sty."
+
