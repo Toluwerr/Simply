@@ -1361,3 +1361,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: knowledge 0.43, was 0.30; val 0.3838
 - self-portrait, asked "Who are you?": *"I camba i s the condardon fundstial."
 
+## Iteration 172 - NO_GAIN
+- **when**: 2026-09-16T20:27:42Z
+- **train loss**: 0.7654 | **val loss**: 0.4027 | **run best**: 0.3838
+- **corpus**: 156,166 chars (+2 self-written examples)
+- **internet reading**: +30 articles, +7 facts (150 read all-time)
+- **lr**: 0.0015 | **steps**: 200
+- **knowledge quiz**: avg 0.30 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: opposites 1.00, animals 1.00, units 1.00
+- self-portrait, asked "Who are you?": *"I am Shat Itatan a Mongoly, in Mich."
+

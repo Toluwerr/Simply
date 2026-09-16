@@ -9153,3 +9153,110 @@ A: The currency of the United States is the dollar.
 
 Q: What currency does Uruguay use?
 A: The currency of Uruguay is the peso.
+Q: What is 74 plus 88?
+A: 74 plus 88 is 162.
+
+Q: What is 6 plus 14?
+A: 6 plus 14 is 20.
+
+Q: What is 91 minus 64?
+A: 91 minus 64 is 27.
+
+Q: What is 10 plus 16?
+A: 10 plus 16 is 26.
+
+Q: What is 883 minus 637?
+A: 883 minus 637 is 246.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: What is the capital of Iran?
+A: The capital of Iran is Tehran.
+
+Q: What is the capital of Botswana?
+A: The capital of Botswana is Gaborone.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: What is the capital of Somalia?
+A: The capital of Somalia is Mogadishu.
+
+Q: How many letters does the word 'kazakhstan' have?
+A: The word 'kazakhstan' has 10 letters.
+
+Q: How many letters does the word 'dushanbe' have?
+A: The word 'dushanbe' has 8 letters.
+
+Q: How many letters does the word 'wizard' have?
+A: The word 'wizard' has 6 letters.
+
+Q: How many letters does the word 'brunei' have?
+A: The word 'brunei' has 6 letters.
+
+Q: How many letters does the word 'cedi' have?
+A: The word 'cedi' has 4 letters.
+
+Q: How many letters does the word 'paris' have?
+A: The word 'paris' has 5 letters.
+
+Q: What continent is Malta on?
+A: Malta is on the continent of Europe.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What continent is Mongolia on?
+A: Mongolia is on the continent of Asia.
+
+Q: What continent is Burundi on?
+A: Burundi is on the continent of Africa.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: What continent is Kenya on?
+A: Kenya is on the continent of Africa.
+
+Q: How do you sort 12, 3, and 24?
+A: In order, they are 3 12 24.
+
+Q: How do you sort 27, 28, and 17?
+A: In order, they are 17 27 28.
+
+Q: How do you sort 4, 17, and 29?
+A: In order, they are 4 17 29.
+
+Q: How do you sort 634, 740, and 386?
+A: In order, they are 386 634 740.
+
+Q: How do you sort 6, 19, and 10?
+A: In order, they are 6 10 19.
+
+Q: How do you sort 19, 9, and 15?
+A: In order, they are 9 15 19.
+
+Q: What is the first letter of 'oklahoma'?
+A: The first letter of 'oklahoma' is O.
+
+Q: What is the last letter of 'maputo'?
+A: The last letter of 'maputo' is O.
+
+Q: What is the last letter of 'seri'?
+A: The last letter of 'seri' is I.
+
+Q: What is the first letter of 'generous'?
+A: The first letter of 'generous' is G.
+
+Q: What is the first letter of 'tuvalu'?
+A: The first letter of 'tuvalu' is T.
+
+Q: What is the last letter of 'montevideo'?
+A: The last letter of 'montevideo' is O.
