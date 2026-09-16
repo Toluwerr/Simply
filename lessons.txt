@@ -20912,3 +20912,110 @@ A: The chemical symbol for tungsten is W.
 
 Q: Which element has the chemical symbol Ra?
 A: Ra is the chemical symbol for radium.
+Q: What is the first letter of 'hryvnia'?
+A: The first letter of 'hryvnia' is H.
+
+Q: What is the last letter of 'riyadh'?
+A: The last letter of 'riyadh' is H.
+
+Q: What is the last letter of 'austin'?
+A: The last letter of 'austin' is N.
+
+Q: What is the first letter of 'hiss'?
+A: The first letter of 'hiss' is H.
+
+Q: What is the last letter of 'yaounde'?
+A: The last letter of 'yaounde' is E.
+
+Q: What is the first letter of 'salt'?
+A: The first letter of 'salt' is S.
+
+Q: What is the capital of Bahrain?
+A: The capital of Bahrain is Manama.
+
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+
+Q: What is the capital of Uzbekistan?
+A: The capital of Uzbekistan is Tashkent.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of Montenegro?
+A: The capital of Montenegro is Podgorica.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+
+Q: How many letters does the word 'colombia' have?
+A: The word 'colombia' has 8 letters.
+
+Q: How many letters does the word 'kip' have?
+A: The word 'kip' has 3 letters.
+
+Q: How many letters does the word 'koala' have?
+A: The word 'koala' has 5 letters.
+
+Q: How many letters does the word 'peaceful' have?
+A: The word 'peaceful' has 8 letters.
+
+Q: How many letters does the word 'baton' have?
+A: The word 'baton' has 5 letters.
+
+Q: How many letters does the word 'augusta' have?
+A: The word 'augusta' has 7 letters.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the Roman numeral for 97?
+A: The Roman numeral for 97 is xcvii.
+
+Q: What number is the Roman numeral lxxxvii?
+A: The Roman numeral lxxxvii is the number 87.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What number is the Roman numeral xlv?
+A: The Roman numeral xlv is the number 45.
+
+Q: What is the Roman numeral for 42?
+A: The Roman numeral for 42 is xlii.
+
+Q: What number is the Roman numeral cdxx?
+A: The Roman numeral cdxx is the number 420.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by fives from 35 to 55?
+A: Counting by fives gives 35 40 45 50 55.
+
+Q: Can you count by ones from 10 to 15?
+A: Counting by ones gives 10 11 12 13 14 15.
+
+Q: Can you count by fives from 20 to 35?
+A: Counting by fives gives 20 25 30 35.
+
+Q: Can you count by twos from 18 to 24?
+A: Counting by twos gives 18 20 22 24.

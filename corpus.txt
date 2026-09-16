@@ -8767,3 +8767,16 @@ A: Half of 38 is 19.
 
 Q: What continent is Togo on?
 A: Togo is on the continent of Africa.
+
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What continent is Australia on?
+A: Australia is on the continent of Australia.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 is 0 polite and it mmuch.
+
+Q: What continent is Eswatini on?
+A: Eswatini is on the continent of Africa.

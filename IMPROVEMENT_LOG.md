@@ -2320,3 +2320,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.57 | weakest: arithmetic 0.00, sort 0.00, count 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, thank you! You loop next it use the turtle breet and and on a found a shiny key. Stars were still out. It was a good day for an adventure."
 
+## Iteration 275 - NO_GAIN
+- **when**: 2026-09-16T23:46:05Z
+- **train loss**: 0.8035 | **val loss**: 0.7124 | **run best**: 0.6823
+- **corpus**: 193,140 chars (+4 self-written examples)
+- **internet reading**: +30 articles, +12 facts (450 read all-time)
+- **lr**: 0.0008 | **steps**: 150
+- **knowledge quiz**: avg 0.43 | weakest: arithmetic 0.00, sort 0.00, numwords 0.00 | strongest: opposites 1.00, animals 1.00, records 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-style still small."
+
