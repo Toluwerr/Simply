@@ -20573,3 +20573,110 @@ A: The last letter of 'lucia' is A.
 
 Q: What is the first letter of 'nauru'?
 A: The first letter of 'nauru' is N.
+Q: What is the capital of Barbados?
+A: The capital of Barbados is Bridgetown.
+
+Q: What is the capital of Mauritius?
+A: The capital of Mauritius is Port Louis.
+
+Q: What is the capital of Belgium?
+A: The capital of Belgium is Brussels.
+
+Q: What is the capital of Zimbabwe?
+A: The capital of Zimbabwe is Harare.
+
+Q: What is the capital of Laos?
+A: The capital of Laos is Vientiane.
+
+Q: What is the capital of Micronesia?
+A: The capital of Micronesia is Palikir.
+
+Q: How do you sort 672, 854, and 951?
+A: In order, they are 672 854 951.
+
+Q: How do you sort 28, 8, and 17?
+A: In order, they are 8 17 28.
+
+Q: How do you sort 905, 369, and 345?
+A: In order, they are 345 369 905.
+
+Q: How do you sort 9, 10, and 1?
+A: In order, they are 1 9 10.
+
+Q: How do you sort 7, 19, and 28?
+A: In order, they are 7 19 28.
+
+Q: How do you sort 920, 595, and 912?
+A: In order, they are 595 912 920.
+
+Q: What is the Roman numeral for 6?
+A: The Roman numeral for 6 is vi.
+
+Q: What is the Roman numeral for 10?
+A: The Roman numeral for 10 is x.
+
+Q: What is the Roman numeral for 36?
+A: The Roman numeral for 36 is xxxvi.
+
+Q: What is the Roman numeral for 424?
+A: The Roman numeral for 424 is cdxxiv.
+
+Q: What number is the Roman numeral xiv?
+A: The Roman numeral xiv is the number 14.
+
+Q: What is the Roman numeral for 58?
+A: The Roman numeral for 58 is lviii.
+
+Q: Is 192 bigger than 681?
+A: No, 681 is bigger than 192.
+
+Q: Is 37 bigger than 83?
+A: No, 83 is bigger than 37.
+
+Q: Which is bigger, 64 or 49?
+A: 64 is bigger than 49.
+
+Q: Is 5 bigger than 2?
+A: Yes, 5 is bigger than 2.
+
+Q: Is 51 bigger than 20?
+A: Yes, 51 is bigger than 20.
+
+Q: Which is bigger, 41 or 63?
+A: 63 is bigger than 41.
+
+Q: What is the chemical symbol for chromium?
+A: The chemical symbol for chromium is Cr.
+
+Q: What is the chemical symbol for samarium?
+A: The chemical symbol for samarium is Sm.
+
+Q: Which element has the chemical symbol Cs?
+A: Cs is the chemical symbol for cesium.
+
+Q: Which element has the chemical symbol Y?
+A: Y is the chemical symbol for yttrium.
+
+Q: Which element has the chemical symbol Os?
+A: Os is the chemical symbol for osmium.
+
+Q: Which element has the chemical symbol Ru?
+A: Ru is the chemical symbol for ruthenium.
+
+Q: How many letters does the word 'franc' have?
+A: The word 'franc' has 5 letters.
+
+Q: How many letters does the word 'germany' have?
+A: The word 'germany' has 7 letters.
+
+Q: How many letters does the word 'belarus' have?
+A: The word 'belarus' has 7 letters.
+
+Q: How many letters does the word 'niamey' have?
+A: The word 'niamey' has 6 letters.
+
+Q: How many letters does the word 'begawan' have?
+A: The word 'begawan' has 7 letters.
+
+Q: How many letters does the word 'cautious' have?
+A: The word 'cautious' has 8 letters.

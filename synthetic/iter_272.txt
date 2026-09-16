@@ -1,0 +1,17 @@
+Q: Which is bigger, 28 or 92?
+A: 92 is bigger than 61.
+
+Q: How do you sort 1, 14, and 22?
+A: In order, they are 1 14 22.
+
+Q: What is half of 58?
+A: Half of 58 is 29.
+
+Q: How do you sort 11, 21, and 20?
+A: In order, they are 11 20 21.
+
+Q: How do you sort 5, 14, and 20?
+A: In order, they are 5 14 20.
+
+Q: How do you sort 21, 7, and 17?
+A: In order, they are 7 17 21.
