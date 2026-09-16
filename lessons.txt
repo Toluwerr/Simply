@@ -11830,3 +11830,128 @@ A: In order, they are 3 9 15.
 
 Q: How do you sort 449, 998, and 588?
 A: In order, they are 449 588 998.
+Q: What is the last letter of 'kingdom'?
+A: The last letter of 'kingdom' is M.
+
+Q: What is the last letter of 'active'?
+A: The last letter of 'active' is E.
+
+Q: What is the last letter of 'may'?
+A: The last letter of 'may' is Y.
+
+Q: What is the last letter of 'gabon'?
+A: The last letter of 'gabon' is N.
+
+Q: What is the last letter of 'liechtenstein'?
+A: The last letter of 'liechtenstein' is N.
+
+Q: What is the last letter of 'cedi'?
+A: The last letter of 'cedi' is I.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: What is half of 20?
+A: Half of 20 is 10.
+
+Q: What is double 51?
+A: Double 51 is 102.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is double 48?
+A: Double 48 is 96.
+
+Q: What is double 45?
+A: Double 45 is 90.
+
+Q: What is double 41?
+A: Double 41 is 82.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 97 in words?
+A: 97 in words is ninety-seven.
+
+Q: How do you write 6 in words?
+A: 6 in words is six.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 37 in words?
+A: 37 in words is thirty-seven.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: What is the capital of Tanzania?
+A: The capital of Tanzania is Dodoma.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What is the capital of Sierra Leone?
+A: The capital of Sierra Leone is Freetown.
+
+Q: What is the capital of Somalia?
+A: The capital of Somalia is Mogadishu.
+
+Q: What is the capital of Tunisia?
+A: The capital of Tunisia is Tunis.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
