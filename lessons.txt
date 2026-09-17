@@ -29574,3 +29574,170 @@ A: 39 in words is thirty-nine.
 
 Q: How do you write 86 in words?
 A: 86 in words is eighty-six.
+Q: Is 81 bigger than 95?
+A: No, 95 is bigger than 81.
+
+Q: Which is bigger, 64 or 36?
+A: 64 is bigger than 36.
+
+Q: Is 38 bigger than 47?
+A: No, 47 is bigger than 38.
+
+Q: Is 191 bigger than 457?
+A: No, 457 is bigger than 191.
+
+Q: Is 58 bigger than 30?
+A: Yes, 58 is bigger than 30.
+
+Q: Which is bigger, 883 or 106?
+A: 883 is bigger than 106.
+
+Q: Which is bigger, 7 or 16?
+A: 16 is bigger than 7.
+
+Q: Is 45 bigger than 84?
+A: No, 84 is bigger than 45.
+
+Q: How many letters does the word 'peaceful' have?
+A: The word 'peaceful' has 8 letters.
+
+Q: How many letters does the word 'tonga' have?
+A: The word 'tonga' has 5 letters.
+
+Q: How many letters does the word 'jerusalem' have?
+A: The word 'jerusalem' has 9 letters.
+
+Q: How many letters does the word 'denver' have?
+A: The word 'denver' has 6 letters.
+
+Q: How many letters does the word 'bottle' have?
+A: The word 'bottle' has 6 letters.
+
+Q: How many letters does the word 'won' have?
+A: The word 'won' has 3 letters.
+
+Q: How many letters does the word 'tenge' have?
+A: The word 'tenge' has 5 letters.
+
+Q: How many letters does the word 'hiss' have?
+A: The word 'hiss' has 4 letters.
+
+Q: How do you sort 479, 150, and 683?
+A: In order, they are 150 479 683.
+
+Q: How do you sort 896, 583, and 41?
+A: In order, they are 41 583 896.
+
+Q: How do you sort 10, 29, and 8?
+A: In order, they are 8 10 29.
+
+Q: How do you sort 106, 870, and 559?
+A: In order, they are 106 559 870.
+
+Q: How do you sort 488, 547, and 911?
+A: In order, they are 488 547 911.
+
+Q: How do you sort 338, 883, and 127?
+A: In order, they are 127 338 883.
+
+Q: How do you sort 729, 878, and 989?
+A: In order, they are 729 878 989.
+
+Q: How do you sort 532, 843, and 453?
+A: In order, they are 453 532 843.
+
+Q: What continent is Romania on?
+A: Romania is on the continent of Europe.
+
+Q: What continent is Canada on?
+A: Canada is on the continent of North America.
+
+Q: What continent is Cameroon on?
+A: Cameroon is on the continent of Africa.
+
+Q: What continent is Vatican City on?
+A: Vatican City is on the continent of Europe.
+
+Q: What continent is Burkina Faso on?
+A: Burkina Faso is on the continent of Africa.
+
+Q: What continent is the Netherlands on?
+A: the Netherlands is on the continent of Europe.
+
+Q: What continent is Japan on?
+A: Japan is on the continent of Asia.
+
+Q: What continent is Libya on?
+A: Libya is on the continent of Africa.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 45 in words?
+A: 45 in words is forty-five.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: What is the capital of Namibia?
+A: The capital of Namibia is Windhoek.
+
+Q: What is the capital of the United Arab Emirates?
+A: The capital of the United Arab Emirates is Abu Dhabi.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: What is the capital of Serbia?
+A: The capital of Serbia is Belgrade.
+
+Q: What is the capital of Iceland?
+A: The capital of Iceland is Reykjavik.
+
+Q: What is the capital of Angola?
+A: The capital of Angola is Luanda.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
