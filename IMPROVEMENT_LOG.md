@@ -2683,3 +2683,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.78 | weakest: spelling 0.00, capitals 0.00, continents 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-stystyribts Early, and straw 78."
 
+## Promotion - v27 - weights committed
+- **reason**: knowledge 0.78, was 0.65; val 0.6988
+- self-portrait, asked "Who are you?": *"I am Simply, a tipt language."
+
