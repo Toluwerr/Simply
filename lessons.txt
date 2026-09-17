@@ -52590,3 +52590,170 @@ A: 92 is bigger than 44.
 
 Q: Is 10 bigger than 11?
 A: No, 11 is bigger than 10.
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What continent is South Sudan on?
+A: South Sudan is on the continent of Africa.
+
+Q: What continent is Spain on?
+A: Spain is on the continent of Europe.
+
+Q: What continent is Latvia on?
+A: Latvia is on the continent of Europe.
+
+Q: What continent is the Philippines on?
+A: the Philippines is on the continent of Asia.
+
+Q: What continent is Poland on?
+A: Poland is on the continent of Europe.
+
+Q: What continent is Iran on?
+A: Iran is on the continent of Asia.
+
+Q: What continent is Malawi on?
+A: Malawi is on the continent of Africa.
+
+Q: What continent is Moldova on?
+A: Moldova is on the continent of Europe.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What is the capital of Iceland?
+A: The capital of Iceland is Reykjavik.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: What is the capital of Pakistan?
+A: The capital of Pakistan is Islamabad.
+
+Q: What is the capital of Croatia?
+A: The capital of Croatia is Zagreb.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of Palau?
+A: The capital of Palau is Ngerulmud.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 49 in words?
+A: 49 in words is forty-nine.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 99 in words?
+A: 99 in words is ninety-nine.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you sort 2, 8, and 15?
+A: In order, they are 2 8 15.
+
+Q: How do you sort 13, 1, and 15?
+A: In order, they are 1 13 15.
+
+Q: How do you sort 6, 9, and 3?
+A: In order, they are 3 6 9.
+
+Q: How do you sort 2, 28, and 11?
+A: In order, they are 2 11 28.
+
+Q: How do you sort 8, 11, and 17?
+A: In order, they are 8 11 17.
+
+Q: How do you sort 404, 639, and 130?
+A: In order, they are 130 404 639.
+
+Q: How do you sort 8, 19, and 11?
+A: In order, they are 8 11 19.
+
+Q: How do you sort 24, 21, and 10?
+A: In order, they are 10 21 24.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
