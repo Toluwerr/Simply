@@ -10413,3 +10413,10 @@ A: Counting by tens gives 10 20 30 40 50 60.
 
 Q: How many letters does the word 'henium' have?
 A: The word 'wanda' has 6 letters.
+
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 polite than it at it winds and finds!
+
+Q: What is 0 times 14?
+A: 0 times 14 is 0.

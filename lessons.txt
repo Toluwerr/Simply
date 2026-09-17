@@ -27191,3 +27191,128 @@ A: A dog says 'woof'.
 
 Q: What sound does a bee make?
 A: A bee says 'buzz'.
+Q: What is half of 58?
+A: Half of 58 is 29.
+
+Q: What is double 10?
+A: Double 10 is 20.
+
+Q: What is double 29?
+A: Double 29 is 58.
+
+Q: What is double 44?
+A: Double 44 is 88.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is double 25?
+A: Double 25 is 50.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What is the chemical symbol for oxygen?
+A: The chemical symbol for oxygen is O.
+
+Q: Which element has the chemical symbol Am?
+A: Am is the chemical symbol for americium.
+
+Q: What is the chemical symbol for chromium?
+A: The chemical symbol for chromium is Cr.
+
+Q: Which element has the chemical symbol In?
+A: In is the chemical symbol for indium.
+
+Q: Which element has the chemical symbol Si?
+A: Si is the chemical symbol for silicon.
+
+Q: Which element has the chemical symbol Tm?
+A: Tm is the chemical symbol for thulium.
+
+Q: What currency does South Korea use?
+A: The currency of South Korea is the won.
+
+Q: What currency does Qatar use?
+A: The currency of Qatar is the riyal.
+
+Q: What currency does Bolivia use?
+A: The currency of Bolivia is the boliviano.
+
+Q: What currency does Taiwan use?
+A: The currency of Taiwan is the dollar.
+
+Q: What currency does Azerbaijan use?
+A: The currency of Azerbaijan is the manat.
+
+Q: What currency does Uganda use?
+A: The currency of Uganda is the shilling.
+
+Q: What is the Roman numeral for 24?
+A: The Roman numeral for 24 is xxiv.
+
+Q: What is the Roman numeral for 1?
+A: The Roman numeral for 1 is i.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: What number is the Roman numeral ix?
+A: The Roman numeral ix is the number 9.
+
+Q: What is the Roman numeral for 432?
+A: The Roman numeral for 432 is cdxxxii.
+
+Q: What number is the Roman numeral xxv?
+A: The Roman numeral xxv is the number 25.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
