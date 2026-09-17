@@ -25472,3 +25472,170 @@ A: 53 is bigger than 15.
 
 Q: Which is bigger, 447 or 534?
 A: 534 is bigger than 447.
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What continent is Greece on?
+A: Greece is on the continent of Europe.
+
+Q: What continent is Mali on?
+A: Mali is on the continent of Africa.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: What continent is South Korea on?
+A: South Korea is on the continent of Asia.
+
+Q: What continent is North Korea on?
+A: North Korea is on the continent of Asia.
+
+Q: What continent is China on?
+A: China is on the continent of Asia.
+
+Q: What continent is South Sudan on?
+A: South Sudan is on the continent of Africa.
+
+Q: What continent is France on?
+A: France is on the continent of Europe.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: What is the capital of Iraq?
+A: The capital of Iraq is Baghdad.
+
+Q: What is the capital of Malaysia?
+A: The capital of Malaysia is Kuala Lumpur.
+
+Q: What is the capital of Bulgaria?
+A: The capital of Bulgaria is Sofia.
+
+Q: What is the capital of Malawi?
+A: The capital of Malawi is Lilongwe.
+
+Q: What is the capital of Chad?
+A: The capital of Chad is N'Djamena.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What is the capital of Haiti?
+A: The capital of Haiti is Port-au-Prince.
+
+Q: How do you write 50 in words?
+A: 50 in words is fifty.
+
+Q: How do you write 99 in words?
+A: 99 in words is ninety-nine.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: How do you write 52 in words?
+A: 52 in words is fifty-two.
+
+Q: How do you write 60 in words?
+A: 60 in words is sixty.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: How do you sort 24, 29, and 21?
+A: In order, they are 21 24 29.
+
+Q: How do you sort 18, 23, and 12?
+A: In order, they are 12 18 23.
+
+Q: How do you sort 26, 15, and 20?
+A: In order, they are 15 20 26.
+
+Q: How do you sort 28, 29, and 1?
+A: In order, they are 1 28 29.
+
+Q: How do you sort 8, 25, and 6?
+A: In order, they are 6 8 25.
+
+Q: How do you sort 18, 21, and 12?
+A: In order, they are 12 18 21.
+
+Q: How do you sort 12, 14, and 23?
+A: In order, they are 12 14 23.
+
+Q: How do you sort 13, 18, and 8?
+A: In order, they are 8 13 18.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.

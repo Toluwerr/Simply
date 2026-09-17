@@ -3951,3 +3951,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"The Roman numf ' is the from 50."
 
+## Iteration 450 - NO_GAIN
+- **when**: 2026-09-17T03:32:16Z
+- **train loss**: 2.6658 | **val loss**: 1.9453 | **run best**: 1.9416
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +24 facts (1,075 read all-time)
+- **lr**: 0.0003 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"How many lett does the word, ' has 4 letters."
+
