@@ -24494,3 +24494,170 @@ A: The capital of Eswatini is Mbabane.
 
 Q: What is the capital of Nauru?
 A: The capital of Nauru is Yaren.
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: Which element has the chemical symbol Hf?
+A: Hf is the chemical symbol for hafnium.
+
+Q: Which element has the chemical symbol Ru?
+A: Ru is the chemical symbol for ruthenium.
+
+Q: What is the chemical symbol for beryllium?
+A: The chemical symbol for beryllium is Be.
+
+Q: Which element has the chemical symbol Pt?
+A: Pt is the chemical symbol for platinum.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: Which element has the chemical symbol Y?
+A: Y is the chemical symbol for yttrium.
+
+Q: What is the chemical symbol for platinum?
+A: The chemical symbol for platinum is Pt.
+
+Q: Which element has the chemical symbol Ag?
+A: Ag is the chemical symbol for silver.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the Roman numeral for 617?
+A: The Roman numeral for 617 is dcxvii.
+
+Q: What number is the Roman numeral lxxxi?
+A: The Roman numeral lxxxi is the number 81.
+
+Q: What is the Roman numeral for 6?
+A: The Roman numeral for 6 is vi.
+
+Q: What is the Roman numeral for 917?
+A: The Roman numeral for 917 is cmxvii.
+
+Q: What number is the Roman numeral iii?
+A: The Roman numeral iii is the number 3.
+
+Q: What number is the Roman numeral lxix?
+A: The Roman numeral lxix is the number 69.
+
+Q: What number is the Roman numeral ccv?
+A: The Roman numeral ccv is the number 205.
+
+Q: What number is the Roman numeral cdxvi?
+A: The Roman numeral cdxvi is the number 416.
+
+Q: What is the last letter of 'missouri'?
+A: The last letter of 'missouri' is I.
+
+Q: What is the first letter of 'lansing'?
+A: The first letter of 'lansing' is L.
+
+Q: What is the last letter of 'bangladesh'?
+A: The last letter of 'bangladesh' is H.
+
+Q: What is the last letter of 'malta'?
+A: The last letter of 'malta' is A.
+
+Q: What is the first letter of 'planet'?
+A: The first letter of 'planet' is P.
+
+Q: What is the first letter of 'muscat'?
+A: The first letter of 'muscat' is M.
+
+Q: What is the first letter of 'cedi'?
+A: The first letter of 'cedi' is C.
+
+Q: What is the last letter of 'belgrade'?
+A: The last letter of 'belgrade' is E.
+
+Q: Is 7 bigger than 17?
+A: No, 17 is bigger than 7.
+
+Q: Which is bigger, 16 or 12?
+A: 16 is bigger than 12.
+
+Q: Which is bigger, 11 or 17?
+A: 17 is bigger than 11.
+
+Q: Which is bigger, 41 or 91?
+A: 91 is bigger than 41.
+
+Q: Which is bigger, 34 or 69?
+A: 69 is bigger than 34.
+
+Q: Which is bigger, 15 or 20?
+A: 20 is bigger than 15.
+
+Q: Is 15 bigger than 19?
+A: No, 19 is bigger than 15.
+
+Q: Is 90 bigger than 13?
+A: Yes, 90 is bigger than 13.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is half of 38?
+A: Half of 38 is 19.
+
+Q: What is double 28?
+A: Double 28 is 56.
+
+Q: What is half of 52?
+A: Half of 52 is 26.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is double 4?
+A: Double 4 is 8.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is half of 50?
+A: Half of 50 is 25.
