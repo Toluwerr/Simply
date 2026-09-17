@@ -38485,3 +38485,170 @@ A: 386 minus 90 is 296.
 
 Q: What is 3 times 2?
 A: 3 times 2 is 6.
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: Which element has the chemical symbol Br?
+A: Br is the chemical symbol for bromine.
+
+Q: What is the chemical symbol for magnesium?
+A: The chemical symbol for magnesium is Mg.
+
+Q: What is the chemical symbol for thallium?
+A: The chemical symbol for thallium is Tl.
+
+Q: What is the chemical symbol for uranium?
+A: The chemical symbol for uranium is U.
+
+Q: What is the chemical symbol for thulium?
+A: The chemical symbol for thulium is Tm.
+
+Q: Which element has the chemical symbol Ne?
+A: Ne is the chemical symbol for neon.
+
+Q: What is the chemical symbol for iridium?
+A: The chemical symbol for iridium is Ir.
+
+Q: What is the chemical symbol for carbon?
+A: The chemical symbol for carbon is C.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What number is the Roman numeral xxii?
+A: The Roman numeral xxii is the number 22.
+
+Q: What is the Roman numeral for 65?
+A: The Roman numeral for 65 is lxv.
+
+Q: What is the Roman numeral for 54?
+A: The Roman numeral for 54 is liv.
+
+Q: What is the Roman numeral for 48?
+A: The Roman numeral for 48 is xlviii.
+
+Q: What number is the Roman numeral ix?
+A: The Roman numeral ix is the number 9.
+
+Q: What number is the Roman numeral cccxcv?
+A: The Roman numeral cccxcv is the number 395.
+
+Q: What is the Roman numeral for 52?
+A: The Roman numeral for 52 is lii.
+
+Q: What is the Roman numeral for 68?
+A: The Roman numeral for 68 is lxviii.
+
+Q: What is the last letter of 'botswana'?
+A: The last letter of 'botswana' is A.
+
+Q: What is the first letter of 'prague'?
+A: The first letter of 'prague' is P.
+
+Q: What is the last letter of 'hydrogen'?
+A: The last letter of 'hydrogen' is N.
+
+Q: What is the first letter of 'suva'?
+A: The first letter of 'suva' is S.
+
+Q: What is the first letter of 'madagascar'?
+A: The first letter of 'madagascar' is M.
+
+Q: What is the first letter of 'paz'?
+A: The first letter of 'paz' is P.
+
+Q: What is the last letter of 'guinea'?
+A: The last letter of 'guinea' is A.
+
+Q: What is the last letter of 'kyiv'?
+A: The last letter of 'kyiv' is V.
+
+Q: Is 15 bigger than 2?
+A: Yes, 15 is bigger than 2.
+
+Q: Is 13 bigger than 17?
+A: No, 17 is bigger than 13.
+
+Q: Which is bigger, 18 or 5?
+A: 18 is bigger than 5.
+
+Q: Which is bigger, 503 or 607?
+A: 607 is bigger than 503.
+
+Q: Which is bigger, 617 or 484?
+A: 617 is bigger than 484.
+
+Q: Which is bigger, 33 or 44?
+A: 44 is bigger than 33.
+
+Q: Which is bigger, 249 or 483?
+A: 483 is bigger than 249.
+
+Q: Which is bigger, 24 or 87?
+A: 87 is bigger than 24.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is double 36?
+A: Double 36 is 72.
+
+Q: What is half of 34?
+A: Half of 34 is 17.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is half of 38?
+A: Half of 38 is 19.
+
+Q: What is half of 34?
+A: Half of 34 is 17.

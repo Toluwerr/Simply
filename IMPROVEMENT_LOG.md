@@ -6520,3 +6520,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Fuden is butia is by from the sun?"
 
+## Iteration 727 - IMPROVED
+- **when**: 2026-09-17T15:43:01Z
+- **train loss**: 2.3501 | **val loss**: 1.3632 | **run best**: 1.3632
+- **corpus**: 284,554 chars (+0 self-written examples)
+- **internet reading**: +54 articles, +26 facts (2,749 read all-time)
+- **lr**: 0.0003 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Theital of Dja."
+
