@@ -43169,3 +43169,170 @@ A: The opposite of 'hard' is 'soft'.
 
 Q: What is the opposite of 'light'?
 A: The opposite of 'light' is 'dark'.
+Q: What currency does Austria use?
+A: The currency of Austria is the euro.
+
+Q: What currency does Italy use?
+A: The currency of Italy is the euro.
+
+Q: What currency does Nepal use?
+A: The currency of Nepal is the rupee.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What currency does Brazil use?
+A: The currency of Brazil is the real.
+
+Q: What currency does Uganda use?
+A: The currency of Uganda is the shilling.
+
+Q: What currency does Argentina use?
+A: The currency of Argentina is the peso.
+
+Q: What currency does Paraguay use?
+A: The currency of Paraguay is the guarani.
+
+Q: What number is the Roman numeral lxxi?
+A: The Roman numeral lxxi is the number 71.
+
+Q: What number is the Roman numeral dcclxxi?
+A: The Roman numeral dcclxxi is the number 771.
+
+Q: What number is the Roman numeral cx?
+A: The Roman numeral cx is the number 110.
+
+Q: What number is the Roman numeral dccxciii?
+A: The Roman numeral dccxciii is the number 793.
+
+Q: What number is the Roman numeral xiv?
+A: The Roman numeral xiv is the number 14.
+
+Q: What number is the Roman numeral dccxciii?
+A: The Roman numeral dccxciii is the number 793.
+
+Q: What is the Roman numeral for 81?
+A: The Roman numeral for 81 is lxxxi.
+
+Q: What number is the Roman numeral dxliii?
+A: The Roman numeral dxliii is the number 543.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: What is 5 times 4?
+A: 5 times 4 is 20.
+
+Q: What is 13 times 13?
+A: 13 times 13 is 169.
+
+Q: What is 19 plus 3?
+A: 19 plus 3 is 22.
+
+Q: What is 8 plus 7?
+A: 8 plus 7 is 15.
+
+Q: What is 17 minus 10?
+A: 17 minus 10 is 7.
+
+Q: What is 15 plus 1?
+A: 15 plus 1 is 16.
+
+Q: What is 94 plus 64?
+A: 94 plus 64 is 158.
+
+Q: What is 7 times 9?
+A: 7 times 9 is 63.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
