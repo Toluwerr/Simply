@@ -45077,3 +45077,146 @@ A: The currency of Egypt is the pound.
 
 Q: What currency does Malaysia use?
 A: The currency of Malaysia is the ringgit.
+Q: How many letters does the word 'tanzania' have?
+A: The word 'tanzania' has 8 letters.
+
+Q: How many letters does the word 'stockholm' have?
+A: The word 'stockholm' has 9 letters.
+
+Q: How many letters does the word 'train' have?
+A: The word 'train' has 5 letters.
+
+Q: How many letters does the word 'duck' have?
+A: The word 'duck' has 4 letters.
+
+Q: How many letters does the word 'robin' have?
+A: The word 'robin' has 5 letters.
+
+Q: How many letters does the word 'botswana' have?
+A: The word 'botswana' has 8 letters.
+
+Q: How many letters does the word 'skopje' have?
+A: The word 'skopje' has 6 letters.
+
+Q: How many letters does the word 'austria' have?
+A: The word 'austria' has 7 letters.
+
+Q: What is the last letter of 'manila'?
+A: The last letter of 'manila' is A.
+
+Q: What is the last letter of 'ireland'?
+A: The last letter of 'ireland' is D.
+
+Q: What is the last letter of 'arkansas'?
+A: The last letter of 'arkansas' is S.
+
+Q: What is the first letter of 'tellurium'?
+A: The first letter of 'tellurium' is T.
+
+Q: What is the last letter of 'libreville'?
+A: The last letter of 'libreville' is E.
+
+Q: What is the last letter of 'dollar'?
+A: The last letter of 'dollar' is R.
+
+Q: What is the first letter of 'night'?
+A: The first letter of 'night' is N.
+
+Q: What is the first letter of 'bucharest'?
+A: The first letter of 'bucharest' is B.
+
+Q: How do you sort 18, 7, and 11?
+A: In order, they are 7 11 18.
+
+Q: How do you sort 13, 973, and 687?
+A: In order, they are 13 687 973.
+
+Q: How do you sort 567, 494, and 73?
+A: In order, they are 73 494 567.
+
+Q: How do you sort 15, 29, and 8?
+A: In order, they are 8 15 29.
+
+Q: How do you sort 209, 396, and 181?
+A: In order, they are 181 209 396.
+
+Q: How do you sort 13, 2, and 5?
+A: In order, they are 2 5 13.
+
+Q: How do you sort 924, 161, and 281?
+A: In order, they are 161 281 924.
+
+Q: How do you sort 22, 18, and 15?
+A: In order, they are 15 18 22.
+
+Q: Is 19 bigger than 17?
+A: Yes, 19 is bigger than 17.
+
+Q: Is 1 bigger than 7?
+A: No, 7 is bigger than 1.
+
+Q: Which is bigger, 57 or 97?
+A: 97 is bigger than 57.
+
+Q: Is 820 bigger than 385?
+A: Yes, 820 is bigger than 385.
+
+Q: Is 142 bigger than 270?
+A: No, 270 is bigger than 142.
+
+Q: Which is bigger, 294 or 715?
+A: 715 is bigger than 294.
+
+Q: Is 95 bigger than 87?
+A: Yes, 95 is bigger than 87.
+
+Q: Which is bigger, 544 or 448?
+A: 544 is bigger than 448.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: What is the capital of the Solomon Islands?
+A: The capital of the Solomon Islands is Honiara.
+
+Q: What is the capital of Kiribati?
+A: The capital of Kiribati is Tarawa.
+
+Q: What is the capital of the Central African Republic?
+A: The capital of the Central African Republic is Bangui.
+
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of Tanzania?
+A: The capital of Tanzania is Dodoma.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What is the capital of Somalia?
+A: The capital of Somalia is Mogadishu.
