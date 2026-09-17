@@ -48836,3 +48836,170 @@ A: The first letter of 'vilnius' is V.
 
 Q: What is the last letter of 'rwanda'?
 A: The last letter of 'rwanda' is A.
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: How do you sort 1, 3, and 26?
+A: In order, they are 1 3 26.
+
+Q: How do you sort 25, 2, and 29?
+A: In order, they are 2 25 29.
+
+Q: How do you sort 958, 629, and 181?
+A: In order, they are 181 629 958.
+
+Q: How do you sort 606, 311, and 422?
+A: In order, they are 311 422 606.
+
+Q: How do you sort 23, 3, and 8?
+A: In order, they are 3 8 23.
+
+Q: How do you sort 950, 249, and 34?
+A: In order, they are 34 249 950.
+
+Q: How do you sort 1, 14, and 20?
+A: In order, they are 1 14 20.
+
+Q: How do you sort 26, 7, and 17?
+A: In order, they are 7 17 26.
+
+Q: What is the first letter of 'tobago'?
+A: The first letter of 'tobago' is T.
+
+Q: What is the first letter of 'vaduz'?
+A: The first letter of 'vaduz' is V.
+
+Q: What is the last letter of 'iran'?
+A: The last letter of 'iran' is N.
+
+Q: What is the first letter of 'tuvalu'?
+A: The first letter of 'tuvalu' is T.
+
+Q: What is the last letter of 'nouakchott'?
+A: The last letter of 'nouakchott' is T.
+
+Q: What is the first letter of 'peso'?
+A: The first letter of 'peso' is P.
+
+Q: What is the first letter of 'forint'?
+A: The first letter of 'forint' is F.
+
+Q: What is the first letter of 'madrid'?
+A: The first letter of 'madrid' is M.
+
+Q: What continent is Serbia on?
+A: Serbia is on the continent of Europe.
+
+Q: What continent is Morocco on?
+A: Morocco is on the continent of Africa.
+
+Q: What continent is Kyrgyzstan on?
+A: Kyrgyzstan is on the continent of Asia.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: What continent is Myanmar on?
+A: Myanmar is on the continent of Asia.
+
+Q: What continent is Mauritania on?
+A: Mauritania is on the continent of Africa.
+
+Q: What is the capital of Saudi Arabia?
+A: The capital of Saudi Arabia is Riyadh.
+
+Q: What is the capital of Greece?
+A: The capital of Greece is Athens.
+
+Q: What is the capital of Laos?
+A: The capital of Laos is Vientiane.
+
+Q: What is the capital of the United Arab Emirates?
+A: The capital of the United Arab Emirates is Abu Dhabi.
+
+Q: What is the capital of Iran?
+A: The capital of Iran is Tehran.
+
+Q: What is the capital of Senegal?
+A: The capital of Senegal is Dakar.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: Can you count by twos from 4 to 10?
+A: Counting by twos gives 4 6 8 10.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by ones from 21 to 24?
+A: Counting by ones gives 21 22 23 24.
+
+Q: Can you count by twos from 16 to 22?
+A: Counting by twos gives 16 18 20 22.
+
+Q: Can you count by fives from 5 to 15?
+A: Counting by fives gives 5 10 15.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: Can you count by twos from 12 to 18?
+A: Counting by twos gives 12 14 16 18.
+
+Q: Can you count by fives from 30 to 45?
+A: Counting by fives gives 30 35 40 45.
+
+Q: Which is bigger, 45 or 20?
+A: 45 is bigger than 20.
+
+Q: Which is bigger, 12 or 18?
+A: 18 is bigger than 12.
+
+Q: Which is bigger, 968 or 395?
+A: 968 is bigger than 395.
+
+Q: Is 14 bigger than 20?
+A: No, 20 is bigger than 14.
+
+Q: Which is bigger, 268 or 292?
+A: 292 is bigger than 268.
+
+Q: Is 20 bigger than 18?
+A: Yes, 20 is bigger than 18.
+
+Q: Which is bigger, 11 or 15?
+A: 15 is bigger than 11.
+
+Q: Which is bigger, 718 or 250?
+A: 718 is bigger than 250.
