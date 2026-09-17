@@ -22753,3 +22753,146 @@ A: The currency of Senegal is the franc.
 
 Q: What currency does Bahrain use?
 A: The currency of Bahrain is the dinar.
+Q: What is the last letter of 'young'?
+A: The last letter of 'young' is G.
+
+Q: What is the first letter of 'soft'?
+A: The first letter of 'soft' is S.
+
+Q: What is the first letter of 'nicaragua'?
+A: The first letter of 'nicaragua' is N.
+
+Q: What is the first letter of 'damp'?
+A: The first letter of 'damp' is D.
+
+Q: What is the first letter of 'chair'?
+A: The first letter of 'chair' is C.
+
+Q: What is the last letter of 'panda'?
+A: The last letter of 'panda' is A.
+
+Q: What is the first letter of 'small'?
+A: The first letter of 'small' is S.
+
+Q: What is the first letter of 'praia'?
+A: The first letter of 'praia' is P.
+
+Q: How do you sort 712, 638, and 249?
+A: In order, they are 249 638 712.
+
+Q: How do you sort 26, 29, and 18?
+A: In order, they are 18 26 29.
+
+Q: How do you sort 8, 11, and 2?
+A: In order, they are 2 8 11.
+
+Q: How do you sort 8, 9, and 22?
+A: In order, they are 8 9 22.
+
+Q: How do you sort 22, 19, and 26?
+A: In order, they are 19 22 26.
+
+Q: How do you sort 102, 230, and 63?
+A: In order, they are 63 102 230.
+
+Q: How do you sort 20, 16, and 12?
+A: In order, they are 12 16 20.
+
+Q: How do you sort 557, 935, and 963?
+A: In order, they are 557 935 963.
+
+Q: Which is bigger, 96 or 13?
+A: 96 is bigger than 13.
+
+Q: Which is bigger, 115 or 265?
+A: 265 is bigger than 115.
+
+Q: Is 134 bigger than 419?
+A: No, 419 is bigger than 134.
+
+Q: Which is bigger, 33 or 36?
+A: 36 is bigger than 33.
+
+Q: Is 276 bigger than 104?
+A: Yes, 276 is bigger than 104.
+
+Q: Is 47 bigger than 20?
+A: Yes, 47 is bigger than 20.
+
+Q: Is 853 bigger than 290?
+A: Yes, 853 is bigger than 290.
+
+Q: Is 34 bigger than 87?
+A: No, 87 is bigger than 34.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: What is the capital of San Marino?
+A: The capital of San Marino is San Marino.
+
+Q: What is the capital of Cuba?
+A: The capital of Cuba is Havana.
+
+Q: What is the capital of San Marino?
+A: The capital of San Marino is San Marino.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: What is the capital of Chad?
+A: The capital of Chad is N'Djamena.
+
+Q: What is the capital of Sao Tome and Principe?
+A: The capital of Sao Tome and Principe is Sao Tome.
+
+Q: What is the capital of Slovenia?
+A: The capital of Slovenia is Ljubljana.
+
+Q: What is 5 times 4?
+A: 5 times 4 is 20.
+
+Q: What is 728 plus 851?
+A: 728 plus 851 is 1579.
+
+Q: What is 3 times 5?
+A: 3 times 5 is 15.
+
+Q: What is 14 times 11?
+A: 14 times 11 is 154.
+
+Q: What is 831 plus 245?
+A: 831 plus 245 is 1076.
+
+Q: What is 6 times 8?
+A: 6 times 8 is 48.
+
+Q: What is 14 minus 13?
+A: 14 minus 13 is 1.
+
+Q: What is 12 times 12?
+A: 12 times 12 is 144.

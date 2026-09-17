@@ -3794,3 +3794,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: knowledge 0.04, was 0.00; val 2.0789
 - self-portrait, asked "Who are you?": *"What curan numeralimes ' has?"
 
+## Iteration 433 - NO_GAIN
+- **when**: 2026-09-17T03:03:55Z
+- **train loss**: 2.4554 | **val loss**: 2.1246 | **run best**: 2.0789
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +35 facts (1,015 read all-time)
+- **lr**: 0.0015 | **steps**: 30
+- **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, reading 0.00, definitions 0.00
+- self-portrait, asked "Who are you?": *"How d me you sort 20?"
+

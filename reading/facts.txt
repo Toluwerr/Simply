@@ -1468,3 +1468,108 @@ A: Rubidium is a chemical element it has symbol Rb and atomic number 37.
 
 Q: What is Bromine?
 A: Bromine is a chemical element its symbol is Br and its atomic number is 35.
+
+Q: What is DVC?
+A: DVC is a free and open-source, platform-agnostic version system for data, machine learning models, and experiments.
+
+Q: What is Isolation?
+A: Isolation is the property that provides guarantees in the concurrent accesses to data.
+
+Q: What is Concurrent Versions System?
+A: Concurrent Versions System is a version control system originally developed by Dick Grune in July 1986.
+
+Q: What is Software versioning?
+A: Software versioning is the process of assigning unique version names or unique version numbers to unique states of computer software.
+
+Q: What is Software development?
+A: Software development is the process of designing, creating, testing.
+
+Q: What is Epic Games, Inc.?
+A: Epic Games, Inc. is an American video game and software developer and publisher based in Cary, North Carolina.
+
+Q: What is Continuous integration?
+A: Continuous integration is the practice of integrating source code changes frequently and ensuring that the integrated codebase is in a workable state.
+
+Q: What is Vault?
+A: Vault is a commercial, proprietary version control system by SourceGear LLC which markets its product as a replacement for Microsoft's Visual Source S.
+
+Q: What is Jenkins?
+A: Jenkins is an open source automation server.
+
+Q: What is DevOps?
+A: DevOps is the integration and automation of software development and information technology operations.
+
+Q: What is GitHub?
+A: GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code.
+
+Q: What is PyCharm?
+A: PyCharm is an integrated development environment used for programming in Python.
+
+Q: What is Potomac Park?
+A: Potomac Park is an unincorporated subdivision and census-designated place located on the North Branch Potomac River in Allegany County, Maryland.
+
+Q: What is Brenda Fitzgerald?
+A: Brenda Fitzgerald is an American obstetrician-gynecologist who served as the 17th Director of the U.S.
+
+Q: What is Previously, she?
+A: Previously, she is the Commissioner of the Georgia Department of Public Health from 2011 to 2017.
+
+Q: What is Danilo culture?
+A: Danilo culture is a Neolithic culture of the Dalmatian coast of Croatia and parts of Bosnia and Herzegovina, dating to 4700-3900 BC.
+
+Q: What is Days by Moonlight?
+A: Days by Moonlight is a Canadian novel by writer Andr Alexis.
+
+Q: What is Gradius?
+A: Gradius is a 1985 horizontally scrolling shooter video game developed and published by Konami for arcades.
+
+Q: What is Manly Corner?
+A: Manly Corner is a locality where the Yellowhead Highway intersects Highway 43 in Parkland County, Alberta.
+
+Q: What is Carr Manor?
+A: Carr Manor is a Victorian grade II listed house in Meanwood, Leeds, England.
+
+Q: What is Corona School, Ikoyi?
+A: Corona School, Ikoyi is a co-educational independent school for children from ages 5 to 11.
+
+Q: What is Sirius Calling?
+A: Sirius Calling is an album by the Art Ensemble of Chicago recorded in April, 2003 in Madison.
+
+Q: What is Su Junfeng?
+A: Su Junfeng is a Chinese former footballer who plays as a forward.
+
+Q: What is Wilderness medicine?
+A: Wilderness medicine is a medical specialty concerned with medical care in remote, wilderness and expedition environments.
+
+Q: What is Neuromusculoskeletal medicine?
+A: Neuromusculoskeletal medicine is a specialty which is dominated by DOs, but MDs may also become certified.
+
+Q: What is PLOS Medicine?
+A: PLOS Medicine is a peer-reviewed weekly medical journal covering the full spectrum of the medical sciences.
+
+Q: What is Joseph Medicine Crow?
+A: Joseph Medicine Crow is a Native American writer, historian and war chief of the Crow Tribe.
+
+Q: What is Medicine Crow?
+A: Medicine Crow is a World War II veteran, serving as a scout in the 103rd Infantry Division of the U.S.
+
+Q: What is Medicine Walk?
+A: Medicine Walk is a 2014 novel by Canadian First Nations author Richard Wagamese.
+
+Q: What is BMC Medicine?
+A: BMC Medicine is a peer-reviewed open access medical journal published since 2003 by BioMed Central.
+
+Q: What is Ophthalmology?
+A: Ophthalmology is the branch of medicine that deals with the diagnosis, treatment, and surgery of eye diseases and disorders.
+
+Q: What is Jewish medicine?
+A: Jewish medicine is the practice of medicine among the Jewish people, which includes writing in both Hebrew and Arabic.
+
+Q: What is Citing Medicine style?
+A: Citing Medicine style is the style used by MEDLINE and PubMed.
+
+Q: What is Medicine Music?
+A: Medicine Music is the third studio album by Bobby McFerrin, released in 1990.
+
+Q: What is Pain?
+A: Pain is a person's perception, while tenderness is a sign elicited by a clinician.
