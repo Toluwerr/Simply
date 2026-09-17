@@ -3301,3 +3301,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: knowledge 0.70, was 0.52; val 0.5551
 - self-portrait, asked "Who are you?": *"I am a small set, bit will small."
 
+## Iteration 380 - NO_GAIN
+- **when**: 2026-09-17T01:40:57Z
+- **train loss**: 1.3224 | **val loss**: 0.6073 | **run best**: 0.5551
+- **corpus**: 252,178 chars (+5 self-written examples)
+- **internet reading**: +27 articles, +12 facts (777 read all-time)
+- **lr**: 0.0015 | **steps**: 62
+- **knowledge quiz**: avg 0.48 | weakest: arithmetic 0.00, compare 0.00, double_half 0.00 | strongest: opposites 1.00, animals 1.00, units 1.00
+- self-portrait, asked "Who are you?": *"I am I am rwwwwwwwwwwwwwwwwwwo hum-imply."
+

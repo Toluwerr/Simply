@@ -16428,3 +16428,110 @@ A: The capital of Tuvalu is Funafuti.
 Q: What is the capital of Venezuela?
 A: The capital of Venezuela is Caracas.
 
+Q: How do you sort 26, 23, and 13?
+A: In order, they are 13 23 26.
+
+Q: How do you sort 820, 984, and 975?
+A: In order, they are 820 975 984.
+
+Q: How do you sort 21, 6, and 13?
+A: In order, they are 6 13 21.
+
+Q: How do you sort 455, 994, and 647?
+A: In order, they are 455 647 994.
+
+Q: How do you sort 13, 3, and 22?
+A: In order, they are 3 13 22.
+
+Q: How do you sort 764, 767, and 448?
+A: In order, they are 448 764 767.
+
+Q: Is 7 bigger than 10?
+A: No, 10 is bigger than 7.
+
+Q: Is 784 bigger than 108?
+A: Yes, 784 is bigger than 108.
+
+Q: Is 14 bigger than 18?
+A: No, 18 is bigger than 14.
+
+Q: Which is bigger, 577 or 252?
+A: 577 is bigger than 252.
+
+Q: Is 20 bigger than 11?
+A: Yes, 20 is bigger than 11.
+
+Q: Which is bigger, 4 or 18?
+A: 18 is bigger than 4.
+
+Q: What is 1 plus 20?
+A: 1 plus 20 is 21.
+
+Q: What is 97 minus 16?
+A: 97 minus 16 is 81.
+
+Q: What is 13 times 18?
+A: 13 times 18 is 234.
+
+Q: What is 8 times 7?
+A: 8 times 7 is 56.
+
+Q: What is 3 times 2?
+A: 3 times 2 is 6.
+
+Q: What is 14 times 12?
+A: 14 times 12 is 168.
+
+Q: What continent is Greece on?
+A: Greece is on the continent of Europe.
+
+Q: What continent is Peru on?
+A: Peru is on the continent of South America.
+
+Q: What continent is Algeria on?
+A: Algeria is on the continent of Africa.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: What continent is Lesotho on?
+A: Lesotho is on the continent of Africa.
+
+Q: What continent is Samoa on?
+A: Samoa is on the continent of Oceania.
+
+Q: Can you count by twos from 32 to 38?
+A: Counting by twos gives 32 34 36 38.
+
+Q: Can you count by twos from 32 to 36?
+A: Counting by twos gives 32 34 36.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by twos from 18 to 22?
+A: Counting by twos gives 18 20 22.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by twos from 24 to 28?
+A: Counting by twos gives 24 26 28.
+
+Q: How many letters does the word 'shallow' have?
+A: The word 'shallow' has 7 letters.
+
+Q: How many letters does the word 'down' have?
+A: The word 'down' has 4 letters.
+
+Q: How many letters does the word 'tungsten' have?
+A: The word 'tungsten' has 8 letters.
+
+Q: How many letters does the word 'montgomery' have?
+A: The word 'montgomery' has 10 letters.
+
+Q: How many letters does the word 'niamey' have?
+A: The word 'niamey' has 6 letters.
+
+Q: How many letters does the word 'inside' have?
+A: The word 'inside' has 6 letters.
