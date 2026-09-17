@@ -31339,3 +31339,170 @@ A: The capital of Mexico is Mexico City.
 
 Q: What is the capital of Guyana?
 A: The capital of Guyana is Georgetown.
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of Tunisia?
+A: The capital of Tunisia is Tunis.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of Suriname?
+A: The capital of Suriname is Paramaribo.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
+
+Q: What is 213 plus 680?
+A: 213 plus 680 is 893.
+
+Q: What is 15 times 13?
+A: 15 times 13 is 195.
+
+Q: What is 5 times 3?
+A: 5 times 3 is 15.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is 566 minus 95?
+A: 566 minus 95 is 471.
+
+Q: What is 175 plus 910?
+A: 175 plus 910 is 1085.
+
+Q: What is 17 minus 14?
+A: 17 minus 14 is 3.
+
+Q: What is 13 times 12?
+A: 13 times 12 is 156.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: How many letters does the word 'slippery' have?
+A: The word 'slippery' has 8 letters.
+
+Q: How many letters does the word 'armenia' have?
+A: The word 'armenia' has 7 letters.
+
+Q: How many letters does the word 'tripoli' have?
+A: The word 'tripoli' has 7 letters.
+
+Q: How many letters does the word 'honduras' have?
+A: The word 'honduras' has 8 letters.
+
+Q: How many letters does the word 'solomon' have?
+A: The word 'solomon' has 7 letters.
+
+Q: How many letters does the word 'peso' have?
+A: The word 'peso' has 4 letters.
+
+Q: How many letters does the word 'fish' have?
+A: The word 'fish' has 4 letters.
+
+Q: How many letters does the word 'tashkent' have?
+A: The word 'tashkent' has 8 letters.
+
+Q: What is the first letter of 'gentle'?
+A: The first letter of 'gentle' is G.
+
+Q: What is the last letter of 'madagascar'?
+A: The last letter of 'madagascar' is R.
+
+Q: What is the last letter of 'palladium'?
+A: The last letter of 'palladium' is M.
+
+Q: What is the last letter of 'north'?
+A: The last letter of 'north' is H.
+
+Q: What is the first letter of 'iran'?
+A: The first letter of 'iran' is I.
+
+Q: What is the first letter of 'majuro'?
+A: The first letter of 'majuro' is M.
+
+Q: What is the first letter of 'kingdom'?
+A: The first letter of 'kingdom' is K.
+
+Q: What is the first letter of 'cambodia'?
+A: The first letter of 'cambodia' is C.
+
+Q: Is 604 bigger than 392?
+A: Yes, 604 is bigger than 392.
+
+Q: Which is bigger, 798 or 975?
+A: 975 is bigger than 798.
+
+Q: Is 46 bigger than 23?
+A: Yes, 46 is bigger than 23.
+
+Q: Is 607 bigger than 190?
+A: Yes, 607 is bigger than 190.
+
+Q: Which is bigger, 31 or 91?
+A: 91 is bigger than 31.
+
+Q: Which is bigger, 5 or 3?
+A: 5 is bigger than 3.
+
+Q: Which is bigger, 8 or 16?
+A: 16 is bigger than 8.
+
+Q: Is 862 bigger than 903?
+A: No, 903 is bigger than 862.
