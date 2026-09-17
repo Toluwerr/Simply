@@ -25305,3 +25305,170 @@ A: The first letter of 'bahamas' is B.
 
 Q: What is the last letter of 'antananarivo'?
 A: The last letter of 'antananarivo' is O.
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: How do you sort 3, 20, and 15?
+A: In order, they are 3 15 20.
+
+Q: How do you sort 11, 17, and 1?
+A: In order, they are 1 11 17.
+
+Q: How do you sort 862, 541, and 149?
+A: In order, they are 149 541 862.
+
+Q: How do you sort 777, 804, and 137?
+A: In order, they are 137 777 804.
+
+Q: How do you sort 166, 194, and 443?
+A: In order, they are 166 194 443.
+
+Q: How do you sort 482, 80, and 10?
+A: In order, they are 10 80 482.
+
+Q: How do you sort 21, 25, and 18?
+A: In order, they are 18 21 25.
+
+Q: How do you sort 10, 3, and 7?
+A: In order, they are 3 7 10.
+
+Q: What is the last letter of 'big'?
+A: The last letter of 'big' is G.
+
+Q: What is the last letter of 'salt'?
+A: The last letter of 'salt' is T.
+
+Q: What is the last letter of 'massachusetts'?
+A: The last letter of 'massachusetts' is S.
+
+Q: What is the last letter of 'santo'?
+A: The last letter of 'santo' is O.
+
+Q: What is the first letter of 'castries'?
+A: The first letter of 'castries' is C.
+
+Q: What is the first letter of 'cambodia'?
+A: The first letter of 'cambodia' is C.
+
+Q: What is the last letter of 'grenada'?
+A: The last letter of 'grenada' is A.
+
+Q: What is the last letter of 'nebraska'?
+A: The last letter of 'nebraska' is A.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.
+
+Q: What continent is Papua New Guinea on?
+A: Papua New Guinea is on the continent of Oceania.
+
+Q: What continent is Ghana on?
+A: Ghana is on the continent of Africa.
+
+Q: What continent is Tajikistan on?
+A: Tajikistan is on the continent of Asia.
+
+Q: What continent is Germany on?
+A: Germany is on the continent of Europe.
+
+Q: What continent is Hungary on?
+A: Hungary is on the continent of Europe.
+
+Q: What continent is Estonia on?
+A: Estonia is on the continent of Europe.
+
+Q: What is the capital of Finland?
+A: The capital of Finland is Helsinki.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of Tajikistan?
+A: The capital of Tajikistan is Dushanbe.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of Cambodia?
+A: The capital of Cambodia is Phnom Penh.
+
+Q: What is the capital of the Dominican Republic?
+A: The capital of the Dominican Republic is Santo Domingo.
+
+Q: What is the capital of Iraq?
+A: The capital of Iraq is Baghdad.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25.
+
+Q: Can you count by twos from 12 to 16?
+A: Counting by twos gives 12 14 16.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by ones from 2 to 5?
+A: Counting by ones gives 2 3 4 5.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by fives from 30 to 45?
+A: Counting by fives gives 30 35 40 45.
+
+Q: Can you count by fives from 30 to 50?
+A: Counting by fives gives 30 35 40 45 50.
+
+Q: Is 19 bigger than 6?
+A: Yes, 19 is bigger than 6.
+
+Q: Is 412 bigger than 934?
+A: No, 934 is bigger than 412.
+
+Q: Which is bigger, 126 or 614?
+A: 614 is bigger than 126.
+
+Q: Is 6 bigger than 20?
+A: No, 20 is bigger than 6.
+
+Q: Is 65 bigger than 12?
+A: Yes, 65 is bigger than 12.
+
+Q: Which is bigger, 479 or 487?
+A: 487 is bigger than 479.
+
+Q: Which is bigger, 15 or 53?
+A: 53 is bigger than 15.
+
+Q: Which is bigger, 447 or 534?
+A: 534 is bigger than 447.
