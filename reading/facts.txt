@@ -3643,3 +3643,57 @@ A: Energy is a conserved quantity-the law of conservation of energy states that 
 
 Q: What is Experimental physics?
 A: Experimental physics is the category of disciplines.
+
+Q: What is Computer engineering?
+A: Computer engineering is a branch of engineering specialized in developing computer hardware and software.
+
+Q: What is Greenspun's tenth rule?
+A: Greenspun's tenth rule is an aphorism on how such an architecture is both inevitable and complex.
+
+Q: What is Language abstraction?
+A: Language abstraction is a central form of abstraction in computing: new artificial languages are developed to express specific aspects of a system.
+
+Q: What is More simply, an ontology?
+A: More simply, an ontology is a way of showing the properties of a subject area and how they are related.
+
+Q: What is Information technology?
+A: Information technology is the study or use of computers, telecommunication systems and other devices to create, process, store.
+
+Q: What is Georgia Avenue-Petworth station?
+A: Georgia Avenue-Petworth station is a Washington Metro station in Washington, D.C., on the Green and Yellow Lines.
+
+Q: What is Bourama Coulibaly?
+A: Bourama Coulibaly is a Malian professional footballer who plays as a defender for Stade Malien.
+
+Q: What is John Marlan Poindexter?
+A: John Marlan Poindexter is a retired United States naval officer and Department of Defense official.
+
+Q: What is Marie Nightingale?
+A: Marie Nightingale is a Canadian cookbook writer from Nova Scotia.
+
+Q: What is Simple Pleasures'?
+A: Simple Pleasures' is a Russian comedy film directed by Mikhail Polyakov.
+
+Q: What is Sou Ni Til?
+A: Sou Ni Til is an album by Malian duo Amadou  Mariam, released in 1999.
+
+Q: What is Triorbis annulata?
+A: Triorbis annulata is a moth in the family Nolidae first described by Charles Swinhoe in 1890.
+
+Q: What is Alicia Prieto Langarica?
+A: Alicia Prieto Langarica is an American applied mathematician and professor of mathematics at Youngstown State University.
+
+Q: What is Santa Cruz Shakespeare?
+A: Santa Cruz Shakespeare is an independent theater company in Santa Cruz, California, founded in 2014.
+
+Q: What is Avengers: Endgame?
+A: Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers.
+
+Q: What is Foyle's War?
+A: Foyle's War is a British detective drama television series set during and shortly after the Second World War.
+
+Q: What is Wells?
+A: Wells is a term for the First World War .
+
+Q: What is Star Wars?
+A: Star Wars is an American media franchise created by George Lucas.
