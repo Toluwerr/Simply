@@ -58400,3 +58400,170 @@ A: The first letter of 'chromium' is C.
 
 Q: What is the first letter of 'nairobi'?
 A: The first letter of 'nairobi' is N.
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: How do you sort 17, 23, and 15?
+A: In order, they are 15 17 23.
+
+Q: How do you sort 711, 710, and 975?
+A: In order, they are 710 711 975.
+
+Q: How do you sort 8, 4, and 21?
+A: In order, they are 4 8 21.
+
+Q: How do you sort 770, 625, and 150?
+A: In order, they are 150 625 770.
+
+Q: How do you sort 456, 519, and 490?
+A: In order, they are 456 490 519.
+
+Q: How do you sort 432, 362, and 44?
+A: In order, they are 44 362 432.
+
+Q: How do you sort 199, 206, and 995?
+A: In order, they are 199 206 995.
+
+Q: How do you sort 313, 727, and 728?
+A: In order, they are 313 727 728.
+
+Q: What is the first letter of 'montpelier'?
+A: The first letter of 'montpelier' is M.
+
+Q: What is the first letter of 'bismarck'?
+A: The first letter of 'bismarck' is B.
+
+Q: What is the last letter of 'light'?
+A: The last letter of 'light' is T.
+
+Q: What is the last letter of 'apple'?
+A: The last letter of 'apple' is E.
+
+Q: What is the first letter of 'hollow'?
+A: The first letter of 'hollow' is H.
+
+Q: What is the last letter of 'israel'?
+A: The last letter of 'israel' is L.
+
+Q: What is the last letter of 'duck'?
+A: The last letter of 'duck' is K.
+
+Q: What is the first letter of 'strontium'?
+A: The first letter of 'strontium' is S.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: What continent is Cyprus on?
+A: Cyprus is on the continent of Asia.
+
+Q: What continent is Guinea on?
+A: Guinea is on the continent of Africa.
+
+Q: What continent is Armenia on?
+A: Armenia is on the continent of Asia.
+
+Q: What continent is Belgium on?
+A: Belgium is on the continent of Europe.
+
+Q: What continent is Kuwait on?
+A: Kuwait is on the continent of Asia.
+
+Q: What continent is Sweden on?
+A: Sweden is on the continent of Europe.
+
+Q: What continent is Iceland on?
+A: Iceland is on the continent of Europe.
+
+Q: What is the capital of Micronesia?
+A: The capital of Micronesia is Palikir.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of Mauritius?
+A: The capital of Mauritius is Port Louis.
+
+Q: What is the capital of San Marino?
+A: The capital of San Marino is San Marino.
+
+Q: What is the capital of the Republic of the Congo?
+A: The capital of the Republic of the Congo is Brazzaville.
+
+Q: What is the capital of Bulgaria?
+A: The capital of Bulgaria is Sofia.
+
+Q: What is the capital of Panama?
+A: The capital of Panama is Panama City.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by twos from 22 to 28?
+A: Counting by twos gives 22 24 26 28.
+
+Q: Can you count by ones from 21 to 24?
+A: Counting by ones gives 21 22 23 24.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by twos from 2 to 6?
+A: Counting by twos gives 2 4 6.
+
+Q: Can you count by fives from 10 to 25?
+A: Counting by fives gives 10 15 20 25.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Is 106 bigger than 489?
+A: No, 489 is bigger than 106.
+
+Q: Which is bigger, 254 or 481?
+A: 481 is bigger than 254.
+
+Q: Is 95 bigger than 50?
+A: Yes, 95 is bigger than 50.
+
+Q: Is 506 bigger than 916?
+A: No, 916 is bigger than 506.
+
+Q: Is 68 bigger than 26?
+A: Yes, 68 is bigger than 26.
+
+Q: Which is bigger, 49 or 36?
+A: 49 is bigger than 36.
+
+Q: Which is bigger, 6 or 11?
+A: 11 is bigger than 6.
+
+Q: Which is bigger, 19 or 7?
+A: 19 is bigger than 7.
