@@ -55118,3 +55118,170 @@ A: 11 is bigger than 10.
 
 Q: Which is bigger, 67 or 68?
 A: 68 is bigger than 67.
+Q: Which is bigger, 215 or 599?
+A: 599 is bigger than 215.
+
+Q: Is 40 bigger than 68?
+A: No, 68 is bigger than 40.
+
+Q: Is 10 bigger than 11?
+A: No, 11 is bigger than 10.
+
+Q: Is 8 bigger than 20?
+A: No, 20 is bigger than 8.
+
+Q: Which is bigger, 91 or 93?
+A: 93 is bigger than 91.
+
+Q: Which is bigger, 19 or 10?
+A: 19 is bigger than 10.
+
+Q: Which is bigger, 950 or 657?
+A: 950 is bigger than 657.
+
+Q: Which is bigger, 37 or 41?
+A: 41 is bigger than 37.
+
+Q: How many letters does the word 'cool' have?
+A: The word 'cool' has 4 letters.
+
+Q: How many letters does the word 'equatorial' have?
+A: The word 'equatorial' has 10 letters.
+
+Q: How many letters does the word 'czech' have?
+A: The word 'czech' has 5 letters.
+
+Q: How many letters does the word 'african' have?
+A: The word 'african' has 7 letters.
+
+Q: How many letters does the word 'late' have?
+A: The word 'late' has 4 letters.
+
+Q: How many letters does the word 'funafuti' have?
+A: The word 'funafuti' has 8 letters.
+
+Q: How many letters does the word 'portugal' have?
+A: The word 'portugal' has 8 letters.
+
+Q: How many letters does the word 'des' have?
+A: The word 'des' has 3 letters.
+
+Q: How do you sort 647, 316, and 755?
+A: In order, they are 316 647 755.
+
+Q: How do you sort 6, 3, and 23?
+A: In order, they are 3 6 23.
+
+Q: How do you sort 20, 1, and 28?
+A: In order, they are 1 20 28.
+
+Q: How do you sort 18, 14, and 11?
+A: In order, they are 11 14 18.
+
+Q: How do you sort 26, 2, and 15?
+A: In order, they are 2 15 26.
+
+Q: How do you sort 25, 12, and 29?
+A: In order, they are 12 25 29.
+
+Q: How do you sort 130, 484, and 917?
+A: In order, they are 130 484 917.
+
+Q: How do you sort 619, 560, and 937?
+A: In order, they are 560 619 937.
+
+Q: What continent is Lithuania on?
+A: Lithuania is on the continent of Europe.
+
+Q: What continent is Iceland on?
+A: Iceland is on the continent of Europe.
+
+Q: What continent is Italy on?
+A: Italy is on the continent of Europe.
+
+Q: What continent is Lithuania on?
+A: Lithuania is on the continent of Europe.
+
+Q: What continent is Madagascar on?
+A: Madagascar is on the continent of Africa.
+
+Q: What continent is Mexico on?
+A: Mexico is on the continent of North America.
+
+Q: What continent is Singapore on?
+A: Singapore is on the continent of Asia.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 6 in words?
+A: 6 in words is six.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: What is the capital of Georgia?
+A: The capital of Georgia is Tbilisi.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of Zimbabwe?
+A: The capital of Zimbabwe is Harare.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
+
+Q: What is the capital of Lesotho?
+A: The capital of Lesotho is Maseru.
+
+Q: What is the capital of Sweden?
+A: The capital of Sweden is Stockholm.
+
+Q: What is the capital of Tajikistan?
+A: The capital of Tajikistan is Dushanbe.

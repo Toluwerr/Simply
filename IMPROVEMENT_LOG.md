@@ -5685,3 +5685,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"No is on the capital of the capital of Baia."
 
+## Iteration 636 - NO_GAIN
+- **when**: 2026-09-17T09:08:02Z
+- **train loss**: 1.9601 | **val loss**: 1.5867 | **run best**: 1.4294
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +59 articles, +34 facts (2,183 read all-time)
+- **lr**: 0.0004 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Theital of the capital of Lbolisoweto you count but'?"
+
