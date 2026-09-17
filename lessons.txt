@@ -30719,3 +30719,146 @@ A: The currency of Bulgaria is the lev.
 
 Q: What currency does Libya use?
 A: The currency of Libya is the dinar.
+Q: How many letters does the word 'lanka' have?
+A: The word 'lanka' has 5 letters.
+
+Q: How many letters does the word 'addis' have?
+A: The word 'addis' has 5 letters.
+
+Q: How many letters does the word 'bucharest' have?
+A: The word 'bucharest' has 9 letters.
+
+Q: How many letters does the word 'richmond' have?
+A: The word 'richmond' has 8 letters.
+
+Q: How many letters does the word 'connecticut' have?
+A: The word 'connecticut' has 11 letters.
+
+Q: How many letters does the word 'neon' have?
+A: The word 'neon' has 4 letters.
+
+Q: How many letters does the word 'jerusalem' have?
+A: The word 'jerusalem' has 9 letters.
+
+Q: How many letters does the word 'clean' have?
+A: The word 'clean' has 5 letters.
+
+Q: What is the first letter of 'hiss'?
+A: The first letter of 'hiss' is H.
+
+Q: What is the last letter of 'illinois'?
+A: The last letter of 'illinois' is S.
+
+Q: What is the last letter of 'picked'?
+A: The last letter of 'picked' is D.
+
+Q: What is the last letter of 'yttrium'?
+A: The last letter of 'yttrium' is M.
+
+Q: What is the first letter of 'melon'?
+A: The first letter of 'melon' is M.
+
+Q: What is the first letter of 'faso'?
+A: The first letter of 'faso' is F.
+
+Q: What is the last letter of 'augusta'?
+A: The last letter of 'augusta' is A.
+
+Q: What is the last letter of 'jupiter'?
+A: The last letter of 'jupiter' is R.
+
+Q: How do you sort 203, 28, and 837?
+A: In order, they are 28 203 837.
+
+Q: How do you sort 23, 4, and 15?
+A: In order, they are 4 15 23.
+
+Q: How do you sort 13, 16, and 22?
+A: In order, they are 13 16 22.
+
+Q: How do you sort 496, 340, and 521?
+A: In order, they are 340 496 521.
+
+Q: How do you sort 14, 16, and 21?
+A: In order, they are 14 16 21.
+
+Q: How do you sort 854, 275, and 767?
+A: In order, they are 275 767 854.
+
+Q: How do you sort 18, 5, and 6?
+A: In order, they are 5 6 18.
+
+Q: How do you sort 15, 4, and 6?
+A: In order, they are 4 6 15.
+
+Q: Which is bigger, 66 or 16?
+A: 66 is bigger than 16.
+
+Q: Which is bigger, 176 or 789?
+A: 789 is bigger than 176.
+
+Q: Is 1 bigger than 2?
+A: No, 2 is bigger than 1.
+
+Q: Which is bigger, 6 or 4?
+A: 6 is bigger than 4.
+
+Q: Is 12 bigger than 13?
+A: No, 13 is bigger than 12.
+
+Q: Is 3 bigger than 4?
+A: No, 4 is bigger than 3.
+
+Q: Is 18 bigger than 17?
+A: Yes, 18 is bigger than 17.
+
+Q: Is 21 bigger than 54?
+A: No, 54 is bigger than 21.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+
+Q: What is the capital of Myanmar?
+A: The capital of Myanmar is Naypyidaw.
+
+Q: What is the capital of Saint Kitts and Nevis?
+A: The capital of Saint Kitts and Nevis is Basseterre.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Ghana?
+A: The capital of Ghana is Accra.
+
+Q: What is the capital of Ethiopia?
+A: The capital of Ethiopia is Addis Ababa.

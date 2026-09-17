@@ -1861,3 +1861,108 @@ A: Formosa Plastics Group is a titular Taiwanese conglomerate of diverse interes
 
 Q: What is SZABIST?
 A: SZABIST is a non-profit and Chartered Institute of Science and Technology, Established through Legislative Act of the Sindh Assembly .
+
+Q: What is Subversion?
+A: Subversion is an important tool in software development lifecycle tasks such as software versioning.
+
+Q: What is Revision Control System?
+A: Revision Control System is an early implementation of a version control system .
+
+Q: What is Gitea?
+A: Gitea is a forge software package for hosting software development version control using Git as well as other collaborative features like bug tracking.
+
+Q: What is For example, although Eclipse?
+A: For example, although Eclipse is a platform for which there are many plugins that each...
+
+Q: What is RhodeCode?
+A: RhodeCode is an open source self-hosted platform for behind-the-firewall source code management.
+
+Q: What is Control Resonant?
+A: Control Resonant is an upcoming action role-playing game developed and published by Remedy Entertainment.
+
+Q: What is GNU arch software?
+A: GNU arch software is a distributed revision control system that is part of the GNU Project and licensed under the GNU General Public License.
+
+Q: What is Trac?
+A: Trac is an open-source, web-based project management and bug tracking system.
+
+Q: What is Edgewall Software?
+A: Edgewall Software is an umbrella organization for hosting edgewall.org for the community to collaborate on developing open source Python software.
+
+Q: What is Fossil?
+A: Fossil is a software configuration management, bug tracking system and wiki software server for use in software development created by D.
+
+Q: What is Richard Hipp.  Features  Fossil?
+A: Richard Hipp.  Features  Fossil is a cross-platform distributed version control system that runs on Linux, BSD derivatives, Mac and Windows.
+
+Q: What is Rice?
+A: Rice is a direct patrilineal descendant of Edmund Rice, an early immigrant to Massachusetts Bay Colony from England.
+
+Q: What is Scott Larned?
+A: Scott Larned is the keyboardist and founding member of Dark Star Orchestra, a popular Grateful Dead tribute band.
+
+Q: What is Kuttanpillayude Sivarathri?
+A: Kuttanpillayude Sivarathri is a 2018 Indian Malayalam-language horror comedy film directed by Jean Markose.
+
+Q: What is Fazil Nassar?
+A: Fazil Nassar is the cinematographer.
+
+Q: What is Trembita?
+A: Trembita is a Ukrainian surface-to-surface cruise missile manufactured by PARS.
+
+Q: What is Isabel Suckling?
+A: Isabel Suckling is a British singer who was the youngest classical recording artist signed by Decca Records.
+
+Q: What is Coed Llandyfan?
+A: Coed Llandyfan is a Site of Special Scientific Interest in Carmarthen  Dinefwr, Wales.
+
+Q: What is Robert Robbie Bernard Lyn?
+A: Robert Robbie Bernard Lyn is a Jamaican session musician who plays piano.
+
+Q: What is Sunil Naliyath?
+A: Sunil Naliyath is a Malayalam language writer and translator from Kerala, India.
+
+Q: What is Naliath, who?
+A: Naliath, who is a political activist, writer, rationalist and a newspaper editor.
+
+Q: What is Naliath,?
+A: Naliath, is an early publisher and editor of the publication Kerala Rashmi in Kolkata.
+
+Q: What is Louise-Marie Danhaive?
+A: Louise-Marie Danhaive is a Belgian novelist, playwright, poet, and journalist.
+
+Q: What is Harefield?
+A: Harefield is a suburb and Electoral Ward near Bitterne in Southampton, England.
+
+Q: What is Gerald David Lorenzo Music?
+A: Gerald David Lorenzo Music is an American actor, composer, musician, performer, writer and producer.
+
+Q: What is Psychedelic music?
+A: Psychedelic music is a wide range of popular music styles and genres influenced by 1960s psychedelia.
+
+Q: What is Party Music?
+A: Party Music is the fourth studio album by American hip-hop group the Coup.
+
+Q: What is Fear of Music?
+A: Fear of Music is the third studio album by the American rock band Talking Heads, released on August 3, 1979, by Sire Records.
+
+Q: What is Music theory?
+A: Music theory is the study of theoretical frameworks for understanding the practices and possibilities of music.
+
+Q: What is Music semiology?
+A: Music semiology is the study of signs as they pertain to music on a variety of levels.
+
+Q: What is Jungle?
+A: Jungle is a genre of electronic music that developed in the 1990s out of the UK rave scene and Jamaican sound system culture.
+
+Q: What is Pitch?
+A: Pitch is the quality that makes it possible to judge sounds as higher and lower in the sense associated with musical melodies.
+
+Q: What is Frequency?
+A: Frequency is an objective, scientific attribute which can be measured.
+
+Q: What is Music?
+A: Music is an American independent record label founded by rapper Kanye West in 2004.
+
+Q: What is Wonderwall Music?
+A: Wonderwall Music is the debut solo studio album by the English musician George Harrison and the soundtrack to the 1968 film Wonderwall.
