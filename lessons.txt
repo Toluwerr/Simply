@@ -42215,3 +42215,146 @@ A: Half of 46 is 23.
 
 Q: What is double 33?
 A: Double 33 is 66.
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: How many letters does the word 'careful' have?
+A: The word 'careful' has 7 letters.
+
+Q: How many letters does the word 'congo' have?
+A: The word 'congo' has 5 letters.
+
+Q: How many letters does the word 'cocoa' have?
+A: The word 'cocoa' has 5 letters.
+
+Q: How many letters does the word 'mark' have?
+A: The word 'mark' has 4 letters.
+
+Q: How many letters does the word 'and' have?
+A: The word 'and' has 3 letters.
+
+Q: How many letters does the word 'yaounde' have?
+A: The word 'yaounde' has 7 letters.
+
+Q: How many letters does the word 'cobalt' have?
+A: The word 'cobalt' has 6 letters.
+
+Q: How many letters does the word 'rhode' have?
+A: The word 'rhode' has 5 letters.
+
+Q: What is 14 minus 11?
+A: 14 minus 11 is 3.
+
+Q: What is 19 minus 14?
+A: 19 minus 14 is 5.
+
+Q: What is 11 times 15?
+A: 11 times 15 is 165.
+
+Q: What is 12 plus 19?
+A: 12 plus 19 is 31.
+
+Q: What is 18 plus 14?
+A: 18 plus 14 is 32.
+
+Q: What is 3 times 12?
+A: 3 times 12 is 36.
+
+Q: What is 4 times 5?
+A: 4 times 5 is 20.
+
+Q: What is 12 times 14?
+A: 12 times 14 is 168.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What continent is Iran on?
+A: Iran is on the continent of Asia.
+
+Q: What continent is Bhutan on?
+A: Bhutan is on the continent of Asia.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Madagascar on?
+A: Madagascar is on the continent of Africa.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is Armenia on?
+A: Armenia is on the continent of Asia.
+
+Q: What continent is Bangladesh on?
+A: Bangladesh is on the continent of Asia.
+
+Q: What currency does Japan use?
+A: The currency of Japan is the yen.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does China use?
+A: The currency of China is the yuan.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What currency does Algeria use?
+A: The currency of Algeria is the dinar.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How do you write 6 in words?
+A: 6 in words is six.
+
+Q: How do you write 93 in words?
+A: 93 in words is ninety-three.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
