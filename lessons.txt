@@ -35203,3 +35203,170 @@ A: The opposite of 'wet' is 'dry'.
 
 Q: What is the opposite of 'new'?
 A: The opposite of 'new' is 'old'.
+Q: What currency does South Africa use?
+A: The currency of South Africa is the rand.
+
+Q: What currency does Uruguay use?
+A: The currency of Uruguay is the peso.
+
+Q: What currency does Algeria use?
+A: The currency of Algeria is the dinar.
+
+Q: What currency does Taiwan use?
+A: The currency of Taiwan is the dollar.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: What currency does Botswana use?
+A: The currency of Botswana is the pula.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What number is the Roman numeral cciv?
+A: The Roman numeral cciv is the number 204.
+
+Q: What is the Roman numeral for 2?
+A: The Roman numeral for 2 is ii.
+
+Q: What number is the Roman numeral xx?
+A: The Roman numeral xx is the number 20.
+
+Q: What is the Roman numeral for 429?
+A: The Roman numeral for 429 is cdxxix.
+
+Q: What number is the Roman numeral dxxxiii?
+A: The Roman numeral dxxxiii is the number 533.
+
+Q: What number is the Roman numeral xii?
+A: The Roman numeral xii is the number 12.
+
+Q: What number is the Roman numeral xix?
+A: The Roman numeral xix is the number 19.
+
+Q: What number is the Roman numeral lxxx?
+A: The Roman numeral lxxx is the number 80.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: What is 1 plus 18?
+A: 1 plus 18 is 19.
+
+Q: What is 15 plus 25?
+A: 15 plus 25 is 40.
+
+Q: What is 7 minus 2?
+A: 7 minus 2 is 5.
+
+Q: What is 9 times 9?
+A: 9 times 9 is 81.
+
+Q: What is 29 plus 46?
+A: 29 plus 46 is 75.
+
+Q: What is 768 minus 737?
+A: 768 minus 737 is 31.
+
+Q: What is 15 plus 1?
+A: 15 plus 1 is 16.
+
+Q: What is 31 minus 29?
+A: 31 minus 29 is 2.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
