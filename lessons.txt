@@ -41905,3 +41905,146 @@ A: The currency of Papua New Guinea is the kina.
 
 Q: What currency does Australia use?
 A: The currency of Australia is the dollar.
+Q: How many letters does the word 'delhi' have?
+A: The word 'delhi' has 5 letters.
+
+Q: How many letters does the word 'korea' have?
+A: The word 'korea' has 5 letters.
+
+Q: How many letters does the word 'estonia' have?
+A: The word 'estonia' has 7 letters.
+
+Q: How many letters does the word 'shallow' have?
+A: The word 'shallow' has 7 letters.
+
+Q: How many letters does the word 'helsinki' have?
+A: The word 'helsinki' has 8 letters.
+
+Q: How many letters does the word 'niger' have?
+A: The word 'niger' has 5 letters.
+
+Q: How many letters does the word 'france' have?
+A: The word 'france' has 6 letters.
+
+Q: How many letters does the word 'amsterdam' have?
+A: The word 'amsterdam' has 9 letters.
+
+Q: What is the last letter of 'moresby'?
+A: The last letter of 'moresby' is Y.
+
+Q: What is the last letter of 'vatican'?
+A: The last letter of 'vatican' is N.
+
+Q: What is the last letter of 'bogota'?
+A: The last letter of 'bogota' is A.
+
+Q: What is the first letter of 'damascus'?
+A: The first letter of 'damascus' is D.
+
+Q: What is the last letter of 'something'?
+A: The last letter of 'something' is G.
+
+Q: What is the first letter of 'smart'?
+A: The first letter of 'smart' is S.
+
+Q: What is the first letter of 'damascus'?
+A: The first letter of 'damascus' is D.
+
+Q: What is the first letter of 'pound'?
+A: The first letter of 'pound' is P.
+
+Q: How do you sort 12, 11, and 16?
+A: In order, they are 11 12 16.
+
+Q: How do you sort 76, 993, and 169?
+A: In order, they are 76 169 993.
+
+Q: How do you sort 453, 729, and 653?
+A: In order, they are 453 653 729.
+
+Q: How do you sort 14, 26, and 8?
+A: In order, they are 8 14 26.
+
+Q: How do you sort 24, 29, and 26?
+A: In order, they are 24 26 29.
+
+Q: How do you sort 21, 20, and 6?
+A: In order, they are 6 20 21.
+
+Q: How do you sort 17, 10, and 23?
+A: In order, they are 10 17 23.
+
+Q: How do you sort 14, 10, and 9?
+A: In order, they are 9 10 14.
+
+Q: Is 640 bigger than 339?
+A: Yes, 640 is bigger than 339.
+
+Q: Which is bigger, 69 or 38?
+A: 69 is bigger than 38.
+
+Q: Which is bigger, 9 or 17?
+A: 17 is bigger than 9.
+
+Q: Is 61 bigger than 22?
+A: Yes, 61 is bigger than 22.
+
+Q: Which is bigger, 13 or 48?
+A: 48 is bigger than 13.
+
+Q: Which is bigger, 19 or 7?
+A: 19 is bigger than 7.
+
+Q: Is 644 bigger than 992?
+A: No, 992 is bigger than 644.
+
+Q: Is 78 bigger than 75?
+A: Yes, 78 is bigger than 75.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: What is the capital of Libya?
+A: The capital of Libya is Tripoli.
+
+Q: What is the capital of Venezuela?
+A: The capital of Venezuela is Caracas.
+
+Q: What is the capital of Guyana?
+A: The capital of Guyana is Georgetown.
+
+Q: What is the capital of Bulgaria?
+A: The capital of Bulgaria is Sofia.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
+
+Q: What is the capital of Chile?
+A: The capital of Chile is Santiago.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+
+Q: What is the capital of Nigeria?
+A: The capital of Nigeria is Abuja.
