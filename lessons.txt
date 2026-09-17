@@ -45530,3 +45530,170 @@ A: 81 in words is eighty-one.
 
 Q: How do you write 54 in words?
 A: 54 in words is fifty-four.
+Q: Is 648 bigger than 343?
+A: Yes, 648 is bigger than 343.
+
+Q: Is 539 bigger than 228?
+A: Yes, 539 is bigger than 228.
+
+Q: Is 8 bigger than 5?
+A: Yes, 8 is bigger than 5.
+
+Q: Is 1 bigger than 4?
+A: No, 4 is bigger than 1.
+
+Q: Which is bigger, 173 or 759?
+A: 759 is bigger than 173.
+
+Q: Is 99 bigger than 21?
+A: Yes, 99 is bigger than 21.
+
+Q: Is 13 bigger than 9?
+A: Yes, 13 is bigger than 9.
+
+Q: Is 458 bigger than 325?
+A: Yes, 458 is bigger than 325.
+
+Q: How many letters does the word 'myanmar' have?
+A: The word 'myanmar' has 7 letters.
+
+Q: How many letters does the word 'york' have?
+A: The word 'york' has 4 letters.
+
+Q: How many letters does the word 'thorium' have?
+A: The word 'thorium' has 7 letters.
+
+Q: How many letters does the word 'harrisburg' have?
+A: The word 'harrisburg' has 10 letters.
+
+Q: How many letters does the word 'sodium' have?
+A: The word 'sodium' has 6 letters.
+
+Q: How many letters does the word 'ngerulmud' have?
+A: The word 'ngerulmud' has 9 letters.
+
+Q: How many letters does the word 'york' have?
+A: The word 'york' has 4 letters.
+
+Q: How many letters does the word 'montgomery' have?
+A: The word 'montgomery' has 10 letters.
+
+Q: How do you sort 760, 955, and 233?
+A: In order, they are 233 760 955.
+
+Q: How do you sort 556, 329, and 878?
+A: In order, they are 329 556 878.
+
+Q: How do you sort 27, 18, and 25?
+A: In order, they are 18 25 27.
+
+Q: How do you sort 847, 221, and 203?
+A: In order, they are 203 221 847.
+
+Q: How do you sort 809, 415, and 592?
+A: In order, they are 415 592 809.
+
+Q: How do you sort 408, 452, and 75?
+A: In order, they are 75 408 452.
+
+Q: How do you sort 16, 11, and 8?
+A: In order, they are 8 11 16.
+
+Q: How do you sort 13, 1, and 9?
+A: In order, they are 1 9 13.
+
+Q: What continent is Senegal on?
+A: Senegal is on the continent of Africa.
+
+Q: What continent is Kazakhstan on?
+A: Kazakhstan is on the continent of Asia.
+
+Q: What continent is Guyana on?
+A: Guyana is on the continent of South America.
+
+Q: What continent is the Philippines on?
+A: the Philippines is on the continent of Asia.
+
+Q: What continent is Kiribati on?
+A: Kiribati is on the continent of Oceania.
+
+Q: What continent is Peru on?
+A: Peru is on the continent of South America.
+
+Q: What continent is Tunisia on?
+A: Tunisia is on the continent of Africa.
+
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: How do you write 88 in words?
+A: 88 in words is eighty-eight.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 15 in words?
+A: 15 in words is fifteen.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: What is the capital of Costa Rica?
+A: The capital of Costa Rica is San Jose.
+
+Q: What is the capital of Finland?
+A: The capital of Finland is Helsinki.
+
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+
+Q: What is the capital of Georgia?
+A: The capital of Georgia is Tbilisi.
+
+Q: What is the capital of the Central African Republic?
+A: The capital of the Central African Republic is Bangui.
+
+Q: What is the capital of Lithuania?
+A: The capital of Lithuania is Vilnius.
+
+Q: What is the capital of Gambia?
+A: The capital of Gambia is Banjul.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
