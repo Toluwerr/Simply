@@ -3297,3 +3297,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.65 | weakest: arithmetic 0.00, compare 0.00, double_half 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny AI boat smar of too self-improvement loop."
 
+## Promotion - v7 - weights committed
+- **reason**: knowledge 0.70, was 0.52; val 0.5551
+- self-portrait, asked "Who are you?": *"I am a small set, bit will small."
+
