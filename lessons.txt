@@ -26870,3 +26870,110 @@ A: The Roman numeral for 74 is lxxiv.
 
 Q: What is the Roman numeral for 36?
 A: The Roman numeral for 36 is xxxvi.
+Q: What is 448 plus 407?
+A: 448 plus 407 is 855.
+
+Q: What is 15 times 18?
+A: 15 times 18 is 270.
+
+Q: What is 13 times 12?
+A: 13 times 12 is 156.
+
+Q: What is 605 minus 102?
+A: 605 minus 102 is 503.
+
+Q: What is 991 plus 243?
+A: 991 plus 243 is 1234.
+
+Q: What is 7 times 9?
+A: 7 times 9 is 63.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by twos from 24 to 30?
+A: Counting by twos gives 24 26 28 30.
+
+Q: Can you count by ones from 16 to 20?
+A: Counting by ones gives 16 17 18 19 20.
+
+Q: Can you count by ones from 7 to 10?
+A: Counting by ones gives 7 8 9 10.
+
+Q: Can you count by twos from 36 to 44?
+A: Counting by twos gives 36 38 40 42 44.
+
+Q: Can you count by fives from 5 to 30?
+A: Counting by fives gives 5 10 15 20 25 30.
+
+Q: What is the first letter of 'selenium'?
+A: The first letter of 'selenium' is S.
+
+Q: What is the last letter of 'night'?
+A: The last letter of 'night' is T.
+
+Q: What is the last letter of 'skopje'?
+A: The last letter of 'skopje' is E.
+
+Q: What is the first letter of 'banjul'?
+A: The first letter of 'banjul' is B.
+
+Q: What is the first letter of 'promethium'?
+A: The first letter of 'promethium' is P.
+
+Q: What is the first letter of 'taiwan'?
+A: The first letter of 'taiwan' is T.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 3 in words?
+A: 3 in words is three.
+
+Q: What is the capital of the Philippines?
+A: The capital of the Philippines is Manila.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: What is the capital of Haiti?
+A: The capital of Haiti is Port-au-Prince.
+
+Q: What is the capital of Kyrgyzstan?
+A: The capital of Kyrgyzstan is Bishkek.
+
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of Botswana?
+A: The capital of Botswana is Gaborone.
+
+Q: How many letters does the word 'koala' have?
+A: The word 'koala' has 5 letters.
+
+Q: How many letters does the word 'nashville' have?
+A: The word 'nashville' has 9 letters.
+
+Q: How many letters does the word 'dalasi' have?
+A: The word 'dalasi' has 6 letters.
+
+Q: How many letters does the word 'mauritania' have?
+A: The word 'mauritania' has 10 letters.
+
+Q: How many letters does the word 'rabat' have?
+A: The word 'rabat' has 5 letters.
+
+Q: How many letters does the word 'nairobi' have?
+A: The word 'nairobi' has 7 letters.
