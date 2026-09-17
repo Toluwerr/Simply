@@ -59602,3 +59602,170 @@ A: The capital of France is Paris.
 
 Q: What is the capital of Turkmenistan?
 A: The capital of Turkmenistan is Ashgabat.
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What is the chemical symbol for americium?
+A: The chemical symbol for americium is Am.
+
+Q: What is the chemical symbol for nitrogen?
+A: The chemical symbol for nitrogen is N.
+
+Q: Which element has the chemical symbol Li?
+A: Li is the chemical symbol for lithium.
+
+Q: Which element has the chemical symbol Tc?
+A: Tc is the chemical symbol for technetium.
+
+Q: What is the chemical symbol for calcium?
+A: The chemical symbol for calcium is Ca.
+
+Q: What is the chemical symbol for argon?
+A: The chemical symbol for argon is Ar.
+
+Q: What is the chemical symbol for americium?
+A: The chemical symbol for americium is Am.
+
+Q: What is the chemical symbol for hafnium?
+A: The chemical symbol for hafnium is Hf.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the Roman numeral for 905?
+A: The Roman numeral for 905 is cmv.
+
+Q: What is the Roman numeral for 923?
+A: The Roman numeral for 923 is cmxxiii.
+
+Q: What is the Roman numeral for 118?
+A: The Roman numeral for 118 is cxviii.
+
+Q: What number is the Roman numeral cclxxiii?
+A: The Roman numeral cclxxiii is the number 273.
+
+Q: What is the Roman numeral for 16?
+A: The Roman numeral for 16 is xvi.
+
+Q: What is the Roman numeral for 66?
+A: The Roman numeral for 66 is lxvi.
+
+Q: What number is the Roman numeral lix?
+A: The Roman numeral lix is the number 59.
+
+Q: What number is the Roman numeral dcccxvii?
+A: The Roman numeral dcccxvii is the number 817.
+
+Q: Is 67 bigger than 85?
+A: No, 85 is bigger than 67.
+
+Q: Is 86 bigger than 52?
+A: Yes, 86 is bigger than 52.
+
+Q: Which is bigger, 23 or 30?
+A: 30 is bigger than 23.
+
+Q: Which is bigger, 717 or 337?
+A: 717 is bigger than 337.
+
+Q: Which is bigger, 13 or 8?
+A: 13 is bigger than 8.
+
+Q: Which is bigger, 15 or 7?
+A: 15 is bigger than 7.
+
+Q: Which is bigger, 554 or 638?
+A: 638 is bigger than 554.
+
+Q: Is 125 bigger than 473?
+A: No, 473 is bigger than 125.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is double 7?
+A: Double 7 is 14.
+
+Q: What is double 12?
+A: Double 12 is 24.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is double 54?
+A: Double 54 is 108.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is double 48?
+A: Double 48 is 96.
+
+Q: What is 6 times 4?
+A: 6 times 4 is 24.
+
+Q: What is 5 times 10?
+A: 5 times 10 is 50.
+
+Q: What is 9 plus 9?
+A: 9 plus 9 is 18.
+
+Q: What is 82 minus 42?
+A: 82 minus 42 is 40.
+
+Q: What is 90 minus 78?
+A: 90 minus 78 is 12.
+
+Q: What is 734 minus 477?
+A: 734 minus 477 is 257.
+
+Q: What is 40 plus 98?
+A: 40 plus 98 is 138.
+
+Q: What is 29 minus 17?
+A: 29 minus 17 is 12.
