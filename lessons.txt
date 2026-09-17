@@ -56301,3 +56301,170 @@ A: 10 in words is ten.
 
 Q: How do you write 98 in words?
 A: 98 in words is ninety-eight.
+Q: Which is bigger, 81 or 17?
+A: 81 is bigger than 17.
+
+Q: Is 47 bigger than 45?
+A: Yes, 47 is bigger than 45.
+
+Q: Is 733 bigger than 196?
+A: Yes, 733 is bigger than 196.
+
+Q: Which is bigger, 17 or 8?
+A: 17 is bigger than 8.
+
+Q: Which is bigger, 19 or 62?
+A: 62 is bigger than 19.
+
+Q: Which is bigger, 17 or 3?
+A: 17 is bigger than 3.
+
+Q: Which is bigger, 11 or 5?
+A: 11 is bigger than 5.
+
+Q: Is 134 bigger than 810?
+A: No, 810 is bigger than 134.
+
+Q: How do you sort 15, 20, and 21?
+A: In order, they are 15 20 21.
+
+Q: How do you sort 16, 18, and 5?
+A: In order, they are 5 16 18.
+
+Q: How do you sort 453, 922, and 95?
+A: In order, they are 95 453 922.
+
+Q: How do you sort 249, 29, and 776?
+A: In order, they are 29 249 776.
+
+Q: How do you sort 29, 7, and 17?
+A: In order, they are 7 17 29.
+
+Q: How do you sort 159, 447, and 672?
+A: In order, they are 159 447 672.
+
+Q: How do you sort 14, 24, and 11?
+A: In order, they are 11 14 24.
+
+Q: How do you sort 839, 882, and 909?
+A: In order, they are 839 882 909.
+
+Q: What continent is Tuvalu on?
+A: Tuvalu is on the continent of Oceania.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: What continent is Kenya on?
+A: Kenya is on the continent of Africa.
+
+Q: What continent is Mozambique on?
+A: Mozambique is on the continent of Africa.
+
+Q: What continent is Singapore on?
+A: Singapore is on the continent of Asia.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: What continent is Armenia on?
+A: Armenia is on the continent of Asia.
+
+Q: How do you write 19 in words?
+A: 19 in words is nineteen.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 97 in words?
+A: 97 in words is ninety-seven.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: What is the capital of Denmark?
+A: The capital of Denmark is Copenhagen.
+
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of the Dominican Republic?
+A: The capital of the Dominican Republic is Santo Domingo.
+
+Q: What is the capital of Nauru?
+A: The capital of Nauru is Yaren.
+
+Q: What is the capital of Belarus?
+A: The capital of Belarus is Minsk.
+
+Q: What is the capital of South Sudan?
+A: The capital of South Sudan is Juba.
+
+Q: What is the capital of the Seychelles?
+A: The capital of the Seychelles is Victoria.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
