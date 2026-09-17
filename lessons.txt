@@ -56635,3 +56635,170 @@ A: 773 is bigger than 659.
 
 Q: Is 37 bigger than 28?
 A: Yes, 37 is bigger than 28.
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: How do you write 48 in words?
+A: 48 in words is forty-eight.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: What currency does Zimbabwe use?
+A: The currency of Zimbabwe is the dollar.
+
+Q: What currency does Mexico use?
+A: The currency of Mexico is the peso.
+
+Q: What currency does Saudi Arabia use?
+A: The currency of Saudi Arabia is the riyal.
+
+Q: What currency does Venezuela use?
+A: The currency of Venezuela is the bolivar.
+
+Q: What currency does Finland use?
+A: The currency of Finland is the euro.
+
+Q: What currency does Cuba use?
+A: The currency of Cuba is the peso.
+
+Q: What currency does Thailand use?
+A: The currency of Thailand is the baht.
+
+Q: What currency does Mauritius use?
+A: The currency of Mauritius is the rupee.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: How do you sort 146, 417, and 229?
+A: In order, they are 146 229 417.
+
+Q: How do you sort 883, 537, and 415?
+A: In order, they are 415 537 883.
+
+Q: How do you sort 20, 5, and 12?
+A: In order, they are 5 12 20.
+
+Q: How do you sort 591, 170, and 383?
+A: In order, they are 170 383 591.
+
+Q: How do you sort 580, 770, and 371?
+A: In order, they are 371 580 770.
+
+Q: How do you sort 27, 5, and 12?
+A: In order, they are 5 12 27.
+
+Q: How do you sort 352, 286, and 690?
+A: In order, they are 286 352 690.
+
+Q: How do you sort 26, 19, and 5?
+A: In order, they are 5 19 26.
+
+Q: What is the first letter of 'paris'?
+A: The first letter of 'paris' is P.
+
+Q: What is the first letter of 'muscat'?
+A: The first letter of 'muscat' is M.
+
+Q: What is the first letter of 'eritrea'?
+A: The first letter of 'eritrea' is E.
+
+Q: What is the last letter of 'des'?
+A: The last letter of 'des' is S.
+
+Q: What is the last letter of 'tallinn'?
+A: The last letter of 'tallinn' is N.
+
+Q: What is the last letter of 'thailand'?
+A: The last letter of 'thailand' is D.
+
+Q: What is the last letter of 'lumpur'?
+A: The last letter of 'lumpur' is R.
+
+Q: What is the last letter of 'ruthenium'?
+A: The last letter of 'ruthenium' is M.
