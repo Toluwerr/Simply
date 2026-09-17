@@ -36887,3 +36887,170 @@ A: The capital of Switzerland is Bern.
 
 Q: What is the capital of Kyrgyzstan?
 A: The capital of Kyrgyzstan is Bishkek.
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
+
+Q: What is the capital of Cyprus?
+A: The capital of Cyprus is Nicosia.
+
+Q: What is the capital of Iran?
+A: The capital of Iran is Tehran.
+
+Q: What is the capital of Mali?
+A: The capital of Mali is Bamako.
+
+Q: What is the capital of Mauritania?
+A: The capital of Mauritania is Nouakchott.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is the capital of Djibouti?
+A: The capital of Djibouti is Djibouti.
+
+Q: What is the capital of Fiji?
+A: The capital of Fiji is Suva.
+
+Q: What is 351 plus 650?
+A: 351 plus 650 is 1001.
+
+Q: What is 21 minus 16?
+A: 21 minus 16 is 5.
+
+Q: What is 4 times 5?
+A: 4 times 5 is 20.
+
+Q: What is 43 minus 26?
+A: 43 minus 26 is 17.
+
+Q: What is 14 times 12?
+A: 14 times 12 is 168.
+
+Q: What is 11 plus 13?
+A: 11 plus 13 is 24.
+
+Q: What is 13 times 11?
+A: 13 times 11 is 143.
+
+Q: What is 9 times 4?
+A: 9 times 4 is 36.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: How many letters does the word 'central' have?
+A: The word 'central' has 7 letters.
+
+Q: How many letters does the word 'bandar' have?
+A: The word 'bandar' has 6 letters.
+
+Q: How many letters does the word 'suva' have?
+A: The word 'suva' has 4 letters.
+
+Q: How many letters does the word 'quiet' have?
+A: The word 'quiet' has 5 letters.
+
+Q: How many letters does the word 'romania' have?
+A: The word 'romania' has 7 letters.
+
+Q: How many letters does the word 'sol' have?
+A: The word 'sol' has 3 letters.
+
+Q: How many letters does the word 'kind' have?
+A: The word 'kind' has 4 letters.
+
+Q: How many letters does the word 'salem' have?
+A: The word 'salem' has 5 letters.
+
+Q: What is the first letter of 'eritrea'?
+A: The first letter of 'eritrea' is E.
+
+Q: What is the first letter of 'seri'?
+A: The first letter of 'seri' is S.
+
+Q: What is the first letter of 'closed'?
+A: The first letter of 'closed' is C.
+
+Q: What is the first letter of 'dog'?
+A: The first letter of 'dog' is D.
+
+Q: What is the last letter of 'ottawa'?
+A: The last letter of 'ottawa' is A.
+
+Q: What is the first letter of 'nepal'?
+A: The first letter of 'nepal' is N.
+
+Q: What is the last letter of 'nassau'?
+A: The last letter of 'nassau' is U.
+
+Q: What is the last letter of 'cambodia'?
+A: The last letter of 'cambodia' is A.
+
+Q: Is 367 bigger than 961?
+A: No, 961 is bigger than 367.
+
+Q: Is 56 bigger than 72?
+A: No, 72 is bigger than 56.
+
+Q: Is 14 bigger than 8?
+A: Yes, 14 is bigger than 8.
+
+Q: Which is bigger, 15 or 19?
+A: 19 is bigger than 15.
+
+Q: Is 979 bigger than 307?
+A: Yes, 979 is bigger than 307.
+
+Q: Which is bigger, 788 or 958?
+A: 958 is bigger than 788.
+
+Q: Which is bigger, 16 or 4?
+A: 16 is bigger than 4.
+
+Q: Is 557 bigger than 810?
+A: No, 810 is bigger than 557.
