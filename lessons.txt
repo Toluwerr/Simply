@@ -19728,3 +19728,110 @@ A: 12 times 6 is 72.
 
 Q: What is 52 plus 22?
 A: 52 plus 22 is 74.
+Q: What is the last letter of 'eritrea'?
+A: The last letter of 'eritrea' is A.
+
+Q: What is the last letter of 'california'?
+A: The last letter of 'california' is A.
+
+Q: What is the first letter of 'cuba'?
+A: The first letter of 'cuba' is C.
+
+Q: What is the first letter of 'large'?
+A: The first letter of 'large' is L.
+
+Q: What is the last letter of 'oslo'?
+A: The last letter of 'oslo' is O.
+
+Q: What is the last letter of 'warm'?
+A: The last letter of 'warm' is M.
+
+Q: How do you sort 3, 7, and 22?
+A: In order, they are 3 7 22.
+
+Q: How do you sort 129, 971, and 412?
+A: In order, they are 129 412 971.
+
+Q: How do you sort 803, 396, and 528?
+A: In order, they are 396 528 803.
+
+Q: How do you sort 964, 206, and 934?
+A: In order, they are 206 934 964.
+
+Q: How do you sort 5, 23, and 25?
+A: In order, they are 5 23 25.
+
+Q: How do you sort 23, 8, and 2?
+A: In order, they are 2 8 23.
+
+Q: Is 766 bigger than 990?
+A: No, 990 is bigger than 766.
+
+Q: Which is bigger, 32 or 14?
+A: 32 is bigger than 14.
+
+Q: Which is bigger, 71 or 38?
+A: 71 is bigger than 38.
+
+Q: Is 17 bigger than 4?
+A: Yes, 17 is bigger than 4.
+
+Q: Is 205 bigger than 370?
+A: No, 370 is bigger than 205.
+
+Q: Which is bigger, 371 or 296?
+A: 371 is bigger than 296.
+
+Q: What is the Roman numeral for 76?
+A: The Roman numeral for 76 is lxxvi.
+
+Q: What is the Roman numeral for 48?
+A: The Roman numeral for 48 is xlviii.
+
+Q: What number is the Roman numeral ix?
+A: The Roman numeral ix is the number 9.
+
+Q: What is the Roman numeral for 746?
+A: The Roman numeral for 746 is dccxlvi.
+
+Q: What number is the Roman numeral iii?
+A: The Roman numeral iii is the number 3.
+
+Q: What number is the Roman numeral xcvii?
+A: The Roman numeral xcvii is the number 97.
+
+Q: Which element has the chemical symbol Tm?
+A: Tm is the chemical symbol for thulium.
+
+Q: Which element has the chemical symbol Au?
+A: Au is the chemical symbol for gold.
+
+Q: Which element has the chemical symbol He?
+A: He is the chemical symbol for helium.
+
+Q: Which element has the chemical symbol Os?
+A: Os is the chemical symbol for osmium.
+
+Q: Which element has the chemical symbol Ag?
+A: Ag is the chemical symbol for silver.
+
+Q: Which element has the chemical symbol Pr?
+A: Pr is the chemical symbol for praseodymium.
+
+Q: How many letters does the word 'columbus' have?
+A: The word 'columbus' has 8 letters.
+
+Q: How many letters does the word 'ethiopia' have?
+A: The word 'ethiopia' has 8 letters.
+
+Q: How many letters does the word 'boston' have?
+A: The word 'boston' has 6 letters.
+
+Q: How many letters does the word 'michigan' have?
+A: The word 'michigan' has 8 letters.
+
+Q: How many letters does the word 'washington' have?
+A: The word 'washington' has 10 letters.
+
+Q: How many letters does the word 'bismuth' have?
+A: The word 'bismuth' has 7 letters.
