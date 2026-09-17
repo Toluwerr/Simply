@@ -43932,3 +43932,170 @@ A: 5 is bigger than 3.
 
 Q: Is 98 bigger than 22?
 A: Yes, 98 is bigger than 22.
+Q: Which is bigger, 680 or 843?
+A: 843 is bigger than 680.
+
+Q: Which is bigger, 71 or 88?
+A: 88 is bigger than 71.
+
+Q: Is 15 bigger than 72?
+A: No, 72 is bigger than 15.
+
+Q: Is 10 bigger than 11?
+A: No, 11 is bigger than 10.
+
+Q: Is 931 bigger than 771?
+A: Yes, 931 is bigger than 771.
+
+Q: Is 238 bigger than 843?
+A: No, 843 is bigger than 238.
+
+Q: Is 314 bigger than 893?
+A: No, 893 is bigger than 314.
+
+Q: Which is bigger, 32 or 84?
+A: 84 is bigger than 32.
+
+Q: How many letters does the word 'gold' have?
+A: The word 'gold' has 4 letters.
+
+Q: How many letters does the word 'eagle' have?
+A: The word 'eagle' has 5 letters.
+
+Q: How many letters does the word 'first' have?
+A: The word 'first' has 5 letters.
+
+Q: How many letters does the word 'mauritius' have?
+A: The word 'mauritius' has 9 letters.
+
+Q: How many letters does the word 'norway' have?
+A: The word 'norway' has 6 letters.
+
+Q: How many letters does the word 'domingo' have?
+A: The word 'domingo' has 7 letters.
+
+Q: How many letters does the word 'guarani' have?
+A: The word 'guarani' has 7 letters.
+
+Q: How many letters does the word 'maldives' have?
+A: The word 'maldives' has 8 letters.
+
+Q: How do you sort 15, 2, and 12?
+A: In order, they are 2 12 15.
+
+Q: How do you sort 825, 208, and 551?
+A: In order, they are 208 551 825.
+
+Q: How do you sort 10, 8, and 21?
+A: In order, they are 8 10 21.
+
+Q: How do you sort 9, 2, and 8?
+A: In order, they are 2 8 9.
+
+Q: How do you sort 20, 14, and 21?
+A: In order, they are 14 20 21.
+
+Q: How do you sort 400, 498, and 533?
+A: In order, they are 400 498 533.
+
+Q: How do you sort 728, 251, and 862?
+A: In order, they are 251 728 862.
+
+Q: How do you sort 2, 11, and 1?
+A: In order, they are 1 2 11.
+
+Q: What continent is Nauru on?
+A: Nauru is on the continent of Oceania.
+
+Q: What continent is Canada on?
+A: Canada is on the continent of North America.
+
+Q: What continent is Vanuatu on?
+A: Vanuatu is on the continent of Oceania.
+
+Q: What continent is Pakistan on?
+A: Pakistan is on the continent of Asia.
+
+Q: What continent is Germany on?
+A: Germany is on the continent of Europe.
+
+Q: What continent is Australia on?
+A: Australia is on the continent of Australia.
+
+Q: What continent is Somalia on?
+A: Somalia is on the continent of Africa.
+
+Q: What continent is Kazakhstan on?
+A: Kazakhstan is on the continent of Asia.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 67 in words?
+A: 67 in words is sixty-seven.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: How do you write 63 in words?
+A: 63 in words is sixty-three.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: What is the capital of Nigeria?
+A: The capital of Nigeria is Abuja.
+
+Q: What is the capital of Austria?
+A: The capital of Austria is Vienna.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of Suriname?
+A: The capital of Suriname is Paramaribo.
+
+Q: What is the capital of Austria?
+A: The capital of Austria is Vienna.
+
+Q: What is the capital of Nauru?
+A: The capital of Nauru is Yaren.
+
+Q: What is the capital of Tanzania?
+A: The capital of Tanzania is Dodoma.
