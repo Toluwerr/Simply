@@ -61367,3 +61367,146 @@ A: Double 38 is 76.
 
 Q: What is double 2?
 A: Double 2 is 4.
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: How many letters does the word 'praia' have?
+A: The word 'praia' has 5 letters.
+
+Q: How many letters does the word 'moo' have?
+A: The word 'moo' has 3 letters.
+
+Q: How many letters does the word 'jakarta' have?
+A: The word 'jakarta' has 7 letters.
+
+Q: How many letters does the word 'osmium' have?
+A: The word 'osmium' has 6 letters.
+
+Q: How many letters does the word 'kwacha' have?
+A: The word 'kwacha' has 6 letters.
+
+Q: How many letters does the word 'narrow' have?
+A: The word 'narrow' has 6 letters.
+
+Q: How many letters does the word 'guinea' have?
+A: The word 'guinea' has 6 letters.
+
+Q: How many letters does the word 'sticky' have?
+A: The word 'sticky' has 6 letters.
+
+Q: What is 19 minus 9?
+A: 19 minus 9 is 10.
+
+Q: What is 36 minus 22?
+A: 36 minus 22 is 14.
+
+Q: What is 20 plus 14?
+A: 20 plus 14 is 34.
+
+Q: What is 17 plus 17?
+A: 17 plus 17 is 34.
+
+Q: What is 941 minus 837?
+A: 941 minus 837 is 104.
+
+Q: What is 14 plus 20?
+A: 14 plus 20 is 34.
+
+Q: What is 2 times 2?
+A: 2 times 2 is 4.
+
+Q: What is 59 plus 57?
+A: 59 plus 57 is 116.
+
+Q: What continent is Gabon on?
+A: Gabon is on the continent of Africa.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What continent is Poland on?
+A: Poland is on the continent of Europe.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: What continent is Greece on?
+A: Greece is on the continent of Europe.
+
+Q: What continent is Iraq on?
+A: Iraq is on the continent of Asia.
+
+Q: What continent is the Republic of the Congo on?
+A: the Republic of the Congo is on the continent of Africa.
+
+Q: What continent is Finland on?
+A: Finland is on the continent of Europe.
+
+Q: What currency does South Africa use?
+A: The currency of South Africa is the rand.
+
+Q: What currency does Croatia use?
+A: The currency of Croatia is the euro.
+
+Q: What currency does Fiji use?
+A: The currency of Fiji is the dollar.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What currency does Trinidad and Tobago use?
+A: The currency of Trinidad and Tobago is the dollar.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What currency does Iran use?
+A: The currency of Iran is the rial.
+
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.

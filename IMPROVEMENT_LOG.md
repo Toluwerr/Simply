@@ -6044,3 +6044,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"The capital plus is the capital ofouruset first letter of '?"
 
+## Iteration 675 - NO_GAIN
+- **when**: 2026-09-17T10:16:09Z
+- **train loss**: 2.6254 | **val loss**: 1.5890 | **run best**: 1.3992
+- **corpus**: 284,500 chars (+0 self-written examples)
+- **internet reading**: +54 articles, +29 facts (2,414 read all-time)
+- **lr**: 0.0008 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Theital of the capital of the US in words much in words?"
+
