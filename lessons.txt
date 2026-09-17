@@ -21298,3 +21298,170 @@ A: The capital of Eswatini is Mbabane.
 
 Q: What is the capital of Slovenia?
 A: The capital of Slovenia is Ljubljana.
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: Which element has the chemical symbol Br?
+A: Br is the chemical symbol for bromine.
+
+Q: Which element has the chemical symbol Pt?
+A: Pt is the chemical symbol for platinum.
+
+Q: Which element has the chemical symbol Ni?
+A: Ni is the chemical symbol for nickel.
+
+Q: Which element has the chemical symbol Au?
+A: Au is the chemical symbol for gold.
+
+Q: Which element has the chemical symbol Yb?
+A: Yb is the chemical symbol for ytterbium.
+
+Q: What is the chemical symbol for technetium?
+A: The chemical symbol for technetium is Tc.
+
+Q: Which element has the chemical symbol Dy?
+A: Dy is the chemical symbol for dysprosium.
+
+Q: What is the chemical symbol for carbon?
+A: The chemical symbol for carbon is C.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What number is the Roman numeral ix?
+A: The Roman numeral ix is the number 9.
+
+Q: What number is the Roman numeral ix?
+A: The Roman numeral ix is the number 9.
+
+Q: What is the Roman numeral for 30?
+A: The Roman numeral for 30 is xxx.
+
+Q: What number is the Roman numeral dxxviii?
+A: The Roman numeral dxxviii is the number 528.
+
+Q: What is the Roman numeral for 84?
+A: The Roman numeral for 84 is lxxxiv.
+
+Q: What is the Roman numeral for 522?
+A: The Roman numeral for 522 is dxxii.
+
+Q: What number is the Roman numeral lx?
+A: The Roman numeral lx is the number 60.
+
+Q: What is the Roman numeral for 41?
+A: The Roman numeral for 41 is xli.
+
+Q: What is the first letter of 'indiana'?
+A: The first letter of 'indiana' is I.
+
+Q: What is the last letter of 'antigua'?
+A: The last letter of 'antigua' is A.
+
+Q: What is the last letter of 'uranium'?
+A: The last letter of 'uranium' is M.
+
+Q: What is the first letter of 'bismarck'?
+A: The first letter of 'bismarck' is B.
+
+Q: What is the last letter of 'cambodia'?
+A: The last letter of 'cambodia' is A.
+
+Q: What is the last letter of 'more'?
+A: The last letter of 'more' is E.
+
+Q: What is the first letter of 'euro'?
+A: The first letter of 'euro' is E.
+
+Q: What is the first letter of 'dollar'?
+A: The first letter of 'dollar' is D.
+
+Q: Which is bigger, 14 or 18?
+A: 18 is bigger than 14.
+
+Q: Which is bigger, 80 or 13?
+A: 80 is bigger than 13.
+
+Q: Is 43 bigger than 26?
+A: Yes, 43 is bigger than 26.
+
+Q: Which is bigger, 1 or 13?
+A: 13 is bigger than 1.
+
+Q: Is 13 bigger than 14?
+A: No, 14 is bigger than 13.
+
+Q: Which is bigger, 29 or 72?
+A: 72 is bigger than 29.
+
+Q: Which is bigger, 65 or 30?
+A: 65 is bigger than 30.
+
+Q: Is 19 bigger than 10?
+A: Yes, 19 is bigger than 10.
+
+Q: What is double 27?
+A: Double 27 is 54.
+
+Q: What is double 26?
+A: Double 26 is 52.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is double 42?
+A: Double 42 is 84.
+
+Q: What is double 54?
+A: Double 54 is 108.
+
+Q: What is double 26?
+A: Double 26 is 52.
+
+Q: What is half of 8?
+A: Half of 8 is 4.
