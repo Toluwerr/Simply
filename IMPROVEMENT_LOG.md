@@ -3015,3 +3015,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.30 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: opposites 1.00, animals 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I am trained by human called a little body."
 
+## Promotion - v4 - weights committed
+- **reason**: knowledge 0.39, was 0.30; val 0.6484
+- self-portrait, asked "Who are you?": *"I can a you."
+
