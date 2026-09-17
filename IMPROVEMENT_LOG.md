@@ -4636,3 +4636,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Theichan number 68 is xiii."
 
+## Promotion - v20 - weights promoted to Releases
+- **reason**: val_loss 1.6563, was 1.6652
+- self-portrait, asked "Who are you?": *"How many letters."
+
