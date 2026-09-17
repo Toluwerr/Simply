@@ -60747,3 +60747,170 @@ A: The opposite of 'rich' is 'poor'.
 
 Q: What is the opposite of 'fast'?
 A: The opposite of 'fast' is 'slow'.
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Romania use?
+A: The currency of Romania is the leu.
+
+Q: What currency does Nepal use?
+A: The currency of Nepal is the rupee.
+
+Q: What currency does Zambia use?
+A: The currency of Zambia is the kwacha.
+
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does Sri Lanka use?
+A: The currency of Sri Lanka is the rupee.
+
+Q: What is the Roman numeral for 755?
+A: The Roman numeral for 755 is dcclv.
+
+Q: What is the Roman numeral for 13?
+A: The Roman numeral for 13 is xiii.
+
+Q: What is the Roman numeral for 573?
+A: The Roman numeral for 573 is dlxxiii.
+
+Q: What is the Roman numeral for 240?
+A: The Roman numeral for 240 is ccxl.
+
+Q: What is the Roman numeral for 5?
+A: The Roman numeral for 5 is v.
+
+Q: What is the Roman numeral for 23?
+A: The Roman numeral for 23 is xxiii.
+
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What is the Roman numeral for 2?
+A: The Roman numeral for 2 is ii.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: What is 52 plus 56?
+A: 52 plus 56 is 108.
+
+Q: What is 16 minus 3?
+A: 16 minus 3 is 13.
+
+Q: What is 802 minus 311?
+A: 802 minus 311 is 491.
+
+Q: What is 45 minus 39?
+A: 45 minus 39 is 6.
+
+Q: What is 80 plus 36?
+A: 80 plus 36 is 116.
+
+Q: What is 83 plus 83?
+A: 83 plus 83 is 166.
+
+Q: What is 4 times 6?
+A: 4 times 6 is 24.
+
+Q: What is 11 times 16?
+A: 11 times 16 is 176.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
