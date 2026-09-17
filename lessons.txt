@@ -20049,3 +20049,110 @@ A: The chemical symbol for rhenium is Re.
 
 Q: What is the chemical symbol for vanadium?
 A: The chemical symbol for vanadium is V.
+Q: What continent is Bangladesh on?
+A: Bangladesh is on the continent of Asia.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What continent is Guinea on?
+A: Guinea is on the continent of Africa.
+
+Q: What continent is Chile on?
+A: Chile is on the continent of South America.
+
+Q: What continent is Cameroon on?
+A: Cameroon is on the continent of Africa.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What is the Roman numeral for 722?
+A: The Roman numeral for 722 is dccxxii.
+
+Q: What number is the Roman numeral xii?
+A: The Roman numeral xii is the number 12.
+
+Q: What is the Roman numeral for 54?
+A: The Roman numeral for 54 is liv.
+
+Q: What is the Roman numeral for 2?
+A: The Roman numeral for 2 is ii.
+
+Q: What is the Roman numeral for 620?
+A: The Roman numeral for 620 is dcxx.
+
+Q: What number is the Roman numeral xlii?
+A: The Roman numeral xlii is the number 42.
+
+Q: What is the last letter of 'ngerulmud'?
+A: The last letter of 'ngerulmud' is D.
+
+Q: What is the first letter of 'bangladesh'?
+A: The first letter of 'bangladesh' is B.
+
+Q: What is the last letter of 'washington'?
+A: The last letter of 'washington' is N.
+
+Q: What is the first letter of 'sierra'?
+A: The first letter of 'sierra' is S.
+
+Q: What is the last letter of 'light'?
+A: The last letter of 'light' is T.
+
+Q: What is the first letter of 'botswana'?
+A: The first letter of 'botswana' is B.
+
+Q: What is the chemical symbol for radium?
+A: The chemical symbol for radium is Ra.
+
+Q: Which element has the chemical symbol Am?
+A: Am is the chemical symbol for americium.
+
+Q: Which element has the chemical symbol Ir?
+A: Ir is the chemical symbol for iridium.
+
+Q: What is the chemical symbol for sulfur?
+A: The chemical symbol for sulfur is S.
+
+Q: What is the chemical symbol for tantalum?
+A: The chemical symbol for tantalum is Ta.
+
+Q: Which element has the chemical symbol Mn?
+A: Mn is the chemical symbol for manganese.
+
+Q: How do you sort 114, 791, and 720?
+A: In order, they are 114 720 791.
+
+Q: How do you sort 16, 17, and 22?
+A: In order, they are 16 17 22.
+
+Q: How do you sort 897, 498, and 624?
+A: In order, they are 498 624 897.
+
+Q: How do you sort 96, 848, and 396?
+A: In order, they are 96 396 848.
+
+Q: How do you sort 128, 633, and 305?
+A: In order, they are 128 305 633.
+
+Q: How do you sort 663, 722, and 898?
+A: In order, they are 663 722 898.
+
+Q: How many letters does the word 'cordoba' have?
+A: The word 'cordoba' has 7 letters.
+
+Q: How many letters does the word 'ocean' have?
+A: The word 'ocean' has 5 letters.
+
+Q: How many letters does the word 'very' have?
+A: The word 'very' has 4 letters.
+
+Q: How many letters does the word 'missouri' have?
+A: The word 'missouri' has 8 letters.
+
+Q: How many letters does the word 'peru' have?
+A: The word 'peru' has 4 letters.
+
+Q: How many letters does the word 'shekel' have?
+A: The word 'shekel' has 6 letters.
