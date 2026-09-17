@@ -40393,3 +40393,170 @@ A: 57 in words is fifty-seven.
 
 Q: How do you write 74 in words?
 A: 74 in words is seventy-four.
+Q: Which is bigger, 68 or 53?
+A: 68 is bigger than 53.
+
+Q: Which is bigger, 10 or 11?
+A: 11 is bigger than 10.
+
+Q: Is 36 bigger than 74?
+A: No, 74 is bigger than 36.
+
+Q: Is 554 bigger than 992?
+A: No, 992 is bigger than 554.
+
+Q: Which is bigger, 501 or 507?
+A: 507 is bigger than 501.
+
+Q: Is 318 bigger than 418?
+A: No, 418 is bigger than 318.
+
+Q: Which is bigger, 79 or 21?
+A: 79 is bigger than 21.
+
+Q: Which is bigger, 671 or 929?
+A: 929 is bigger than 671.
+
+Q: How many letters does the word 'skopje' have?
+A: The word 'skopje' has 6 letters.
+
+Q: How many letters does the word 'lira' have?
+A: The word 'lira' has 4 letters.
+
+Q: How many letters does the word 'weak' have?
+A: The word 'weak' has 4 letters.
+
+Q: How many letters does the word 'asmara' have?
+A: The word 'asmara' has 6 letters.
+
+Q: How many letters does the word 'chad' have?
+A: The word 'chad' has 4 letters.
+
+Q: How many letters does the word 'riel' have?
+A: The word 'riel' has 4 letters.
+
+Q: How many letters does the word 'made' have?
+A: The word 'made' has 4 letters.
+
+Q: How many letters does the word 'woof' have?
+A: The word 'woof' has 4 letters.
+
+Q: How do you sort 118, 947, and 194?
+A: In order, they are 118 194 947.
+
+Q: How do you sort 888, 336, and 906?
+A: In order, they are 336 888 906.
+
+Q: How do you sort 440, 202, and 66?
+A: In order, they are 66 202 440.
+
+Q: How do you sort 27, 20, and 10?
+A: In order, they are 10 20 27.
+
+Q: How do you sort 7, 24, and 11?
+A: In order, they are 7 11 24.
+
+Q: How do you sort 12, 16, and 13?
+A: In order, they are 12 13 16.
+
+Q: How do you sort 19, 1, and 5?
+A: In order, they are 1 5 19.
+
+Q: How do you sort 502, 155, and 749?
+A: In order, they are 155 502 749.
+
+Q: What continent is Burkina Faso on?
+A: Burkina Faso is on the continent of Africa.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What continent is Paraguay on?
+A: Paraguay is on the continent of South America.
+
+Q: What continent is Chile on?
+A: Chile is on the continent of South America.
+
+Q: What continent is Singapore on?
+A: Singapore is on the continent of Asia.
+
+Q: What continent is Sweden on?
+A: Sweden is on the continent of Europe.
+
+Q: What continent is Estonia on?
+A: Estonia is on the continent of Europe.
+
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 19 in words?
+A: 19 in words is nineteen.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
+
+Q: How do you write 39 in words?
+A: 39 in words is thirty-nine.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+
+Q: What is the capital of Algeria?
+A: The capital of Algeria is Algiers.
+
+Q: What is the capital of Colombia?
+A: The capital of Colombia is Bogota.
+
+Q: What is the capital of Chad?
+A: The capital of Chad is N'Djamena.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
