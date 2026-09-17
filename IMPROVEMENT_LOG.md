@@ -3422,3 +3422,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, sort 0.00, roman 0.00 | strongest: opposites 1.00, animals 1.00, records 1.00
 - self-portrait, asked "Who are you?": *"I am a smart iss while my dogetherous says 'buzz."
 
+## Iteration 393 - NO_GAIN
+- **when**: 2026-09-17T02:00:41Z
+- **train loss**: 1.2522 | **val loss**: 0.5711 | **run best**: 0.5542
+- **corpus**: 260,246 chars (+12 self-written examples)
+- **internet reading**: +30 articles, +15 facts (807 read all-time)
+- **lr**: 0.0004 | **steps**: 62
+- **knowledge quiz**: avg 0.70 | weakest: arithmetic 0.00, sort 0.00, letters 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am ruguary has 12 little books but vers."
+

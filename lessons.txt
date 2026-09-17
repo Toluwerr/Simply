@@ -17873,3 +17873,110 @@ A: 12 times 9 is 108.
 
 Q: What is 290 minus 215?
 A: 290 minus 215 is 75.
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of Cyprus?
+A: The capital of Cyprus is Nicosia.
+
+Q: What is the capital of Uzbekistan?
+A: The capital of Uzbekistan is Tashkent.
+
+Q: What is the capital of Somalia?
+A: The capital of Somalia is Mogadishu.
+
+Q: What is the capital of Equatorial Guinea?
+A: The capital of Equatorial Guinea is Malabo.
+
+Q: What is the capital of Fiji?
+A: The capital of Fiji is Suva.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.
+
+Q: What continent is Finland on?
+A: Finland is on the continent of Europe.
+
+Q: What continent is Vatican City on?
+A: Vatican City is on the continent of Europe.
+
+Q: What continent is Jordan on?
+A: Jordan is on the continent of Asia.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What is the Roman numeral for 108?
+A: The Roman numeral for 108 is cviii.
+
+Q: What is the Roman numeral for 666?
+A: The Roman numeral for 666 is dclxvi.
+
+Q: What number is the Roman numeral c?
+A: The Roman numeral c is the number 100.
+
+Q: What number is the Roman numeral cmi?
+A: The Roman numeral cmi is the number 901.
+
+Q: What is the Roman numeral for 80?
+A: The Roman numeral for 80 is lxxx.
+
+Q: What is the first letter of 'kenya'?
+A: The first letter of 'kenya' is K.
+
+Q: What is the first letter of 'vienna'?
+A: The first letter of 'vienna' is V.
+
+Q: What is the last letter of 'providence'?
+A: The last letter of 'providence' is E.
+
+Q: What is the last letter of 'zirconium'?
+A: The last letter of 'zirconium' is M.
+
+Q: What is the last letter of 'warsaw'?
+A: The last letter of 'warsaw' is W.
+
+Q: What is the first letter of 'iron'?
+A: The first letter of 'iron' is I.
+
+Q: Which element has the chemical symbol Tm?
+A: Tm is the chemical symbol for thulium.
+
+Q: Which element has the chemical symbol In?
+A: In is the chemical symbol for indium.
+
+Q: What is the chemical symbol for phosphorus?
+A: The chemical symbol for phosphorus is P.
+
+Q: What is the chemical symbol for uranium?
+A: The chemical symbol for uranium is U.
+
+Q: What is the chemical symbol for phosphorus?
+A: The chemical symbol for phosphorus is P.
+
+Q: What is the chemical symbol for barium?
+A: The chemical symbol for barium is Ba.
+
+Q: How do you sort 24, 2, and 6?
+A: In order, they are 2 6 24.
+
+Q: How do you sort 200, 562, and 343?
+A: In order, they are 200 343 562.
+
+Q: How do you sort 951, 260, and 526?
+A: In order, they are 260 526 951.
+
+Q: How do you sort 115, 406, and 493?
+A: In order, they are 115 406 493.
+
+Q: How do you sort 772, 821, and 719?
+A: In order, they are 719 772 821.
+
+Q: How do you sort 16, 2, and 8?
+A: In order, they are 2 8 16.
