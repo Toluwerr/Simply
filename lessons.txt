@@ -17766,3 +17766,110 @@ A: The currency of Tunisia is the dinar.
 
 Q: What currency does Cameroon use?
 A: The currency of Cameroon is the franc.
+Q: What is the freezing point of water?
+A: Water freezes at 0 degrees Celsius.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What is the closest star to Earth?
+A: The sun is the closest star to Earth.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: How many letters does the word 'wisconsin' have?
+A: The word 'wisconsin' has 9 letters.
+
+Q: How many letters does the word 'moo' have?
+A: The word 'moo' has 3 letters.
+
+Q: How many letters does the word 'kwacha' have?
+A: The word 'kwacha' has 6 letters.
+
+Q: How many letters does the word 'cuba' have?
+A: The word 'cuba' has 4 letters.
+
+Q: How many letters does the word 'kigali' have?
+A: The word 'kigali' has 6 letters.
+
+Q: How many letters does the word 'virginia' have?
+A: The word 'virginia' has 8 letters.
+
+Q: How do you sort 12, 27, and 29?
+A: In order, they are 12 27 29.
+
+Q: How do you sort 835, 549, and 74?
+A: In order, they are 74 549 835.
+
+Q: How do you sort 254, 869, and 66?
+A: In order, they are 66 254 869.
+
+Q: How do you sort 9, 26, and 20?
+A: In order, they are 9 20 26.
+
+Q: How do you sort 307, 57, and 640?
+A: In order, they are 57 307 640.
+
+Q: How do you sort 24, 15, and 21?
+A: In order, they are 15 21 24.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by ones from 7 to 10?
+A: Counting by ones gives 7 8 9 10.
+
+Q: Can you count by fives from 30 to 45?
+A: Counting by fives gives 30 35 40 45.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by fives from 20 to 45?
+A: Counting by fives gives 20 25 30 35 40 45.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is 7 times 3?
+A: 7 times 3 is 21.
+
+Q: What is 7 times 11?
+A: 7 times 11 is 77.
+
+Q: What is 17 plus 13?
+A: 17 plus 13 is 30.
+
+Q: What is 19 minus 18?
+A: 19 minus 18 is 1.
+
+Q: What is 12 times 9?
+A: 12 times 9 is 108.
+
+Q: What is 290 minus 215?
+A: 290 minus 215 is 75.
