@@ -53687,3 +53687,170 @@ A: The capital of Gambia is Banjul.
 
 Q: What is the capital of Ethiopia?
 A: The capital of Ethiopia is Addis Ababa.
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: What is the capital of Bosnia and Herzegovina?
+A: The capital of Bosnia and Herzegovina is Sarajevo.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: What is the capital of Nigeria?
+A: The capital of Nigeria is Abuja.
+
+Q: What is the capital of Sweden?
+A: The capital of Sweden is Stockholm.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Croatia?
+A: The capital of Croatia is Zagreb.
+
+Q: What is the capital of Oman?
+A: The capital of Oman is Muscat.
+
+Q: What is the capital of Sierra Leone?
+A: The capital of Sierra Leone is Freetown.
+
+Q: What is 70 minus 52?
+A: 70 minus 52 is 18.
+
+Q: What is 91 minus 54?
+A: 91 minus 54 is 37.
+
+Q: What is 43 minus 12?
+A: 43 minus 12 is 31.
+
+Q: What is 16 plus 64?
+A: 16 plus 64 is 80.
+
+Q: What is 3 times 8?
+A: 3 times 8 is 24.
+
+Q: What is 20 minus 5?
+A: 20 minus 5 is 15.
+
+Q: What is 11 times 13?
+A: 11 times 13 is 143.
+
+Q: What is 74 plus 47?
+A: 74 plus 47 is 121.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: How many letters does the word 'hungary' have?
+A: The word 'hungary' has 7 letters.
+
+Q: How many letters does the word 'broken' have?
+A: The word 'broken' has 6 letters.
+
+Q: How many letters does the word 'moldova' have?
+A: The word 'moldova' has 7 letters.
+
+Q: How many letters does the word 'swift' have?
+A: The word 'swift' has 5 letters.
+
+Q: How many letters does the word 'atlanta' have?
+A: The word 'atlanta' has 7 letters.
+
+Q: How many letters does the word 'addis' have?
+A: The word 'addis' has 5 letters.
+
+Q: How many letters does the word 'nicaragua' have?
+A: The word 'nicaragua' has 9 letters.
+
+Q: How many letters does the word 'very' have?
+A: The word 'very' has 4 letters.
+
+Q: What is the first letter of 'maputo'?
+A: The first letter of 'maputo' is M.
+
+Q: What is the first letter of 'columbia'?
+A: The first letter of 'columbia' is C.
+
+Q: What is the first letter of 'bucharest'?
+A: The first letter of 'bucharest' is B.
+
+Q: What is the first letter of 'moroni'?
+A: The first letter of 'moroni' is M.
+
+Q: What is the last letter of 'osmium'?
+A: The last letter of 'osmium' is M.
+
+Q: What is the last letter of 'shark'?
+A: The last letter of 'shark' is K.
+
+Q: What is the last letter of 'down'?
+A: The last letter of 'down' is N.
+
+Q: What is the last letter of 'indonesia'?
+A: The last letter of 'indonesia' is A.
+
+Q: Which is bigger, 9 or 19?
+A: 19 is bigger than 9.
+
+Q: Is 15 bigger than 6?
+A: Yes, 15 is bigger than 6.
+
+Q: Is 818 bigger than 664?
+A: Yes, 818 is bigger than 664.
+
+Q: Is 16 bigger than 9?
+A: Yes, 16 is bigger than 9.
+
+Q: Is 641 bigger than 502?
+A: Yes, 641 is bigger than 502.
+
+Q: Which is bigger, 20 or 22?
+A: 22 is bigger than 20.
+
+Q: Which is bigger, 91 or 49?
+A: 91 is bigger than 49.
+
+Q: Which is bigger, 8 or 7?
+A: 8 is bigger than 7.
