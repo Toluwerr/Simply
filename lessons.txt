@@ -43479,3 +43479,146 @@ A: The currency of Indonesia is the rupiah.
 
 Q: What currency does Papua New Guinea use?
 A: The currency of Papua New Guinea is the kina.
+Q: How many letters does the word 'mauritania' have?
+A: The word 'mauritania' has 10 letters.
+
+Q: How many letters does the word 'montevideo' have?
+A: The word 'montevideo' has 10 letters.
+
+Q: How many letters does the word 'north' have?
+A: The word 'north' has 5 letters.
+
+Q: How many letters does the word 'new' have?
+A: The word 'new' has 3 letters.
+
+Q: How many letters does the word 'colombia' have?
+A: The word 'colombia' has 8 letters.
+
+Q: How many letters does the word 'vanadium' have?
+A: The word 'vanadium' has 8 letters.
+
+Q: How many letters does the word 'carolina' have?
+A: The word 'carolina' has 8 letters.
+
+Q: How many letters does the word 'late' have?
+A: The word 'late' has 4 letters.
+
+Q: What is the last letter of 'real'?
+A: The last letter of 'real' is L.
+
+Q: What is the last letter of 'stand'?
+A: The last letter of 'stand' is D.
+
+Q: What is the first letter of 'messy'?
+A: The first letter of 'messy' is M.
+
+Q: What is the last letter of 'saturn'?
+A: The last letter of 'saturn' is N.
+
+Q: What is the last letter of 'benin'?
+A: The last letter of 'benin' is N.
+
+Q: What is the first letter of 'big'?
+A: The first letter of 'big' is B.
+
+Q: What is the first letter of 'sound'?
+A: The first letter of 'sound' is S.
+
+Q: What is the first letter of 'old'?
+A: The first letter of 'old' is O.
+
+Q: How do you sort 6, 7, and 11?
+A: In order, they are 6 7 11.
+
+Q: How do you sort 13, 9, and 20?
+A: In order, they are 9 13 20.
+
+Q: How do you sort 8, 27, and 21?
+A: In order, they are 8 21 27.
+
+Q: How do you sort 10, 15, and 2?
+A: In order, they are 2 10 15.
+
+Q: How do you sort 8, 26, and 5?
+A: In order, they are 5 8 26.
+
+Q: How do you sort 157, 693, and 88?
+A: In order, they are 88 157 693.
+
+Q: How do you sort 18, 11, and 22?
+A: In order, they are 11 18 22.
+
+Q: How do you sort 349, 935, and 363?
+A: In order, they are 349 363 935.
+
+Q: Is 4 bigger than 12?
+A: No, 12 is bigger than 4.
+
+Q: Which is bigger, 14 or 1?
+A: 14 is bigger than 1.
+
+Q: Is 932 bigger than 593?
+A: Yes, 932 is bigger than 593.
+
+Q: Which is bigger, 20 or 6?
+A: 20 is bigger than 6.
+
+Q: Which is bigger, 423 or 728?
+A: 728 is bigger than 423.
+
+Q: Which is bigger, 189 or 521?
+A: 521 is bigger than 189.
+
+Q: Is 1 bigger than 9?
+A: No, 9 is bigger than 1.
+
+Q: Is 17 bigger than 16?
+A: Yes, 17 is bigger than 16.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: What is the capital of North Macedonia?
+A: The capital of North Macedonia is Skopje.
+
+Q: What is the capital of Taiwan?
+A: The capital of Taiwan is Taipei.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: What is the capital of Cambodia?
+A: The capital of Cambodia is Phnom Penh.
+
+Q: What is the capital of Slovakia?
+A: The capital of Slovakia is Bratislava.
+
+Q: What is the capital of Brunei?
+A: The capital of Brunei is Bandar Seri Begawan.
+
+Q: What is the capital of Nepal?
+A: The capital of Nepal is Kathmandu.
+
+Q: What is the capital of Cuba?
+A: The capital of Cuba is Havana.

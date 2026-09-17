@@ -2515,3 +2515,60 @@ A: Konkani is a member of the Southern Indo-Aryan language group.
 
 Q: What is Khmer?
 A: Khmer is an Austroasiatic language spoken natively by the Khmer people and is an official language and national language of Cambodia.
+
+Q: What is Source Code Control System?
+A: Source Code Control System is a version control system designed to track changes in source code.
+
+Q: What is Apache Allura?
+A: Apache Allura is an open-source forge software for managing source code repositories, bug reports, discussions, wiki pages.
+
+Q: What is Baron George Hoyningen-Huene?
+A: Baron George Hoyningen-Huene is a fashion photographer of the 1920s and 1930s.
+
+Q: What is William Cone Johnson?
+A: William Cone Johnson is an American lawyer and politician.
+
+Q: What is Thayyil Radhakrishnan?
+A: Thayyil Radhakrishnan is a Malayalam novelist.
+
+Q: What is Bromsgrove and Redditch?
+A: Bromsgrove and Redditch is a parliamentary constituency located in Worcestershire, encompassing the towns of Bromsgrove and Redditch.
+
+Q: What is Evan Jones?
+A: Evan Jones is a former Welsh lawn bowler who competed at the Commonwealth Games.
+
+Q: What is Beech Grove?
+A: Beech Grove is a historic mansion in Nashville, Tennessee.
+
+Q: What is Lutfar Rahman Sarkar?
+A: Lutfar Rahman Sarkar is a Bangladeshi economist who served as the sixth Governor of Bangladesh Bank, the central bank of Bangladesh during 1996-1998.
+
+Q: What is Peasant economics?
+A: Peasant economics is an area of economics in which a wide variety of economic approaches ranging from the neoclassical to the Marxist are used to exam.
+
+Q: What is Chayanov?
+A: Chayanov is an early proponent of the importance of understanding peasant behaviour arguing that peasants would work as hard as they...
+
+Q: What is Kanwal Ameen?
+A: Kanwal Ameen is the first vice-chancellor, holding office from 31 May 2019 to May 2023.
+
+Q: What is Applied Economics Letters?
+A: Applied Economics Letters is a peer-reviewed academic journal covering applied economics.
+
+Q: What is Madras School of Economics?
+A: Madras School of Economics is an institution of higher education in economics, located in Chennai, India.
+
+Q: What is Middle-out economics?
+A: Middle-out economics is a branch of demand-side macroeconomic theory.
+
+Q: What is Technically, it?
+A: Technically, it is an unpredictable change in exogenous factors-that is.
+
+Q: What is Resource and Energy Economics?
+A: Resource and Energy Economics is a quarterly peer-reviewed academic journal covering energy economics.
+
+Q: What is Wealth?
+A: Wealth is the abundance of valuable financial assets or physical possessions which can be converted into a form that can be used for transactions.
+
+Q: What is Research Papers in Economics?
+A: Research Papers in Economics is a collaborative effort of hundreds of volunteers in many countries to enhance the dissemination of research in economi.
