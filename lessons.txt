@@ -54808,3 +54808,170 @@ A: 19 plus 77 is 96.
 
 Q: What is 241 plus 462?
 A: 241 plus 462 is 703.
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: What is the chemical symbol for dysprosium?
+A: The chemical symbol for dysprosium is Dy.
+
+Q: What is the chemical symbol for sulfur?
+A: The chemical symbol for sulfur is S.
+
+Q: What is the chemical symbol for rubidium?
+A: The chemical symbol for rubidium is Rb.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: Which element has the chemical symbol Zr?
+A: Zr is the chemical symbol for zirconium.
+
+Q: What is the chemical symbol for hydrogen?
+A: The chemical symbol for hydrogen is H.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What number is the Roman numeral xxvi?
+A: The Roman numeral xxvi is the number 26.
+
+Q: What number is the Roman numeral i?
+A: The Roman numeral i is the number 1.
+
+Q: What is the Roman numeral for 459?
+A: The Roman numeral for 459 is cdlix.
+
+Q: What is the Roman numeral for 10?
+A: The Roman numeral for 10 is x.
+
+Q: What number is the Roman numeral viii?
+A: The Roman numeral viii is the number 8.
+
+Q: What is the Roman numeral for 526?
+A: The Roman numeral for 526 is dxxvi.
+
+Q: What is the Roman numeral for 71?
+A: The Roman numeral for 71 is lxxi.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What is the last letter of 'iraq'?
+A: The last letter of 'iraq' is Q.
+
+Q: What is the first letter of 'oink'?
+A: The first letter of 'oink' is O.
+
+Q: What is the first letter of 'rupee'?
+A: The first letter of 'rupee' is R.
+
+Q: What is the last letter of 'malabo'?
+A: The last letter of 'malabo' is O.
+
+Q: What is the last letter of 'house'?
+A: The last letter of 'house' is E.
+
+Q: What is the first letter of 'pennsylvania'?
+A: The first letter of 'pennsylvania' is P.
+
+Q: What is the first letter of 'libreville'?
+A: The first letter of 'libreville' is L.
+
+Q: What is the last letter of 'islamabad'?
+A: The last letter of 'islamabad' is D.
+
+Q: Is 155 bigger than 265?
+A: No, 265 is bigger than 155.
+
+Q: Is 85 bigger than 18?
+A: Yes, 85 is bigger than 18.
+
+Q: Which is bigger, 19 or 18?
+A: 19 is bigger than 18.
+
+Q: Is 75 bigger than 10?
+A: Yes, 75 is bigger than 10.
+
+Q: Is 93 bigger than 98?
+A: No, 98 is bigger than 93.
+
+Q: Is 94 bigger than 72?
+A: Yes, 94 is bigger than 72.
+
+Q: Which is bigger, 15 or 8?
+A: 15 is bigger than 8.
+
+Q: Is 1 bigger than 3?
+A: No, 3 is bigger than 1.
+
+Q: What is double 9?
+A: Double 9 is 18.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is half of 14?
+A: Half of 14 is 7.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is double 6?
+A: Double 6 is 12.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is double 46?
+A: Double 46 is 92.
