@@ -54560,3 +54560,146 @@ A: 8 times 9 is 72.
 
 Q: What is 5 times 6?
 A: 5 times 6 is 30.
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: How many letters does the word 'austria' have?
+A: The word 'austria' has 7 letters.
+
+Q: How many letters does the word 'quetzal' have?
+A: The word 'quetzal' has 7 letters.
+
+Q: How many letters does the word 'osmium' have?
+A: The word 'osmium' has 6 letters.
+
+Q: How many letters does the word 'arsenic' have?
+A: The word 'arsenic' has 7 letters.
+
+Q: How many letters does the word 'quito' have?
+A: The word 'quito' has 5 letters.
+
+Q: How many letters does the word 'monrovia' have?
+A: The word 'monrovia' has 8 letters.
+
+Q: How many letters does the word 'micronesia' have?
+A: The word 'micronesia' has 10 letters.
+
+Q: How many letters does the word 'stale' have?
+A: The word 'stale' has 5 letters.
+
+Q: What is 60 minus 40?
+A: 60 minus 40 is 20.
+
+Q: What is 54 plus 52?
+A: 54 plus 52 is 106.
+
+Q: What is 713 plus 734?
+A: 713 plus 734 is 1447.
+
+Q: What is 12 plus 14?
+A: 12 plus 14 is 26.
+
+Q: What is 65 minus 17?
+A: 65 minus 17 is 48.
+
+Q: What is 687 minus 266?
+A: 687 minus 266 is 421.
+
+Q: What is 673 plus 166?
+A: 673 plus 166 is 839.
+
+Q: What is 9 times 7?
+A: 9 times 7 is 63.
+
+Q: What continent is China on?
+A: China is on the continent of Asia.
+
+Q: What continent is Moldova on?
+A: Moldova is on the continent of Europe.
+
+Q: What continent is Latvia on?
+A: Latvia is on the continent of Europe.
+
+Q: What continent is Papua New Guinea on?
+A: Papua New Guinea is on the continent of Oceania.
+
+Q: What continent is Serbia on?
+A: Serbia is on the continent of Europe.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is Cyprus on?
+A: Cyprus is on the continent of Asia.
+
+Q: What continent is Burkina Faso on?
+A: Burkina Faso is on the continent of Africa.
+
+Q: What currency does Bulgaria use?
+A: The currency of Bulgaria is the lev.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does Bosnia and Herzegovina use?
+A: The currency of Bosnia and Herzegovina is the mark.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
+
+Q: What currency does Botswana use?
+A: The currency of Botswana is the pula.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: How do you write 92 in words?
+A: 92 in words is ninety-two.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
