@@ -54107,3 +54107,146 @@ A: 'brisk' means quick and active.
 
 Q: What does 'cozy' mean?
 A: 'cozy' means warm and comfortable.
+Q: What is 568 plus 991?
+A: 568 plus 991 is 1559.
+
+Q: What is 255 plus 546?
+A: 255 plus 546 is 801.
+
+Q: What is 6 times 6?
+A: 6 times 6 is 36.
+
+Q: What is 10 plus 12?
+A: 10 plus 12 is 22.
+
+Q: What is 10 times 10?
+A: 10 times 10 is 100.
+
+Q: What is 2 plus 15?
+A: 2 plus 15 is 17.
+
+Q: What is 9 times 2?
+A: 9 times 2 is 18.
+
+Q: What is 82 minus 82?
+A: 82 minus 82 is 0.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: Can you count by ones from 35 to 38?
+A: Counting by ones gives 35 36 37 38.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by twos from 38 to 42?
+A: Counting by twos gives 38 40 42.
+
+Q: Can you count by fives from 10 to 20?
+A: Counting by fives gives 10 15 20.
+
+Q: Can you count by twos from 36 to 42?
+A: Counting by twos gives 36 38 40 42.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: What is half of 52?
+A: Half of 52 is 26.
+
+Q: What is double 17?
+A: Double 17 is 34.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What is double 33?
+A: Double 33 is 66.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What currency does Iran use?
+A: The currency of Iran is the rial.
+
+Q: What currency does Nigeria use?
+A: The currency of Nigeria is the naira.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
+
+Q: What currency does Israel use?
+A: The currency of Israel is the shekel.
+
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordoba.
+
+Q: What currency does New Zealand use?
+A: The currency of New Zealand is the dollar.
+
+Q: What currency does Paraguay use?
+A: The currency of Paraguay is the guarani.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
