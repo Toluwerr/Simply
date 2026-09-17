@@ -43446,3 +43446,146 @@ A: Half of 18 is 9.
 
 Q: What is double 39?
 A: Double 39 is 78.
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What is 669 plus 74?
+A: 669 plus 74 is 743.
+
+Q: What is 84 minus 62?
+A: 84 minus 62 is 22.
+
+Q: What is 11 times 16?
+A: 11 times 16 is 176.
+
+Q: What is 30 plus 98?
+A: 30 plus 98 is 128.
+
+Q: What is 118 plus 521?
+A: 118 plus 521 is 639.
+
+Q: What is 18 minus 18?
+A: 18 minus 18 is 0.
+
+Q: What is 6 times 7?
+A: 6 times 7 is 42.
+
+Q: What is 82 minus 26?
+A: 82 minus 26 is 56.
+
+Q: What continent is Kazakhstan on?
+A: Kazakhstan is on the continent of Asia.
+
+Q: What continent is Sudan on?
+A: Sudan is on the continent of Africa.
+
+Q: What continent is the Central African Republic on?
+A: the Central African Republic is on the continent of Africa.
+
+Q: What continent is Armenia on?
+A: Armenia is on the continent of Asia.
+
+Q: What continent is the Czech Republic on?
+A: the Czech Republic is on the continent of Europe.
+
+Q: What continent is the Czech Republic on?
+A: the Czech Republic is on the continent of Europe.
+
+Q: What continent is Moldova on?
+A: Moldova is on the continent of Europe.
+
+Q: What continent is Turkmenistan on?
+A: Turkmenistan is on the continent of Asia.
+
+Q: What currency does Zimbabwe use?
+A: The currency of Zimbabwe is the dollar.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: What currency does Canada use?
+A: The currency of Canada is the dollar.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
+
+Q: What currency does Uruguay use?
+A: The currency of Uruguay is the peso.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 25 in words?
+A: 25 in words is twenty-five.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: How do you write 88 in words?
+A: 88 in words is eighty-eight.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: Is 6 bigger than 18?
+A: No, 18 is bigger than 6.
+
+Q: Is 799 bigger than 940?
+A: No, 940 is bigger than 799.
+
+Q: Which is bigger, 4 or 13?
+A: 13 is bigger than 4.
+
+Q: Which is bigger, 57 or 35?
+A: 57 is bigger than 35.
+
+Q: Which is bigger, 52 or 90?
+A: 90 is bigger than 52.
+
+Q: Is 55 bigger than 95?
+A: No, 95 is bigger than 55.
+
+Q: Is 44 bigger than 60?
+A: No, 60 is bigger than 44.
+
+Q: Which is bigger, 139 or 732?
+A: 732 is bigger than 139.
