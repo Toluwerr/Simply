@@ -5730,3 +5730,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Theital of Masso."
 
+## Iteration 641 - NO_GAIN
+- **when**: 2026-09-17T09:16:44Z
+- **train loss**: 2.6788 | **val loss**: 1.4726 | **run best**: 1.4294
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +59 articles, +34 facts (2,183 read all-time)
+- **lr**: 0.0003 | **steps**: 30
+- **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, reading 0.00, definitions 0.00
+- self-portrait, asked "Who are you?": *"The wordstter of 'posite ofast letter of '?"
+
