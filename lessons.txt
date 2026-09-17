@@ -46165,3 +46165,146 @@ A: 'gentle' means soft and careful.
 
 Q: What does 'deep' mean?
 A: 'deep' means going far down.
+Q: What is 14 times 19?
+A: 14 times 19 is 266.
+
+Q: What is 6 times 11?
+A: 6 times 11 is 66.
+
+Q: What is 512 minus 433?
+A: 512 minus 433 is 79.
+
+Q: What is 10 times 9?
+A: 10 times 9 is 90.
+
+Q: What is 280 minus 122?
+A: 280 minus 122 is 158.
+
+Q: What is 58 plus 91?
+A: 58 plus 91 is 149.
+
+Q: What is 785 minus 699?
+A: 785 minus 699 is 86.
+
+Q: What is 90 minus 13?
+A: 90 minus 13 is 77.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the biggest planet?
+A: Jupiter is the biggest planet.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What is the biggest hot desert?
+A: The Sahara is the biggest hot desert.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: Can you count by fives from 15 to 40?
+A: Counting by fives gives 15 20 25 30 35 40.
+
+Q: Can you count by fives from 5 to 25?
+A: Counting by fives gives 5 10 15 20 25.
+
+Q: Can you count by ones from 35 to 40?
+A: Counting by ones gives 35 36 37 38 39 40.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by fives from 5 to 15?
+A: Counting by fives gives 5 10 15.
+
+Q: Can you count by fives from 10 to 25?
+A: Counting by fives gives 10 15 20 25.
+
+Q: Can you count by ones from 25 to 28?
+A: Counting by ones gives 25 26 27 28.
+
+Q: Can you count by ones from 20 to 24?
+A: Counting by ones gives 20 21 22 23 24.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is double 22?
+A: Double 22 is 44.
+
+Q: What is double 29?
+A: Double 29 is 58.
+
+Q: What is double 47?
+A: Double 47 is 94.
+
+Q: What is double 6?
+A: Double 6 is 12.
+
+Q: What is double 39?
+A: Double 39 is 78.
+
+Q: What is double 49?
+A: Double 49 is 98.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What currency does Bahrain use?
+A: The currency of Bahrain is the dinar.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does the Bahamas use?
+A: The currency of the Bahamas is the dollar.
+
+Q: What currency does Nigeria use?
+A: The currency of Nigeria is the naira.
+
+Q: What currency does Italy use?
+A: The currency of Italy is the euro.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
+
+Q: What currency does Egypt use?
+A: The currency of Egypt is the pound.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
