@@ -59316,3 +59316,146 @@ A: 'cozy' means warm and comfortable.
 
 Q: What does 'fierce' mean?
 A: 'fierce' means wild and aggressive.
+Q: What is 84 minus 62?
+A: 84 minus 62 is 22.
+
+Q: What is 4 plus 13?
+A: 4 plus 13 is 17.
+
+Q: What is 304 minus 47?
+A: 304 minus 47 is 257.
+
+Q: What is 8 plus 14?
+A: 8 plus 14 is 22.
+
+Q: What is 16 minus 12?
+A: 16 minus 12 is 4.
+
+Q: What is 721 minus 709?
+A: 721 minus 709 is 12.
+
+Q: What is 20 minus 20?
+A: 20 minus 20 is 0.
+
+Q: What is 970 plus 437?
+A: 970 plus 437 is 1407.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What is the biggest animal?
+A: The blue whale is the biggest animal.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the most populous country?
+A: India is the most populous country.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by fives from 20 to 35?
+A: Counting by fives gives 20 25 30 35.
+
+Q: Can you count by twos from 2 to 10?
+A: Counting by twos gives 2 4 6 8 10.
+
+Q: Can you count by ones from 33 to 37?
+A: Counting by ones gives 33 34 35 36 37.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is double 51?
+A: Double 51 is 102.
+
+Q: What currency does Latvia use?
+A: The currency of Latvia is the euro.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does Italy use?
+A: The currency of Italy is the euro.
+
+Q: What currency does Senegal use?
+A: The currency of Senegal is the franc.
+
+Q: What currency does Mauritius use?
+A: The currency of Mauritius is the rupee.
+
+Q: What currency does the United Arab Emirates use?
+A: The currency of the United Arab Emirates is the dirham.
+
+Q: What currency does Paraguay use?
+A: The currency of Paraguay is the guarani.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
