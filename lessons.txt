@@ -31314,3 +31314,110 @@ A: The capital of Syria is Damascus.
 
 Q: What is the capital of Honduras?
 A: The capital of Honduras is Tegucigalpa.
+Q: What is the chemical symbol for silver?
+A: The chemical symbol for silver is Ag.
+
+Q: Which element has the chemical symbol Rh?
+A: Rh is the chemical symbol for rhodium.
+
+Q: What is the chemical symbol for calcium?
+A: The chemical symbol for calcium is Ca.
+
+Q: Which element has the chemical symbol Hf?
+A: Hf is the chemical symbol for hafnium.
+
+Q: Which element has the chemical symbol Pd?
+A: Pd is the chemical symbol for palladium.
+
+Q: What is the chemical symbol for bromine?
+A: The chemical symbol for bromine is Br.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What is the Roman numeral for 844?
+A: The Roman numeral for 844 is dcccxliv.
+
+Q: What is the Roman numeral for 5?
+A: The Roman numeral for 5 is v.
+
+Q: What number is the Roman numeral ii?
+A: The Roman numeral ii is the number 2.
+
+Q: What number is the Roman numeral xcv?
+A: The Roman numeral xcv is the number 95.
+
+Q: What is the Roman numeral for 41?
+A: The Roman numeral for 41 is xli.
+
+Q: How many letters does the word 'large' have?
+A: The word 'large' has 5 letters.
+
+Q: How many letters does the word 'earth' have?
+A: The word 'earth' has 5 letters.
+
+Q: How many letters does the word 'cape' have?
+A: The word 'cape' has 4 letters.
+
+Q: How many letters does the word 'hungary' have?
+A: The word 'hungary' has 7 letters.
+
+Q: How many letters does the word 'hold' have?
+A: The word 'hold' has 4 letters.
+
+Q: How many letters does the word 'ljubljana' have?
+A: The word 'ljubljana' has 9 letters.
+
+Q: What continent is Switzerland on?
+A: Switzerland is on the continent of Europe.
+
+Q: What continent is Switzerland on?
+A: Switzerland is on the continent of Europe.
+
+Q: What continent is Poland on?
+A: Poland is on the continent of Europe.
+
+Q: What continent is Malawi on?
+A: Malawi is on the continent of Africa.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is Thailand on?
+A: Thailand is on the continent of Asia.
+
+Q: How do you sort 773, 225, and 714?
+A: In order, they are 225 714 773.
+
+Q: How do you sort 361, 18, and 870?
+A: In order, they are 18 361 870.
+
+Q: How do you sort 14, 13, and 22?
+A: In order, they are 13 14 22.
+
+Q: How do you sort 27, 23, and 26?
+A: In order, they are 23 26 27.
+
+Q: How do you sort 468, 250, and 625?
+A: In order, they are 250 468 625.
+
+Q: How do you sort 12, 16, and 15?
+A: In order, they are 12 15 16.
+
+Q: What currency does Mauritius use?
+A: The currency of Mauritius is the rupee.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What currency does Uzbekistan use?
+A: The currency of Uzbekistan is the som.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does Zambia use?
+A: The currency of Zambia is the kwacha.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.

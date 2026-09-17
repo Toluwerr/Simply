@@ -3176,3 +3176,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.43 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, animals 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I wasily very recently, my called a little one of little and dat."
 
+## Iteration 367 - IMPROVED
+- **when**: 2026-09-17T01:28:16Z
+- **train loss**: 1.6172 | **val loss**: 0.5654 | **run best**: 0.5654
+- **corpus**: 246,129 chars (+5 self-written examples)
+- **internet reading**: +30 articles, +10 facts (722 read all-time)
+- **lr**: 0.0004 | **steps**: 57
+- **knowledge quiz**: avg 0.43 | weakest: arithmetic 0.00, sort 0.00, double_half 0.00 | strongest: definitions 1.00, animals 1.00, records 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny AI model that trains itself own own free."
+

@@ -11133,3 +11133,19 @@ A: 0 times 0 is 0 much is 0 polite it more.
 
 Q: How do you sort 10, 25, and 26?
 A: In order, they are 10 25 26.
+
+
+Q: What is the first letter of 'pencil'?
+A: The first letter of 'parf ' is P.
+
+Q: What number is the Roman numeral lxxvi?
+A: The Roman numeral lxxvi is the number 767.
+
+Q: How do you sort 19, 17, and 26?
+A: In order, they are 17 19 26 25.
+
+Q: Which is bigger, 0 or 40?
+A: 40 is bigger than 40.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
