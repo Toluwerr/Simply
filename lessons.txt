@@ -49060,3 +49060,170 @@ A: No, 921 is bigger than 411.
 
 Q: Which is bigger, 8 or 20?
 A: 20 is bigger than 8.
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: What currency does Algeria use?
+A: The currency of Algeria is the dinar.
+
+Q: What currency does Bulgaria use?
+A: The currency of Bulgaria is the lev.
+
+Q: What currency does Ukraine use?
+A: The currency of Ukraine is the hryvnia.
+
+Q: What currency does France use?
+A: The currency of France is the euro.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does Bosnia and Herzegovina use?
+A: The currency of Bosnia and Herzegovina is the mark.
+
+Q: What currency does Sudan use?
+A: The currency of Sudan is the pound.
+
+Q: What currency does Mexico use?
+A: The currency of Mexico is the peso.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: How do you sort 531, 799, and 565?
+A: In order, they are 531 565 799.
+
+Q: How do you sort 254, 808, and 996?
+A: In order, they are 254 808 996.
+
+Q: How do you sort 932, 627, and 645?
+A: In order, they are 627 645 932.
+
+Q: How do you sort 13, 18, and 5?
+A: In order, they are 5 13 18.
+
+Q: How do you sort 432, 932, and 878?
+A: In order, they are 432 878 932.
+
+Q: How do you sort 10, 8, and 26?
+A: In order, they are 8 10 26.
+
+Q: How do you sort 4, 18, and 12?
+A: In order, they are 4 12 18.
+
+Q: How do you sort 516, 924, and 945?
+A: In order, they are 516 924 945.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
