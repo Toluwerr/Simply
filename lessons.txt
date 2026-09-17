@@ -50014,3 +50014,170 @@ A: The capital of Haiti is Port-au-Prince.
 
 Q: What is the capital of Chad?
 A: The capital of Chad is N'Djamena.
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What is the chemical symbol for rhodium?
+A: The chemical symbol for rhodium is Rh.
+
+Q: Which element has the chemical symbol Na?
+A: Na is the chemical symbol for sodium.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: Which element has the chemical symbol Rn?
+A: Rn is the chemical symbol for radon.
+
+Q: Which element has the chemical symbol Bi?
+A: Bi is the chemical symbol for bismuth.
+
+Q: Which element has the chemical symbol I?
+A: I is the chemical symbol for iodine.
+
+Q: Which element has the chemical symbol Cd?
+A: Cd is the chemical symbol for cadmium.
+
+Q: What is the chemical symbol for cobalt?
+A: The chemical symbol for cobalt is Co.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the Roman numeral for 91?
+A: The Roman numeral for 91 is xci.
+
+Q: What is the Roman numeral for 931?
+A: The Roman numeral for 931 is cmxxxi.
+
+Q: What number is the Roman numeral cdxcii?
+A: The Roman numeral cdxcii is the number 492.
+
+Q: What is the Roman numeral for 14?
+A: The Roman numeral for 14 is xiv.
+
+Q: What number is the Roman numeral lxxii?
+A: The Roman numeral lxxii is the number 72.
+
+Q: What number is the Roman numeral xxxii?
+A: The Roman numeral xxxii is the number 32.
+
+Q: What number is the Roman numeral dxix?
+A: The Roman numeral dxix is the number 519.
+
+Q: What number is the Roman numeral cmxli?
+A: The Roman numeral cmxli is the number 941.
+
+Q: What is the first letter of 'germanium'?
+A: The first letter of 'germanium' is G.
+
+Q: What is the last letter of 'owl'?
+A: The last letter of 'owl' is L.
+
+Q: What is the first letter of 'giant'?
+A: The first letter of 'giant' is G.
+
+Q: What is the last letter of 'phosphorus'?
+A: The last letter of 'phosphorus' is S.
+
+Q: What is the last letter of 'melon'?
+A: The last letter of 'melon' is N.
+
+Q: What is the last letter of 'morocco'?
+A: The last letter of 'morocco' is O.
+
+Q: What is the last letter of 'york'?
+A: The last letter of 'york' is K.
+
+Q: What is the first letter of 'moldova'?
+A: The first letter of 'moldova' is M.
+
+Q: Is 16 bigger than 19?
+A: No, 19 is bigger than 16.
+
+Q: Is 12 bigger than 10?
+A: Yes, 12 is bigger than 10.
+
+Q: Is 76 bigger than 75?
+A: Yes, 76 is bigger than 75.
+
+Q: Is 12 bigger than 3?
+A: Yes, 12 is bigger than 3.
+
+Q: Which is bigger, 40 or 29?
+A: 40 is bigger than 29.
+
+Q: Which is bigger, 7 or 1?
+A: 7 is bigger than 1.
+
+Q: Which is bigger, 65 or 22?
+A: 65 is bigger than 22.
+
+Q: Is 89 bigger than 84?
+A: Yes, 89 is bigger than 84.
+
+Q: What is double 5?
+A: Double 5 is 10.
+
+Q: What is double 50?
+A: Double 50 is 100.
+
+Q: What is half of 50?
+A: Half of 50 is 25.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is half of 2?
+A: Half of 2 is 1.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is half of 14?
+A: Half of 14 is 7.
