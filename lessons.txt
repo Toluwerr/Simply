@@ -21048,3 +21048,110 @@ A: Counting by fives gives 35 40 45.
 
 Q: Can you count by tens from 10 to 40?
 A: Counting by tens gives 10 20 30 40.
+Q: How many letters does the word 'terbium' have?
+A: The word 'terbium' has 7 letters.
+
+Q: How many letters does the word 'plutonium' have?
+A: The word 'plutonium' has 9 letters.
+
+Q: How many letters does the word 'astana' have?
+A: The word 'astana' has 6 letters.
+
+Q: How many letters does the word 'tennessee' have?
+A: The word 'tennessee' has 9 letters.
+
+Q: How many letters does the word 'sarajevo' have?
+A: The word 'sarajevo' has 8 letters.
+
+Q: How many letters does the word 'clean' have?
+A: The word 'clean' has 5 letters.
+
+Q: How do you sort 720, 707, and 759?
+A: In order, they are 707 720 759.
+
+Q: How do you sort 763, 998, and 351?
+A: In order, they are 351 763 998.
+
+Q: How do you sort 441, 854, and 244?
+A: In order, they are 244 441 854.
+
+Q: How do you sort 11, 14, and 28?
+A: In order, they are 11 14 28.
+
+Q: How do you sort 11, 4, and 8?
+A: In order, they are 4 8 11.
+
+Q: How do you sort 215, 547, and 387?
+A: In order, they are 215 387 547.
+
+Q: Can you count by twos from 36 to 46?
+A: Counting by twos gives 36 38 40 42 44 46.
+
+Q: Can you count by twos from 26 to 32?
+A: Counting by twos gives 26 28 30 32.
+
+Q: Can you count by fives from 5 to 15?
+A: Counting by fives gives 5 10 15.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by twos from 22 to 26?
+A: Counting by twos gives 22 24 26.
+
+Q: What is 6 times 4?
+A: 6 times 4 is 24.
+
+Q: What is 94 plus 59?
+A: 94 plus 59 is 153.
+
+Q: What is 110 plus 887?
+A: 110 plus 887 is 997.
+
+Q: What is 19 minus 15?
+A: 19 minus 15 is 4.
+
+Q: What is 6 times 4?
+A: 6 times 4 is 24.
+
+Q: What is 19 plus 23?
+A: 19 plus 23 is 42.
+
+Q: Is 4 bigger than 13?
+A: No, 13 is bigger than 4.
+
+Q: Is 12 bigger than 7?
+A: Yes, 12 is bigger than 7.
+
+Q: Is 11 bigger than 15?
+A: No, 15 is bigger than 11.
+
+Q: Which is bigger, 15 or 14?
+A: 15 is bigger than 14.
+
+Q: Is 16 bigger than 9?
+A: Yes, 16 is bigger than 9.
+
+Q: Is 52 bigger than 17?
+A: Yes, 52 is bigger than 17.
+
+Q: What is the chemical symbol for thorium?
+A: The chemical symbol for thorium is Th.
+
+Q: Which element has the chemical symbol Ba?
+A: Ba is the chemical symbol for barium.
+
+Q: What is the chemical symbol for nitrogen?
+A: The chemical symbol for nitrogen is N.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: Which element has the chemical symbol Ba?
+A: Ba is the chemical symbol for barium.
+
+Q: What is the chemical symbol for mercury?
+A: The chemical symbol for mercury is Hg.
