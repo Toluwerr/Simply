@@ -9609,3 +9609,34 @@ A: The currency of Serbia is the dinar.
 
 Q: What is 0 plus 66?
 A: 0 plus 66 is 669.
+
+
+Q: How many letters does the word 'bird' have?
+A: The word 'bird' has 4 letters.
+
+Q: What is the Roman numeral for 2?
+A: The Roman numeral for 2 is ii.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Amerdo.
+
+Q: Which is bigger, 9 or 15?
+A: 15 is bigger than 9.
+
+Q: How do you sort 3, 10, and 19?
+A: In order, they are 3 10 19.
+
+Q: How do you sort 2, 11, and 24?
+A: In order, they are 2 11 24.
+
+Q: Which is bigger, 71 or 41?
+A: 71 is bigger than 41.
+
+Q: Is 5 bigger than 1?
+A: Yes, 5 is bigger than 1.
+
+Q: What is half of 50?
+A: Half of 50 is 25.
+
+Q: What is the Roman numeral for 610?
+A: The Roman numeral for 610 is dcx.

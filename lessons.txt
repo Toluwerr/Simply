@@ -24498,3 +24498,110 @@ A: 17 in words is seventeen.
 
 Q: How do you write 21 in words?
 A: 21 in words is twenty-one.
+Q: What is the capital of Costa Rica?
+A: The capital of Costa Rica is San Jose.
+
+Q: What is the capital of the Central African Republic?
+A: The capital of the Central African Republic is Bangui.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of Bosnia and Herzegovina?
+A: The capital of Bosnia and Herzegovina is Sarajevo.
+
+Q: What is the capital of Iran?
+A: The capital of Iran is Tehran.
+
+Q: What is the capital of Guyana?
+A: The capital of Guyana is Georgetown.
+
+Q: What is the Roman numeral for 16?
+A: The Roman numeral for 16 is xvi.
+
+Q: What is the Roman numeral for 85?
+A: The Roman numeral for 85 is lxxxv.
+
+Q: What is the Roman numeral for 14?
+A: The Roman numeral for 14 is xiv.
+
+Q: What number is the Roman numeral dcccxciii?
+A: The Roman numeral dcccxciii is the number 893.
+
+Q: What is the Roman numeral for 277?
+A: The Roman numeral for 277 is cclxxvii.
+
+Q: What number is the Roman numeral xxxiv?
+A: The Roman numeral xxxiv is the number 34.
+
+Q: Is 16 bigger than 12?
+A: Yes, 16 is bigger than 12.
+
+Q: Which is bigger, 26 or 36?
+A: 36 is bigger than 26.
+
+Q: Is 2 bigger than 18?
+A: No, 18 is bigger than 2.
+
+Q: Is 35 bigger than 58?
+A: No, 58 is bigger than 35.
+
+Q: Which is bigger, 20 or 18?
+A: 20 is bigger than 18.
+
+Q: Which is bigger, 37 or 73?
+A: 73 is bigger than 37.
+
+Q: What is 19 minus 1?
+A: 19 minus 1 is 18.
+
+Q: What is 28 plus 14?
+A: 28 plus 14 is 42.
+
+Q: What is 12 plus 59?
+A: 12 plus 59 is 71.
+
+Q: What is 957 minus 405?
+A: 957 minus 405 is 552.
+
+Q: What is 748 minus 310?
+A: 748 minus 310 is 438.
+
+Q: What is 79 minus 45?
+A: 79 minus 45 is 34.
+
+Q: What is the first letter of 'bottle'?
+A: The first letter of 'bottle' is B.
+
+Q: What is the first letter of 'paanga'?
+A: The first letter of 'paanga' is P.
+
+Q: What is the first letter of 'balboa'?
+A: The first letter of 'balboa' is B.
+
+Q: What is the last letter of 'riyadh'?
+A: The last letter of 'riyadh' is H.
+
+Q: What is the first letter of 'afghani'?
+A: The first letter of 'afghani' is A.
+
+Q: What is the last letter of 'barium'?
+A: The last letter of 'barium' is M.
+
+Q: How many letters does the word 'titanium' have?
+A: The word 'titanium' has 8 letters.
+
+Q: How many letters does the word 'indianapolis' have?
+A: The word 'indianapolis' has 12 letters.
+
+Q: How many letters does the word 'sound' have?
+A: The word 'sound' has 5 letters.
+
+Q: How many letters does the word 'germanium' have?
+A: The word 'germanium' has 9 letters.
+
+Q: How many letters does the word 'with' have?
+A: The word 'with' has 4 letters.
+
+Q: How many letters does the word 'selenium' have?
+A: The word 'selenium' has 8 letters.
