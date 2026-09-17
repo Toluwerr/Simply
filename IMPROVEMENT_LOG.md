@@ -2705,3 +2705,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.48 | weakest: arithmetic 0.00, count 0.00, numwords 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny still befornample."
 
+## Iteration 316 - NO_GAIN
+- **when**: 2026-09-17T00:16:31Z
+- **train loss**: 0.9931 | **val loss**: 0.6996 | **run best**: 0.6988
+- **corpus**: 219,717 chars (+18 self-written examples)
+- **internet reading**: +30 articles, +14 facts (566 read all-time)
+- **lr**: 0.0008 | **steps**: 150
+- **knowledge quiz**: avg 0.48 | weakest: arithmetic 0.00, double_half 0.00, count 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-style everyth Goodmence."
+

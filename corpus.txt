@@ -9903,3 +9903,58 @@ A: 46 in words is forty-six.
 
 Q: What sound does a duck make?
 A: A duck says 'quack.
+
+
+Q: Can you count by fives from 30 to 40?
+A: Counting by fives gives 30 35 40.
+
+Q: Which is bigger, 5 or 8?
+A: 8 is bigger than 5.
+
+Q: Which element has the chemical symbol Am?
+A: Am is the chemical symbol for americium.
+
+Q: What currency does Bahrain use?
+A: The currency of Bahrain is the dinar.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What is 11 times 1?
+A: 11 times 1 is 112.
+
+Q: What currency does Thailand use?
+A: The currency of Thailand is the baht.
+
+Q: What currency does Turkey use?
+A: The currency of Turkey is the lira.
+
+Q: What number is the Roman numeral xiv?
+A: The Roman numeral xiv is the number 14.
+
+Q: What currency does Sri Lanka use?
+A: The currency of Sri Lanka is the rupee.
+
+Q: What is the chemical symbol for antimony?
+A: The chemical symbol for antimony is Sb.
+
+Q: What is the chemical symbol for strontium?
+A: The chemical symbol for strontium is Sr.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Osn hic.
+
+Q: How do you sort 22, 2, and 26?
+A: In order, they are 2 22 26.
+
+Q: What is the chemical symbol for tungsten?
+A: The chemical symbol for tungsten is W.
+
+Q: Which element has the chemical symbol Ar?
+A: Ar is the chemical symbol for argon.
+
+Q: What number is the Roman numeral xlv?
+A: The Roman numeral xlv is the number 45.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
