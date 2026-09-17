@@ -32570,3 +32570,170 @@ A: Yes, 17 is bigger than 4.
 
 Q: Is 20 bigger than 52?
 A: No, 52 is bigger than 20.
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What continent is Mauritania on?
+A: Mauritania is on the continent of Africa.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
+
+Q: What continent is Niger on?
+A: Niger is on the continent of Africa.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Norway on?
+A: Norway is on the continent of Europe.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What continent is the Maldives on?
+A: the Maldives is on the continent of Asia.
+
+Q: What continent is Liechtenstein on?
+A: Liechtenstein is on the continent of Europe.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: What is the capital of Eritrea?
+A: The capital of Eritrea is Asmara.
+
+Q: What is the capital of Tunisia?
+A: The capital of Tunisia is Tunis.
+
+Q: What is the capital of Greece?
+A: The capital of Greece is Athens.
+
+Q: What is the capital of Vatican City?
+A: The capital of Vatican City is Vatican City.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+
+Q: What is the capital of Luxembourg?
+A: The capital of Luxembourg is Luxembourg.
+
+Q: What is the capital of Malawi?
+A: The capital of Malawi is Lilongwe.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 76 in words?
+A: 76 in words is seventy-six.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: How do you sort 718, 335, and 120?
+A: In order, they are 120 335 718.
+
+Q: How do you sort 667, 707, and 454?
+A: In order, they are 454 667 707.
+
+Q: How do you sort 615, 274, and 877?
+A: In order, they are 274 615 877.
+
+Q: How do you sort 983, 437, and 295?
+A: In order, they are 295 437 983.
+
+Q: How do you sort 16, 28, and 6?
+A: In order, they are 6 16 28.
+
+Q: How do you sort 961, 182, and 650?
+A: In order, they are 182 650 961.
+
+Q: How do you sort 23, 19, and 24?
+A: In order, they are 19 23 24.
+
+Q: How do you sort 17, 27, and 12?
+A: In order, they are 12 17 27.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
