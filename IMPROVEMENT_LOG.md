@@ -2804,3 +2804,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.74 | weakest: compare 0.00, roman 0.00, letters 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-stype of See also a little has guitar the Trinidadum of the United States and Atime Aircadematica ediay . Premised by and are one of the last was of previous statistic in 1995.  References  Further with"
 
+## Iteration 327 - NO_GAIN
+- **when**: 2026-09-17T00:26:51Z
+- **train loss**: 1.1546 | **val loss**: 0.7071 | **run best**: 0.6960
+- **corpus**: 227,631 chars (+14 self-written examples)
+- **internet reading**: +30 articles, +23 facts (596 read all-time)
+- **lr**: 0.0003 | **steps**: 150
+- **knowledge quiz**: avg 0.70 | weakest: arithmetic 0.00, compare 0.00, spelling 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-stytle."
+

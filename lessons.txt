@@ -26656,3 +26656,110 @@ A: Japan is on the continent of Asia.
 
 Q: What continent is Japan on?
 A: Japan is on the continent of Asia.
+Q: What is the Roman numeral for 161?
+A: The Roman numeral for 161 is clxi.
+
+Q: What number is the Roman numeral xcviii?
+A: The Roman numeral xcviii is the number 98.
+
+Q: What number is the Roman numeral iii?
+A: The Roman numeral iii is the number 3.
+
+Q: What number is the Roman numeral xliii?
+A: The Roman numeral xliii is the number 43.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: Which is bigger, 1 or 19?
+A: 19 is bigger than 1.
+
+Q: Is 8 bigger than 4?
+A: Yes, 8 is bigger than 4.
+
+Q: Is 870 bigger than 555?
+A: Yes, 870 is bigger than 555.
+
+Q: Is 338 bigger than 710?
+A: No, 710 is bigger than 338.
+
+Q: Which is bigger, 99 or 30?
+A: 99 is bigger than 30.
+
+Q: Is 41 bigger than 13?
+A: Yes, 41 is bigger than 13.
+
+Q: What is the last letter of 'america'?
+A: The last letter of 'america' is A.
+
+Q: What is the last letter of 'canada'?
+A: The last letter of 'canada' is A.
+
+Q: What is the first letter of 'bosnia'?
+A: The first letter of 'bosnia' is B.
+
+Q: What is the first letter of 'laos'?
+A: The first letter of 'laos' is L.
+
+Q: What is the first letter of 'guinea'?
+A: The first letter of 'guinea' is G.
+
+Q: What is the first letter of 'weak'?
+A: The first letter of 'weak' is W.
+
+Q: How many letters does the word 'rich' have?
+A: The word 'rich' has 4 letters.
+
+Q: How many letters does the word 'oceania' have?
+A: The word 'oceania' has 7 letters.
+
+Q: How many letters does the word 'pencil' have?
+A: The word 'pencil' has 6 letters.
+
+Q: How many letters does the word 'sudan' have?
+A: The word 'sudan' has 5 letters.
+
+Q: How many letters does the word 'denver' have?
+A: The word 'denver' has 6 letters.
+
+Q: How many letters does the word 'banjul' have?
+A: The word 'banjul' has 6 letters.
+
+Q: Which element has the chemical symbol Pd?
+A: Pd is the chemical symbol for palladium.
+
+Q: What is the chemical symbol for americium?
+A: The chemical symbol for americium is Am.
+
+Q: What is the chemical symbol for phosphorus?
+A: The chemical symbol for phosphorus is P.
+
+Q: What is the chemical symbol for molybdenum?
+A: The chemical symbol for molybdenum is Mo.
+
+Q: Which element has the chemical symbol Cs?
+A: Cs is the chemical symbol for cesium.
+
+Q: Which element has the chemical symbol Rh?
+A: Rh is the chemical symbol for rhodium.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is the capital of Colombia?
+A: The capital of Colombia is Bogota.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Romania?
+A: The capital of Romania is Bucharest.
+
+Q: What is the capital of Vatican City?
+A: The capital of Vatican City is Vatican City.
+
+Q: What is the capital of Malawi?
+A: The capital of Malawi is Lilongwe.
