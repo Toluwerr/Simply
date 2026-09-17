@@ -3334,3 +3334,90 @@ A: Robert Roswell Palmer is an American historian.
 
 Q: What is Historical method?
 A: Historical method is the collection of techniques and guidelines that historians use to research and write histories of the past.
+
+Q: What is Automated machine learning?
+A: Automated machine learning is the process of automating the tasks of applying machine learning to real-world problems.
+
+Q: What is LoRA?
+A: LoRA is a parameter-efficient fine-tuning technique for large language models and other deep neural networks.
+
+Q: What is Machine learning in bioinformatics?
+A: Machine learning in bioinformatics is the application of machine learning algorithms to bioinformatics, including genomics, proteomics, microarrays.
+
+Q: What is Kyai Khti Saung Pagoda?
+A: Kyai Khti Saung Pagoda is a Buddhist pagoda in Bilin, Mon State.
+
+Q: What is INA?
+A: INA is the fruit of cooperation between France and Syria.
+
+Q: What is Challis railway station?
+A: Challis railway station is a suburban railway station in Kelmscott, a suburb of Perth, Western Australia.
+
+Q: What is Tahirou Congacou?
+A: Tahirou Congacou is a Beninese politician, most active during the 1960s, when his country was known as Dahomey.
+
+Q: What is Cannabidiol diacetate?
+A: Cannabidiol diacetate is a semi-synthetic derivative of cannabidiol derived by acetylation of the OH groups.
+
+Q: What is Kot Sukhia?
+A: Kot Sukhia is a village located in Faridkot district of Punjab, India.
+
+Q: What is Reliable Source Music?
+A: Reliable Source Music is a UK music production and publishing company that provides music to media professionals.
+
+Q: What is David 'Dai' Henry Lewis?
+A: David 'Dai' Henry Lewis is a Welsh rugby union forward who played club rugby for Canton RFC and Cardiff and international rugby for Wales.
+
+Q: What is Vetala Bhatta?
+A: Vetala Bhatta is a Sanskrit author from ancient India.
+
+Q: What is Scots Presbyterian Church?
+A: Scots Presbyterian Church is a Presbyterian church located at 90 South Terrace, on the corner with Parry Street, in Fremantle, Western Australia.
+
+Q: What is Cameraria bethunella?
+A: Cameraria bethunella is a moth of the family Gracillariidae.
+
+Q: What is Circuit de la Grisire?
+A: Circuit de la Grisire is a motorcycle speedway and flat track venue in Mcon, France.
+
+Q: What is La Malquerida?
+A: La Malquerida is the sixth album by the Mexican singer Mariana Seoane.
+
+Q: What is Computer addiction?
+A: Computer addiction is a form of behavioral addiction that can be described as the excessive or compulsive use of the computer.
+
+Q: What is Bass Computer?
+A: Bass Computer is the second studio album by American Miami bass artist Techmaster P.E.B.
+
+Q: What is Parallan Computer, Inc.,?
+A: Parallan Computer, Inc., is an American computer company active from 1986 to 1999 and based in Mountain View, California.
+
+Q: What is Computer?
+A: Computer is an IEEE Computer Society practitioner-oriented magazine issued to all members of the society.
+
+Q: What is Prime Computer, Inc.?
+A: Prime Computer, Inc. is a Natick, Massachusetts-based producer of minicomputers from 1972 until 1992.
+
+Q: What is Patni Computer Systems Limited?
+A: Patni Computer Systems Limited is a provider of IT services and business solutions founded by Narendra Patni.
+
+Q: What is Computer Bild?
+A: Computer Bild is a German fortnightly computer magazine published by Axel Springer SE.
+
+Q: What is Nebulae?
+A: Nebulae is a petascale supercomputer located at the National Supercomputing Center in Shenzhen, Guangdong, China.
+
+Q: What is Computer code?
+A: Computer code is a generic term for the instructions to be executed by a computer.
+
+Q: What is Apricot?
+A: Apricot is an innovative computer hardware company with a research.
+
+Q: What is Tadpole Computer?
+A: Tadpole Computer is a manufacturer of rugged, military specification UNI workstations, thin client laptops.
+
+Q: What is Computer Stew?
+A: Computer Stew is an Internet video series about technology created by John Hargrave, founder of Zug.com, and Jay Stevens.
+
+Q: What is Jeffrey Adgate Dean?
+A: Jeffrey Adgate Dean is an American computer scientist and software engineer.

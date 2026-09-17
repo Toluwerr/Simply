@@ -61057,3 +61057,146 @@ A: The currency of Ghana is the cedi.
 
 Q: What currency does Bahrain use?
 A: The currency of Bahrain is the dinar.
+Q: How many letters does the word 'thimphu' have?
+A: The word 'thimphu' has 7 letters.
+
+Q: How many letters does the word 'february' have?
+A: The word 'february' has 8 letters.
+
+Q: How many letters does the word 'fuzzy' have?
+A: The word 'fuzzy' has 5 letters.
+
+Q: How many letters does the word 'modern' have?
+A: The word 'modern' has 6 letters.
+
+Q: How many letters does the word 'arizona' have?
+A: The word 'arizona' has 7 letters.
+
+Q: How many letters does the word 'augusta' have?
+A: The word 'augusta' has 7 letters.
+
+Q: How many letters does the word 'abu' have?
+A: The word 'abu' has 3 letters.
+
+Q: How many letters does the word 'dublin' have?
+A: The word 'dublin' has 6 letters.
+
+Q: How do you sort 157, 189, and 160?
+A: In order, they are 157 160 189.
+
+Q: How do you sort 21, 27, and 2?
+A: In order, they are 2 21 27.
+
+Q: How do you sort 20, 13, and 1?
+A: In order, they are 1 13 20.
+
+Q: How do you sort 18, 21, and 22?
+A: In order, they are 18 21 22.
+
+Q: How do you sort 18, 13, and 23?
+A: In order, they are 13 18 23.
+
+Q: How do you sort 4, 22, and 6?
+A: In order, they are 4 6 22.
+
+Q: How do you sort 22, 28, and 14?
+A: In order, they are 14 22 28.
+
+Q: How do you sort 6, 19, and 13?
+A: In order, they are 6 13 19.
+
+Q: Which is bigger, 981 or 491?
+A: 981 is bigger than 491.
+
+Q: Which is bigger, 27 or 69?
+A: 69 is bigger than 27.
+
+Q: Which is bigger, 384 or 986?
+A: 986 is bigger than 384.
+
+Q: Which is bigger, 704 or 381?
+A: 704 is bigger than 381.
+
+Q: Is 955 bigger than 123?
+A: Yes, 955 is bigger than 123.
+
+Q: Which is bigger, 332 or 179?
+A: 332 is bigger than 179.
+
+Q: Which is bigger, 17 or 87?
+A: 87 is bigger than 17.
+
+Q: Which is bigger, 981 or 223?
+A: 981 is bigger than 223.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: What is the capital of Angola?
+A: The capital of Angola is Luanda.
+
+Q: What is the capital of Samoa?
+A: The capital of Samoa is Apia.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: What is the capital of Sierra Leone?
+A: The capital of Sierra Leone is Freetown.
+
+Q: What is the capital of Romania?
+A: The capital of Romania is Bucharest.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
+
+Q: What is the capital of Lithuania?
+A: The capital of Lithuania is Vilnius.
+
+Q: What is the capital of Tonga?
+A: The capital of Tonga is Nuku'alofa.
+
+Q: What is 3 times 4?
+A: 3 times 4 is 12.
+
+Q: What is 153 plus 259?
+A: 153 plus 259 is 412.
+
+Q: What is 78 minus 28?
+A: 78 minus 28 is 50.
+
+Q: What is 8 times 2?
+A: 8 times 2 is 16.
+
+Q: What is 3 times 2?
+A: 3 times 2 is 6.
+
+Q: What is 76 plus 69?
+A: 76 plus 69 is 145.
+
+Q: What is 8 times 5?
+A: 8 times 5 is 40.
+
+Q: What is 5 times 3?
+A: 5 times 3 is 15.
