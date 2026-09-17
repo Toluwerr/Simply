@@ -29690,3 +29690,110 @@ A: Columbia is the capital of South Carolina.
 
 Q: What is the capital of the US state Georgia?
 A: Atlanta is the capital of Georgia.
+Q: What is the last letter of 'brazil'?
+A: The last letter of 'brazil' is L.
+
+Q: What is the first letter of 'bread'?
+A: The first letter of 'bread' is B.
+
+Q: What is the first letter of 'afghanistan'?
+A: The first letter of 'afghanistan' is A.
+
+Q: What is the first letter of 'sarajevo'?
+A: The first letter of 'sarajevo' is S.
+
+Q: What is the last letter of 'madrid'?
+A: The last letter of 'madrid' is D.
+
+Q: What is the last letter of 'dakota'?
+A: The last letter of 'dakota' is A.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: How many letters does the word 'tegucigalpa' have?
+A: The word 'tegucigalpa' has 11 letters.
+
+Q: How many letters does the word 'reykjavik' have?
+A: The word 'reykjavik' has 9 letters.
+
+Q: How many letters does the word 'sheep' have?
+A: The word 'sheep' has 5 letters.
+
+Q: How many letters does the word 'slovenia' have?
+A: The word 'slovenia' has 8 letters.
+
+Q: How many letters does the word 'krona' have?
+A: The word 'krona' has 5 letters.
+
+Q: How many letters does the word 'idaho' have?
+A: The word 'idaho' has 5 letters.
+
+Q: What is 20 plus 18?
+A: 20 plus 18 is 38.
+
+Q: What is 8 times 4?
+A: 8 times 4 is 32.
+
+Q: What is 7 minus 7?
+A: 7 minus 7 is 0.
+
+Q: What is 44 minus 33?
+A: 44 minus 33 is 11.
+
+Q: What is 881 plus 123?
+A: 881 plus 123 is 1004.
+
+Q: What is 12 plus 15?
+A: 12 plus 15 is 27.
+
+Q: What is the smallest ocean?
+A: The Arctic is the smallest ocean.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: What currency does Azerbaijan use?
+A: The currency of Azerbaijan is the manat.
+
+Q: What currency does Sudan use?
+A: The currency of Sudan is the pound.
+
+Q: What currency does Romania use?
+A: The currency of Romania is the leu.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: What currency does Taiwan use?
+A: The currency of Taiwan is the dollar.
+
+Q: What currency does Uruguay use?
+A: The currency of Uruguay is the peso.

@@ -10732,3 +10732,37 @@ A: 50 is bigger than 60.
 
 Q: What does 'fresh' mean?
 A: 'fresh' means newly made or pickededed.
+
+
+Q: How much is 0 plus 56?
+A: 0 plus 56 is 56.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Osn hicpium.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'old'.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Osamarium.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Osn hafaftmium.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium is Ti.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40 40 50.
+
+Q: Which is bigger, 1 or 20?
+A: 20 is bigger than 1.
+
+Q: Which is bigger, 69 or 40?
+A: 69 is bigger than 4.
+
+Q: Can you count by twos from 16 to 20?
+A: Counting by twos gives 16 18 20.
+
+Q: Which is bigger, 14 or 12?
+A: 14 is bigger than 12.
