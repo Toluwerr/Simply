@@ -58171,3 +58171,146 @@ A: Double 31 is 62.
 
 Q: What is half of 20?
 A: Half of 20 is 10.
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: How many letters does the word 'gitega' have?
+A: The word 'gitega' has 6 letters.
+
+Q: How many letters does the word 'canberra' have?
+A: The word 'canberra' has 8 letters.
+
+Q: How many letters does the word 'comoros' have?
+A: The word 'comoros' has 7 letters.
+
+Q: How many letters does the word 'canada' have?
+A: The word 'canada' has 6 letters.
+
+Q: How many letters does the word 'rubidium' have?
+A: The word 'rubidium' has 8 letters.
+
+Q: How many letters does the word 'united' have?
+A: The word 'united' has 6 letters.
+
+Q: How many letters does the word 'brussels' have?
+A: The word 'brussels' has 8 letters.
+
+Q: How many letters does the word 'barium' have?
+A: The word 'barium' has 6 letters.
+
+Q: What is 5 plus 2?
+A: 5 plus 2 is 7.
+
+Q: What is 57 minus 15?
+A: 57 minus 15 is 42.
+
+Q: What is 4 times 8?
+A: 4 times 8 is 32.
+
+Q: What is 15 times 11?
+A: 15 times 11 is 165.
+
+Q: What is 66 plus 71?
+A: 66 plus 71 is 137.
+
+Q: What is 952 minus 357?
+A: 952 minus 357 is 595.
+
+Q: What is 57 plus 76?
+A: 57 plus 76 is 133.
+
+Q: What is 17 minus 4?
+A: 17 minus 4 is 13.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What continent is Ecuador on?
+A: Ecuador is on the continent of South America.
+
+Q: What continent is Kyrgyzstan on?
+A: Kyrgyzstan is on the continent of Asia.
+
+Q: What continent is Tuvalu on?
+A: Tuvalu is on the continent of Oceania.
+
+Q: What continent is Mozambique on?
+A: Mozambique is on the continent of Africa.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is South Sudan on?
+A: South Sudan is on the continent of Africa.
+
+Q: What continent is Azerbaijan on?
+A: Azerbaijan is on the continent of Asia.
+
+Q: What currency does Switzerland use?
+A: The currency of Switzerland is the franc.
+
+Q: What currency does India use?
+A: The currency of India is the rupee.
+
+Q: What currency does Colombia use?
+A: The currency of Colombia is the peso.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What currency does Uganda use?
+A: The currency of Uganda is the shilling.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 35 in words?
+A: 35 in words is thirty-five.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 59 in words?
+A: 59 in words is fifty-nine.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
