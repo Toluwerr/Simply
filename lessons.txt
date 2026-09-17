@@ -42525,3 +42525,146 @@ A: The capital of the United Kingdom is London.
 
 Q: What is the capital of Azerbaijan?
 A: The capital of Azerbaijan is Baku.
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: What is the capital of Cambodia?
+A: The capital of Cambodia is Phnom Penh.
+
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: What is the capital of Ethiopia?
+A: The capital of Ethiopia is Addis Ababa.
+
+Q: What is the capital of Benin?
+A: The capital of Benin is Porto-Novo.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+
+Q: What is the capital of Algeria?
+A: The capital of Algeria is Algiers.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.
+
+Q: What is 551 plus 135?
+A: 551 plus 135 is 686.
+
+Q: What is 79 plus 13?
+A: 79 plus 13 is 92.
+
+Q: What is 68 minus 13?
+A: 68 minus 13 is 55.
+
+Q: What is 634 minus 159?
+A: 634 minus 159 is 475.
+
+Q: What is 509 plus 257?
+A: 509 plus 257 is 766.
+
+Q: What is 487 plus 282?
+A: 487 plus 282 is 769.
+
+Q: What is 15 times 12?
+A: 15 times 12 is 180.
+
+Q: What is 3 times 4?
+A: 3 times 4 is 12.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the last letter of 'charleston'?
+A: The last letter of 'charleston' is N.
+
+Q: What is the first letter of 'oslo'?
+A: The first letter of 'oslo' is O.
+
+Q: What is the first letter of 'prague'?
+A: The first letter of 'prague' is P.
+
+Q: What is the first letter of 'peaceful'?
+A: The first letter of 'peaceful' is P.
+
+Q: What is the last letter of 'grenadines'?
+A: The last letter of 'grenadines' is S.
+
+Q: What is the first letter of 'slow'?
+A: The first letter of 'slow' is S.
+
+Q: What is the first letter of 'krone'?
+A: The first letter of 'krone' is K.
+
+Q: What is the first letter of 'late'?
+A: The first letter of 'late' is L.
+
+Q: Is 318 bigger than 321?
+A: No, 321 is bigger than 318.
+
+Q: Is 342 bigger than 441?
+A: No, 441 is bigger than 342.
+
+Q: Which is bigger, 20 or 5?
+A: 20 is bigger than 5.
+
+Q: Is 88 bigger than 84?
+A: Yes, 88 is bigger than 84.
+
+Q: Is 95 bigger than 21?
+A: Yes, 95 is bigger than 21.
+
+Q: Which is bigger, 3 or 5?
+A: 5 is bigger than 3.
+
+Q: Is 14 bigger than 5?
+A: Yes, 14 is bigger than 5.
+
+Q: Which is bigger, 93 or 59?
+A: 93 is bigger than 59.
