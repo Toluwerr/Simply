@@ -35966,3 +35966,170 @@ A: 39 in words is thirty-nine.
 
 Q: How do you write 38 in words?
 A: 38 in words is thirty-eight.
+Q: Which is bigger, 18 or 83?
+A: 83 is bigger than 18.
+
+Q: Which is bigger, 89 or 35?
+A: 89 is bigger than 35.
+
+Q: Which is bigger, 93 or 48?
+A: 93 is bigger than 48.
+
+Q: Is 15 bigger than 3?
+A: Yes, 15 is bigger than 3.
+
+Q: Which is bigger, 88 or 71?
+A: 88 is bigger than 71.
+
+Q: Which is bigger, 14 or 78?
+A: 78 is bigger than 14.
+
+Q: Which is bigger, 737 or 840?
+A: 840 is bigger than 737.
+
+Q: Which is bigger, 16 or 9?
+A: 16 is bigger than 9.
+
+Q: How many letters does the word 'huge' have?
+A: The word 'huge' has 4 letters.
+
+Q: How many letters does the word 'osmium' have?
+A: The word 'osmium' has 6 letters.
+
+Q: How many letters does the word 'wanting' have?
+A: The word 'wanting' has 7 letters.
+
+Q: How many letters does the word 'bread' have?
+A: The word 'bread' has 5 letters.
+
+Q: How many letters does the word 'paz' have?
+A: The word 'paz' has 3 letters.
+
+Q: How many letters does the word 'sticky' have?
+A: The word 'sticky' has 6 letters.
+
+Q: How many letters does the word 'denmark' have?
+A: The word 'denmark' has 7 letters.
+
+Q: How many letters does the word 'springfield' have?
+A: The word 'springfield' has 11 letters.
+
+Q: How do you sort 11, 13, and 4?
+A: In order, they are 4 11 13.
+
+Q: How do you sort 26, 5, and 15?
+A: In order, they are 5 15 26.
+
+Q: How do you sort 23, 20, and 18?
+A: In order, they are 18 20 23.
+
+Q: How do you sort 262, 551, and 167?
+A: In order, they are 167 262 551.
+
+Q: How do you sort 6, 21, and 18?
+A: In order, they are 6 18 21.
+
+Q: How do you sort 6, 25, and 8?
+A: In order, they are 6 8 25.
+
+Q: How do you sort 700, 718, and 723?
+A: In order, they are 700 718 723.
+
+Q: How do you sort 706, 63, and 998?
+A: In order, they are 63 706 998.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: How do you write 55 in words?
+A: 55 in words is fifty-five.
+
+Q: How do you write 3 in words?
+A: 3 in words is three.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: What is the capital of Vietnam?
+A: The capital of Vietnam is Hanoi.
+
+Q: What is the capital of Ecuador?
+A: The capital of Ecuador is Quito.
+
+Q: What is the capital of Kuwait?
+A: The capital of Kuwait is Kuwait City.
+
+Q: What is the capital of Zambia?
+A: The capital of Zambia is Lusaka.
+
+Q: What is the capital of Poland?
+A: The capital of Poland is Warsaw.
+
+Q: What is the capital of Uzbekistan?
+A: The capital of Uzbekistan is Tashkent.
+
+Q: What is the capital of Bangladesh?
+A: The capital of Bangladesh is Dhaka.
+
+Q: What is the capital of Ethiopia?
+A: The capital of Ethiopia is Addis Ababa.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What is the biggest animal?
+A: The blue whale is the biggest animal.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
