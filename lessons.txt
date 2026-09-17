@@ -56120,3 +56120,146 @@ A: 'tidy' means clean and in order.
 
 Q: What does 'eager' mean?
 A: 'eager' means very excited to do something.
+Q: What is 14 minus 14?
+A: 14 minus 14 is 0.
+
+Q: What is 9 times 5?
+A: 9 times 5 is 45.
+
+Q: What is 11 times 13?
+A: 11 times 13 is 143.
+
+Q: What is 86 minus 14?
+A: 86 minus 14 is 72.
+
+Q: What is 967 plus 192?
+A: 967 plus 192 is 1159.
+
+Q: What is 12 times 5?
+A: 12 times 5 is 60.
+
+Q: What is 15 plus 19?
+A: 15 plus 19 is 34.
+
+Q: What is 959 plus 16?
+A: 959 plus 16 is 975.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What is the biggest planet?
+A: Jupiter is the biggest planet.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: Can you count by ones from 2 to 4?
+A: Counting by ones gives 2 3 4.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by twos from 4 to 12?
+A: Counting by twos gives 4 6 8 10 12.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by twos from 32 to 38?
+A: Counting by twos gives 32 34 36 38.
+
+Q: Can you count by fives from 10 to 30?
+A: Counting by fives gives 10 15 20 25 30.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: What is double 53?
+A: Double 53 is 106.
+
+Q: What is double 57?
+A: Double 57 is 114.
+
+Q: What is double 38?
+A: Double 38 is 76.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is double 25?
+A: Double 25 is 50.
+
+Q: What is double 33?
+A: Double 33 is 66.
+
+Q: What is double 18?
+A: Double 18 is 36.
+
+Q: What currency does South Africa use?
+A: The currency of South Africa is the rand.
+
+Q: What currency does Croatia use?
+A: The currency of Croatia is the euro.
+
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Uzbekistan use?
+A: The currency of Uzbekistan is the som.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Argentina use?
+A: The currency of Argentina is the peso.
