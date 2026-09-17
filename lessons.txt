@@ -41762,3 +41762,146 @@ A: 'modern' means of the present time.
 
 Q: What does 'tiny' mean?
 A: 'tiny' means very small.
+Q: What is 4 times 7?
+A: 4 times 7 is 28.
+
+Q: What is 765 minus 516?
+A: 765 minus 516 is 249.
+
+Q: What is 12 times 3?
+A: 12 times 3 is 36.
+
+Q: What is 110 plus 39?
+A: 110 plus 39 is 149.
+
+Q: What is 940 minus 719?
+A: 940 minus 719 is 221.
+
+Q: What is 8 minus 5?
+A: 8 minus 5 is 3.
+
+Q: What is 17 plus 8?
+A: 17 plus 8 is 25.
+
+Q: What is 19 plus 9?
+A: 19 plus 9 is 28.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: What is the smallest ocean?
+A: The Arctic is the smallest ocean.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: What is the freezing point of water?
+A: Water freezes at 0 degrees Celsius.
+
+Q: Can you count by twos from 16 to 20?
+A: Counting by twos gives 16 18 20.
+
+Q: Can you count by ones from 32 to 35?
+A: Counting by ones gives 32 33 34 35.
+
+Q: Can you count by ones from 28 to 31?
+A: Counting by ones gives 28 29 30 31.
+
+Q: Can you count by twos from 24 to 28?
+A: Counting by twos gives 24 26 28.
+
+Q: Can you count by twos from 18 to 28?
+A: Counting by twos gives 18 20 22 24 26 28.
+
+Q: Can you count by twos from 22 to 30?
+A: Counting by twos gives 22 24 26 28 30.
+
+Q: Can you count by twos from 28 to 36?
+A: Counting by twos gives 28 30 32 34 36.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is double 44?
+A: Double 44 is 88.
+
+Q: What is double 9?
+A: Double 9 is 18.
+
+Q: What is double 50?
+A: Double 50 is 100.
+
+Q: What is double 40?
+A: Double 40 is 80.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What is double 17?
+A: Double 17 is 34.
+
+Q: What is double 16?
+A: Double 16 is 32.
+
+Q: What currency does Slovakia use?
+A: The currency of Slovakia is the euro.
+
+Q: What currency does Kuwait use?
+A: The currency of Kuwait is the dinar.
+
+Q: What currency does Sri Lanka use?
+A: The currency of Sri Lanka is the rupee.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
