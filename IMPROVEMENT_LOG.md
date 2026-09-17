@@ -7889,3 +7889,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"The capital of Tell me a oed to the was 73 do you write 50 in words?"
 
+## Promotion - v39 - weights promoted to Releases
+- **reason**: knowledge 0.04, was 0.00; val 1.2484
+- self-portrait, asked "Who are you?": *"93 plus 7 order me words plus 20 plus 40?"
+
