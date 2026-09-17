@@ -12715,3 +12715,31 @@ A: The word ' has 6 letters.
 
 Q: How do you sort 4, 10, and 26?
 A: In order, they are 4 10 26.
+
+
+Q: What is the last letter of 'dakota'?
+A: The last letter of 'dakota' is A.
+
+Q: What is the first letter of 'tuvalu'?
+A: The first letter of 'tuvalu' is T.
+
+Q: How do you sort 3, 6, and 58?
+A: In order, they are 3 6 58.
+
+Q: What is the last letter of 'colombo'?
+A: The last letter of 'colombo' is O.
+
+Q: What continent is Romania on?
+A: Spapia is on the continent of Europe.
+
+Q: How much is 0 plus 30?
+A: 30 plus 30 is 30.
+
+Q: How much is 0 plus 61?
+A: 70 plus 61 is 61.
+
+Q: How much is 0 plus 32?
+A: 0 plus 32 is 32.
+
+Q: What continent is Iceland on?
+A: Ic 48 indivary is on the continent of Europe.

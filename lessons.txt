@@ -20709,3 +20709,128 @@ A: 'lazy' means not wanting to work.
 
 Q: What does 'lazy' mean?
 A: 'lazy' means not wanting to work.
+Q: What is the first letter of 'somalia'?
+A: The first letter of 'somalia' is S.
+
+Q: What is the last letter of 'budapest'?
+A: The last letter of 'budapest' is T.
+
+Q: What is the last letter of 'europe'?
+A: The last letter of 'europe' is E.
+
+Q: What is the last letter of 'platinum'?
+A: The last letter of 'platinum' is M.
+
+Q: What is the last letter of 'down'?
+A: The last letter of 'down' is N.
+
+Q: What is the first letter of 'bucharest'?
+A: The first letter of 'bucharest' is B.
+
+Q: How do you sort 3, 23, and 28?
+A: In order, they are 3 23 28.
+
+Q: How do you sort 15, 16, and 6?
+A: In order, they are 6 15 16.
+
+Q: How do you sort 19, 11, and 14?
+A: In order, they are 11 14 19.
+
+Q: How do you sort 21, 2, and 22?
+A: In order, they are 2 21 22.
+
+Q: How do you sort 28, 14, and 12?
+A: In order, they are 12 14 28.
+
+Q: How do you sort 964, 440, and 51?
+A: In order, they are 51 440 964.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Paraguay use?
+A: The currency of Paraguay is the guarani.
+
+Q: What currency does Estonia use?
+A: The currency of Estonia is the euro.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: How many letters does the word 'the' have?
+A: The word 'the' has 3 letters.
+
+Q: How many letters does the word 'tennessee' have?
+A: The word 'tennessee' has 9 letters.
+
+Q: How many letters does the word 'slovakia' have?
+A: The word 'slovakia' has 8 letters.
+
+Q: How many letters does the word 'greedy' have?
+A: The word 'greedy' has 6 letters.
+
+Q: How many letters does the word 'gabon' have?
+A: The word 'gabon' has 5 letters.
+
+Q: How many letters does the word 'still' have?
+A: The word 'still' has 5 letters.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: What continent is Monaco on?
+A: Monaco is on the continent of Europe.
+
+Q: What continent is Kenya on?
+A: Kenya is on the continent of Africa.
+
+Q: What continent is Montenegro on?
+A: Montenegro is on the continent of Europe.
+
+Q: What continent is Madagascar on?
+A: Madagascar is on the continent of Africa.
+
+Q: What continent is France on?
+A: France is on the continent of Europe.
+
+Q: What is the Roman numeral for 51?
+A: The Roman numeral for 51 is li.
+
+Q: What is the Roman numeral for 375?
+A: The Roman numeral for 375 is ccclxxv.
+
+Q: What is the Roman numeral for 89?
+A: The Roman numeral for 89 is lxxxix.
+
+Q: What number is the Roman numeral lxi?
+A: The Roman numeral lxi is the number 61.
+
+Q: What number is the Roman numeral lxxi?
+A: The Roman numeral lxxi is the number 71.
+
+Q: What is the Roman numeral for 12?
+A: The Roman numeral for 12 is xii.
