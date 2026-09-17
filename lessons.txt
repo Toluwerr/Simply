@@ -32236,3 +32236,170 @@ A: 15 is bigger than 9.
 
 Q: Which is bigger, 666 or 869?
 A: 869 is bigger than 666.
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
+
+Q: How do you write 28 in words?
+A: 28 in words is twenty-eight.
+
+Q: How do you write 99 in words?
+A: 99 in words is ninety-nine.
+
+Q: What currency does Estonia use?
+A: The currency of Estonia is the euro.
+
+Q: What currency does Georgia use?
+A: The currency of Georgia is the lari.
+
+Q: What currency does Armenia use?
+A: The currency of Armenia is the dram.
+
+Q: What currency does Costa Rica use?
+A: The currency of Costa Rica is the colon.
+
+Q: What currency does Taiwan use?
+A: The currency of Taiwan is the dollar.
+
+Q: What currency does Paraguay use?
+A: The currency of Paraguay is the guarani.
+
+Q: What currency does Georgia use?
+A: The currency of Georgia is the lari.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: How do you sort 757, 520, and 151?
+A: In order, they are 151 520 757.
+
+Q: How do you sort 18, 9, and 29?
+A: In order, they are 9 18 29.
+
+Q: How do you sort 2, 5, and 29?
+A: In order, they are 2 5 29.
+
+Q: How do you sort 29, 15, and 24?
+A: In order, they are 15 24 29.
+
+Q: How do you sort 27, 28, and 11?
+A: In order, they are 11 27 28.
+
+Q: How do you sort 313, 274, and 84?
+A: In order, they are 84 274 313.
+
+Q: How do you sort 259, 666, and 21?
+A: In order, they are 21 259 666.
+
+Q: How do you sort 88, 854, and 260?
+A: In order, they are 88 260 854.
+
+Q: What is the last letter of 'lion'?
+A: The last letter of 'lion' is N.
+
+Q: What is the first letter of 'london'?
+A: The first letter of 'london' is L.
+
+Q: What is the last letter of 'bee'?
+A: The last letter of 'bee' is E.
+
+Q: What is the last letter of 'koruna'?
+A: The last letter of 'koruna' is A.
+
+Q: What is the last letter of 'rica'?
+A: The last letter of 'rica' is A.
+
+Q: What is the last letter of 'samarium'?
+A: The last letter of 'samarium' is M.
+
+Q: What is the first letter of 'laos'?
+A: The first letter of 'laos' is L.
+
+Q: What is the last letter of 'quiet'?
+A: The last letter of 'quiet' is T.
