@@ -3790,3 +3790,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"Which is bigger than numeraligger than num to bigger th0?"
 
+## Promotion - v11 - weights promoted to Releases
+- **reason**: knowledge 0.04, was 0.00; val 2.0789
+- self-portrait, asked "Who are you?": *"What curan numeralimes ' has?"
+
