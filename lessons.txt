@@ -31673,3 +31673,170 @@ A: The last letter of 'tbilisi' is I.
 
 Q: What is the first letter of 'kyrgyzstan'?
 A: The first letter of 'kyrgyzstan' is K.
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: How do you sort 14, 1, and 29?
+A: In order, they are 1 14 29.
+
+Q: How do you sort 10, 17, and 13?
+A: In order, they are 10 13 17.
+
+Q: How do you sort 25, 8, and 6?
+A: In order, they are 6 8 25.
+
+Q: How do you sort 26, 7, and 2?
+A: In order, they are 2 7 26.
+
+Q: How do you sort 125, 450, and 457?
+A: In order, they are 125 450 457.
+
+Q: How do you sort 2, 21, and 4?
+A: In order, they are 2 4 21.
+
+Q: How do you sort 25, 13, and 10?
+A: In order, they are 10 13 25.
+
+Q: How do you sort 24, 17, and 18?
+A: In order, they are 17 18 24.
+
+Q: What is the last letter of 'arabia'?
+A: The last letter of 'arabia' is A.
+
+Q: What is the last letter of 'albania'?
+A: The last letter of 'albania' is A.
+
+Q: What is the first letter of 'manganese'?
+A: The first letter of 'manganese' is M.
+
+Q: What is the first letter of 'bern'?
+A: The first letter of 'bern' is B.
+
+Q: What is the last letter of 'benin'?
+A: The last letter of 'benin' is N.
+
+Q: What is the first letter of 'wisconsin'?
+A: The first letter of 'wisconsin' is W.
+
+Q: What is the last letter of 'melon'?
+A: The last letter of 'melon' is N.
+
+Q: What is the first letter of 'panama'?
+A: The first letter of 'panama' is P.
+
+Q: What continent is the United States on?
+A: the United States is on the continent of North America.
+
+Q: What continent is Uganda on?
+A: Uganda is on the continent of Africa.
+
+Q: What continent is Eswatini on?
+A: Eswatini is on the continent of Africa.
+
+Q: What continent is Australia on?
+A: Australia is on the continent of Australia.
+
+Q: What continent is Thailand on?
+A: Thailand is on the continent of Asia.
+
+Q: What continent is China on?
+A: China is on the continent of Asia.
+
+Q: What continent is Germany on?
+A: Germany is on the continent of Europe.
+
+Q: What continent is Micronesia on?
+A: Micronesia is on the continent of Oceania.
+
+Q: What is the capital of Grenada?
+A: The capital of Grenada is Saint George's.
+
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+
+Q: What is the capital of Denmark?
+A: The capital of Denmark is Copenhagen.
+
+Q: What is the capital of Afghanistan?
+A: The capital of Afghanistan is Kabul.
+
+Q: What is the capital of Montenegro?
+A: The capital of Montenegro is Podgorica.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What is the capital of Paraguay?
+A: The capital of Paraguay is Asuncion.
+
+Q: What is the capital of Bosnia and Herzegovina?
+A: The capital of Bosnia and Herzegovina is Sarajevo.
+
+Q: Can you count by fives from 30 to 50?
+A: Counting by fives gives 30 35 40 45 50.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by twos from 36 to 46?
+A: Counting by twos gives 36 38 40 42 44 46.
+
+Q: Can you count by ones from 18 to 21?
+A: Counting by ones gives 18 19 20 21.
+
+Q: Can you count by fives from 25 to 40?
+A: Counting by fives gives 25 30 35 40.
+
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 25 30 35.
+
+Q: Can you count by ones from 27 to 31?
+A: Counting by ones gives 27 28 29 30 31.
+
+Q: Can you count by fives from 10 to 20?
+A: Counting by fives gives 10 15 20.
+
+Q: Which is bigger, 95 or 85?
+A: 95 is bigger than 85.
+
+Q: Which is bigger, 751 or 741?
+A: 751 is bigger than 741.
+
+Q: Is 569 bigger than 710?
+A: No, 710 is bigger than 569.
+
+Q: Is 802 bigger than 133?
+A: Yes, 802 is bigger than 133.
+
+Q: Is 19 bigger than 37?
+A: No, 37 is bigger than 19.
+
+Q: Is 215 bigger than 791?
+A: No, 791 is bigger than 215.
+
+Q: Which is bigger, 72 or 57?
+A: 72 is bigger than 57.
+
+Q: Which is bigger, 444 or 239?
+A: 444 is bigger than 239.
