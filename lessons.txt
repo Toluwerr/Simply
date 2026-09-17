@@ -49480,3 +49480,146 @@ A: The currency of Bahrain is the dinar.
 
 Q: What currency does Slovenia use?
 A: The currency of Slovenia is the euro.
+Q: What is the first letter of 'ecuador'?
+A: The first letter of 'ecuador' is E.
+
+Q: What is the first letter of 'libya'?
+A: The first letter of 'libya' is L.
+
+Q: What is the first letter of 'cow'?
+A: The first letter of 'cow' is C.
+
+Q: What is the first letter of 'tonga'?
+A: The first letter of 'tonga' is T.
+
+Q: What is the last letter of 'cocoa'?
+A: The last letter of 'cocoa' is A.
+
+Q: What is the first letter of 'grenadines'?
+A: The first letter of 'grenadines' is G.
+
+Q: What is the first letter of 'zebra'?
+A: The first letter of 'zebra' is Z.
+
+Q: What is the last letter of 'tin'?
+A: The last letter of 'tin' is N.
+
+Q: How do you sort 25, 16, and 1?
+A: In order, they are 1 16 25.
+
+Q: How do you sort 1, 13, and 6?
+A: In order, they are 1 6 13.
+
+Q: How do you sort 439, 314, and 335?
+A: In order, they are 314 335 439.
+
+Q: How do you sort 421, 195, and 210?
+A: In order, they are 195 210 421.
+
+Q: How do you sort 415, 24, and 596?
+A: In order, they are 24 415 596.
+
+Q: How do you sort 463, 522, and 982?
+A: In order, they are 463 522 982.
+
+Q: How do you sort 3, 8, and 14?
+A: In order, they are 3 8 14.
+
+Q: How do you sort 945, 423, and 787?
+A: In order, they are 423 787 945.
+
+Q: Is 38 bigger than 23?
+A: Yes, 38 is bigger than 23.
+
+Q: Which is bigger, 5 or 17?
+A: 17 is bigger than 5.
+
+Q: Which is bigger, 924 or 756?
+A: 924 is bigger than 756.
+
+Q: Which is bigger, 19 or 2?
+A: 19 is bigger than 2.
+
+Q: Which is bigger, 10 or 59?
+A: 59 is bigger than 10.
+
+Q: Is 39 bigger than 75?
+A: No, 75 is bigger than 39.
+
+Q: Is 29 bigger than 94?
+A: No, 94 is bigger than 29.
+
+Q: Is 56 bigger than 21?
+A: Yes, 56 is bigger than 21.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: What is the capital of Chad?
+A: The capital of Chad is N'Djamena.
+
+Q: What is the capital of Vietnam?
+A: The capital of Vietnam is Hanoi.
+
+Q: What is the capital of Sao Tome and Principe?
+A: The capital of Sao Tome and Principe is Sao Tome.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+
+Q: What is the capital of Cuba?
+A: The capital of Cuba is Havana.
+
+Q: What is the capital of Zambia?
+A: The capital of Zambia is Lusaka.
+
+Q: What is the capital of Kyrgyzstan?
+A: The capital of Kyrgyzstan is Bishkek.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is 4 plus 2?
+A: 4 plus 2 is 6.
+
+Q: What is 7 times 6?
+A: 7 times 6 is 42.
+
+Q: What is 56 minus 55?
+A: 56 minus 55 is 1.
+
+Q: What is 48 minus 25?
+A: 48 minus 25 is 23.
+
+Q: What is 284 plus 207?
+A: 284 plus 207 is 491.
+
+Q: What is 2 times 5?
+A: 2 times 5 is 10.
+
+Q: What is 12 minus 2?
+A: 12 minus 2 is 10.
+
+Q: What is 981 plus 776?
+A: 981 plus 776 is 1757.
