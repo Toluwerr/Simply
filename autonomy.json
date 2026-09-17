@@ -13,8 +13,8 @@
       "reward": 6.0
     },
     "create": {
-      "tries": 0,
-      "reward": 0.0
+      "tries": 1,
+      "reward": 6.0
     },
     "experiment": {
       "tries": 0,
@@ -38,8 +38,8 @@
     },
     {
       "kind": "know",
-      "target": 0.42,
-      "text": "lift the knowledge quiz average to 0.42"
+      "target": 0.6,
+      "text": "lift the knowledge quiz average to 0.60"
     }
   ],
   "runs": 4
