@@ -61405,3 +61405,170 @@ A: 13 is bigger than 7.
 
 Q: Is 401 bigger than 375?
 A: Yes, 401 is bigger than 375.
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: How do you write 67 in words?
+A: 67 in words is sixty-seven.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 60 in words?
+A: 60 in words is sixty.
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: What currency does Costa Rica use?
+A: The currency of Costa Rica is the colon.
+
+Q: What currency does Bahrain use?
+A: The currency of Bahrain is the dinar.
+
+Q: What currency does Bosnia and Herzegovina use?
+A: The currency of Bosnia and Herzegovina is the mark.
+
+Q: What currency does Romania use?
+A: The currency of Romania is the leu.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: How do you sort 21, 20, and 8?
+A: In order, they are 8 20 21.
+
+Q: How do you sort 48, 731, and 747?
+A: In order, they are 48 731 747.
+
+Q: How do you sort 22, 15, and 14?
+A: In order, they are 14 15 22.
+
+Q: How do you sort 301, 438, and 48?
+A: In order, they are 48 301 438.
+
+Q: How do you sort 256, 19, and 257?
+A: In order, they are 19 256 257.
+
+Q: How do you sort 766, 133, and 354?
+A: In order, they are 133 354 766.
+
+Q: How do you sort 389, 756, and 662?
+A: In order, they are 389 662 756.
+
+Q: How do you sort 21, 8, and 13?
+A: In order, they are 8 13 21.
+
+Q: What is the first letter of 'frankfort'?
+A: The first letter of 'frankfort' is F.
+
+Q: What is the last letter of 'bird'?
+A: The last letter of 'bird' is D.
+
+Q: What is the last letter of 'cyprus'?
+A: The last letter of 'cyprus' is S.
+
+Q: What is the last letter of 'work'?
+A: The last letter of 'work' is K.
+
+Q: What is the first letter of 'rwanda'?
+A: The first letter of 'rwanda' is R.
+
+Q: What is the last letter of 'zambia'?
+A: The last letter of 'zambia' is A.
+
+Q: What is the last letter of 'shallow'?
+A: The last letter of 'shallow' is W.
+
+Q: What is the first letter of 'time'?
+A: The first letter of 'time' is T.
