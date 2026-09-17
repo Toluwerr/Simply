@@ -4354,3 +4354,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Whichan number 68 is the Roman numeral for number number number numeral numeral for 29."
 
+## Promotion - v17 - weights promoted to Releases
+- **reason**: val_loss 1.6929, was 1.7530
+- self-portrait, asked "Who are you?": *"How many letters are in first letter of '?"
+
