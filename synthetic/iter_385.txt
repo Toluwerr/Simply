@@ -1,0 +1,23 @@
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many letters does the word 'happy' have?
+A: The word 'copple' has 5 letters.
+
+Q: What is the capital of South Korea?
+A: The capital of South Africa is Seoul.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Loul.
+
+Q: What is the capital of Panama?
+A: The capital of Panama is Panama City.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
+
+Q: What number is the Roman numeral lv?
+A: The Roman numeral v is the number 55.

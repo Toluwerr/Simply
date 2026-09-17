@@ -16963,3 +16963,110 @@ A: The capital of the Marshall Islands is Majuro.
 
 Q: What is the capital of Bosnia and Herzegovina?
 A: The capital of Bosnia and Herzegovina is Sarajevo.
+Q: How many letters does the word 'santo' have?
+A: The word 'santo' has 5 letters.
+
+Q: How many letters does the word 'libya' have?
+A: The word 'libya' has 5 letters.
+
+Q: How many letters does the word 'balboa' have?
+A: The word 'balboa' has 6 letters.
+
+Q: How many letters does the word 'georgetown' have?
+A: The word 'georgetown' has 10 letters.
+
+Q: How many letters does the word 'rupiah' have?
+A: The word 'rupiah' has 6 letters.
+
+Q: How many letters does the word 'lincoln' have?
+A: The word 'lincoln' has 7 letters.
+
+Q: How do you sort 436, 217, and 55?
+A: In order, they are 55 217 436.
+
+Q: How do you sort 3, 1, and 6?
+A: In order, they are 1 3 6.
+
+Q: How do you sort 132, 411, and 366?
+A: In order, they are 132 366 411.
+
+Q: How do you sort 23, 15, and 19?
+A: In order, they are 15 19 23.
+
+Q: How do you sort 835, 976, and 971?
+A: In order, they are 835 971 976.
+
+Q: How do you sort 22, 20, and 15?
+A: In order, they are 15 20 22.
+
+Q: What is 11 times 13?
+A: 11 times 13 is 143.
+
+Q: What is 969 minus 829?
+A: 969 minus 829 is 140.
+
+Q: What is 13 times 14?
+A: 13 times 14 is 182.
+
+Q: What is 12 plus 18?
+A: 12 plus 18 is 30.
+
+Q: What is 3 times 10?
+A: 3 times 10 is 30.
+
+Q: What is 971 plus 860?
+A: 971 plus 860 is 1831.
+
+Q: What is the last letter of 'bogota'?
+A: The last letter of 'bogota' is A.
+
+Q: What is the first letter of 'selenium'?
+A: The first letter of 'selenium' is S.
+
+Q: What is the first letter of 'pig'?
+A: The first letter of 'pig' is P.
+
+Q: What is the last letter of 'sweden'?
+A: The last letter of 'sweden' is N.
+
+Q: What is the first letter of 'iron'?
+A: The first letter of 'iron' is I.
+
+Q: What is the last letter of 'senegal'?
+A: The last letter of 'senegal' is L.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What is the biggest animal?
+A: The blue whale is the biggest animal.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: What number is the Roman numeral xvii?
+A: The Roman numeral xvii is the number 17.
+
+Q: What is the Roman numeral for 371?
+A: The Roman numeral for 371 is ccclxxi.
+
+Q: What is the Roman numeral for 447?
+A: The Roman numeral for 447 is cdxlvii.
+
+Q: What number is the Roman numeral i?
+A: The Roman numeral i is the number 1.
+
+Q: What number is the Roman numeral ii?
+A: The Roman numeral ii is the number 2.
+
+Q: What number is the Roman numeral cmlxiii?
+A: The Roman numeral cmlxiii is the number 963.
