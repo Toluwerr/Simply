@@ -34359,3 +34359,170 @@ A: Springfield is the capital of Illinois.
 
 Q: What is the capital of the US state Ohio?
 A: Columbus is the capital of Ohio.
+Q: What currency does Hungary use?
+A: The currency of Hungary is the forint.
+
+Q: What currency does Iran use?
+A: The currency of Iran is the rial.
+
+Q: What currency does China use?
+A: The currency of China is the yuan.
+
+Q: What currency does Zimbabwe use?
+A: The currency of Zimbabwe is the dollar.
+
+Q: What currency does Senegal use?
+A: The currency of Senegal is the franc.
+
+Q: What currency does Fiji use?
+A: The currency of Fiji is the dollar.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does Kuwait use?
+A: The currency of Kuwait is the dinar.
+
+Q: What number is the Roman numeral xxiv?
+A: The Roman numeral xxiv is the number 24.
+
+Q: What is the Roman numeral for 45?
+A: The Roman numeral for 45 is xlv.
+
+Q: What number is the Roman numeral xcvi?
+A: The Roman numeral xcvi is the number 96.
+
+Q: What number is the Roman numeral lxxxv?
+A: The Roman numeral lxxxv is the number 85.
+
+Q: What is the Roman numeral for 24?
+A: The Roman numeral for 24 is xxiv.
+
+Q: What is the Roman numeral for 6?
+A: The Roman numeral for 6 is vi.
+
+Q: What is the Roman numeral for 20?
+A: The Roman numeral for 20 is xx.
+
+Q: What is the Roman numeral for 9?
+A: The Roman numeral for 9 is ix.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: What is 820 plus 528?
+A: 820 plus 528 is 1348.
+
+Q: What is 21 minus 13?
+A: 21 minus 13 is 8.
+
+Q: What is 14 times 11?
+A: 14 times 11 is 154.
+
+Q: What is 9 times 7?
+A: 9 times 7 is 63.
+
+Q: What is 12 times 14?
+A: 12 times 14 is 168.
+
+Q: What is 15 times 16?
+A: 15 times 16 is 240.
+
+Q: What is 4 times 3?
+A: 4 times 3 is 12.
+
+Q: What is 7 times 12?
+A: 7 times 12 is 84.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
