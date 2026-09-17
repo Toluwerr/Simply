@@ -35656,3 +35656,170 @@ A: The capital of Andorra is Andorra la Vella.
 
 Q: What is the capital of Nepal?
 A: The capital of Nepal is Kathmandu.
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What is the chemical symbol for radon?
+A: The chemical symbol for radon is Rn.
+
+Q: Which element has the chemical symbol Ra?
+A: Ra is the chemical symbol for radium.
+
+Q: What is the chemical symbol for palladium?
+A: The chemical symbol for palladium is Pd.
+
+Q: Which element has the chemical symbol C?
+A: C is the chemical symbol for carbon.
+
+Q: Which element has the chemical symbol Zr?
+A: Zr is the chemical symbol for zirconium.
+
+Q: Which element has the chemical symbol Cl?
+A: Cl is the chemical symbol for chlorine.
+
+Q: Which element has the chemical symbol K?
+A: K is the chemical symbol for potassium.
+
+Q: Which element has the chemical symbol P?
+A: P is the chemical symbol for phosphorus.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What number is the Roman numeral xviii?
+A: The Roman numeral xviii is the number 18.
+
+Q: What is the Roman numeral for 13?
+A: The Roman numeral for 13 is xiii.
+
+Q: What is the Roman numeral for 34?
+A: The Roman numeral for 34 is xxxiv.
+
+Q: What number is the Roman numeral cmi?
+A: The Roman numeral cmi is the number 901.
+
+Q: What is the Roman numeral for 27?
+A: The Roman numeral for 27 is xxvii.
+
+Q: What is the Roman numeral for 100?
+A: The Roman numeral for 100 is c.
+
+Q: What is the Roman numeral for 11?
+A: The Roman numeral for 11 is xi.
+
+Q: What number is the Roman numeral dcccxxvii?
+A: The Roman numeral dcccxxvii is the number 827.
+
+Q: What is the last letter of 'seychelles'?
+A: The last letter of 'seychelles' is S.
+
+Q: What is the first letter of 'radon'?
+A: The first letter of 'radon' is R.
+
+Q: What is the last letter of 'chad'?
+A: The last letter of 'chad' is D.
+
+Q: What is the first letter of 'careful'?
+A: The first letter of 'careful' is C.
+
+Q: What is the first letter of 'belize'?
+A: The first letter of 'belize' is B.
+
+Q: What is the first letter of 'actinium'?
+A: The first letter of 'actinium' is A.
+
+Q: What is the first letter of 'kiribati'?
+A: The first letter of 'kiribati' is K.
+
+Q: What is the last letter of 'aluminium'?
+A: The last letter of 'aluminium' is M.
+
+Q: Which is bigger, 36 or 51?
+A: 51 is bigger than 36.
+
+Q: Which is bigger, 334 or 371?
+A: 371 is bigger than 334.
+
+Q: Is 828 bigger than 678?
+A: Yes, 828 is bigger than 678.
+
+Q: Is 36 bigger than 92?
+A: No, 92 is bigger than 36.
+
+Q: Is 8 bigger than 20?
+A: No, 20 is bigger than 8.
+
+Q: Is 6 bigger than 8?
+A: No, 8 is bigger than 6.
+
+Q: Is 27 bigger than 16?
+A: Yes, 27 is bigger than 16.
+
+Q: Is 71 bigger than 58?
+A: Yes, 71 is bigger than 58.
+
+Q: What is double 25?
+A: Double 25 is 50.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is half of 38?
+A: Half of 38 is 19.
+
+Q: What is double 33?
+A: Double 33 is 66.
+
+Q: What is double 12?
+A: Double 12 is 24.

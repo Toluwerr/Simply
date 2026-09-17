@@ -4555,3 +4555,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"How many tpy does you sort 29."
 
+## Iteration 514 - NO_GAIN
+- **when**: 2026-09-17T05:30:56Z
+- **train loss**: 2.9410 | **val loss**: 1.9541 | **run best**: 1.6652
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +22 facts (1,488 read all-time)
+- **lr**: 0.0008 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"What continent is the continent of the chem '?"
+
