@@ -41595,3 +41595,170 @@ A: The opposite of 'clean' is 'dirty'.
 
 Q: What is the opposite of 'open'?
 A: The opposite of 'open' is 'closed'.
+Q: What currency does Switzerland use?
+A: The currency of Switzerland is the franc.
+
+Q: What currency does Bosnia and Herzegovina use?
+A: The currency of Bosnia and Herzegovina is the mark.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does Turkmenistan use?
+A: The currency of Turkmenistan is the manat.
+
+Q: What currency does Turkmenistan use?
+A: The currency of Turkmenistan is the manat.
+
+Q: What number is the Roman numeral xcvii?
+A: The Roman numeral xcvii is the number 97.
+
+Q: What is the Roman numeral for 26?
+A: The Roman numeral for 26 is xxvi.
+
+Q: What number is the Roman numeral xxvi?
+A: The Roman numeral xxvi is the number 26.
+
+Q: What is the Roman numeral for 1?
+A: The Roman numeral for 1 is i.
+
+Q: What number is the Roman numeral xxxii?
+A: The Roman numeral xxxii is the number 32.
+
+Q: What number is the Roman numeral vi?
+A: The Roman numeral vi is the number 6.
+
+Q: What is the Roman numeral for 92?
+A: The Roman numeral for 92 is xcii.
+
+Q: What is the Roman numeral for 1?
+A: The Roman numeral for 1 is i.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: What is 14 times 12?
+A: 14 times 12 is 168.
+
+Q: What is 64 minus 49?
+A: 64 minus 49 is 15.
+
+Q: What is 87 minus 61?
+A: 87 minus 61 is 26.
+
+Q: What is 6 times 9?
+A: 6 times 9 is 54.
+
+Q: What is 12 times 16?
+A: 12 times 16 is 192.
+
+Q: What is 14 plus 8?
+A: 14 plus 8 is 22.
+
+Q: What is 19 minus 16?
+A: 19 minus 16 is 3.
+
+Q: What is 13 plus 56?
+A: 13 plus 56 is 69.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
