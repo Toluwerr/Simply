@@ -24804,3 +24804,170 @@ A: 63 in words is sixty-three.
 
 Q: How do you write 27 in words?
 A: 27 in words is twenty-seven.
+Q: Which is bigger, 7 or 4?
+A: 7 is bigger than 4.
+
+Q: Which is bigger, 335 or 407?
+A: 407 is bigger than 335.
+
+Q: Which is bigger, 6 or 2?
+A: 6 is bigger than 2.
+
+Q: Which is bigger, 95 or 33?
+A: 95 is bigger than 33.
+
+Q: Which is bigger, 16 or 77?
+A: 77 is bigger than 16.
+
+Q: Is 20 bigger than 71?
+A: No, 71 is bigger than 20.
+
+Q: Which is bigger, 16 or 17?
+A: 17 is bigger than 16.
+
+Q: Which is bigger, 51 or 46?
+A: 51 is bigger than 46.
+
+Q: How many letters does the word 'zloty' have?
+A: The word 'zloty' has 5 letters.
+
+Q: How many letters does the word 'tome' have?
+A: The word 'tome' has 4 letters.
+
+Q: How many letters does the word 'kind' have?
+A: The word 'kind' has 4 letters.
+
+Q: How many letters does the word 'belgrade' have?
+A: The word 'belgrade' has 8 letters.
+
+Q: How many letters does the word 'potassium' have?
+A: The word 'potassium' has 9 letters.
+
+Q: How many letters does the word 'guinea' have?
+A: The word 'guinea' has 6 letters.
+
+Q: How many letters does the word 'leone' have?
+A: The word 'leone' has 5 letters.
+
+Q: How many letters does the word 'hot' have?
+A: The word 'hot' has 3 letters.
+
+Q: How do you sort 522, 979, and 98?
+A: In order, they are 98 522 979.
+
+Q: How do you sort 2, 20, and 9?
+A: In order, they are 2 9 20.
+
+Q: How do you sort 903, 663, and 204?
+A: In order, they are 204 663 903.
+
+Q: How do you sort 2, 13, and 29?
+A: In order, they are 2 13 29.
+
+Q: How do you sort 15, 19, and 28?
+A: In order, they are 15 19 28.
+
+Q: How do you sort 20, 27, and 7?
+A: In order, they are 7 20 27.
+
+Q: How do you sort 588, 854, and 159?
+A: In order, they are 159 588 854.
+
+Q: How do you sort 27, 6, and 17?
+A: In order, they are 6 17 27.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is Finland on?
+A: Finland is on the continent of Europe.
+
+Q: What continent is Australia on?
+A: Australia is on the continent of Australia.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: What continent is Papua New Guinea on?
+A: Papua New Guinea is on the continent of Oceania.
+
+Q: What continent is Vanuatu on?
+A: Vanuatu is on the continent of Oceania.
+
+Q: What continent is Sri Lanka on?
+A: Sri Lanka is on the continent of Asia.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 48 in words?
+A: 48 in words is forty-eight.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: How do you write 97 in words?
+A: 97 in words is ninety-seven.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: What is the capital of Saint Vincent and the Grenadines?
+A: The capital of Saint Vincent and the Grenadines is Kingstown.
+
+Q: What is the capital of Guinea?
+A: The capital of Guinea is Conakry.
+
+Q: What is the capital of South Sudan?
+A: The capital of South Sudan is Juba.
+
+Q: What is the capital of Armenia?
+A: The capital of Armenia is Yerevan.
+
+Q: What is the capital of Suriname?
+A: The capital of Suriname is Paramaribo.
+
+Q: What is the capital of Botswana?
+A: The capital of Botswana is Gaborone.
+
+Q: What is the capital of Fiji?
+A: The capital of Fiji is Suva.
+
+Q: What is the capital of Belarus?
+A: The capital of Belarus is Minsk.
