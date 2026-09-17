@@ -9490,3 +9490,43 @@ A: 11 times 1 is 11does is 122.
 
 Q: What is 19 plus 90?
 A: 19 plus 90 is 109.
+
+
+Q: How much is 0 plus 42?
+A: 0 plus 42 is 42.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 45 45 45.
+
+Q: Is 6 bigger than 17?
+A: No, 17 is bigger than 6.
+
+Q: Which is bigger, 5 or 4?
+A: 5 is bigger than 4.
+
+Q: Which is bigger, 3 or 12?
+A: 12 is bigger than 3.
+
+Q: Is 44 bigger than 41?
+A: Yes, 44 is bigger than 41.
+
+Q: Which is bigger, 13 or 9?
+A: 13 is bigger than 9.
+
+Q: How many letters does the word 'samaraed' have?
+A: The word 'samarium' has 8 letters.
+
+Q: Which is bigger, 9 or 13?
+A: 13 is bigger than 9.
+
+Q: Is 16 bigger than 9?
+A: Yes, 16 is bigger than 9.
+
+Q: Is 50 bigger than 20?
+A: Yes, 50 is bigger than 20.
+
+Q: What is 76 minus 28?
+A: 76 minus 28 is 48.
+
+Q: What is the chemical symbol for bismuth?
+A: The chemical symbol for bismuth is Bi.

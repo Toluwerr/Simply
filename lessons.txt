@@ -23927,3 +23927,110 @@ A: 'sturdy' means strong and solid.
 
 Q: What does 'quiet' mean?
 A: 'quiet' means making little or no sound.
+Q: What is the capital of Ghana?
+A: The capital of Ghana is Accra.
+
+Q: What is the capital of Venezuela?
+A: The capital of Venezuela is Caracas.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is the capital of Ethiopia?
+A: The capital of Ethiopia is Addis Ababa.
+
+Q: What is the capital of Tuvalu?
+A: The capital of Tuvalu is Funafuti.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: Is 230 bigger than 144?
+A: Yes, 230 is bigger than 144.
+
+Q: Which is bigger, 11 or 18?
+A: 18 is bigger than 11.
+
+Q: Is 186 bigger than 430?
+A: No, 430 is bigger than 186.
+
+Q: Which is bigger, 82 or 65?
+A: 82 is bigger than 65.
+
+Q: Is 252 bigger than 235?
+A: Yes, 252 is bigger than 235.
+
+Q: Which is bigger, 729 or 833?
+A: 833 is bigger than 729.
+
+Q: What is 118 plus 757?
+A: 118 plus 757 is 875.
+
+Q: What is 14 times 17?
+A: 14 times 17 is 238.
+
+Q: What is 14 times 16?
+A: 14 times 16 is 224.
+
+Q: What is 19 minus 10?
+A: 19 minus 10 is 9.
+
+Q: What is 20 plus 10?
+A: 20 plus 10 is 30.
+
+Q: What is 96 minus 84?
+A: 96 minus 84 is 12.
+
+Q: How many letters does the word 'beijing' have?
+A: The word 'beijing' has 7 letters.
+
+Q: How many letters does the word 'trenton' have?
+A: The word 'trenton' has 7 letters.
+
+Q: How many letters does the word 'kazakhstan' have?
+A: The word 'kazakhstan' has 10 letters.
+
+Q: How many letters does the word 'peach' have?
+A: The word 'peach' has 5 letters.
+
+Q: How many letters does the word 'sweden' have?
+A: The word 'sweden' has 6 letters.
+
+Q: How many letters does the word 'lanka' have?
+A: The word 'lanka' has 5 letters.
+
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does Iran use?
+A: The currency of Iran is the rial.
+
+Q: What currency does Georgia use?
+A: The currency of Georgia is the lari.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
