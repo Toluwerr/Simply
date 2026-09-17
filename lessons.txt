@@ -48583,3 +48583,146 @@ A: Double 15 is 30.
 
 Q: What is half of 4?
 A: Half of 4 is 2.
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What is 75 minus 33?
+A: 75 minus 33 is 42.
+
+Q: What is 11 times 9?
+A: 11 times 9 is 99.
+
+Q: What is 89 minus 23?
+A: 89 minus 23 is 66.
+
+Q: What is 12 times 16?
+A: 12 times 16 is 192.
+
+Q: What is 13 minus 11?
+A: 13 minus 11 is 2.
+
+Q: What is 48 minus 44?
+A: 48 minus 44 is 4.
+
+Q: What is 95 minus 73?
+A: 95 minus 73 is 22.
+
+Q: What is 12 times 9?
+A: 12 times 9 is 108.
+
+Q: What continent is Kiribati on?
+A: Kiribati is on the continent of Oceania.
+
+Q: What continent is Australia on?
+A: Australia is on the continent of Australia.
+
+Q: What continent is Laos on?
+A: Laos is on the continent of Asia.
+
+Q: What continent is Burkina Faso on?
+A: Burkina Faso is on the continent of Africa.
+
+Q: What continent is Afghanistan on?
+A: Afghanistan is on the continent of Asia.
+
+Q: What continent is Tonga on?
+A: Tonga is on the continent of Oceania.
+
+Q: What continent is Paraguay on?
+A: Paraguay is on the continent of South America.
+
+Q: What continent is the Philippines on?
+A: the Philippines is on the continent of Asia.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: What currency does Belgium use?
+A: The currency of Belgium is the euro.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: What currency does Egypt use?
+A: The currency of Egypt is the pound.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does India use?
+A: The currency of India is the rupee.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does Bolivia use?
+A: The currency of Bolivia is the boliviano.
+
+Q: How do you write 25 in words?
+A: 25 in words is twenty-five.
+
+Q: How do you write 73 in words?
+A: 73 in words is seventy-three.
+
+Q: How do you write 3 in words?
+A: 3 in words is three.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: Which is bigger, 72 or 39?
+A: 72 is bigger than 39.
+
+Q: Is 999 bigger than 154?
+A: Yes, 999 is bigger than 154.
+
+Q: Is 12 bigger than 6?
+A: Yes, 12 is bigger than 6.
+
+Q: Which is bigger, 111 or 541?
+A: 541 is bigger than 111.
+
+Q: Is 3 bigger than 14?
+A: No, 14 is bigger than 3.
+
+Q: Which is bigger, 25 or 20?
+A: 25 is bigger than 20.
+
+Q: Is 98 bigger than 37?
+A: Yes, 98 is bigger than 37.
+
+Q: Which is bigger, 9 or 5?
+A: 9 is bigger than 5.
