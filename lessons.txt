@@ -62860,3 +62860,146 @@ A: The opposite of 'warm' is 'cool'.
 
 Q: What is the opposite of 'day'?
 A: The opposite of 'day' is 'night'.
+Q: How many letters does the word 'uganda' have?
+A: The word 'uganda' has 6 letters.
+
+Q: How many letters does the word 'micronesia' have?
+A: The word 'micronesia' has 10 letters.
+
+Q: How many letters does the word 'calcium' have?
+A: The word 'calcium' has 7 letters.
+
+Q: How many letters does the word 'brisk' have?
+A: The word 'brisk' has 5 letters.
+
+Q: How many letters does the word 'congo' have?
+A: The word 'congo' has 5 letters.
+
+Q: How many letters does the word 'finland' have?
+A: The word 'finland' has 7 letters.
+
+Q: How many letters does the word 'togo' have?
+A: The word 'togo' has 4 letters.
+
+Q: How many letters does the word 'bangui' have?
+A: The word 'bangui' has 6 letters.
+
+Q: What is the last letter of 'kingdom'?
+A: The last letter of 'kingdom' is M.
+
+Q: What is the last letter of 'honduras'?
+A: The last letter of 'honduras' is S.
+
+Q: What is the first letter of 'kyat'?
+A: The first letter of 'kyat' is K.
+
+Q: What is the last letter of 'dirham'?
+A: The last letter of 'dirham' is M.
+
+Q: What is the last letter of 'wild'?
+A: The last letter of 'wild' is D.
+
+Q: What is the last letter of 'mouse'?
+A: The last letter of 'mouse' is E.
+
+Q: What is the last letter of 'newly'?
+A: The last letter of 'newly' is Y.
+
+Q: What is the first letter of 'careful'?
+A: The first letter of 'careful' is C.
+
+Q: How do you sort 621, 498, and 115?
+A: In order, they are 115 498 621.
+
+Q: How do you sort 17, 14, and 6?
+A: In order, they are 6 14 17.
+
+Q: How do you sort 835, 121, and 939?
+A: In order, they are 121 835 939.
+
+Q: How do you sort 28, 27, and 19?
+A: In order, they are 19 27 28.
+
+Q: How do you sort 25, 5, and 10?
+A: In order, they are 5 10 25.
+
+Q: How do you sort 455, 744, and 773?
+A: In order, they are 455 744 773.
+
+Q: How do you sort 996, 240, and 984?
+A: In order, they are 240 984 996.
+
+Q: How do you sort 15, 22, and 29?
+A: In order, they are 15 22 29.
+
+Q: Is 687 bigger than 712?
+A: No, 712 is bigger than 687.
+
+Q: Which is bigger, 48 or 37?
+A: 48 is bigger than 37.
+
+Q: Which is bigger, 9 or 3?
+A: 9 is bigger than 3.
+
+Q: Which is bigger, 15 or 5?
+A: 15 is bigger than 5.
+
+Q: Is 407 bigger than 475?
+A: No, 475 is bigger than 407.
+
+Q: Is 17 bigger than 13?
+A: Yes, 17 is bigger than 13.
+
+Q: Is 13 bigger than 98?
+A: No, 98 is bigger than 13.
+
+Q: Which is bigger, 13 or 5?
+A: 13 is bigger than 5.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: What is the capital of the Comoros?
+A: The capital of the Comoros is Moroni.
+
+Q: What is the capital of Brunei?
+A: The capital of Brunei is Bandar Seri Begawan.
+
+Q: What is the capital of Lithuania?
+A: The capital of Lithuania is Vilnius.
+
+Q: What is the capital of Tuvalu?
+A: The capital of Tuvalu is Funafuti.
+
+Q: What is the capital of Luxembourg?
+A: The capital of Luxembourg is Luxembourg.
+
+Q: What is the capital of Benin?
+A: The capital of Benin is Porto-Novo.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
