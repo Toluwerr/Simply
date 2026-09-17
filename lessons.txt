@@ -56468,3 +56468,170 @@ A: Lake Baikal is the deepest lake.
 
 Q: What language do most people in Brazil speak?
 A: Most people in Brazil speak Portuguese.
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: What is the capital of Madagascar?
+A: The capital of Madagascar is Antananarivo.
+
+Q: What is the capital of Tajikistan?
+A: The capital of Tajikistan is Dushanbe.
+
+Q: What is the capital of Burkina Faso?
+A: The capital of Burkina Faso is Ouagadougou.
+
+Q: What is the capital of Tunisia?
+A: The capital of Tunisia is Tunis.
+
+Q: What is the capital of Saint Lucia?
+A: The capital of Saint Lucia is Castries.
+
+Q: What is the capital of Saint Lucia?
+A: The capital of Saint Lucia is Castries.
+
+Q: What is the capital of Lithuania?
+A: The capital of Lithuania is Vilnius.
+
+Q: What is 695 minus 232?
+A: 695 minus 232 is 463.
+
+Q: What is 3 times 5?
+A: 3 times 5 is 15.
+
+Q: What is 14 times 14?
+A: 14 times 14 is 196.
+
+Q: What is 20 minus 20?
+A: 20 minus 20 is 0.
+
+Q: What is 20 plus 13?
+A: 20 plus 13 is 33.
+
+Q: What is 8 times 9?
+A: 8 times 9 is 72.
+
+Q: What is 99 plus 26?
+A: 99 plus 26 is 125.
+
+Q: What is 9 times 8?
+A: 9 times 8 is 72.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: How many letters does the word 'springfield' have?
+A: The word 'springfield' has 11 letters.
+
+Q: How many letters does the word 'eagle' have?
+A: The word 'eagle' has 5 letters.
+
+Q: How many letters does the word 'ghana' have?
+A: The word 'ghana' has 5 letters.
+
+Q: How many letters does the word 'clean' have?
+A: The word 'clean' has 5 letters.
+
+Q: How many letters does the word 'maine' have?
+A: The word 'maine' has 5 letters.
+
+Q: How many letters does the word 'richmond' have?
+A: The word 'richmond' has 8 letters.
+
+Q: How many letters does the word 'bismuth' have?
+A: The word 'bismuth' has 7 letters.
+
+Q: How many letters does the word 'krona' have?
+A: The word 'krona' has 5 letters.
+
+Q: What is the last letter of 'mbabane'?
+A: The last letter of 'mbabane' is E.
+
+Q: What is the first letter of 'ringgit'?
+A: The first letter of 'ringgit' is R.
+
+Q: What is the last letter of 'empty'?
+A: The last letter of 'empty' is Y.
+
+Q: What is the first letter of 'aires'?
+A: The first letter of 'aires' is A.
+
+Q: What is the first letter of 'city'?
+A: The first letter of 'city' is C.
+
+Q: What is the first letter of 'helium'?
+A: The first letter of 'helium' is H.
+
+Q: What is the last letter of 'bogota'?
+A: The last letter of 'bogota' is A.
+
+Q: What is the first letter of 'cozy'?
+A: The first letter of 'cozy' is C.
+
+Q: Is 452 bigger than 959?
+A: No, 959 is bigger than 452.
+
+Q: Is 10 bigger than 8?
+A: Yes, 10 is bigger than 8.
+
+Q: Which is bigger, 710 or 131?
+A: 710 is bigger than 131.
+
+Q: Which is bigger, 17 or 28?
+A: 28 is bigger than 17.
+
+Q: Is 23 bigger than 80?
+A: No, 80 is bigger than 23.
+
+Q: Is 1 bigger than 7?
+A: No, 7 is bigger than 1.
+
+Q: Which is bigger, 659 or 773?
+A: 773 is bigger than 659.
+
+Q: Is 37 bigger than 28?
+A: Yes, 37 is bigger than 28.

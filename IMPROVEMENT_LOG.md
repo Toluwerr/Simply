@@ -7561,3 +7561,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"The currency does Pia."
 
+## Iteration 840 - NO_GAIN
+- **when**: 2026-09-17T19:05:28Z
+- **train loss**: 1.6429 | **val loss**: 1.3749 | **run best**: 1.2643
+- **corpus**: 285,089 chars (+0 self-written examples)
+- **internet reading**: +59 articles, +29 facts (3,333 read all-time)
+- **lr**: 0.0004 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Counting bigger than 30."
+
