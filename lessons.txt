@@ -32069,3 +32069,170 @@ A: The capital of Samoa is Apia.
 
 Q: What is the capital of the Dominican Republic?
 A: The capital of the Dominican Republic is Santo Domingo.
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+
+Q: What is the capital of Kenya?
+A: The capital of Kenya is Nairobi.
+
+Q: What is the capital of Djibouti?
+A: The capital of Djibouti is Djibouti.
+
+Q: What is the capital of Bolivia?
+A: The capital of Bolivia is La Paz.
+
+Q: What is the capital of Namibia?
+A: The capital of Namibia is Windhoek.
+
+Q: What is 8 plus 2?
+A: 8 plus 2 is 10.
+
+Q: What is 6 plus 11?
+A: 6 plus 11 is 17.
+
+Q: What is 592 minus 502?
+A: 592 minus 502 is 90.
+
+Q: What is 9 times 4?
+A: 9 times 4 is 36.
+
+Q: What is 14 times 18?
+A: 14 times 18 is 252.
+
+Q: What is 12 times 12?
+A: 12 times 12 is 144.
+
+Q: What is 1 plus 7?
+A: 1 plus 7 is 8.
+
+Q: What is 67 minus 19?
+A: 67 minus 19 is 48.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: How many letters does the word 'february' have?
+A: The word 'february' has 8 letters.
+
+Q: How many letters does the word 'boliviano' have?
+A: The word 'boliviano' has 9 letters.
+
+Q: How many letters does the word 'manila' have?
+A: The word 'manila' has 6 letters.
+
+Q: How many letters does the word 'jupiter' have?
+A: The word 'jupiter' has 7 letters.
+
+Q: How many letters does the word 'lake' have?
+A: The word 'lake' has 4 letters.
+
+Q: How many letters does the word 'beirut' have?
+A: The word 'beirut' has 6 letters.
+
+Q: How many letters does the word 'active' have?
+A: The word 'active' has 6 letters.
+
+Q: How many letters does the word 'kabul' have?
+A: The word 'kabul' has 5 letters.
+
+Q: What is the first letter of 'olympia'?
+A: The first letter of 'olympia' is O.
+
+Q: What is the first letter of 'montenegro'?
+A: The first letter of 'montenegro' is M.
+
+Q: What is the first letter of 'tiny'?
+A: The first letter of 'tiny' is T.
+
+Q: What is the last letter of 'nepal'?
+A: The last letter of 'nepal' is L.
+
+Q: What is the first letter of 'brasilia'?
+A: The first letter of 'brasilia' is B.
+
+Q: What is the last letter of 'croak'?
+A: The last letter of 'croak' is K.
+
+Q: What is the first letter of 'addis'?
+A: The first letter of 'addis' is A.
+
+Q: What is the last letter of 'vientiane'?
+A: The last letter of 'vientiane' is E.
+
+Q: Which is bigger, 55 or 87?
+A: 87 is bigger than 55.
+
+Q: Is 90 bigger than 34?
+A: Yes, 90 is bigger than 34.
+
+Q: Which is bigger, 185 or 642?
+A: 642 is bigger than 185.
+
+Q: Is 10 bigger than 5?
+A: Yes, 10 is bigger than 5.
+
+Q: Which is bigger, 75 or 89?
+A: 89 is bigger than 75.
+
+Q: Which is bigger, 7 or 13?
+A: 13 is bigger than 7.
+
+Q: Which is bigger, 9 or 15?
+A: 15 is bigger than 9.
+
+Q: Which is bigger, 666 or 869?
+A: 869 is bigger than 666.
