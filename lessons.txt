@@ -26569,3 +26569,146 @@ A: The capital of Iran is Tehran.
 
 Q: What is the capital of Bulgaria?
 A: The capital of Bulgaria is Sofia.
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: What is the capital of Vanuatu?
+A: The capital of Vanuatu is Port Vila.
+
+Q: What is the capital of Kyrgyzstan?
+A: The capital of Kyrgyzstan is Bishkek.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the capital of Lesotho?
+A: The capital of Lesotho is Maseru.
+
+Q: What is the capital of Saudi Arabia?
+A: The capital of Saudi Arabia is Riyadh.
+
+Q: What is the capital of Serbia?
+A: The capital of Serbia is Belgrade.
+
+Q: What is the capital of Malta?
+A: The capital of Malta is Valletta.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is 707 plus 263?
+A: 707 plus 263 is 970.
+
+Q: What is 84 minus 79?
+A: 84 minus 79 is 5.
+
+Q: What is 10 plus 12?
+A: 10 plus 12 is 22.
+
+Q: What is 19 plus 1?
+A: 19 plus 1 is 20.
+
+Q: What is 18 plus 6?
+A: 18 plus 6 is 24.
+
+Q: What is 995 minus 193?
+A: 995 minus 193 is 802.
+
+Q: What is 10 plus 13?
+A: 10 plus 13 is 23.
+
+Q: What is 3 times 4?
+A: 3 times 4 is 12.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the last letter of 'rapid'?
+A: The last letter of 'rapid' is D.
+
+Q: What is the last letter of 'jakarta'?
+A: The last letter of 'jakarta' is A.
+
+Q: What is the first letter of 'columbus'?
+A: The first letter of 'columbus' is C.
+
+Q: What is the last letter of 'khartoum'?
+A: The last letter of 'khartoum' is M.
+
+Q: What is the last letter of 'oregon'?
+A: The last letter of 'oregon' is N.
+
+Q: What is the last letter of 'carbon'?
+A: The last letter of 'carbon' is N.
+
+Q: What is the first letter of 'sodium'?
+A: The first letter of 'sodium' is S.
+
+Q: What is the first letter of 'thailand'?
+A: The first letter of 'thailand' is T.
+
+Q: Is 18 bigger than 20?
+A: No, 20 is bigger than 18.
+
+Q: Which is bigger, 16 or 11?
+A: 16 is bigger than 11.
+
+Q: Which is bigger, 23 or 99?
+A: 99 is bigger than 23.
+
+Q: Which is bigger, 8 or 18?
+A: 18 is bigger than 8.
+
+Q: Is 349 bigger than 398?
+A: No, 398 is bigger than 349.
+
+Q: Which is bigger, 10 or 12?
+A: 12 is bigger than 10.
+
+Q: Is 66 bigger than 83?
+A: No, 83 is bigger than 66.
+
+Q: Is 79 bigger than 17?
+A: Yes, 79 is bigger than 17.
