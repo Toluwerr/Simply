@@ -25033,3 +25033,110 @@ A: 97 is bigger than 35.
 
 Q: Is 462 bigger than 153?
 A: Yes, 462 is bigger than 153.
+Q: What is the last letter of 'kampala'?
+A: The last letter of 'kampala' is A.
+
+Q: What is the last letter of 'mogadishu'?
+A: The last letter of 'mogadishu' is U.
+
+Q: What is the last letter of 'carolina'?
+A: The last letter of 'carolina' is A.
+
+Q: What is the first letter of 'lari'?
+A: The first letter of 'lari' is L.
+
+Q: What is the last letter of 'pyongyang'?
+A: The last letter of 'pyongyang' is G.
+
+Q: What is the last letter of 'eswatini'?
+A: The last letter of 'eswatini' is I.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of the United Arab Emirates?
+A: The capital of the United Arab Emirates is Abu Dhabi.
+
+Q: What is the capital of Iran?
+A: The capital of Iran is Tehran.
+
+Q: What is the capital of Grenada?
+A: The capital of Grenada is Saint George's.
+
+Q: What is the capital of Switzerland?
+A: The capital of Switzerland is Bern.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: What number is the Roman numeral xiv?
+A: The Roman numeral xiv is the number 14.
+
+Q: What is the Roman numeral for 56?
+A: The Roman numeral for 56 is lvi.
+
+Q: What is the Roman numeral for 40?
+A: The Roman numeral for 40 is xl.
+
+Q: What number is the Roman numeral viii?
+A: The Roman numeral viii is the number 8.
+
+Q: What number is the Roman numeral iii?
+A: The Roman numeral iii is the number 3.
+
+Q: What number is the Roman numeral xxxiii?
+A: The Roman numeral xxxiii is the number 33.
+
+Q: How many letters does the word 'croak' have?
+A: The word 'croak' has 5 letters.
+
+Q: How many letters does the word 'calcium' have?
+A: The word 'calcium' has 7 letters.
+
+Q: How many letters does the word 'djibouti' have?
+A: The word 'djibouti' has 8 letters.
+
+Q: How many letters does the word 'neptune' have?
+A: The word 'neptune' has 7 letters.
+
+Q: How many letters does the word 'honiara' have?
+A: The word 'honiara' has 7 letters.
+
+Q: How many letters does the word 'czech' have?
+A: The word 'czech' has 5 letters.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: What is the closest star to Earth?
+A: The sun is the closest star to Earth.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.

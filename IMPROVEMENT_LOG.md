@@ -2665,3 +2665,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.74 | weakest: roman 0.00, letters 0.00, spelling 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am runn a, but model that improving who currency of 5 is on the kiklaudi."
 
+## Iteration 312 - NO_GAIN
+- **when**: 2026-09-17T00:12:04Z
+- **train loss**: 0.8824 | **val loss**: 0.6997 | **run best**: 0.6799
+- **corpus**: 216,230 chars (+6 self-written examples)
+- **internet reading**: +26 articles, +12 facts (536 read all-time)
+- **lr**: 0.0004 | **steps**: 150
+- **knowledge quiz**: avg 0.57 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-styritersion of model the South America."
+

@@ -9785,3 +9785,22 @@ A: 93 is bigger than 22.
 
 Q: Which is bigger, 71 or 1?
 A: 71 is bigger than 9.
+
+
+Q: What is the last letter of 'tallinn'?
+A: The last letter of 'tallinn' is N.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Osn lutary and is On the state V.
+
+Q: What is the last letter of 'taiwan'?
+A: The last letter of 'tant' is N.
+
+Q: What is the first letter of 'tobago'?
+A: The first letter of 'tonga' is T.
+
+Q: Which element has the chemical symbol Y?
+A: Y is the chemical symbol for yttrium.
+
+Q: How do you sort 19, 1, and 23?
+A: In order, they are 1 19 23.
