@@ -1,6 +1,6 @@
 {
   "version": 24,
-  "iteration": 590,
+  "iteration": 591,
   "best_val_loss": 1.529364240169525,
   "lr": 0.0003,
   "plateaus": 0,
@@ -42,7 +42,7 @@
   },
   "study_mode_v1": true,
   "head_chars": 284342,
-  "lessons": 15752,
+  "lessons": 15807,
   "best_knowledge": 0.043,
   "reading": {
     "articles": 1885,
