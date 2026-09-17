@@ -19621,3 +19621,110 @@ A: The currency of Tanzania is the shilling.
 
 Q: What currency does Cyprus use?
 A: The currency of Cyprus is the euro.
+Q: Is 11 bigger than 15?
+A: No, 15 is bigger than 11.
+
+Q: Which is bigger, 134 or 218?
+A: 218 is bigger than 134.
+
+Q: Is 80 bigger than 98?
+A: No, 98 is bigger than 80.
+
+Q: Is 418 bigger than 398?
+A: Yes, 418 is bigger than 398.
+
+Q: Is 143 bigger than 742?
+A: No, 742 is bigger than 143.
+
+Q: Is 36 bigger than 75?
+A: No, 75 is bigger than 36.
+
+Q: How do you sort 703, 434, and 180?
+A: In order, they are 180 434 703.
+
+Q: How do you sort 872, 215, and 332?
+A: In order, they are 215 332 872.
+
+Q: How do you sort 793, 348, and 719?
+A: In order, they are 348 719 793.
+
+Q: How do you sort 643, 38, and 784?
+A: In order, they are 38 643 784.
+
+Q: How do you sort 357, 509, and 319?
+A: In order, they are 319 357 509.
+
+Q: How do you sort 79, 945, and 405?
+A: In order, they are 79 405 945.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: What currency does Cuba use?
+A: The currency of Cuba is the peso.
+
+Q: What currency does Botswana use?
+A: The currency of Botswana is the pula.
+
+Q: What currency does Taiwan use?
+A: The currency of Taiwan is the dollar.
+
+Q: What currency does the United Arab Emirates use?
+A: The currency of the United Arab Emirates is the dirham.
+
+Q: How many letters does the word 'cordoba' have?
+A: The word 'cordoba' has 7 letters.
+
+Q: How many letters does the word 'georgetown' have?
+A: The word 'georgetown' has 10 letters.
+
+Q: How many letters does the word 'cyprus' have?
+A: The word 'cyprus' has 6 letters.
+
+Q: How many letters does the word 'budapest' have?
+A: The word 'budapest' has 8 letters.
+
+Q: How many letters does the word 'north' have?
+A: The word 'north' has 5 letters.
+
+Q: How many letters does the word 'denmark' have?
+A: The word 'denmark' has 7 letters.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Jordan?
+A: The capital of Jordan is Amman.
+
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+
+Q: What is the capital of Haiti?
+A: The capital of Haiti is Port-au-Prince.
+
+Q: What is the capital of Taiwan?
+A: The capital of Taiwan is Taipei.
+
+Q: What is the capital of Mauritius?
+A: The capital of Mauritius is Port Louis.
+
+Q: What is 13 times 15?
+A: 13 times 15 is 195.
+
+Q: What is 85 minus 45?
+A: 85 minus 45 is 40.
+
+Q: What is 3 times 9?
+A: 3 times 9 is 27.
+
+Q: What is 6 times 2?
+A: 6 times 2 is 12.
+
+Q: What is 12 times 6?
+A: 12 times 6 is 72.
+
+Q: What is 52 plus 22?
+A: 52 plus 22 is 74.
