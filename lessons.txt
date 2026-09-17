@@ -25586,3 +25586,110 @@ A: 57 in words is fifty-seven.
 
 Q: How do you write 41 in words?
 A: 41 in words is forty-one.
+Q: What is double 51?
+A: Double 51 is 102.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is double 56?
+A: Double 56 is 112.
+
+Q: What is half of 8?
+A: Half of 8 is 4.
+
+Q: What is double 23?
+A: Double 23 is 46.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: What continent is Turkmenistan on?
+A: Turkmenistan is on the continent of Asia.
+
+Q: What continent is Estonia on?
+A: Estonia is on the continent of Europe.
+
+Q: What continent is China on?
+A: China is on the continent of Asia.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
+
+Q: What continent is Zambia on?
+A: Zambia is on the continent of Africa.
+
+Q: What continent is Colombia on?
+A: Colombia is on the continent of South America.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is 374 minus 40?
+A: 374 minus 40 is 334.
+
+Q: What is 92 plus 94?
+A: 92 plus 94 is 186.
+
+Q: What is 39 plus 24?
+A: 39 plus 24 is 63.
+
+Q: What is 48 minus 30?
+A: 48 minus 30 is 18.
+
+Q: What is 9 times 4?
+A: 9 times 4 is 36.
+
+Q: What is 75 minus 12?
+A: 75 minus 12 is 63.

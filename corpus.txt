@@ -9958,3 +9958,31 @@ A: The Roman numeral xlv is the number 45.
 
 Q: What is the longest mountain range?
 A: The Andes is the longest mountain range.
+
+
+Q: What is the capital of South Sudan?
+A: The capital of South Korea is Juba.
+
+Q: What continent is Albania on?
+A: Albania is on the continent of Europe.
+
+Q: Is 8 bigger than 19?
+A: No, 19 is bigger than 8.
+
+Q: Which is bigger, 9 or 12?
+A: 12 is bigger than 4.
+
+Q: Which is bigger, 41 or 1?
+A: 41 is bigger than 1.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What does 'fragile' mean?
+A: 'fragile' mean? Bepto' means easily broken.
+
+Q: Which is bigger, 83 or 41?
+A: 83 is bigger than 41.
+
+Q: Which is bigger, 47 or 97?
+A: 97 is bigger than 47.
