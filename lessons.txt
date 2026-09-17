@@ -28978,3 +28978,146 @@ A: 'deep' means going far down.
 
 Q: What does 'sticky' mean?
 A: 'sticky' means able to attach to things.
+Q: What is 13 minus 5?
+A: 13 minus 5 is 8.
+
+Q: What is 71 minus 17?
+A: 71 minus 17 is 54.
+
+Q: What is 7 times 9?
+A: 7 times 9 is 63.
+
+Q: What is 341 plus 768?
+A: 341 plus 768 is 1109.
+
+Q: What is 4 times 6?
+A: 4 times 6 is 24.
+
+Q: What is 12 plus 2?
+A: 12 plus 2 is 14.
+
+Q: What is 705 minus 505?
+A: 705 minus 505 is 200.
+
+Q: What is 27 minus 11?
+A: 27 minus 11 is 16.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: Can you count by twos from 10 to 18?
+A: Counting by twos gives 10 12 14 16 18.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by ones from 13 to 18?
+A: Counting by ones gives 13 14 15 16 17 18.
+
+Q: Can you count by ones from 18 to 23?
+A: Counting by ones gives 18 19 20 21 22 23.
+
+Q: Can you count by twos from 32 to 42?
+A: Counting by twos gives 32 34 36 38 40 42.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: What is double 23?
+A: Double 23 is 46.
+
+Q: What is half of 58?
+A: Half of 58 is 29.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What is double 38?
+A: Double 38 is 76.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is double 35?
+A: Double 35 is 70.
+
+Q: What is half of 20?
+A: Half of 20 is 10.
+
+Q: What is double 18?
+A: Double 18 is 36.
+
+Q: What currency does Thailand use?
+A: The currency of Thailand is the baht.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does France use?
+A: The currency of France is the euro.
+
+Q: What currency does Malaysia use?
+A: The currency of Malaysia is the ringgit.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
+
+Q: What currency does Brazil use?
+A: The currency of Brazil is the real.
+
+Q: What currency does Latvia use?
+A: The currency of Latvia is the euro.
