@@ -17070,3 +17070,110 @@ A: The Roman numeral ii is the number 2.
 
 Q: What number is the Roman numeral cmlxiii?
 A: The Roman numeral cmlxiii is the number 963.
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: What number is the Roman numeral xxxi?
+A: The Roman numeral xxxi is the number 31.
+
+Q: What is the Roman numeral for 48?
+A: The Roman numeral for 48 is xlviii.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What number is the Roman numeral lxxxiv?
+A: The Roman numeral lxxxiv is the number 84.
+
+Q: What is the Roman numeral for 884?
+A: The Roman numeral for 884 is dccclxxxiv.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: How do you sort 654, 138, and 218?
+A: In order, they are 138 218 654.
+
+Q: How do you sort 909, 236, and 26?
+A: In order, they are 26 236 909.
+
+Q: How do you sort 56, 54, and 510?
+A: In order, they are 54 56 510.
+
+Q: How do you sort 516, 572, and 175?
+A: In order, they are 175 516 572.
+
+Q: How do you sort 23, 28, and 22?
+A: In order, they are 22 23 28.
+
+Q: How do you sort 11, 24, and 25?
+A: In order, they are 11 24 25.
+
+Q: What is 6 times 7?
+A: 6 times 7 is 42.
+
+Q: What is 46 plus 93?
+A: 46 plus 93 is 139.
+
+Q: What is 20 plus 2?
+A: 20 plus 2 is 22.
+
+Q: What is 426 plus 492?
+A: 426 plus 492 is 918.
+
+Q: What is 4 times 9?
+A: 4 times 9 is 36.
+
+Q: What is 9 times 4?
+A: 9 times 4 is 36.
+
+Q: What continent is Ecuador on?
+A: Ecuador is on the continent of South America.
+
+Q: What continent is Germany on?
+A: Germany is on the continent of Europe.
+
+Q: What continent is Slovakia on?
+A: Slovakia is on the continent of Europe.
+
+Q: What continent is Sweden on?
+A: Sweden is on the continent of Europe.
+
+Q: What continent is Tanzania on?
+A: Tanzania is on the continent of Africa.
+
+Q: What continent is South Sudan on?
+A: South Sudan is on the continent of Africa.
+
+Q: How many letters does the word 'rand' have?
+A: The word 'rand' has 4 letters.
+
+Q: How many letters does the word 'namibia' have?
+A: The word 'namibia' has 7 letters.
+
+Q: How many letters does the word 'pig' have?
+A: The word 'pig' has 3 letters.
+
+Q: How many letters does the word 'rabat' have?
+A: The word 'rabat' has 5 letters.
+
+Q: How many letters does the word 'iraq' have?
+A: The word 'iraq' has 4 letters.
+
+Q: How many letters does the word 'peaceful' have?
+A: The word 'peaceful' has 8 letters.
