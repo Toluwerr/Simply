@@ -32770,3 +32770,170 @@ A: 72 in words is seventy-two.
 
 Q: How do you write 60 in words?
 A: 60 in words is sixty.
+Q: Is 686 bigger than 685?
+A: Yes, 686 is bigger than 685.
+
+Q: Is 1 bigger than 6?
+A: No, 6 is bigger than 1.
+
+Q: Which is bigger, 874 or 882?
+A: 882 is bigger than 874.
+
+Q: Which is bigger, 4 or 8?
+A: 8 is bigger than 4.
+
+Q: Which is bigger, 3 or 13?
+A: 13 is bigger than 3.
+
+Q: Is 4 bigger than 8?
+A: No, 8 is bigger than 4.
+
+Q: Is 491 bigger than 741?
+A: No, 741 is bigger than 491.
+
+Q: Which is bigger, 85 or 38?
+A: 85 is bigger than 38.
+
+Q: How many letters does the word 'shallow' have?
+A: The word 'shallow' has 7 letters.
+
+Q: How many letters does the word 'belarus' have?
+A: The word 'belarus' has 7 letters.
+
+Q: How many letters does the word 'tunis' have?
+A: The word 'tunis' has 5 letters.
+
+Q: How many letters does the word 'whale' have?
+A: The word 'whale' has 5 letters.
+
+Q: How many letters does the word 'sarajevo' have?
+A: The word 'sarajevo' has 8 letters.
+
+Q: How many letters does the word 'watchful' have?
+A: The word 'watchful' has 8 letters.
+
+Q: How many letters does the word 'ghana' have?
+A: The word 'ghana' has 5 letters.
+
+Q: How many letters does the word 'tonga' have?
+A: The word 'tonga' has 5 letters.
+
+Q: How do you sort 78, 428, and 383?
+A: In order, they are 78 383 428.
+
+Q: How do you sort 10, 14, and 11?
+A: In order, they are 10 11 14.
+
+Q: How do you sort 334, 353, and 328?
+A: In order, they are 328 334 353.
+
+Q: How do you sort 23, 13, and 3?
+A: In order, they are 3 13 23.
+
+Q: How do you sort 5, 24, and 19?
+A: In order, they are 5 19 24.
+
+Q: How do you sort 26, 20, and 23?
+A: In order, they are 20 23 26.
+
+Q: How do you sort 26, 2, and 5?
+A: In order, they are 2 5 26.
+
+Q: How do you sort 817, 790, and 816?
+A: In order, they are 790 816 817.
+
+Q: What continent is Lebanon on?
+A: Lebanon is on the continent of Asia.
+
+Q: What continent is Yemen on?
+A: Yemen is on the continent of Asia.
+
+Q: What continent is Bolivia on?
+A: Bolivia is on the continent of South America.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What continent is Canada on?
+A: Canada is on the continent of North America.
+
+Q: What continent is Latvia on?
+A: Latvia is on the continent of Europe.
+
+Q: What continent is Algeria on?
+A: Algeria is on the continent of Africa.
+
+Q: What continent is Eswatini on?
+A: Eswatini is on the continent of Africa.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
+
+Q: How do you write 88 in words?
+A: 88 in words is eighty-eight.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 73 in words?
+A: 73 in words is seventy-three.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: What is the capital of Portugal?
+A: The capital of Portugal is Lisbon.
+
+Q: What is the capital of Tajikistan?
+A: The capital of Tajikistan is Dushanbe.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of Benin?
+A: The capital of Benin is Porto-Novo.
+
+Q: What is the capital of Nauru?
+A: The capital of Nauru is Yaren.
+
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+
+Q: What is the capital of Malaysia?
+A: The capital of Malaysia is Kuala Lumpur.
+
+Q: What is the capital of Cuba?
+A: The capital of Cuba is Havana.
