@@ -47763,3 +47763,146 @@ A: 'cozy' means warm and comfortable.
 
 Q: What does 'dim' mean?
 A: 'dim' means not bright.
+Q: What is 186 plus 531?
+A: 186 plus 531 is 717.
+
+Q: What is 65 minus 51?
+A: 65 minus 51 is 14.
+
+Q: What is 12 times 12?
+A: 12 times 12 is 144.
+
+Q: What is 425 plus 208?
+A: 425 plus 208 is 633.
+
+Q: What is 27 plus 73?
+A: 27 plus 73 is 100.
+
+Q: What is 12 times 16?
+A: 12 times 16 is 192.
+
+Q: What is 918 minus 473?
+A: 918 minus 473 is 445.
+
+Q: What is 12 times 12?
+A: 12 times 12 is 144.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: What is the smallest ocean?
+A: The Arctic is the smallest ocean.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the smallest ocean?
+A: The Arctic is the smallest ocean.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: Can you count by ones from 9 to 14?
+A: Counting by ones gives 9 10 11 12 13 14.
+
+Q: Can you count by ones from 30 to 35?
+A: Counting by ones gives 30 31 32 33 34 35.
+
+Q: Can you count by twos from 26 to 34?
+A: Counting by twos gives 26 28 30 32 34.
+
+Q: Can you count by twos from 22 to 30?
+A: Counting by twos gives 22 24 26 28 30.
+
+Q: Can you count by fives from 25 to 45?
+A: Counting by fives gives 25 30 35 40 45.
+
+Q: Can you count by fives from 30 to 40?
+A: Counting by fives gives 30 35 40.
+
+Q: Can you count by ones from 34 to 36?
+A: Counting by ones gives 34 35 36.
+
+Q: Can you count by ones from 12 to 14?
+A: Counting by ones gives 12 13 14.
+
+Q: What is double 57?
+A: Double 57 is 114.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is double 12?
+A: Double 12 is 24.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What is double 7?
+A: Double 7 is 14.
+
+Q: What is double 26?
+A: Double 26 is 52.
+
+Q: What currency does Croatia use?
+A: The currency of Croatia is the euro.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What currency does Rwanda use?
+A: The currency of Rwanda is the franc.
+
+Q: What currency does Jordan use?
+A: The currency of Jordan is the dinar.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordoba.
