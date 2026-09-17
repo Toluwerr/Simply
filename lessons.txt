@@ -45163,3 +45163,170 @@ A: 3 in words is three.
 
 Q: How do you write 18 in words?
 A: 18 in words is eighteen.
+Q: Which is bigger, 351 or 297?
+A: 351 is bigger than 297.
+
+Q: Which is bigger, 16 or 1?
+A: 16 is bigger than 1.
+
+Q: Is 93 bigger than 97?
+A: No, 97 is bigger than 93.
+
+Q: Which is bigger, 5 or 6?
+A: 6 is bigger than 5.
+
+Q: Which is bigger, 43 or 78?
+A: 78 is bigger than 43.
+
+Q: Is 353 bigger than 408?
+A: No, 408 is bigger than 353.
+
+Q: Which is bigger, 14 or 31?
+A: 31 is bigger than 14.
+
+Q: Which is bigger, 745 or 820?
+A: 820 is bigger than 745.
+
+Q: How many letters does the word 'sierra' have?
+A: The word 'sierra' has 6 letters.
+
+Q: How many letters does the word 'djibouti' have?
+A: The word 'djibouti' has 8 letters.
+
+Q: How many letters does the word 'penh' have?
+A: The word 'penh' has 4 letters.
+
+Q: How many letters does the word 'indonesia' have?
+A: The word 'indonesia' has 9 letters.
+
+Q: How many letters does the word 'share' have?
+A: The word 'share' has 5 letters.
+
+Q: How many letters does the word 'islands' have?
+A: The word 'islands' has 7 letters.
+
+Q: How many letters does the word 'helsinki' have?
+A: The word 'helsinki' has 8 letters.
+
+Q: How many letters does the word 'ecuador' have?
+A: The word 'ecuador' has 7 letters.
+
+Q: How do you sort 8, 23, and 27?
+A: In order, they are 8 23 27.
+
+Q: How do you sort 380, 366, and 890?
+A: In order, they are 366 380 890.
+
+Q: How do you sort 12, 3, and 24?
+A: In order, they are 3 12 24.
+
+Q: How do you sort 15, 20, and 22?
+A: In order, they are 15 20 22.
+
+Q: How do you sort 565, 900, and 932?
+A: In order, they are 565 900 932.
+
+Q: How do you sort 213, 310, and 800?
+A: In order, they are 213 310 800.
+
+Q: How do you sort 12, 13, and 14?
+A: In order, they are 12 13 14.
+
+Q: How do you sort 949, 652, and 737?
+A: In order, they are 652 737 949.
+
+Q: What continent is Rwanda on?
+A: Rwanda is on the continent of Africa.
+
+Q: What continent is Kyrgyzstan on?
+A: Kyrgyzstan is on the continent of Asia.
+
+Q: What continent is the United Arab Emirates on?
+A: the United Arab Emirates is on the continent of Asia.
+
+Q: What continent is Oman on?
+A: Oman is on the continent of Asia.
+
+Q: What continent is Malta on?
+A: Malta is on the continent of Europe.
+
+Q: What continent is Mauritania on?
+A: Mauritania is on the continent of Africa.
+
+Q: What continent is Eswatini on?
+A: Eswatini is on the continent of Africa.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 25 in words?
+A: 25 in words is twenty-five.
+
+Q: How do you write 55 in words?
+A: 55 in words is fifty-five.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 99 in words?
+A: 99 in words is ninety-nine.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of Laos?
+A: The capital of Laos is Vientiane.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: What is the capital of Zambia?
+A: The capital of Zambia is Lusaka.
+
+Q: What is the capital of Georgia?
+A: The capital of Georgia is Tbilisi.
+
+Q: What is the capital of the Netherlands?
+A: The capital of the Netherlands is Amsterdam.
+
+Q: What is the capital of the Republic of the Congo?
+A: The capital of the Republic of the Congo is Brazzaville.
+
+Q: What is the capital of Guinea?
+A: The capital of Guinea is Conakry.
+
+Q: What is the capital of Saint Kitts and Nevis?
+A: The capital of Saint Kitts and Nevis is Basseterre.
