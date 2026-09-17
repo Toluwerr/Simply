@@ -25693,3 +25693,110 @@ A: 9 times 4 is 36.
 
 Q: What is 75 minus 12?
 A: 75 minus 12 is 63.
+Q: How many letters does the word 'dhaka' have?
+A: The word 'dhaka' has 5 letters.
+
+Q: How many letters does the word 'som' have?
+A: The word 'som' has 3 letters.
+
+Q: How many letters does the word 'kyrgyzstan' have?
+A: The word 'kyrgyzstan' has 10 letters.
+
+Q: How many letters does the word 'samarium' have?
+A: The word 'samarium' has 8 letters.
+
+Q: How many letters does the word 'cuba' have?
+A: The word 'cuba' has 4 letters.
+
+Q: How many letters does the word 'shallow' have?
+A: The word 'shallow' has 7 letters.
+
+Q: Which is bigger, 309 or 821?
+A: 821 is bigger than 309.
+
+Q: Is 5 bigger than 14?
+A: No, 14 is bigger than 5.
+
+Q: Which is bigger, 20 or 82?
+A: 82 is bigger than 20.
+
+Q: Which is bigger, 8 or 12?
+A: 12 is bigger than 8.
+
+Q: Which is bigger, 250 or 355?
+A: 355 is bigger than 250.
+
+Q: Is 471 bigger than 427?
+A: Yes, 471 is bigger than 427.
+
+Q: How do you sort 6, 15, and 25?
+A: In order, they are 6 15 25.
+
+Q: How do you sort 28, 4, and 19?
+A: In order, they are 4 19 28.
+
+Q: How do you sort 147, 310, and 752?
+A: In order, they are 147 310 752.
+
+Q: How do you sort 101, 46, and 894?
+A: In order, they are 46 101 894.
+
+Q: How do you sort 20, 22, and 17?
+A: In order, they are 17 20 22.
+
+Q: How do you sort 26, 6, and 14?
+A: In order, they are 6 14 26.
+
+Q: What is 9 plus 5?
+A: 9 plus 5 is 14.
+
+Q: What is 15 minus 11?
+A: 15 minus 11 is 4.
+
+Q: What is 19 plus 7?
+A: 19 plus 7 is 26.
+
+Q: What is 58 plus 99?
+A: 58 plus 99 is 157.
+
+Q: What is 747 plus 130?
+A: 747 plus 130 is 877.
+
+Q: What is 9 times 3?
+A: 9 times 3 is 27.
+
+Q: What is the chemical symbol for radon?
+A: The chemical symbol for radon is Rn.
+
+Q: Which element has the chemical symbol Ca?
+A: Ca is the chemical symbol for calcium.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: Which element has the chemical symbol Yb?
+A: Yb is the chemical symbol for ytterbium.
+
+Q: What is the chemical symbol for iodine?
+A: The chemical symbol for iodine is I.
+
+Q: What is the chemical symbol for technetium?
+A: The chemical symbol for technetium is Tc.
+
+Q: What is the first letter of 'bishkek'?
+A: The first letter of 'bishkek' is B.
+
+Q: What is the last letter of 'uganda'?
+A: The last letter of 'uganda' is A.
+
+Q: What is the last letter of 'hafnium'?
+A: The last letter of 'hafnium' is M.
+
+Q: What is the first letter of 'ireland'?
+A: The first letter of 'ireland' is I.
+
+Q: What is the first letter of 'calm'?
+A: The first letter of 'calm' is C.
+
+Q: What is the first letter of 'dirty'?
+A: The first letter of 'dirty' is D.
