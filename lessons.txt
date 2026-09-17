@@ -56802,3 +56802,170 @@ A: The last letter of 'lumpur' is R.
 
 Q: What is the last letter of 'ruthenium'?
 A: The last letter of 'ruthenium' is M.
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: How do you sort 24, 14, and 21?
+A: In order, they are 14 21 24.
+
+Q: How do you sort 15, 21, and 26?
+A: In order, they are 15 21 26.
+
+Q: How do you sort 990, 944, and 348?
+A: In order, they are 348 944 990.
+
+Q: How do you sort 106, 776, and 217?
+A: In order, they are 106 217 776.
+
+Q: How do you sort 137, 303, and 497?
+A: In order, they are 137 303 497.
+
+Q: How do you sort 922, 329, and 89?
+A: In order, they are 89 329 922.
+
+Q: How do you sort 8, 13, and 6?
+A: In order, they are 6 8 13.
+
+Q: How do you sort 342, 154, and 560?
+A: In order, they are 154 342 560.
+
+Q: What is the last letter of 'brunei'?
+A: The last letter of 'brunei' is I.
+
+Q: What is the last letter of 'vincent'?
+A: The last letter of 'vincent' is T.
+
+Q: What is the last letter of 'yaounde'?
+A: The last letter of 'yaounde' is E.
+
+Q: What is the first letter of 'buenos'?
+A: The first letter of 'buenos' is B.
+
+Q: What is the first letter of 'maseru'?
+A: The first letter of 'maseru' is M.
+
+Q: What is the last letter of 'snake'?
+A: The last letter of 'snake' is E.
+
+Q: What is the last letter of 'rubidium'?
+A: The last letter of 'rubidium' is M.
+
+Q: What is the last letter of 'burundi'?
+A: The last letter of 'burundi' is I.
+
+Q: What continent is Malaysia on?
+A: Malaysia is on the continent of Asia.
+
+Q: What continent is Bolivia on?
+A: Bolivia is on the continent of South America.
+
+Q: What continent is Mauritania on?
+A: Mauritania is on the continent of Africa.
+
+Q: What continent is Algeria on?
+A: Algeria is on the continent of Africa.
+
+Q: What continent is Armenia on?
+A: Armenia is on the continent of Asia.
+
+Q: What continent is Sri Lanka on?
+A: Sri Lanka is on the continent of Asia.
+
+Q: What continent is Spain on?
+A: Spain is on the continent of Europe.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Haiti?
+A: The capital of Haiti is Port-au-Prince.
+
+Q: What is the capital of Tonga?
+A: The capital of Tonga is Nuku'alofa.
+
+Q: What is the capital of Serbia?
+A: The capital of Serbia is Belgrade.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What is the capital of Norway?
+A: The capital of Norway is Oslo.
+
+Q: What is the capital of Uganda?
+A: The capital of Uganda is Kampala.
+
+Q: What is the capital of Senegal?
+A: The capital of Senegal is Dakar.
+
+Q: Can you count by fives from 35 to 60?
+A: Counting by fives gives 35 40 45 50 55 60.
+
+Q: Can you count by ones from 9 to 12?
+A: Counting by ones gives 9 10 11 12.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by twos from 18 to 24?
+A: Counting by twos gives 18 20 22 24.
+
+Q: Can you count by ones from 4 to 8?
+A: Counting by ones gives 4 5 6 7 8.
+
+Q: Can you count by twos from 18 to 24?
+A: Counting by twos gives 18 20 22 24.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by twos from 36 to 44?
+A: Counting by twos gives 36 38 40 42 44.
+
+Q: Which is bigger, 980 or 158?
+A: 980 is bigger than 158.
+
+Q: Is 106 bigger than 722?
+A: No, 722 is bigger than 106.
+
+Q: Which is bigger, 447 or 452?
+A: 452 is bigger than 447.
+
+Q: Is 12 bigger than 8?
+A: Yes, 12 is bigger than 8.
+
+Q: Is 600 bigger than 956?
+A: No, 956 is bigger than 600.
+
+Q: Which is bigger, 978 or 706?
+A: 978 is bigger than 706.
+
+Q: Which is bigger, 95 or 40?
+A: 95 is bigger than 40.
+
+Q: Is 93 bigger than 31?
+A: Yes, 93 is bigger than 31.
