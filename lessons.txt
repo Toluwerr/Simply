@@ -27441,3 +27441,128 @@ A: Counting by tens gives 20 30 40 50 60 70.
 
 Q: Can you count by twos from 30 to 38?
 A: Counting by twos gives 30 32 34 36 38.
+Q: How many letters does the word 'asuncion' have?
+A: The word 'asuncion' has 8 letters.
+
+Q: How many letters does the word 'maldives' have?
+A: The word 'maldives' has 8 letters.
+
+Q: How many letters does the word 'georgetown' have?
+A: The word 'georgetown' has 10 letters.
+
+Q: How many letters does the word 'tajikistan' have?
+A: The word 'tajikistan' has 10 letters.
+
+Q: How many letters does the word 'gentle' have?
+A: The word 'gentle' has 6 letters.
+
+Q: How many letters does the word 'pierre' have?
+A: The word 'pierre' has 6 letters.
+
+Q: How do you sort 173, 912, and 786?
+A: In order, they are 173 786 912.
+
+Q: How do you sort 779, 571, and 223?
+A: In order, they are 223 571 779.
+
+Q: How do you sort 22, 17, and 12?
+A: In order, they are 12 17 22.
+
+Q: How do you sort 256, 259, and 965?
+A: In order, they are 256 259 965.
+
+Q: How do you sort 1, 19, and 11?
+A: In order, they are 1 11 19.
+
+Q: How do you sort 635, 760, and 338?
+A: In order, they are 338 635 760.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What currency does Taiwan use?
+A: The currency of Taiwan is the dollar.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
+
+Q: What currency does Ireland use?
+A: The currency of Ireland is the euro.
+
+Q: What currency does Venezuela use?
+A: The currency of Venezuela is the bolivar.
+
+Q: What currency does Finland use?
+A: The currency of Finland is the euro.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by ones from 22 to 26?
+A: Counting by ones gives 22 23 24 25 26.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by fives from 35 to 55?
+A: Counting by fives gives 35 40 45 50 55.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: What is the capital of North Korea?
+A: The capital of North Korea is Pyongyang.
+
+Q: What is the capital of North Korea?
+A: The capital of North Korea is Pyongyang.
+
+Q: What is the capital of Switzerland?
+A: The capital of Switzerland is Bern.
+
+Q: What is the capital of Montenegro?
+A: The capital of Montenegro is Podgorica.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
+
+Q: What is the capital of Palau?
+A: The capital of Palau is Ngerulmud.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.

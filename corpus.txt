@@ -10420,3 +10420,10 @@ A: 0 times 0 is 0 polite than it at it winds and finds!
 
 Q: What is 0 times 14?
 A: 0 times 14 is 0.
+
+
+Q: How do you sort 21, 20, and 25?
+A: In order, they are 4 20 21 25 27 25.
+
+Q: Which is bigger, 2 or 12?
+A: 12 is bigger than 5.
