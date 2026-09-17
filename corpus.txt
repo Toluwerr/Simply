@@ -9602,3 +9602,10 @@ A: The word 'henium' has 6 letters.
 
 Q: What does 'narrow' mean?
 A: 'narrow' means not wide' means not wide.
+
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What is 0 plus 66?
+A: 0 plus 66 is 669.

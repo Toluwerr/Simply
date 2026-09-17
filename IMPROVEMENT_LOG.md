@@ -2611,3 +2611,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.43 | weakest: arithmetic 0.00, compare 0.00, numwords 0.00 | strongest: opposites 1.00, animals 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I am Simply myself an inseed!"
 
+## Iteration 306 - NO_GAIN
+- **when**: 2026-09-17T00:07:11Z
+- **train loss**: 1.0002 | **val loss**: 0.6988 | **run best**: 0.6799
+- **corpus**: 211,746 chars (+2 self-written examples)
+- **internet reading**: +26 articles, +12 facts (536 read all-time)
+- **lr**: 0.0008 | **steps**: 150
+- **knowledge quiz**: avg 0.57 | weakest: arithmetic 0.00, compare 0.00, roman 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-style newsystystystystemies, and learned to At the company and programming froming line. The loweard lake ver is under the World War I. The reachine was the same of the statistict to listed for the Great List of the Devel"
+
