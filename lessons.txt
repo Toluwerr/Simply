@@ -59497,3 +59497,170 @@ A: 62 in words is sixty-two.
 
 Q: How do you write 38 in words?
 A: 38 in words is thirty-eight.
+Q: Which is bigger, 5 or 3?
+A: 5 is bigger than 3.
+
+Q: Is 572 bigger than 294?
+A: Yes, 572 is bigger than 294.
+
+Q: Is 40 bigger than 75?
+A: No, 75 is bigger than 40.
+
+Q: Which is bigger, 885 or 653?
+A: 885 is bigger than 653.
+
+Q: Which is bigger, 1 or 2?
+A: 2 is bigger than 1.
+
+Q: Is 11 bigger than 92?
+A: No, 92 is bigger than 11.
+
+Q: Is 588 bigger than 299?
+A: Yes, 588 is bigger than 299.
+
+Q: Which is bigger, 7 or 1?
+A: 7 is bigger than 1.
+
+Q: How many letters does the word 'chisinau' have?
+A: The word 'chisinau' has 8 letters.
+
+Q: How many letters does the word 'malaysia' have?
+A: The word 'malaysia' has 8 letters.
+
+Q: How many letters does the word 'strontium' have?
+A: The word 'strontium' has 9 letters.
+
+Q: How many letters does the word 'stockholm' have?
+A: The word 'stockholm' has 9 letters.
+
+Q: How many letters does the word 'koala' have?
+A: The word 'koala' has 5 letters.
+
+Q: How many letters does the word 'peru' have?
+A: The word 'peru' has 4 letters.
+
+Q: How many letters does the word 'guyana' have?
+A: The word 'guyana' has 6 letters.
+
+Q: How many letters does the word 'picked' have?
+A: The word 'picked' has 6 letters.
+
+Q: How do you sort 200, 19, and 584?
+A: In order, they are 19 200 584.
+
+Q: How do you sort 290, 620, and 775?
+A: In order, they are 290 620 775.
+
+Q: How do you sort 27, 12, and 25?
+A: In order, they are 12 25 27.
+
+Q: How do you sort 3, 19, and 9?
+A: In order, they are 3 9 19.
+
+Q: How do you sort 28, 27, and 11?
+A: In order, they are 11 27 28.
+
+Q: How do you sort 387, 836, and 101?
+A: In order, they are 101 387 836.
+
+Q: How do you sort 483, 948, and 982?
+A: In order, they are 483 948 982.
+
+Q: How do you sort 48, 981, and 926?
+A: In order, they are 48 926 981.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.
+
+Q: What continent is Vietnam on?
+A: Vietnam is on the continent of Asia.
+
+Q: What continent is Tonga on?
+A: Tonga is on the continent of Oceania.
+
+Q: What continent is Tonga on?
+A: Tonga is on the continent of Oceania.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What continent is Sweden on?
+A: Sweden is on the continent of Europe.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 35 in words?
+A: 35 in words is thirty-five.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: What is the capital of Guatemala?
+A: The capital of Guatemala is Guatemala City.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is the capital of Portugal?
+A: The capital of Portugal is Lisbon.
+
+Q: What is the capital of Nepal?
+A: The capital of Nepal is Kathmandu.
+
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+
+Q: What is the capital of Guatemala?
+A: The capital of Guatemala is Guatemala City.
+
+Q: What is the capital of Malaysia?
+A: The capital of Malaysia is Kuala Lumpur.
