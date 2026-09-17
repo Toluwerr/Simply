@@ -1,9 +1,9 @@
 {
   "version": 29,
-  "iteration": 691,
+  "iteration": 692,
   "best_val_loss": 1.3992460131645204,
   "lr": 0.0003,
-  "plateaus": 1,
+  "plateaus": 0,
   "val_start": 131326,
   "val_end": 138238,
   "dataset_chars": 284500,
@@ -38,11 +38,11 @@
     "animals": 0.0,
     "opposites": 0.0,
     "definitions": 0.0,
-    "reading": 0.0
+    "reading": 1.0
   },
   "study_mode_v1": true,
   "head_chars": 284342,
-  "lessons": 10833,
+  "lessons": 10880,
   "best_knowledge": 0.043,
   "reading": {
     "articles": 2465,
@@ -75,7 +75,7 @@
     "animals": 0,
     "opposites": 0,
     "definitions": 0,
-    "reading": 0
+    "reading": 1
   },
   "pretrain_steps": 0
 }
