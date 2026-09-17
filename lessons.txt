@@ -54665,3 +54665,146 @@ A: The currency of Guatemala is the quetzal.
 
 Q: What currency does Guatemala use?
 A: The currency of Guatemala is the quetzal.
+Q: What is the first letter of 'vast'?
+A: The first letter of 'vast' is V.
+
+Q: What is the last letter of 'rouge'?
+A: The last letter of 'rouge' is E.
+
+Q: What is the last letter of 'paanga'?
+A: The last letter of 'paanga' is A.
+
+Q: What is the first letter of 'uruguay'?
+A: The first letter of 'uruguay' is U.
+
+Q: What is the last letter of 'sound'?
+A: The last letter of 'sound' is D.
+
+Q: What is the first letter of 'tirana'?
+A: The first letter of 'tirana' is T.
+
+Q: What is the first letter of 'cloud'?
+A: The first letter of 'cloud' is C.
+
+Q: What is the first letter of 'central'?
+A: The first letter of 'central' is C.
+
+Q: How do you sort 668, 853, and 828?
+A: In order, they are 668 828 853.
+
+Q: How do you sort 3, 13, and 25?
+A: In order, they are 3 13 25.
+
+Q: How do you sort 289, 405, and 465?
+A: In order, they are 289 405 465.
+
+Q: How do you sort 796, 254, and 784?
+A: In order, they are 254 784 796.
+
+Q: How do you sort 26, 16, and 19?
+A: In order, they are 16 19 26.
+
+Q: How do you sort 7, 6, and 27?
+A: In order, they are 6 7 27.
+
+Q: How do you sort 835, 17, and 727?
+A: In order, they are 17 727 835.
+
+Q: How do you sort 13, 18, and 11?
+A: In order, they are 11 13 18.
+
+Q: Is 721 bigger than 981?
+A: No, 981 is bigger than 721.
+
+Q: Which is bigger, 15 or 40?
+A: 40 is bigger than 15.
+
+Q: Is 622 bigger than 115?
+A: Yes, 622 is bigger than 115.
+
+Q: Is 17 bigger than 98?
+A: No, 98 is bigger than 17.
+
+Q: Is 69 bigger than 53?
+A: Yes, 69 is bigger than 53.
+
+Q: Which is bigger, 14 or 11?
+A: 14 is bigger than 11.
+
+Q: Which is bigger, 49 or 68?
+A: 68 is bigger than 49.
+
+Q: Which is bigger, 8 or 5?
+A: 8 is bigger than 5.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: What is the capital of Taiwan?
+A: The capital of Taiwan is Taipei.
+
+Q: What is the capital of Paraguay?
+A: The capital of Paraguay is Asuncion.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
+
+Q: What is the capital of Saint Kitts and Nevis?
+A: The capital of Saint Kitts and Nevis is Basseterre.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.
+
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
+
+Q: What is 14 minus 12?
+A: 14 minus 12 is 2.
+
+Q: What is 442 minus 102?
+A: 442 minus 102 is 340.
+
+Q: What is 9 times 3?
+A: 9 times 3 is 27.
+
+Q: What is 4 times 5?
+A: 4 times 5 is 20.
+
+Q: What is 18 plus 8?
+A: 18 plus 8 is 26.
+
+Q: What is 20 minus 19?
+A: 20 minus 19 is 1.
+
+Q: What is 19 plus 77?
+A: 19 plus 77 is 96.
+
+Q: What is 241 plus 462?
+A: 241 plus 462 is 703.
