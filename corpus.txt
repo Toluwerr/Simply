@@ -12817,3 +12817,7 @@ A: The word ' has 5 letters.
 
 Q: How many letters does the word 'bukal' have?
 A: The word ' has 5 letters.
+
+
+Q: Is 0 bigger than 4?
+A: No, 24 is bigger than 68.
