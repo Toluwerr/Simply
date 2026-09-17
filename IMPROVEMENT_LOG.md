@@ -7337,3 +7337,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: continents 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"Counteep is first letter of 'l girst letter of ' is word'?"
 
+## Promotion - v36 - weights promoted to Releases
+- **reason**: knowledge 0.04, was 0.00; val 1.2479
+- self-portrait, asked "Who are you?": *"Australia is from 35."
+
