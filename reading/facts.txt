@@ -2833,3 +2833,117 @@ A: James Edward Bowman Jr. is an American physician and specialist in pathology,
 
 Q: What is OMIM?
 A: OMIM is a comprehensive database of human genotype-phenotype links.
+
+Q: What is S-PLUS?
+A: S-PLUS is a widely used commercial implementation of S that was formerly sold by TIBCO Software.
+
+Q: What is Limbo?
+A: Limbo is a programming language for writing distributed systems and is the language used to write applications for the Inferno operating system.
+
+Q: What is Vala?
+A: Vala is an object-oriented programming language with a self-hosting compiler that generates an intermediate representation in C source code.
+
+Q: What is Natural language programming?
+A: Natural language programming is an ontology-assisted way of programming in terms of natural language sentences, e.g.
+
+Q: What is Snap!?
+A: Snap! is a free block-based educational graphical programming language and online community.
+
+Q: What is Elm?
+A: Elm is a domain-specific programming language for declaratively creating web browser-based graphical user interfaces.
+
+Q: What is ABC?
+A: ABC is an imperative general-purpose programming language and integrated development environment developed at Centrum Wiskunde  Informatica.
+
+Q: What is Hack?
+A: Hack is a programming language for the HipHop Virtual Machine , created by Meta as a dialect of PHP.
+
+Q: What is Because Tcl?
+A: Because Tcl is a very compact language, it is used on embedded systems platforms, both in its full form and in several other small-footprint versions.
+
+Q: What is Iverson and Roger Hui,?
+A: Iverson and Roger Hui, is an array programming language based primarily on APL .
+
+Q: What is Clean?
+A: Clean is a general-purpose purely functional programming language.
+
+Q: What is Chingford Rugby Club?
+A: Chingford Rugby Club is an English rugby union club based in Chingford, London.
+
+Q: What is Doesburg x?
+A: Doesburg x is a municipality and a city in the eastern Netherlands in the province of Gelderland.
+
+Q: What is Seymour?
+A: Seymour is a city in Jackson County, Indiana, United States.
+
+Q: What is Dreamland?
+A: Dreamland is a 2016 American comedy-drama film directed by Robert Schwartzman in his directorial debut.
+
+Q: What is Fran Gebhard?
+A: Fran Gebhard is a Canadian actress and theatre director.
+
+Q: What is Kitaazumi?
+A: Kitaazumi is a district located in Nagano Prefecture, Japan.
+
+Q: What is John Edward Casida?
+A: John Edward Casida is an American entomologist, toxicologist and professor at the University of California.
+
+Q: What is Palomino?
+A: Palomino is a genetic color in horses, consisting of a gold coat and white mane and tail the degree of whiteness can vary from bright white to yellow.
+
+Q: What is Kane Kramer?
+A: Kane Kramer is a British inventor and businessman.
+
+Q: What is Johan Vaaler?
+A: Johan Vaaler is a Norwegian inventor and patent clerk.
+
+Q: What is Fad,?
+A: Fad, is the host of the popular children's invention TV show The Dr.
+
+Q: What is Hakuta?
+A: Hakuta is the organizer of four Fad Fairs, conventions of inventors with fun, wacky ideas, in Detroit.
+
+Q: What is Leonardo's self-propelled cart?
+A: Leonardo's self-propelled cart is an invention designed by Leonardo da Vinci.
+
+Q: What is Stefanos Geroulanos?
+A: Stefanos Geroulanos is an American historian and educator.
+
+Q: What is SKF?
+A: SKF is the world's largest bearing manufacturer and employs 44,000 people in 108 manufacturing units.
+
+Q: What is Euclid James Motorhead Sherwood?
+A: Euclid James Motorhead Sherwood is an American rock musician notable for being a member of the original version of Frank Zappa's band the Mothers of I.
+
+Q: What is Fairchild Semiconductor International, Inc.?
+A: Fairchild Semiconductor International, Inc.
+
+Q: What is Edward Arthur Murphy?
+A: Edward Arthur Murphy is a Dunlop researcher credited with the invention of latex foam.
+
+Q: What is Gianni Bettini?
+A: Gianni Bettini is a gentleman inventor and a pioneer audiophile who invented several phonograph improvements.
+
+Q: What is Colin Albert Murdoch?
+A: Colin Albert Murdoch is a New Zealand pharmacist and veterinarian who made a number of significant inventions, in particular the tranquilliser gun.
+
+Q: What is Mohamed Yalouh?
+A: Mohamed Yalouh is a Moroccan inventor known for his works in Artificial Intelligence, Machine Learning, and Engineering.
+
+Q: What is Todhri?
+A: Todhri is a Unicode block containing letters for the Todhri alphabet.
+
+Q: What is Andrea Wulf?
+A: Andrea Wulf is a German-British historian and writer who has written books.
+
+Q: What is Wulf?
+A: Wulf is a public speaker, delivering lectures in the UK and USA.
+
+Q: What is Norbert Rillieux?
+A: Norbert Rillieux is a Louisiana Creole inventor who was widely considered one of the earliest chemical engineers.
+
+Q: What is Rillieux, a French-speaking Creole,?
+A: Rillieux, a French-speaking Creole.
+
+Q: What is Norbert?
+A: Norbert is the eldest of seven children.
