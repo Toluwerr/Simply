@@ -41991,3 +41991,170 @@ A: 14 in words is fourteen.
 
 Q: How do you write 97 in words?
 A: 97 in words is ninety-seven.
+Q: Is 4 bigger than 20?
+A: No, 20 is bigger than 4.
+
+Q: Is 77 bigger than 71?
+A: Yes, 77 is bigger than 71.
+
+Q: Is 383 bigger than 558?
+A: No, 558 is bigger than 383.
+
+Q: Is 984 bigger than 723?
+A: Yes, 984 is bigger than 723.
+
+Q: Is 615 bigger than 402?
+A: Yes, 615 is bigger than 402.
+
+Q: Which is bigger, 4 or 17?
+A: 17 is bigger than 4.
+
+Q: Which is bigger, 260 or 148?
+A: 260 is bigger than 148.
+
+Q: Is 6 bigger than 17?
+A: No, 17 is bigger than 6.
+
+Q: How many letters does the word 'whale' have?
+A: The word 'whale' has 5 letters.
+
+Q: How many letters does the word 'sweden' have?
+A: The word 'sweden' has 6 letters.
+
+Q: How many letters does the word 'laos' have?
+A: The word 'laos' has 4 letters.
+
+Q: How many letters does the word 'magnesium' have?
+A: The word 'magnesium' has 9 letters.
+
+Q: How many letters does the word 'aluminium' have?
+A: The word 'aluminium' has 9 letters.
+
+Q: How many letters does the word 'dominican' have?
+A: The word 'dominican' has 9 letters.
+
+Q: How many letters does the word 'melon' have?
+A: The word 'melon' has 5 letters.
+
+Q: How many letters does the word 'verde' have?
+A: The word 'verde' has 5 letters.
+
+Q: How do you sort 452, 874, and 947?
+A: In order, they are 452 874 947.
+
+Q: How do you sort 766, 371, and 249?
+A: In order, they are 249 371 766.
+
+Q: How do you sort 322, 51, and 678?
+A: In order, they are 51 322 678.
+
+Q: How do you sort 424, 437, and 69?
+A: In order, they are 69 424 437.
+
+Q: How do you sort 516, 547, and 914?
+A: In order, they are 516 547 914.
+
+Q: How do you sort 11, 28, and 27?
+A: In order, they are 11 27 28.
+
+Q: How do you sort 39, 403, and 281?
+A: In order, they are 39 281 403.
+
+Q: How do you sort 286, 262, and 692?
+A: In order, they are 262 286 692.
+
+Q: What continent is Sierra Leone on?
+A: Sierra Leone is on the continent of Africa.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: What continent is Bhutan on?
+A: Bhutan is on the continent of Asia.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: What continent is Thailand on?
+A: Thailand is on the continent of Asia.
+
+Q: What continent is Australia on?
+A: Australia is on the continent of Australia.
+
+Q: What continent is Italy on?
+A: Italy is on the continent of Europe.
+
+Q: What continent is Austria on?
+A: Austria is on the continent of Europe.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How do you write 30 in words?
+A: 30 in words is thirty.
+
+Q: How do you write 3 in words?
+A: 3 in words is three.
+
+Q: How do you write 60 in words?
+A: 60 in words is sixty.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of Portugal?
+A: The capital of Portugal is Lisbon.
+
+Q: What is the capital of New Zealand?
+A: The capital of New Zealand is Wellington.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Serbia?
+A: The capital of Serbia is Belgrade.
+
+Q: What is the capital of San Marino?
+A: The capital of San Marino is San Marino.
+
+Q: What is the capital of Vatican City?
+A: The capital of Vatican City is Vatican City.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
