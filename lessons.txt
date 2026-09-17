@@ -29583,3 +29583,110 @@ A: 899 is bigger than 268.
 
 Q: Is 15 bigger than 16?
 A: No, 16 is bigger than 15.
+Q: What continent is Gabon on?
+A: Gabon is on the continent of Africa.
+
+Q: What continent is Jamaica on?
+A: Jamaica is on the continent of North America.
+
+Q: What continent is Poland on?
+A: Poland is on the continent of Europe.
+
+Q: What continent is Eswatini on?
+A: Eswatini is on the continent of Africa.
+
+Q: What continent is Azerbaijan on?
+A: Azerbaijan is on the continent of Asia.
+
+Q: What continent is South Africa on?
+A: South Africa is on the continent of Africa.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: Which is bigger, 75 or 26?
+A: 75 is bigger than 26.
+
+Q: Which is bigger, 860 or 943?
+A: 943 is bigger than 860.
+
+Q: Is 52 bigger than 78?
+A: No, 78 is bigger than 52.
+
+Q: Is 384 bigger than 845?
+A: No, 845 is bigger than 384.
+
+Q: Which is bigger, 597 or 326?
+A: 597 is bigger than 326.
+
+Q: Is 7 bigger than 16?
+A: No, 16 is bigger than 7.
+
+Q: Can you count by ones from 33 to 36?
+A: Counting by ones gives 33 34 35 36.
+
+Q: Can you count by ones from 34 to 37?
+A: Counting by ones gives 34 35 36 37.
+
+Q: Can you count by twos from 34 to 44?
+A: Counting by twos gives 34 36 38 40 42 44.
+
+Q: Can you count by ones from 14 to 17?
+A: Counting by ones gives 14 15 16 17.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by ones from 30 to 35?
+A: Counting by ones gives 30 31 32 33 34 35.
+
+Q: What is double 27?
+A: Double 27 is 54.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is double 7?
+A: Double 7 is 14.
+
+Q: What is double 17?
+A: Double 17 is 34.
+
+Q: What is double 21?
+A: Double 21 is 42.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
