@@ -21608,3 +21608,170 @@ A: 69 in words is sixty-nine.
 
 Q: How do you write 54 in words?
 A: 54 in words is fifty-four.
+Q: Which is bigger, 543 or 672?
+A: 672 is bigger than 543.
+
+Q: Which is bigger, 4 or 13?
+A: 13 is bigger than 4.
+
+Q: Is 514 bigger than 812?
+A: No, 812 is bigger than 514.
+
+Q: Which is bigger, 93 or 45?
+A: 93 is bigger than 45.
+
+Q: Is 946 bigger than 143?
+A: Yes, 946 is bigger than 143.
+
+Q: Is 864 bigger than 119?
+A: Yes, 864 is bigger than 119.
+
+Q: Is 21 bigger than 50?
+A: No, 50 is bigger than 21.
+
+Q: Is 3 bigger than 9?
+A: No, 9 is bigger than 3.
+
+Q: How many letters does the word 'and' have?
+A: The word 'and' has 3 letters.
+
+Q: How many letters does the word 'brussels' have?
+A: The word 'brussels' has 8 letters.
+
+Q: How many letters does the word 'oink' have?
+A: The word 'oink' has 4 letters.
+
+Q: How many letters does the word 'windhoek' have?
+A: The word 'windhoek' has 8 letters.
+
+Q: How many letters does the word 'solomon' have?
+A: The word 'solomon' has 7 letters.
+
+Q: How many letters does the word 'clean' have?
+A: The word 'clean' has 5 letters.
+
+Q: How many letters does the word 'kansas' have?
+A: The word 'kansas' has 6 letters.
+
+Q: How many letters does the word 'california' have?
+A: The word 'california' has 10 letters.
+
+Q: How do you sort 996, 963, and 909?
+A: In order, they are 909 963 996.
+
+Q: How do you sort 543, 982, and 626?
+A: In order, they are 543 626 982.
+
+Q: How do you sort 7, 14, and 5?
+A: In order, they are 5 7 14.
+
+Q: How do you sort 873, 120, and 985?
+A: In order, they are 120 873 985.
+
+Q: How do you sort 818, 562, and 142?
+A: In order, they are 142 562 818.
+
+Q: How do you sort 20, 22, and 25?
+A: In order, they are 20 22 25.
+
+Q: How do you sort 50, 240, and 288?
+A: In order, they are 50 240 288.
+
+Q: How do you sort 25, 16, and 1?
+A: In order, they are 1 16 25.
+
+Q: What continent is Azerbaijan on?
+A: Azerbaijan is on the continent of Asia.
+
+Q: What continent is Ukraine on?
+A: Ukraine is on the continent of Europe.
+
+Q: What continent is Malawi on?
+A: Malawi is on the continent of Africa.
+
+Q: What continent is the United Arab Emirates on?
+A: the United Arab Emirates is on the continent of Asia.
+
+Q: What continent is Lesotho on?
+A: Lesotho is on the continent of Africa.
+
+Q: What continent is Cameroon on?
+A: Cameroon is on the continent of Africa.
+
+Q: What continent is Myanmar on?
+A: Myanmar is on the continent of Asia.
+
+Q: What continent is the Central African Republic on?
+A: the Central African Republic is on the continent of Africa.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: How do you write 30 in words?
+A: 30 in words is thirty.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
+
+Q: How do you write 49 in words?
+A: 49 in words is forty-nine.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: What is the capital of the Republic of the Congo?
+A: The capital of the Republic of the Congo is Brazzaville.
+
+Q: What is the capital of the Solomon Islands?
+A: The capital of the Solomon Islands is Honiara.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of the United Arab Emirates?
+A: The capital of the United Arab Emirates is Abu Dhabi.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
