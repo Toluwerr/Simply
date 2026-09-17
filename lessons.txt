@@ -37731,3 +37731,170 @@ A: The capital of Croatia is Zagreb.
 
 Q: What is the capital of South Africa?
 A: The capital of South Africa is Pretoria.
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: What is the capital of Fiji?
+A: The capital of Fiji is Suva.
+
+Q: What is the capital of Sudan?
+A: The capital of Sudan is Khartoum.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is the capital of Cyprus?
+A: The capital of Cyprus is Nicosia.
+
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+
+Q: What is the capital of Croatia?
+A: The capital of Croatia is Zagreb.
+
+Q: What is the capital of the United Arab Emirates?
+A: The capital of the United Arab Emirates is Abu Dhabi.
+
+Q: What is 59 plus 32?
+A: 59 plus 32 is 91.
+
+Q: What is 66 minus 38?
+A: 66 minus 38 is 28.
+
+Q: What is 6 times 7?
+A: 6 times 7 is 42.
+
+Q: What is 970 minus 836?
+A: 970 minus 836 is 134.
+
+Q: What is 912 minus 393?
+A: 912 minus 393 is 519.
+
+Q: What is 857 plus 217?
+A: 857 plus 217 is 1074.
+
+Q: What is 9 plus 7?
+A: 9 plus 7 is 16.
+
+Q: What is 6 times 2?
+A: 6 times 2 is 12.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: How many letters does the word 'lazy' have?
+A: The word 'lazy' has 4 letters.
+
+Q: How many letters does the word 'india' have?
+A: The word 'india' has 5 letters.
+
+Q: How many letters does the word 'hold' have?
+A: The word 'hold' has 4 letters.
+
+Q: How many letters does the word 'stand' have?
+A: The word 'stand' has 5 letters.
+
+Q: How many letters does the word 'springfield' have?
+A: The word 'springfield' has 11 letters.
+
+Q: How many letters does the word 'london' have?
+A: The word 'london' has 6 letters.
+
+Q: How many letters does the word 'earth' have?
+A: The word 'earth' has 5 letters.
+
+Q: How many letters does the word 'canberra' have?
+A: The word 'canberra' has 8 letters.
+
+Q: What is the first letter of 'plant'?
+A: The first letter of 'plant' is P.
+
+Q: What is the last letter of 'the'?
+A: The last letter of 'the' is E.
+
+Q: What is the last letter of 'pretoria'?
+A: The last letter of 'pretoria' is A.
+
+Q: What is the first letter of 'city'?
+A: The first letter of 'city' is C.
+
+Q: What is the first letter of 'mark'?
+A: The first letter of 'mark' is M.
+
+Q: What is the first letter of 'city'?
+A: The first letter of 'city' is C.
+
+Q: What is the first letter of 'nebraska'?
+A: The first letter of 'nebraska' is N.
+
+Q: What is the last letter of 'belarus'?
+A: The last letter of 'belarus' is S.
+
+Q: Is 17 bigger than 1?
+A: Yes, 17 is bigger than 1.
+
+Q: Is 15 bigger than 17?
+A: No, 17 is bigger than 15.
+
+Q: Which is bigger, 118 or 181?
+A: 181 is bigger than 118.
+
+Q: Is 27 bigger than 69?
+A: No, 69 is bigger than 27.
+
+Q: Is 7 bigger than 1?
+A: Yes, 7 is bigger than 1.
+
+Q: Which is bigger, 20 or 17?
+A: 20 is bigger than 17.
+
+Q: Which is bigger, 974 or 573?
+A: 974 is bigger than 573.
+
+Q: Is 12 bigger than 69?
+A: No, 69 is bigger than 12.
