@@ -50181,3 +50181,146 @@ A: Half of 46 is 23.
 
 Q: What is half of 14?
 A: Half of 14 is 7.
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: How many letters does the word 'tiger' have?
+A: The word 'tiger' has 5 letters.
+
+Q: How many letters does the word 'fragile' have?
+A: The word 'fragile' has 7 letters.
+
+Q: How many letters does the word 'zimbabwe' have?
+A: The word 'zimbabwe' has 8 letters.
+
+Q: How many letters does the word 'lead' have?
+A: The word 'lead' has 4 letters.
+
+Q: How many letters does the word 'april' have?
+A: The word 'april' has 5 letters.
+
+Q: How many letters does the word 'aluminium' have?
+A: The word 'aluminium' has 9 letters.
+
+Q: How many letters does the word 'beryllium' have?
+A: The word 'beryllium' has 9 letters.
+
+Q: How many letters does the word 'argon' have?
+A: The word 'argon' has 5 letters.
+
+Q: What is 6 times 8?
+A: 6 times 8 is 48.
+
+Q: What is 85 minus 76?
+A: 85 minus 76 is 9.
+
+Q: What is 4 plus 3?
+A: 4 plus 3 is 7.
+
+Q: What is 73 minus 56?
+A: 73 minus 56 is 17.
+
+Q: What is 683 minus 562?
+A: 683 minus 562 is 121.
+
+Q: What is 14 times 13?
+A: 14 times 13 is 182.
+
+Q: What is 12 times 11?
+A: 12 times 11 is 132.
+
+Q: What is 9 times 9?
+A: 9 times 9 is 81.
+
+Q: What continent is Tanzania on?
+A: Tanzania is on the continent of Africa.
+
+Q: What continent is Senegal on?
+A: Senegal is on the continent of Africa.
+
+Q: What continent is Argentina on?
+A: Argentina is on the continent of South America.
+
+Q: What continent is the Maldives on?
+A: the Maldives is on the continent of Asia.
+
+Q: What continent is Mexico on?
+A: Mexico is on the continent of North America.
+
+Q: What continent is Oman on?
+A: Oman is on the continent of Asia.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: What continent is Turkey on?
+A: Turkey is on the continent of Asia.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.
+
+Q: What currency does Rwanda use?
+A: The currency of Rwanda is the franc.
+
+Q: What currency does Algeria use?
+A: The currency of Algeria is the dinar.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What currency does Belgium use?
+A: The currency of Belgium is the euro.
+
+Q: What currency does Turkey use?
+A: The currency of Turkey is the lira.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: How do you write 59 in words?
+A: 59 in words is fifty-nine.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 76 in words?
+A: 76 in words is seventy-six.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
