@@ -37564,3 +37564,170 @@ A: 851 is bigger than 458.
 
 Q: Which is bigger, 31 or 24?
 A: 31 is bigger than 24.
+Q: Is 87 bigger than 92?
+A: No, 92 is bigger than 87.
+
+Q: Which is bigger, 11 or 10?
+A: 11 is bigger than 10.
+
+Q: Which is bigger, 10 or 12?
+A: 12 is bigger than 10.
+
+Q: Which is bigger, 19 or 90?
+A: 90 is bigger than 19.
+
+Q: Which is bigger, 810 or 101?
+A: 810 is bigger than 101.
+
+Q: Is 726 bigger than 446?
+A: Yes, 726 is bigger than 446.
+
+Q: Is 379 bigger than 641?
+A: No, 641 is bigger than 379.
+
+Q: Is 34 bigger than 40?
+A: No, 40 is bigger than 34.
+
+Q: How many letters does the word 'laos' have?
+A: The word 'laos' has 4 letters.
+
+Q: How many letters does the word 'naira' have?
+A: The word 'naira' has 5 letters.
+
+Q: How many letters does the word 'ytterbium' have?
+A: The word 'ytterbium' has 9 letters.
+
+Q: How many letters does the word 'paramaribo' have?
+A: The word 'paramaribo' has 10 letters.
+
+Q: How many letters does the word 'technetium' have?
+A: The word 'technetium' has 10 letters.
+
+Q: How many letters does the word 'peach' have?
+A: The word 'peach' has 5 letters.
+
+Q: How many letters does the word 'dodoma' have?
+A: The word 'dodoma' has 6 letters.
+
+Q: How many letters does the word 'lebanon' have?
+A: The word 'lebanon' has 7 letters.
+
+Q: How do you sort 424, 882, and 203?
+A: In order, they are 203 424 882.
+
+Q: How do you sort 397, 842, and 377?
+A: In order, they are 377 397 842.
+
+Q: How do you sort 408, 724, and 520?
+A: In order, they are 408 520 724.
+
+Q: How do you sort 750, 665, and 858?
+A: In order, they are 665 750 858.
+
+Q: How do you sort 20, 10, and 7?
+A: In order, they are 7 10 20.
+
+Q: How do you sort 26, 7, and 13?
+A: In order, they are 7 13 26.
+
+Q: How do you sort 11, 1, and 13?
+A: In order, they are 1 11 13.
+
+Q: How do you sort 1, 14, and 3?
+A: In order, they are 1 3 14.
+
+Q: What continent is Bolivia on?
+A: Bolivia is on the continent of South America.
+
+Q: What continent is Malawi on?
+A: Malawi is on the continent of Africa.
+
+Q: What continent is Finland on?
+A: Finland is on the continent of Europe.
+
+Q: What continent is Finland on?
+A: Finland is on the continent of Europe.
+
+Q: What continent is the Philippines on?
+A: the Philippines is on the continent of Asia.
+
+Q: What continent is Slovakia on?
+A: Slovakia is on the continent of Europe.
+
+Q: What continent is Bolivia on?
+A: Bolivia is on the continent of South America.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: How do you write 55 in words?
+A: 55 in words is fifty-five.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: How do you write 88 in words?
+A: 88 in words is eighty-eight.
+
+Q: How do you write 73 in words?
+A: 73 in words is seventy-three.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of Madagascar?
+A: The capital of Madagascar is Antananarivo.
+
+Q: What is the capital of Chad?
+A: The capital of Chad is N'Djamena.
+
+Q: What is the capital of Croatia?
+A: The capital of Croatia is Zagreb.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
