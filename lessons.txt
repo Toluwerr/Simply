@@ -39296,3 +39296,170 @@ A: The last letter of 'grenada' is A.
 
 Q: What is the last letter of 'dover'?
 A: The last letter of 'dover' is R.
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: How do you sort 13, 12, and 16?
+A: In order, they are 12 13 16.
+
+Q: How do you sort 1, 19, and 4?
+A: In order, they are 1 4 19.
+
+Q: How do you sort 3, 6, and 2?
+A: In order, they are 2 3 6.
+
+Q: How do you sort 868, 441, and 518?
+A: In order, they are 441 518 868.
+
+Q: How do you sort 6, 19, and 14?
+A: In order, they are 6 14 19.
+
+Q: How do you sort 13, 12, and 15?
+A: In order, they are 12 13 15.
+
+Q: How do you sort 940, 315, and 286?
+A: In order, they are 286 315 940.
+
+Q: How do you sort 610, 817, and 792?
+A: In order, they are 610 792 817.
+
+Q: What is the first letter of 'garden'?
+A: The first letter of 'garden' is G.
+
+Q: What is the last letter of 'birr'?
+A: The last letter of 'birr' is R.
+
+Q: What is the last letter of 'ghana'?
+A: The last letter of 'ghana' is A.
+
+Q: What is the first letter of 'malawi'?
+A: The first letter of 'malawi' is M.
+
+Q: What is the last letter of 'montevideo'?
+A: The last letter of 'montevideo' is O.
+
+Q: What is the first letter of 'honolulu'?
+A: The first letter of 'honolulu' is H.
+
+Q: What is the last letter of 'september'?
+A: The last letter of 'september' is R.
+
+Q: What is the last letter of 'smart'?
+A: The last letter of 'smart' is T.
+
+Q: What continent is Burundi on?
+A: Burundi is on the continent of Africa.
+
+Q: What continent is Bahrain on?
+A: Bahrain is on the continent of Asia.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What continent is Eswatini on?
+A: Eswatini is on the continent of Africa.
+
+Q: What continent is Zambia on?
+A: Zambia is on the continent of Africa.
+
+Q: What continent is Paraguay on?
+A: Paraguay is on the continent of South America.
+
+Q: What continent is Cameroon on?
+A: Cameroon is on the continent of Africa.
+
+Q: What continent is Zambia on?
+A: Zambia is on the continent of Africa.
+
+Q: What is the capital of Malaysia?
+A: The capital of Malaysia is Kuala Lumpur.
+
+Q: What is the capital of Tanzania?
+A: The capital of Tanzania is Dodoma.
+
+Q: What is the capital of Moldova?
+A: The capital of Moldova is Chisinau.
+
+Q: What is the capital of Nicaragua?
+A: The capital of Nicaragua is Managua.
+
+Q: What is the capital of Slovakia?
+A: The capital of Slovakia is Bratislava.
+
+Q: What is the capital of Sudan?
+A: The capital of Sudan is Khartoum.
+
+Q: What is the capital of Thailand?
+A: The capital of Thailand is Bangkok.
+
+Q: What is the capital of Burkina Faso?
+A: The capital of Burkina Faso is Ouagadougou.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by twos from 26 to 32?
+A: Counting by twos gives 26 28 30 32.
+
+Q: Can you count by ones from 29 to 31?
+A: Counting by ones gives 29 30 31.
+
+Q: Can you count by fives from 10 to 30?
+A: Counting by fives gives 10 15 20 25 30.
+
+Q: Can you count by twos from 30 to 34?
+A: Counting by twos gives 30 32 34.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by twos from 16 to 24?
+A: Counting by twos gives 16 18 20 22 24.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Is 706 bigger than 449?
+A: Yes, 706 is bigger than 449.
+
+Q: Which is bigger, 391 or 638?
+A: 638 is bigger than 391.
+
+Q: Is 44 bigger than 24?
+A: Yes, 44 is bigger than 24.
+
+Q: Is 14 bigger than 17?
+A: No, 17 is bigger than 14.
+
+Q: Is 6 bigger than 7?
+A: No, 7 is bigger than 6.
+
+Q: Is 785 bigger than 958?
+A: No, 958 is bigger than 785.
+
+Q: Is 3 bigger than 12?
+A: No, 12 is bigger than 3.
+
+Q: Is 651 bigger than 144?
+A: Yes, 651 is bigger than 144.

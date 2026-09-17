@@ -6565,3 +6565,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"The abilog in a short strolled to. Lovery. The squoth and found a small were discovery. The little journ and found a was 69: The little and found a was bright. The little journey was blowing."
 
+## Iteration 732 - NO_GAIN
+- **when**: 2026-09-17T15:51:40Z
+- **train loss**: 2.4805 | **val loss**: 1.3739 | **run best**: 1.3312
+- **corpus**: 284,554 chars (+0 self-written examples)
+- **internet reading**: +54 articles, +26 facts (2,749 read all-time)
+- **lr**: 0.0003 | **steps**: 30
+- **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: first_last 1.00, reading 0.00, definitions 0.00
+- self-portrait, asked "Who are you?": *"Theital of the US state South a short story."
+
