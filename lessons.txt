@@ -41848,3 +41848,146 @@ A: Double 25 is 50.
 
 Q: What is double 6?
 A: Double 6 is 12.
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: How many letters does the word 'lead' have?
+A: The word 'lead' has 4 letters.
+
+Q: How many letters does the word 'america' have?
+A: The word 'america' has 7 letters.
+
+Q: How many letters does the word 'dominican' have?
+A: The word 'dominican' has 9 letters.
+
+Q: How many letters does the word 'lempira' have?
+A: The word 'lempira' has 7 letters.
+
+Q: How many letters does the word 'camel' have?
+A: The word 'camel' has 5 letters.
+
+Q: How many letters does the word 'bratislava' have?
+A: The word 'bratislava' has 10 letters.
+
+Q: How many letters does the word 'mars' have?
+A: The word 'mars' has 4 letters.
+
+Q: How many letters does the word 'vermont' have?
+A: The word 'vermont' has 7 letters.
+
+Q: What is 2 plus 9?
+A: 2 plus 9 is 11.
+
+Q: What is 646 plus 329?
+A: 646 plus 329 is 975.
+
+Q: What is 10 times 12?
+A: 10 times 12 is 120.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is 13 minus 2?
+A: 13 minus 2 is 11.
+
+Q: What is 11 times 9?
+A: 11 times 9 is 99.
+
+Q: What is 11 times 16?
+A: 11 times 16 is 176.
+
+Q: What is 530 plus 962?
+A: 530 plus 962 is 1492.
+
+Q: What continent is Luxembourg on?
+A: Luxembourg is on the continent of Europe.
+
+Q: What continent is the United States on?
+A: the United States is on the continent of North America.
+
+Q: What continent is the Central African Republic on?
+A: the Central African Republic is on the continent of Africa.
+
+Q: What continent is Indonesia on?
+A: Indonesia is on the continent of Asia.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is China on?
+A: China is on the continent of Asia.
+
+Q: What continent is Saudi Arabia on?
+A: Saudi Arabia is on the continent of Asia.
+
+Q: What continent is Eswatini on?
+A: Eswatini is on the continent of Africa.
+
+Q: What currency does Belarus use?
+A: The currency of Belarus is the ruble.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does Venezuela use?
+A: The currency of Venezuela is the bolivar.
+
+Q: What currency does Mauritius use?
+A: The currency of Mauritius is the rupee.
+
+Q: What currency does North Korea use?
+A: The currency of North Korea is the won.
+
+Q: What currency does Switzerland use?
+A: The currency of Switzerland is the franc.
+
+Q: What currency does Panama use?
+A: The currency of Panama is the balboa.
+
+Q: What currency does Brazil use?
+A: The currency of Brazil is the real.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 88 in words?
+A: 88 in words is eighty-eight.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 97 in words?
+A: 97 in words is ninety-seven.
