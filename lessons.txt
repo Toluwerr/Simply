@@ -55991,3 +55991,170 @@ A: 16 plus 15 is 31.
 
 Q: What is 186 plus 805?
 A: 186 plus 805 is 991.
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: Which element has the chemical symbol I?
+A: I is the chemical symbol for iodine.
+
+Q: What is the chemical symbol for indium?
+A: The chemical symbol for indium is In.
+
+Q: Which element has the chemical symbol Nd?
+A: Nd is the chemical symbol for neodymium.
+
+Q: Which element has the chemical symbol Cr?
+A: Cr is the chemical symbol for chromium.
+
+Q: Which element has the chemical symbol Be?
+A: Be is the chemical symbol for beryllium.
+
+Q: What is the chemical symbol for copper?
+A: The chemical symbol for copper is Cu.
+
+Q: What is the chemical symbol for barium?
+A: The chemical symbol for barium is Ba.
+
+Q: Which element has the chemical symbol Nb?
+A: Nb is the chemical symbol for niobium.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What number is the Roman numeral xviii?
+A: The Roman numeral xviii is the number 18.
+
+Q: What is the Roman numeral for 86?
+A: The Roman numeral for 86 is lxxxvi.
+
+Q: What is the Roman numeral for 15?
+A: The Roman numeral for 15 is xv.
+
+Q: What is the Roman numeral for 46?
+A: The Roman numeral for 46 is xlvi.
+
+Q: What is the Roman numeral for 13?
+A: The Roman numeral for 13 is xiii.
+
+Q: What number is the Roman numeral dxvii?
+A: The Roman numeral dxvii is the number 517.
+
+Q: What number is the Roman numeral xvi?
+A: The Roman numeral xvi is the number 16.
+
+Q: What number is the Roman numeral xxxvi?
+A: The Roman numeral xxxvi is the number 36.
+
+Q: What is the first letter of 'jordan'?
+A: The first letter of 'jordan' is J.
+
+Q: What is the last letter of 'plutonium'?
+A: The last letter of 'plutonium' is M.
+
+Q: What is the last letter of 'tunisia'?
+A: The last letter of 'tunisia' is A.
+
+Q: What is the last letter of 'respectful'?
+A: The last letter of 'respectful' is L.
+
+Q: What is the first letter of 'sturdy'?
+A: The first letter of 'sturdy' is S.
+
+Q: What is the first letter of 'ngerulmud'?
+A: The first letter of 'ngerulmud' is N.
+
+Q: What is the last letter of 'plant'?
+A: The last letter of 'plant' is T.
+
+Q: What is the first letter of 'terbium'?
+A: The first letter of 'terbium' is T.
+
+Q: Is 26 bigger than 99?
+A: No, 99 is bigger than 26.
+
+Q: Is 698 bigger than 753?
+A: No, 753 is bigger than 698.
+
+Q: Is 254 bigger than 972?
+A: No, 972 is bigger than 254.
+
+Q: Which is bigger, 14 or 9?
+A: 14 is bigger than 9.
+
+Q: Which is bigger, 2 or 12?
+A: 12 is bigger than 2.
+
+Q: Is 36 bigger than 40?
+A: No, 40 is bigger than 36.
+
+Q: Is 431 bigger than 437?
+A: No, 437 is bigger than 431.
+
+Q: Is 14 bigger than 8?
+A: Yes, 14 is bigger than 8.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is double 35?
+A: Double 35 is 70.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is double 7?
+A: Double 7 is 14.
+
+Q: What is half of 20?
+A: Half of 20 is 10.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
