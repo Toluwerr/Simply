@@ -59998,3 +59998,170 @@ A: The first letter of 'faso' is F.
 
 Q: What is the first letter of 'republic'?
 A: The first letter of 'republic' is R.
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: How do you sort 436, 613, and 832?
+A: In order, they are 436 613 832.
+
+Q: How do you sort 291, 901, and 889?
+A: In order, they are 291 889 901.
+
+Q: How do you sort 16, 23, and 3?
+A: In order, they are 3 16 23.
+
+Q: How do you sort 397, 256, and 764?
+A: In order, they are 256 397 764.
+
+Q: How do you sort 11, 4, and 7?
+A: In order, they are 4 7 11.
+
+Q: How do you sort 597, 386, and 486?
+A: In order, they are 386 486 597.
+
+Q: How do you sort 3, 1, and 10?
+A: In order, they are 1 3 10.
+
+Q: How do you sort 635, 400, and 737?
+A: In order, they are 400 635 737.
+
+Q: What is the first letter of 'micronesia'?
+A: The first letter of 'micronesia' is M.
+
+Q: What is the last letter of 'malawi'?
+A: The last letter of 'malawi' is I.
+
+Q: What is the last letter of 'september'?
+A: The last letter of 'september' is R.
+
+Q: What is the first letter of 'island'?
+A: The first letter of 'island' is I.
+
+Q: What is the last letter of 'selenium'?
+A: The last letter of 'selenium' is M.
+
+Q: What is the first letter of 'active'?
+A: The first letter of 'active' is A.
+
+Q: What is the last letter of 'february'?
+A: The last letter of 'february' is Y.
+
+Q: What is the last letter of 'kingdom'?
+A: The last letter of 'kingdom' is M.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: What continent is Myanmar on?
+A: Myanmar is on the continent of Asia.
+
+Q: What continent is Luxembourg on?
+A: Luxembourg is on the continent of Europe.
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.
+
+Q: What continent is Poland on?
+A: Poland is on the continent of Europe.
+
+Q: What continent is the Philippines on?
+A: the Philippines is on the continent of Asia.
+
+Q: What continent is Bahrain on?
+A: Bahrain is on the continent of Asia.
+
+Q: What continent is Pakistan on?
+A: Pakistan is on the continent of Asia.
+
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+
+Q: What is the capital of Portugal?
+A: The capital of Portugal is Lisbon.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
+
+Q: What is the capital of Cape Verde?
+A: The capital of Cape Verde is Praia.
+
+Q: What is the capital of Grenada?
+A: The capital of Grenada is Saint George's.
+
+Q: What is the capital of Nicaragua?
+A: The capital of Nicaragua is Managua.
+
+Q: What is the capital of Cambodia?
+A: The capital of Cambodia is Phnom Penh.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: Can you count by ones from 1 to 5?
+A: Counting by ones gives 1 2 3 4 5.
+
+Q: Can you count by twos from 18 to 24?
+A: Counting by twos gives 18 20 22 24.
+
+Q: Can you count by fives from 20 to 40?
+A: Counting by fives gives 20 25 30 35 40.
+
+Q: Can you count by fives from 30 to 40?
+A: Counting by fives gives 30 35 40.
+
+Q: Can you count by ones from 15 to 20?
+A: Counting by ones gives 15 16 17 18 19 20.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 45.
+
+Q: Can you count by ones from 38 to 43?
+A: Counting by ones gives 38 39 40 41 42 43.
+
+Q: Which is bigger, 77 or 28?
+A: 77 is bigger than 28.
+
+Q: Is 71 bigger than 36?
+A: Yes, 71 is bigger than 36.
+
+Q: Which is bigger, 10 or 15?
+A: 15 is bigger than 10.
+
+Q: Which is bigger, 565 or 498?
+A: 565 is bigger than 498.
+
+Q: Is 15 bigger than 68?
+A: No, 68 is bigger than 15.
+
+Q: Which is bigger, 11 or 95?
+A: 95 is bigger than 11.
+
+Q: Which is bigger, 7 or 19?
+A: 19 is bigger than 7.
+
+Q: Is 11 bigger than 17?
+A: No, 17 is bigger than 11.
