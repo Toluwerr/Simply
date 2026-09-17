@@ -26228,3 +26228,110 @@ A: Norway is on the continent of Europe.
 
 Q: What continent is Uganda on?
 A: Uganda is on the continent of Africa.
+Q: What is 22 plus 88?
+A: 22 plus 88 is 110.
+
+Q: What is 47 plus 15?
+A: 47 plus 15 is 62.
+
+Q: What is 3 times 8?
+A: 3 times 8 is 24.
+
+Q: What is 4 times 8?
+A: 4 times 8 is 32.
+
+Q: What is 16 plus 74?
+A: 16 plus 74 is 90.
+
+Q: What is 9 times 9?
+A: 9 times 9 is 81.
+
+Q: Which is bigger, 86 or 10?
+A: 86 is bigger than 10.
+
+Q: Which is bigger, 186 or 270?
+A: 270 is bigger than 186.
+
+Q: Which is bigger, 22 or 64?
+A: 64 is bigger than 22.
+
+Q: Is 7 bigger than 2?
+A: Yes, 7 is bigger than 2.
+
+Q: Is 6 bigger than 5?
+A: Yes, 6 is bigger than 5.
+
+Q: Is 914 bigger than 471?
+A: Yes, 914 is bigger than 471.
+
+Q: What is the last letter of 'faso'?
+A: The last letter of 'faso' is O.
+
+Q: What is the first letter of 'congo'?
+A: The first letter of 'congo' is C.
+
+Q: What is the last letter of 'boliviano'?
+A: The last letter of 'boliviano' is O.
+
+Q: What is the first letter of 'polite'?
+A: The first letter of 'polite' is P.
+
+Q: What is the last letter of 'chlorine'?
+A: The last letter of 'chlorine' is E.
+
+Q: What is the first letter of 'ecuador'?
+A: The first letter of 'ecuador' is E.
+
+Q: How many letters does the word 'naypyidaw' have?
+A: The word 'naypyidaw' has 9 letters.
+
+Q: How many letters does the word 'verde' have?
+A: The word 'verde' has 5 letters.
+
+Q: How many letters does the word 'riyal' have?
+A: The word 'riyal' has 5 letters.
+
+Q: How many letters does the word 'raleigh' have?
+A: The word 'raleigh' has 7 letters.
+
+Q: How many letters does the word 'africa' have?
+A: The word 'africa' has 6 letters.
+
+Q: How many letters does the word 'chisinau' have?
+A: The word 'chisinau' has 8 letters.
+
+Q: How do you sort 19, 24, and 20?
+A: In order, they are 19 20 24.
+
+Q: How do you sort 18, 14, and 11?
+A: In order, they are 11 14 18.
+
+Q: How do you sort 140, 405, and 770?
+A: In order, they are 140 405 770.
+
+Q: How do you sort 95, 553, and 750?
+A: In order, they are 95 553 750.
+
+Q: How do you sort 10, 3, and 24?
+A: In order, they are 3 10 24.
+
+Q: How do you sort 174, 935, and 956?
+A: In order, they are 174 935 956.
+
+Q: How do you write 2 in words?
+A: 2 in words is two.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 97 in words?
+A: 97 in words is ninety-seven.

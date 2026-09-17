@@ -10153,3 +10153,37 @@ A: In order, they are 8 9 11.
 
 Q: How do you sort 28, 2, and 17?
 A: In order, they are 2 17 28.
+
+
+Q: What is 9 minus 7?
+A: 9 minus 7 is 2.
+
+Q: What is 94 plus 56?
+A: 94 plus 56 is 150.
+
+Q: Which is bigger, 0 or 13?
+A: 13 is bigger than 13.
+
+Q: How do you sort 2, 1, and 25?
+A: In order, they are 1 2 25.
+
+Q: What is the Roman numeral for 40?
+A: The Roman numeral for 40 is xl.
+
+Q: Is 6 bigger than 4?
+A: Yes, 6 is bigger than 6.
+
+Q: Which is bigger, 0 or 13?
+A: 13 is bigger than 8.
+
+Q: Which is bigger, 17 or 20?
+A: 20 is bigger than 17.
+
+Q: Which is bigger, 3 or 20?
+A: 20 is bigger than 2.
+
+Q: Which is bigger, 97 or 59?
+A: 97 is bigger than 59.
+
+Q: What is the last letter of 'montana'?
+A: The last letter of 'bitenstein' is A.
