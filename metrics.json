@@ -1,8 +1,8 @@
 {
-  "version": 31,
+  "version": 32,
   "iteration": 735,
-  "best_val_loss": 1.4185369849205016,
-  "lr": 0.0003,
+  "best_val_loss": 1.323776638507843,
+  "lr": 0.0015,
   "plateaus": 0,
   "val_start": 131326,
   "val_end": 138238,

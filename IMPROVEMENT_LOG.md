@@ -6601,3 +6601,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"Cigger, 5 or 62 is bigger than 3."
 
+## Promotion - v32 - weights promoted to Releases
+- **reason**: val_loss 1.3238, was 1.4185
+- self-portrait, asked "Who are you?": *"Theital of Eaysia is ballia."
+
