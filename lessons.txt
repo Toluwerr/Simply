@@ -37421,3 +37421,146 @@ A: Double 37 is 74.
 
 Q: What is double 13?
 A: Double 13 is 26.
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What is 11 plus 3?
+A: 11 plus 3 is 14.
+
+Q: What is 11 times 6?
+A: 11 times 6 is 66.
+
+Q: What is 612 minus 18?
+A: 612 minus 18 is 594.
+
+Q: What is 60 plus 78?
+A: 60 plus 78 is 138.
+
+Q: What is 6 plus 2?
+A: 6 plus 2 is 8.
+
+Q: What is 794 minus 791?
+A: 794 minus 791 is 3.
+
+Q: What is 5 times 3?
+A: 5 times 3 is 15.
+
+Q: What is 6 times 6?
+A: 6 times 6 is 36.
+
+Q: What continent is Zimbabwe on?
+A: Zimbabwe is on the continent of Africa.
+
+Q: What continent is Benin on?
+A: Benin is on the continent of Africa.
+
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: What continent is Denmark on?
+A: Denmark is on the continent of Europe.
+
+Q: What continent is Azerbaijan on?
+A: Azerbaijan is on the continent of Asia.
+
+Q: What continent is Micronesia on?
+A: Micronesia is on the continent of Oceania.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What continent is Namibia on?
+A: Namibia is on the continent of Africa.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What currency does South Korea use?
+A: The currency of South Korea is the won.
+
+Q: What currency does Iraq use?
+A: The currency of Iraq is the dinar.
+
+Q: What currency does Turkmenistan use?
+A: The currency of Turkmenistan is the manat.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.
+
+Q: What currency does South Korea use?
+A: The currency of South Korea is the won.
+
+Q: What currency does Zimbabwe use?
+A: The currency of Zimbabwe is the dollar.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: How do you write 22 in words?
+A: 22 in words is twenty-two.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 28 in words?
+A: 28 in words is twenty-eight.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety.
+
+Q: Which is bigger, 21 or 22?
+A: 22 is bigger than 21.
+
+Q: Is 92 bigger than 52?
+A: Yes, 92 is bigger than 52.
+
+Q: Is 28 bigger than 63?
+A: No, 63 is bigger than 28.
+
+Q: Is 767 bigger than 188?
+A: Yes, 767 is bigger than 188.
+
+Q: Is 19 bigger than 17?
+A: Yes, 19 is bigger than 17.
+
+Q: Is 99 bigger than 91?
+A: Yes, 99 is bigger than 91.
+
+Q: Which is bigger, 458 or 851?
+A: 851 is bigger than 458.
+
+Q: Which is bigger, 31 or 24?
+A: 31 is bigger than 24.
