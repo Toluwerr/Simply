@@ -52533,3 +52533,146 @@ A: 'polite' means well-mannered and respectful.
 
 Q: What does 'bright' mean?
 A: 'bright' means full of light.
+Q: What is 49 plus 27?
+A: 49 plus 27 is 76.
+
+Q: What is 20 minus 4?
+A: 20 minus 4 is 16.
+
+Q: What is 388 minus 105?
+A: 388 minus 105 is 283.
+
+Q: What is 10 minus 6?
+A: 10 minus 6 is 4.
+
+Q: What is 9 minus 7?
+A: 9 minus 7 is 2.
+
+Q: What is 10 times 11?
+A: 10 times 11 is 110.
+
+Q: What is 70 plus 81?
+A: 70 plus 81 is 151.
+
+Q: What is 9 times 2?
+A: 9 times 2 is 18.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: How many planets are there?
+A: There are 8 planets.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by ones from 34 to 38?
+A: Counting by ones gives 34 35 36 37 38.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by fives from 15 to 35?
+A: Counting by fives gives 15 20 25 30 35.
+
+Q: Can you count by ones from 14 to 19?
+A: Counting by ones gives 14 15 16 17 18 19.
+
+Q: Can you count by twos from 14 to 18?
+A: Counting by twos gives 14 16 18.
+
+Q: What is double 59?
+A: Double 59 is 118.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is double 32?
+A: Double 32 is 64.
+
+Q: What is double 9?
+A: Double 9 is 18.
+
+Q: What is double 6?
+A: Double 6 is 12.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is double 52?
+A: Double 52 is 104.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does Iran use?
+A: The currency of Iran is the rial.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does Azerbaijan use?
+A: The currency of Azerbaijan is the manat.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
