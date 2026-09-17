@@ -39019,3 +39019,146 @@ A: Double 29 is 58.
 
 Q: What is half of 18?
 A: Half of 18 is 9.
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: How many letters does the word 'saudi' have?
+A: The word 'saudi' has 5 letters.
+
+Q: How many letters does the word 'moon' have?
+A: The word 'moon' has 4 letters.
+
+Q: How many letters does the word 'lebanon' have?
+A: The word 'lebanon' has 7 letters.
+
+Q: How many letters does the word 'yttrium' have?
+A: The word 'yttrium' has 7 letters.
+
+Q: How many letters does the word 'montpelier' have?
+A: The word 'montpelier' has 10 letters.
+
+Q: How many letters does the word 'beirut' have?
+A: The word 'beirut' has 6 letters.
+
+Q: How many letters does the word 'ngerulmud' have?
+A: The word 'ngerulmud' has 9 letters.
+
+Q: How many letters does the word 'bread' have?
+A: The word 'bread' has 5 letters.
+
+Q: What is 7 minus 3?
+A: 7 minus 3 is 4.
+
+Q: What is 6 times 8?
+A: 6 times 8 is 48.
+
+Q: What is 5 times 11?
+A: 5 times 11 is 55.
+
+Q: What is 7 times 5?
+A: 7 times 5 is 35.
+
+Q: What is 292 plus 297?
+A: 292 plus 297 is 589.
+
+Q: What is 425 plus 686?
+A: 425 plus 686 is 1111.
+
+Q: What is 18 minus 6?
+A: 18 minus 6 is 12.
+
+Q: What is 12 times 14?
+A: 12 times 14 is 168.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: What continent is Morocco on?
+A: Morocco is on the continent of Africa.
+
+Q: What continent is Iraq on?
+A: Iraq is on the continent of Asia.
+
+Q: What continent is Gabon on?
+A: Gabon is on the continent of Africa.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What continent is the Maldives on?
+A: the Maldives is on the continent of Asia.
+
+Q: What currency does Mongolia use?
+A: The currency of Mongolia is the tugrik.
+
+Q: What currency does Somalia use?
+A: The currency of Somalia is the shilling.
+
+Q: What currency does Gambia use?
+A: The currency of Gambia is the dalasi.
+
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
+
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordoba.
+
+Q: What currency does Argentina use?
+A: The currency of Argentina is the peso.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Germany use?
+A: The currency of Germany is the euro.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 59 in words?
+A: 59 in words is fifty-nine.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 76 in words?
+A: 76 in words is seventy-six.
+
+Q: How do you write 30 in words?
+A: 30 in words is thirty.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: How do you write 76 in words?
+A: 76 in words is seventy-six.
