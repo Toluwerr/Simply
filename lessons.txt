@@ -51779,3 +51779,146 @@ A: Double 20 is 40.
 
 Q: What is half of 2?
 A: Half of 2 is 1.
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: How many letters does the word 'bandar' have?
+A: The word 'bandar' has 6 letters.
+
+Q: How many letters does the word 'hampshire' have?
+A: The word 'hampshire' has 9 letters.
+
+Q: How many letters does the word 'poland' have?
+A: The word 'poland' has 6 letters.
+
+Q: How many letters does the word 'gitega' have?
+A: The word 'gitega' has 6 letters.
+
+Q: How many letters does the word 'italy' have?
+A: The word 'italy' has 5 letters.
+
+Q: How many letters does the word 'yaounde' have?
+A: The word 'yaounde' has 7 letters.
+
+Q: How many letters does the word 'vanuatu' have?
+A: The word 'vanuatu' has 7 letters.
+
+Q: How many letters does the word 'november' have?
+A: The word 'november' has 8 letters.
+
+Q: What is 5 times 4?
+A: 5 times 4 is 20.
+
+Q: What is 13 minus 8?
+A: 13 minus 8 is 5.
+
+Q: What is 537 minus 450?
+A: 537 minus 450 is 87.
+
+Q: What is 868 plus 159?
+A: 868 plus 159 is 1027.
+
+Q: What is 397 plus 808?
+A: 397 plus 808 is 1205.
+
+Q: What is 3 times 3?
+A: 3 times 3 is 9.
+
+Q: What is 53 minus 32?
+A: 53 minus 32 is 21.
+
+Q: What is 669 plus 303?
+A: 669 plus 303 is 972.
+
+Q: What continent is Ukraine on?
+A: Ukraine is on the continent of Europe.
+
+Q: What continent is Denmark on?
+A: Denmark is on the continent of Europe.
+
+Q: What continent is Mali on?
+A: Mali is on the continent of Africa.
+
+Q: What continent is the Central African Republic on?
+A: the Central African Republic is on the continent of Africa.
+
+Q: What continent is Norway on?
+A: Norway is on the continent of Europe.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What continent is Ghana on?
+A: Ghana is on the continent of Africa.
+
+Q: What continent is Andorra on?
+A: Andorra is on the continent of Europe.
+
+Q: What currency does Rwanda use?
+A: The currency of Rwanda is the franc.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.
+
+Q: What currency does Costa Rica use?
+A: The currency of Costa Rica is the colon.
+
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: What currency does Cambodia use?
+A: The currency of Cambodia is the riel.
+
+Q: What currency does Brazil use?
+A: The currency of Brazil is the real.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does Colombia use?
+A: The currency of Colombia is the peso.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 20 in words?
+A: 20 in words is twenty.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
