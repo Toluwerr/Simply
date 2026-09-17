@@ -44400,3 +44400,170 @@ A: The opposite of 'fast' is 'slow'.
 
 Q: What is the opposite of 'hot'?
 A: The opposite of 'hot' is 'cold'.
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does Panama use?
+A: The currency of Panama is the balboa.
+
+Q: What currency does Estonia use?
+A: The currency of Estonia is the euro.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Mongolia use?
+A: The currency of Mongolia is the tugrik.
+
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What is the Roman numeral for 261?
+A: The Roman numeral for 261 is cclxi.
+
+Q: What number is the Roman numeral iii?
+A: The Roman numeral iii is the number 3.
+
+Q: What is the Roman numeral for 840?
+A: The Roman numeral for 840 is dcccxl.
+
+Q: What is the Roman numeral for 44?
+A: The Roman numeral for 44 is xliv.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What number is the Roman numeral cclxxxi?
+A: The Roman numeral cclxxxi is the number 281.
+
+Q: What number is the Roman numeral cmlvii?
+A: The Roman numeral cmlvii is the number 957.
+
+Q: What number is the Roman numeral cmlix?
+A: The Roman numeral cmlix is the number 959.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: What is 4 times 6?
+A: 4 times 6 is 24.
+
+Q: What is 981 minus 682?
+A: 981 minus 682 is 299.
+
+Q: What is 754 minus 259?
+A: 754 minus 259 is 495.
+
+Q: What is 5 times 12?
+A: 5 times 12 is 60.
+
+Q: What is 7 minus 1?
+A: 7 minus 1 is 6.
+
+Q: What is 929 plus 452?
+A: 929 plus 452 is 1381.
+
+Q: What is 304 plus 86?
+A: 304 plus 86 is 390.
+
+Q: What is 7 times 2?
+A: 7 times 2 is 14.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
