@@ -1,0 +1,20 @@
+Q: How do you sort 24, 11, and 6?
+A: In order, they are 6 11 24.
+
+Q: How do you sort 16, 7, and 26?
+A: In order, they are 7 16 26.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: How many letters does the word 'trinidad' have?
+A: The word 'trinidad' has 8 letters.
+
+Q: Which is bigger, 43 or 45?
+A: 45 is bigger than 43.
+
+Q: Which is bigger, 14 or 18?
+A: 18 is bigger than 16.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wideing to give.

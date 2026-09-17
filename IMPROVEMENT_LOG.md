@@ -3279,3 +3279,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.70 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am run for but my are 8et."
 
+## Iteration 378 - NO_GAIN
+- **when**: 2026-09-17T01:38:01Z
+- **train loss**: 0.6652 | **val loss**: 0.5555 | **run best**: 0.5551
+- **corpus**: 251,333 chars (+7 self-written examples)
+- **internet reading**: +28 articles, +12 facts (750 read all-time)
+- **lr**: 0.0004 | **steps**: 62
+- **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, compare 0.00, double_half 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am ring by tens gives gives 30."
+

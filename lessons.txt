@@ -32581,3 +32581,110 @@ A: In order, they are 379 551 736.
 
 Q: How do you sort 875, 396, and 407?
 A: In order, they are 396 407 875.
+Q: Is 20 bigger than 8?
+A: Yes, 20 is bigger than 8.
+
+Q: Which is bigger, 489 or 951?
+A: 951 is bigger than 489.
+
+Q: Which is bigger, 2 or 6?
+A: 6 is bigger than 2.
+
+Q: Which is bigger, 283 or 136?
+A: 283 is bigger than 136.
+
+Q: Which is bigger, 194 or 613?
+A: 613 is bigger than 194.
+
+Q: Which is bigger, 34 or 32?
+A: 34 is bigger than 32.
+
+Q: Can you count by fives from 5 to 25?
+A: Counting by fives gives 5 10 15 20 25.
+
+Q: Can you count by ones from 17 to 20?
+A: Counting by ones gives 17 18 19 20.
+
+Q: Can you count by twos from 28 to 38?
+A: Counting by twos gives 28 30 32 34 36 38.
+
+Q: Can you count by fives from 15 to 40?
+A: Counting by fives gives 15 20 25 30 35 40.
+
+Q: Can you count by ones from 19 to 24?
+A: Counting by ones gives 19 20 21 22 23 24.
+
+Q: Can you count by ones from 29 to 33?
+A: Counting by ones gives 29 30 31 32 33.
+
+Q: What is 3 minus 3?
+A: 3 minus 3 is 0.
+
+Q: What is 91 minus 21?
+A: 91 minus 21 is 70.
+
+Q: What is 11 times 9?
+A: 11 times 9 is 99.
+
+Q: What is 7 times 3?
+A: 7 times 3 is 21.
+
+Q: What is 100 minus 82?
+A: 100 minus 82 is 18.
+
+Q: What is 90 plus 29?
+A: 90 plus 29 is 119.
+
+Q: How do you sort 19, 20, and 24?
+A: In order, they are 19 20 24.
+
+Q: How do you sort 259, 72, and 941?
+A: In order, they are 72 259 941.
+
+Q: How do you sort 268, 475, and 584?
+A: In order, they are 268 475 584.
+
+Q: How do you sort 639, 932, and 377?
+A: In order, they are 377 639 932.
+
+Q: How do you sort 25, 22, and 17?
+A: In order, they are 17 22 25.
+
+Q: How do you sort 382, 665, and 595?
+A: In order, they are 382 595 665.
+
+Q: What continent is South Africa on?
+A: South Africa is on the continent of Africa.
+
+Q: What continent is Somalia on?
+A: Somalia is on the continent of Africa.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is Tunisia on?
+A: Tunisia is on the continent of Africa.
+
+Q: What continent is Afghanistan on?
+A: Afghanistan is on the continent of Asia.
+
+Q: What continent is Kazakhstan on?
+A: Kazakhstan is on the continent of Asia.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+
+Q: What is the capital of Iran?
+A: The capital of Iran is Tehran.
+
+Q: What is the capital of Yemen?
+A: The capital of Yemen is Sanaa.
+
+Q: What is the capital of Tunisia?
+A: The capital of Tunisia is Tunis.
+
+Q: What is the capital of Vatican City?
+A: The capital of Vatican City is Vatican City.
+
+Q: What is the capital of Benin?
+A: The capital of Benin is Porto-Novo.
