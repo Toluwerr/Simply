@@ -40450,3 +40450,170 @@ A: 9 times 3 is 27.
 
 Q: What is 2 times 2?
 A: 2 times 2 is 4.
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What is the chemical symbol for ytterbium?
+A: The chemical symbol for ytterbium is Yb.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Os.
+
+Q: What is the chemical symbol for terbium?
+A: The chemical symbol for terbium is Tb.
+
+Q: What is the chemical symbol for zirconium?
+A: The chemical symbol for zirconium is Zr.
+
+Q: What is the chemical symbol for neodymium?
+A: The chemical symbol for neodymium is Nd.
+
+Q: Which element has the chemical symbol V?
+A: V is the chemical symbol for vanadium.
+
+Q: What is the chemical symbol for ytterbium?
+A: The chemical symbol for ytterbium is Yb.
+
+Q: Which element has the chemical symbol Be?
+A: Be is the chemical symbol for beryllium.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What number is the Roman numeral cliv?
+A: The Roman numeral cliv is the number 154.
+
+Q: What is the Roman numeral for 716?
+A: The Roman numeral for 716 is dccxvi.
+
+Q: What is the Roman numeral for 22?
+A: The Roman numeral for 22 is xxii.
+
+Q: What number is the Roman numeral cxcv?
+A: The Roman numeral cxcv is the number 195.
+
+Q: What is the Roman numeral for 261?
+A: The Roman numeral for 261 is cclxi.
+
+Q: What number is the Roman numeral xxii?
+A: The Roman numeral xxii is the number 22.
+
+Q: What is the Roman numeral for 278?
+A: The Roman numeral for 278 is cclxxviii.
+
+Q: What number is the Roman numeral xxii?
+A: The Roman numeral xxii is the number 22.
+
+Q: What is the first letter of 'rome'?
+A: The first letter of 'rome' is R.
+
+Q: What is the last letter of 'marshall'?
+A: The last letter of 'marshall' is L.
+
+Q: What is the first letter of 'smile'?
+A: The first letter of 'smile' is S.
+
+Q: What is the first letter of 'louis'?
+A: The first letter of 'louis' is L.
+
+Q: What is the first letter of 'fluorine'?
+A: The first letter of 'fluorine' is F.
+
+Q: What is the last letter of 'apia'?
+A: The last letter of 'apia' is A.
+
+Q: What is the first letter of 'broken'?
+A: The first letter of 'broken' is B.
+
+Q: What is the last letter of 'smart'?
+A: The last letter of 'smart' is T.
+
+Q: Is 42 bigger than 97?
+A: No, 97 is bigger than 42.
+
+Q: Which is bigger, 19 or 12?
+A: 19 is bigger than 12.
+
+Q: Which is bigger, 83 or 82?
+A: 83 is bigger than 82.
+
+Q: Which is bigger, 590 or 250?
+A: 590 is bigger than 250.
+
+Q: Is 991 bigger than 518?
+A: Yes, 991 is bigger than 518.
+
+Q: Which is bigger, 206 or 913?
+A: 913 is bigger than 206.
+
+Q: Which is bigger, 15 or 1?
+A: 15 is bigger than 1.
+
+Q: Which is bigger, 19 or 4?
+A: 19 is bigger than 4.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is double 28?
+A: Double 28 is 56.
+
+Q: What is double 19?
+A: Double 19 is 38.
+
+Q: What is double 12?
+A: Double 12 is 24.
+
+Q: What is double 45?
+A: Double 45 is 90.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is double 3?
+A: Double 3 is 6.
