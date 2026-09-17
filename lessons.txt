@@ -17980,3 +17980,110 @@ A: In order, they are 719 772 821.
 
 Q: How do you sort 16, 2, and 8?
 A: In order, they are 2 8 16.
+Q: How do you sort 155, 859, and 990?
+A: In order, they are 155 859 990.
+
+Q: How do you sort 3, 4, and 21?
+A: In order, they are 3 4 21.
+
+Q: How do you sort 819, 821, and 514?
+A: In order, they are 514 819 821.
+
+Q: How do you sort 589, 226, and 170?
+A: In order, they are 170 226 589.
+
+Q: How do you sort 6, 3, and 8?
+A: In order, they are 3 6 8.
+
+Q: How do you sort 302, 764, and 85?
+A: In order, they are 85 302 764.
+
+Q: What is the first letter of 'robin'?
+A: The first letter of 'robin' is R.
+
+Q: What is the last letter of 'may'?
+A: The last letter of 'may' is Y.
+
+Q: What is the last letter of 'dark'?
+A: The last letter of 'dark' is K.
+
+Q: What is the first letter of 'kind'?
+A: The first letter of 'kind' is K.
+
+Q: What is the last letter of 'verde'?
+A: The last letter of 'verde' is E.
+
+Q: What is the last letter of 'bangui'?
+A: The last letter of 'bangui' is I.
+
+Q: What is 3 times 11?
+A: 3 times 11 is 33.
+
+Q: What is 829 plus 432?
+A: 829 plus 432 is 1261.
+
+Q: What is 758 minus 184?
+A: 758 minus 184 is 574.
+
+Q: What is 14 times 16?
+A: 14 times 16 is 224.
+
+Q: What is 54 plus 23?
+A: 54 plus 23 is 77.
+
+Q: What is 908 minus 337?
+A: 908 minus 337 is 571.
+
+Q: How many letters does the word 'little' have?
+A: The word 'little' has 6 letters.
+
+Q: How many letters does the word 'pula' have?
+A: The word 'pula' has 4 letters.
+
+Q: How many letters does the word 'the' have?
+A: The word 'the' has 3 letters.
+
+Q: How many letters does the word 'hawaii' have?
+A: The word 'hawaii' has 6 letters.
+
+Q: How many letters does the word 'boron' have?
+A: The word 'boron' has 5 letters.
+
+Q: How many letters does the word 'europe' have?
+A: The word 'europe' has 6 letters.
+
+Q: Which element has the chemical symbol Cs?
+A: Cs is the chemical symbol for cesium.
+
+Q: What is the chemical symbol for iridium?
+A: The chemical symbol for iridium is Ir.
+
+Q: Which element has the chemical symbol H?
+A: H is the chemical symbol for hydrogen.
+
+Q: What is the chemical symbol for zinc?
+A: The chemical symbol for zinc is Zn.
+
+Q: Which element has the chemical symbol F?
+A: F is the chemical symbol for fluorine.
+
+Q: Which element has the chemical symbol Te?
+A: Te is the chemical symbol for tellurium.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is double 59?
+A: Double 59 is 118.
+
+Q: What is double 27?
+A: Double 27 is 54.
+
+Q: What is double 38?
+A: Double 38 is 76.
+
+Q: What is double 48?
+A: Double 48 is 96.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
