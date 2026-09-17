@@ -45387,3 +45387,146 @@ A: Half of 46 is 23.
 
 Q: What is half of 16?
 A: Half of 16 is 8.
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: How many letters does the word 'lemon' have?
+A: The word 'lemon' has 5 letters.
+
+Q: How many letters does the word 'shekel' have?
+A: The word 'shekel' has 6 letters.
+
+Q: How many letters does the word 'saudi' have?
+A: The word 'saudi' has 5 letters.
+
+Q: How many letters does the word 'far' have?
+A: The word 'far' has 3 letters.
+
+Q: How many letters does the word 'honiara' have?
+A: The word 'honiara' has 7 letters.
+
+Q: How many letters does the word 'lebanon' have?
+A: The word 'lebanon' has 7 letters.
+
+Q: How many letters does the word 'pula' have?
+A: The word 'pula' has 4 letters.
+
+Q: How many letters does the word 'soft' have?
+A: The word 'soft' has 4 letters.
+
+Q: What is 8 times 6?
+A: 8 times 6 is 48.
+
+Q: What is 6 times 11?
+A: 6 times 11 is 66.
+
+Q: What is 558 plus 310?
+A: 558 plus 310 is 868.
+
+Q: What is 6 plus 2?
+A: 6 plus 2 is 8.
+
+Q: What is 916 minus 255?
+A: 916 minus 255 is 661.
+
+Q: What is 100 plus 178?
+A: 100 plus 178 is 278.
+
+Q: What is 11 times 8?
+A: 11 times 8 is 88.
+
+Q: What is 13 times 14?
+A: 13 times 14 is 182.
+
+Q: What continent is the Czech Republic on?
+A: the Czech Republic is on the continent of Europe.
+
+Q: What continent is Moldova on?
+A: Moldova is on the continent of Europe.
+
+Q: What continent is Rwanda on?
+A: Rwanda is on the continent of Africa.
+
+Q: What continent is Myanmar on?
+A: Myanmar is on the continent of Asia.
+
+Q: What continent is Guyana on?
+A: Guyana is on the continent of South America.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: What continent is Kenya on?
+A: Kenya is on the continent of Africa.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does Brazil use?
+A: The currency of Brazil is the real.
+
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
+
+Q: What currency does Cambodia use?
+A: The currency of Cambodia is the riel.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What currency does France use?
+A: The currency of France is the euro.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: How do you write 28 in words?
+A: 28 in words is twenty-eight.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
