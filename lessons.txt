@@ -55452,3 +55452,170 @@ A: Yes, 484 is bigger than 372.
 
 Q: Which is bigger, 380 or 626?
 A: 626 is bigger than 380.
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: How do you write 76 in words?
+A: 76 in words is seventy-six.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 49 in words?
+A: 49 in words is forty-nine.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: What currency does Mexico use?
+A: The currency of Mexico is the peso.
+
+Q: What currency does Malaysia use?
+A: The currency of Malaysia is the ringgit.
+
+Q: What currency does Turkey use?
+A: The currency of Turkey is the lira.
+
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What currency does the Czech Republic use?
+A: The currency of the Czech Republic is the koruna.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Bangladesh use?
+A: The currency of Bangladesh is the taka.
+
+Q: What currency does Uganda use?
+A: The currency of Uganda is the shilling.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: How do you sort 22, 9, and 3?
+A: In order, they are 3 9 22.
+
+Q: How do you sort 331, 769, and 711?
+A: In order, they are 331 711 769.
+
+Q: How do you sort 26, 20, and 28?
+A: In order, they are 20 26 28.
+
+Q: How do you sort 923, 242, and 503?
+A: In order, they are 242 503 923.
+
+Q: How do you sort 15, 8, and 5?
+A: In order, they are 5 8 15.
+
+Q: How do you sort 902, 339, and 70?
+A: In order, they are 70 339 902.
+
+Q: How do you sort 19, 4, and 5?
+A: In order, they are 4 5 19.
+
+Q: How do you sort 29, 1, and 13?
+A: In order, they are 1 13 29.
+
+Q: What is the last letter of 'lake'?
+A: The last letter of 'lake' is E.
+
+Q: What is the last letter of 'making'?
+A: The last letter of 'making' is G.
+
+Q: What is the last letter of 'bridgetown'?
+A: The last letter of 'bridgetown' is N.
+
+Q: What is the first letter of 'yttrium'?
+A: The first letter of 'yttrium' is Y.
+
+Q: What is the last letter of 'june'?
+A: The last letter of 'june' is E.
+
+Q: What is the last letter of 'uruguay'?
+A: The last letter of 'uruguay' is Y.
+
+Q: What is the last letter of 'germanium'?
+A: The last letter of 'germanium' is M.
+
+Q: What is the last letter of 'singapore'?
+A: The last letter of 'singapore' is E.
