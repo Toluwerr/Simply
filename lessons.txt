@@ -31064,3 +31064,128 @@ A: The word 'picked' has 6 letters.
 
 Q: How many letters does the word 'naypyidaw' have?
 A: The word 'naypyidaw' has 9 letters.
+Q: What is the capital of Myanmar?
+A: The capital of Myanmar is Naypyidaw.
+
+Q: What is the capital of Nicaragua?
+A: The capital of Nicaragua is Managua.
+
+Q: What is the capital of Benin?
+A: The capital of Benin is Porto-Novo.
+
+Q: What is the capital of Papua New Guinea?
+A: The capital of Papua New Guinea is Port Moresby.
+
+Q: What is the capital of the Dominican Republic?
+A: The capital of the Dominican Republic is Santo Domingo.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is double 52?
+A: Double 52 is 104.
+
+Q: What is double 17?
+A: Double 17 is 34.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is half of 50?
+A: Half of 50 is 25.
+
+Q: What is double 3?
+A: Double 3 is 6.
+
+Q: What is half of 58?
+A: Half of 58 is 29.
+
+Q: How many letters does the word 'skopje' have?
+A: The word 'skopje' has 6 letters.
+
+Q: How many letters does the word 'day' have?
+A: The word 'day' has 3 letters.
+
+Q: How many letters does the word 'yaounde' have?
+A: The word 'yaounde' has 7 letters.
+
+Q: How many letters does the word 'grenada' have?
+A: The word 'grenada' has 7 letters.
+
+Q: How many letters does the word 'ethiopia' have?
+A: The word 'ethiopia' has 8 letters.
+
+Q: How many letters does the word 'tuvalu' have?
+A: The word 'tuvalu' has 6 letters.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: Is 16 bigger than 85?
+A: No, 85 is bigger than 16.
+
+Q: Is 87 bigger than 81?
+A: Yes, 87 is bigger than 81.
+
+Q: Which is bigger, 18 or 17?
+A: 18 is bigger than 17.
+
+Q: Is 81 bigger than 22?
+A: Yes, 81 is bigger than 22.
+
+Q: Which is bigger, 3 or 18?
+A: 18 is bigger than 3.
+
+Q: Which is bigger, 251 or 626?
+A: 626 is bigger than 251.
+
+Q: What currency does Sweden use?
+A: The currency of Sweden is the krona.
+
+Q: What currency does Gambia use?
+A: The currency of Gambia is the dalasi.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
+
+Q: What currency does Algeria use?
+A: The currency of Algeria is the dinar.
+
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordoba.
+
+Q: How do you sort 21, 24, and 25?
+A: In order, they are 21 24 25.
+
+Q: How do you sort 12, 8, and 18?
+A: In order, they are 8 12 18.
+
+Q: How do you sort 21, 8, and 23?
+A: In order, they are 8 21 23.
+
+Q: How do you sort 29, 20, and 8?
+A: In order, they are 8 20 29.
+
+Q: How do you sort 527, 448, and 426?
+A: In order, they are 426 448 527.
+
+Q: How do you sort 688, 993, and 214?
+A: In order, they are 214 688 993.

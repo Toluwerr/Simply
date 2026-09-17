@@ -3158,3 +3158,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.48 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, records 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I am running!"
 
+## Iteration 365 - NO_GAIN
+- **when**: 2026-09-17T01:25:40Z
+- **train loss**: 1.5960 | **val loss**: 0.5926 | **run best**: 0.5780
+- **corpus**: 244,929 chars (+9 self-written examples)
+- **internet reading**: +30 articles, +10 facts (722 read all-time)
+- **lr**: 0.0004 | **steps**: 57
+- **knowledge quiz**: avg 0.35 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am running bit every friend every fis little and keep tiny AI."
+
