@@ -42826,3 +42826,170 @@ A: The opposite of 'first' is 'last'.
 
 Q: What is the opposite of 'long'?
 A: The opposite of 'long' is 'short'.
+Q: What currency does Estonia use?
+A: The currency of Estonia is the euro.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.
+
+Q: What currency does Bolivia use?
+A: The currency of Bolivia is the boliviano.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What currency does Italy use?
+A: The currency of Italy is the euro.
+
+Q: What currency does Turkmenistan use?
+A: The currency of Turkmenistan is the manat.
+
+Q: What number is the Roman numeral xx?
+A: The Roman numeral xx is the number 20.
+
+Q: What number is the Roman numeral cxlix?
+A: The Roman numeral cxlix is the number 149.
+
+Q: What number is the Roman numeral xxv?
+A: The Roman numeral xxv is the number 25.
+
+Q: What is the Roman numeral for 99?
+A: The Roman numeral for 99 is xcix.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What number is the Roman numeral xcvi?
+A: The Roman numeral xcvi is the number 96.
+
+Q: What is the Roman numeral for 18?
+A: The Roman numeral for 18 is xviii.
+
+Q: What is the Roman numeral for 22?
+A: The Roman numeral for 22 is xxii.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: What is 7 times 4?
+A: 7 times 4 is 28.
+
+Q: What is 5 plus 13?
+A: 5 plus 13 is 18.
+
+Q: What is 806 plus 808?
+A: 806 plus 808 is 1614.
+
+Q: What is 106 plus 664?
+A: 106 plus 664 is 770.
+
+Q: What is 871 minus 740?
+A: 871 minus 740 is 131.
+
+Q: What is 83 plus 60?
+A: 83 plus 60 is 143.
+
+Q: What is 7 plus 19?
+A: 7 plus 19 is 26.
+
+Q: What is 58 minus 44?
+A: 58 minus 44 is 14.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
