@@ -40927,3 +40927,170 @@ A: English is the most spoken language.
 
 Q: What is the longest mountain range?
 A: The Andes is the longest mountain range.
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: What is the capital of Gambia?
+A: The capital of Gambia is Banjul.
+
+Q: What is the capital of the Marshall Islands?
+A: The capital of the Marshall Islands is Majuro.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: What is the capital of Laos?
+A: The capital of Laos is Vientiane.
+
+Q: What is the capital of Uzbekistan?
+A: The capital of Uzbekistan is Tashkent.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
+
+Q: What is the capital of Mali?
+A: The capital of Mali is Bamako.
+
+Q: What is 168 plus 591?
+A: 168 plus 591 is 759.
+
+Q: What is 9 times 9?
+A: 9 times 9 is 81.
+
+Q: What is 471 plus 972?
+A: 471 plus 972 is 1443.
+
+Q: What is 84 minus 25?
+A: 84 minus 25 is 59.
+
+Q: What is 20 plus 4?
+A: 20 plus 4 is 24.
+
+Q: What is 78 plus 17?
+A: 78 plus 17 is 95.
+
+Q: What is 11 times 5?
+A: 11 times 5 is 55.
+
+Q: What is 37 minus 33?
+A: 37 minus 33 is 4.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: How many letters does the word 'trenton' have?
+A: The word 'trenton' has 7 letters.
+
+Q: How many letters does the word 'dhaka' have?
+A: The word 'dhaka' has 5 letters.
+
+Q: How many letters does the word 'columbus' have?
+A: The word 'columbus' has 8 letters.
+
+Q: How many letters does the word 'algiers' have?
+A: The word 'algiers' has 7 letters.
+
+Q: How many letters does the word 'mark' have?
+A: The word 'mark' has 4 letters.
+
+Q: How many letters does the word 'lansing' have?
+A: The word 'lansing' has 7 letters.
+
+Q: How many letters does the word 'manila' have?
+A: The word 'manila' has 6 letters.
+
+Q: How many letters does the word 'montevideo' have?
+A: The word 'montevideo' has 10 letters.
+
+Q: What is the first letter of 'nitrogen'?
+A: The first letter of 'nitrogen' is N.
+
+Q: What is the last letter of 'cameroon'?
+A: The last letter of 'cameroon' is N.
+
+Q: What is the first letter of 'calm'?
+A: The first letter of 'calm' is C.
+
+Q: What is the first letter of 'nepal'?
+A: The first letter of 'nepal' is N.
+
+Q: What is the last letter of 'louisiana'?
+A: The last letter of 'louisiana' is A.
+
+Q: What is the last letter of 'canada'?
+A: The last letter of 'canada' is A.
+
+Q: What is the last letter of 'old'?
+A: The last letter of 'old' is D.
+
+Q: What is the last letter of 'soft'?
+A: The last letter of 'soft' is T.
+
+Q: Which is bigger, 7 or 17?
+A: 17 is bigger than 7.
+
+Q: Which is bigger, 902 or 947?
+A: 947 is bigger than 902.
+
+Q: Is 75 bigger than 61?
+A: Yes, 75 is bigger than 61.
+
+Q: Is 6 bigger than 19?
+A: No, 19 is bigger than 6.
+
+Q: Which is bigger, 17 or 19?
+A: 19 is bigger than 17.
+
+Q: Is 460 bigger than 302?
+A: Yes, 460 is bigger than 302.
+
+Q: Which is bigger, 14 or 1?
+A: 14 is bigger than 1.
+
+Q: Is 909 bigger than 384?
+A: Yes, 909 is bigger than 384.
