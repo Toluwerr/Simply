@@ -33605,3 +33605,170 @@ A: The opposite of 'first' is 'last'.
 
 Q: What is the opposite of 'light'?
 A: The opposite of 'light' is 'dark'.
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Latvia use?
+A: The currency of Latvia is the euro.
+
+Q: What currency does Colombia use?
+A: The currency of Colombia is the peso.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What currency does Slovakia use?
+A: The currency of Slovakia is the euro.
+
+Q: What currency does Canada use?
+A: The currency of Canada is the dollar.
+
+Q: What currency does Jamaica use?
+A: The currency of Jamaica is the dollar.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: What number is the Roman numeral xix?
+A: The Roman numeral xix is the number 19.
+
+Q: What number is the Roman numeral lxiii?
+A: The Roman numeral lxiii is the number 63.
+
+Q: What is the Roman numeral for 758?
+A: The Roman numeral for 758 is dcclviii.
+
+Q: What number is the Roman numeral v?
+A: The Roman numeral v is the number 5.
+
+Q: What number is the Roman numeral x?
+A: The Roman numeral x is the number 10.
+
+Q: What is the Roman numeral for 592?
+A: The Roman numeral for 592 is dxcii.
+
+Q: What is the Roman numeral for 27?
+A: The Roman numeral for 27 is xxvii.
+
+Q: What is the Roman numeral for 16?
+A: The Roman numeral for 16 is xvi.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: What is 395 plus 161?
+A: 395 plus 161 is 556.
+
+Q: What is 9 plus 13?
+A: 9 plus 13 is 22.
+
+Q: What is 8 times 3?
+A: 8 times 3 is 24.
+
+Q: What is 15 plus 10?
+A: 15 plus 10 is 25.
+
+Q: What is 8 times 4?
+A: 8 times 4 is 32.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is 15 times 12?
+A: 15 times 12 is 180.
+
+Q: What is 19 minus 14?
+A: 19 minus 14 is 5.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
