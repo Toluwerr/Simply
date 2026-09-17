@@ -21,7 +21,7 @@ outcomes (promotions, quiz gains, loss gains). Explore
 |---|---|---|
 | survey | 1 | 6.00 |
 | deep_dive | 1 | 6.00 |
-| drill | 31 | 3.90 |
+| drill | 32 | 3.78 |
 | create | 1 | 6.00 |
 | experiment | 1 | 6.00 |
 
