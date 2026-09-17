@@ -2921,3 +2921,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.22 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, units 1.00, planets 1.00
 - self-portrait, asked "Who are you?": *"I was by days, 79 in a you six."
 
+## Promotion - v3 - weights committed
+- **reason**: knowledge 0.30, was 0.00; val 0.6917
+- self-portrait, asked "Who are you?": *"I am own bull a bit of It is training."
+
