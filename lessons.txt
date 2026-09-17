@@ -51865,3 +51865,170 @@ A: 4 is bigger than 3.
 
 Q: Is 10 bigger than 2?
 A: Yes, 10 is bigger than 2.
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 67 in words?
+A: 67 in words is sixty-seven.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: What currency does Argentina use?
+A: The currency of Argentina is the peso.
+
+Q: What currency does Oman use?
+A: The currency of Oman is the rial.
+
+Q: What currency does Germany use?
+A: The currency of Germany is the euro.
+
+Q: What currency does Cambodia use?
+A: The currency of Cambodia is the riel.
+
+Q: What currency does Chile use?
+A: The currency of Chile is the peso.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does Switzerland use?
+A: The currency of Switzerland is the franc.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: How do you sort 25, 12, and 27?
+A: In order, they are 12 25 27.
+
+Q: How do you sort 9, 22, and 17?
+A: In order, they are 9 17 22.
+
+Q: How do you sort 14, 21, and 5?
+A: In order, they are 5 14 21.
+
+Q: How do you sort 339, 437, and 648?
+A: In order, they are 339 437 648.
+
+Q: How do you sort 20, 8, and 2?
+A: In order, they are 2 8 20.
+
+Q: How do you sort 488, 864, and 416?
+A: In order, they are 416 488 864.
+
+Q: How do you sort 767, 402, and 223?
+A: In order, they are 223 402 767.
+
+Q: How do you sort 14, 1, and 15?
+A: In order, they are 1 14 15.
+
+Q: What is the last letter of 'learn'?
+A: The last letter of 'learn' is N.
+
+Q: What is the first letter of 'madison'?
+A: The first letter of 'madison' is M.
+
+Q: What is the last letter of 'pakistan'?
+A: The last letter of 'pakistan' is N.
+
+Q: What is the last letter of 'zloty'?
+A: The last letter of 'zloty' is Y.
+
+Q: What is the last letter of 'brisk'?
+A: The last letter of 'brisk' is K.
+
+Q: What is the last letter of 'tellurium'?
+A: The last letter of 'tellurium' is M.
+
+Q: What is the last letter of 'minsk'?
+A: The last letter of 'minsk' is K.
+
+Q: What is the last letter of 'kiribati'?
+A: The last letter of 'kiribati' is I.
