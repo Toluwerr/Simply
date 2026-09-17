@@ -41538,3 +41538,146 @@ A: The currency of Ghana is the cedi.
 
 Q: What currency does the Dominican Republic use?
 A: The currency of the Dominican Republic is the peso.
+Q: How many letters does the word 'bangladesh' have?
+A: The word 'bangladesh' has 10 letters.
+
+Q: How many letters does the word 'new' have?
+A: The word 'new' has 3 letters.
+
+Q: How many letters does the word 'bulgaria' have?
+A: The word 'bulgaria' has 8 letters.
+
+Q: How many letters does the word 'arab' have?
+A: The word 'arab' has 4 letters.
+
+Q: How many letters does the word 'otter' have?
+A: The word 'otter' has 5 letters.
+
+Q: How many letters does the word 'swift' have?
+A: The word 'swift' has 5 letters.
+
+Q: How many letters does the word 'majuro' have?
+A: The word 'majuro' has 6 letters.
+
+Q: How many letters does the word 'norway' have?
+A: The word 'norway' has 6 letters.
+
+Q: What is the first letter of 'woof'?
+A: The first letter of 'woof' is W.
+
+Q: What is the last letter of 'madison'?
+A: The last letter of 'madison' is N.
+
+Q: What is the last letter of 'train'?
+A: The last letter of 'train' is N.
+
+Q: What is the first letter of 'angola'?
+A: The first letter of 'angola' is A.
+
+Q: What is the first letter of 'cold'?
+A: The first letter of 'cold' is C.
+
+Q: What is the first letter of 'yerevan'?
+A: The first letter of 'yerevan' is Y.
+
+Q: What is the last letter of 'castries'?
+A: The last letter of 'castries' is S.
+
+Q: What is the last letter of 'hoot'?
+A: The last letter of 'hoot' is T.
+
+Q: How do you sort 15, 14, and 19?
+A: In order, they are 14 15 19.
+
+Q: How do you sort 659, 44, and 797?
+A: In order, they are 44 659 797.
+
+Q: How do you sort 5, 19, and 14?
+A: In order, they are 5 14 19.
+
+Q: How do you sort 658, 210, and 918?
+A: In order, they are 210 658 918.
+
+Q: How do you sort 12, 21, and 16?
+A: In order, they are 12 16 21.
+
+Q: How do you sort 822, 360, and 44?
+A: In order, they are 44 360 822.
+
+Q: How do you sort 10, 27, and 6?
+A: In order, they are 6 10 27.
+
+Q: How do you sort 17, 19, and 6?
+A: In order, they are 6 17 19.
+
+Q: Which is bigger, 4 or 9?
+A: 9 is bigger than 4.
+
+Q: Is 913 bigger than 575?
+A: Yes, 913 is bigger than 575.
+
+Q: Which is bigger, 15 or 18?
+A: 18 is bigger than 15.
+
+Q: Is 2 bigger than 6?
+A: No, 6 is bigger than 2.
+
+Q: Which is bigger, 84 or 85?
+A: 85 is bigger than 84.
+
+Q: Is 20 bigger than 14?
+A: Yes, 20 is bigger than 14.
+
+Q: Which is bigger, 18 or 43?
+A: 43 is bigger than 18.
+
+Q: Which is bigger, 900 or 781?
+A: 900 is bigger than 781.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: What is the capital of Albania?
+A: The capital of Albania is Tirana.
+
+Q: What is the capital of Albania?
+A: The capital of Albania is Tirana.
+
+Q: What is the capital of Saint Vincent and the Grenadines?
+A: The capital of Saint Vincent and the Grenadines is Kingstown.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of Bosnia and Herzegovina?
+A: The capital of Bosnia and Herzegovina is Sarajevo.

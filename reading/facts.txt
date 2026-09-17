@@ -3970,3 +3970,84 @@ A: Macromolecular Chemistry and Physics is a biweekly peer-reviewed scientific j
 
 Q: What is Chemistry: An Asian Journal?
 A: Chemistry: An Asian Journal is a peer-reviewed scientific journal that publishes articles on all areas of chemistry and related fields.
+
+Q: What is KornShell?
+A: KornShell is a Unix shell which was developed by David Korn at Bell Labs in the early 1980s and announced at USENI on July 14, 1983.
+
+Q: What is Three.js?
+A: Three.js is a cross-browser JavaScript library and application programming interface used to create.
+
+Q: What is Ollama?
+A: Ollama is an open-source software platform developed by Jeffrey Morgan and Michael Chiang in 2023 for running.
+
+Q: What is George Raymond Johnson?
+A: George Raymond Johnson is an architect who practiced in late 19th century Melbourne and Perth, Australia.
+
+Q: What is Fairtrade Ireland?
+A: Fairtrade Ireland is the Irish member of FLO International, which unites 23 Fairtrade producer and labelling initiatives across Europe, Asia.
+
+Q: What is Inverquiech Castle?
+A: Inverquiech Castle is a ruined 13th-century castle near Inverquiech, Perth and Kinross.
+
+Q: What is Inverquiech?
+A: Inverquiech is a royal castle, with Alexander II of Scotland signing a charter here in 1244.
+
+Q: What is VegfestAU?
+A: VegfestAU is a vegan food festival held annually in Sydney and Melbourne on or around World Vegan Day, 1 November.
+
+Q: What is Brandriff?
+A: Brandriff is an American painter, and the president of the Laguna Beach Art Association.
+
+Q: What is Amice Calverley?
+A: Amice Calverley is an English-born Canadian Egyptologist who was instrumental to the recording.
+
+Q: What is YTV?
+A: YTV is an Israeli television channel produced by Synergy for Yes.
+
+Q: What is Scintilla?
+A: Scintilla is a free, open-source library that provides a text editing component function.
+
+Q: What is Scinterm?
+A: Scinterm is a version of Scintilla for the curses text user interface.
+
+Q: What is Aztec philosophy?
+A: Aztec philosophy is a school of philosophy that developed out of Aztec culture.
+
+Q: What is Answers include that x?
+A: Answers include that x is a simple if and only if it is a point-sized object that...
+
+Q: What is Existence?
+A: Existence is the state of having being or reality in contrast to nonexistence and nonbeing.
+
+Q: What is Ontology?
+A: Ontology is the philosophical discipline studying the nature and types of existence.
+
+Q: What is Singular existence?
+A: Singular existence is the existence of individual entities while general existence refers to the existence of concepts or universals.
+
+Q: What is Neoplatonism?
+A: Neoplatonism is a version of Platonic philosophy that emerged in the 3rd century AD against the background of Hellenistic philosophy and religion.
+
+Q: What is Akan philosophy?
+A: Akan philosophy is a form of African philosophy in the conceptual system of Akan people, a meta-ethnic group native to West Africa.
+
+Q: What is Camus?
+A: Camus is a moralist and leaned towards anarcho-syndicalism.
+
+Q: What is Nihilism?
+A: Nihilism is a family of philosophical views that reject the existence of any objectively meaningful purpose, moral value, truth, knowledge.
+
+Q: What is Buddhist philosophy?
+A: Buddhist philosophy is the ancient Indian philosophical system that developed within the religio-philosophical tradition of Buddhism.
+
+Q: What is Here, a trope?
+A: Here, a trope is a particular instance of a property, like the redness of a particular rose.
+
+Q: What is Martin Heidegger?
+A: Martin Heidegger is a German philosopher whose work was central to the development of phenomenology, hermeneutics, and existentialism.
+
+Q: What is Philosophy of a Knife?
+A: Philosophy of a Knife is a 2008 documentary exploitation horror film written, produced, shot, edited, and directed by Andrey Iskanov.
+
+Q: What is Meitei philosophy?
+A: Meitei philosophy is a practical and experience-based system of thought expressed through simple language and familiar images.
