@@ -27380,3 +27380,146 @@ A: 'sturdy' means strong and solid.
 
 Q: What does 'slippery' mean?
 A: 'slippery' means hard to hold or stand on.
+Q: What is 10 minus 8?
+A: 10 minus 8 is 2.
+
+Q: What is 7 times 6?
+A: 7 times 6 is 42.
+
+Q: What is 1 plus 15?
+A: 1 plus 15 is 16.
+
+Q: What is 9 times 9?
+A: 9 times 9 is 81.
+
+Q: What is 83 plus 62?
+A: 83 plus 62 is 145.
+
+Q: What is 3 plus 8?
+A: 3 plus 8 is 11.
+
+Q: What is 9 plus 19?
+A: 9 plus 19 is 28.
+
+Q: What is 19 minus 13?
+A: 19 minus 13 is 6.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by ones from 18 to 21?
+A: Counting by ones gives 18 19 20 21.
+
+Q: Can you count by twos from 32 to 40?
+A: Counting by twos gives 32 34 36 38 40.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by fives from 35 to 60?
+A: Counting by fives gives 35 40 45 50 55 60.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by fives from 5 to 15?
+A: Counting by fives gives 5 10 15.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is double 24?
+A: Double 24 is 48.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is double 46?
+A: Double 46 is 92.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What is double 57?
+A: Double 57 is 114.
+
+Q: What is double 13?
+A: Double 13 is 26.
+
+Q: What is half of 50?
+A: Half of 50 is 25.
+
+Q: What currency does Croatia use?
+A: The currency of Croatia is the euro.
+
+Q: What currency does Bulgaria use?
+A: The currency of Bulgaria is the lev.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
+
+Q: What currency does Japan use?
+A: The currency of Japan is the yen.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Somalia use?
+A: The currency of Somalia is the shilling.
+
+Q: What currency does New Zealand use?
+A: The currency of New Zealand is the dollar.
+
+Q: What currency does Iceland use?
+A: The currency of Iceland is the krona.
