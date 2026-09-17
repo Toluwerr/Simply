@@ -41395,3 +41395,146 @@ A: 'lazy' means not wanting to work.
 
 Q: What does 'slippery' mean?
 A: 'slippery' means hard to hold or stand on.
+Q: What is 6 times 5?
+A: 6 times 5 is 30.
+
+Q: What is 44 plus 33?
+A: 44 plus 33 is 77.
+
+Q: What is 17 minus 14?
+A: 17 minus 14 is 3.
+
+Q: What is 75 minus 32?
+A: 75 minus 32 is 43.
+
+Q: What is 16 minus 3?
+A: 16 minus 3 is 13.
+
+Q: What is 13 times 12?
+A: 13 times 12 is 156.
+
+Q: What is 77 minus 39?
+A: 77 minus 39 is 38.
+
+Q: What is 7 times 6?
+A: 7 times 6 is 42.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: What is the biggest animal?
+A: The blue whale is the biggest animal.
+
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: What is the hardest natural substance?
+A: Diamond is the hardest natural substance.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: Can you count by ones from 29 to 32?
+A: Counting by ones gives 29 30 31 32.
+
+Q: Can you count by twos from 28 to 34?
+A: Counting by twos gives 28 30 32 34.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by fives from 20 to 30?
+A: Counting by fives gives 20 25 30.
+
+Q: Can you count by ones from 39 to 43?
+A: Counting by ones gives 39 40 41 42 43.
+
+Q: Can you count by ones from 1 to 4?
+A: Counting by ones gives 1 2 3 4.
+
+Q: Can you count by ones from 30 to 32?
+A: Counting by ones gives 30 31 32.
+
+Q: Can you count by twos from 30 to 38?
+A: Counting by twos gives 30 32 34 36 38.
+
+Q: What is double 52?
+A: Double 52 is 104.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What is half of 52?
+A: Half of 52 is 26.
+
+Q: What is double 37?
+A: Double 37 is 74.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is double 17?
+A: Double 17 is 34.
+
+Q: What is double 47?
+A: Double 47 is 94.
+
+Q: What is half of 36?
+A: Half of 36 is 18.
+
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does Ukraine use?
+A: The currency of Ukraine is the hryvnia.
+
+Q: What currency does Botswana use?
+A: The currency of Botswana is the pula.
+
+Q: What currency does Zambia use?
+A: The currency of Zambia is the kwacha.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: What currency does Mexico use?
+A: The currency of Mexico is the peso.
+
+Q: What currency does Ghana use?
+A: The currency of Ghana is the cedi.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
