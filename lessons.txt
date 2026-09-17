@@ -57446,3 +57446,146 @@ A: The currency of Greece is the euro.
 
 Q: What currency does Kazakhstan use?
 A: The currency of Kazakhstan is the tenge.
+Q: How many letters does the word 'tellurium' have?
+A: The word 'tellurium' has 9 letters.
+
+Q: How many letters does the word 'praia' have?
+A: The word 'praia' has 5 letters.
+
+Q: How many letters does the word 'krona' have?
+A: The word 'krona' has 5 letters.
+
+Q: How many letters does the word 'west' have?
+A: The word 'west' has 4 letters.
+
+Q: How many letters does the word 'nigeria' have?
+A: The word 'nigeria' has 7 letters.
+
+Q: How many letters does the word 'tunisia' have?
+A: The word 'tunisia' has 7 letters.
+
+Q: How many letters does the word 'lumpur' have?
+A: The word 'lumpur' has 6 letters.
+
+Q: How many letters does the word 'mongolia' have?
+A: The word 'mongolia' has 8 letters.
+
+Q: What is the first letter of 'suva'?
+A: The first letter of 'suva' is S.
+
+Q: What is the last letter of 'oink'?
+A: The last letter of 'oink' is K.
+
+Q: What is the last letter of 'honiara'?
+A: The last letter of 'honiara' is A.
+
+Q: What is the last letter of 'the'?
+A: The last letter of 'the' is E.
+
+Q: What is the last letter of 'santo'?
+A: The last letter of 'santo' is O.
+
+Q: What is the first letter of 'atlanta'?
+A: The first letter of 'atlanta' is A.
+
+Q: What is the first letter of 'doha'?
+A: The first letter of 'doha' is D.
+
+Q: What is the last letter of 'plant'?
+A: The last letter of 'plant' is T.
+
+Q: How do you sort 1, 14, and 5?
+A: In order, they are 1 5 14.
+
+Q: How do you sort 406, 162, and 840?
+A: In order, they are 162 406 840.
+
+Q: How do you sort 3, 20, and 13?
+A: In order, they are 3 13 20.
+
+Q: How do you sort 26, 17, and 7?
+A: In order, they are 7 17 26.
+
+Q: How do you sort 11, 9, and 12?
+A: In order, they are 9 11 12.
+
+Q: How do you sort 16, 29, and 12?
+A: In order, they are 12 16 29.
+
+Q: How do you sort 16, 21, and 19?
+A: In order, they are 16 19 21.
+
+Q: How do you sort 6, 2, and 17?
+A: In order, they are 2 6 17.
+
+Q: Is 77 bigger than 21?
+A: Yes, 77 is bigger than 21.
+
+Q: Is 337 bigger than 402?
+A: No, 402 is bigger than 337.
+
+Q: Which is bigger, 556 or 250?
+A: 556 is bigger than 250.
+
+Q: Is 4 bigger than 2?
+A: Yes, 4 is bigger than 2.
+
+Q: Is 1 bigger than 8?
+A: No, 8 is bigger than 1.
+
+Q: Which is bigger, 1 or 5?
+A: 5 is bigger than 1.
+
+Q: Which is bigger, 11 or 16?
+A: 16 is bigger than 11.
+
+Q: Is 93 bigger than 46?
+A: Yes, 93 is bigger than 46.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: What is the capital of Palau?
+A: The capital of Palau is Ngerulmud.
+
+Q: What is the capital of Kiribati?
+A: The capital of Kiribati is Tarawa.
+
+Q: What is the capital of Austria?
+A: The capital of Austria is Vienna.
+
+Q: What is the capital of Algeria?
+A: The capital of Algeria is Algiers.
+
+Q: What is the capital of Ecuador?
+A: The capital of Ecuador is Quito.
+
+Q: What is the capital of Grenada?
+A: The capital of Grenada is Saint George's.
+
+Q: What is the capital of Nigeria?
+A: The capital of Nigeria is Abuja.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.

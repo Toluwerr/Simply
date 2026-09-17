@@ -4561,3 +4561,90 @@ A: Sports engineering is a sub-discipline of engineering that applies mathematic
 
 Q: What is Hydraulic engineering?
 A: Hydraulic engineering is the application of the principles of fluid mechanics to problems dealing with the collection, storage, control, transport.
+
+Q: What is Nathaniel Dourif Friedman?
+A: Nathaniel Dourif Friedman is an American technology executive and investor, currently head of product at Meta Superintelligence Labs.
+
+Q: What is Noto?
+A: Noto is a free font family comprising over 100 individual computer fonts.
+
+Q: What is Hyatt Brown?
+A: Hyatt Brown is an American billionaire businessman and politician in the state of Florida.
+
+Q: What is Athikkayam?
+A: Athikkayam is a village located in the Pathanamthitta district of Kerala State, India.
+
+Q: What is Derek Pell?
+A: Derek Pell is a visual artist, photographer, writer and satirist.
+
+Q: What is Micromonospora fulviviridis?
+A: Micromonospora fulviviridis is an endophytic actinomycete.
+
+Q: What is Elysian Grove?
+A: Elysian Grove is a street in the town and community of Aberystwyth, Ceredigion, Wales, which is 74 miles from Cardiff.
+
+Q: What is Ji Jung-hee?
+A: Ji Jung-hee is a South Korean female professional volleyball player.
+
+Q: What is Kenneth Kaushansky?
+A: Kenneth Kaushansky is an American medical doctor, hematologist, former editor of the medical journal Blood.
+
+Q: What is Copernicium?
+A: Copernicium is a synthetic chemical element it has symbol Cn and atomic number 112.
+
+Q: What is Nobelium?
+A: Nobelium is a synthetic chemical element it has symbol No and atomic number 102.
+
+Q: What is Fluorine?
+A: Fluorine is a chemical element it has the symbol F and atomic number 9.
+
+Q: What is Californium?
+A: Californium is a synthetic chemical element it has symbol Cf and atomic number 98.
+
+Q: What is Bohrium?
+A: Bohrium is a synthetic chemical element it has symbol Bh and atomic number 107.
+
+Q: What is Flerovium?
+A: Flerovium is a synthetic chemical element it has symbol Fl and atomic number 114.
+
+Q: What is Tungsten?
+A: Tungsten is a chemical element it has symbol W and atomic number 74.
+
+Q: What is Polycrystalline tungsten?
+A: Polycrystalline tungsten is an intrinsically brittle and hard material under standard conditions, when uncombined.
+
+Q: What is Darmstadtium?
+A: Darmstadtium is a synthetic chemical element it has symbol Ds and atomic number 110.
+
+Q: What is Francium?
+A: Francium is a chemical element it has symbol Fr and atomic number 87.
+
+Q: What is Lutetium?
+A: Lutetium is a chemical element it has symbol Lu and atomic number 71.
+
+Q: What is Nihonium?
+A: Nihonium is a synthetic chemical element it has symbol Nh and atomic number 113.
+
+Q: What is Rhenium?
+A: Rhenium is a chemical element it has symbol Re and atomic number 75.
+
+Q: What is Plutonium?
+A: Plutonium is a chemical element it has symbol Pu and atomic number 94.
+
+Q: What is Vanadium?
+A: Vanadium is a chemical element it has symbol V and atomic number 23.
+
+Q: What is Mendelevium?
+A: Mendelevium is a synthetic chemical element it has symbol Md and atomic number 101.
+
+Q: What is Chemical nomenclature?
+A: Chemical nomenclature is a set of rules to generate systematic names for chemical compounds.
+
+Q: What is Protactinium?
+A: Protactinium is a chemical element it has symbol Pa and atomic number 91.
+
+Q: What is Neptunium?
+A: Neptunium is a chemical element it has symbol Np and atomic number 93.
+
+Q: What is Germanium?
+A: Germanium is a chemical element it has the symbol Ge and atomic number 32.
