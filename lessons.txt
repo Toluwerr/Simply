@@ -46675,3 +46675,146 @@ A: The currency of Ethiopia is the birr.
 
 Q: What currency does Portugal use?
 A: The currency of Portugal is the euro.
+Q: How many letters does the word 'columbus' have?
+A: The word 'columbus' has 8 letters.
+
+Q: How many letters does the word 'the' have?
+A: The word 'the' has 3 letters.
+
+Q: How many letters does the word 'florida' have?
+A: The word 'florida' has 7 letters.
+
+Q: How many letters does the word 'slow' have?
+A: The word 'slow' has 4 letters.
+
+Q: How many letters does the word 'closed' have?
+A: The word 'closed' has 6 letters.
+
+Q: How many letters does the word 'rial' have?
+A: The word 'rial' has 4 letters.
+
+Q: How many letters does the word 'paul' have?
+A: The word 'paul' has 4 letters.
+
+Q: How many letters does the word 'emirates' have?
+A: The word 'emirates' has 8 letters.
+
+Q: What is the last letter of 'riel'?
+A: The last letter of 'riel' is L.
+
+Q: What is the first letter of 'valletta'?
+A: The first letter of 'valletta' is V.
+
+Q: What is the last letter of 'jakarta'?
+A: The last letter of 'jakarta' is A.
+
+Q: What is the first letter of 'maseru'?
+A: The first letter of 'maseru' is M.
+
+Q: What is the first letter of 'denmark'?
+A: The first letter of 'denmark' is D.
+
+Q: What is the first letter of 'candle'?
+A: The first letter of 'candle' is C.
+
+Q: What is the first letter of 'finland'?
+A: The first letter of 'finland' is F.
+
+Q: What is the last letter of 'ruthenium'?
+A: The last letter of 'ruthenium' is M.
+
+Q: How do you sort 20, 10, and 1?
+A: In order, they are 1 10 20.
+
+Q: How do you sort 814, 70, and 894?
+A: In order, they are 70 814 894.
+
+Q: How do you sort 405, 973, and 741?
+A: In order, they are 405 741 973.
+
+Q: How do you sort 25, 23, and 29?
+A: In order, they are 23 25 29.
+
+Q: How do you sort 9, 20, and 27?
+A: In order, they are 9 20 27.
+
+Q: How do you sort 808, 56, and 994?
+A: In order, they are 56 808 994.
+
+Q: How do you sort 978, 174, and 590?
+A: In order, they are 174 590 978.
+
+Q: How do you sort 12, 6, and 5?
+A: In order, they are 5 6 12.
+
+Q: Is 922 bigger than 439?
+A: Yes, 922 is bigger than 439.
+
+Q: Which is bigger, 12 or 3?
+A: 12 is bigger than 3.
+
+Q: Which is bigger, 22 or 64?
+A: 64 is bigger than 22.
+
+Q: Is 20 bigger than 21?
+A: No, 21 is bigger than 20.
+
+Q: Which is bigger, 17 or 75?
+A: 75 is bigger than 17.
+
+Q: Which is bigger, 23 or 57?
+A: 57 is bigger than 23.
+
+Q: Is 56 bigger than 19?
+A: Yes, 56 is bigger than 19.
+
+Q: Which is bigger, 16 or 1?
+A: 16 is bigger than 1.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: What is the capital of Taiwan?
+A: The capital of Taiwan is Taipei.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.
+
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
