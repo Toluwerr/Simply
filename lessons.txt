@@ -17409,3 +17409,128 @@ A: The capital of Burundi is Gitega.
 
 Q: What is the capital of Serbia?
 A: The capital of Serbia is Belgrade.
+Q: What is the first letter of 'afghani'?
+A: The first letter of 'afghani' is A.
+
+Q: What is the last letter of 'huge'?
+A: The last letter of 'huge' is E.
+
+Q: What is the first letter of 'prague'?
+A: The first letter of 'prague' is P.
+
+Q: What is the first letter of 'won'?
+A: The first letter of 'won' is W.
+
+Q: What is the first letter of 'armenia'?
+A: The first letter of 'armenia' is A.
+
+Q: What is the last letter of 'inside'?
+A: The last letter of 'inside' is E.
+
+Q: How do you sort 17, 23, and 11?
+A: In order, they are 11 17 23.
+
+Q: How do you sort 8, 12, and 4?
+A: In order, they are 4 8 12.
+
+Q: How do you sort 441, 524, and 905?
+A: In order, they are 441 524 905.
+
+Q: How do you sort 10, 12, and 24?
+A: In order, they are 10 12 24.
+
+Q: How do you sort 14, 16, and 24?
+A: In order, they are 14 16 24.
+
+Q: How do you sort 19, 12, and 11?
+A: In order, they are 11 12 19.
+
+Q: How many letters does the word 'river' have?
+A: The word 'river' has 5 letters.
+
+Q: How many letters does the word 'molybdenum' have?
+A: The word 'molybdenum' has 10 letters.
+
+Q: How many letters does the word 'kigali' have?
+A: The word 'kigali' has 6 letters.
+
+Q: How many letters does the word 'old' have?
+A: The word 'old' has 3 letters.
+
+Q: How many letters does the word 'antananarivo' have?
+A: The word 'antananarivo' has 12 letters.
+
+Q: How many letters does the word 'afghanistan' have?
+A: The word 'afghanistan' has 11 letters.
+
+Q: What continent is Papua New Guinea on?
+A: Papua New Guinea is on the continent of Oceania.
+
+Q: What continent is the Central African Republic on?
+A: the Central African Republic is on the continent of Africa.
+
+Q: What continent is Ireland on?
+A: Ireland is on the continent of Europe.
+
+Q: What continent is Kyrgyzstan on?
+A: Kyrgyzstan is on the continent of Asia.
+
+Q: What continent is Eswatini on?
+A: Eswatini is on the continent of Africa.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: What number is the Roman numeral lxi?
+A: The Roman numeral lxi is the number 61.
+
+Q: What number is the Roman numeral cccxlii?
+A: The Roman numeral cccxlii is the number 342.
+
+Q: What is the Roman numeral for 3?
+A: The Roman numeral for 3 is iii.
+
+Q: What number is the Roman numeral xci?
+A: The Roman numeral xci is the number 91.
+
+Q: What number is the Roman numeral xxxix?
+A: The Roman numeral xxxix is the number 39.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What is the capital of Slovenia?
+A: The capital of Slovenia is Ljubljana.
+
+Q: What is the capital of Sweden?
+A: The capital of Sweden is Stockholm.
+
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+
+Q: What is the capital of Ghana?
+A: The capital of Ghana is Accra.
+
+Q: What is the capital of Sweden?
+A: The capital of Sweden is Stockholm.
+
+Q: What is the capital of Iceland?
+A: The capital of Iceland is Reykjavik.
+
+Q: What is 35 plus 71?
+A: 35 plus 71 is 106.
+
+Q: What is 812 plus 284?
+A: 812 plus 284 is 1096.
+
+Q: What is 72 plus 79?
+A: 72 plus 79 is 151.
+
+Q: What is 58 plus 31?
+A: 58 plus 31 is 89.
+
+Q: What is 5 times 5?
+A: 5 times 5 is 25.
+
+Q: What is 6 times 6?
+A: 6 times 6 is 36.
