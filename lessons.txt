@@ -32242,3 +32242,110 @@ A: 66 in words is sixty-six.
 
 Q: How do you write 29 in words?
 A: 29 in words is twenty-nine.
+Q: How many letters does the word 'quick' have?
+A: The word 'quick' has 5 letters.
+
+Q: How many letters does the word 'caring' have?
+A: The word 'caring' has 6 letters.
+
+Q: How many letters does the word 'franc' have?
+A: The word 'franc' has 5 letters.
+
+Q: How many letters does the word 'mercury' have?
+A: The word 'mercury' has 7 letters.
+
+Q: How many letters does the word 'bee' have?
+A: The word 'bee' has 3 letters.
+
+Q: How many letters does the word 'colombo' have?
+A: The word 'colombo' has 7 letters.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by ones from 37 to 39?
+A: Counting by ones gives 37 38 39.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by fives from 10 to 20?
+A: Counting by fives gives 10 15 20.
+
+Q: Can you count by fives from 15 to 35?
+A: Counting by fives gives 15 20 25 30 35.
+
+Q: Can you count by twos from 20 to 26?
+A: Counting by twos gives 20 22 24 26.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: What continent is Uganda on?
+A: Uganda is on the continent of Africa.
+
+Q: What continent is Tajikistan on?
+A: Tajikistan is on the continent of Asia.
+
+Q: What continent is Ukraine on?
+A: Ukraine is on the continent of Europe.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: How do you sort 334, 186, and 479?
+A: In order, they are 186 334 479.
+
+Q: How do you sort 12, 22, and 29?
+A: In order, they are 12 22 29.
+
+Q: How do you sort 5, 3, and 17?
+A: In order, they are 3 5 17.
+
+Q: How do you sort 601, 698, and 935?
+A: In order, they are 601 698 935.
+
+Q: How do you sort 7, 28, and 11?
+A: In order, they are 7 11 28.
+
+Q: How do you sort 498, 350, and 673?
+A: In order, they are 350 498 673.
+
+Q: What is 73 minus 33?
+A: 73 minus 33 is 40.
+
+Q: What is 596 minus 110?
+A: 596 minus 110 is 486.
+
+Q: What is 5 times 3?
+A: 5 times 3 is 15.
+
+Q: What is 6 plus 7?
+A: 6 plus 7 is 13.
+
+Q: What is 416 plus 49?
+A: 416 plus 49 is 465.
+
+Q: What is 19 plus 11?
+A: 19 plus 11 is 30.
