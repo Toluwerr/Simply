@@ -53210,3 +53210,170 @@ A: The capital of Brazil is Brasilia.
 
 Q: What is the capital of Denmark?
 A: The capital of Denmark is Copenhagen.
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What is the chemical symbol for hafnium?
+A: The chemical symbol for hafnium is Hf.
+
+Q: Which element has the chemical symbol Rh?
+A: Rh is the chemical symbol for rhodium.
+
+Q: Which element has the chemical symbol La?
+A: La is the chemical symbol for lanthanum.
+
+Q: Which element has the chemical symbol Se?
+A: Se is the chemical symbol for selenium.
+
+Q: Which element has the chemical symbol Ge?
+A: Ge is the chemical symbol for germanium.
+
+Q: What is the chemical symbol for hafnium?
+A: The chemical symbol for hafnium is Hf.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium.
+
+Q: What is the chemical symbol for argon?
+A: The chemical symbol for argon is Ar.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What number is the Roman numeral cdlxxxvii?
+A: The Roman numeral cdlxxxvii is the number 487.
+
+Q: What is the Roman numeral for 20?
+A: The Roman numeral for 20 is xx.
+
+Q: What number is the Roman numeral lxxi?
+A: The Roman numeral lxxi is the number 71.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What number is the Roman numeral xci?
+A: The Roman numeral xci is the number 91.
+
+Q: What is the Roman numeral for 12?
+A: The Roman numeral for 12 is xii.
+
+Q: What number is the Roman numeral vi?
+A: The Roman numeral vi is the number 6.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What is the last letter of 'moving'?
+A: The last letter of 'moving' is G.
+
+Q: What is the first letter of 'burkina'?
+A: The first letter of 'burkina' is B.
+
+Q: What is the first letter of 'lev'?
+A: The first letter of 'lev' is L.
+
+Q: What is the last letter of 'madrid'?
+A: The last letter of 'madrid' is D.
+
+Q: What is the first letter of 'honduras'?
+A: The first letter of 'honduras' is H.
+
+Q: What is the first letter of 'finland'?
+A: The first letter of 'finland' is F.
+
+Q: What is the first letter of 'barbuda'?
+A: The first letter of 'barbuda' is B.
+
+Q: What is the last letter of 'pakistan'?
+A: The last letter of 'pakistan' is N.
+
+Q: Which is bigger, 11 or 6?
+A: 11 is bigger than 6.
+
+Q: Which is bigger, 775 or 630?
+A: 775 is bigger than 630.
+
+Q: Is 918 bigger than 962?
+A: No, 962 is bigger than 918.
+
+Q: Which is bigger, 5 or 15?
+A: 15 is bigger than 5.
+
+Q: Is 90 bigger than 78?
+A: Yes, 90 is bigger than 78.
+
+Q: Which is bigger, 10 or 60?
+A: 60 is bigger than 10.
+
+Q: Is 58 bigger than 33?
+A: Yes, 58 is bigger than 33.
+
+Q: Is 13 bigger than 8?
+A: Yes, 13 is bigger than 8.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is half of 50?
+A: Half of 50 is 25.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is double 12?
+A: Double 12 is 24.
+
+Q: What is double 47?
+A: Double 47 is 94.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
