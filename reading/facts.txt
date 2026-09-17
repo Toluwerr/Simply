@@ -1693,3 +1693,90 @@ A: Literature of Runion is the literature of persons linked to the island of Run
 
 Q: What is For them Runion?
 A: For them Runion is a subject that represented beauty and youthful memories.
+
+Q: What is Singularity?
+A: Singularity is an experimental operating system developed by Microsoft Research between July 9, 2003, and February 7, 2015.
+
+Q: What is Besides powering iPhone, iOS?
+A: Besides powering iPhone, iOS is the basis for three other operating systems made by Apple: iPadOS, tvOS.
+
+Q: What is Robot Operating System?
+A: Robot Operating System is an open-source robotics middleware suite.
+
+Q: What is Rhapsody?
+A: Rhapsody is an operating system that was developed by Apple Computer after its purchase of NeT in the late 1990s.
+
+Q: What is DOS?
+A: DOS is a family of disk-based operating systems for IBM PC compatible computers.
+
+Q: What is Replicant?
+A: Replicant is a free and open-source Android-based operating system that intends to replace all proprietary Android components with free-software count.
+
+Q: What is Fedora Linux?
+A: Fedora Linux is a Linux distribution developed by the Fedora Project.
+
+Q: What is For example, syslogd?
+A: For example, syslogd is a daemon that implements system logging facility, and sshd is a daemon that serves incoming SSH connections.
+
+Q: What is International Computers Limited?
+A: International Computers Limited is a British computer hardware, computer software and computer services company that operated from 1968 until 2002.
+
+Q: What is Netrunner?
+A: Netrunner is a Debian-based open source Linux distribution for desktop computers, laptops, netbooks and ARM-based devices.
+
+Q: What is Netrunner Core?
+A: Netrunner Core is a desktop version containing only a small number of essential applications.
+
+Q: What is Sally Jane Brampton?
+A: Sally Jane Brampton is an English journalist, writer, and magazine editor.
+
+Q: What is Brampton?
+A: Brampton is the middle child with an elder and younger brother.
+
+Q: What is Elle?
+A: Elle is the first mainstream magazine to act as a voice...
+
+Q: What is David William Ogden?
+A: David William Ogden is an American lawyer who served as the United States deputy attorney general.
+
+Q: What is Hod Ogden , who?
+A: Hod Ogden , who is the first director of the Bureau of Health Education at the Centers for Disease Control and Prevention.
+
+Q: What is Baby Makes Five?
+A: Baby Makes Five is an American sitcom television series starring Peter Scolari.
+
+Q: What is Andrew William Halliday?
+A: Andrew William Halliday is a Scottish former professional footballer who played as a midfielder or left-back.
+
+Q: What is Lucas Mbadi?
+A: Lucas Mbadi is a retired South African politician and academic.
+
+Q: What is Johnson Lake?
+A: Johnson Lake is a glacial lake in Elmore County, Idaho, United States.
+
+Q: What is Rivina humilis?
+A: Rivina humilis is a species of flowering plant in the family Petiveriaceae.
+
+Q: What is Young Fellow?
+A: Young Fellow is a 1918 American silent romantic comedy film produced by and starring Douglas Fairbanks.
+
+Q: What is Mathematical Platonism?
+A: Mathematical Platonism is the form of realism that suggests that mathematical entities are abstract, have no spatiotemporal or causal properties.
+
+Q: What is Geometry?
+A: Geometry is a branch of mathematics concerned with properties of space such as the distance, shape, size, and relative position of figures.
+
+Q: What is Fuzzy mathematics?
+A: Fuzzy mathematics is a branch of mathematics that extends classical set theory and logic to model reasoning under uncertainty.
+
+Q: What is James Whitbread Lee Glaisher?
+A: James Whitbread Lee Glaisher is the editor-in-chief after Whitworth.
+
+Q: What is Technically, this?
+A: Technically, this is a binary operation on valid fractions , considered as ordered pairs of appropriate integers.
+
+Q: What is SESI Mathematics?
+A: SESI Mathematics is a project developed by FIRJAN System with the aim of improving the teaching of math for high school students.
+
+Q: What is Contact?
+A: Contact is a geometric notion it can be defined algebraically as a valuation.

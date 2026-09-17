@@ -27523,3 +27523,146 @@ A: The currency of New Zealand is the dollar.
 
 Q: What currency does Iceland use?
 A: The currency of Iceland is the krona.
+Q: What is the last letter of 'monkey'?
+A: The last letter of 'monkey' is Y.
+
+Q: What is the last letter of 'planet'?
+A: The last letter of 'planet' is T.
+
+Q: What is the first letter of 'nicosia'?
+A: The first letter of 'nicosia' is N.
+
+Q: What is the last letter of 'podgorica'?
+A: The last letter of 'podgorica' is A.
+
+Q: What is the first letter of 'krone'?
+A: The first letter of 'krone' is K.
+
+Q: What is the first letter of 'cat'?
+A: The first letter of 'cat' is C.
+
+Q: What is the last letter of 'jerusalem'?
+A: The last letter of 'jerusalem' is M.
+
+Q: What is the last letter of 'cautious'?
+A: The last letter of 'cautious' is S.
+
+Q: How do you sort 825, 581, and 315?
+A: In order, they are 315 581 825.
+
+Q: How do you sort 44, 435, and 860?
+A: In order, they are 44 435 860.
+
+Q: How do you sort 414, 963, and 574?
+A: In order, they are 414 574 963.
+
+Q: How do you sort 19, 5, and 1?
+A: In order, they are 1 5 19.
+
+Q: How do you sort 667, 80, and 56?
+A: In order, they are 56 80 667.
+
+Q: How do you sort 2, 13, and 4?
+A: In order, they are 2 4 13.
+
+Q: How do you sort 121, 436, and 575?
+A: In order, they are 121 436 575.
+
+Q: How do you sort 446, 86, and 497?
+A: In order, they are 86 446 497.
+
+Q: Which is bigger, 69 or 24?
+A: 69 is bigger than 24.
+
+Q: Which is bigger, 28 or 99?
+A: 99 is bigger than 28.
+
+Q: Which is bigger, 5 or 14?
+A: 14 is bigger than 5.
+
+Q: Which is bigger, 206 or 315?
+A: 315 is bigger than 206.
+
+Q: Which is bigger, 623 or 548?
+A: 623 is bigger than 548.
+
+Q: Is 1 bigger than 6?
+A: No, 6 is bigger than 1.
+
+Q: Is 5 bigger than 9?
+A: No, 9 is bigger than 5.
+
+Q: Which is bigger, 96 or 45?
+A: 96 is bigger than 45.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+
+Q: What is the capital of Yemen?
+A: The capital of Yemen is Sanaa.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of Guinea?
+A: The capital of Guinea is Conakry.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is 20 plus 64?
+A: 20 plus 64 is 84.
+
+Q: What is 796 minus 300?
+A: 796 minus 300 is 496.
+
+Q: What is 12 times 17?
+A: 12 times 17 is 204.
+
+Q: What is 4 times 4?
+A: 4 times 4 is 16.
+
+Q: What is 14 times 18?
+A: 14 times 18 is 252.
+
+Q: What is 78 minus 27?
+A: 78 minus 27 is 51.
+
+Q: What is 3 plus 11?
+A: 3 plus 11 is 14.
+
+Q: What is 141 plus 486?
+A: 141 plus 486 is 627.
