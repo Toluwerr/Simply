@@ -2761,3 +2761,75 @@ A: Campbell's law is an adage developed by American psychologist and social scie
 
 Q: What is Roman law?
 A: Roman law is the legal system of ancient Rome, including the legal developments spanning over a thousand years of jurisprudence.
+
+Q: What is Federated learning?
+A: Federated learning is a machine learning technique in a setting where multiple entities collaboratively train a model while keeping their data decentr.
+
+Q: What is Byron Boots?
+A: Byron Boots is an American professor of machine learning and robotics.
+
+Q: What is Danbooru?
+A: Danbooru is an English-language imageboard and image hosting website focused primarily on anime-style illustrations.
+
+Q: What is Pawe Bukiewicz?
+A: Pawe Bukiewicz is a Polish former professional footballer who played as a striker.
+
+Q: What is James?
+A: James is a British performance artist and professor of fine art in the School Art and Design at the University of Hertfordshire.
+
+Q: What is Axel Hellstrom?
+A: Axel Hellstrom is a German muscle reader, mentalist and stage magician.
+
+Q: What is Apache Rocks the Bottom!?
+A: Apache Rocks the Bottom! is a 2005 single by German techno group Scooter.
+
+Q: What is Capital Airlines?
+A: Capital Airlines is an airline based in the United Kingdom and self-proclaimed Yorkshire International Airlines.
+
+Q: What is Urban Renewal?
+A: Urban Renewal is an album by the American band Funk, Inc., released in 1995.
+
+Q: What is Jason Flowers?
+A: Jason Flowers is an American basketball coach who is currently the men's basketball head coach at Los Angeles City College .
+
+Q: What is Prior to LACC, Flowers?
+A: Prior to LACC, Flowers is the director of player development for the women's basketball team at California Baptist University.
+
+Q: What is Jan Gratama ,?
+A: Jan Gratama , is a Dutch architect.
+
+Q: What is Deoxyribonucleic acid?
+A: Deoxyribonucleic acid is a polymer composed of two polynucleotide chains that coil around each other to form a double helix.
+
+Q: What is Alison Mary Goate?
+A: Alison Mary Goate is the Jean C.
+
+Q: What is Genetics Abstracts?
+A: Genetics Abstracts is a database produced by CSA Illumina.
+
+Q: What is Human Genetics?
+A: Human Genetics is a peer-reviewed medical journal covering all aspects of human genetics, including legal and social issues.
+
+Q: What is Conservation Genetics?
+A: Conservation Genetics is a bimonthly peer-reviewed scientific journal covering all areas of conservation genetics.
+
+Q: What is Memory?
+A: Memory is the faculty of the mind by which data or information is encoded, stored, and retrieved when needed.
+
+Q: What is Oncogenomics?
+A: Oncogenomics is a sub-field of genomics that characterizes cancer-associated genes.
+
+Q: What is Cancer?
+A: Cancer is a genetic disease caused by accumulation of DNA mutations and epigenetic alterations leading to unrestrained cell proliferation.
+
+Q: What is Evolutionary biology?
+A: Evolutionary biology is a subfield of biology that analyzes the four mechanisms of evolution: natural selection, mutation, genetic drift.
+
+Q: What is Turi Emma King?
+A: Turi Emma King is a professor and Director of the Milner Centre for Evolution at the University of Bath.
+
+Q: What is James Edward Bowman Jr.?
+A: James Edward Bowman Jr. is an American physician and specialist in pathology, hematology, and genetics.
+
+Q: What is OMIM?
+A: OMIM is a comprehensive database of human genotype-phenotype links.

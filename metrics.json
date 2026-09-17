@@ -1,6 +1,6 @@
 {
   "version": 25,
-  "iteration": 602,
+  "iteration": 603,
   "best_val_loss": 1.5020994782447814,
   "lr": 0.0003,
   "plateaus": 0,
@@ -42,12 +42,12 @@
   },
   "study_mode_v1": true,
   "head_chars": 284342,
-  "lessons": 16380,
+  "lessons": 16427,
   "best_knowledge": 0.043,
   "reading": {
-    "articles": 1944,
-    "facts": 921,
-    "pool_chars": 2047671
+    "articles": 2004,
+    "facts": 945,
+    "pool_chars": 2111922
   },
   "token_mode_v1": true,
   "tokenizer_vocab": 2048,
