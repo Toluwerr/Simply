@@ -3568,3 +3568,78 @@ A: Anna University is a public state university located in Chennai, Tamil Nadu, 
 
 Q: What is Federation architecture?
 A: Federation architecture is the architectural style in Australia that was prevalent from around 1890 to 1915.
+
+Q: What is Git?
+A: Git is a distributed version control system.
+
+Q: What is Git Up, Git Out?
+A: Git Up, Git Out is a song by the American hip-hop duo Outkast from their debut studio album Southernplayalisticadillacmuzik .
+
+Q: What is Git!?
+A: Git! is a 1965 American drama film directed by Ellis Kadison and written by Homer McCoy.
+
+Q: What is Git Fresh?
+A: Git Fresh is an American RB and hip hop group based in Miami, Florida.
+
+Q: What is TortoiseGit?
+A: TortoiseGit is a Git revision control client, implemented as a Windows shell extension and based on TortoiseSVN.
+
+Q: What is GitKraken?
+A: GitKraken is a software company based in Scottsdale, Arizona.
+
+Q: What is Windows?
+A: Windows is a proprietary operating system developed by Microsoft.
+
+Q: What is CodePlex?
+A: CodePlex is a forge website by Microsoft.
+
+Q: What is Showbiz Korea?
+A: Showbiz Korea is a daily television entertainment news show that covers the South Korean entertainment industry broadcast in South Korea.
+
+Q: What is Tolentino?
+A: Tolentino is the principal author of the Senate bill that became the Philippine Maritime Zones Act.
+
+Q: What is John P R Blakely?
+A: John P R Blakely is an English pianist and piano teacher at the Royal College of Music with an international reputation as a chamber musician.
+
+Q: What is Aline Chassriau?
+A: Aline Chassriau is an 1835 oil-on-canvas painting by French romantic artist Thodore Chassriau, which represents Aline Chassriau.
+
+Q: What is Goulceby?
+A: Goulceby is a village and civil parish in the East Lindsey district of Lincolnshire, England.
+
+Q: What is Ernest Bromley?
+A: Ernest Bromley is an American minister, Quaker and civil rights and peace activist.
+
+Q: What is Peacemakers?
+A: Peacemakers is the name of an organization that he and his wife Marion helped found that encouraged pacifism and resistance to war taxes.
+
+Q: What is Lonea Coal Mine?
+A: Lonea Coal Mine is an underground mining exploitation, one of the largest in Romania located in Petrila.
+
+Q: What is Computational physics?
+A: Computational physics is the study and implementation of numerical analysis to solve problems in physics.
+
+Q: What is Historically, computational physics?
+A: Historically, computational physics is the first application of modern computers in science, and is now a subset of computational science.
+
+Q: What is Atomic physics?
+A: Atomic physics is the field of physics that studies atoms as an isolated system of electrons and an atomic nucleus.
+
+Q: What is Richard Phillips Feynman?
+A: Richard Phillips Feynman is an American theoretical physicist.
+
+Q: What is Mathematically, helicity?
+A: Mathematically, helicity is the sign of the projection of the spin vector onto the momentum vector: left is negative, right is positive.
+
+Q: What is Albert Einstein?
+A: Albert Einstein is a German-born theoretical physicist best known for developing the theory of relativity.
+
+Q: What is Energy 'activity'?
+A: Energy 'activity' is the quantitative property that is transferred to a body or to a physical system.
+
+Q: What is Energy?
+A: Energy is a conserved quantity-the law of conservation of energy states that energy can be converted in form, but not created or destroyed.
+
+Q: What is Experimental physics?
+A: Experimental physics is the category of disciplines.

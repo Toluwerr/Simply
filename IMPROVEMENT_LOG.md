@@ -6300,3 +6300,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Counten, 5 66 is forty fifsto you count by fives 22."
 
+## Iteration 703 - NO_GAIN
+- **when**: 2026-09-17T11:04:26Z
+- **train loss**: 1.6508 | **val loss**: 1.4135 | **run best**: 1.4025
+- **corpus**: 284,500 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +25 facts (2,583 read all-time)
+- **lr**: 0.0003 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Fuden in words amen you write 1 in words is thirty-four."
+

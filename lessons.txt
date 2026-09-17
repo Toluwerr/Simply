@@ -34669,3 +34669,146 @@ A: The currency of Gambia is the dalasi.
 
 Q: What currency does Botswana use?
 A: The currency of Botswana is the pula.
+Q: How many letters does the word 'kip' have?
+A: The word 'kip' has 3 letters.
+
+Q: How many letters does the word 'lempira' have?
+A: The word 'lempira' has 7 letters.
+
+Q: How many letters does the word 'amsterdam' have?
+A: The word 'amsterdam' has 9 letters.
+
+Q: How many letters does the word 'vietnam' have?
+A: The word 'vietnam' has 7 letters.
+
+Q: How many letters does the word 'tanzania' have?
+A: The word 'tanzania' has 8 letters.
+
+Q: How many letters does the word 'cameroon' have?
+A: The word 'cameroon' has 8 letters.
+
+Q: How many letters does the word 'helium' have?
+A: The word 'helium' has 6 letters.
+
+Q: How many letters does the word 'hungary' have?
+A: The word 'hungary' has 7 letters.
+
+Q: What is the last letter of 'order'?
+A: The last letter of 'order' is R.
+
+Q: What is the first letter of 'river'?
+A: The first letter of 'river' is R.
+
+Q: What is the first letter of 'fuzzy'?
+A: The first letter of 'fuzzy' is F.
+
+Q: What is the first letter of 'tenge'?
+A: The first letter of 'tenge' is T.
+
+Q: What is the first letter of 'berlin'?
+A: The first letter of 'berlin' is B.
+
+Q: What is the last letter of 'african'?
+A: The last letter of 'african' is N.
+
+Q: What is the last letter of 'oceania'?
+A: The last letter of 'oceania' is A.
+
+Q: What is the first letter of 'technetium'?
+A: The first letter of 'technetium' is T.
+
+Q: How do you sort 75, 152, and 614?
+A: In order, they are 75 152 614.
+
+Q: How do you sort 639, 400, and 504?
+A: In order, they are 400 504 639.
+
+Q: How do you sort 3, 25, and 1?
+A: In order, they are 1 3 25.
+
+Q: How do you sort 648, 637, and 678?
+A: In order, they are 637 648 678.
+
+Q: How do you sort 29, 13, and 28?
+A: In order, they are 13 28 29.
+
+Q: How do you sort 546, 673, and 228?
+A: In order, they are 228 546 673.
+
+Q: How do you sort 470, 778, and 260?
+A: In order, they are 260 470 778.
+
+Q: How do you sort 22, 13, and 17?
+A: In order, they are 13 17 22.
+
+Q: Which is bigger, 15 or 5?
+A: 15 is bigger than 5.
+
+Q: Is 91 bigger than 99?
+A: No, 99 is bigger than 91.
+
+Q: Which is bigger, 81 or 22?
+A: 81 is bigger than 22.
+
+Q: Which is bigger, 48 or 33?
+A: 48 is bigger than 33.
+
+Q: Which is bigger, 80 or 14?
+A: 80 is bigger than 14.
+
+Q: Is 2 bigger than 19?
+A: No, 19 is bigger than 2.
+
+Q: Which is bigger, 1 or 11?
+A: 11 is bigger than 1.
+
+Q: Which is bigger, 8 or 5?
+A: 8 is bigger than 5.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: What is the capital of Uruguay?
+A: The capital of Uruguay is Montevideo.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What is the capital of Finland?
+A: The capital of Finland is Helsinki.
+
+Q: What is the capital of Malawi?
+A: The capital of Malawi is Lilongwe.
+
+Q: What is the capital of Armenia?
+A: The capital of Armenia is Yerevan.
+
+Q: What is the capital of Israel?
+A: The capital of Israel is Jerusalem.
+
+Q: What is the capital of Uzbekistan?
+A: The capital of Uzbekistan is Tashkent.
