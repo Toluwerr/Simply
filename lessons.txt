@@ -49003,3 +49003,170 @@ A: 15 is bigger than 11.
 
 Q: Which is bigger, 718 or 250?
 A: 718 is bigger than 250.
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: What continent is Lebanon on?
+A: Lebanon is on the continent of Asia.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: What continent is Peru on?
+A: Peru is on the continent of South America.
+
+Q: What continent is Morocco on?
+A: Morocco is on the continent of Africa.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: What continent is Turkey on?
+A: Turkey is on the continent of Asia.
+
+Q: What continent is Togo on?
+A: Togo is on the continent of Africa.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+
+Q: What is the capital of Suriname?
+A: The capital of Suriname is Paramaribo.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: What is the capital of Switzerland?
+A: The capital of Switzerland is Bern.
+
+Q: What is the capital of Saint Kitts and Nevis?
+A: The capital of Saint Kitts and Nevis is Basseterre.
+
+Q: What is the capital of Sao Tome and Principe?
+A: The capital of Sao Tome and Principe is Sao Tome.
+
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
+
+Q: How do you write 28 in words?
+A: 28 in words is twenty-eight.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you sort 3, 8, and 14?
+A: In order, they are 3 8 14.
+
+Q: How do you sort 26, 18, and 19?
+A: In order, they are 18 19 26.
+
+Q: How do you sort 721, 316, and 406?
+A: In order, they are 316 406 721.
+
+Q: How do you sort 12, 27, and 5?
+A: In order, they are 5 12 27.
+
+Q: How do you sort 9, 6, and 15?
+A: In order, they are 6 9 15.
+
+Q: How do you sort 16, 15, and 7?
+A: In order, they are 7 15 16.
+
+Q: How do you sort 8, 16, and 4?
+A: In order, they are 4 8 16.
+
+Q: How do you sort 9, 8, and 29?
+A: In order, they are 8 9 29.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
