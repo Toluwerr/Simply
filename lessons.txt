@@ -26879,3 +26879,170 @@ A: The first letter of 'san' is S.
 
 Q: What is the first letter of 'tantalum'?
 A: The first letter of 'tantalum' is T.
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: How do you sort 18, 26, and 29?
+A: In order, they are 18 26 29.
+
+Q: How do you sort 956, 399, and 310?
+A: In order, they are 310 399 956.
+
+Q: How do you sort 7, 1, and 8?
+A: In order, they are 1 7 8.
+
+Q: How do you sort 842, 192, and 813?
+A: In order, they are 192 813 842.
+
+Q: How do you sort 121, 560, and 312?
+A: In order, they are 121 312 560.
+
+Q: How do you sort 9, 8, and 25?
+A: In order, they are 8 9 25.
+
+Q: How do you sort 19, 23, and 16?
+A: In order, they are 16 19 23.
+
+Q: How do you sort 16, 17, and 15?
+A: In order, they are 15 16 17.
+
+Q: What is the first letter of 'melon'?
+A: The first letter of 'melon' is M.
+
+Q: What is the first letter of 'ruthenium'?
+A: The first letter of 'ruthenium' is R.
+
+Q: What is the first letter of 'wet'?
+A: The first letter of 'wet' is W.
+
+Q: What is the first letter of 'tallahassee'?
+A: The first letter of 'tallahassee' is T.
+
+Q: What is the first letter of 'manama'?
+A: The first letter of 'manama' is M.
+
+Q: What is the last letter of 'providence'?
+A: The last letter of 'providence' is E.
+
+Q: What is the last letter of 'tirana'?
+A: The last letter of 'tirana' is A.
+
+Q: What is the first letter of 'utah'?
+A: The first letter of 'utah' is U.
+
+Q: What continent is Germany on?
+A: Germany is on the continent of Europe.
+
+Q: What continent is the Philippines on?
+A: the Philippines is on the continent of Asia.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What continent is Albania on?
+A: Albania is on the continent of Europe.
+
+Q: What continent is Belarus on?
+A: Belarus is on the continent of Europe.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: What continent is Romania on?
+A: Romania is on the continent of Europe.
+
+Q: What continent is Ghana on?
+A: Ghana is on the continent of Africa.
+
+Q: What is the capital of Tuvalu?
+A: The capital of Tuvalu is Funafuti.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
+
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of Ethiopia?
+A: The capital of Ethiopia is Addis Ababa.
+
+Q: What is the capital of Equatorial Guinea?
+A: The capital of Equatorial Guinea is Malabo.
+
+Q: What is the capital of Kenya?
+A: The capital of Kenya is Nairobi.
+
+Q: What is the capital of North Macedonia?
+A: The capital of North Macedonia is Skopje.
+
+Q: Can you count by fives from 30 to 50?
+A: Counting by fives gives 30 35 40 45 50.
+
+Q: Can you count by fives from 25 to 45?
+A: Counting by fives gives 25 30 35 40 45.
+
+Q: Can you count by ones from 35 to 38?
+A: Counting by ones gives 35 36 37 38.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by twos from 8 to 16?
+A: Counting by twos gives 8 10 12 14 16.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: Can you count by fives from 20 to 30?
+A: Counting by fives gives 20 25 30.
+
+Q: Can you count by fives from 30 to 50?
+A: Counting by fives gives 30 35 40 45 50.
+
+Q: Is 93 bigger than 36?
+A: Yes, 93 is bigger than 36.
+
+Q: Which is bigger, 871 or 189?
+A: 871 is bigger than 189.
+
+Q: Which is bigger, 38 or 99?
+A: 99 is bigger than 38.
+
+Q: Is 638 bigger than 367?
+A: Yes, 638 is bigger than 367.
+
+Q: Which is bigger, 73 or 96?
+A: 96 is bigger than 73.
+
+Q: Is 761 bigger than 846?
+A: No, 846 is bigger than 761.
+
+Q: Is 929 bigger than 379?
+A: Yes, 929 is bigger than 379.
+
+Q: Which is bigger, 65 or 21?
+A: 65 is bigger than 21.
