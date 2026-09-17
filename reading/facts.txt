@@ -1780,3 +1780,84 @@ A: SESI Mathematics is a project developed by FIRJAN System with the aim of impr
 
 Q: What is Contact?
 A: Contact is a geometric notion it can be defined algebraically as a valuation.
+
+Q: What is VM, often written VMCMS,?
+A: VM, often written VMCMS, is a family of virtual machine operating systems used on IBM mainframes including the System370, System390.
+
+Q: What is Coherent?
+A: Coherent is a clone of the Unix operating system for IBM PC compatibles and other microcomputers.
+
+Q: What is Historically, the operating system?
+A: Historically, the operating system is a proprietary product, but it became open source in 2015.
+
+Q: What is SHR?
+A: SHR is a community-driven Linux distribution for smartphones which was based on OpenEmbedded, org, and the freesmartphone.org framework.
+
+Q: What is Phil Metschan?
+A: Phil Metschan is a politician and business owner in the U.S.
+
+Q: What is Cognitive social structures?
+A: Cognitive social structures is the focus of research that investigates how individuals perceive their own social structure e.g.
+
+Q: What is Tom Wild?
+A: Tom Wild is an English first-class cricketer.
+
+Q: What is Jayden Nguyen?
+A: Jayden Nguyen is a professional Australian rules footballer with the Essendon Football Club in the Australian Football League.
+
+Q: What is Dalia?
+A: Dalia is a mother of two sons Tamim Reza and Omer Reza.
+
+Q: What is Chitrakonda?
+A: Chitrakonda is a Vidhan Sabha constituency of Malkangiri district, Odisha.
+
+Q: What is Nathan Wayne Munson?
+A: Nathan Wayne Munson is an English former footballer who played in the Football League as a goalkeeper for Colchester United.
+
+Q: What is Shershah Syed?
+A: Shershah Syed is a Pakistani physician and surgeon, known for his work in obstetrics and maternal health.
+
+Q: What is Mookkannoor?
+A: Mookkannoor is a village in the Ernakulam district in the Indian state of Kerala.
+
+Q: What is Data technology?
+A: Data technology is the technology connected to areas such as martech or adtech.
+
+Q: What is Uber Technologies, Inc.?
+A: Uber Technologies, Inc. is an American multinational transportation company that provides ride-hailing services, courier services, food delivery.
+
+Q: What is Brio Technology?
+A: Brio Technology is a San Francisco Bay area software company cofounded in 1984 by Yorgen Edholm and Katherine Glassey.
+
+Q: What is Cleveland Institute of Electronics?
+A: Cleveland Institute of Electronics is a privately held, for-profit, distance learning technical college located in Cleveland, Ohio, United States.
+
+Q: What is Design technology, or D.T.,?
+A: Design technology, or D.T., is the study, design, development, application, implementation.
+
+Q: What is Leading Technology, Inc.,?
+A: Leading Technology, Inc., is an American computer company based in Beaverton, Oregon, and active from 1985 to 1992.
+
+Q: What is Lens Technology Co., Ltd.?
+A: Lens Technology Co., Ltd. is a Chinese precision manufacturing company that produces glass, ceramic, metal.
+
+Q: What is Data engineering?
+A: Data engineering is a software engineering approach to the building of data systems, to enable the collection and usage of data.
+
+Q: What is Hurdle technology?
+A: Hurdle technology is a method of ensuring that pathogens in food products can be eliminated or controlled.
+
+Q: What is Creative technology?
+A: Creative technology is a broadly interdisciplinary and transdisciplinary field combining computing, design, art and the humanities.
+
+Q: What is Mattson Technology Inc.?
+A: Mattson Technology Inc. is an American technology company which was founded in 1988 by Brad Mattson and is based in Fremont, California.
+
+Q: What is Health technology assessment?
+A: Health technology assessment is a multidisciplinary process that uses systematic and explicit methods to evaluate the properties.
+
+Q: What is Formosa Plastics Group?
+A: Formosa Plastics Group is a titular Taiwanese conglomerate of diverse interests, including biotechnology.
+
+Q: What is SZABIST?
+A: SZABIST is a non-profit and Chartered Institute of Science and Technology, Established through Legislative Act of the Sindh Assembly .

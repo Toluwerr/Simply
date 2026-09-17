@@ -29121,3 +29121,146 @@ A: The currency of Brazil is the real.
 
 Q: What currency does Latvia use?
 A: The currency of Latvia is the euro.
+Q: What is the last letter of 'honiara'?
+A: The last letter of 'honiara' is A.
+
+Q: What is the first letter of 'wyoming'?
+A: The first letter of 'wyoming' is W.
+
+Q: What is the first letter of 'madrid'?
+A: The first letter of 'madrid' is M.
+
+Q: What is the last letter of 'north'?
+A: The last letter of 'north' is H.
+
+Q: What is the last letter of 'carson'?
+A: The last letter of 'carson' is N.
+
+Q: What is the first letter of 'oklahoma'?
+A: The first letter of 'oklahoma' is O.
+
+Q: What is the first letter of 'sad'?
+A: The first letter of 'sad' is S.
+
+Q: What is the last letter of 'plant'?
+A: The last letter of 'plant' is T.
+
+Q: How do you sort 532, 847, and 74?
+A: In order, they are 74 532 847.
+
+Q: How do you sort 1, 21, and 20?
+A: In order, they are 1 20 21.
+
+Q: How do you sort 12, 5, and 29?
+A: In order, they are 5 12 29.
+
+Q: How do you sort 104, 890, and 98?
+A: In order, they are 98 104 890.
+
+Q: How do you sort 24, 12, and 6?
+A: In order, they are 6 12 24.
+
+Q: How do you sort 898, 557, and 935?
+A: In order, they are 557 898 935.
+
+Q: How do you sort 114, 534, and 862?
+A: In order, they are 114 534 862.
+
+Q: How do you sort 310, 486, and 763?
+A: In order, they are 310 486 763.
+
+Q: Which is bigger, 17 or 16?
+A: 17 is bigger than 16.
+
+Q: Which is bigger, 8 or 11?
+A: 11 is bigger than 8.
+
+Q: Which is bigger, 18 or 40?
+A: 40 is bigger than 18.
+
+Q: Is 18 bigger than 15?
+A: Yes, 18 is bigger than 15.
+
+Q: Is 982 bigger than 682?
+A: Yes, 982 is bigger than 682.
+
+Q: Is 5 bigger than 18?
+A: No, 18 is bigger than 5.
+
+Q: Is 77 bigger than 58?
+A: Yes, 77 is bigger than 58.
+
+Q: Is 12 bigger than 2?
+A: Yes, 12 is bigger than 2.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: What is the capital of Israel?
+A: The capital of Israel is Jerusalem.
+
+Q: What is the capital of Sierra Leone?
+A: The capital of Sierra Leone is Freetown.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the capital of Moldova?
+A: The capital of Moldova is Chisinau.
+
+Q: What is the capital of Bahrain?
+A: The capital of Bahrain is Manama.
+
+Q: What is the capital of Slovenia?
+A: The capital of Slovenia is Ljubljana.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is 6 times 9?
+A: 6 times 9 is 54.
+
+Q: What is 882 plus 728?
+A: 882 plus 728 is 1610.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is 76 minus 24?
+A: 76 minus 24 is 52.
+
+Q: What is 713 minus 664?
+A: 713 minus 664 is 49.
+
+Q: What is 37 minus 15?
+A: 37 minus 15 is 22.
+
+Q: What is 12 times 18?
+A: 12 times 18 is 216.
+
+Q: What is 813 plus 549?
+A: 813 plus 549 is 1362.
