@@ -23540,3 +23540,170 @@ A: Yes, 709 is bigger than 505.
 
 Q: Which is bigger, 35 or 29?
 A: 35 is bigger than 29.
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: How do you write 50 in words?
+A: 50 in words is fifty.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Egypt use?
+A: The currency of Egypt is the pound.
+
+Q: What currency does South Korea use?
+A: The currency of South Korea is the won.
+
+Q: What currency does Austria use?
+A: The currency of Austria is the euro.
+
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
+
+Q: What currency does Botswana use?
+A: The currency of Botswana is the pula.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: How do you sort 17, 14, and 12?
+A: In order, they are 12 14 17.
+
+Q: How do you sort 3, 15, and 21?
+A: In order, they are 3 15 21.
+
+Q: How do you sort 8, 5, and 14?
+A: In order, they are 5 8 14.
+
+Q: How do you sort 444, 69, and 109?
+A: In order, they are 69 109 444.
+
+Q: How do you sort 760, 569, and 167?
+A: In order, they are 167 569 760.
+
+Q: How do you sort 12, 24, and 16?
+A: In order, they are 12 16 24.
+
+Q: How do you sort 447, 719, and 574?
+A: In order, they are 447 574 719.
+
+Q: How do you sort 17, 13, and 28?
+A: In order, they are 13 17 28.
+
+Q: What is the first letter of 'swift'?
+A: The first letter of 'swift' is S.
+
+Q: What is the first letter of 'somalia'?
+A: The first letter of 'somalia' is S.
+
+Q: What is the first letter of 'bucharest'?
+A: The first letter of 'bucharest' is B.
+
+Q: What is the last letter of 'raven'?
+A: The last letter of 'raven' is N.
+
+Q: What is the first letter of 'juneau'?
+A: The first letter of 'juneau' is J.
+
+Q: What is the last letter of 'china'?
+A: The last letter of 'china' is A.
+
+Q: What is the last letter of 'vienna'?
+A: The last letter of 'vienna' is A.
+
+Q: What is the first letter of 'vientiane'?
+A: The first letter of 'vientiane' is V.
