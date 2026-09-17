@@ -28869,3 +28869,110 @@ A: The Roman numeral for 95 is xcv.
 
 Q: What number is the Roman numeral xciii?
 A: The Roman numeral xciii is the number 93.
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: Can you count by twos from 6 to 16?
+A: Counting by twos gives 6 8 10 12 14 16.
+
+Q: Can you count by fives from 5 to 15?
+A: Counting by fives gives 5 10 15.
+
+Q: Can you count by fives from 15 to 30?
+A: Counting by fives gives 15 20 25 30.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by twos from 2 to 10?
+A: Counting by twos gives 2 4 6 8 10.
+
+Q: Can you count by twos from 8 to 14?
+A: Counting by twos gives 8 10 12 14.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: How do you sort 1, 7, and 27?
+A: In order, they are 1 7 27.
+
+Q: How do you sort 675, 295, and 95?
+A: In order, they are 95 295 675.
+
+Q: How do you sort 4, 24, and 14?
+A: In order, they are 4 14 24.
+
+Q: How do you sort 2, 15, and 11?
+A: In order, they are 2 11 15.
+
+Q: How do you sort 404, 161, and 629?
+A: In order, they are 161 404 629.
+
+Q: How do you sort 6, 12, and 5?
+A: In order, they are 5 6 12.
+
+Q: What is 7 times 6?
+A: 7 times 6 is 42.
+
+Q: What is 12 times 3?
+A: 12 times 3 is 36.
+
+Q: What is 10 minus 4?
+A: 10 minus 4 is 6.
+
+Q: What is 2 plus 20?
+A: 2 plus 20 is 22.
+
+Q: What is 66 plus 83?
+A: 66 plus 83 is 149.
+
+Q: What is 15 plus 5?
+A: 15 plus 5 is 20.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is Mauritania on?
+A: Mauritania is on the continent of Africa.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is Vanuatu on?
+A: Vanuatu is on the continent of Oceania.
+
+Q: What continent is Estonia on?
+A: Estonia is on the continent of Europe.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.

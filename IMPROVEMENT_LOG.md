@@ -2979,3 +2979,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.30 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: opposites 1.00, animals 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"Double 57 is 94."
 
+## Iteration 346 - NO_GAIN
+- **when**: 2026-09-17T00:55:03Z
+- **train loss**: 1.6311 | **val loss**: 0.6653 | **run best**: 0.6484
+- **corpus**: 232,455 chars (+3 self-written examples)
+- **internet reading**: +30 articles, +17 facts (662 read all-time)
+- **lr**: 0.0008 | **steps**: 62
+- **knowledge quiz**: avg 0.22 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, animals 1.00, planets 1.00
+- self-portrait, asked "Who are you?": *"I am Simprovy are stand self-improvement look."
+

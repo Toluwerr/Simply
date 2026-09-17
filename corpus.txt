@@ -10548,3 +10548,13 @@ A: 29 in words is twenty-nine.
 
 Q: What is the Roman numeral for 6?
 A: The Roman numeral for 6 is vii.
+
+
+Q: How many letters does the word 'gappy' have?
+A: The word 'gent' has 5 letters.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 35 40 45 50 45.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40 60.
