@@ -24208,3 +24208,146 @@ A: 'giant' means extremely big.
 
 Q: What does 'greedy' mean?
 A: 'greedy' means wanting more than needed.
+Q: What is 4 times 8?
+A: 4 times 8 is 32.
+
+Q: What is 58 minus 57?
+A: 58 minus 57 is 1.
+
+Q: What is 18 minus 15?
+A: 18 minus 15 is 3.
+
+Q: What is 5 times 7?
+A: 5 times 7 is 35.
+
+Q: What is 256 minus 222?
+A: 256 minus 222 is 34.
+
+Q: What is 3 times 3?
+A: 3 times 3 is 9.
+
+Q: What is 78 minus 63?
+A: 78 minus 63 is 15.
+
+Q: What is 497 plus 928?
+A: 497 plus 928 is 1425.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: What is the biggest planet?
+A: Jupiter is the biggest planet.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: Can you count by fives from 5 to 20?
+A: Counting by fives gives 5 10 15 20.
+
+Q: Can you count by fives from 30 to 40?
+A: Counting by fives gives 30 35 40.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by fives from 25 to 40?
+A: Counting by fives gives 25 30 35 40.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: What is double 53?
+A: Double 53 is 106.
+
+Q: What is double 40?
+A: Double 40 is 80.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is double 10?
+A: Double 10 is 20.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is half of 50?
+A: Half of 50 is 25.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What currency does Iraq use?
+A: The currency of Iraq is the dinar.
+
+Q: What currency does Ecuador use?
+A: The currency of Ecuador is the dollar.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Georgia use?
+A: The currency of Georgia is the lari.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.
+
+Q: What currency does Zambia use?
+A: The currency of Zambia is the kwacha.
+
+Q: What currency does Turkmenistan use?
+A: The currency of Turkmenistan is the manat.
+
+Q: What currency does Latvia use?
+A: The currency of Latvia is the euro.
