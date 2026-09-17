@@ -1,0 +1,59 @@
+Q: Which is bigger, 17 or 12?
+A: 17 is bigger than 12.
+
+Q: Which is bigger, 0 or 8?
+A: 8 is bigger than 7.
+
+Q: What is the first letter of 'delhi'?
+A: The first letter of 'delhi' is D.
+
+Q: Which is bigger, 2 or 91?
+A: 91 is bigger than 22.
+
+Q: Which is bigger, 6 or 96?
+A: 96 is bigger than 66.
+
+Q: What number is the Roman numeral i?
+A: The Roman numeral lxii is the number 144.
+
+Q: Which is bigger, 85 or 95?
+A: 95 is bigger than 161.
+
+Q: Is 15 bigger than 3?
+A: Yes, 15 is bigger than 15.
+
+Q: Which is bigger, 0 or 27?
+A: 27 is bigger than 27.
+
+Q: Is 6 bigger than 19?
+A: No, 19 is bigger than 6.
+
+Q: Which is bigger, 8 or 1?
+A: 8 is bigger than 1.
+
+Q: Which is bigger, 2 or 99?
+A: 99 is bigger than 26.
+
+Q: Which is bigger, 3 or 90?
+A: 90 is bigger than 30.
+
+Q: How do you sort 19, 20, and 23?
+A: In order, they are 19 20 23.
+
+Q: Which is bigger, 66 or 95?
+A: 95 is bigger than 85.
+
+Q: Is 2 bigger than 19?
+A: No, 19 is bigger than 2.
+
+Q: Which is bigger, 869 or 669?
+A: 869 is bigger than 697.
+
+Q: Which is bigger, 13 or 17?
+A: 17 is bigger than 13.
+
+Q: How do you sort 15, 8, and 26?
+A: In order, they are 8 15 26.
+
+Q: What is the chemical symbol for thulium?
+A: The chemical symbol for thulium is Tm.

@@ -20477,3 +20477,128 @@ A: The opposite of 'long' is 'short'.
 
 Q: What is the opposite of 'wet'?
 A: The opposite of 'wet' is 'dry'.
+Q: What is 27 minus 14?
+A: 27 minus 14 is 13.
+
+Q: What is 19 minus 14?
+A: 19 minus 14 is 5.
+
+Q: What is 11 times 18?
+A: 11 times 18 is 198.
+
+Q: What is 8 times 5?
+A: 8 times 5 is 40.
+
+Q: What is 93 minus 25?
+A: 93 minus 25 is 68.
+
+Q: What is 796 minus 349?
+A: 796 minus 349 is 447.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What is the biggest hot desert?
+A: The Sahara is the biggest hot desert.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: How many letters does the word 'belize' have?
+A: The word 'belize' has 6 letters.
+
+Q: How many letters does the word 'funafuti' have?
+A: The word 'funafuti' has 8 letters.
+
+Q: How many letters does the word 'annapolis' have?
+A: The word 'annapolis' has 9 letters.
+
+Q: How many letters does the word 'tonga' have?
+A: The word 'tonga' has 5 letters.
+
+Q: How many letters does the word 'kina' have?
+A: The word 'kina' has 4 letters.
+
+Q: How many letters does the word 'cat' have?
+A: The word 'cat' has 3 letters.
+
+Q: What continent is Rwanda on?
+A: Rwanda is on the continent of Africa.
+
+Q: What continent is Poland on?
+A: Poland is on the continent of Europe.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What continent is Chad on?
+A: Chad is on the continent of Africa.
+
+Q: What continent is Greece on?
+A: Greece is on the continent of Europe.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: Is 60 bigger than 88?
+A: No, 88 is bigger than 60.
+
+Q: Is 3 bigger than 10?
+A: No, 10 is bigger than 3.
+
+Q: Is 964 bigger than 794?
+A: Yes, 964 is bigger than 794.
+
+Q: Which is bigger, 1 or 16?
+A: 16 is bigger than 1.
+
+Q: Is 69 bigger than 17?
+A: Yes, 69 is bigger than 17.
+
+Q: Is 17 bigger than 29?
+A: No, 29 is bigger than 17.
+
+Q: How do you sort 1, 6, and 18?
+A: In order, they are 1 6 18.
+
+Q: How do you sort 213, 258, and 907?
+A: In order, they are 213 258 907.
+
+Q: How do you sort 298, 843, and 531?
+A: In order, they are 298 531 843.
+
+Q: How do you sort 15, 4, and 18?
+A: In order, they are 4 15 18.
+
+Q: How do you sort 7, 15, and 25?
+A: In order, they are 7 15 25.
+
+Q: How do you sort 243, 244, and 367?
+A: In order, they are 243 244 367.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
