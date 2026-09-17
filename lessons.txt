@@ -36133,3 +36133,170 @@ A: The blue whale is the biggest animal.
 
 Q: How many strings does a guitar have?
 A: A guitar has 6 strings.
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: What is the capital of Portugal?
+A: The capital of Portugal is Lisbon.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of Vatican City?
+A: The capital of Vatican City is Vatican City.
+
+Q: What is the capital of Denmark?
+A: The capital of Denmark is Copenhagen.
+
+Q: What is the capital of Malta?
+A: The capital of Malta is Valletta.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+
+Q: What is 981 minus 534?
+A: 981 minus 534 is 447.
+
+Q: What is 4 times 9?
+A: 4 times 9 is 36.
+
+Q: What is 7 times 4?
+A: 7 times 4 is 28.
+
+Q: What is 16 plus 5?
+A: 16 plus 5 is 21.
+
+Q: What is 7 times 6?
+A: 7 times 6 is 42.
+
+Q: What is 56 plus 40?
+A: 56 plus 40 is 96.
+
+Q: What is 8 times 9?
+A: 8 times 9 is 72.
+
+Q: What is 9 times 9?
+A: 9 times 9 is 81.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Rhode Island?
+A: Providence is the capital of Rhode Island.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: How many letters does the word 'franc' have?
+A: The word 'franc' has 5 letters.
+
+Q: How many letters does the word 'hanoi' have?
+A: The word 'hanoi' has 5 letters.
+
+Q: How many letters does the word 'pretoria' have?
+A: The word 'pretoria' has 8 letters.
+
+Q: How many letters does the word 'asia' have?
+A: The word 'asia' has 4 letters.
+
+Q: How many letters does the word 'vaduz' have?
+A: The word 'vaduz' has 5 letters.
+
+Q: How many letters does the word 'rocket' have?
+A: The word 'rocket' has 6 letters.
+
+Q: How many letters does the word 'dong' have?
+A: The word 'dong' has 4 letters.
+
+Q: How many letters does the word 'pakistan' have?
+A: The word 'pakistan' has 8 letters.
+
+Q: What is the last letter of 'modern'?
+A: The last letter of 'modern' is N.
+
+Q: What is the last letter of 'march'?
+A: The last letter of 'march' is H.
+
+Q: What is the last letter of 'manat'?
+A: The last letter of 'manat' is T.
+
+Q: What is the first letter of 'fluorine'?
+A: The first letter of 'fluorine' is F.
+
+Q: What is the last letter of 'colombia'?
+A: The last letter of 'colombia' is A.
+
+Q: What is the last letter of 'jackson'?
+A: The last letter of 'jackson' is N.
+
+Q: What is the last letter of 'montgomery'?
+A: The last letter of 'montgomery' is Y.
+
+Q: What is the last letter of 'bismarck'?
+A: The last letter of 'bismarck' is K.
+
+Q: Is 4 bigger than 6?
+A: No, 6 is bigger than 4.
+
+Q: Is 25 bigger than 18?
+A: Yes, 25 is bigger than 18.
+
+Q: Which is bigger, 711 or 625?
+A: 711 is bigger than 625.
+
+Q: Is 35 bigger than 26?
+A: Yes, 35 is bigger than 26.
+
+Q: Which is bigger, 805 or 888?
+A: 888 is bigger than 805.
+
+Q: Is 9 bigger than 3?
+A: Yes, 9 is bigger than 3.
+
+Q: Which is bigger, 37 or 88?
+A: 88 is bigger than 37.
+
+Q: Which is bigger, 608 or 748?
+A: 748 is bigger than 608.
