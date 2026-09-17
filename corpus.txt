@@ -12809,3 +12809,7 @@ A: Delal is on the continent of Europe.
 
 Q: How many letters does the word 'haple' have?
 A: The word 'haple' has 5 letters.
+
+
+Q: How many letters does the word 'stale' have?
+A: The word ' has 5 letters.

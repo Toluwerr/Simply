@@ -57217,3 +57217,170 @@ A: The last letter of 'ruble' is E.
 
 Q: What is the first letter of 'dover'?
 A: The first letter of 'dover' is D.
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: How do you sort 25, 1, and 27?
+A: In order, they are 1 25 27.
+
+Q: How do you sort 26, 2, and 16?
+A: In order, they are 2 16 26.
+
+Q: How do you sort 4, 5, and 27?
+A: In order, they are 4 5 27.
+
+Q: How do you sort 24, 599, and 261?
+A: In order, they are 24 261 599.
+
+Q: How do you sort 22, 20, and 7?
+A: In order, they are 7 20 22.
+
+Q: How do you sort 822, 340, and 707?
+A: In order, they are 340 707 822.
+
+Q: How do you sort 3, 7, and 17?
+A: In order, they are 3 7 17.
+
+Q: How do you sort 10, 18, and 7?
+A: In order, they are 7 10 18.
+
+Q: What is the last letter of 'maryland'?
+A: The last letter of 'maryland' is D.
+
+Q: What is the first letter of 'calcium'?
+A: The first letter of 'calcium' is C.
+
+Q: What is the last letter of 'germanium'?
+A: The last letter of 'germanium' is M.
+
+Q: What is the first letter of 'loud'?
+A: The first letter of 'loud' is L.
+
+Q: What is the first letter of 'wyoming'?
+A: The first letter of 'wyoming' is W.
+
+Q: What is the first letter of 'happy'?
+A: The first letter of 'happy' is H.
+
+Q: What is the first letter of 'wellington'?
+A: The first letter of 'wellington' is W.
+
+Q: What is the first letter of 'cloud'?
+A: The first letter of 'cloud' is C.
+
+Q: What continent is New Zealand on?
+A: New Zealand is on the continent of Oceania.
+
+Q: What continent is Iran on?
+A: Iran is on the continent of Asia.
+
+Q: What continent is Argentina on?
+A: Argentina is on the continent of South America.
+
+Q: What continent is Hungary on?
+A: Hungary is on the continent of Europe.
+
+Q: What continent is North Korea on?
+A: North Korea is on the continent of Asia.
+
+Q: What continent is Malawi on?
+A: Malawi is on the continent of Africa.
+
+Q: What continent is Qatar on?
+A: Qatar is on the continent of Asia.
+
+Q: What continent is Niger on?
+A: Niger is on the continent of Africa.
+
+Q: What is the capital of the Netherlands?
+A: The capital of the Netherlands is Amsterdam.
+
+Q: What is the capital of the Central African Republic?
+A: The capital of the Central African Republic is Bangui.
+
+Q: What is the capital of Poland?
+A: The capital of Poland is Warsaw.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington, D.C..
+
+Q: What is the capital of Somalia?
+A: The capital of Somalia is Mogadishu.
+
+Q: What is the capital of Zambia?
+A: The capital of Zambia is Lusaka.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by twos from 16 to 24?
+A: Counting by twos gives 16 18 20 22 24.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by twos from 36 to 42?
+A: Counting by twos gives 36 38 40 42.
+
+Q: Is 967 bigger than 185?
+A: Yes, 967 is bigger than 185.
+
+Q: Is 570 bigger than 265?
+A: Yes, 570 is bigger than 265.
+
+Q: Which is bigger, 13 or 32?
+A: 32 is bigger than 13.
+
+Q: Is 925 bigger than 897?
+A: Yes, 925 is bigger than 897.
+
+Q: Is 1 bigger than 16?
+A: No, 16 is bigger than 1.
+
+Q: Which is bigger, 831 or 678?
+A: 831 is bigger than 678.
+
+Q: Is 10 bigger than 11?
+A: No, 11 is bigger than 10.
+
+Q: Which is bigger, 96 or 21?
+A: 96 is bigger than 21.
