@@ -22443,3 +22443,170 @@ A: The opposite of 'long' is 'short'.
 
 Q: What is the opposite of 'hot'?
 A: The opposite of 'hot' is 'cold'.
+Q: What currency does Somalia use?
+A: The currency of Somalia is the shilling.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Sri Lanka use?
+A: The currency of Sri Lanka is the rupee.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What currency does Saudi Arabia use?
+A: The currency of Saudi Arabia is the riyal.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What is the Roman numeral for 705?
+A: The Roman numeral for 705 is dccv.
+
+Q: What is the Roman numeral for 26?
+A: The Roman numeral for 26 is xxvi.
+
+Q: What number is the Roman numeral xiv?
+A: The Roman numeral xiv is the number 14.
+
+Q: What number is the Roman numeral xvi?
+A: The Roman numeral xvi is the number 16.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What number is the Roman numeral ccxlii?
+A: The Roman numeral ccxlii is the number 242.
+
+Q: What is the Roman numeral for 10?
+A: The Roman numeral for 10 is x.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: What is 77 minus 66?
+A: 77 minus 66 is 11.
+
+Q: What is 702 plus 228?
+A: 702 plus 228 is 930.
+
+Q: What is 601 plus 59?
+A: 601 plus 59 is 660.
+
+Q: What is 579 plus 407?
+A: 579 plus 407 is 986.
+
+Q: What is 121 plus 431?
+A: 121 plus 431 is 552.
+
+Q: What is 10 times 6?
+A: 10 times 6 is 60.
+
+Q: What is 518 minus 317?
+A: 518 minus 317 is 201.
+
+Q: What is 281 minus 156?
+A: 281 minus 156 is 125.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
