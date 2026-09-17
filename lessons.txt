@@ -34535,3 +34535,170 @@ A: The capital of Gabon is Libreville.
 
 Q: What is the capital of Hungary?
 A: The capital of Hungary is Budapest.
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+
+Q: What is the capital of Senegal?
+A: The capital of Senegal is Dakar.
+
+Q: What is the capital of Malta?
+A: The capital of Malta is Valletta.
+
+Q: What is the capital of the Comoros?
+A: The capital of the Comoros is Moroni.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: What is the capital of Laos?
+A: The capital of Laos is Vientiane.
+
+Q: What is the capital of Saint Kitts and Nevis?
+A: The capital of Saint Kitts and Nevis is Basseterre.
+
+Q: What is the capital of the Republic of the Congo?
+A: The capital of the Republic of the Congo is Brazzaville.
+
+Q: What is 5 times 9?
+A: 5 times 9 is 45.
+
+Q: What is 761 plus 467?
+A: 761 plus 467 is 1228.
+
+Q: What is 20 plus 5?
+A: 20 plus 5 is 25.
+
+Q: What is 7 times 6?
+A: 7 times 6 is 42.
+
+Q: What is 302 plus 923?
+A: 302 plus 923 is 1225.
+
+Q: What is 19 minus 8?
+A: 19 minus 8 is 11.
+
+Q: What is 8 times 7?
+A: 8 times 7 is 56.
+
+Q: What is 11 times 6?
+A: 11 times 6 is 66.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: How many letters does the word 'hot' have?
+A: The word 'hot' has 3 letters.
+
+Q: How many letters does the word 'zloty' have?
+A: The word 'zloty' has 5 letters.
+
+Q: How many letters does the word 'quick' have?
+A: The word 'quick' has 5 letters.
+
+Q: How many letters does the word 'dominica' have?
+A: The word 'dominica' has 8 letters.
+
+Q: How many letters does the word 'colorado' have?
+A: The word 'colorado' has 8 letters.
+
+Q: How many letters does the word 'lome' have?
+A: The word 'lome' has 4 letters.
+
+Q: How many letters does the word 'lev' have?
+A: The word 'lev' has 3 letters.
+
+Q: How many letters does the word 'castle' have?
+A: The word 'castle' has 6 letters.
+
+Q: What is the first letter of 'loud'?
+A: The first letter of 'loud' is L.
+
+Q: What is the first letter of 'solomon'?
+A: The first letter of 'solomon' is S.
+
+Q: What is the last letter of 'latvia'?
+A: The last letter of 'latvia' is A.
+
+Q: What is the last letter of 'mali'?
+A: The last letter of 'mali' is I.
+
+Q: What is the last letter of 'chad'?
+A: The last letter of 'chad' is D.
+
+Q: What is the first letter of 'switzerland'?
+A: The first letter of 'switzerland' is S.
+
+Q: What is the last letter of 'hartford'?
+A: The last letter of 'hartford' is D.
+
+Q: What is the last letter of 'barbuda'?
+A: The last letter of 'barbuda' is A.
+
+Q: Is 20 bigger than 18?
+A: Yes, 20 is bigger than 18.
+
+Q: Which is bigger, 669 or 531?
+A: 669 is bigger than 531.
+
+Q: Which is bigger, 649 or 523?
+A: 649 is bigger than 523.
+
+Q: Is 7 bigger than 11?
+A: No, 11 is bigger than 7.
+
+Q: Is 28 bigger than 12?
+A: Yes, 28 is bigger than 12.
+
+Q: Which is bigger, 15 or 11?
+A: 15 is bigger than 11.
+
+Q: Which is bigger, 9 or 6?
+A: 9 is bigger than 6.
+
+Q: Is 7 bigger than 8?
+A: No, 8 is bigger than 7.
