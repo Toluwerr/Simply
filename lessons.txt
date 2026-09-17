@@ -29101,3 +29101,128 @@ A: Cameroon is on the continent of Africa.
 
 Q: What continent is Malta on?
 A: Malta is on the continent of Europe.
+Q: Which is bigger, 129 or 344?
+A: 344 is bigger than 129.
+
+Q: Which is bigger, 27 or 68?
+A: 68 is bigger than 27.
+
+Q: Is 6 bigger than 11?
+A: No, 11 is bigger than 6.
+
+Q: Is 50 bigger than 91?
+A: No, 91 is bigger than 50.
+
+Q: Is 11 bigger than 10?
+A: Yes, 11 is bigger than 10.
+
+Q: Is 20 bigger than 21?
+A: No, 21 is bigger than 20.
+
+Q: What is the capital of Angola?
+A: The capital of Angola is Luanda.
+
+Q: What is the capital of Ethiopia?
+A: The capital of Ethiopia is Addis Ababa.
+
+Q: What is the capital of Nauru?
+A: The capital of Nauru is Yaren.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Kuwait?
+A: The capital of Kuwait is Kuwait City.
+
+Q: What is the capital of Eritrea?
+A: The capital of Eritrea is Asmara.
+
+Q: What is the last letter of 'egypt'?
+A: The last letter of 'egypt' is T.
+
+Q: What is the last letter of 'eritrea'?
+A: The last letter of 'eritrea' is A.
+
+Q: What is the first letter of 'antimony'?
+A: The first letter of 'antimony' is A.
+
+Q: What is the last letter of 'nauru'?
+A: The last letter of 'nauru' is U.
+
+Q: What is the first letter of 'melon'?
+A: The first letter of 'melon' is M.
+
+Q: What is the first letter of 'pennsylvania'?
+A: The first letter of 'pennsylvania' is P.
+
+Q: Can you count by fives from 5 to 20?
+A: Counting by fives gives 5 10 15 20.
+
+Q: Can you count by ones from 36 to 39?
+A: Counting by ones gives 36 37 38 39.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by fives from 20 to 45?
+A: Counting by fives gives 20 25 30 35 40 45.
+
+Q: Can you count by fives from 30 to 45?
+A: Counting by fives gives 30 35 40 45.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What is the biggest animal?
+A: The blue whale is the biggest animal.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What is 231 minus 177?
+A: 231 minus 177 is 54.
+
+Q: What is 48 plus 89?
+A: 48 plus 89 is 137.
+
+Q: What is 86 minus 75?
+A: 86 minus 75 is 11.
+
+Q: What is 2 times 3?
+A: 2 times 3 is 6.
+
+Q: What is 12 times 17?
+A: 12 times 17 is 204.
+
+Q: What is 12 times 12?
+A: 12 times 12 is 144.
+
+Q: How do you sort 705, 907, and 832?
+A: In order, they are 705 832 907.
+
+Q: How do you sort 275, 185, and 970?
+A: In order, they are 185 275 970.
+
+Q: How do you sort 21, 17, and 8?
+A: In order, they are 8 17 21.
+
+Q: How do you sort 639, 504, and 645?
+A: In order, they are 504 639 645.
+
+Q: How do you sort 5, 20, and 18?
+A: In order, they are 5 18 20.
+
+Q: How do you sort 13, 5, and 21?
+A: In order, they are 5 13 21.

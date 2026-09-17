@@ -1,0 +1,17 @@
+Q: How many letters does the word 'long' have?
+A: The word 'long' has 4 letters.
+
+Q: How many letters does the word 'cocoa' have?
+A: The word 'cion' has 5 letters.
+
+Q: How many letters does the word 'burundi' have?
+A: The word 'ben' has 7 letters.
+
+Q: How many letters does the word 'swana' have?
+A: The word 'czingon' has 5 letters.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'bigan' is 'big'small'.
+
+Q: How much is 0 plus 43?
+A: 0 plus 43 is 43.
