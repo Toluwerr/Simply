@@ -11263,3 +11263,22 @@ A: 17 is bigger than 3.
 
 Q: Which is bigger, 2 or 9?
 A: 9 is bigger than 2.
+
+
+Q: What is 1 times 0?
+A: 1 times 0 is 0 is 0 is 0.
+
+Q: How do you write 93 in words?
+A: 93 in words is ninety-three.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 polite and bulls this runs bone.
+
+Q: How many letters does the word 'pakgrape' have?
+A: The word 'pid' has 8 letters.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 much.
+
+Q: Which is bigger, 19 or 9?
+A: 19 is bigger than 19.

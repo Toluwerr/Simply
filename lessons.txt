@@ -32117,3 +32117,128 @@ A: The currency of the Dominican Republic is the peso.
 
 Q: What currency does Iceland use?
 A: The currency of Iceland is the krona.
+Q: How do you sort 27, 4, and 7?
+A: In order, they are 4 7 27.
+
+Q: How do you sort 41, 929, and 214?
+A: In order, they are 41 214 929.
+
+Q: How do you sort 488, 64, and 715?
+A: In order, they are 64 488 715.
+
+Q: How do you sort 28, 2, and 5?
+A: In order, they are 2 5 28.
+
+Q: How do you sort 69, 537, and 570?
+A: In order, they are 69 537 570.
+
+Q: How do you sort 829, 667, and 582?
+A: In order, they are 582 667 829.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: What is the freezing point of water?
+A: Water freezes at 0 degrees Celsius.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What is the last letter of 'cuba'?
+A: The last letter of 'cuba' is A.
+
+Q: What is the first letter of 'lev'?
+A: The first letter of 'lev' is L.
+
+Q: What is the last letter of 'mongolia'?
+A: The last letter of 'mongolia' is A.
+
+Q: What is the last letter of 'americium'?
+A: The last letter of 'americium' is M.
+
+Q: What is the first letter of 'ireland'?
+A: The first letter of 'ireland' is I.
+
+Q: What is the last letter of 'meow'?
+A: The last letter of 'meow' is W.
+
+Q: What number is the Roman numeral xciv?
+A: The Roman numeral xciv is the number 94.
+
+Q: What is the Roman numeral for 185?
+A: The Roman numeral for 185 is clxxxv.
+
+Q: What is the Roman numeral for 30?
+A: The Roman numeral for 30 is xxx.
+
+Q: What number is the Roman numeral xxii?
+A: The Roman numeral xxii is the number 22.
+
+Q: What is the Roman numeral for 119?
+A: The Roman numeral for 119 is cxix.
+
+Q: What number is the Roman numeral xix?
+A: The Roman numeral xix is the number 19.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does Hungary use?
+A: The currency of Hungary is the forint.
+
+Q: What currency does Iran use?
+A: The currency of Iran is the rial.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
+
+Q: Can you count by ones from 15 to 17?
+A: Counting by ones gives 15 16 17.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
