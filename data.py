@@ -40,7 +40,7 @@ class CharDataset:
         return x, y
 
     @torch.no_grad()
-    def eval_loss(self, model, device, n_batches=20, bs=16, seed=1234):
+    def eval_loss(self, model, device, n_batches=10, bs=8, seed=1234):
         """Deterministic validation loss (fixed seed -> same batches)."""
         g = torch.Generator().manual_seed(seed)
         model.eval()
@@ -51,7 +51,7 @@ class CharDataset:
             )
             x = torch.stack([self.val_data[i:i + self.block_size] for i in ix]).to(device)
             y = torch.stack([self.val_data[i + 1:i + 1 + self.block_size] for i in ix]).to(device)
-            _, loss = model(x, y)
+            _, loss, _ = model(x, y)
             total += loss.item()
         return total / n_batches
 
@@ -93,7 +93,11 @@ class TokenDataset:
         return x, y
 
     @torch.no_grad()
-    def eval_loss(self, model, device, n_batches=20, bs=16, seed=1234):
+    def eval_loss(self, model, device, n_batches=10, bs=8, seed=1234):
+        """Deterministic validation loss (fixed seed -> same batches).
+
+        Sized for the gen-4 brain: fewer, wider batches keep the same
+        wall-clock cost per iteration as gen 3 despite 3.7x parameters."""
         g = torch.Generator().manual_seed(seed)
         model.eval()
         total = 0.0
@@ -103,6 +107,6 @@ class TokenDataset:
             )
             x = torch.stack([self.val_data[i:i + self.block_size] for i in ix]).to(device)
             y = torch.stack([self.val_data[i + 1:i + 1 + self.block_size] for i in ix]).to(device)
-            _, loss = model(x, y)
+            _, loss, _ = model(x, y)
             total += loss.item()
         return total / n_batches

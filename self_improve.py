@@ -30,6 +30,7 @@ import curriculum as CU  # infinite provable lessons per category
 import knowledge as KN  # internet reader: fetch, clean, distill, recall
 import tokenizer as TK  # byte-level BPE: the frozen vocabulary
 import autonomy as AU  # free will: strategies, goals, interests, diary
+import hub as HUB  # champion weights live on GitHub Releases
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 os.chdir(ROOT)
@@ -42,18 +43,22 @@ BEST_DIR = "best"
 LAST_DIR = "last"
 SYN_DIR = "synthetic"
 
-MODEL_KWARGS = dict(block_size=256, n_layer=6, n_head=6, n_embd=192)
-GENERATION = 3      # gen 1 = char model, gen 2 = 1024-BPE, gen 3 = 2048-BPE + bigger brain
+MODEL_KWARGS = dict(block_size=512, n_layer=6, n_head=6, n_embd=384)
+GENERATION = 4      # gen 1 = char model, gen 2 = 1024-BPE, gen 3 = 2048-BPE
+                    # 3.1M brain, gen 4 = 11.6M brain + 512-token context
 
-BOOTSTRAP_STEPS = 600   # used for the very first training run
-DEFAULT_STEPS = 50      # used for every later iteration (3.1M-param brain)
+BOOTSTRAP_STEPS = 200   # used for the very first training run (emergency
+                        # path only - shipped brains arrive pre-trained)
+DEFAULT_STEPS = 24      # per iteration for the 11.6M-param brain (keeps a
+                        # 10-iteration run inside ~20 min on the runner)
 VAL_FRAC = 0.05
-IMPROVE_EPSILON = 0.002  # val loss must drop by at least this much
+IMPROVE_EPSILON = 0.003  # val loss must drop by at least this much
+                         # (eval is 41K tokens now - a touch noisier)
 KNOW_EPSILON = 0.02      # knowledge-quiz accuracy must rise by this much
 LR_START = 3e-3
 LR_MIN = 3e-4
 MAX_CORPUS_CHARS = 8_000_000
-MAX_SYNTH_PER_ITER = 40
+MAX_SYNTH_PER_ITER = 60
 
 # Study mode: Simply trains on a mix of the corpus and a dedicated lesson
 # pool, and the pool is topped up every iteration with fresh provable
@@ -62,9 +67,9 @@ MAX_SYNTH_PER_ITER = 40
 LESSONS_PATH = "lessons.txt"
 LESSON_FRAC = 0.40          # share of batches drawn from the study pool
 READING_FRAC = 0.25         # share of batches drawn from internet text
-LESSONS_POOL_MAX = 800_000  # bytes; oldest lessons trimmed when exceeded
+LESSONS_POOL_MAX = 1_500_000  # bytes; oldest lessons trimmed when exceeded
 SEED_LESSONS_PER_CAT = 30
-TOPUP_PER_ITER = 42         # fresh lessons added per iteration
+TOPUP_PER_ITER = 56         # fresh lessons added per iteration
 TOPUP_CATS = 7              # ...spread over the weakest categories
 
 # What Simply has recalled from its internet reading (subject -> answer),
@@ -123,33 +128,33 @@ def corpus_charset():
 
 
 def ensure_generation(metrics):
-    """Generation 3: a bigger brain on a wider vocabulary.
+    """Generation 4: a much bigger brain on the same frozen vocabulary.
 
-    The transformer grows from 1.1M to ~3.1M parameters (6 layers,
-    6 heads, 192 dims, 256-token context) and the frozen BPE grows
-    from 1024 to 2048 tokens, so one window now holds roughly a page
-    of text. Both changes move to a new token space, so - exactly like
-    the gen-1 -> gen-2 jump - the old brain cannot be carried over:
+    The transformer grows from ~3.1M to ~11.6M parameters (384 dims,
+    512-token context - twice the window of gen 3), while the BPE
+    vocabulary STAYS at 2048: the tokenizer is untouched, so reading
+    memory stays legible and only the brain itself is replaced. Like
+    every generation jump, the old brain cannot be carried over:
     baselines reset and the quiz restarts at zero, while the whole
     archive (corpus, lessons, reading pool, distilled facts) is kept
-    for the fresh brain to relearn from. The tokenizer is retrained
-    ONCE over everything Simply owns, then frozen again."""
+    for the fresh brain to relearn from."""
     if (metrics.get("generation") == GENERATION
-            and metrics.get("tokenizer_vocab") == TK.TOKEN_VOCAB
             and os.path.exists(TK.TOKENIZER_PATH)):
         return
-    text = load_corpus() + load_lessons_text()
-    for extra in (KN.FACTS_PATH, KN.POOL_PATH):
-        if os.path.exists(extra):
-            with open(extra, encoding="utf-8") as f:
-                text += f.read()
-    log(f"generation 3: training byte-level BPE (vocab {TK.TOKEN_VOCAB}) "
-        f"on {len(text):,} chars of archive ...")
-    tok = TK.train(text, TK.TOKEN_VOCAB)
-    tok.save()
+    if not os.path.exists(TK.TOKENIZER_PATH):
+        # tokenizer lost (should not happen): rebuild it from the archive
+        text = load_corpus() + load_lessons_text()
+        for extra in (KN.FACTS_PATH, KN.POOL_PATH):
+            if os.path.exists(extra):
+                with open(extra, encoding="utf-8") as f:
+                    text += f.read()
+        log(f"tokenizer missing - retraining BPE (vocab {TK.TOKEN_VOCAB}) "
+            f"on {len(text):,} chars ...")
+        tok = TK.train(text, TK.TOKEN_VOCAB)
+        tok.save()
     metrics["generation"] = GENERATION
     metrics["token_mode_v1"] = True
-    metrics["tokenizer_vocab"] = tok.vocab_size
+    metrics["tokenizer_vocab"] = TK.TOKEN_VOCAB
     metrics["best_val_loss"] = None
     metrics["val_start"] = None
     metrics["val_end"] = None
@@ -158,10 +163,11 @@ def ensure_generation(metrics):
     metrics["lr"] = LR_START
     metrics["head_chars"] = os.path.getsize(CORPUS_PATH)
     metrics["model_kwargs"] = MODEL_KWARGS
+    metrics["pretrain_steps"] = 0
     save_metrics(metrics)
-    log(f"generation 3 online: vocab {tok.vocab_size}, context "
-        f"{MODEL_KWARGS['block_size']} tokens, ~3.1M parameters - "
-        "fresh brain, full memory")
+    log(f"generation 4 online: vocab {TK.TOKEN_VOCAB} (unchanged), context "
+        f"{MODEL_KWARGS['block_size']} tokens, ~11.6M parameters - "
+        "bigger brain, same frozen vocabulary")
 
 
 def build_dataset(corpus, metrics):
@@ -176,6 +182,26 @@ def build_dataset(corpus, metrics):
                        val_frac=VAL_FRAC,
                        val_start=metrics["val_start"],
                        val_end=metrics["val_end"])
+
+
+def ensure_champion(log=print):
+    """Pull the champion weights from GitHub Releases before training.
+
+    Weights no longer live in git (they would bloat the repo by tens
+    of MB per promotion), so on Actions every run starts by fetching
+    the current best brain from the champion release. Local runs
+    without a token keep whatever is in best/ already."""
+    if not HUB.available():
+        return
+    p = os.path.join(BEST_DIR, "model.pt")
+    if HUB.download_champion(p, log=log):
+        # a stale untracked local brain must never beat the real champion
+        last = os.path.join(LAST_DIR, "model.pt")
+        if os.path.exists(last):
+            try:
+                os.remove(last)
+            except OSError:
+                pass
 
 
 def load_model(ds, device):
@@ -243,7 +269,7 @@ def train_steps(model, ds, steps, batch_size, lr, device, lessons=None,
             reading_batches += 1
         else:
             x, y = ds.batch(batch_size, device, split="train")
-        _, loss = model(x, y)
+        _, loss, _ = model(x, y)
         opt.zero_grad(set_to_none=True)
         loss.backward()
         torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
@@ -899,7 +925,7 @@ def main():
     ap.add_argument("--iterations", type=int, default=1)
     ap.add_argument("--steps", type=int, default=None,
                     help=f"default: {BOOTSTRAP_STEPS} if fresh, else {DEFAULT_STEPS}")
-    ap.add_argument("--batch-size", type=int, default=16)
+    ap.add_argument("--batch-size", type=int, default=8)
     ap.add_argument("--no-push", action="store_true")
     ap.add_argument("--no-net", action="store_true",
                     help="skip the internet reading session (offline runs)")
@@ -919,6 +945,7 @@ def main():
 
     metrics = load_metrics()
     ensure_generation(metrics)
+    ensure_champion(log=log)
     corpus = load_corpus()
     ds = build_dataset(corpus, metrics)
     if metrics["val_start"] is None:
@@ -969,11 +996,11 @@ def main():
         else:
             log(f"pretrain: steps {done} -> {target} "
                 f"({n_params / 1e6:.2f}M params) ...")
-            # Chunked + checkpointed: every 250 steps the partial brain
+            # Chunked + checkpointed: every 100 steps the partial brain
             # is saved to last/, so a pretrain can be resumed after any
             # interruption without losing progress.
             while done < target:
-                chunk = min(250, target - done)
+                chunk = min(100, target - done)
                 train_steps(model, ds, chunk, args.batch_size,
                             2e-3, device, lessons, reading)
                 done += chunk
@@ -1215,9 +1242,17 @@ def main():
         save_checkpoint(model, ds, cand_val, metrics["version"],
                         os.path.join(BEST_DIR, "model.pt"))
         save_metrics(metrics)
+        # the new champion goes to the Releases hub, not to git -
+        # keeps the repo lean no matter how many promotions land
+        if HUB.upload_champion(os.path.join(BEST_DIR, "model.pt"),
+                               metrics["version"], log=log):
+            git("add", "-A")
+            # drop any tracked weight blobs so git stays weight-free
+            git("rm", "-r", "--cached", "--ignore-unmatch",
+                BEST_DIR, LAST_DIR)
         portrait = sample_answer(model, ds, device)
         append_log(
-            f"## Promotion - v{metrics['version']} - weights committed\n"
+            f"## Promotion - v{metrics['version']} - weights promoted to Releases\n"
             f"- **reason**: {why}\n"
             f"- self-portrait, asked \"Who are you?\": *\"{portrait}\"\n"
         )

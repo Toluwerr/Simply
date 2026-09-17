@@ -29,6 +29,7 @@ import re
 import time
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 READING_DIR = os.path.join(ROOT, "reading")
@@ -36,10 +37,11 @@ LEARNED_PATH = os.path.join(READING_DIR, "learned.txt")
 POOL_PATH = os.path.join(READING_DIR, "pool.txt")
 FACTS_PATH = os.path.join(READING_DIR, "facts.txt")
 
-POOL_MAX = 1_200_000   # chars of raw article text kept in rotation
-FACTS_MAX = 3_000      # distilled facts kept in the working set
-ARTICLES_PER_RUN = 30  # fetched per run: 48 runs/day x 30 = ~1,440/day
-FETCH_BUDGET_S = 110   # hard wall-clock budget for the whole refresh
+POOL_MAX = 4_000_000   # chars of raw article text kept in rotation
+FACTS_MAX = 8_000      # distilled facts kept in the working set
+ARTICLES_PER_RUN = 60  # fetched per run: ~90 chained runs/day -> ~5,000/day
+FETCH_BUDGET_S = 150   # hard wall-clock budget for the whole refresh
+FETCH_WORKERS = 6      # parallel article downloads per session
 TOPIC_LIST = [
     "science", "history", "geography", "mathematics", "technology",
     "biology", "physics", "chemistry", "astronomy", "medicine",
@@ -128,9 +130,9 @@ def _pick_titles(n, rng, focus=None):
     if data:
         titles += [x["title"] for x in data.get("query", {}).get("random", [])]
     if focus:
-        topic, limit, offset = focus, max(4, n), rng.randrange(0, 200)
+        topic, limit, offset = focus, max(4, n), rng.randrange(0, 300)
     else:
-        topic, limit, offset = rng.choice(TOPIC_LIST), max(4, n), rng.randrange(0, 150)
+        topic, limit, offset = rng.choice(TOPIC_LIST), max(4, n), rng.randrange(0, 300)
     data = _http_json({"action": "query", "list": "search",
                        "srsearch": topic, "srnamespace": 0,
                        "srlimit": limit, "sroffset": offset,
@@ -151,9 +153,9 @@ def _pick_titles(n, rng, focus=None):
 
 
 def _fetch_extract(title):
-    """Plain-text extract of one article (first ~1400 chars)."""
+    """Plain-text extract of one article (first ~1600 chars)."""
     data = _http_json({"action": "query", "prop": "extracts",
-                       "explaintext": 1, "exchars": 1400,
+                       "explaintext": 1, "exchars": 1600,
                        "titles": title, "redirects": 1})
     if not data:
         return None
@@ -163,6 +165,25 @@ def _fetch_extract(title):
         if ext and len(ext) > 200:
             return ext
     return None
+
+
+def _fetch_many(titles, workers=FETCH_WORKERS):
+    """Fetch several article extracts in parallel. Returns a dict
+    title -> extract (or None). Politeness: a small pool and a short
+    UA; Wikipedia handles this fine, and the whole wave takes seconds
+    instead of minutes."""
+    out = {}
+    if not titles:
+        return out
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        futs = {ex.submit(_fetch_extract, t): t for t in titles}
+        for fut in futs:
+            t = futs[fut]
+            try:
+                out[t] = fut.result()
+            except Exception:
+                out[t] = None
+    return out
 
 
 # --- fact distillation ------------------------------------------------------
@@ -410,14 +431,15 @@ def refresh(metrics, allowed_chars=None, budget_s=FETCH_BUDGET_S,
         if len(home) > 100:
             append_pool_text(home)
 
-    titles = _pick_titles(articles + 8, rng, focus=focus)
-    for title in titles:
+    titles = _pick_titles(articles + 12, rng, focus=focus)
+    # skip everything it has already read, THEN fetch the rest in one
+    # parallel wave (bounded by the wall-clock budget at store time)
+    fresh = [t for t in titles if t.strip().lower() not in known][:articles + 6]
+    extracts = _fetch_many(fresh)
+    for title in fresh:
         if new_articles >= articles or time.time() - t0 > budget_s:
             break
-        key = title.strip().lower()
-        if key in known:
-            continue
-        ext = _fetch_extract(title)
+        ext = extracts.get(title)
         if not ext:
             continue
         ext = _clean_text(ext)
@@ -435,9 +457,8 @@ def refresh(metrics, allowed_chars=None, budget_s=FETCH_BUDGET_S,
             new_facts += 1
         _append_line(POOL_PATH, ext)
         _append_line(LEARNED_PATH, title.strip())
-        known.add(key)
+        known.add(title.strip().lower())
         new_articles += 1
-        time.sleep(0.15)
 
     trim_pool()
     trim_facts()

@@ -116,12 +116,12 @@ def begin_run(a, metrics, rng):
     a["last"] = name
     a["runs"] += 1
     plan = {"strategy": name, "desc": STRATEGIES[name],
-            "articles": 30, "focus": None, "steps_mult": 1.0,
+            "articles": 60, "focus": None, "steps_mult": 1.0,
             "synth_extra": 0, "bold_lr": False}
     if name == "survey":
-        plan["articles"] = 45
+        plan["articles"] = 90
     elif name == "deep_dive":
-        plan["articles"] = 40
+        plan["articles"] = 80
         plan["focus"] = pick_focus(a, rng)
         record_interest(a, plan["focus"])
     elif name == "drill":

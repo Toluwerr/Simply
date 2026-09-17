@@ -10,10 +10,14 @@ name: Simply RSI Loop
 #      ever dies (a failed run stops the chain), cron restarts it.
 #
 # A run does 10 self-improvement iterations = 10 commits, in roughly
-# 15-20 minutes with the gen-3 brain (~3.1M params, 2048-token BPE,
-# 256-token context). Chained continuously that is 600-900 commits/day,
-# comfortably over 500. The queue guard keeps at most one run waiting,
-# so the chain can never pile up on itself.
+# 15-20 minutes with the gen-4 brain (~11.6M params, 2048-token BPE,
+# 512-token context, KV-cached sampling). Chained continuously that is
+# 600-900 commits/day, comfortably over 500. The queue guard keeps at
+# most one run waiting, so the chain can never pile up on itself.
+#
+# Weights are NOT stored in git anymore: each promotion uploads the
+# champion brain to the GitHub Release tagged "champion", and every
+# run starts by pulling it back down. The repo stays lean forever.
 
 on:
   schedule:
@@ -29,8 +33,8 @@ concurrency:
   cancel-in-progress: false
 
 # Full write access: the model commits its own progress, manages its
-# own workflow runs, and holds the issue/PR scopes it can grow into as
-# it learns more about git and GitHub.
+# own workflow runs and Releases, and holds the issue/PR scopes it can
+# grow into as it learns more about git and GitHub.
 permissions:
   contents: write
   actions: write
@@ -55,7 +59,7 @@ jobs:
       - name: Run self-improvement
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python self_improve.py --iterations "${{ inputs.iterations || 10 }}" --synth-batches 2
+        run: python self_improve.py --iterations "${{ inputs.iterations || 10 }}" --batch-size 8 --synth-batches 2
 
       - name: Ensure progress is committed
         run: |
