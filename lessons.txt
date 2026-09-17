@@ -26712,3 +26712,170 @@ A: No, 83 is bigger than 66.
 
 Q: Is 79 bigger than 17?
 A: Yes, 79 is bigger than 17.
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 63 in words?
+A: 63 in words is sixty-three.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 49 in words?
+A: 49 in words is forty-nine.
+
+Q: How do you write 55 in words?
+A: 55 in words is fifty-five.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Japan use?
+A: The currency of Japan is the yen.
+
+Q: What currency does Panama use?
+A: The currency of Panama is the balboa.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: What currency does Chile use?
+A: The currency of Chile is the peso.
+
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
+
+Q: What currency does Senegal use?
+A: The currency of Senegal is the franc.
+
+Q: What currency does the Bahamas use?
+A: The currency of the Bahamas is the dollar.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: How do you sort 787, 706, and 423?
+A: In order, they are 423 706 787.
+
+Q: How do you sort 394, 289, and 337?
+A: In order, they are 289 337 394.
+
+Q: How do you sort 1, 16, and 2?
+A: In order, they are 1 2 16.
+
+Q: How do you sort 24, 8, and 12?
+A: In order, they are 8 12 24.
+
+Q: How do you sort 630, 672, and 103?
+A: In order, they are 103 630 672.
+
+Q: How do you sort 762, 940, and 122?
+A: In order, they are 122 762 940.
+
+Q: How do you sort 802, 846, and 907?
+A: In order, they are 802 846 907.
+
+Q: How do you sort 175, 303, and 415?
+A: In order, they are 175 303 415.
+
+Q: What is the first letter of 'germanium'?
+A: The first letter of 'germanium' is G.
+
+Q: What is the last letter of 'nouakchott'?
+A: The last letter of 'nouakchott' is T.
+
+Q: What is the last letter of 'springfield'?
+A: The last letter of 'springfield' is D.
+
+Q: What is the last letter of 'cyprus'?
+A: The last letter of 'cyprus' is S.
+
+Q: What is the last letter of 'maputo'?
+A: The last letter of 'maputo' is O.
+
+Q: What is the first letter of 'bird'?
+A: The first letter of 'bird' is B.
+
+Q: What is the first letter of 'san'?
+A: The first letter of 'san' is S.
+
+Q: What is the first letter of 'tantalum'?
+A: The first letter of 'tantalum' is T.
