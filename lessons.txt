@@ -53129,3 +53129,170 @@ A: 952 is bigger than 558.
 
 Q: Which is bigger, 17 or 66?
 A: 66 is bigger than 17.
+Q: Which is bigger, 230 or 323?
+A: 323 is bigger than 230.
+
+Q: Which is bigger, 434 or 789?
+A: 789 is bigger than 434.
+
+Q: Which is bigger, 429 or 162?
+A: 429 is bigger than 162.
+
+Q: Which is bigger, 385 or 227?
+A: 385 is bigger than 227.
+
+Q: Which is bigger, 467 or 710?
+A: 710 is bigger than 467.
+
+Q: Is 701 bigger than 564?
+A: Yes, 701 is bigger than 564.
+
+Q: Is 5 bigger than 17?
+A: No, 17 is bigger than 5.
+
+Q: Is 17 bigger than 84?
+A: No, 84 is bigger than 17.
+
+Q: How many letters does the word 'strong' have?
+A: The word 'strong' has 6 letters.
+
+Q: How many letters does the word 'juneau' have?
+A: The word 'juneau' has 6 letters.
+
+Q: How many letters does the word 'full' have?
+A: The word 'full' has 4 letters.
+
+Q: How many letters does the word 'juneau' have?
+A: The word 'juneau' has 6 letters.
+
+Q: How many letters does the word 'taka' have?
+A: The word 'taka' has 4 letters.
+
+Q: How many letters does the word 'quack' have?
+A: The word 'quack' has 5 letters.
+
+Q: How many letters does the word 'neptune' have?
+A: The word 'neptune' has 7 letters.
+
+Q: How many letters does the word 'sri' have?
+A: The word 'sri' has 3 letters.
+
+Q: How do you sort 12, 20, and 4?
+A: In order, they are 4 12 20.
+
+Q: How do you sort 1, 5, and 13?
+A: In order, they are 1 5 13.
+
+Q: How do you sort 926, 932, and 398?
+A: In order, they are 398 926 932.
+
+Q: How do you sort 817, 81, and 49?
+A: In order, they are 49 81 817.
+
+Q: How do you sort 9, 14, and 2?
+A: In order, they are 2 9 14.
+
+Q: How do you sort 421, 582, and 441?
+A: In order, they are 421 441 582.
+
+Q: How do you sort 937, 428, and 803?
+A: In order, they are 428 803 937.
+
+Q: How do you sort 65, 72, and 530?
+A: In order, they are 65 72 530.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What continent is Malta on?
+A: Malta is on the continent of Europe.
+
+Q: What continent is Singapore on?
+A: Singapore is on the continent of Asia.
+
+Q: What continent is Malta on?
+A: Malta is on the continent of Europe.
+
+Q: What continent is Pakistan on?
+A: Pakistan is on the continent of Asia.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: What continent is Malta on?
+A: Malta is on the continent of Europe.
+
+Q: What continent is Nepal on?
+A: Nepal is on the continent of Asia.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 97 in words?
+A: 97 in words is ninety-seven.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 76 in words?
+A: 76 in words is seventy-six.
+
+Q: How do you write 73 in words?
+A: 73 in words is seventy-three.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is the capital of the Central African Republic?
+A: The capital of the Central African Republic is Bangui.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of Vietnam?
+A: The capital of Vietnam is Hanoi.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of Uruguay?
+A: The capital of Uruguay is Montevideo.
+
+Q: What is the capital of the United Arab Emirates?
+A: The capital of the United Arab Emirates is Abu Dhabi.
