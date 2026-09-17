@@ -56406,3 +56406,170 @@ A: The capital of Saint Kitts and Nevis is Basseterre.
 
 Q: What is the capital of Mauritius?
 A: The capital of Mauritius is Port Louis.
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What is the chemical symbol for radium?
+A: The chemical symbol for radium is Ra.
+
+Q: Which element has the chemical symbol Li?
+A: Li is the chemical symbol for lithium.
+
+Q: What is the chemical symbol for arsenic?
+A: The chemical symbol for arsenic is As.
+
+Q: What is the chemical symbol for zirconium?
+A: The chemical symbol for zirconium is Zr.
+
+Q: What is the chemical symbol for chromium?
+A: The chemical symbol for chromium is Cr.
+
+Q: Which element has the chemical symbol Sr?
+A: Sr is the chemical symbol for strontium.
+
+Q: Which element has the chemical symbol F?
+A: F is the chemical symbol for fluorine.
+
+Q: Which element has the chemical symbol V?
+A: V is the chemical symbol for vanadium.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What number is the Roman numeral x?
+A: The Roman numeral x is the number 10.
+
+Q: What is the Roman numeral for 11?
+A: The Roman numeral for 11 is xi.
+
+Q: What number is the Roman numeral lxxviii?
+A: The Roman numeral lxxviii is the number 78.
+
+Q: What number is the Roman numeral dccclxxxvi?
+A: The Roman numeral dccclxxxvi is the number 886.
+
+Q: What number is the Roman numeral dcccxvi?
+A: The Roman numeral dcccxvi is the number 816.
+
+Q: What number is the Roman numeral vi?
+A: The Roman numeral vi is the number 6.
+
+Q: What is the Roman numeral for 35?
+A: The Roman numeral for 35 is xxxv.
+
+Q: What is the Roman numeral for 98?
+A: The Roman numeral for 98 is xcviii.
+
+Q: What is the first letter of 'far'?
+A: The first letter of 'far' is F.
+
+Q: What is the first letter of 'dhaka'?
+A: The first letter of 'dhaka' is D.
+
+Q: What is the first letter of 'latvia'?
+A: The first letter of 'latvia' is L.
+
+Q: What is the first letter of 'planet'?
+A: The first letter of 'planet' is P.
+
+Q: What is the last letter of 'malawi'?
+A: The last letter of 'malawi' is I.
+
+Q: What is the last letter of 'minnesota'?
+A: The last letter of 'minnesota' is A.
+
+Q: What is the last letter of 'eritrea'?
+A: The last letter of 'eritrea' is A.
+
+Q: What is the last letter of 'ohio'?
+A: The last letter of 'ohio' is O.
+
+Q: Is 5 bigger than 1?
+A: Yes, 5 is bigger than 1.
+
+Q: Which is bigger, 52 or 90?
+A: 90 is bigger than 52.
+
+Q: Is 11 bigger than 7?
+A: Yes, 11 is bigger than 7.
+
+Q: Is 14 bigger than 8?
+A: Yes, 14 is bigger than 8.
+
+Q: Which is bigger, 8 or 2?
+A: 8 is bigger than 2.
+
+Q: Is 71 bigger than 58?
+A: Yes, 71 is bigger than 58.
+
+Q: Is 8 bigger than 14?
+A: No, 14 is bigger than 8.
+
+Q: Is 321 bigger than 710?
+A: No, 710 is bigger than 321.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is double 21?
+A: Double 21 is 42.
+
+Q: What is half of 8?
+A: Half of 8 is 4.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is double 49?
+A: Double 49 is 98.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
