@@ -9,8 +9,8 @@
       "reward": 6.0
     },
     "drill": {
-      "tries": 32,
-      "reward": 121.0
+      "tries": 33,
+      "reward": 127.0
     },
     "create": {
       "tries": 1,
