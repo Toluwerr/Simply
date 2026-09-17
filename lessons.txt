@@ -57756,3 +57756,146 @@ A: Double 13 is 26.
 
 Q: What is double 9?
 A: Double 9 is 18.
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What is 2 times 6?
+A: 2 times 6 is 12.
+
+Q: What is 2 times 7?
+A: 2 times 7 is 14.
+
+Q: What is 997 plus 982?
+A: 997 plus 982 is 1979.
+
+Q: What is 9 times 12?
+A: 9 times 12 is 108.
+
+Q: What is 8 times 9?
+A: 8 times 9 is 72.
+
+Q: What is 11 times 9?
+A: 11 times 9 is 99.
+
+Q: What is 17 minus 8?
+A: 17 minus 8 is 9.
+
+Q: What is 2 times 3?
+A: 2 times 3 is 6.
+
+Q: What currency does Nepal use?
+A: The currency of Nepal is the rupee.
+
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordoba.
+
+Q: What currency does Uzbekistan use?
+A: The currency of Uzbekistan is the som.
+
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
+
+Q: What currency does Bosnia and Herzegovina use?
+A: The currency of Bosnia and Herzegovina is the mark.
+
+Q: What currency does Azerbaijan use?
+A: The currency of Azerbaijan is the manat.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 17 in words?
+A: 17 in words is seventeen.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 25 in words?
+A: 25 in words is twenty-five.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: Is 43 bigger than 81?
+A: No, 81 is bigger than 43.
+
+Q: Is 746 bigger than 499?
+A: Yes, 746 is bigger than 499.
+
+Q: Which is bigger, 8 or 20?
+A: 20 is bigger than 8.
+
+Q: Is 1 bigger than 16?
+A: No, 16 is bigger than 1.
+
+Q: Which is bigger, 814 or 422?
+A: 814 is bigger than 422.
+
+Q: Is 192 bigger than 821?
+A: No, 821 is bigger than 192.
+
+Q: Is 13 bigger than 12?
+A: Yes, 13 is bigger than 12.
+
+Q: Is 12 bigger than 3?
+A: Yes, 12 is bigger than 3.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: What is the capital of the United Arab Emirates?
+A: The capital of the United Arab Emirates is Abu Dhabi.
+
+Q: What is the capital of Guinea?
+A: The capital of Guinea is Conakry.
+
+Q: What is the capital of Brunei?
+A: The capital of Brunei is Bandar Seri Begawan.
+
+Q: What is the capital of Kuwait?
+A: The capital of Kuwait is Kuwait City.
+
+Q: What is the capital of the Central African Republic?
+A: The capital of the Central African Republic is Bangui.
+
+Q: What is the capital of El Salvador?
+A: The capital of El Salvador is San Salvador.
+
+Q: What is the capital of Chile?
+A: The capital of Chile is Santiago.
