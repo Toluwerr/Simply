@@ -5,8 +5,8 @@
       "reward": 6.0
     },
     "deep_dive": {
-      "tries": 0,
-      "reward": 0.0
+      "tries": 1,
+      "reward": 6.0
     },
     "drill": {
       "tries": 0,
@@ -28,18 +28,18 @@
   "goals": [
     {
       "kind": "read",
-      "target": 545,
-      "text": "read 545 articles all-time (now 345)"
+      "target": 832,
+      "text": "read 832 articles all-time (now 632)"
+    },
+    {
+      "kind": "master",
+      "cat": "roman",
+      "text": "master the 'roman' subject (quiz 1.0)"
     },
     {
       "kind": "know",
-      "target": 0.25,
-      "text": "lift the knowledge quiz average to 0.25"
-    },
-    {
-      "kind": "write",
-      "target": 537,
-      "text": "write 537 verified examples of its own (now 477)"
+      "target": 0.42,
+      "text": "lift the knowledge quiz average to 0.42"
     }
   ],
   "runs": 2
