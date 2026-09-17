@@ -18087,3 +18087,110 @@ A: Double 48 is 96.
 
 Q: What is half of 6?
 A: Half of 6 is 3.
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Lithuania on?
+A: Lithuania is on the continent of Europe.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: What continent is Myanmar on?
+A: Myanmar is on the continent of Asia.
+
+Q: What continent is Papua New Guinea on?
+A: Papua New Guinea is on the continent of Oceania.
+
+Q: What continent is Bhutan on?
+A: Bhutan is on the continent of Asia.
+
+Q: What is 5 plus 1?
+A: 5 plus 1 is 6.
+
+Q: What is 4 times 12?
+A: 4 times 12 is 48.
+
+Q: What is 72 minus 67?
+A: 72 minus 67 is 5.
+
+Q: What is 576 plus 292?
+A: 576 plus 292 is 868.
+
+Q: What is 847 minus 623?
+A: 847 minus 623 is 224.
+
+Q: What is 10 times 8?
+A: 10 times 8 is 80.
+
+Q: What is the capital of Laos?
+A: The capital of Laos is Vientiane.
+
+Q: What is the capital of Kyrgyzstan?
+A: The capital of Kyrgyzstan is Bishkek.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: What is the capital of Sudan?
+A: The capital of Sudan is Khartoum.
+
+Q: What is the capital of Fiji?
+A: The capital of Fiji is Suva.
+
+Q: What is half of 14?
+A: Half of 14 is 7.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is half of 8?
+A: Half of 8 is 4.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is double 21?
+A: Double 21 is 42.
+
+Q: What is double 16?
+A: Double 16 is 32.
+
+Q: Is 56 bigger than 28?
+A: Yes, 56 is bigger than 28.
+
+Q: Is 294 bigger than 132?
+A: Yes, 294 is bigger than 132.
+
+Q: Which is bigger, 2 or 20?
+A: 20 is bigger than 2.
+
+Q: Is 430 bigger than 601?
+A: No, 601 is bigger than 430.
+
+Q: Which is bigger, 584 or 961?
+A: 961 is bigger than 584.
+
+Q: Which is bigger, 3 or 8?
+A: 8 is bigger than 3.
+
+Q: How do you write 45 in words?
+A: 45 in words is forty-five.
+
+Q: How do you write 59 in words?
+A: 59 in words is fifty-nine.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.

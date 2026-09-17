@@ -3440,3 +3440,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.65 | weakest: arithmetic 0.00, compare 0.00, double_half 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am my of write' is spelled'."
 
+## Iteration 395 - NO_GAIN
+- **when**: 2026-09-17T02:03:36Z
+- **train loss**: 1.4639 | **val loss**: 0.5694 | **run best**: 0.5542
+- **corpus**: 260,965 chars (+7 self-written examples)
+- **internet reading**: +30 articles, +15 facts (807 read all-time)
+- **lr**: 0.0003 | **steps**: 62
+- **knowledge quiz**: avg 0.61 | weakest: arithmetic 0.00, sort 0.00, count 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a small language about a tinyout a tiny GitHub repository."
+
