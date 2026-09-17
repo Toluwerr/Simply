@@ -36577,3 +36577,146 @@ A: Half of 18 is 9.
 
 Q: What is double 49?
 A: Double 49 is 98.
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: How many letters does the word 'making' have?
+A: The word 'making' has 6 letters.
+
+Q: How many letters does the word 'idaho' have?
+A: The word 'idaho' has 5 letters.
+
+Q: How many letters does the word 'kabul' have?
+A: The word 'kabul' has 5 letters.
+
+Q: How many letters does the word 'brave' have?
+A: The word 'brave' has 5 letters.
+
+Q: How many letters does the word 'lazy' have?
+A: The word 'lazy' has 4 letters.
+
+Q: How many letters does the word 'first' have?
+A: The word 'first' has 5 letters.
+
+Q: How many letters does the word 'verde' have?
+A: The word 'verde' has 5 letters.
+
+Q: How many letters does the word 'pyongyang' have?
+A: The word 'pyongyang' has 9 letters.
+
+Q: What is 62 minus 14?
+A: 62 minus 14 is 48.
+
+Q: What is 883 plus 301?
+A: 883 plus 301 is 1184.
+
+Q: What is 68 minus 49?
+A: 68 minus 49 is 19.
+
+Q: What is 44 plus 35?
+A: 44 plus 35 is 79.
+
+Q: What is 8 minus 1?
+A: 8 minus 1 is 7.
+
+Q: What is 674 minus 488?
+A: 674 minus 488 is 186.
+
+Q: What is 258 minus 42?
+A: 258 minus 42 is 216.
+
+Q: What is 11 times 12?
+A: 11 times 12 is 132.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is Morocco on?
+A: Morocco is on the continent of Africa.
+
+Q: What continent is Spain on?
+A: Spain is on the continent of Europe.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: What continent is Afghanistan on?
+A: Afghanistan is on the continent of Asia.
+
+Q: What continent is Kiribati on?
+A: Kiribati is on the continent of Oceania.
+
+Q: What continent is Guinea on?
+A: Guinea is on the continent of Africa.
+
+Q: What continent is Ukraine on?
+A: Ukraine is on the continent of Europe.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What currency does Azerbaijan use?
+A: The currency of Azerbaijan is the manat.
+
+Q: What currency does Bolivia use?
+A: The currency of Bolivia is the boliviano.
+
+Q: What currency does Bulgaria use?
+A: The currency of Bulgaria is the lev.
+
+Q: What currency does Iran use?
+A: The currency of Iran is the rial.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: What currency does Zambia use?
+A: The currency of Zambia is the kwacha.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 48 in words?
+A: 48 in words is forty-eight.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
