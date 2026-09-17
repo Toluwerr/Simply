@@ -52423,3 +52423,170 @@ A: The first letter of 'won' is W.
 
 Q: What is the last letter of 'roseau'?
 A: The last letter of 'roseau' is U.
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: How do you sort 1, 29, and 2?
+A: In order, they are 1 2 29.
+
+Q: How do you sort 274, 749, and 780?
+A: In order, they are 274 749 780.
+
+Q: How do you sort 22, 7, and 2?
+A: In order, they are 2 7 22.
+
+Q: How do you sort 18, 27, and 5?
+A: In order, they are 5 18 27.
+
+Q: How do you sort 28, 5, and 13?
+A: In order, they are 5 13 28.
+
+Q: How do you sort 4, 2, and 24?
+A: In order, they are 2 4 24.
+
+Q: How do you sort 758, 524, and 268?
+A: In order, they are 268 524 758.
+
+Q: How do you sort 620, 931, and 663?
+A: In order, they are 620 663 931.
+
+Q: What is the first letter of 'cairo'?
+A: The first letter of 'cairo' is C.
+
+Q: What is the last letter of 'buenos'?
+A: The last letter of 'buenos' is S.
+
+Q: What is the first letter of 'solid'?
+A: The first letter of 'solid' is S.
+
+Q: What is the first letter of 'zirconium'?
+A: The first letter of 'zirconium' is Z.
+
+Q: What is the first letter of 'making'?
+A: The first letter of 'making' is M.
+
+Q: What is the first letter of 'modern'?
+A: The first letter of 'modern' is M.
+
+Q: What is the last letter of 'montevideo'?
+A: The last letter of 'montevideo' is O.
+
+Q: What is the last letter of 'luanda'?
+A: The last letter of 'luanda' is A.
+
+Q: What continent is Algeria on?
+A: Algeria is on the continent of Africa.
+
+Q: What continent is Mongolia on?
+A: Mongolia is on the continent of Asia.
+
+Q: What continent is North Korea on?
+A: North Korea is on the continent of Asia.
+
+Q: What continent is the Maldives on?
+A: the Maldives is on the continent of Asia.
+
+Q: What continent is Bosnia and Herzegovina on?
+A: Bosnia and Herzegovina is on the continent of Europe.
+
+Q: What continent is Mongolia on?
+A: Mongolia is on the continent of Asia.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is Vanuatu on?
+A: Vanuatu is on the continent of Oceania.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of Papua New Guinea?
+A: The capital of Papua New Guinea is Port Moresby.
+
+Q: What is the capital of North Korea?
+A: The capital of North Korea is Pyongyang.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of Ecuador?
+A: The capital of Ecuador is Quito.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by fives from 35 to 50?
+A: Counting by fives gives 35 40 45 50.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by twos from 6 to 14?
+A: Counting by twos gives 6 8 10 12 14.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by twos from 2 to 12?
+A: Counting by twos gives 2 4 6 8 10 12.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25.
+
+Q: Can you count by ones from 23 to 28?
+A: Counting by ones gives 23 24 25 26 27 28.
+
+Q: Which is bigger, 14 or 9?
+A: 14 is bigger than 9.
+
+Q: Is 430 bigger than 236?
+A: Yes, 430 is bigger than 236.
+
+Q: Which is bigger, 59 or 24?
+A: 59 is bigger than 24.
+
+Q: Is 5 bigger than 19?
+A: No, 19 is bigger than 5.
+
+Q: Which is bigger, 758 or 898?
+A: 898 is bigger than 758.
+
+Q: Is 13 bigger than 14?
+A: No, 14 is bigger than 13.
+
+Q: Which is bigger, 44 or 92?
+A: 92 is bigger than 44.
+
+Q: Is 10 bigger than 11?
+A: No, 11 is bigger than 10.

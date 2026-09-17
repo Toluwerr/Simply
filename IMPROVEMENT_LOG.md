@@ -5528,3 +5528,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"What is Tow do you write 49, 72."
 
+## Iteration 619 - NO_GAIN
+- **when**: 2026-09-17T08:36:05Z
+- **train loss**: 2.6485 | **val loss**: 1.5584 | **run best**: 1.4502
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +38 facts (2,064 read all-time)
+- **lr**: 0.0003 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"The capital of Mak' has 52?"
+
