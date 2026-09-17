@@ -2580,3 +2580,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.57 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-stystyriby-sty-styard."
 
+## Iteration 303 - NO_GAIN
+- **when**: 2026-09-17T00:03:50Z
+- **train loss**: 1.1409 | **val loss**: 0.6975 | **run best**: 0.6799
+- **corpus**: 210,864 chars (+14 self-written examples)
+- **internet reading**: +30 articles, +15 facts (510 read all-time)
+- **lr**: 0.0003 | **steps**: 150
+- **knowledge quiz**: avg 0.65 | weakest: compare 0.00, sort 0.00, letters 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-stystyability."
+
