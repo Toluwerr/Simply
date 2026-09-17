@@ -43002,3 +43002,170 @@ A: 22 is bigger than 14.
 
 Q: Which is bigger, 8 or 20?
 A: 20 is bigger than 8.
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What continent is Kazakhstan on?
+A: Kazakhstan is on the continent of Asia.
+
+Q: What continent is Ukraine on?
+A: Ukraine is on the continent of Europe.
+
+Q: What continent is Zambia on?
+A: Zambia is on the continent of Africa.
+
+Q: What continent is Austria on?
+A: Austria is on the continent of Europe.
+
+Q: What continent is Oman on?
+A: Oman is on the continent of Asia.
+
+Q: What continent is Australia on?
+A: Australia is on the continent of Australia.
+
+Q: What continent is Thailand on?
+A: Thailand is on the continent of Asia.
+
+Q: What continent is Tunisia on?
+A: Tunisia is on the continent of Africa.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: What is the capital of Iraq?
+A: The capital of Iraq is Baghdad.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What is the capital of Saint Lucia?
+A: The capital of Saint Lucia is Castries.
+
+Q: What is the capital of Angola?
+A: The capital of Angola is Luanda.
+
+Q: What is the capital of Croatia?
+A: The capital of Croatia is Zagreb.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the capital of Somalia?
+A: The capital of Somalia is Mogadishu.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you sort 15, 3, and 14?
+A: In order, they are 3 14 15.
+
+Q: How do you sort 277, 15, and 41?
+A: In order, they are 15 41 277.
+
+Q: How do you sort 19, 25, and 7?
+A: In order, they are 7 19 25.
+
+Q: How do you sort 902, 242, and 151?
+A: In order, they are 151 242 902.
+
+Q: How do you sort 887, 60, and 975?
+A: In order, they are 60 887 975.
+
+Q: How do you sort 739, 407, and 762?
+A: In order, they are 407 739 762.
+
+Q: How do you sort 847, 840, and 266?
+A: In order, they are 266 840 847.
+
+Q: How do you sort 9, 12, and 19?
+A: In order, they are 9 12 19.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
