@@ -33104,3 +33104,170 @@ A: 11 is bigger than 7.
 
 Q: Is 364 bigger than 718?
 A: No, 718 is bigger than 364.
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 99 in words?
+A: 99 in words is ninety-nine.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: What currency does Iraq use?
+A: The currency of Iraq is the dinar.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: What currency does Cuba use?
+A: The currency of Cuba is the peso.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does Algeria use?
+A: The currency of Algeria is the dinar.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: How do you sort 19, 23, and 27?
+A: In order, they are 19 23 27.
+
+Q: How do you sort 440, 399, and 119?
+A: In order, they are 119 399 440.
+
+Q: How do you sort 209, 686, and 509?
+A: In order, they are 209 509 686.
+
+Q: How do you sort 465, 635, and 762?
+A: In order, they are 465 635 762.
+
+Q: How do you sort 14, 17, and 3?
+A: In order, they are 3 14 17.
+
+Q: How do you sort 23, 2, and 6?
+A: In order, they are 2 6 23.
+
+Q: How do you sort 20, 13, and 4?
+A: In order, they are 4 13 20.
+
+Q: How do you sort 15, 21, and 10?
+A: In order, they are 10 15 21.
+
+Q: What is the last letter of 'lev'?
+A: The last letter of 'lev' is V.
+
+Q: What is the last letter of 'basseterre'?
+A: The last letter of 'basseterre' is E.
+
+Q: What is the last letter of 'papua'?
+A: The last letter of 'papua' is A.
+
+Q: What is the last letter of 'reykjavik'?
+A: The last letter of 'reykjavik' is K.
+
+Q: What is the first letter of 'rwanda'?
+A: The first letter of 'rwanda' is R.
+
+Q: What is the last letter of 'dysprosium'?
+A: The last letter of 'dysprosium' is M.
+
+Q: What is the first letter of 'asuncion'?
+A: The first letter of 'asuncion' is A.
+
+Q: What is the first letter of 'vietnam'?
+A: The first letter of 'vietnam' is V.
