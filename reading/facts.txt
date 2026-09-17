@@ -4429,3 +4429,48 @@ A: Jessica Brooke Capshaw is an American actress known for her roles as Jamie St
 
 Q: What is Sessility?
 A: Sessility is the state of not having a peduncle a sessile mass or structure lacks a stalk.
+
+Q: What is Transfer learning?
+A: Transfer learning is a technique in machine learning in which knowledge learned from a task is re-used in order to boost performance on a related task.
+
+Q: What is Inanda gaerdesi?
+A: Inanda gaerdesi is a species of beetle of the family Scarabaeidae.
+
+Q: What is Theatre Square?
+A: Theatre Square is a plaza situated in the heart of the city of Rotterdam, and is flanked by the municipal theatre, concert hall, restaurants.
+
+Q: What is Guido Mannari?
+A: Guido Mannari is an Italian actor of film and television.
+
+Q: What is Castlekeeran?
+A: Castlekeeran is a former monastery and a National Monument in County Meath, Ireland.
+
+Q: What is Duniya?
+A: Duniya is a 1968 Indian Hindi-language romantic thriller film written by K.
+
+Q: What is English?
+A: English is the sole official language of the Commonwealth of Nations and of the Association of Southeast Asian Nations .
+
+Q: What is Language death?
+A: Language death is a process in which the level of a speech community's linguistic competence in their language variety decreases.
+
+Q: What is Gothic?
+A: Gothic is a now-extinct East Germanic language that was spoken by the Goths.
+
+Q: What is Cornish?
+A: Cornish is a Celtic language of the Brittonic subgroup that is native to the Cornish people and their homeland, Cornwall.
+
+Q: What is Kyrgyz?
+A: Kyrgyz is a Turkic language of the Kipchak branch spoken in Central Asia.
+
+Q: What is Bulgarian?
+A: Bulgarian is an Eastern South Slavic language spoken in Southeast Europe, primarily in Bulgaria.
+
+Q: What is Hindustani?
+A: Hindustani is an Indo-Aryan language spoken across India's Hindi Belt and Pakistan as the lingua franca of the region.
+
+Q: What is Manx?
+A: Manx is the heritage language of the Manx people.
+
+Q: What is Kurdish?
+A: Kurdish is a Northwestern Iranian language or group of languages spoken by Kurds in the region of Kurdistan, namely in southeast Turkey.

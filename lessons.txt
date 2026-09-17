@@ -54250,3 +54250,146 @@ A: The currency of Paraguay is the guarani.
 
 Q: What currency does Libya use?
 A: The currency of Libya is the dinar.
+Q: How many letters does the word 'maseru' have?
+A: The word 'maseru' has 6 letters.
+
+Q: How many letters does the word 'rubidium' have?
+A: The word 'rubidium' has 8 letters.
+
+Q: How many letters does the word 'ouagadougou' have?
+A: The word 'ouagadougou' has 11 letters.
+
+Q: How many letters does the word 'moines' have?
+A: The word 'moines' has 6 letters.
+
+Q: How many letters does the word 'fluff' have?
+A: The word 'fluff' has 5 letters.
+
+Q: How many letters does the word 'kentucky' have?
+A: The word 'kentucky' has 8 letters.
+
+Q: How many letters does the word 'juneau' have?
+A: The word 'juneau' has 6 letters.
+
+Q: How many letters does the word 'albany' have?
+A: The word 'albany' has 6 letters.
+
+Q: What is the first letter of 'pencil'?
+A: The first letter of 'pencil' is P.
+
+Q: What is the last letter of 'dominica'?
+A: The last letter of 'dominica' is A.
+
+Q: What is the last letter of 'jamaica'?
+A: The last letter of 'jamaica' is A.
+
+Q: What is the last letter of 'fluff'?
+A: The last letter of 'fluff' is F.
+
+Q: What is the first letter of 'rwanda'?
+A: The first letter of 'rwanda' is R.
+
+Q: What is the last letter of 'birr'?
+A: The last letter of 'birr' is R.
+
+Q: What is the first letter of 'tin'?
+A: The first letter of 'tin' is T.
+
+Q: What is the first letter of 'neigh'?
+A: The first letter of 'neigh' is N.
+
+Q: How do you sort 22, 26, and 8?
+A: In order, they are 8 22 26.
+
+Q: How do you sort 26, 11, and 27?
+A: In order, they are 11 26 27.
+
+Q: How do you sort 22, 18, and 26?
+A: In order, they are 18 22 26.
+
+Q: How do you sort 314, 279, and 896?
+A: In order, they are 279 314 896.
+
+Q: How do you sort 308, 740, and 399?
+A: In order, they are 308 399 740.
+
+Q: How do you sort 444, 47, and 412?
+A: In order, they are 47 412 444.
+
+Q: How do you sort 577, 216, and 606?
+A: In order, they are 216 577 606.
+
+Q: How do you sort 17, 4, and 21?
+A: In order, they are 4 17 21.
+
+Q: Is 87 bigger than 11?
+A: Yes, 87 is bigger than 11.
+
+Q: Which is bigger, 45 or 77?
+A: 77 is bigger than 45.
+
+Q: Which is bigger, 17 or 24?
+A: 24 is bigger than 17.
+
+Q: Is 15 bigger than 5?
+A: Yes, 15 is bigger than 5.
+
+Q: Is 15 bigger than 2?
+A: Yes, 15 is bigger than 2.
+
+Q: Is 141 bigger than 404?
+A: No, 404 is bigger than 141.
+
+Q: Is 987 bigger than 624?
+A: Yes, 987 is bigger than 624.
+
+Q: Is 229 bigger than 673?
+A: No, 673 is bigger than 229.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of Palau?
+A: The capital of Palau is Ngerulmud.
+
+Q: What is the capital of Burkina Faso?
+A: The capital of Burkina Faso is Ouagadougou.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.
+
+Q: What is the capital of Haiti?
+A: The capital of Haiti is Port-au-Prince.
+
+Q: What is the capital of Slovenia?
+A: The capital of Slovenia is Ljubljana.
