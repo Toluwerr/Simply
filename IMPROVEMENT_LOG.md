@@ -4260,3 +4260,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Whichan numberd is the numrency of Do."
 
+## Promotion - v16 - weights promoted to Releases
+- **reason**: val_loss 1.7530, was 1.8160
+- self-portrait, asked "Who are you?": *"What curan numeral for of the chemical symbol for g for symbol for pmium?"
+
