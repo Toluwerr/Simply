@@ -31778,3 +31778,128 @@ A: Singapore is on the continent of Asia.
 
 Q: What continent is Iraq on?
 A: Iraq is on the continent of Asia.
+Q: What is half of 20?
+A: Half of 20 is 10.
+
+Q: What is double 15?
+A: Double 15 is 30.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is double 11?
+A: Double 11 is 22.
+
+Q: What is half of 2?
+A: Half of 2 is 1.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What continent is Zimbabwe on?
+A: Zimbabwe is on the continent of Africa.
+
+Q: What continent is Andorra on?
+A: Andorra is on the continent of Europe.
+
+Q: What continent is Benin on?
+A: Benin is on the continent of Africa.
+
+Q: What continent is Colombia on?
+A: Colombia is on the continent of South America.
+
+Q: What continent is Montenegro on?
+A: Montenegro is on the continent of Europe.
+
+Q: What continent is Sweden on?
+A: Sweden is on the continent of Europe.
+
+Q: What is the last letter of 'morocco'?
+A: The last letter of 'morocco' is O.
+
+Q: What is the last letter of 'west'?
+A: The last letter of 'west' is T.
+
+Q: What is the first letter of 'lanthanum'?
+A: The first letter of 'lanthanum' is L.
+
+Q: What is the last letter of 'turkmenistan'?
+A: The last letter of 'turkmenistan' is N.
+
+Q: What is the first letter of 'baht'?
+A: The first letter of 'baht' is B.
+
+Q: What is the last letter of 'frankfort'?
+A: The last letter of 'frankfort' is T.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many sides does a triangle have?
+A: A triangle has 3 sides.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: How many sides does a triangle have?
+A: A triangle has 3 sides.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: How many sides does a triangle have?
+A: A triangle has 3 sides.
+
+Q: Which element has the chemical symbol Hg?
+A: Hg is the chemical symbol for mercury.
+
+Q: Which element has the chemical symbol Ag?
+A: Ag is the chemical symbol for silver.
+
+Q: Which element has the chemical symbol Ar?
+A: Ar is the chemical symbol for argon.
+
+Q: Which element has the chemical symbol Br?
+A: Br is the chemical symbol for bromine.
+
+Q: What is the chemical symbol for helium?
+A: The chemical symbol for helium is He.
+
+Q: Which element has the chemical symbol Rh?
+A: Rh is the chemical symbol for rhodium.
+
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
+
+Q: What is the capital of Guyana?
+A: The capital of Guyana is Georgetown.
+
+Q: What is the capital of El Salvador?
+A: The capital of El Salvador is San Salvador.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of Saint Kitts and Nevis?
+A: The capital of Saint Kitts and Nevis is Basseterre.
