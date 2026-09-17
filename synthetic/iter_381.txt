@@ -1,0 +1,41 @@
+Q: Which is bigger, 2 or 12?
+A: 12 is bigger than 12.
+
+Q: How do you sort 5, 4, and 26?
+A: In order, they are 4 5 26.
+
+Q: Is 0 bigger than 60?
+A: No, 60 is bigger than 50.
+
+Q: Which is bigger, 11 or 1?
+A: 11 is bigger than 6.
+
+Q: Is 5 bigger than 17?
+A: No, 17 is bigger than 5.
+
+Q: Which is bigger, 71 or 15?
+A: 71 is bigger than 31.
+
+Q: Is 0 bigger than 93?
+A: No, 93 is bigger than 53.
+
+Q: Which is bigger, 2 or 18?
+A: 18 is bigger than 2.
+
+Q: Which is bigger, 52 or 28?
+A: 52 is bigger than 24.
+
+Q: Is 5 bigger than 1?
+A: Yes, 5 is bigger than 5.
+
+Q: Which is bigger, 2 or 6?
+A: 6 is bigger than 1.
+
+Q: Is 7 bigger than 3?
+A: Yes, 7 is bigger than 3.
+
+Q: Which is bigger, 20 or 3?
+A: 20 is bigger than 3.
+
+Q: What is the Roman numeral for 61?
+A: The Roman numeral for 61 is lxi.

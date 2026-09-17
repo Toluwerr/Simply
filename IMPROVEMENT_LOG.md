@@ -3310,3 +3310,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.48 | weakest: arithmetic 0.00, compare 0.00, double_half 0.00 | strongest: opposites 1.00, animals 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I am I am rwwwwwwwwwwwwwwwwwwo hum-imply."
 
+## Iteration 381 - NO_GAIN
+- **when**: 2026-09-17T01:42:24Z
+- **train loss**: 1.4010 | **val loss**: 0.5832 | **run best**: 0.5551
+- **corpus**: 252,963 chars (+14 self-written examples)
+- **internet reading**: +27 articles, +12 facts (777 read all-time)
+- **lr**: 0.0008 | **steps**: 62
+- **knowledge quiz**: avg 0.39 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, units 1.00, months 1.00
+- self-portrait, asked "Who are you?": *"I am for the easo of I am Simply, a little modeliano, a with every commit just to the field."
+

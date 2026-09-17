@@ -16535,3 +16535,110 @@ A: The word 'niamey' has 6 letters.
 
 Q: How many letters does the word 'inside' have?
 A: The word 'inside' has 6 letters.
+Q: What is half of 36?
+A: Half of 36 is 18.
+
+Q: What is double 9?
+A: Double 9 is 18.
+
+Q: What is double 59?
+A: Double 59 is 118.
+
+Q: What is double 50?
+A: Double 50 is 100.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: What continent is Burkina Faso on?
+A: Burkina Faso is on the continent of Africa.
+
+Q: What continent is South Sudan on?
+A: South Sudan is on the continent of Africa.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What continent is Morocco on?
+A: Morocco is on the continent of Africa.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What is the last letter of 'vincent'?
+A: The last letter of 'vincent' is T.
+
+Q: What is the last letter of 'laos'?
+A: The last letter of 'laos' is S.
+
+Q: What is the last letter of 'europium'?
+A: The last letter of 'europium' is M.
+
+Q: What is the first letter of 'sound'?
+A: The first letter of 'sound' is S.
+
+Q: What is the last letter of 'curious'?
+A: The last letter of 'curious' is S.
+
+Q: What is the first letter of 'moldova'?
+A: The first letter of 'moldova' is M.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: What is the biggest animal?
+A: The blue whale is the biggest animal.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: What is the capital of Luxembourg?
+A: The capital of Luxembourg is Luxembourg.
+
+Q: What is the capital of Ghana?
+A: The capital of Ghana is Accra.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of Nigeria?
+A: The capital of Nigeria is Abuja.
+
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of the Republic of the Congo?
+A: The capital of the Republic of the Congo is Brazzaville.
+
+Q: Which is bigger, 276 or 800?
+A: 800 is bigger than 276.
+
+Q: Is 19 bigger than 13?
+A: Yes, 19 is bigger than 13.
+
+Q: Which is bigger, 65 or 55?
+A: 65 is bigger than 55.
+
+Q: Which is bigger, 854 or 259?
+A: 854 is bigger than 259.
+
+Q: Which is bigger, 13 or 10?
+A: 13 is bigger than 10.
+
+Q: Which is bigger, 299 or 759?
+A: 759 is bigger than 299.
