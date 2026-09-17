@@ -37111,3 +37111,146 @@ A: The currency of Honduras is the lempira.
 
 Q: What currency does Senegal use?
 A: The currency of Senegal is the franc.
+Q: How many letters does the word 'afghani' have?
+A: The word 'afghani' has 7 letters.
+
+Q: How many letters does the word 'candle' have?
+A: The word 'candle' has 6 letters.
+
+Q: How many letters does the word 'north' have?
+A: The word 'north' has 5 letters.
+
+Q: How many letters does the word 'iceland' have?
+A: The word 'iceland' has 7 letters.
+
+Q: How many letters does the word 'africa' have?
+A: The word 'africa' has 6 letters.
+
+Q: How many letters does the word 'africa' have?
+A: The word 'africa' has 6 letters.
+
+Q: How many letters does the word 'pig' have?
+A: The word 'pig' has 3 letters.
+
+Q: How many letters does the word 'peso' have?
+A: The word 'peso' has 4 letters.
+
+Q: What is the last letter of 'kansas'?
+A: The last letter of 'kansas' is S.
+
+Q: What is the last letter of 'skopje'?
+A: The last letter of 'skopje' is E.
+
+Q: What is the first letter of 'plutonium'?
+A: The first letter of 'plutonium' is P.
+
+Q: What is the first letter of 'riyal'?
+A: The first letter of 'riyal' is R.
+
+Q: What is the last letter of 'emirates'?
+A: The last letter of 'emirates' is S.
+
+Q: What is the first letter of 'hanoi'?
+A: The first letter of 'hanoi' is H.
+
+Q: What is the last letter of 'shark'?
+A: The last letter of 'shark' is K.
+
+Q: What is the last letter of 'richmond'?
+A: The last letter of 'richmond' is D.
+
+Q: How do you sort 6, 14, and 13?
+A: In order, they are 6 13 14.
+
+Q: How do you sort 876, 317, and 147?
+A: In order, they are 147 317 876.
+
+Q: How do you sort 14, 26, and 29?
+A: In order, they are 14 26 29.
+
+Q: How do you sort 12, 24, and 18?
+A: In order, they are 12 18 24.
+
+Q: How do you sort 576, 227, and 813?
+A: In order, they are 227 576 813.
+
+Q: How do you sort 8, 25, and 10?
+A: In order, they are 8 10 25.
+
+Q: How do you sort 480, 336, and 740?
+A: In order, they are 336 480 740.
+
+Q: How do you sort 27, 10, and 29?
+A: In order, they are 10 27 29.
+
+Q: Is 679 bigger than 668?
+A: Yes, 679 is bigger than 668.
+
+Q: Which is bigger, 463 or 448?
+A: 463 is bigger than 448.
+
+Q: Which is bigger, 51 or 69?
+A: 69 is bigger than 51.
+
+Q: Is 24 bigger than 37?
+A: No, 37 is bigger than 24.
+
+Q: Is 540 bigger than 646?
+A: No, 646 is bigger than 540.
+
+Q: Is 2 bigger than 20?
+A: No, 20 is bigger than 2.
+
+Q: Is 84 bigger than 83?
+A: Yes, 84 is bigger than 83.
+
+Q: Which is bigger, 19 or 5?
+A: 19 is bigger than 5.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Lesotho?
+A: The capital of Lesotho is Maseru.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+
+Q: What is the capital of Israel?
+A: The capital of Israel is Jerusalem.
+
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+
+Q: What is the capital of Kenya?
+A: The capital of Kenya is Nairobi.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
+
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.

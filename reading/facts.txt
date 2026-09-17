@@ -2197,3 +2197,69 @@ A: Beard is the classics editor of The Times Literary Supplement, for which she 
 
 Q: What is For this treachery, Tarpeia?
 A: For this treachery, Tarpeia is the first to be punished by being flung from a steep cliff overlooking the Roman Forum...
+
+Q: What is Scala?
+A: Scala is a strongly statically typed high-level general-purpose programming language that supports both object-oriented programming.
+
+Q: What is Sawzall?
+A: Sawzall is a procedural domain-specific programming language, used by Google to process large numbers of individual log records.
+
+Q: What is Whitespace?
+A: Whitespace is an esoteric programming language with syntax where only whitespace characters have meaning - contrasting typical languages that largely.
+
+Q: What is Scheme?
+A: Scheme is a dialect of the Lisp family of programming languages.
+
+Q: What is Drake Dabney?
+A: Drake Dabney is an American professional football tight end for the Green Bay Packers of the National Football League .
+
+Q: What is NK Belie?
+A: NK Belie is a Croatian football club based in the town of Belie.
+
+Q: What is Neft Theater?
+A: Neft Theater is an alternative independent theater based in Kharkiv since 2018.
+
+Q: What is Neft?
+A: Neft is an open theatrical platform, where there is no fixed troupe and classical canons.
+
+Q: What is Christina Tosi?
+A: Christina Tosi is an American chef and cookbook author.
+
+Q: What is Richard Howland Hunt?
+A: Richard Howland Hunt is an American architect.
+
+Q: What is Nicholas Thomas Walker?
+A: Nicholas Thomas Walker is an English professional footballer who plays as a winger for Liversedge.
+
+Q: What is Erettopterus?
+A: Erettopterus is a genus of large predatory eurypterid, an extinct group of aquatic arthropods.
+
+Q: What is George Davis?
+A: George Davis is a Dutch-born American actor.
+
+Q: What is Barthold Georg Niebuhr?
+A: Barthold Georg Niebuhr is a Danish-German statesman, banker.
+
+Q: What is Niebuhr?
+A: Niebuhr is a leader of the Romantic era and symbol of German national spirit that emerged after the defeat at Jena.
+
+Q: What is Brother-sister incest?
+A: Brother-sister incest is a common practice among the Pharaohs of ancient Egypt, both during dynastic and Hellenistic times.
+
+Q: What is Atheism?
+A: Atheism is the rejection of an assertion that a deity exists.
+
+Q: What is Serfdom?
+A: Serfdom is a social class in a feudal system, by which an agricultural laborer is bound to work under their lord's estate, and may not leave.
+
+Q: What is Alastair Sooke?
+A: Alastair Sooke is an English art critic, journalist and broadcaster.
+
+Q: What is Antony?
+A: Antony is a relative and supporter of Julius Caesar, and he served as one of his generals during the conquest of Gaul and Caesar's civil war.
+
+Q: What is Lindsey Davis?
+A: Lindsey Davis is an English historical novelist.
+
+Q: What is Intersexphobia or interphobia?
+A: Intersexphobia or interphobia is the historical and systemic discrimination, violence against, and negative perception of people with intersex traits.
