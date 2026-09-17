@@ -28143,3 +28143,170 @@ A: The capital of Thailand is Bangkok.
 
 Q: What is the capital of Mauritius?
 A: The capital of Mauritius is Port Louis.
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: What is the capital of Sudan?
+A: The capital of Sudan is Khartoum.
+
+Q: What is the capital of Malaysia?
+A: The capital of Malaysia is Kuala Lumpur.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is the capital of the Solomon Islands?
+A: The capital of the Solomon Islands is Honiara.
+
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+
+Q: What is the capital of Guyana?
+A: The capital of Guyana is Georgetown.
+
+Q: What is the capital of the United Arab Emirates?
+A: The capital of the United Arab Emirates is Abu Dhabi.
+
+Q: What is 231 plus 907?
+A: 231 plus 907 is 1138.
+
+Q: What is 39 plus 87?
+A: 39 plus 87 is 126.
+
+Q: What is 7 times 9?
+A: 7 times 9 is 63.
+
+Q: What is 10 plus 45?
+A: 10 plus 45 is 55.
+
+Q: What is 8 times 12?
+A: 8 times 12 is 96.
+
+Q: What is 61 minus 41?
+A: 61 minus 41 is 20.
+
+Q: What is 13 times 12?
+A: 13 times 12 is 156.
+
+Q: What is 60 minus 12?
+A: 60 minus 12 is 48.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: How many letters does the word 'cool' have?
+A: The word 'cool' has 4 letters.
+
+Q: How many letters does the word 'brazzaville' have?
+A: The word 'brazzaville' has 11 letters.
+
+Q: How many letters does the word 'liechtenstein' have?
+A: The word 'liechtenstein' has 13 letters.
+
+Q: How many letters does the word 'april' have?
+A: The word 'april' has 5 letters.
+
+Q: How many letters does the word 'trinidad' have?
+A: The word 'trinidad' has 8 letters.
+
+Q: How many letters does the word 'denver' have?
+A: The word 'denver' has 6 letters.
+
+Q: How many letters does the word 'doha' have?
+A: The word 'doha' has 4 letters.
+
+Q: How many letters does the word 'beryllium' have?
+A: The word 'beryllium' has 9 letters.
+
+Q: What is the last letter of 'picked'?
+A: The last letter of 'picked' is D.
+
+Q: What is the first letter of 'tarawa'?
+A: The first letter of 'tarawa' is T.
+
+Q: What is the first letter of 'gadolinium'?
+A: The first letter of 'gadolinium' is G.
+
+Q: What is the first letter of 'cuba'?
+A: The first letter of 'cuba' is C.
+
+Q: What is the last letter of 'seychelles'?
+A: The last letter of 'seychelles' is S.
+
+Q: What is the first letter of 'platinum'?
+A: The first letter of 'platinum' is P.
+
+Q: What is the first letter of 'zinc'?
+A: The first letter of 'zinc' is Z.
+
+Q: What is the last letter of 'nassau'?
+A: The last letter of 'nassau' is U.
+
+Q: Which is bigger, 302 or 545?
+A: 545 is bigger than 302.
+
+Q: Is 2 bigger than 19?
+A: No, 19 is bigger than 2.
+
+Q: Is 48 bigger than 13?
+A: Yes, 48 is bigger than 13.
+
+Q: Is 84 bigger than 48?
+A: Yes, 84 is bigger than 48.
+
+Q: Is 9 bigger than 6?
+A: Yes, 9 is bigger than 6.
+
+Q: Which is bigger, 688 or 772?
+A: 772 is bigger than 688.
+
+Q: Which is bigger, 19 or 13?
+A: 19 is bigger than 13.
+
+Q: Is 61 bigger than 80?
+A: No, 80 is bigger than 61.
