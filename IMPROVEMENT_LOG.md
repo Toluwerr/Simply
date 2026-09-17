@@ -2840,3 +2840,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.09 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: planets 1.00, letters 1.00, reading 0.00
 - self-portrait, asked "Who are you?": *"I am train it training before very my one trained, so."
 
+## Iteration 331 - NO_GAIN
+- **when**: 2026-09-17T00:33:51Z
+- **train loss**: 1.6161 | **val loss**: 0.7580 | **run best**: 0.7487
+- **corpus**: 229,518 chars (+1 self-written examples)
+- **internet reading**: +36 articles, +28 facts (632 read all-time)
+- **lr**: 0.0015 | **steps**: 50
+- **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, reading 0.00, definitions 0.00
+- self-portrait, asked "Who are you?": *"Double 50 is 36."
+
