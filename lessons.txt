@@ -23713,3 +23713,110 @@ A: 17 is bigger than 4.
 
 Q: Is 14 bigger than 11?
 A: Yes, 14 is bigger than 11.
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by fives from 5 to 15?
+A: Counting by fives gives 5 10 15.
+
+Q: Can you count by twos from 24 to 32?
+A: Counting by twos gives 24 26 28 30 32.
+
+Q: Can you count by ones from 28 to 30?
+A: Counting by ones gives 28 29 30.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: What number is the Roman numeral xlvi?
+A: The Roman numeral xlvi is the number 46.
+
+Q: What number is the Roman numeral cdlxxx?
+A: The Roman numeral cdlxxx is the number 480.
+
+Q: What number is the Roman numeral lxxxiv?
+A: The Roman numeral lxxxiv is the number 84.
+
+Q: What number is the Roman numeral dccclxxii?
+A: The Roman numeral dccclxxii is the number 872.
+
+Q: What number is the Roman numeral xx?
+A: The Roman numeral xx is the number 20.
+
+Q: What is the Roman numeral for 91?
+A: The Roman numeral for 91 is xci.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 22 in words?
+A: 22 in words is twenty-two.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 88 in words?
+A: 88 in words is eighty-eight.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: What is 15 times 12?
+A: 15 times 12 is 180.
+
+Q: What is 186 plus 984?
+A: 186 plus 984 is 1170.
+
+Q: What is 14 minus 11?
+A: 14 minus 11 is 3.
+
+Q: What is 12 times 3?
+A: 12 times 3 is 36.
+
+Q: What is 13 plus 12?
+A: 13 plus 12 is 25.
+
+Q: What is 297 plus 18?
+A: 297 plus 18 is 315.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: How many letters does the word 'arsenic' have?
+A: The word 'arsenic' has 7 letters.
+
+Q: How many letters does the word 'rand' have?
+A: The word 'rand' has 4 letters.
+
+Q: How many letters does the word 'dhabi' have?
+A: The word 'dhabi' has 5 letters.
+
+Q: How many letters does the word 'september' have?
+A: The word 'september' has 9 letters.
+
+Q: How many letters does the word 'with' have?
+A: The word 'with' has 4 letters.
+
+Q: How many letters does the word 'jordan' have?
+A: The word 'jordan' has 6 letters.

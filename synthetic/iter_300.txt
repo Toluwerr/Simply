@@ -1,0 +1,44 @@
+Q: How do you sort 12, 4, and 25?
+A: In order, they are 4 12 25.
+
+Q: What is double 28?
+A: Double 28 is 56.
+
+Q: How do you sort 5, 15, and 19?
+A: In order, they are 5 15 19.
+
+Q: How do you sort 22, 15, and 8?
+A: In order, they are 8 15 22.
+
+Q: Which is bigger, 1 or 95?
+A: 95 is bigger than 1.
+
+Q: How do you sort 28, 7, and 8?
+A: In order, they are 7 8 28.
+
+Q: How do you sort 1, 9, and 26?
+A: In order, they are 1 9 26.
+
+Q: How do you sort 18, 12, and 26?
+A: In order, they are 12 18 26.
+
+Q: How do you sort 15, 28, and 2?
+A: In order, they are 2 15 28.
+
+Q: How do you sort 27, 2, and 17?
+A: In order, they are 2 17 27.
+
+Q: How many letters does the word 'rapid' have?
+A: The word 'sburundi' has 5 letters.
+
+Q: Can you count by ones from 11 to 14?
+A: Counting by ones gives 11 12 13 14.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by fives from 15 to 35?
+A: Counting by fives gives 15 20 25 30 35 35.
+
+Q: Can you count by ones from 11 to 15?
+A: Counting by ones gives 11 12 13 14 15.
