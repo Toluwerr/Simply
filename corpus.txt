@@ -12825,3 +12825,10 @@ A: No, 24 is bigger than 68.
 
 Q: How many letters does the word 'gandomon' have?
 A: The word ' has 8 letters.
+
+
+Q: How many letters does the word 'maiici' have?
+A: The word 'gan'canda' has 6 letters.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Osn hasium.

@@ -51531,3 +51531,170 @@ A: 19 in words is nineteen.
 
 Q: How do you write 92 in words?
 A: 92 in words is ninety-two.
+Q: Which is bigger, 9 or 7?
+A: 9 is bigger than 7.
+
+Q: Is 91 bigger than 51?
+A: Yes, 91 is bigger than 51.
+
+Q: Is 645 bigger than 449?
+A: Yes, 645 is bigger than 449.
+
+Q: Is 14 bigger than 19?
+A: No, 19 is bigger than 14.
+
+Q: Is 33 bigger than 80?
+A: No, 80 is bigger than 33.
+
+Q: Is 31 bigger than 33?
+A: No, 33 is bigger than 31.
+
+Q: Is 701 bigger than 498?
+A: Yes, 701 is bigger than 498.
+
+Q: Which is bigger, 2 or 15?
+A: 15 is bigger than 2.
+
+Q: How many letters does the word 'vilnius' have?
+A: The word 'vilnius' has 7 letters.
+
+Q: How many letters does the word 'malaysia' have?
+A: The word 'malaysia' has 8 letters.
+
+Q: How many letters does the word 'boliviano' have?
+A: The word 'boliviano' has 9 letters.
+
+Q: How many letters does the word 'eager' have?
+A: The word 'eager' has 5 letters.
+
+Q: How many letters does the word 'rocket' have?
+A: The word 'rocket' has 6 letters.
+
+Q: How many letters does the word 'argentina' have?
+A: The word 'argentina' has 9 letters.
+
+Q: How many letters does the word 'brisk' have?
+A: The word 'brisk' has 5 letters.
+
+Q: How many letters does the word 'albany' have?
+A: The word 'albany' has 6 letters.
+
+Q: How do you sort 12, 24, and 3?
+A: In order, they are 3 12 24.
+
+Q: How do you sort 5, 13, and 11?
+A: In order, they are 5 11 13.
+
+Q: How do you sort 13, 20, and 3?
+A: In order, they are 3 13 20.
+
+Q: How do you sort 274, 165, and 213?
+A: In order, they are 165 213 274.
+
+Q: How do you sort 398, 52, and 732?
+A: In order, they are 52 398 732.
+
+Q: How do you sort 376, 463, and 700?
+A: In order, they are 376 463 700.
+
+Q: How do you sort 964, 406, and 836?
+A: In order, they are 406 836 964.
+
+Q: How do you sort 7, 12, and 16?
+A: In order, they are 7 12 16.
+
+Q: What continent is Azerbaijan on?
+A: Azerbaijan is on the continent of Asia.
+
+Q: What continent is Tunisia on?
+A: Tunisia is on the continent of Africa.
+
+Q: What continent is Cyprus on?
+A: Cyprus is on the continent of Asia.
+
+Q: What continent is Nepal on?
+A: Nepal is on the continent of Asia.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: What continent is Vietnam on?
+A: Vietnam is on the continent of Asia.
+
+Q: What continent is Guinea on?
+A: Guinea is on the continent of Africa.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 50 in words?
+A: 50 in words is fifty.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 52 in words?
+A: 52 in words is fifty-two.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 67 in words?
+A: 67 in words is sixty-seven.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: What is the capital of Sao Tome and Principe?
+A: The capital of Sao Tome and Principe is Sao Tome.
+
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of Bahrain?
+A: The capital of Bahrain is Manama.
+
+Q: What is the capital of Paraguay?
+A: The capital of Paraguay is Asuncion.
+
+Q: What is the capital of Lithuania?
+A: The capital of Lithuania is Vilnius.
+
+Q: What is the capital of Sudan?
+A: The capital of Sudan is Khartoum.
+
+Q: What is the capital of Slovenia?
+A: The capital of Slovenia is Ljubljana.
