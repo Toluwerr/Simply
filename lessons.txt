@@ -56158,3 +56158,146 @@ A: Half of 20 is 10.
 
 Q: What is half of 46?
 A: Half of 46 is 23.
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: How many letters does the word 'hampshire' have?
+A: The word 'hampshire' has 9 letters.
+
+Q: How many letters does the word 'fresh' have?
+A: The word 'fresh' has 5 letters.
+
+Q: How many letters does the word 'poor' have?
+A: The word 'poor' has 4 letters.
+
+Q: How many letters does the word 'vanadium' have?
+A: The word 'vanadium' has 8 letters.
+
+Q: How many letters does the word 'jordan' have?
+A: The word 'jordan' has 6 letters.
+
+Q: How many letters does the word 'costa' have?
+A: The word 'costa' has 5 letters.
+
+Q: How many letters does the word 'topeka' have?
+A: The word 'topeka' has 6 letters.
+
+Q: How many letters does the word 'wild' have?
+A: The word 'wild' has 4 letters.
+
+Q: What is 891 minus 164?
+A: 891 minus 164 is 727.
+
+Q: What is 10 times 3?
+A: 10 times 3 is 30.
+
+Q: What is 6 times 8?
+A: 6 times 8 is 48.
+
+Q: What is 4 times 6?
+A: 4 times 6 is 24.
+
+Q: What is 4 times 4?
+A: 4 times 4 is 16.
+
+Q: What is 17 minus 5?
+A: 17 minus 5 is 12.
+
+Q: What is 5 times 4?
+A: 5 times 4 is 20.
+
+Q: What is 6 plus 17?
+A: 6 plus 17 is 23.
+
+Q: What continent is Laos on?
+A: Laos is on the continent of Asia.
+
+Q: What continent is Peru on?
+A: Peru is on the continent of South America.
+
+Q: What continent is Benin on?
+A: Benin is on the continent of Africa.
+
+Q: What continent is Paraguay on?
+A: Paraguay is on the continent of South America.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: What continent is Armenia on?
+A: Armenia is on the continent of Asia.
+
+Q: What continent is Turkey on?
+A: Turkey is on the continent of Asia.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
+
+Q: What currency does Bahrain use?
+A: The currency of Bahrain is the dinar.
+
+Q: What currency does Bosnia and Herzegovina use?
+A: The currency of Bosnia and Herzegovina is the mark.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
