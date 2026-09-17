@@ -3697,3 +3697,99 @@ A: Wells is a term for the First World War .
 
 Q: What is Star Wars?
 A: Star Wars is an American media franchise created by George Lucas.
+
+Q: What is Torch?
+A: Torch is an open-source machine learning library, a scientific computing framework, and a scripting language based on Lua.
+
+Q: What is Maps.me?
+A: Maps.me is a mobile app for Android, iOS and BlackBerry that provides offline maps using OpenStreetMap data.
+
+Q: What is MurmurHash?
+A: MurmurHash is a non-cryptographic hash function suitable for general hash-based lookup.
+
+Q: What is Angel Wings?
+A: Angel Wings is the eighth studio album by Taiwanese recording artist Rainie Yang.
+
+Q: What is Glenholme?
+A: Glenholme is a suburb of Rotorua in the Bay of Plenty Region of New Zealand's North Island.
+
+Q: What is Tales of Nazir?
+A: Tales of Nazir is a Ghanaian comic animation series and a 2016 compilation feature film.
+
+Q: What is James Gary Propp?
+A: James Gary Propp is a professor of mathematics at the University of Massachusetts Lowell.
+
+Q: What is Stowe Marine?
+A: Stowe Marine is a developer and manufacturer of advanced instrumentation systems for racing.
+
+Q: What is Heimdalargaldr?
+A: Heimdalargaldr is an Old Norse poem about the god Heimdallr of Norse mythology.
+
+Q: What is Blackbox?
+A: Blackbox is a 2016 puzzle game developed and designed by Ryan McLeod.
+
+Q: What is Kirin?
+A: Kirin is a village in central Croatia, in the municipality of Gvozd, Sisak-Moslavina County.
+
+Q: What is Araceli Navarro Laso?
+A: Araceli Navarro Laso is a Spanish sabre fencer.
+
+Q: What is Isabella Vandervall?
+A: Isabella Vandervall is an African-American physician, gynecologist and a prominent advocate for the birth control movement in New York City.
+
+Q: What is Isabella?
+A: Isabella is an outstanding student, and graduated high school at 16.
+
+Q: What is Cefn Carnedd?
+A: Cefn Carnedd is an Iron Age hillfort, about 1.5 miles south-west of Caersws, in Powys, Wales.
+
+Q: What is Hesai Technology?
+A: Hesai Technology is a publicly listed Chinese technology company that engages in the development and sales of lidar products such as sensors.
+
+Q: What is Oak Technology?
+A: Oak Technology is an American supplier of semiconductor chips for sound cards, graphics cards and optical storage devices such as CD-ROM.
+
+Q: What is Technology ethics?
+A: Technology ethics is the application of ethical thinking to growing concerns as new technologies continue to rise in prominence.
+
+Q: What is TPV Technology Limited?
+A: TPV Technology Limited is a Fortune China 500 multinational electronics manufacturing company headquartered in Kwun Tong, Hong Kong.
+
+Q: What is Comverse Technology, Inc.?
+A: Comverse Technology, Inc. is a technology company located in Woodbury, New York in the United States.
+
+Q: What is Rimac Technology?
+A: Rimac Technology is a Croatian Automotive industry technology company and Tier 1 supplier specializing in electric vehicle components.
+
+Q: What is Sapphire?
+A: Sapphire is the first company to release a video card with a HDMI connector.
+
+Q: What is Renaissance Technologies LLC?
+A: Renaissance Technologies LLC is an American hedge fund based in East Setauket, New York, on Long Island.
+
+Q: What is IGEL Technology?
+A: IGEL Technology is a multinational software company best known for its operating system, IGEL OS.
+
+Q: What is Originally, IGEL?
+A: Originally, IGEL is a manufacturer of hardware thin clients.
+
+Q: What is Food technology?
+A: Food technology is a branch of food science that addresses the production, preservation.
+
+Q: What is Intellectual property?
+A: Intellectual property is an important instrument of technology transfer.
+
+Q: What is Puck?
+A: Puck is the world's smallest brushless servomotor controller at...
+
+Q: What is Bally Technologies, Inc.?
+A: Bally Technologies, Inc. is an American manufacturer of slot machines and other gambling technology based in Enterprise, Nevada.
+
+Q: What is Argument technology?
+A: Argument technology is a sub-field of collective intelligence.
+
+Q: What is Technology education?
+A: Technology education is the study of technology, in which students learn about the processes and knowledge related to technology.
+
+Q: What is Industrial technology?
+A: Industrial technology is the use of engineering and manufacturing technology to make production faster, simpler, and more efficient.
