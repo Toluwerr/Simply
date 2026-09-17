@@ -29264,3 +29264,170 @@ A: 12 times 18 is 216.
 
 Q: What is 813 plus 549?
 A: 813 plus 549 is 1362.
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What is the chemical symbol for lanthanum?
+A: The chemical symbol for lanthanum is La.
+
+Q: What is the chemical symbol for arsenic?
+A: The chemical symbol for arsenic is As.
+
+Q: What is the chemical symbol for ruthenium?
+A: The chemical symbol for ruthenium is Ru.
+
+Q: What is the chemical symbol for sodium?
+A: The chemical symbol for sodium is Na.
+
+Q: Which element has the chemical symbol Ac?
+A: Ac is the chemical symbol for actinium.
+
+Q: Which element has the chemical symbol Pb?
+A: Pb is the chemical symbol for lead.
+
+Q: What is the chemical symbol for radon?
+A: The chemical symbol for radon is Rn.
+
+Q: Which element has the chemical symbol B?
+A: B is the chemical symbol for boron.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the Roman numeral for 63?
+A: The Roman numeral for 63 is lxiii.
+
+Q: What is the Roman numeral for 48?
+A: The Roman numeral for 48 is xlviii.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What number is the Roman numeral lxxxv?
+A: The Roman numeral lxxxv is the number 85.
+
+Q: What number is the Roman numeral dcclxxxii?
+A: The Roman numeral dcclxxxii is the number 782.
+
+Q: What is the Roman numeral for 81?
+A: The Roman numeral for 81 is lxxxi.
+
+Q: What is the Roman numeral for 939?
+A: The Roman numeral for 939 is cmxxxix.
+
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What is the first letter of 'venus'?
+A: The first letter of 'venus' is V.
+
+Q: What is the last letter of 'niamey'?
+A: The last letter of 'niamey' is Y.
+
+Q: What is the first letter of 'barbuda'?
+A: The first letter of 'barbuda' is B.
+
+Q: What is the first letter of 'gadolinium'?
+A: The first letter of 'gadolinium' is G.
+
+Q: What is the last letter of 'arabia'?
+A: The last letter of 'arabia' is A.
+
+Q: What is the last letter of 'colombo'?
+A: The last letter of 'colombo' is O.
+
+Q: What is the last letter of 'victoria'?
+A: The last letter of 'victoria' is A.
+
+Q: What is the first letter of 'portugal'?
+A: The first letter of 'portugal' is P.
+
+Q: Which is bigger, 382 or 742?
+A: 742 is bigger than 382.
+
+Q: Is 43 bigger than 47?
+A: No, 47 is bigger than 43.
+
+Q: Is 981 bigger than 494?
+A: Yes, 981 is bigger than 494.
+
+Q: Is 21 bigger than 57?
+A: No, 57 is bigger than 21.
+
+Q: Is 69 bigger than 42?
+A: Yes, 69 is bigger than 42.
+
+Q: Is 129 bigger than 999?
+A: No, 999 is bigger than 129.
+
+Q: Which is bigger, 15 or 5?
+A: 15 is bigger than 5.
+
+Q: Which is bigger, 79 or 21?
+A: 79 is bigger than 21.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is half of 8?
+A: Half of 8 is 4.
+
+Q: What is double 22?
+A: Double 22 is 44.
+
+Q: What is double 24?
+A: Double 24 is 48.
+
+Q: What is double 39?
+A: Double 39 is 78.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is double 47?
+A: Double 47 is 94.
+
+Q: What is double 34?
+A: Double 34 is 68.
