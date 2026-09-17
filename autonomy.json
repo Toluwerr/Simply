@@ -24,7 +24,7 @@
   "interests": {
     "ecology": 1
   },
-  "last": "create",
+  "last": "experiment",
   "goals": [
     {
       "kind": "read",
@@ -42,5 +42,5 @@
       "text": "lift the knowledge quiz average to 0.60"
     }
   ],
-  "runs": 4
+  "runs": 5
 }

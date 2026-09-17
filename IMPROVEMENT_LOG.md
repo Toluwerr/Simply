@@ -3113,3 +3113,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: knowledge 0.48, was 0.39; val 0.5780
 - self-portrait, asked "Who are you?": *"I am tant says 'very'."
 
+## Iteration 360 - NO_GAIN
+- **when**: 2026-09-17T01:19:08Z
+- **train loss**: 1.4087 | **val loss**: 0.7164 | **run best**: 0.5780
+- **corpus**: 243,198 chars (+5 self-written examples)
+- **internet reading**: +30 articles, +10 facts (722 read all-time)
+- **lr**: 0.0030 | **steps**: 57
+- **knowledge quiz**: avg 0.30 | weakest: sort 0.00, double_half 0.00, count 0.00 | strongest: animals 1.00, months 1.00, planets 1.00
+- self-portrait, asked "Who are you?": *"0 do you no you spell it 'tenneager': Doft': Do you spell ': C-L-I- 97."
+

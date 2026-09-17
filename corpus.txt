@@ -11006,3 +11006,19 @@ A: 92 in words is ninety-two.
 
 Q: What does 'greedy' mean?
 A: 'greedy' means wanting more than needededed.
+
+
+Q: What is 0 times 97?
+A: 0 times 97 is 0.
+
+Q: What is 0 times 0?
+A: 0 times 0 times 0 is 0.
+
+Q: How many letters does the word 'delenium' have?
+A: The word 'delenium' has 8 letters.
+
+Q: How many letters does the word 'delon' have?
+A: The word 'dalasi' has 5 letters.
+
+Q: What is 1 times 11?
+A: 1 times 11 is 110.

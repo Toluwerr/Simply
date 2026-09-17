@@ -30475,3 +30475,110 @@ A: The last letter of 'algeria' is A.
 
 Q: What is the first letter of 'mogadishu'?
 A: The first letter of 'mogadishu' is M.
+Q: What is the capital of the Republic of the Congo?
+A: The capital of the Republic of the Congo is Brazzaville.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What is the capital of Greece?
+A: The capital of Greece is Athens.
+
+Q: What is the capital of El Salvador?
+A: The capital of El Salvador is San Salvador.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What is double 8?
+A: Double 8 is 16.
+
+Q: What is double 39?
+A: Double 39 is 78.
+
+Q: What is double 30?
+A: Double 30 is 60.
+
+Q: What is double 36?
+A: Double 36 is 72.
+
+Q: What is double 2?
+A: Double 2 is 4.
+
+Q: Is 12 bigger than 13?
+A: No, 13 is bigger than 12.
+
+Q: Is 87 bigger than 31?
+A: Yes, 87 is bigger than 31.
+
+Q: Which is bigger, 498 or 921?
+A: 921 is bigger than 498.
+
+Q: Is 555 bigger than 384?
+A: Yes, 555 is bigger than 384.
+
+Q: Is 322 bigger than 782?
+A: No, 782 is bigger than 322.
+
+Q: Which is bigger, 828 or 947?
+A: 947 is bigger than 828.
+
+Q: Which element has the chemical symbol Ni?
+A: Ni is the chemical symbol for nickel.
+
+Q: What is the chemical symbol for barium?
+A: The chemical symbol for barium is Ba.
+
+Q: What is the chemical symbol for gadolinium?
+A: The chemical symbol for gadolinium is Gd.
+
+Q: What is the chemical symbol for cerium?
+A: The chemical symbol for cerium is Ce.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: Which element has the chemical symbol K?
+A: K is the chemical symbol for potassium.
+
+Q: What currency does Nigeria use?
+A: The currency of Nigeria is the naira.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Croatia use?
+A: The currency of Croatia is the euro.
+
+Q: What currency does North Korea use?
+A: The currency of North Korea is the won.
+
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordoba.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: How many letters does the word 'cow' have?
+A: The word 'cow' has 3 letters.
+
+Q: How many letters does the word 'wizard' have?
+A: The word 'wizard' has 6 letters.
+
+Q: How many letters does the word 'bangui' have?
+A: The word 'bangui' has 6 letters.
+
+Q: How many letters does the word 'malaysia' have?
+A: The word 'malaysia' has 8 letters.
+
+Q: How many letters does the word 'otter' have?
+A: The word 'otter' has 5 letters.
+
+Q: How many letters does the word 'cesium' have?
+A: The word 'cesium' has 6 letters.
