@@ -1,0 +1,53 @@
+Q: Is 0 bigger than 21?
+A: No, 21 is bigger than 21.
+
+Q: Which is bigger, 2 or 90?
+A: 90 is bigger than 2.
+
+Q: Is 11 bigger than 2?
+A: Yes, 11 is bigger than 12.
+
+Q: Is 6 bigger than 2?
+A: Yes, 6 is bigger than 2.
+
+Q: Which is bigger, 50 or 4?
+A: 50 is bigger than 4.
+
+Q: How do you sort 22, 4, and 19?
+A: In order, they are 4 19 22.
+
+Q: Which is bigger, 0 or 1?
+A: 11 is bigger than 6.
+
+Q: Which is bigger, 41 or 65?
+A: 65 is bigger than 43.
+
+Q: Which is bigger, 13 or 17?
+A: 17 is bigger than 17.
+
+Q: Is 84 bigger than 56?
+A: Yes, 84 is bigger than 56.
+
+Q: Is 77 bigger than 90?
+A: No, 90 is bigger than 68.
+
+Q: Is 998 bigger than 578?
+A: Yes, 998 is bigger than 578.
+
+Q: Which is bigger, 10 or 18?
+A: 18 is bigger than 10.
+
+Q: Is 0 bigger than 37?
+A: No, 680 or 37 is bigger than 373.
+
+Q: How many letters does the word 'henium' have?
+A: The word 'henium' has 6 letters.
+
+Q: How do you write 63 in words?
+A: 63 in words is sixty-three.
+
+Q: Which is bigger, 44 or 26?
+A: 44 is bigger than 21.
+
+Q: What number is the Roman numeral xli?
+A: The Roman numeral xli is the number 41.

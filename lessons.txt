@@ -19835,3 +19835,110 @@ A: The word 'washington' has 10 letters.
 
 Q: How many letters does the word 'bismuth' have?
 A: The word 'bismuth' has 7 letters.
+Q: What continent is Lithuania on?
+A: Lithuania is on the continent of Europe.
+
+Q: What continent is Mexico on?
+A: Mexico is on the continent of North America.
+
+Q: What continent is Qatar on?
+A: Qatar is on the continent of Asia.
+
+Q: What continent is Armenia on?
+A: Armenia is on the continent of Asia.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What continent is Tunisia on?
+A: Tunisia is on the continent of Africa.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What is the last letter of 'mongolia'?
+A: The last letter of 'mongolia' is A.
+
+Q: What is the first letter of 'deep'?
+A: The first letter of 'deep' is D.
+
+Q: What is the first letter of 'ruthenium'?
+A: The first letter of 'ruthenium' is R.
+
+Q: What is the last letter of 'barium'?
+A: The last letter of 'barium' is M.
+
+Q: What is the first letter of 'taipei'?
+A: The first letter of 'taipei' is T.
+
+Q: What is the first letter of 'july'?
+A: The first letter of 'july' is J.
+
+Q: How many planets are there?
+A: There are 8 planets.
+
+Q: How many planets are there?
+A: There are 8 planets.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: How do you sort 203, 281, and 883?
+A: In order, they are 203 281 883.
+
+Q: How do you sort 19, 1, and 21?
+A: In order, they are 1 19 21.
+
+Q: How do you sort 971, 619, and 703?
+A: In order, they are 619 703 971.
+
+Q: How do you sort 930, 765, and 931?
+A: In order, they are 765 930 931.
+
+Q: How do you sort 24, 5, and 19?
+A: In order, they are 5 19 24.
+
+Q: How do you sort 811, 913, and 138?
+A: In order, they are 138 811 913.
+
+Q: Which is bigger, 279 or 511?
+A: 511 is bigger than 279.
+
+Q: Which is bigger, 14 or 15?
+A: 15 is bigger than 14.
+
+Q: Which is bigger, 886 or 382?
+A: 886 is bigger than 382.
+
+Q: Which is bigger, 141 or 335?
+A: 335 is bigger than 141.
+
+Q: Is 6 bigger than 17?
+A: No, 17 is bigger than 6.
+
+Q: Which is bigger, 29 or 41?
+A: 41 is bigger than 29.

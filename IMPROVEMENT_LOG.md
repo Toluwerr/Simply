@@ -3588,3 +3588,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.57 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I am I am ran!"
 
+## Iteration 411 - IMPROVED
+- **when**: 2026-09-17T02:20:39Z
+- **train loss**: 1.1723 | **val loss**: 0.5638 | **run best**: 0.5521
+- **corpus**: 275,569 chars (+18 self-written examples)
+- **internet reading**: +30 articles, +7 facts (867 read all-time)
+- **lr**: 0.0003 | **steps**: 62
+- **knowledge quiz**: avg 0.74 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a pall language model that dat does know every fresh?"
+
