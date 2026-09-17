@@ -30368,3 +30368,110 @@ A: 8 minus 6 is 2.
 
 Q: What is 3 times 3?
 A: 3 times 3 is 9.
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is double 6?
+A: Double 6 is 12.
+
+Q: What is double 19?
+A: Double 19 is 38.
+
+Q: What is double 42?
+A: Double 42 is 84.
+
+Q: What is double 25?
+A: Double 25 is 50.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+
+Q: What is the capital of Austria?
+A: The capital of Austria is Vienna.
+
+Q: What is the capital of the Dominican Republic?
+A: The capital of the Dominican Republic is Santo Domingo.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
+
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+
+Q: What is 310 plus 556?
+A: 310 plus 556 is 866.
+
+Q: What is 85 plus 91?
+A: 85 plus 91 is 176.
+
+Q: What is 15 times 15?
+A: 15 times 15 is 225.
+
+Q: What is 11 minus 9?
+A: 11 minus 9 is 2.
+
+Q: What is 14 times 13?
+A: 14 times 13 is 182.
+
+Q: What is 3 times 6?
+A: 3 times 6 is 18.
+
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Jamaica use?
+A: The currency of Jamaica is the dollar.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Colombia use?
+A: The currency of Colombia is the peso.
+
+Q: What is the first letter of 'poland'?
+A: The first letter of 'poland' is P.
+
+Q: What is the first letter of 'deep'?
+A: The first letter of 'deep' is D.
+
+Q: What is the last letter of 'smile'?
+A: The last letter of 'smile' is E.
+
+Q: What is the last letter of 'titanium'?
+A: The last letter of 'titanium' is M.
+
+Q: What is the last letter of 'algeria'?
+A: The last letter of 'algeria' is A.
+
+Q: What is the first letter of 'mogadishu'?
+A: The first letter of 'mogadishu' is M.
