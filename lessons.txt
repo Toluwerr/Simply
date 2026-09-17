@@ -44934,3 +44934,146 @@ A: 'loud' means making a strong sound.
 
 Q: What does 'tidy' mean?
 A: 'tidy' means clean and in order.
+Q: What is 19 plus 74?
+A: 19 plus 74 is 93.
+
+Q: What is 5 times 12?
+A: 5 times 12 is 60.
+
+Q: What is 17 plus 16?
+A: 17 plus 16 is 33.
+
+Q: What is 18 minus 14?
+A: 18 minus 14 is 4.
+
+Q: What is 4 times 2?
+A: 4 times 2 is 8.
+
+Q: What is 862 minus 189?
+A: 862 minus 189 is 673.
+
+Q: What is 988 plus 406?
+A: 988 plus 406 is 1394.
+
+Q: What is 13 times 13?
+A: 13 times 13 is 169.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many sides does a triangle have?
+A: A triangle has 3 sides.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: How many bones does an adult human have?
+A: An adult human has 206 bones.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: Can you count by fives from 35 to 55?
+A: Counting by fives gives 35 40 45 50 55.
+
+Q: Can you count by twos from 32 to 38?
+A: Counting by twos gives 32 34 36 38.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by ones from 31 to 33?
+A: Counting by ones gives 31 32 33.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by twos from 14 to 18?
+A: Counting by twos gives 14 16 18.
+
+Q: Can you count by ones from 27 to 29?
+A: Counting by ones gives 27 28 29.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is double 15?
+A: Double 15 is 30.
+
+Q: What is double 16?
+A: Double 16 is 32.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is half of 58?
+A: Half of 58 is 29.
+
+Q: What is half of 10?
+A: Half of 10 is 5.
+
+Q: What currency does Trinidad and Tobago use?
+A: The currency of Trinidad and Tobago is the dollar.
+
+Q: What currency does Cuba use?
+A: The currency of Cuba is the peso.
+
+Q: What currency does Iceland use?
+A: The currency of Iceland is the krona.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.
+
+Q: What currency does Chile use?
+A: The currency of Chile is the peso.
+
+Q: What currency does Somalia use?
+A: The currency of Somalia is the shilling.
+
+Q: What currency does Egypt use?
+A: The currency of Egypt is the pound.
+
+Q: What currency does Malaysia use?
+A: The currency of Malaysia is the ringgit.
