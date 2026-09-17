@@ -1,0 +1,17 @@
+Q: How many letters does the word 'quiet' have?
+A: The word 'quiet' has 5 letters.
+
+Q: What is the first letter of 'long'?
+A: The first letter of is L.
+
+Q: What is the first letter of 'zebra'?
+A: The first letter of 'zinc'zebra' is Z.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25 32.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: Can you count by ones from 10 to 14?
+A: Counting by ones gives 10 11 12 13 14.
