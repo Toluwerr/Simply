@@ -5008,3 +5008,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Cow many has 30 is the Roman numeral number 21 do you count bigger than 5 in words is the words?"
 
+## Promotion - v23 - weights promoted to Releases
+- **reason**: val_loss 1.5749, was 1.6015
+- self-portrait, asked "Who are you?": *"How many letters does the word 'n of' has 8 letters does a word ' has 5 letters does the word ' have?"
+
