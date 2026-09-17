@@ -26549,3 +26549,110 @@ A: The first letter of 'manama' is M.
 
 Q: What is the first letter of 'woof'?
 A: The first letter of 'woof' is W.
+Q: Can you count by ones from 27 to 31?
+A: Counting by ones gives 27 28 29 30 31.
+
+Q: Can you count by ones from 39 to 42?
+A: Counting by ones gives 39 40 41 42.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: How many letters does the word 'tin' have?
+A: The word 'tin' has 3 letters.
+
+Q: How many letters does the word 'cyprus' have?
+A: The word 'cyprus' has 6 letters.
+
+Q: How many letters does the word 'nairobi' have?
+A: The word 'nairobi' has 7 letters.
+
+Q: How many letters does the word 'tajikistan' have?
+A: The word 'tajikistan' has 10 letters.
+
+Q: How many letters does the word 'fish' have?
+A: The word 'fish' has 4 letters.
+
+Q: How many letters does the word 'slow' have?
+A: The word 'slow' has 4 letters.
+
+Q: How do you sort 535, 384, and 128?
+A: In order, they are 128 384 535.
+
+Q: How do you sort 2, 7, and 4?
+A: In order, they are 2 4 7.
+
+Q: How do you sort 13, 24, and 12?
+A: In order, they are 12 13 24.
+
+Q: How do you sort 11, 28, and 1?
+A: In order, they are 1 11 28.
+
+Q: How do you sort 18, 29, and 2?
+A: In order, they are 2 18 29.
+
+Q: How do you sort 414, 887, and 732?
+A: In order, they are 414 732 887.
+
+Q: What number is the Roman numeral viii?
+A: The Roman numeral viii is the number 8.
+
+Q: What number is the Roman numeral i?
+A: The Roman numeral i is the number 1.
+
+Q: What is the Roman numeral for 10?
+A: The Roman numeral for 10 is x.
+
+Q: What number is the Roman numeral dclxxxviii?
+A: The Roman numeral dclxxxviii is the number 688.
+
+Q: What number is the Roman numeral lxxxvi?
+A: The Roman numeral lxxxvi is the number 86.
+
+Q: What number is the Roman numeral viii?
+A: The Roman numeral viii is the number 8.
+
+Q: Is 10 bigger than 7?
+A: Yes, 10 is bigger than 7.
+
+Q: Is 2 bigger than 9?
+A: No, 9 is bigger than 2.
+
+Q: Which is bigger, 872 or 528?
+A: 872 is bigger than 528.
+
+Q: Is 4 bigger than 1?
+A: Yes, 4 is bigger than 1.
+
+Q: Which is bigger, 31 or 45?
+A: 45 is bigger than 31.
+
+Q: Which is bigger, 498 or 506?
+A: 506 is bigger than 498.
+
+Q: What continent is Tajikistan on?
+A: Tajikistan is on the continent of Asia.
+
+Q: What continent is Bahrain on?
+A: Bahrain is on the continent of Asia.
+
+Q: What continent is Malta on?
+A: Malta is on the continent of Europe.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is Japan on?
+A: Japan is on the continent of Asia.
+
+Q: What continent is Japan on?
+A: Japan is on the continent of Asia.
