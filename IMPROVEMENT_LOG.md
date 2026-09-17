@@ -2589,3 +2589,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.65 | weakest: compare 0.00, sort 0.00, letters 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-stystyability."
 
+## Promotion - v26 - weights committed
+- **reason**: val_loss 0.6799, was 0.6913
+- self-portrait, asked "Who are you?": *"I am Simple transformeration."
+
