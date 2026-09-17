@@ -9480,3 +9480,13 @@ A: Counting by fives gives 15 20 25 30 35 35.
 
 Q: Can you count by ones from 11 to 15?
 A: Counting by ones gives 11 12 13 14 15.
+
+
+Q: What is 0 times 6?
+A: 0 times 6 is 0 is 0.
+
+Q: What is 11 times 1?
+A: 11 times 1 is 11does is 122.
+
+Q: What is 19 plus 90?
+A: 19 plus 90 is 109.

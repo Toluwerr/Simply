@@ -23820,3 +23820,110 @@ A: The word 'with' has 4 letters.
 
 Q: How many letters does the word 'jordan' have?
 A: The word 'jordan' has 6 letters.
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: What currency does Rwanda use?
+A: The currency of Rwanda is the franc.
+
+Q: What currency does Jamaica use?
+A: The currency of Jamaica is the dollar.
+
+Q: What currency does Thailand use?
+A: The currency of Thailand is the baht.
+
+Q: How many letters does the word 'columbia' have?
+A: The word 'columbia' has 8 letters.
+
+Q: How many letters does the word 'cesium' have?
+A: The word 'cesium' has 6 letters.
+
+Q: How many letters does the word 'maine' have?
+A: The word 'maine' has 5 letters.
+
+Q: How many letters does the word 'with' have?
+A: The word 'with' has 4 letters.
+
+Q: How many letters does the word 'oklahoma' have?
+A: The word 'oklahoma' has 8 letters.
+
+Q: How many letters does the word 'botswana' have?
+A: The word 'botswana' has 8 letters.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: What is the chemical symbol for argon?
+A: The chemical symbol for argon is Ar.
+
+Q: What is the chemical symbol for ruthenium?
+A: The chemical symbol for ruthenium is Ru.
+
+Q: What is the chemical symbol for yttrium?
+A: The chemical symbol for yttrium is Y.
+
+Q: Which element has the chemical symbol Ga?
+A: Ga is the chemical symbol for gallium.
+
+Q: What is the chemical symbol for tin?
+A: The chemical symbol for tin is Sn.
+
+Q: What is the chemical symbol for radon?
+A: The chemical symbol for radon is Rn.
+
+Q: What is 49 plus 72?
+A: 49 plus 72 is 121.
+
+Q: What is 75 plus 15?
+A: 75 plus 15 is 90.
+
+Q: What is 4 plus 14?
+A: 4 plus 14 is 18.
+
+Q: What is 34 minus 11?
+A: 34 minus 11 is 23.
+
+Q: What is 20 minus 15?
+A: 20 minus 15 is 5.
+
+Q: What is 17 minus 11?
+A: 17 minus 11 is 6.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.

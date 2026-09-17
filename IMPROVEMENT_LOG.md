@@ -2562,3 +2562,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, numwords 0.00, letters 0.00 | strongest: opposites 1.00, records 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-style transformer with Better the relled every day."
 
+## Iteration 301 - NO_GAIN
+- **when**: 2026-09-17T00:02:11Z
+- **train loss**: 0.6206 | **val loss**: 0.6954 | **run best**: 0.6799
+- **corpus**: 209,116 chars (+3 self-written examples)
+- **internet reading**: +30 articles, +15 facts (510 read all-time)
+- **lr**: 0.0003 | **steps**: 150
+- **knowledge quiz**: avg 0.65 | weakest: arithmetic 0.00, compare 0.00, numwords 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-style transformer forie, irench and and seem compatibility."
+
