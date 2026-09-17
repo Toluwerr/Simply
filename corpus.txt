@@ -9804,3 +9804,64 @@ A: Y is the chemical symbol for yttrium.
 
 Q: How do you sort 19, 1, and 23?
 A: In order, they are 1 19 23.
+
+
+Q: How many letters does the word 'leone' have?
+A: The word 'leape' has 5 letters.
+
+Q: How many letters does the word 'rocket' have?
+A: The word 'rocket' has 6 letters.
+
+Q: How do you sort 24, 20, and 8?
+A: In order, they are 8 20 24.
+
+Q: What is the capital of Laos?
+A: The capital of Laos is Vientiane.
+
+Q: What is the capital of Iran?
+A: The capital of Iran is Tehran.
+
+Q: Which is bigger, 9 or 14?
+A: 14 is bigger than 9.
+
+Q: Is 11 bigger than 3?
+A: Yes, 11 is bigger than 3.
+
+Q: Is 42 bigger than 24?
+A: Yes, 42 is bigger than 12.
+
+Q: How do you sort 26, 6, and 17?
+A: In order, they are 6 17 26.
+
+Q: Is 12 bigger than 5?
+A: Yes, 12 is bigger than 5.
+
+Q: Is 17 bigger than 41?
+A: No, 41 is bigger than 12.
+
+Q: Is 12 bigger than 3?
+A: Yes, 12 is bigger than 3.
+
+Q: Is 12 bigger than 4?
+A: Yes, 12 is bigger than 3.
+
+Q: Which is bigger, 3 or 97?
+A: 97 is bigger than 3.
+
+Q: Is 84 bigger than 66?
+A: Yes, 84 is bigger than 51.
+
+Q: Is 89 bigger than 55?
+A: Yes, 89 is bigger than 55.
+
+Q: Which is bigger, 61 or 12?
+A: 61 is bigger than 12.
+
+Q: Which is bigger, 0 or 17?
+A: 17 is bigger than 17.
+
+Q: Which is bigger, 4 or 93?
+A: 93 is bigger than 4.
+
+Q: Which is bigger, 13 or 4?
+A: 13 is bigger than 4.

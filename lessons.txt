@@ -25140,3 +25140,110 @@ A: A pig says 'oink'.
 
 Q: What sound does a duck make?
 A: A duck says 'quack'.
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is 16 minus 6?
+A: 16 minus 6 is 10.
+
+Q: What is 14 plus 19?
+A: 14 plus 19 is 33.
+
+Q: What is 6 times 8?
+A: 6 times 8 is 48.
+
+Q: What is 14 plus 2?
+A: 14 plus 2 is 16.
+
+Q: What is 31 plus 89?
+A: 31 plus 89 is 120.
+
+Q: What is 99 minus 34?
+A: 99 minus 34 is 65.
+
+Q: Is 17 bigger than 38?
+A: No, 38 is bigger than 17.
+
+Q: Which is bigger, 347 or 176?
+A: 347 is bigger than 176.
+
+Q: Is 35 bigger than 41?
+A: No, 41 is bigger than 35.
+
+Q: Which is bigger, 471 or 607?
+A: 607 is bigger than 471.
+
+Q: Is 352 bigger than 222?
+A: Yes, 352 is bigger than 222.
+
+Q: Is 778 bigger than 506?
+A: Yes, 778 is bigger than 506.
+
+Q: What is the first letter of 'birr'?
+A: The first letter of 'birr' is B.
+
+Q: What is the last letter of 'columbia'?
+A: The last letter of 'columbia' is A.
+
+Q: What is the first letter of 'monrovia'?
+A: The first letter of 'monrovia' is M.
+
+Q: What is the last letter of 'belgrade'?
+A: The last letter of 'belgrade' is E.
+
+Q: What is the last letter of 'lev'?
+A: The last letter of 'lev' is V.
+
+Q: What is the last letter of 'watchful'?
+A: The last letter of 'watchful' is L.
+
+Q: What is the chemical symbol for lead?
+A: The chemical symbol for lead is Pb.
+
+Q: What is the chemical symbol for zirconium?
+A: The chemical symbol for zirconium is Zr.
+
+Q: Which element has the chemical symbol Rn?
+A: Rn is the chemical symbol for radon.
+
+Q: What is the chemical symbol for lead?
+A: The chemical symbol for lead is Pb.
+
+Q: Which element has the chemical symbol Cu?
+A: Cu is the chemical symbol for copper.
+
+Q: Which element has the chemical symbol V?
+A: V is the chemical symbol for vanadium.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is double 29?
+A: Double 29 is 58.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: What is half of 34?
+A: Half of 34 is 17.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
