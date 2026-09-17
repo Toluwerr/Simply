@@ -58734,3 +58734,170 @@ A: The opposite of 'open' is 'closed'.
 
 Q: What is the opposite of 'warm'?
 A: The opposite of 'warm' is 'cool'.
+Q: What currency does Mongolia use?
+A: The currency of Mongolia is the tugrik.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does Senegal use?
+A: The currency of Senegal is the franc.
+
+Q: What currency does Latvia use?
+A: The currency of Latvia is the euro.
+
+Q: What currency does Mexico use?
+A: The currency of Mexico is the peso.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Armenia use?
+A: The currency of Armenia is the dram.
+
+Q: What number is the Roman numeral viii?
+A: The Roman numeral viii is the number 8.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What number is the Roman numeral xiii?
+A: The Roman numeral xiii is the number 13.
+
+Q: What is the Roman numeral for 1?
+A: The Roman numeral for 1 is i.
+
+Q: What number is the Roman numeral xx?
+A: The Roman numeral xx is the number 20.
+
+Q: What is the Roman numeral for 3?
+A: The Roman numeral for 3 is iii.
+
+Q: What is the Roman numeral for 66?
+A: The Roman numeral for 66 is lxvi.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: What is 12 times 19?
+A: 12 times 19 is 228.
+
+Q: What is 13 times 19?
+A: 13 times 19 is 247.
+
+Q: What is 995 minus 831?
+A: 995 minus 831 is 164.
+
+Q: What is 936 minus 634?
+A: 936 minus 634 is 302.
+
+Q: What is 4 times 3?
+A: 4 times 3 is 12.
+
+Q: What is 87 minus 11?
+A: 87 minus 11 is 76.
+
+Q: What is 5 times 9?
+A: 5 times 9 is 45.
+
+Q: What is 6 times 6?
+A: 6 times 6 is 36.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
