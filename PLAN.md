@@ -3,14 +3,14 @@
 _Written by Simply itself, every run. Goals are only checked
 off when the committed metrics actually meet them._
 
-**This run's choice**: `experiment` - study with a bolder learning rate for this run.
+**This run's choice**: `drill` - double the study lessons for its weakest subjects.
 
 ## Goals it set for itself
 
-- [x] master the 'roman' subject (quiz 1.0) - DONE (iteration 369)
+- [x] lift the knowledge quiz average to 0.60 - DONE (iteration 379)
 - [ ] read 832 articles all-time (now 632)
-- [ ] lift the knowledge quiz average to 0.60
 - [ ] read 922 articles all-time (now 722)
+- [ ] read 950 articles all-time (now 750)
 
 ## How it chooses
 
@@ -22,7 +22,7 @@ outcomes (promotions, quiz gains, loss gains). Explore
 |---|---|---|
 | survey | 1 | 6.00 |
 | deep_dive | 1 | 6.00 |
-| drill | 1 | 6.00 |
+| drill | 2 | 6.00 |
 | create | 1 | 6.00 |
 | experiment | 1 | 6.00 |
 

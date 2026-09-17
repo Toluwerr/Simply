@@ -9,8 +9,8 @@
       "reward": 6.0
     },
     "drill": {
-      "tries": 1,
-      "reward": 6.0
+      "tries": 2,
+      "reward": 12.0
     },
     "create": {
       "tries": 1,
@@ -32,14 +32,14 @@
       "text": "read 832 articles all-time (now 632)"
     },
     {
-      "kind": "know",
-      "target": 0.6,
-      "text": "lift the knowledge quiz average to 0.60"
-    },
-    {
       "kind": "read",
       "target": 922,
       "text": "read 922 articles all-time (now 722)"
+    },
+    {
+      "kind": "read",
+      "target": 950,
+      "text": "read 950 articles all-time (now 750)"
     }
   ],
   "runs": 6
