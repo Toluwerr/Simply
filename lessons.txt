@@ -42358,3 +42358,170 @@ A: 58 in words is fifty-eight.
 
 Q: How do you write 85 in words?
 A: 85 in words is eighty-five.
+Q: Is 20 bigger than 6?
+A: Yes, 20 is bigger than 6.
+
+Q: Which is bigger, 423 or 995?
+A: 995 is bigger than 423.
+
+Q: Is 68 bigger than 56?
+A: Yes, 68 is bigger than 56.
+
+Q: Which is bigger, 856 or 919?
+A: 919 is bigger than 856.
+
+Q: Is 418 bigger than 628?
+A: No, 628 is bigger than 418.
+
+Q: Is 13 bigger than 17?
+A: No, 17 is bigger than 13.
+
+Q: Is 468 bigger than 497?
+A: No, 497 is bigger than 468.
+
+Q: Which is bigger, 415 or 579?
+A: 579 is bigger than 415.
+
+Q: How many letters does the word 'riel' have?
+A: The word 'riel' has 4 letters.
+
+Q: How many letters does the word 'germanium' have?
+A: The word 'germanium' has 9 letters.
+
+Q: How many letters does the word 'yen' have?
+A: The word 'yen' has 3 letters.
+
+Q: How many letters does the word 'tegucigalpa' have?
+A: The word 'tegucigalpa' has 11 letters.
+
+Q: How many letters does the word 'malta' have?
+A: The word 'malta' has 5 letters.
+
+Q: How many letters does the word 'bee' have?
+A: The word 'bee' has 3 letters.
+
+Q: How many letters does the word 'rich' have?
+A: The word 'rich' has 4 letters.
+
+Q: How many letters does the word 'port' have?
+A: The word 'port' has 4 letters.
+
+Q: How do you sort 517, 888, and 800?
+A: In order, they are 517 800 888.
+
+Q: How do you sort 21, 23, and 8?
+A: In order, they are 8 21 23.
+
+Q: How do you sort 137, 364, and 77?
+A: In order, they are 77 137 364.
+
+Q: How do you sort 10, 8, and 22?
+A: In order, they are 8 10 22.
+
+Q: How do you sort 15, 23, and 11?
+A: In order, they are 11 15 23.
+
+Q: How do you sort 199, 379, and 685?
+A: In order, they are 199 379 685.
+
+Q: How do you sort 21, 17, and 14?
+A: In order, they are 14 17 21.
+
+Q: How do you sort 550, 476, and 547?
+A: In order, they are 476 547 550.
+
+Q: What continent is Guyana on?
+A: Guyana is on the continent of South America.
+
+Q: What continent is Slovakia on?
+A: Slovakia is on the continent of Europe.
+
+Q: What continent is Monaco on?
+A: Monaco is on the continent of Europe.
+
+Q: What continent is Estonia on?
+A: Estonia is on the continent of Europe.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: What continent is Togo on?
+A: Togo is on the continent of Africa.
+
+Q: What continent is Kenya on?
+A: Kenya is on the continent of Africa.
+
+Q: What continent is Iceland on?
+A: Iceland is on the continent of Europe.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is the capital of the United Arab Emirates?
+A: The capital of the United Arab Emirates is Abu Dhabi.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
+
+Q: What is the capital of Moldova?
+A: The capital of Moldova is Chisinau.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
