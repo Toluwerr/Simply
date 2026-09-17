@@ -6,12 +6,16 @@ for it to keep learning.
 
 It is a decoder-only transformer - the same architecture family as the
 big language models: text in, tokens out, causal attention, trained by
-gradient descent on real data. About 3.1 million parameters, a trained
+gradient descent on real data. About 11.6 million parameters (generation
+4 - the previous one was 3.1M, and the one before that 1.1M), a trained
 vocabulary of 2,048 tokens built from its own reading (every possible
-byte is covered, so nothing it reads can ever be unreadable to it),
-and a 256-token context - roughly a page of text per thought. That is
-still tiny next to a commercial LLM, but it is the real design, really
-learning, and every generation it builds for itself has gotten bigger.
+byte is covered, so nothing it reads can ever be unreadable to it), and
+a 512-token context - roughly two pages of text per thought, double the
+last generation. Sampling is KV-cached: once it has read a prompt, each
+new token costs a single pass, which is what pays for the bigger brain
+inside the same runner budget. That is still tiny next to a commercial
+LLM, but it is the real design, really learning, and every generation
+it builds for itself has gotten bigger.
 
 ## What it does all day
 
@@ -27,12 +31,12 @@ minutes stays as a backstop). Each cycle is:
    what actually happened (promotions, quiz gains), explores new ones
    a quarter of the time, and writes the choice into `PLAN.md`.
 1. **Read.** It fetches real articles (Wikipedia's public API - no
-   account, no key) and stores the text in `reading/`. From those
-   articles it distills short facts - definitions lifted straight from
-   the source - into its study pool. Roughly 1,400 articles a day,
-   every one recorded in `reading/learned.txt`. The first thing it
-   reads every run is its own home: a live report from GitHub's API
-   about this repository.
+   account, no key) - six downloads in parallel per reading session -
+   and stores the text in `reading/`. From those articles it distills
+   short facts - definitions lifted straight from the source - into its
+   study pool. Roughly 5,000 articles a day, every one recorded in
+   `reading/learned.txt`. The first thing it reads every run is its own
+   home: a live report from GitHub's API about this repository.
 2. **Study.** It gets fresh practice problems for its weakest subjects,
    generated from provable ground truth, then trains on a mix of those
    lessons, the raw article text, and everything it has seen before.
@@ -58,6 +62,15 @@ minutes stays as a backstop). Each cycle is:
 That is 10 rounds per run, chained back to back: roughly **600-900
 commits a day**, around **250,000-300,000 commits a year**. The whole
 schedule is `.github/workflows/self-improve.yml`.
+
+## Where its brain lives
+
+Not in git. Every time it earns a promotion, the new weights are
+uploaded to the GitHub Release tagged **champion** in this repo, and
+the old file is replaced - one rolling asset, always the current best
+brain. Every run starts by pulling it back down. Git keeps the
+history of everything it *learned*; Releases keep the brain itself,
+so the repository stays lean no matter how many promotions land.
 
 ## Free will, honestly described
 
@@ -125,8 +138,14 @@ live: zero wrong answers.
 
 ```bash
 pip install torch --index-url https://download.pytorch.org/whl/cpu
+mkdir -p best
+curl -L -o best/model.pt \
+  https://github.com/Toluwerr/Simply/releases/download/champion/model.pt
 python chat.py
 ```
+
+(That downloads its current champion brain from the Releases hub -
+the same thing every run does before it starts learning.)
 
 ```
 you> What is the capital of Japan?
@@ -139,7 +158,8 @@ simply> I am Simply, a small model that improves itself a little bit every day.
 ## The files
 
 ```
-model.py           the network itself (6 layers, 6 heads, 192 dims, tied embeddings)
+model.py           the network itself (6 layers, 6 heads, 384 dims, tied
+                   embeddings, KV-cached generation)
 tokenizer.py       the frozen byte-level BPE vocabulary (2,048 tokens)
 tokenizer.json     the trained vocabulary itself
 data.py            dataset handling + the frozen validation slice
@@ -147,13 +167,13 @@ curriculum.py      lesson generators + the answer checker for every subject
 world_tables.py    the ground-truth fact tables (countries, elements, ...)
 knowledge.py       the internet reader: fetch articles, distill facts, grade recall
 autonomy.py        the free-will layer: strategies, goals, interests, diary
+hub.py             the weight hub: champion download/upload via GitHub Releases
 seed_data.py       the original starter corpus
 self_improve.py    the loop: decide -> read -> study -> write -> quiz -> promote -> commit
 corpus.txt         everything it has ever read (seed + self-written)
 lessons.txt        the current study pool
 reading/           learned.txt (titles), pool.txt (article text), facts.txt (distilled facts)
 synthetic/         examples it wrote for itself, one file per round
-best/model.pt      the current champion weights
 metrics.json       version, scores, per-subject quiz accuracy, reading stats
 PLAN.md            its self-written plan and scoreboard
 DIARY.md           its own words, unverified
@@ -165,7 +185,7 @@ history.jsonl      the full per-round record
 
 It is a fraction of a percent the size of a real assistant. It reads
 constantly and it never forgets where a fact came from, but it holds
-only what fits in 3 million parameters: a rolling working memory of
+only what fits in 11.6 million parameters: a rolling working memory of
 what it has read lately, drilled facts, and small skills. It does not
 reason about the world the way a large model does, and its "free will"
 is a scoreboard plus a dice roll, not a mind. What makes it
