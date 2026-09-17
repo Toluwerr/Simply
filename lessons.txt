@@ -18194,3 +18194,110 @@ A: 95 in words is ninety-five.
 
 Q: How do you write 65 in words?
 A: 65 in words is sixty-five.
+Q: Can you count by twos from 16 to 22?
+A: Counting by twos gives 16 18 20 22.
+
+Q: Can you count by twos from 38 to 48?
+A: Counting by twos gives 38 40 42 44 46 48.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by ones from 38 to 43?
+A: Counting by ones gives 38 39 40 41 42 43.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: How do you sort 8, 20, and 12?
+A: In order, they are 8 12 20.
+
+Q: How do you sort 5, 2, and 24?
+A: In order, they are 2 5 24.
+
+Q: How do you sort 17, 18, and 1?
+A: In order, they are 1 17 18.
+
+Q: How do you sort 29, 3, and 11?
+A: In order, they are 3 11 29.
+
+Q: How do you sort 461, 290, and 424?
+A: In order, they are 290 424 461.
+
+Q: How do you sort 12, 28, and 3?
+A: In order, they are 3 12 28.
+
+Q: What is 3 times 4?
+A: 3 times 4 is 12.
+
+Q: What is 2 times 7?
+A: 2 times 7 is 14.
+
+Q: What is 8 times 9?
+A: 8 times 9 is 72.
+
+Q: What is 945 minus 617?
+A: 945 minus 617 is 328.
+
+Q: What is 17 minus 10?
+A: 17 minus 10 is 7.
+
+Q: What is 11 times 8?
+A: 11 times 8 is 88.
+
+Q: What continent is Zimbabwe on?
+A: Zimbabwe is on the continent of Africa.
+
+Q: What continent is Hungary on?
+A: Hungary is on the continent of Europe.
+
+Q: What continent is Micronesia on?
+A: Micronesia is on the continent of Oceania.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: What continent is Lithuania on?
+A: Lithuania is on the continent of Europe.
+
+Q: How many letters does the word 'gold' have?
+A: The word 'gold' has 4 letters.
+
+Q: How many letters does the word 'domingo' have?
+A: The word 'domingo' has 7 letters.
+
+Q: How many letters does the word 'moo' have?
+A: The word 'moo' has 3 letters.
+
+Q: How many letters does the word 'cold' have?
+A: The word 'cold' has 4 letters.
+
+Q: How many letters does the word 'asia' have?
+A: The word 'asia' has 4 letters.
+
+Q: How many letters does the word 'france' have?
+A: The word 'france' has 6 letters.
