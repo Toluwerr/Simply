@@ -28405,3 +28405,128 @@ A: 53 in words is fifty-three.
 
 Q: How do you write 92 in words?
 A: 92 in words is ninety-two.
+Q: What is the hardest natural substance?
+A: Diamond is the hardest natural substance.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the closest star to Earth?
+A: The sun is the closest star to Earth.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: How many letters does the word 'buzz' have?
+A: The word 'buzz' has 4 letters.
+
+Q: How many letters does the word 'neptune' have?
+A: The word 'neptune' has 7 letters.
+
+Q: How many letters does the word 'copenhagen' have?
+A: The word 'copenhagen' has 10 letters.
+
+Q: How many letters does the word 'boliviano' have?
+A: The word 'boliviano' has 9 letters.
+
+Q: How many letters does the word 'olympia' have?
+A: The word 'olympia' has 7 letters.
+
+Q: How many letters does the word 'zagreb' have?
+A: The word 'zagreb' has 6 letters.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: How do you sort 264, 58, and 476?
+A: In order, they are 58 264 476.
+
+Q: How do you sort 834, 213, and 791?
+A: In order, they are 213 791 834.
+
+Q: How do you sort 5, 1, and 29?
+A: In order, they are 1 5 29.
+
+Q: How do you sort 338, 415, and 791?
+A: In order, they are 338 415 791.
+
+Q: How do you sort 14, 28, and 5?
+A: In order, they are 5 14 28.
+
+Q: How do you sort 871, 872, and 107?
+A: In order, they are 107 871 872.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by fives from 10 to 20?
+A: Counting by fives gives 10 15 20.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by twos from 32 to 40?
+A: Counting by twos gives 32 34 36 38 40.
+
+Q: Can you count by ones from 6 to 10?
+A: Counting by ones gives 6 7 8 9 10.
+
+Q: Can you count by twos from 34 to 44?
+A: Counting by twos gives 34 36 38 40 42 44.
+
+Q: What currency does the Czech Republic use?
+A: The currency of the Czech Republic is the koruna.
+
+Q: What currency does Uganda use?
+A: The currency of Uganda is the shilling.
+
+Q: What currency does India use?
+A: The currency of India is the rupee.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state Rhode Island?
+A: Providence is the capital of Rhode Island.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
