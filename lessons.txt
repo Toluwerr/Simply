@@ -27816,3 +27816,128 @@ A: In order, they are 17 23 26.
 
 Q: How do you sort 21, 5, and 6?
 A: In order, they are 5 6 21.
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordoba.
+
+Q: What currency does Slovakia use?
+A: The currency of Slovakia is the euro.
+
+Q: What currency does Estonia use?
+A: The currency of Estonia is the euro.
+
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Kuwait use?
+A: The currency of Kuwait is the dinar.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
+
+Q: Is 3 bigger than 5?
+A: No, 5 is bigger than 3.
+
+Q: Which is bigger, 435 or 592?
+A: 592 is bigger than 435.
+
+Q: Which is bigger, 553 or 708?
+A: 708 is bigger than 553.
+
+Q: Which is bigger, 4 or 18?
+A: 18 is bigger than 4.
+
+Q: Which is bigger, 68 or 42?
+A: 68 is bigger than 42.
+
+Q: Which is bigger, 49 or 82?
+A: 82 is bigger than 49.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: What is the last letter of 'colombo'?
+A: The last letter of 'colombo' is O.
+
+Q: What is the first letter of 'slightly'?
+A: The first letter of 'slightly' is S.
+
+Q: What is the first letter of 'house'?
+A: The first letter of 'house' is H.
+
+Q: What is the first letter of 'minnesota'?
+A: The first letter of 'minnesota' is M.
+
+Q: What is the first letter of 'vilnius'?
+A: The first letter of 'vilnius' is V.
+
+Q: What is the last letter of 'newly'?
+A: The last letter of 'newly' is Y.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is double 47?
+A: Double 47 is 94.
+
+Q: What is double 17?
+A: Double 17 is 34.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is double 30?
+A: Double 30 is 60.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the capital of Grenada?
+A: The capital of Grenada is Saint George's.
+
+Q: What is the capital of Djibouti?
+A: The capital of Djibouti is Djibouti.
+
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+
+Q: What is the capital of Montenegro?
+A: The capital of Montenegro is Podgorica.
+
+Q: What is the capital of the Central African Republic?
+A: The capital of the Central African Republic is Bangui.
+
+Q: What is the capital of the Netherlands?
+A: The capital of the Netherlands is Amsterdam.

@@ -2894,3 +2894,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.22 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, animals 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I am but a very motivse and my every."
 
+## Iteration 337 - IMPROVED
+- **when**: 2026-09-17T00:41:31Z
+- **train loss**: 1.9764 | **val loss**: 0.6917 | **run best**: 0.6917
+- **corpus**: 230,016 chars (+0 self-written examples)
+- **internet reading**: +36 articles, +28 facts (632 read all-time)
+- **lr**: 0.0015 | **steps**: 50
+- **knowledge quiz**: avg 0.30 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: opposites 1.00, animals 1.00, planets 1.00
+- self-portrait, asked "Who are you?": *"I am by training a small a small."
+
