@@ -58815,3 +58815,170 @@ A: The last letter of 'curious' is S.
 
 Q: What is the first letter of 'vermont'?
 A: The first letter of 'vermont' is V.
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: How do you sort 4, 19, and 20?
+A: In order, they are 4 19 20.
+
+Q: How do you sort 818, 819, and 287?
+A: In order, they are 287 818 819.
+
+Q: How do you sort 1, 13, and 11?
+A: In order, they are 1 11 13.
+
+Q: How do you sort 28, 196, and 804?
+A: In order, they are 28 196 804.
+
+Q: How do you sort 25, 22, and 7?
+A: In order, they are 7 22 25.
+
+Q: How do you sort 769, 991, and 269?
+A: In order, they are 269 769 991.
+
+Q: How do you sort 239, 955, and 855?
+A: In order, they are 239 855 955.
+
+Q: How do you sort 706, 598, and 821?
+A: In order, they are 598 706 821.
+
+Q: What is the last letter of 'zebra'?
+A: The last letter of 'zebra' is A.
+
+Q: What is the first letter of 'phosphorus'?
+A: The first letter of 'phosphorus' is P.
+
+Q: What is the last letter of 'jupiter'?
+A: The last letter of 'jupiter' is R.
+
+Q: What is the last letter of 'cool'?
+A: The last letter of 'cool' is L.
+
+Q: What is the last letter of 'central'?
+A: The last letter of 'central' is L.
+
+Q: What is the first letter of 'wild'?
+A: The first letter of 'wild' is W.
+
+Q: What is the last letter of 'light'?
+A: The last letter of 'light' is T.
+
+Q: What is the last letter of 'vientiane'?
+A: The last letter of 'vientiane' is E.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is Paraguay on?
+A: Paraguay is on the continent of South America.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What continent is Cyprus on?
+A: Cyprus is on the continent of Asia.
+
+Q: What continent is Malaysia on?
+A: Malaysia is on the continent of Asia.
+
+Q: What continent is Jordan on?
+A: Jordan is on the continent of Asia.
+
+Q: What continent is Lebanon on?
+A: Lebanon is on the continent of Asia.
+
+Q: What continent is Moldova on?
+A: Moldova is on the continent of Europe.
+
+Q: What is the capital of Malawi?
+A: The capital of Malawi is Lilongwe.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of Saint Vincent and the Grenadines?
+A: The capital of Saint Vincent and the Grenadines is Kingstown.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: Can you count by ones from 19 to 22?
+A: Counting by ones gives 19 20 21 22.
+
+Q: Can you count by twos from 14 to 18?
+A: Counting by twos gives 14 16 18.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25.
+
+Q: Can you count by ones from 24 to 26?
+A: Counting by ones gives 24 25 26.
+
+Q: Can you count by twos from 8 to 14?
+A: Counting by twos gives 8 10 12 14.
+
+Q: Can you count by ones from 16 to 20?
+A: Counting by ones gives 16 17 18 19 20.
+
+Q: Can you count by fives from 30 to 45?
+A: Counting by fives gives 30 35 40 45.
+
+Q: Can you count by ones from 25 to 28?
+A: Counting by ones gives 25 26 27 28.
+
+Q: Is 8 bigger than 9?
+A: No, 9 is bigger than 8.
+
+Q: Which is bigger, 16 or 5?
+A: 16 is bigger than 5.
+
+Q: Which is bigger, 10 or 13?
+A: 13 is bigger than 10.
+
+Q: Which is bigger, 176 or 974?
+A: 974 is bigger than 176.
+
+Q: Which is bigger, 7 or 19?
+A: 19 is bigger than 7.
+
+Q: Is 388 bigger than 314?
+A: Yes, 388 is bigger than 314.
+
+Q: Which is bigger, 11 or 7?
+A: 11 is bigger than 7.
+
+Q: Is 896 bigger than 950?
+A: No, 950 is bigger than 896.
