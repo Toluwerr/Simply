@@ -42835,3 +42835,170 @@ A: The first letter of 'manama' is M.
 
 Q: What is the first letter of 'bottle'?
 A: The first letter of 'bottle' is B.
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: How do you sort 17, 25, and 12?
+A: In order, they are 12 17 25.
+
+Q: How do you sort 26, 27, and 28?
+A: In order, they are 26 27 28.
+
+Q: How do you sort 21, 2, and 12?
+A: In order, they are 2 12 21.
+
+Q: How do you sort 763, 505, and 860?
+A: In order, they are 505 763 860.
+
+Q: How do you sort 511, 383, and 308?
+A: In order, they are 308 383 511.
+
+Q: How do you sort 13, 27, and 14?
+A: In order, they are 13 14 27.
+
+Q: How do you sort 14, 21, and 19?
+A: In order, they are 14 19 21.
+
+Q: How do you sort 949, 465, and 68?
+A: In order, they are 68 465 949.
+
+Q: What is the first letter of 'fresh'?
+A: The first letter of 'fresh' is F.
+
+Q: What is the last letter of 'iran'?
+A: The last letter of 'iran' is N.
+
+Q: What is the last letter of 'columbus'?
+A: The last letter of 'columbus' is S.
+
+Q: What is the last letter of 'eritrea'?
+A: The last letter of 'eritrea' is A.
+
+Q: What is the last letter of 'baton'?
+A: The last letter of 'baton' is N.
+
+Q: What is the first letter of 'bismarck'?
+A: The first letter of 'bismarck' is B.
+
+Q: What is the first letter of 'boron'?
+A: The first letter of 'boron' is B.
+
+Q: What is the first letter of 'lithium'?
+A: The first letter of 'lithium' is L.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: What continent is Hungary on?
+A: Hungary is on the continent of Europe.
+
+Q: What continent is Namibia on?
+A: Namibia is on the continent of Africa.
+
+Q: What continent is Hungary on?
+A: Hungary is on the continent of Europe.
+
+Q: What continent is Burkina Faso on?
+A: Burkina Faso is on the continent of Africa.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is Bolivia on?
+A: Bolivia is on the continent of South America.
+
+Q: What is the capital of Belarus?
+A: The capital of Belarus is Minsk.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What is the capital of Jordan?
+A: The capital of Jordan is Amman.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What is the capital of Saint Lucia?
+A: The capital of Saint Lucia is Castries.
+
+Q: What is the capital of Jordan?
+A: The capital of Jordan is Amman.
+
+Q: What is the capital of Mali?
+A: The capital of Mali is Bamako.
+
+Q: What is the capital of Israel?
+A: The capital of Israel is Jerusalem.
+
+Q: Can you count by twos from 4 to 12?
+A: Counting by twos gives 4 6 8 10 12.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by ones from 5 to 7?
+A: Counting by ones gives 5 6 7.
+
+Q: Can you count by twos from 10 to 18?
+A: Counting by twos gives 10 12 14 16 18.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by twos from 10 to 18?
+A: Counting by twos gives 10 12 14 16 18.
+
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 25 30 35.
+
+Q: Which is bigger, 537 or 500?
+A: 537 is bigger than 500.
+
+Q: Is 20 bigger than 18?
+A: Yes, 20 is bigger than 18.
+
+Q: Which is bigger, 17 or 3?
+A: 17 is bigger than 3.
+
+Q: Which is bigger, 746 or 512?
+A: 746 is bigger than 512.
+
+Q: Which is bigger, 49 or 84?
+A: 84 is bigger than 49.
+
+Q: Which is bigger, 50 or 29?
+A: 50 is bigger than 29.
+
+Q: Which is bigger, 22 or 14?
+A: 22 is bigger than 14.
+
+Q: Which is bigger, 8 or 20?
+A: 20 is bigger than 8.
