@@ -46761,3 +46761,170 @@ A: 87 in words is eighty-seven.
 
 Q: How do you write 24 in words?
 A: 24 in words is twenty-four.
+Q: Is 20 bigger than 11?
+A: Yes, 20 is bigger than 11.
+
+Q: Which is bigger, 35 or 42?
+A: 42 is bigger than 35.
+
+Q: Which is bigger, 840 or 562?
+A: 840 is bigger than 562.
+
+Q: Is 43 bigger than 78?
+A: No, 78 is bigger than 43.
+
+Q: Which is bigger, 926 or 358?
+A: 926 is bigger than 358.
+
+Q: Is 6 bigger than 17?
+A: No, 17 is bigger than 6.
+
+Q: Is 402 bigger than 848?
+A: No, 848 is bigger than 402.
+
+Q: Which is bigger, 984 or 543?
+A: 984 is bigger than 543.
+
+Q: How many letters does the word 'samarium' have?
+A: The word 'samarium' has 8 letters.
+
+Q: How many letters does the word 'lempira' have?
+A: The word 'lempira' has 7 letters.
+
+Q: How many letters does the word 'swift' have?
+A: The word 'swift' has 5 letters.
+
+Q: How many letters does the word 'solomon' have?
+A: The word 'solomon' has 7 letters.
+
+Q: How many letters does the word 'mercury' have?
+A: The word 'mercury' has 7 letters.
+
+Q: How many letters does the word 'guarani' have?
+A: The word 'guarani' has 7 letters.
+
+Q: How many letters does the word 'china' have?
+A: The word 'china' has 5 letters.
+
+Q: How many letters does the word 'juneau' have?
+A: The word 'juneau' has 6 letters.
+
+Q: How do you sort 5, 21, and 8?
+A: In order, they are 5 8 21.
+
+Q: How do you sort 2, 5, and 3?
+A: In order, they are 2 3 5.
+
+Q: How do you sort 12, 14, and 11?
+A: In order, they are 11 12 14.
+
+Q: How do you sort 23, 18, and 15?
+A: In order, they are 15 18 23.
+
+Q: How do you sort 26, 16, and 19?
+A: In order, they are 16 19 26.
+
+Q: How do you sort 170, 621, and 52?
+A: In order, they are 52 170 621.
+
+Q: How do you sort 765, 673, and 187?
+A: In order, they are 187 673 765.
+
+Q: How do you sort 11, 23, and 27?
+A: In order, they are 11 23 27.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: What continent is Malaysia on?
+A: Malaysia is on the continent of Asia.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What continent is Kiribati on?
+A: Kiribati is on the continent of Oceania.
+
+Q: What continent is Saudi Arabia on?
+A: Saudi Arabia is on the continent of Asia.
+
+Q: What continent is South Korea on?
+A: South Korea is on the continent of Asia.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 39 in words?
+A: 39 in words is thirty-nine.
+
+Q: How do you write 1 in words?
+A: 1 in words is one.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: What is the capital of Finland?
+A: The capital of Finland is Helsinki.
+
+Q: What is the capital of Algeria?
+A: The capital of Algeria is Algiers.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the capital of El Salvador?
+A: The capital of El Salvador is San Salvador.
+
+Q: What is the capital of San Marino?
+A: The capital of San Marino is San Marino.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of Mauritius?
+A: The capital of Mauritius is Port Louis.
