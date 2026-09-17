@@ -39663,3 +39663,170 @@ A: The last letter of 'iceland' is D.
 
 Q: What is the first letter of 'columbus'?
 A: The first letter of 'columbus' is C.
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: How do you sort 1, 12, and 3?
+A: In order, they are 1 3 12.
+
+Q: How do you sort 29, 12, and 2?
+A: In order, they are 2 12 29.
+
+Q: How do you sort 941, 64, and 250?
+A: In order, they are 64 250 941.
+
+Q: How do you sort 983, 16, and 597?
+A: In order, they are 16 597 983.
+
+Q: How do you sort 621, 421, and 495?
+A: In order, they are 421 495 621.
+
+Q: How do you sort 23, 22, and 28?
+A: In order, they are 22 23 28.
+
+Q: How do you sort 1, 16, and 21?
+A: In order, they are 1 16 21.
+
+Q: How do you sort 860, 590, and 933?
+A: In order, they are 590 860 933.
+
+Q: What is the first letter of 'massachusetts'?
+A: The first letter of 'massachusetts' is M.
+
+Q: What is the first letter of 'aires'?
+A: The first letter of 'aires' is A.
+
+Q: What is the last letter of 'lanka'?
+A: The last letter of 'lanka' is A.
+
+Q: What is the first letter of 'barbuda'?
+A: The first letter of 'barbuda' is B.
+
+Q: What is the last letter of 'croak'?
+A: The last letter of 'croak' is K.
+
+Q: What is the first letter of 'russia'?
+A: The first letter of 'russia' is R.
+
+Q: What is the first letter of 'buenos'?
+A: The first letter of 'buenos' is B.
+
+Q: What is the first letter of 'giant'?
+A: The first letter of 'giant' is G.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: What continent is Mongolia on?
+A: Mongolia is on the continent of Asia.
+
+Q: What continent is Madagascar on?
+A: Madagascar is on the continent of Africa.
+
+Q: What continent is Cyprus on?
+A: Cyprus is on the continent of Asia.
+
+Q: What continent is Micronesia on?
+A: Micronesia is on the continent of Oceania.
+
+Q: What continent is Ecuador on?
+A: Ecuador is on the continent of South America.
+
+Q: What continent is Bulgaria on?
+A: Bulgaria is on the continent of Europe.
+
+Q: What is the capital of Madagascar?
+A: The capital of Madagascar is Antananarivo.
+
+Q: What is the capital of Kuwait?
+A: The capital of Kuwait is Kuwait City.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: What is the capital of Albania?
+A: The capital of Albania is Tirana.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: What is the capital of Uganda?
+A: The capital of Uganda is Kampala.
+
+Q: What is the capital of Ukraine?
+A: The capital of Ukraine is Kyiv.
+
+Q: Can you count by fives from 35 to 55?
+A: Counting by fives gives 35 40 45 50 55.
+
+Q: Can you count by ones from 25 to 29?
+A: Counting by ones gives 25 26 27 28 29.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: Can you count by ones from 9 to 11?
+A: Counting by ones gives 9 10 11.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 45.
+
+Q: Which is bigger, 362 or 381?
+A: 381 is bigger than 362.
+
+Q: Is 947 bigger than 950?
+A: No, 950 is bigger than 947.
+
+Q: Is 353 bigger than 306?
+A: Yes, 353 is bigger than 306.
+
+Q: Which is bigger, 16 or 10?
+A: 16 is bigger than 10.
+
+Q: Is 26 bigger than 47?
+A: No, 47 is bigger than 26.
+
+Q: Which is bigger, 889 or 630?
+A: 889 is bigger than 630.
+
+Q: Which is bigger, 8 or 12?
+A: 12 is bigger than 8.
+
+Q: Which is bigger, 763 or 709?
+A: 763 is bigger than 709.
