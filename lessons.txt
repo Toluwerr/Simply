@@ -33691,3 +33691,170 @@ A: The capital of Honduras is Tegucigalpa.
 
 Q: What is the capital of Mauritius?
 A: The capital of Mauritius is Port Louis.
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: What is the capital of Botswana?
+A: The capital of Botswana is Gaborone.
+
+Q: What is the capital of Saudi Arabia?
+A: The capital of Saudi Arabia is Riyadh.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
+
+Q: What is the capital of Kiribati?
+A: The capital of Kiribati is Tarawa.
+
+Q: What is the capital of Brunei?
+A: The capital of Brunei is Bandar Seri Begawan.
+
+Q: What is the capital of Belgium?
+A: The capital of Belgium is Brussels.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+
+Q: What is 6 times 8?
+A: 6 times 8 is 48.
+
+Q: What is 8 times 12?
+A: 8 times 12 is 96.
+
+Q: What is 2 times 4?
+A: 2 times 4 is 8.
+
+Q: What is 11 plus 5?
+A: 11 plus 5 is 16.
+
+Q: What is 6 times 3?
+A: 6 times 3 is 18.
+
+Q: What is 31 plus 70?
+A: 31 plus 70 is 101.
+
+Q: What is 15 plus 18?
+A: 15 plus 18 is 33.
+
+Q: What is 723 minus 20?
+A: 723 minus 20 is 703.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: How many letters does the word 'holmium' have?
+A: The word 'holmium' has 7 letters.
+
+Q: How many letters does the word 'nevada' have?
+A: The word 'nevada' has 6 letters.
+
+Q: How many letters does the word 'wide' have?
+A: The word 'wide' has 4 letters.
+
+Q: How many letters does the word 'equatorial' have?
+A: The word 'equatorial' has 10 letters.
+
+Q: How many letters does the word 'spain' have?
+A: The word 'spain' has 5 letters.
+
+Q: How many letters does the word 'nevada' have?
+A: The word 'nevada' has 6 letters.
+
+Q: How many letters does the word 'quetzal' have?
+A: The word 'quetzal' has 7 letters.
+
+Q: How many letters does the word 'marino' have?
+A: The word 'marino' has 6 letters.
+
+Q: What is the last letter of 'kitts'?
+A: The last letter of 'kitts' is S.
+
+Q: What is the first letter of 'swift'?
+A: The first letter of 'swift' is S.
+
+Q: What is the first letter of 'sheep'?
+A: The first letter of 'sheep' is S.
+
+Q: What is the last letter of 'peru'?
+A: The last letter of 'peru' is U.
+
+Q: What is the first letter of 'zambia'?
+A: The first letter of 'zambia' is Z.
+
+Q: What is the last letter of 'baton'?
+A: The last letter of 'baton' is N.
+
+Q: What is the last letter of 'tuvalu'?
+A: The last letter of 'tuvalu' is U.
+
+Q: What is the last letter of 'juneau'?
+A: The last letter of 'juneau' is U.
+
+Q: Is 897 bigger than 387?
+A: Yes, 897 is bigger than 387.
+
+Q: Which is bigger, 39 or 76?
+A: 76 is bigger than 39.
+
+Q: Is 425 bigger than 407?
+A: Yes, 425 is bigger than 407.
+
+Q: Which is bigger, 5 or 2?
+A: 5 is bigger than 2.
+
+Q: Is 23 bigger than 88?
+A: No, 88 is bigger than 23.
+
+Q: Which is bigger, 182 or 878?
+A: 878 is bigger than 182.
+
+Q: Which is bigger, 82 or 44?
+A: 82 is bigger than 44.
+
+Q: Which is bigger, 190 or 670?
+A: 670 is bigger than 190.
