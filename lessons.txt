@@ -51159,3 +51159,170 @@ A: The opposite of 'first' is 'last'.
 
 Q: What is the opposite of 'full'?
 A: The opposite of 'full' is 'empty'.
+Q: What currency does Venezuela use?
+A: The currency of Venezuela is the bolivar.
+
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Bolivia use?
+A: The currency of Bolivia is the boliviano.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Somalia use?
+A: The currency of Somalia is the shilling.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What number is the Roman numeral cccxcv?
+A: The Roman numeral cccxcv is the number 395.
+
+Q: What is the Roman numeral for 941?
+A: The Roman numeral for 941 is cmxli.
+
+Q: What number is the Roman numeral clxxxix?
+A: The Roman numeral clxxxix is the number 189.
+
+Q: What number is the Roman numeral dccxxxix?
+A: The Roman numeral dccxxxix is the number 739.
+
+Q: What number is the Roman numeral dccxlviii?
+A: The Roman numeral dccxlviii is the number 748.
+
+Q: What is the Roman numeral for 161?
+A: The Roman numeral for 161 is clxi.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What is the Roman numeral for 87?
+A: The Roman numeral for 87 is lxxxvii.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: What is 13 times 14?
+A: 13 times 14 is 182.
+
+Q: What is 392 plus 779?
+A: 392 plus 779 is 1171.
+
+Q: What is 626 plus 680?
+A: 626 plus 680 is 1306.
+
+Q: What is 907 minus 342?
+A: 907 minus 342 is 565.
+
+Q: What is 66 plus 18?
+A: 66 plus 18 is 84.
+
+Q: What is 71 minus 56?
+A: 71 minus 56 is 15.
+
+Q: What is 94 plus 49?
+A: 94 plus 49 is 143.
+
+Q: What is 15 plus 2?
+A: 15 plus 2 is 17.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
