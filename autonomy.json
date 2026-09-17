@@ -24,7 +24,7 @@
   "interests": {
     "ecology": 1
   },
-  "last": "deep_dive",
+  "last": "drill",
   "goals": [
     {
       "kind": "read",
@@ -42,5 +42,5 @@
       "text": "lift the knowledge quiz average to 0.42"
     }
   ],
-  "runs": 2
+  "runs": 3
 }

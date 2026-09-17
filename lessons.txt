@@ -28173,3 +28173,110 @@ A: In order, they are 3 13 29.
 
 Q: How do you sort 846, 52, and 441?
 A: In order, they are 52 441 846.
+Q: What is the first letter of 'calm'?
+A: The first letter of 'calm' is C.
+
+Q: What is the first letter of 'slovakia'?
+A: The first letter of 'slovakia' is S.
+
+Q: What is the last letter of 'moldova'?
+A: The last letter of 'moldova' is A.
+
+Q: What is the last letter of 'hollow'?
+A: The last letter of 'hollow' is W.
+
+Q: What is the last letter of 'dalasi'?
+A: The last letter of 'dalasi' is I.
+
+Q: What is the last letter of 'mbabane'?
+A: The last letter of 'mbabane' is E.
+
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+
+Q: What is the capital of Somalia?
+A: The capital of Somalia is Mogadishu.
+
+Q: What is the capital of Cape Verde?
+A: The capital of Cape Verde is Praia.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+
+Q: What is the capital of Cambodia?
+A: The capital of Cambodia is Phnom Penh.
+
+Q: What is the capital of Oman?
+A: The capital of Oman is Muscat.
+
+Q: How do you sort 774, 493, and 870?
+A: In order, they are 493 774 870.
+
+Q: How do you sort 885, 336, and 307?
+A: In order, they are 307 336 885.
+
+Q: How do you sort 29, 2, and 7?
+A: In order, they are 2 7 29.
+
+Q: How do you sort 23, 9, and 5?
+A: In order, they are 5 9 23.
+
+Q: How do you sort 6, 11, and 25?
+A: In order, they are 6 11 25.
+
+Q: How do you sort 12, 26, and 25?
+A: In order, they are 12 25 26.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: Which is bigger, 16 or 36?
+A: 36 is bigger than 16.
+
+Q: Is 1 bigger than 19?
+A: No, 19 is bigger than 1.
+
+Q: Is 19 bigger than 20?
+A: No, 20 is bigger than 19.
+
+Q: Which is bigger, 554 or 293?
+A: 554 is bigger than 293.
+
+Q: Which is bigger, 177 or 714?
+A: 714 is bigger than 177.
+
+Q: Is 86 bigger than 56?
+A: Yes, 86 is bigger than 56.
+
+Q: Which element has the chemical symbol Cu?
+A: Cu is the chemical symbol for copper.
+
+Q: Which element has the chemical symbol F?
+A: F is the chemical symbol for fluorine.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: Which element has the chemical symbol Ba?
+A: Ba is the chemical symbol for barium.
+
+Q: Which element has the chemical symbol Gd?
+A: Gd is the chemical symbol for gadolinium.
+
+Q: What is the chemical symbol for silicon?
+A: The chemical symbol for silicon is Si.
