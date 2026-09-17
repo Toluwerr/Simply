@@ -1,6 +1,6 @@
 {
   "version": 29,
-  "iteration": 682,
+  "iteration": 683,
   "best_val_loss": 1.3992460131645204,
   "lr": 0.0003,
   "plateaus": 0,
@@ -29,7 +29,7 @@
     "capitals": 0.0,
     "states": 0.0,
     "currencies": 0.0,
-    "continents": 0.0,
+    "continents": 1.0,
     "elements": 0.0,
     "planets": 0.0,
     "months": 0.0,
@@ -42,12 +42,12 @@
   },
   "study_mode_v1": true,
   "head_chars": 284342,
-  "lessons": 10346,
+  "lessons": 10393,
   "best_knowledge": 0.043,
   "reading": {
-    "articles": 2414,
-    "facts": 1141,
-    "pool_chars": 2551461
+    "articles": 2465,
+    "facts": 1166,
+    "pool_chars": 2604716
   },
   "token_mode_v1": true,
   "tokenizer_vocab": 2048,
@@ -66,7 +66,7 @@
     "capitals": 0,
     "states": 0,
     "currencies": 0,
-    "continents": 0,
+    "continents": 1,
     "elements": 0,
     "planets": 0,
     "months": 0,
