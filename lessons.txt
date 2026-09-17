@@ -26014,3 +26014,110 @@ A: South Africa is on the continent of Africa.
 
 Q: What continent is Senegal on?
 A: Senegal is on the continent of Africa.
+Q: How do you sort 2, 12, and 17?
+A: In order, they are 2 12 17.
+
+Q: How do you sort 438, 416, and 576?
+A: In order, they are 416 438 576.
+
+Q: How do you sort 24, 18, and 26?
+A: In order, they are 18 24 26.
+
+Q: How do you sort 719, 973, and 684?
+A: In order, they are 684 719 973.
+
+Q: How do you sort 14, 13, and 10?
+A: In order, they are 10 13 14.
+
+Q: How do you sort 615, 700, and 255?
+A: In order, they are 255 615 700.
+
+Q: What is the chemical symbol for arsenic?
+A: The chemical symbol for arsenic is As.
+
+Q: Which element has the chemical symbol Te?
+A: Te is the chemical symbol for tellurium.
+
+Q: What is the chemical symbol for scandium?
+A: The chemical symbol for scandium is Sc.
+
+Q: What is the chemical symbol for sodium?
+A: The chemical symbol for sodium is Na.
+
+Q: Which element has the chemical symbol Ca?
+A: Ca is the chemical symbol for calcium.
+
+Q: Which element has the chemical symbol Te?
+A: Te is the chemical symbol for tellurium.
+
+Q: What continent is Lebanon on?
+A: Lebanon is on the continent of Asia.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What continent is Moldova on?
+A: Moldova is on the continent of Europe.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is Singapore on?
+A: Singapore is on the continent of Asia.
+
+Q: Is 788 bigger than 906?
+A: No, 906 is bigger than 788.
+
+Q: Which is bigger, 95 or 82?
+A: 95 is bigger than 82.
+
+Q: Is 1 bigger than 8?
+A: No, 8 is bigger than 1.
+
+Q: Which is bigger, 378 or 799?
+A: 799 is bigger than 378.
+
+Q: Which is bigger, 59 or 69?
+A: 69 is bigger than 59.
+
+Q: Which is bigger, 69 or 81?
+A: 81 is bigger than 69.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: What is the freezing point of water?
+A: Water freezes at 0 degrees Celsius.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: What is the smallest ocean?
+A: The Arctic is the smallest ocean.
+
+Q: What is the last letter of 'covered'?
+A: The last letter of 'covered' is D.
+
+Q: What is the last letter of 'slippery'?
+A: The last letter of 'slippery' is Y.
+
+Q: What is the last letter of 'albania'?
+A: The last letter of 'albania' is A.
+
+Q: What is the last letter of 'wide'?
+A: The last letter of 'wide' is E.
+
+Q: What is the first letter of 'dry'?
+A: The first letter of 'dry' is D.
+
+Q: What is the last letter of 'germanium'?
+A: The last letter of 'germanium' is M.
