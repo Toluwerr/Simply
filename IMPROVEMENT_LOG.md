@@ -5555,3 +5555,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: elements 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"64 is the continent of Africa."
 
+## Iteration 622 - NO_GAIN
+- **when**: 2026-09-17T08:40:43Z
+- **train loss**: 2.3588 | **val loss**: 1.4858 | **run best**: 1.4502
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +38 facts (2,064 read all-time)
+- **lr**: 0.0003 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Iven, 5 order, 54."
+
