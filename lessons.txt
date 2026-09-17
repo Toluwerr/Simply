@@ -58004,3 +58004,170 @@ A: 55 minus 25 is 30.
 
 Q: What is 4 times 9?
 A: 4 times 9 is 36.
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: Which element has the chemical symbol Os?
+A: Os is the chemical symbol for osmium.
+
+Q: What is the chemical symbol for sulfur?
+A: The chemical symbol for sulfur is S.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium.
+
+Q: What is the chemical symbol for manganese?
+A: The chemical symbol for manganese is Mn.
+
+Q: What is the chemical symbol for lead?
+A: The chemical symbol for lead is Pb.
+
+Q: Which element has the chemical symbol Pd?
+A: Pd is the chemical symbol for palladium.
+
+Q: Which element has the chemical symbol He?
+A: He is the chemical symbol for helium.
+
+Q: What is the chemical symbol for ruthenium?
+A: The chemical symbol for ruthenium is Ru.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What number is the Roman numeral v?
+A: The Roman numeral v is the number 5.
+
+Q: What is the Roman numeral for 914?
+A: The Roman numeral for 914 is cmxiv.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What is the Roman numeral for 445?
+A: The Roman numeral for 445 is cdxlv.
+
+Q: What is the Roman numeral for 723?
+A: The Roman numeral for 723 is dccxxiii.
+
+Q: What is the Roman numeral for 64?
+A: The Roman numeral for 64 is lxiv.
+
+Q: What is the Roman numeral for 237?
+A: The Roman numeral for 237 is ccxxxvii.
+
+Q: What is the last letter of 'sticky'?
+A: The last letter of 'sticky' is Y.
+
+Q: What is the last letter of 'grenadines'?
+A: The last letter of 'grenadines' is S.
+
+Q: What is the last letter of 'dong'?
+A: The last letter of 'dong' is G.
+
+Q: What is the first letter of 'last'?
+A: The first letter of 'last' is L.
+
+Q: What is the first letter of 'sad'?
+A: The first letter of 'sad' is S.
+
+Q: What is the last letter of 'stockholm'?
+A: The last letter of 'stockholm' is M.
+
+Q: What is the last letter of 'november'?
+A: The last letter of 'november' is R.
+
+Q: What is the first letter of 'wellington'?
+A: The first letter of 'wellington' is W.
+
+Q: Which is bigger, 60 or 16?
+A: 60 is bigger than 16.
+
+Q: Which is bigger, 9 or 10?
+A: 10 is bigger than 9.
+
+Q: Is 870 bigger than 672?
+A: Yes, 870 is bigger than 672.
+
+Q: Is 866 bigger than 784?
+A: Yes, 866 is bigger than 784.
+
+Q: Which is bigger, 15 or 17?
+A: 17 is bigger than 15.
+
+Q: Which is bigger, 16 or 6?
+A: 16 is bigger than 6.
+
+Q: Which is bigger, 27 or 40?
+A: 40 is bigger than 27.
+
+Q: Which is bigger, 702 or 345?
+A: 702 is bigger than 345.
+
+Q: What is double 8?
+A: Double 8 is 16.
+
+Q: What is double 55?
+A: Double 55 is 110.
+
+Q: What is double 57?
+A: Double 57 is 114.
+
+Q: What is double 16?
+A: Double 16 is 32.
+
+Q: What is half of 34?
+A: Half of 34 is 17.
+
+Q: What is half of 8?
+A: Half of 8 is 4.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is half of 20?
+A: Half of 20 is 10.
