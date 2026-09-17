@@ -19300,3 +19300,110 @@ A: The Roman numeral for 65 is lxv.
 
 Q: What is the Roman numeral for 218?
 A: The Roman numeral for 218 is ccxviii.
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: What number is the Roman numeral xviii?
+A: The Roman numeral xviii is the number 18.
+
+Q: What number is the Roman numeral lv?
+A: The Roman numeral lv is the number 55.
+
+Q: What is the Roman numeral for 44?
+A: The Roman numeral for 44 is xliv.
+
+Q: What number is the Roman numeral lxxv?
+A: The Roman numeral lxxv is the number 75.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What number is the Roman numeral lxxiv?
+A: The Roman numeral lxxiv is the number 74.
+
+Q: What is 65 minus 61?
+A: 65 minus 61 is 4.
+
+Q: What is 18 minus 10?
+A: 18 minus 10 is 8.
+
+Q: What is 69 plus 93?
+A: 69 plus 93 is 162.
+
+Q: What is 17 plus 12?
+A: 17 plus 12 is 29.
+
+Q: What is 17 minus 12?
+A: 17 minus 12 is 5.
+
+Q: What is 950 minus 279?
+A: 950 minus 279 is 671.
+
+Q: What currency does Bahrain use?
+A: The currency of Bahrain is the dinar.
+
+Q: What currency does North Korea use?
+A: The currency of North Korea is the won.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: What currency does India use?
+A: The currency of India is the rupee.
+
+Q: Is 68 bigger than 46?
+A: Yes, 68 is bigger than 46.
+
+Q: Which is bigger, 7 or 1?
+A: 7 is bigger than 1.
+
+Q: Which is bigger, 17 or 13?
+A: 17 is bigger than 13.
+
+Q: Is 10 bigger than 96?
+A: No, 96 is bigger than 10.
+
+Q: Which is bigger, 85 or 59?
+A: 85 is bigger than 59.
+
+Q: Is 40 bigger than 99?
+A: No, 99 is bigger than 40.
+
+Q: How do you sort 961, 658, and 930?
+A: In order, they are 658 930 961.
+
+Q: How do you sort 13, 4, and 22?
+A: In order, they are 4 13 22.
+
+Q: How do you sort 20, 25, and 22?
+A: In order, they are 20 22 25.
+
+Q: How do you sort 667, 653, and 856?
+A: In order, they are 653 667 856.
+
+Q: How do you sort 18, 3, and 25?
+A: In order, they are 3 18 25.
+
+Q: How do you sort 176, 83, and 662?
+A: In order, they are 83 176 662.
