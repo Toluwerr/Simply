@@ -50100,3 +50100,170 @@ A: The capital of Lebanon is Beirut.
 
 Q: What is the capital of Sudan?
 A: The capital of Sudan is Khartoum.
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: What is the capital of Tunisia?
+A: The capital of Tunisia is Tunis.
+
+Q: What is the capital of Sao Tome and Principe?
+A: The capital of Sao Tome and Principe is Sao Tome.
+
+Q: What is the capital of Belgium?
+A: The capital of Belgium is Brussels.
+
+Q: What is the capital of Tuvalu?
+A: The capital of Tuvalu is Funafuti.
+
+Q: What is the capital of Jordan?
+A: The capital of Jordan is Amman.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: What is the capital of Bangladesh?
+A: The capital of Bangladesh is Dhaka.
+
+Q: What is 11 times 3?
+A: 11 times 3 is 33.
+
+Q: What is 14 times 11?
+A: 14 times 11 is 154.
+
+Q: What is 8 times 6?
+A: 8 times 6 is 48.
+
+Q: What is 3 times 8?
+A: 3 times 8 is 24.
+
+Q: What is 78 minus 19?
+A: 78 minus 19 is 59.
+
+Q: What is 14 times 16?
+A: 14 times 16 is 224.
+
+Q: What is 11 times 11?
+A: 11 times 11 is 121.
+
+Q: What is 11 times 17?
+A: 11 times 17 is 187.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Rhode Island?
+A: Providence is the capital of Rhode Island.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: How many letters does the word 'connecticut' have?
+A: The word 'connecticut' has 11 letters.
+
+Q: How many letters does the word 'cadmium' have?
+A: The word 'cadmium' has 7 letters.
+
+Q: How many letters does the word 'boston' have?
+A: The word 'boston' has 6 letters.
+
+Q: How many letters does the word 'strong' have?
+A: The word 'strong' has 6 letters.
+
+Q: How many letters does the word 'kabul' have?
+A: The word 'kabul' has 5 letters.
+
+Q: How many letters does the word 'praia' have?
+A: The word 'praia' has 5 letters.
+
+Q: How many letters does the word 'mauritania' have?
+A: The word 'mauritania' has 10 letters.
+
+Q: How many letters does the word 'tall' have?
+A: The word 'tall' has 4 letters.
+
+Q: What is the first letter of 'mauritania'?
+A: The first letter of 'mauritania' is M.
+
+Q: What is the last letter of 'juneau'?
+A: The last letter of 'juneau' is U.
+
+Q: What is the first letter of 'lincoln'?
+A: The first letter of 'lincoln' is L.
+
+Q: What is the last letter of 'monkey'?
+A: The last letter of 'monkey' is Y.
+
+Q: What is the first letter of 'cairo'?
+A: The first letter of 'cairo' is C.
+
+Q: What is the first letter of 'austria'?
+A: The first letter of 'austria' is A.
+
+Q: What is the first letter of 'tree'?
+A: The first letter of 'tree' is T.
+
+Q: What is the last letter of 'germanium'?
+A: The last letter of 'germanium' is M.
+
+Q: Is 4 bigger than 9?
+A: No, 9 is bigger than 4.
+
+Q: Which is bigger, 714 or 719?
+A: 719 is bigger than 714.
+
+Q: Is 15 bigger than 41?
+A: No, 41 is bigger than 15.
+
+Q: Is 863 bigger than 717?
+A: Yes, 863 is bigger than 717.
+
+Q: Is 2 bigger than 17?
+A: No, 17 is bigger than 2.
+
+Q: Is 82 bigger than 12?
+A: Yes, 82 is bigger than 12.
+
+Q: Which is bigger, 48 or 13?
+A: 48 is bigger than 13.
+
+Q: Which is bigger, 15 or 8?
+A: 15 is bigger than 8.
