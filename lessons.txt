@@ -33381,3 +33381,146 @@ A: Half of 40 is 20.
 
 Q: What is double 54?
 A: Double 54 is 108.
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: How many letters does the word 'bangkok' have?
+A: The word 'bangkok' has 7 letters.
+
+Q: How many letters does the word 'windhoek' have?
+A: The word 'windhoek' has 8 letters.
+
+Q: How many letters does the word 'sierra' have?
+A: The word 'sierra' has 6 letters.
+
+Q: How many letters does the word 'ringgit' have?
+A: The word 'ringgit' has 7 letters.
+
+Q: How many letters does the word 'maine' have?
+A: The word 'maine' has 5 letters.
+
+Q: How many letters does the word 'last' have?
+A: The word 'last' has 4 letters.
+
+Q: How many letters does the word 'pyongyang' have?
+A: The word 'pyongyang' has 9 letters.
+
+Q: How many letters does the word 'koruna' have?
+A: The word 'koruna' has 6 letters.
+
+Q: What is 805 minus 381?
+A: 805 minus 381 is 424.
+
+Q: What is 18 minus 12?
+A: 18 minus 12 is 6.
+
+Q: What is 13 plus 6?
+A: 13 plus 6 is 19.
+
+Q: What is 18 minus 6?
+A: 18 minus 6 is 12.
+
+Q: What is 4 times 12?
+A: 4 times 12 is 48.
+
+Q: What is 15 minus 5?
+A: 15 minus 5 is 10.
+
+Q: What is 11 minus 2?
+A: 11 minus 2 is 9.
+
+Q: What is 2 times 3?
+A: 2 times 3 is 6.
+
+Q: What continent is Argentina on?
+A: Argentina is on the continent of South America.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: What continent is Serbia on?
+A: Serbia is on the continent of Europe.
+
+Q: What continent is Zambia on?
+A: Zambia is on the continent of Africa.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What continent is Belarus on?
+A: Belarus is on the continent of Europe.
+
+Q: What continent is Jamaica on?
+A: Jamaica is on the continent of North America.
+
+Q: What continent is Andorra on?
+A: Andorra is on the continent of Europe.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Somalia use?
+A: The currency of Somalia is the shilling.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 17 in words?
+A: 17 in words is seventeen.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
