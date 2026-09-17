@@ -27666,3 +27666,170 @@ A: 3 plus 11 is 14.
 
 Q: What is 141 plus 486?
 A: 141 plus 486 is 627.
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: Which element has the chemical symbol Th?
+A: Th is the chemical symbol for thorium.
+
+Q: Which element has the chemical symbol U?
+A: U is the chemical symbol for uranium.
+
+Q: What is the chemical symbol for lanthanum?
+A: The chemical symbol for lanthanum is La.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: Which element has the chemical symbol Li?
+A: Li is the chemical symbol for lithium.
+
+Q: What is the chemical symbol for praseodymium?
+A: The chemical symbol for praseodymium is Pr.
+
+Q: Which element has the chemical symbol Bi?
+A: Bi is the chemical symbol for bismuth.
+
+Q: Which element has the chemical symbol He?
+A: He is the chemical symbol for helium.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What number is the Roman numeral lxxxiv?
+A: The Roman numeral lxxxiv is the number 84.
+
+Q: What is the Roman numeral for 64?
+A: The Roman numeral for 64 is lxiv.
+
+Q: What number is the Roman numeral v?
+A: The Roman numeral v is the number 5.
+
+Q: What number is the Roman numeral xiii?
+A: The Roman numeral xiii is the number 13.
+
+Q: What number is the Roman numeral ii?
+A: The Roman numeral ii is the number 2.
+
+Q: What number is the Roman numeral xix?
+A: The Roman numeral xix is the number 19.
+
+Q: What number is the Roman numeral xvii?
+A: The Roman numeral xvii is the number 17.
+
+Q: What number is the Roman numeral lxviii?
+A: The Roman numeral lxviii is the number 68.
+
+Q: What is the first letter of 'turkmenistan'?
+A: The first letter of 'turkmenistan' is T.
+
+Q: What is the first letter of 'hampshire'?
+A: The first letter of 'hampshire' is H.
+
+Q: What is the first letter of 'tall'?
+A: The first letter of 'tall' is T.
+
+Q: What is the first letter of 'asmara'?
+A: The first letter of 'asmara' is A.
+
+Q: What is the first letter of 'kip'?
+A: The first letter of 'kip' is K.
+
+Q: What is the last letter of 'bottle'?
+A: The last letter of 'bottle' is E.
+
+Q: What is the first letter of 'rich'?
+A: The first letter of 'rich' is R.
+
+Q: What is the first letter of 'carolina'?
+A: The first letter of 'carolina' is C.
+
+Q: Is 53 bigger than 20?
+A: Yes, 53 is bigger than 20.
+
+Q: Which is bigger, 789 or 562?
+A: 789 is bigger than 562.
+
+Q: Which is bigger, 88 or 58?
+A: 88 is bigger than 58.
+
+Q: Is 301 bigger than 585?
+A: No, 585 is bigger than 301.
+
+Q: Is 6 bigger than 12?
+A: No, 12 is bigger than 6.
+
+Q: Which is bigger, 72 or 87?
+A: 87 is bigger than 72.
+
+Q: Is 76 bigger than 60?
+A: Yes, 76 is bigger than 60.
+
+Q: Is 34 bigger than 68?
+A: No, 68 is bigger than 34.
+
+Q: What is double 2?
+A: Double 2 is 4.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: What is double 13?
+A: Double 13 is 26.
+
+Q: What is double 60?
+A: Double 60 is 120.
+
+Q: What is double 18?
+A: Double 18 is 36.
+
+Q: What is half of 14?
+A: Half of 14 is 7.
