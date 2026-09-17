@@ -10212,3 +10212,37 @@ A: The word 'romania' has 5 letters.
 
 Q: How many letters does the word 'russiaia' have?
 A: The word 'sierrapidy' has 8 letters.
+
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How many letters does the word 'still' have?
+A: The word 'sturder' has 5 letters.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: Which is bigger, 16 or 72?
+A: 72 is bigger than 16.
+
+Q: How do you sort 9, 13, and 28?
+A: In order, they are 9 13 28.
+
+Q: How do you sort 20, 9, and 25?
+A: In order, they are 9 20 25.
+
+Q: How do you sort 23, 1, and 14?
+A: In order, they are 1 14 23 43.
+
+Q: Which is bigger, 0 or 9?
+A: 9 is bigger than 9.
+
+Q: Which is bigger, 37 or 67?
+A: 67 is bigger than 68.
+
+Q: What number is the Roman numeral ii?
+A: The Roman numeral ii is the number 2.
+
+Q: What is the Roman numeral for 11?
+A: The Roman numeral for 11 is xi.

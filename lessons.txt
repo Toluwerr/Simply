@@ -26442,3 +26442,110 @@ A: 'modern' means of the present time.
 
 Q: What does 'clever' mean?
 A: 'clever' means smart and quick-thinking.
+Q: What number is the Roman numeral lviii?
+A: The Roman numeral lviii is the number 58.
+
+Q: What number is the Roman numeral xii?
+A: The Roman numeral xii is the number 12.
+
+Q: What number is the Roman numeral clxxii?
+A: The Roman numeral clxxii is the number 172.
+
+Q: What is the Roman numeral for 924?
+A: The Roman numeral for 924 is cmxxiv.
+
+Q: What is the Roman numeral for 580?
+A: The Roman numeral for 580 is dlxxx.
+
+Q: What number is the Roman numeral xcviii?
+A: The Roman numeral xcviii is the number 98.
+
+Q: Can you count by twos from 38 to 46?
+A: Counting by twos gives 38 40 42 44 46.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by ones from 35 to 37?
+A: Counting by ones gives 35 36 37.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: How do you sort 855, 717, and 783?
+A: In order, they are 717 783 855.
+
+Q: How do you sort 235, 717, and 675?
+A: In order, they are 235 675 717.
+
+Q: How do you sort 29, 7, and 16?
+A: In order, they are 7 16 29.
+
+Q: How do you sort 7, 15, and 12?
+A: In order, they are 7 12 15.
+
+Q: How do you sort 23, 1, and 5?
+A: In order, they are 1 5 23.
+
+Q: How do you sort 308, 312, and 478?
+A: In order, they are 308 312 478.
+
+Q: What currency does Bulgaria use?
+A: The currency of Bulgaria is the lev.
+
+Q: What currency does Mauritius use?
+A: The currency of Mauritius is the rupee.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What currency does Gambia use?
+A: The currency of Gambia is the dalasi.
+
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What is 4 times 10?
+A: 4 times 10 is 40.
+
+Q: What is 14 times 11?
+A: 14 times 11 is 154.
+
+Q: What is 86 minus 21?
+A: 86 minus 21 is 65.
+
+Q: What is 89 plus 82?
+A: 89 plus 82 is 171.
+
+Q: What is 556 plus 286?
+A: 556 plus 286 is 842.
+
+Q: What is 148 minus 140?
+A: 148 minus 140 is 8.
+
+Q: What is the first letter of 'yerevan'?
+A: The first letter of 'yerevan' is Y.
+
+Q: What is the last letter of 'saint'?
+A: The last letter of 'saint' is T.
+
+Q: What is the first letter of 'quick'?
+A: The first letter of 'quick' is Q.
+
+Q: What is the first letter of 'hungary'?
+A: The first letter of 'hungary' is H.
+
+Q: What is the first letter of 'manama'?
+A: The first letter of 'manama' is M.
+
+Q: What is the first letter of 'woof'?
+A: The first letter of 'woof' is W.
