@@ -27976,3 +27976,170 @@ A: 6 in words is six.
 
 Q: How do you write 56 in words?
 A: 56 in words is fifty-six.
+Q: Which is bigger, 929 or 487?
+A: 929 is bigger than 487.
+
+Q: Is 212 bigger than 563?
+A: No, 563 is bigger than 212.
+
+Q: Is 882 bigger than 964?
+A: No, 964 is bigger than 882.
+
+Q: Which is bigger, 496 or 968?
+A: 968 is bigger than 496.
+
+Q: Is 26 bigger than 60?
+A: No, 60 is bigger than 26.
+
+Q: Which is bigger, 177 or 590?
+A: 590 is bigger than 177.
+
+Q: Is 361 bigger than 538?
+A: No, 538 is bigger than 361.
+
+Q: Is 48 bigger than 36?
+A: Yes, 48 is bigger than 36.
+
+Q: How many letters does the word 'huge' have?
+A: The word 'huge' has 4 letters.
+
+Q: How many letters does the word 'cow' have?
+A: The word 'cow' has 3 letters.
+
+Q: How many letters does the word 'lira' have?
+A: The word 'lira' has 4 letters.
+
+Q: How many letters does the word 'gadolinium' have?
+A: The word 'gadolinium' has 10 letters.
+
+Q: How many letters does the word 'castries' have?
+A: The word 'castries' has 8 letters.
+
+Q: How many letters does the word 'newly' have?
+A: The word 'newly' has 5 letters.
+
+Q: How many letters does the word 'iraq' have?
+A: The word 'iraq' has 4 letters.
+
+Q: How many letters does the word 'congo' have?
+A: The word 'congo' has 5 letters.
+
+Q: How do you sort 91, 830, and 652?
+A: In order, they are 91 652 830.
+
+Q: How do you sort 20, 19, and 29?
+A: In order, they are 19 20 29.
+
+Q: How do you sort 6, 26, and 20?
+A: In order, they are 6 20 26.
+
+Q: How do you sort 15, 1, and 6?
+A: In order, they are 1 6 15.
+
+Q: How do you sort 15, 1, and 9?
+A: In order, they are 1 9 15.
+
+Q: How do you sort 657, 815, and 124?
+A: In order, they are 124 657 815.
+
+Q: How do you sort 9, 8, and 3?
+A: In order, they are 3 8 9.
+
+Q: How do you sort 19, 11, and 20?
+A: In order, they are 11 19 20.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What continent is Gabon on?
+A: Gabon is on the continent of Africa.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is the Central African Republic on?
+A: the Central African Republic is on the continent of Africa.
+
+Q: What continent is Germany on?
+A: Germany is on the continent of Europe.
+
+Q: What continent is Burkina Faso on?
+A: Burkina Faso is on the continent of Africa.
+
+Q: What continent is Lithuania on?
+A: Lithuania is on the continent of Europe.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you write 20 in words?
+A: 20 in words is twenty.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of South Sudan?
+A: The capital of South Sudan is Juba.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is the capital of Mongolia?
+A: The capital of Mongolia is Ulaanbaatar.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of Sudan?
+A: The capital of Sudan is Khartoum.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of Thailand?
+A: The capital of Thailand is Bangkok.
+
+Q: What is the capital of Mauritius?
+A: The capital of Mauritius is Port Louis.
