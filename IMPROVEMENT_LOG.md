@@ -5995,3 +5995,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Lovoday is eargest."
 
+## Iteration 670 - NO_GAIN
+- **when**: 2026-09-17T10:06:13Z
+- **train loss**: 2.1576 | **val loss**: 1.3776 | **run best**: 1.3642
+- **corpus**: 284,500 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +20 facts (2,360 read all-time)
+- **lr**: 0.0003 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Line is the chemical symbol for hallium?"
+
