@@ -41228,3 +41228,170 @@ A: The opposite of 'early' is 'late'.
 
 Q: What is the opposite of 'warm'?
 A: The opposite of 'warm' is 'cool'.
+Q: What currency does Bulgaria use?
+A: The currency of Bulgaria is the lev.
+
+Q: What currency does Fiji use?
+A: The currency of Fiji is the dollar.
+
+Q: What currency does Sweden use?
+A: The currency of Sweden is the krona.
+
+Q: What currency does the Czech Republic use?
+A: The currency of the Czech Republic is the koruna.
+
+Q: What currency does South Korea use?
+A: The currency of South Korea is the won.
+
+Q: What currency does Nepal use?
+A: The currency of Nepal is the rupee.
+
+Q: What currency does Cuba use?
+A: The currency of Cuba is the peso.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What is the Roman numeral for 495?
+A: The Roman numeral for 495 is cdxcv.
+
+Q: What number is the Roman numeral iii?
+A: The Roman numeral iii is the number 3.
+
+Q: What is the Roman numeral for 264?
+A: The Roman numeral for 264 is cclxiv.
+
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What number is the Roman numeral xx?
+A: The Roman numeral xx is the number 20.
+
+Q: What is the Roman numeral for 677?
+A: The Roman numeral for 677 is dclxxvii.
+
+Q: What is the Roman numeral for 722?
+A: The Roman numeral for 722 is dccxxii.
+
+Q: What number is the Roman numeral cdlxxxiv?
+A: The Roman numeral cdlxxxiv is the number 484.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: What is 3 times 8?
+A: 3 times 8 is 24.
+
+Q: What is 43 minus 37?
+A: 43 minus 37 is 6.
+
+Q: What is 18 minus 15?
+A: 18 minus 15 is 3.
+
+Q: What is 12 times 15?
+A: 12 times 15 is 180.
+
+Q: What is 4 times 8?
+A: 4 times 8 is 32.
+
+Q: What is 10 minus 7?
+A: 10 minus 7 is 3.
+
+Q: What is 8 plus 3?
+A: 8 plus 3 is 11.
+
+Q: What is 358 plus 161?
+A: 358 plus 161 is 519.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
