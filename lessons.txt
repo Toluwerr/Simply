@@ -37722,3 +37722,146 @@ A: 'messy' means not tidy.
 
 Q: What does 'damp' mean?
 A: 'damp' means slightly wet.
+Q: What is 12 times 12?
+A: 12 times 12 is 144.
+
+Q: What is 7 times 6?
+A: 7 times 6 is 42.
+
+Q: What is 7 times 7?
+A: 7 times 7 is 49.
+
+Q: What is 14 plus 14?
+A: 14 plus 14 is 28.
+
+Q: What is 14 times 17?
+A: 14 times 17 is 238.
+
+Q: What is 18 minus 7?
+A: 18 minus 7 is 11.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is 58 minus 30?
+A: 58 minus 30 is 28.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: What is the hardest natural substance?
+A: Diamond is the hardest natural substance.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: What is the largest island?
+A: Greenland is the largest island.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: Can you count by ones from 34 to 37?
+A: Counting by ones gives 34 35 36 37.
+
+Q: Can you count by ones from 39 to 44?
+A: Counting by ones gives 39 40 41 42 43 44.
+
+Q: Can you count by twos from 8 to 16?
+A: Counting by twos gives 8 10 12 14 16.
+
+Q: Can you count by ones from 6 to 9?
+A: Counting by ones gives 6 7 8 9.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by fives from 5 to 25?
+A: Counting by fives gives 5 10 15 20 25.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by twos from 26 to 34?
+A: Counting by twos gives 26 28 30 32 34.
+
+Q: What is double 17?
+A: Double 17 is 34.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What is double 29?
+A: Double 29 is 58.
+
+Q: What is double 35?
+A: Double 35 is 70.
+
+Q: What is double 33?
+A: Double 33 is 66.
+
+Q: What is double 19?
+A: Double 19 is 38.
+
+Q: What is double 19?
+A: Double 19 is 38.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What currency does Bahrain use?
+A: The currency of Bahrain is the dinar.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Latvia use?
+A: The currency of Latvia is the euro.
