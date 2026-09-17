@@ -41428,3 +41428,170 @@ A: Yes, 13 is bigger than 9.
 
 Q: Which is bigger, 934 or 396?
 A: 934 is bigger than 396.
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What continent is Kenya on?
+A: Kenya is on the continent of Africa.
+
+Q: What continent is Liechtenstein on?
+A: Liechtenstein is on the continent of Europe.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What continent is Laos on?
+A: Laos is on the continent of Asia.
+
+Q: What continent is Lesotho on?
+A: Lesotho is on the continent of Africa.
+
+Q: What continent is Ethiopia on?
+A: Ethiopia is on the continent of Africa.
+
+Q: What continent is Ghana on?
+A: Ghana is on the continent of Africa.
+
+Q: What continent is Kenya on?
+A: Kenya is on the continent of Africa.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: What is the capital of Pakistan?
+A: The capital of Pakistan is Islamabad.
+
+Q: What is the capital of Yemen?
+A: The capital of Yemen is Sanaa.
+
+Q: What is the capital of Malta?
+A: The capital of Malta is Valletta.
+
+Q: What is the capital of Vatican City?
+A: The capital of Vatican City is Vatican City.
+
+Q: What is the capital of Nigeria?
+A: The capital of Nigeria is Abuja.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you sort 569, 417, and 926?
+A: In order, they are 417 569 926.
+
+Q: How do you sort 19, 3, and 22?
+A: In order, they are 3 19 22.
+
+Q: How do you sort 82, 349, and 286?
+A: In order, they are 82 286 349.
+
+Q: How do you sort 24, 17, and 14?
+A: In order, they are 14 17 24.
+
+Q: How do you sort 22, 19, and 11?
+A: In order, they are 11 19 22.
+
+Q: How do you sort 460, 377, and 485?
+A: In order, they are 377 460 485.
+
+Q: How do you sort 15, 20, and 28?
+A: In order, they are 15 20 28.
+
+Q: How do you sort 24, 4, and 2?
+A: In order, they are 2 4 24.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.

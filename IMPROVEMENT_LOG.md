@@ -4887,3 +4887,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"N Romey are 24 is bigger than bigger than 14?"
 
+## Iteration 550 - IMPROVED
+- **when**: 2026-09-17T06:35:51Z
+- **train loss**: 2.4008 | **val loss**: 1.6193 | **run best**: 1.6193
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +29 facts (1,663 read all-time)
+- **lr**: 0.0003 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"How many letters does the word ' has 4 leaptle' has 5 letters."
+
