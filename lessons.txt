@@ -61906,3 +61906,170 @@ A: The opposite of 'happy' is 'sad'.
 
 Q: What is the opposite of 'new'?
 A: The opposite of 'new' is 'old'.
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordoba.
+
+Q: What currency does Egypt use?
+A: The currency of Egypt is the pound.
+
+Q: What currency does Canada use?
+A: The currency of Canada is the dollar.
+
+Q: What is the Roman numeral for 44?
+A: The Roman numeral for 44 is xliv.
+
+Q: What number is the Roman numeral lx?
+A: The Roman numeral lx is the number 60.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: What is the Roman numeral for 41?
+A: The Roman numeral for 41 is xli.
+
+Q: What number is the Roman numeral lxxiii?
+A: The Roman numeral lxxiii is the number 73.
+
+Q: What is the Roman numeral for 12?
+A: The Roman numeral for 12 is xii.
+
+Q: What number is the Roman numeral dcccxix?
+A: The Roman numeral dcccxix is the number 819.
+
+Q: What is the Roman numeral for 9?
+A: The Roman numeral for 9 is ix.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: What is 95 minus 87?
+A: 95 minus 87 is 8.
+
+Q: What is 987 minus 740?
+A: 987 minus 740 is 247.
+
+Q: What is 9 times 7?
+A: 9 times 7 is 63.
+
+Q: What is 13 minus 13?
+A: 13 minus 13 is 0.
+
+Q: What is 6 times 8?
+A: 6 times 8 is 48.
+
+Q: What is 11 times 11?
+A: 11 times 11 is 121.
+
+Q: What is 4 plus 8?
+A: 4 plus 8 is 12.
+
+Q: What is 5 minus 2?
+A: 5 minus 2 is 3.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
