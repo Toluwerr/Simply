@@ -34979,3 +34979,146 @@ A: Double 5 is 10.
 
 Q: What is double 48?
 A: Double 48 is 96.
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What is 29 plus 94?
+A: 29 plus 94 is 123.
+
+Q: What is 19 plus 15?
+A: 19 plus 15 is 34.
+
+Q: What is 731 minus 201?
+A: 731 minus 201 is 530.
+
+Q: What is 35 plus 79?
+A: 35 plus 79 is 114.
+
+Q: What is 9 minus 8?
+A: 9 minus 8 is 1.
+
+Q: What is 7 minus 1?
+A: 7 minus 1 is 6.
+
+Q: What is 280 plus 492?
+A: 280 plus 492 is 772.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What continent is Vietnam on?
+A: Vietnam is on the continent of Asia.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
+
+Q: What continent is Serbia on?
+A: Serbia is on the continent of Europe.
+
+Q: What continent is Bahrain on?
+A: Bahrain is on the continent of Asia.
+
+Q: What continent is Zimbabwe on?
+A: Zimbabwe is on the continent of Africa.
+
+Q: What continent is Vanuatu on?
+A: Vanuatu is on the continent of Oceania.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
+
+Q: What continent is Liechtenstein on?
+A: Liechtenstein is on the continent of Europe.
+
+Q: What currency does Croatia use?
+A: The currency of Croatia is the euro.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does the Bahamas use?
+A: The currency of the Bahamas is the dollar.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
+
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordoba.
+
+Q: What currency does Rwanda use?
+A: The currency of Rwanda is the franc.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What currency does Sweden use?
+A: The currency of Sweden is the krona.
+
+Q: How do you write 60 in words?
+A: 60 in words is sixty.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: How do you write 88 in words?
+A: 88 in words is eighty-eight.
+
+Q: Which is bigger, 12 or 16?
+A: 16 is bigger than 12.
+
+Q: Which is bigger, 990 or 940?
+A: 990 is bigger than 940.
+
+Q: Is 14 bigger than 20?
+A: No, 20 is bigger than 14.
+
+Q: Is 7 bigger than 2?
+A: Yes, 7 is bigger than 2.
+
+Q: Is 12 bigger than 34?
+A: No, 34 is bigger than 12.
+
+Q: Is 8 bigger than 5?
+A: Yes, 8 is bigger than 5.
+
+Q: Is 79 bigger than 60?
+A: Yes, 79 is bigger than 60.
+
+Q: Which is bigger, 37 or 45?
+A: 45 is bigger than 37.
