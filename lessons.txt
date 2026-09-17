@@ -28637,3 +28637,128 @@ A: The Roman numeral dcxciii is the number 693.
 
 Q: What number is the Roman numeral xxiv?
 A: The Roman numeral xxiv is the number 24.
+Q: How do you sort 4, 5, and 15?
+A: In order, they are 4 5 15.
+
+Q: How do you sort 907, 932, and 725?
+A: In order, they are 725 907 932.
+
+Q: How do you sort 442, 844, and 604?
+A: In order, they are 442 604 844.
+
+Q: How do you sort 685, 916, and 436?
+A: In order, they are 436 685 916.
+
+Q: How do you sort 182, 830, and 937?
+A: In order, they are 182 830 937.
+
+Q: How do you sort 20, 8, and 24?
+A: In order, they are 8 20 24.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is half of 34?
+A: Half of 34 is 17.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is double 50?
+A: Double 50 is 100.
+
+Q: What is double 2?
+A: Double 2 is 4.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What continent is Togo on?
+A: Togo is on the continent of Africa.
+
+Q: What continent is the Central African Republic on?
+A: the Central African Republic is on the continent of Africa.
+
+Q: What continent is Ukraine on?
+A: Ukraine is on the continent of Europe.
+
+Q: What continent is Pakistan on?
+A: Pakistan is on the continent of Asia.
+
+Q: What continent is Senegal on?
+A: Senegal is on the continent of Africa.
+
+Q: What continent is Papua New Guinea on?
+A: Papua New Guinea is on the continent of Oceania.
+
+Q: What is the freezing point of water?
+A: Water freezes at 0 degrees Celsius.
+
+Q: How many planets are there?
+A: There are 8 planets.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What is the last letter of 'ethiopia'?
+A: The last letter of 'ethiopia' is A.
+
+Q: What is the last letter of 'austria'?
+A: The last letter of 'austria' is A.
+
+Q: What is the last letter of 'calcium'?
+A: The last letter of 'calcium' is M.
+
+Q: What is the last letter of 'buenos'?
+A: The last letter of 'buenos' is S.
+
+Q: What is the last letter of 'honolulu'?
+A: The last letter of 'honolulu' is U.
+
+Q: What is the last letter of 'uranium'?
+A: The last letter of 'uranium' is M.
+
+Q: What number is the Roman numeral xxxiv?
+A: The Roman numeral xxxiv is the number 34.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What is the Roman numeral for 91?
+A: The Roman numeral for 91 is xci.
+
+Q: What is the Roman numeral for 11?
+A: The Roman numeral for 11 is xi.
+
+Q: What number is the Roman numeral dccxlii?
+A: The Roman numeral dccxlii is the number 742.
+
+Q: What is the Roman numeral for 83?
+A: The Roman numeral for 83 is lxxxiii.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.

@@ -10525,3 +10525,16 @@ A: The chemical symbol for osmium is Osn haftium is Osnium.
 
 Q: Which is bigger, 17 or 19?
 A: 19 is bigger than 17.
+
+
+Q: Is 12 bigger than 2?
+A: Yes, 12 is bigger than 1.
+
+Q: Which is bigger, 0 or 40?
+A: 40 is bigger than 4.
+
+Q: Is 13 bigger than 4?
+A: Yes, 13 is bigger than 8.
+
+Q: How many days are in December?
+A: December has 31 days.

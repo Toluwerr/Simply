@@ -2961,3 +2961,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.30 | weakest: compare 0.00, sort 0.00, double_half 0.00 | strongest: definitions 1.00, units 1.00, months 1.00
 - self-portrait, asked "Who are you?": *"I am training a tiny Fey own for training boat I keep training training."
 
+## Iteration 344 - IMPROVED
+- **when**: 2026-09-17T00:52:08Z
+- **train loss**: 1.5249 | **val loss**: 0.6484 | **run best**: 0.6484
+- **corpus**: 232,002 chars (+4 self-written examples)
+- **internet reading**: +30 articles, +17 facts (662 read all-time)
+- **lr**: 0.0015 | **steps**: 62
+- **knowledge quiz**: avg 0.39 | weakest: arithmetic 0.00, compare 0.00, double_half 0.00 | strongest: animals 1.00, records 1.00, months 1.00
+- self-portrait, asked "Who are you?": *"I am my trained by day in a little or."
+
