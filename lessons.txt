@@ -41094,3 +41094,170 @@ A: 14 is bigger than 1.
 
 Q: Is 909 bigger than 384?
 A: Yes, 909 is bigger than 384.
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 1 in words?
+A: 1 in words is one.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: What currency does Bangladesh use?
+A: The currency of Bangladesh is the taka.
+
+Q: What currency does Paraguay use?
+A: The currency of Paraguay is the guarani.
+
+Q: What currency does South Korea use?
+A: The currency of South Korea is the won.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What currency does Saudi Arabia use?
+A: The currency of Saudi Arabia is the riyal.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What currency does Fiji use?
+A: The currency of Fiji is the dollar.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state Connecticut?
+A: Hartford is the capital of Connecticut.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: How do you sort 701, 333, and 166?
+A: In order, they are 166 333 701.
+
+Q: How do you sort 568, 620, and 466?
+A: In order, they are 466 568 620.
+
+Q: How do you sort 24, 26, and 13?
+A: In order, they are 13 24 26.
+
+Q: How do you sort 27, 4, and 7?
+A: In order, they are 4 7 27.
+
+Q: How do you sort 619, 680, and 374?
+A: In order, they are 374 619 680.
+
+Q: How do you sort 23, 1, and 15?
+A: In order, they are 1 15 23.
+
+Q: How do you sort 828, 170, and 512?
+A: In order, they are 170 512 828.
+
+Q: How do you sort 7, 6, and 24?
+A: In order, they are 6 7 24.
+
+Q: What is the first letter of 'technetium'?
+A: The first letter of 'technetium' is T.
+
+Q: What is the first letter of 'with'?
+A: The first letter of 'with' is W.
+
+Q: What is the first letter of 'latvia'?
+A: The first letter of 'latvia' is L.
+
+Q: What is the first letter of 'nepal'?
+A: The first letter of 'nepal' is N.
+
+Q: What is the first letter of 'tbilisi'?
+A: The first letter of 'tbilisi' is T.
+
+Q: What is the last letter of 'tallinn'?
+A: The last letter of 'tallinn' is N.
+
+Q: What is the last letter of 'bulgaria'?
+A: The last letter of 'bulgaria' is A.
+
+Q: What is the last letter of 'euro'?
+A: The last letter of 'euro' is O.
