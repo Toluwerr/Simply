@@ -52032,3 +52032,170 @@ A: The last letter of 'minsk' is K.
 
 Q: What is the last letter of 'kiribati'?
 A: The last letter of 'kiribati' is I.
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: How do you sort 29, 15, and 24?
+A: In order, they are 15 24 29.
+
+Q: How do you sort 355, 921, and 552?
+A: In order, they are 355 552 921.
+
+Q: How do you sort 90, 974, and 172?
+A: In order, they are 90 172 974.
+
+Q: How do you sort 836, 51, and 247?
+A: In order, they are 51 247 836.
+
+Q: How do you sort 14, 20, and 21?
+A: In order, they are 14 20 21.
+
+Q: How do you sort 868, 514, and 807?
+A: In order, they are 514 807 868.
+
+Q: How do you sort 26, 10, and 25?
+A: In order, they are 10 25 26.
+
+Q: How do you sort 6, 29, and 3?
+A: In order, they are 3 6 29.
+
+Q: What continent is Benin on?
+A: Benin is on the continent of Africa.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is Belgium on?
+A: Belgium is on the continent of Europe.
+
+Q: What continent is Italy on?
+A: Italy is on the continent of Europe.
+
+Q: What continent is Armenia on?
+A: Armenia is on the continent of Asia.
+
+Q: What continent is Lithuania on?
+A: Lithuania is on the continent of Europe.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
+
+Q: What is the capital of Georgia?
+A: The capital of Georgia is Tbilisi.
+
+Q: What is the capital of Belarus?
+A: The capital of Belarus is Minsk.
+
+Q: What is the capital of Nicaragua?
+A: The capital of Nicaragua is Managua.
+
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+
+Q: Can you count by ones from 27 to 30?
+A: Counting by ones gives 27 28 29 30.
+
+Q: Can you count by fives from 30 to 50?
+A: Counting by fives gives 30 35 40 45 50.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by ones from 26 to 31?
+A: Counting by ones gives 26 27 28 29 30 31.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by ones from 21 to 23?
+A: Counting by ones gives 21 22 23.
+
+Q: Can you count by fives from 10 to 25?
+A: Counting by fives gives 10 15 20 25.
+
+Q: Can you count by twos from 14 to 24?
+A: Counting by twos gives 14 16 18 20 22 24.
+
+Q: Which is bigger, 10 or 18?
+A: 18 is bigger than 10.
+
+Q: Is 17 bigger than 6?
+A: Yes, 17 is bigger than 6.
+
+Q: Is 13 bigger than 20?
+A: No, 20 is bigger than 13.
+
+Q: Is 10 bigger than 7?
+A: Yes, 10 is bigger than 7.
+
+Q: Which is bigger, 20 or 2?
+A: 20 is bigger than 2.
+
+Q: Which is bigger, 6 or 17?
+A: 17 is bigger than 6.
+
+Q: Which is bigger, 141 or 674?
+A: 674 is bigger than 141.
+
+Q: Is 62 bigger than 74?
+A: No, 74 is bigger than 62.
+
+Q: What is double 17?
+A: Double 17 is 34.
+
+Q: What is double 49?
+A: Double 49 is 98.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is double 14?
+A: Double 14 is 28.
+
+Q: What is double 18?
+A: Double 18 is 36.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is double 15?
+A: Double 15 is 30.
