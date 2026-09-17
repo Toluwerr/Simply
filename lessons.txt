@@ -62216,3 +62216,146 @@ A: The currency of Kuwait is the dinar.
 
 Q: What currency does Canada use?
 A: The currency of Canada is the dollar.
+Q: What is the last letter of 'laos'?
+A: The last letter of 'laos' is S.
+
+Q: What is the first letter of 'bucharest'?
+A: The first letter of 'bucharest' is B.
+
+Q: What is the first letter of 'leone'?
+A: The first letter of 'leone' is L.
+
+Q: What is the first letter of 'wizard'?
+A: The first letter of 'wizard' is W.
+
+Q: What is the first letter of 'marino'?
+A: The first letter of 'marino' is M.
+
+Q: What is the first letter of 'tirana'?
+A: The first letter of 'tirana' is T.
+
+Q: What is the last letter of 'new'?
+A: The last letter of 'new' is W.
+
+Q: What is the last letter of 'iron'?
+A: The last letter of 'iron' is N.
+
+Q: How do you sort 335, 756, and 272?
+A: In order, they are 272 335 756.
+
+Q: How do you sort 601, 557, and 58?
+A: In order, they are 58 557 601.
+
+Q: How do you sort 16, 18, and 6?
+A: In order, they are 6 16 18.
+
+Q: How do you sort 720, 691, and 996?
+A: In order, they are 691 720 996.
+
+Q: How do you sort 5, 28, and 9?
+A: In order, they are 5 9 28.
+
+Q: How do you sort 17, 24, and 28?
+A: In order, they are 17 24 28.
+
+Q: How do you sort 154, 599, and 703?
+A: In order, they are 154 599 703.
+
+Q: How do you sort 27, 7, and 23?
+A: In order, they are 7 23 27.
+
+Q: Which is bigger, 202 or 703?
+A: 703 is bigger than 202.
+
+Q: Which is bigger, 87 or 25?
+A: 87 is bigger than 25.
+
+Q: Which is bigger, 49 or 48?
+A: 49 is bigger than 48.
+
+Q: Which is bigger, 62 or 60?
+A: 62 is bigger than 60.
+
+Q: Which is bigger, 446 or 752?
+A: 752 is bigger than 446.
+
+Q: Which is bigger, 9 or 11?
+A: 11 is bigger than 9.
+
+Q: Is 12 bigger than 7?
+A: Yes, 12 is bigger than 7.
+
+Q: Which is bigger, 60 or 98?
+A: 98 is bigger than 60.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
+
+Q: What is the capital of Palau?
+A: The capital of Palau is Ngerulmud.
+
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+
+Q: What is the capital of North Korea?
+A: The capital of North Korea is Pyongyang.
+
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
+
+Q: What is 6 times 3?
+A: 6 times 3 is 18.
+
+Q: What is 7 times 8?
+A: 7 times 8 is 56.
+
+Q: What is 14 times 11?
+A: 14 times 11 is 154.
+
+Q: What is 20 minus 18?
+A: 20 minus 18 is 2.
+
+Q: What is 66 minus 45?
+A: 66 minus 45 is 21.
+
+Q: What is 2 minus 1?
+A: 2 minus 1 is 1.
+
+Q: What is 7 times 10?
+A: 7 times 10 is 70.
+
+Q: What is 12 times 19?
+A: 12 times 19 is 228.
