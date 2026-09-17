@@ -47462,3 +47462,170 @@ A: 18 is bigger than 10.
 
 Q: Which is bigger, 20 or 63?
 A: 63 is bigger than 20.
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: How do you write 28 in words?
+A: 28 in words is twenty-eight.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What currency does Georgia use?
+A: The currency of Georgia is the lari.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Germany use?
+A: The currency of Germany is the euro.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does Uzbekistan use?
+A: The currency of Uzbekistan is the som.
+
+Q: What currency does Turkey use?
+A: The currency of Turkey is the lira.
+
+Q: What currency does the Czech Republic use?
+A: The currency of the Czech Republic is the koruna.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: How do you sort 9, 4, and 26?
+A: In order, they are 4 9 26.
+
+Q: How do you sort 917, 980, and 986?
+A: In order, they are 917 980 986.
+
+Q: How do you sort 24, 27, and 4?
+A: In order, they are 4 24 27.
+
+Q: How do you sort 400, 106, and 61?
+A: In order, they are 61 106 400.
+
+Q: How do you sort 1, 24, and 15?
+A: In order, they are 1 15 24.
+
+Q: How do you sort 3, 20, and 6?
+A: In order, they are 3 6 20.
+
+Q: How do you sort 20, 21, and 12?
+A: In order, they are 12 20 21.
+
+Q: How do you sort 5, 8, and 17?
+A: In order, they are 5 8 17.
+
+Q: What is the last letter of 'closed'?
+A: The last letter of 'closed' is D.
+
+Q: What is the first letter of 'bangladesh'?
+A: The first letter of 'bangladesh' is B.
+
+Q: What is the last letter of 'cold'?
+A: The last letter of 'cold' is D.
+
+Q: What is the last letter of 'jose'?
+A: The last letter of 'jose' is E.
+
+Q: What is the last letter of 'tiger'?
+A: The last letter of 'tiger' is R.
+
+Q: What is the last letter of 'dushanbe'?
+A: The last letter of 'dushanbe' is E.
+
+Q: What is the first letter of 'utah'?
+A: The first letter of 'utah' is U.
+
+Q: What is the first letter of 'neptune'?
+A: The first letter of 'neptune' is N.
