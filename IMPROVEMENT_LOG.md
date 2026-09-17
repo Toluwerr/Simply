@@ -3149,3 +3149,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.22 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, units 1.00, months 1.00
 - self-portrait, asked "Who are you?": *"I am right in a short stack hor to the little's bridge. The sun."
 
+## Iteration 364 - NO_GAIN
+- **when**: 2026-09-17T01:24:22Z
+- **train loss**: 1.3477 | **val loss**: 0.5952 | **run best**: 0.5780
+- **corpus**: 244,284 chars (+7 self-written examples)
+- **internet reading**: +30 articles, +10 facts (722 read all-time)
+- **lr**: 0.0008 | **steps**: 57
+- **knowledge quiz**: avg 0.48 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, records 1.00, units 1.00
+- self-portrait, asked "Who are you?": *"I am running!"
+

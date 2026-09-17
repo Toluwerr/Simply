@@ -30957,3 +30957,110 @@ A: The currency of Australia is the dollar.
 
 Q: What currency does Zimbabwe use?
 A: The currency of Zimbabwe is the dollar.
+Q: How do you sort 11, 23, and 4?
+A: In order, they are 4 11 23.
+
+Q: How do you sort 13, 16, and 20?
+A: In order, they are 13 16 20.
+
+Q: How do you sort 474, 70, and 342?
+A: In order, they are 70 342 474.
+
+Q: How do you sort 20, 12, and 13?
+A: In order, they are 12 13 20.
+
+Q: How do you sort 537, 692, and 767?
+A: In order, they are 537 692 767.
+
+Q: How do you sort 4, 15, and 1?
+A: In order, they are 1 4 15.
+
+Q: Which is bigger, 41 or 45?
+A: 45 is bigger than 41.
+
+Q: Is 14 bigger than 1?
+A: Yes, 14 is bigger than 1.
+
+Q: Which is bigger, 674 or 864?
+A: 864 is bigger than 674.
+
+Q: Is 2 bigger than 3?
+A: No, 3 is bigger than 2.
+
+Q: Which is bigger, 13 or 4?
+A: 13 is bigger than 4.
+
+Q: Which is bigger, 66 or 85?
+A: 85 is bigger than 66.
+
+Q: What number is the Roman numeral cmxxxviii?
+A: The Roman numeral cmxxxviii is the number 938.
+
+Q: What number is the Roman numeral lxxvii?
+A: The Roman numeral lxxvii is the number 77.
+
+Q: What is the Roman numeral for 744?
+A: The Roman numeral for 744 is dccxliv.
+
+Q: What number is the Roman numeral lxv?
+A: The Roman numeral lxv is the number 65.
+
+Q: What number is the Roman numeral dclxxii?
+A: The Roman numeral dclxxii is the number 672.
+
+Q: What is the Roman numeral for 180?
+A: The Roman numeral for 180 is clxxx.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: How many letters does the word 'tobago' have?
+A: The word 'tobago' has 6 letters.
+
+Q: How many letters does the word 'charleston' have?
+A: The word 'charleston' has 10 letters.
+
+Q: How many letters does the word 'kingston' have?
+A: The word 'kingston' has 8 letters.
+
+Q: How many letters does the word 'azerbaijan' have?
+A: The word 'azerbaijan' has 10 letters.
+
+Q: How many letters does the word 'picked' have?
+A: The word 'picked' has 6 letters.
+
+Q: How many letters does the word 'naypyidaw' have?
+A: The word 'naypyidaw' has 9 letters.
