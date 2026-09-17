@@ -43756,3 +43756,146 @@ A: The capital of the Maldives is Male.
 
 Q: What is the capital of Myanmar?
 A: The capital of Myanmar is Naypyidaw.
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: What is the capital of Kuwait?
+A: The capital of Kuwait is Kuwait City.
+
+Q: What is the capital of Iran?
+A: The capital of Iran is Tehran.
+
+Q: What is the capital of Jordan?
+A: The capital of Jordan is Amman.
+
+Q: What is the capital of Libya?
+A: The capital of Libya is Tripoli.
+
+Q: What is the capital of Guinea-Bissau?
+A: The capital of Guinea-Bissau is Bissau.
+
+Q: What is the capital of Vietnam?
+A: The capital of Vietnam is Hanoi.
+
+Q: What is the capital of Saint Lucia?
+A: The capital of Saint Lucia is Castries.
+
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+
+Q: What is 613 minus 99?
+A: 613 minus 99 is 514.
+
+Q: What is 74 minus 65?
+A: 74 minus 65 is 9.
+
+Q: What is 14 minus 8?
+A: 14 minus 8 is 6.
+
+Q: What is 4 times 2?
+A: 4 times 2 is 8.
+
+Q: What is 9 times 7?
+A: 9 times 7 is 63.
+
+Q: What is 12 times 12?
+A: 12 times 12 is 144.
+
+Q: What is 8 times 3?
+A: 8 times 3 is 24.
+
+Q: What is 20 minus 4?
+A: 20 minus 4 is 16.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the last letter of 'hafnium'?
+A: The last letter of 'hafnium' is M.
+
+Q: What is the first letter of 'lisbon'?
+A: The first letter of 'lisbon' is L.
+
+Q: What is the first letter of 'dog'?
+A: The first letter of 'dog' is D.
+
+Q: What is the last letter of 'helena'?
+A: The last letter of 'helena' is A.
+
+Q: What is the last letter of 'slightly'?
+A: The last letter of 'slightly' is Y.
+
+Q: What is the last letter of 'santo'?
+A: The last letter of 'santo' is O.
+
+Q: What is the first letter of 'argon'?
+A: The first letter of 'argon' is A.
+
+Q: What is the first letter of 'gambia'?
+A: The first letter of 'gambia' is G.
+
+Q: Which is bigger, 16 or 18?
+A: 18 is bigger than 16.
+
+Q: Is 806 bigger than 385?
+A: Yes, 806 is bigger than 385.
+
+Q: Which is bigger, 819 or 734?
+A: 819 is bigger than 734.
+
+Q: Is 86 bigger than 99?
+A: No, 99 is bigger than 86.
+
+Q: Is 42 bigger than 86?
+A: No, 86 is bigger than 42.
+
+Q: Is 1 bigger than 5?
+A: No, 5 is bigger than 1.
+
+Q: Which is bigger, 840 or 693?
+A: 840 is bigger than 693.
+
+Q: Which is bigger, 19 or 16?
+A: 19 is bigger than 16.
