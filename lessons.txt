@@ -20370,3 +20370,110 @@ A: The Roman numeral dcccliii is the number 853.
 
 Q: What number is the Roman numeral dccclxxviii?
 A: The Roman numeral dccclxxviii is the number 878.
+Q: How do you sort 431, 595, and 86?
+A: In order, they are 86 431 595.
+
+Q: How do you sort 450, 41, and 926?
+A: In order, they are 41 450 926.
+
+Q: How do you sort 16, 19, and 25?
+A: In order, they are 16 19 25.
+
+Q: How do you sort 663, 787, and 119?
+A: In order, they are 119 663 787.
+
+Q: How do you sort 27, 21, and 1?
+A: In order, they are 1 21 27.
+
+Q: How do you sort 22, 21, and 24?
+A: In order, they are 21 22 24.
+
+Q: What is 728 plus 175?
+A: 728 plus 175 is 903.
+
+Q: What is 886 minus 452?
+A: 886 minus 452 is 434.
+
+Q: What is 988 minus 499?
+A: 988 minus 499 is 489.
+
+Q: What is 523 plus 642?
+A: 523 plus 642 is 1165.
+
+Q: What is 14 times 11?
+A: 14 times 11 is 154.
+
+Q: What is 60 plus 62?
+A: 60 plus 62 is 122.
+
+Q: How many letters does the word 'praseodymium' have?
+A: The word 'praseodymium' has 12 letters.
+
+Q: How many letters does the word 'burundi' have?
+A: The word 'burundi' has 7 letters.
+
+Q: How many letters does the word 'bridgetown' have?
+A: The word 'bridgetown' has 10 letters.
+
+Q: How many letters does the word 'lansing' have?
+A: The word 'lansing' has 7 letters.
+
+Q: How many letters does the word 'uranium' have?
+A: The word 'uranium' has 7 letters.
+
+Q: How many letters does the word 'brazzaville' have?
+A: The word 'brazzaville' has 11 letters.
+
+Q: What is the first letter of 'phnom'?
+A: The first letter of 'phnom' is P.
+
+Q: What is the first letter of 'oklahoma'?
+A: The first letter of 'oklahoma' is O.
+
+Q: What is the last letter of 'able'?
+A: The last letter of 'able' is E.
+
+Q: What is the first letter of 'september'?
+A: The first letter of 'september' is S.
+
+Q: What is the first letter of 'bird'?
+A: The first letter of 'bird' is B.
+
+Q: What is the last letter of 'things'?
+A: The last letter of 'things' is S.
+
+Q: What is the chemical symbol for silver?
+A: The chemical symbol for silver is Ag.
+
+Q: Which element has the chemical symbol Te?
+A: Te is the chemical symbol for tellurium.
+
+Q: Which element has the chemical symbol Be?
+A: Be is the chemical symbol for beryllium.
+
+Q: Which element has the chemical symbol Te?
+A: Te is the chemical symbol for tellurium.
+
+Q: What is the chemical symbol for samarium?
+A: The chemical symbol for samarium is Sm.
+
+Q: What is the chemical symbol for nickel?
+A: The chemical symbol for nickel is Ni.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
