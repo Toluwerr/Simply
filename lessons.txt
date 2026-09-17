@@ -42325,3 +42325,170 @@ A: 20 is bigger than 15.
 
 Q: Is 178 bigger than 455?
 A: No, 455 is bigger than 178.
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 37 in words?
+A: 37 in words is thirty-seven.
+
+Q: What currency does Qatar use?
+A: The currency of Qatar is the riyal.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Costa Rica use?
+A: The currency of Costa Rica is the colon.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Mauritius use?
+A: The currency of Mauritius is the rupee.
+
+Q: What currency does Romania use?
+A: The currency of Romania is the leu.
+
+Q: What currency does Sudan use?
+A: The currency of Sudan is the pound.
+
+Q: What currency does Nepal use?
+A: The currency of Nepal is the rupee.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: How do you sort 7, 3, and 4?
+A: In order, they are 3 4 7.
+
+Q: How do you sort 22, 700, and 394?
+A: In order, they are 22 394 700.
+
+Q: How do you sort 905, 160, and 222?
+A: In order, they are 160 222 905.
+
+Q: How do you sort 27, 16, and 3?
+A: In order, they are 3 16 27.
+
+Q: How do you sort 400, 833, and 665?
+A: In order, they are 400 665 833.
+
+Q: How do you sort 21, 5, and 25?
+A: In order, they are 5 21 25.
+
+Q: How do you sort 19, 11, and 23?
+A: In order, they are 11 19 23.
+
+Q: How do you sort 198, 264, and 357?
+A: In order, they are 198 264 357.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
