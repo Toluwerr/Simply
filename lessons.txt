@@ -32937,3 +32937,170 @@ A: The capital of Malaysia is Kuala Lumpur.
 
 Q: What is the capital of Cuba?
 A: The capital of Cuba is Havana.
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of Greece?
+A: The capital of Greece is Athens.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: What is the capital of Cambodia?
+A: The capital of Cambodia is Phnom Penh.
+
+Q: What is the capital of Mali?
+A: The capital of Mali is Bamako.
+
+Q: What is the capital of Norway?
+A: The capital of Norway is Oslo.
+
+Q: What is the capital of Lithuania?
+A: The capital of Lithuania is Vilnius.
+
+Q: What is the capital of Fiji?
+A: The capital of Fiji is Suva.
+
+Q: What is 18 minus 8?
+A: 18 minus 8 is 10.
+
+Q: What is 87 minus 13?
+A: 87 minus 13 is 74.
+
+Q: What is 79 minus 42?
+A: 79 minus 42 is 37.
+
+Q: What is 461 minus 253?
+A: 461 minus 253 is 208.
+
+Q: What is 14 times 18?
+A: 14 times 18 is 252.
+
+Q: What is 8 times 8?
+A: 8 times 8 is 64.
+
+Q: What is 4 times 2?
+A: 4 times 2 is 8.
+
+Q: What is 663 plus 718?
+A: 663 plus 718 is 1381.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: How many letters does the word 'oceania' have?
+A: The word 'oceania' has 7 letters.
+
+Q: How many letters does the word 'kwacha' have?
+A: The word 'kwacha' has 6 letters.
+
+Q: How many letters does the word 'guatemala' have?
+A: The word 'guatemala' has 9 letters.
+
+Q: How many letters does the word 'macedonia' have?
+A: The word 'macedonia' has 9 letters.
+
+Q: How many letters does the word 'pula' have?
+A: The word 'pula' has 4 letters.
+
+Q: How many letters does the word 'calcium' have?
+A: The word 'calcium' has 7 letters.
+
+Q: How many letters does the word 'lazy' have?
+A: The word 'lazy' has 4 letters.
+
+Q: How many letters does the word 'sudan' have?
+A: The word 'sudan' has 5 letters.
+
+Q: What is the first letter of 'columbus'?
+A: The first letter of 'columbus' is C.
+
+Q: What is the last letter of 'wisconsin'?
+A: The last letter of 'wisconsin' is N.
+
+Q: What is the last letter of 'washington'?
+A: The last letter of 'washington' is N.
+
+Q: What is the last letter of 'fierce'?
+A: The last letter of 'fierce' is E.
+
+Q: What is the last letter of 'asia'?
+A: The last letter of 'asia' is A.
+
+Q: What is the last letter of 'lead'?
+A: The last letter of 'lead' is D.
+
+Q: What is the first letter of 'richmond'?
+A: The first letter of 'richmond' is R.
+
+Q: What is the last letter of 'huge'?
+A: The last letter of 'huge' is E.
+
+Q: Which is bigger, 17 or 16?
+A: 17 is bigger than 16.
+
+Q: Is 38 bigger than 25?
+A: Yes, 38 is bigger than 25.
+
+Q: Which is bigger, 7 or 19?
+A: 19 is bigger than 7.
+
+Q: Which is bigger, 281 or 232?
+A: 281 is bigger than 232.
+
+Q: Which is bigger, 91 or 57?
+A: 91 is bigger than 57.
+
+Q: Is 4 bigger than 14?
+A: No, 14 is bigger than 4.
+
+Q: Which is bigger, 11 or 7?
+A: 11 is bigger than 7.
+
+Q: Is 364 bigger than 718?
+A: No, 718 is bigger than 364.
