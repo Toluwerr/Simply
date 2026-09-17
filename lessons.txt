@@ -50768,3 +50768,170 @@ A: The opposite of 'up' is 'down'.
 
 Q: What is the opposite of 'open'?
 A: The opposite of 'open' is 'closed'.
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does Israel use?
+A: The currency of Israel is the shekel.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: What currency does Iraq use?
+A: The currency of Iraq is the dinar.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does Japan use?
+A: The currency of Japan is the yen.
+
+Q: What currency does Egypt use?
+A: The currency of Egypt is the pound.
+
+Q: What number is the Roman numeral cclxxiii?
+A: The Roman numeral cclxxiii is the number 273.
+
+Q: What is the Roman numeral for 510?
+A: The Roman numeral for 510 is dx.
+
+Q: What is the Roman numeral for 98?
+A: The Roman numeral for 98 is xcviii.
+
+Q: What is the Roman numeral for 262?
+A: The Roman numeral for 262 is cclxii.
+
+Q: What is the Roman numeral for 529?
+A: The Roman numeral for 529 is dxxix.
+
+Q: What is the Roman numeral for 162?
+A: The Roman numeral for 162 is clxii.
+
+Q: What number is the Roman numeral dcccxliii?
+A: The Roman numeral dcccxliii is the number 843.
+
+Q: What number is the Roman numeral lv?
+A: The Roman numeral lv is the number 55.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: What is 844 plus 601?
+A: 844 plus 601 is 1445.
+
+Q: What is 13 times 15?
+A: 13 times 15 is 195.
+
+Q: What is 46 minus 19?
+A: 46 minus 19 is 27.
+
+Q: What is 2 times 5?
+A: 2 times 5 is 10.
+
+Q: What is 17 minus 16?
+A: 17 minus 16 is 1.
+
+Q: What is 66 plus 93?
+A: 66 plus 93 is 159.
+
+Q: What is 3 times 3?
+A: 3 times 3 is 9.
+
+Q: What is 88 minus 79?
+A: 88 minus 79 is 9.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
