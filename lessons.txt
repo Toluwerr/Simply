@@ -28477,3 +28477,170 @@ A: The last letter of 'forint' is T.
 
 Q: What is the first letter of 'manganese'?
 A: The first letter of 'manganese' is M.
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: How do you sort 1, 13, and 9?
+A: In order, they are 1 9 13.
+
+Q: How do you sort 22, 25, and 6?
+A: In order, they are 6 22 25.
+
+Q: How do you sort 24, 27, and 10?
+A: In order, they are 10 24 27.
+
+Q: How do you sort 896, 335, and 662?
+A: In order, they are 335 662 896.
+
+Q: How do you sort 505, 313, and 758?
+A: In order, they are 313 505 758.
+
+Q: How do you sort 79, 712, and 572?
+A: In order, they are 79 572 712.
+
+Q: How do you sort 25, 20, and 5?
+A: In order, they are 5 20 25.
+
+Q: How do you sort 516, 196, and 920?
+A: In order, they are 196 516 920.
+
+Q: What is the first letter of 'bandar'?
+A: The first letter of 'bandar' is B.
+
+Q: What is the first letter of 'greece'?
+A: The first letter of 'greece' is G.
+
+Q: What is the first letter of 'paris'?
+A: The first letter of 'paris' is P.
+
+Q: What is the last letter of 'owl'?
+A: The last letter of 'owl' is L.
+
+Q: What is the first letter of 'giant'?
+A: The first letter of 'giant' is G.
+
+Q: What is the first letter of 'arkansas'?
+A: The first letter of 'arkansas' is A.
+
+Q: What is the first letter of 'eager'?
+A: The first letter of 'eager' is E.
+
+Q: What is the last letter of 'kathmandu'?
+A: The last letter of 'kathmandu' is U.
+
+Q: What continent is Tuvalu on?
+A: Tuvalu is on the continent of Oceania.
+
+Q: What continent is the Maldives on?
+A: the Maldives is on the continent of Asia.
+
+Q: What continent is Mozambique on?
+A: Mozambique is on the continent of Africa.
+
+Q: What continent is Azerbaijan on?
+A: Azerbaijan is on the continent of Asia.
+
+Q: What continent is Bosnia and Herzegovina on?
+A: Bosnia and Herzegovina is on the continent of Europe.
+
+Q: What continent is Bahrain on?
+A: Bahrain is on the continent of Asia.
+
+Q: What continent is Jordan on?
+A: Jordan is on the continent of Asia.
+
+Q: What continent is Ethiopia on?
+A: Ethiopia is on the continent of Africa.
+
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+
+Q: What is the capital of Bolivia?
+A: The capital of Bolivia is La Paz.
+
+Q: What is the capital of Taiwan?
+A: The capital of Taiwan is Taipei.
+
+Q: What is the capital of Costa Rica?
+A: The capital of Costa Rica is San Jose.
+
+Q: What is the capital of Portugal?
+A: The capital of Portugal is Lisbon.
+
+Q: What is the capital of the Dominican Republic?
+A: The capital of the Dominican Republic is Santo Domingo.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+
+Q: What is the capital of Senegal?
+A: The capital of Senegal is Dakar.
+
+Q: Can you count by ones from 4 to 7?
+A: Counting by ones gives 4 5 6 7.
+
+Q: Can you count by twos from 36 to 46?
+A: Counting by twos gives 36 38 40 42 44 46.
+
+Q: Can you count by twos from 28 to 36?
+A: Counting by twos gives 28 30 32 34 36.
+
+Q: Can you count by twos from 10 to 16?
+A: Counting by twos gives 10 12 14 16.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by ones from 29 to 34?
+A: Counting by ones gives 29 30 31 32 33 34.
+
+Q: Can you count by twos from 16 to 20?
+A: Counting by twos gives 16 18 20.
+
+Q: Can you count by twos from 10 to 14?
+A: Counting by twos gives 10 12 14.
+
+Q: Is 20 bigger than 6?
+A: Yes, 20 is bigger than 6.
+
+Q: Which is bigger, 5 or 6?
+A: 6 is bigger than 5.
+
+Q: Which is bigger, 4 or 9?
+A: 9 is bigger than 4.
+
+Q: Which is bigger, 4 or 9?
+A: 9 is bigger than 4.
+
+Q: Which is bigger, 56 or 80?
+A: 80 is bigger than 56.
+
+Q: Which is bigger, 409 or 435?
+A: 435 is bigger than 409.
+
+Q: Which is bigger, 12 or 10?
+A: 12 is bigger than 10.
+
+Q: Is 16 bigger than 5?
+A: Yes, 16 is bigger than 5.
