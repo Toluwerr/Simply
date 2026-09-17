@@ -6973,3 +6973,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: knowledge 0.04, was 0.00; val 1.2705
 - self-portrait, asked "Who are you?": *"Eown plus they are 53."
 
+## Iteration 776 - NO_GAIN
+- **when**: 2026-09-17T17:11:28Z
+- **train loss**: 1.8796 | **val loss**: 1.5532 | **run best**: 1.2705
+- **corpus**: 284,636 chars (+0 self-written examples)
+- **internet reading**: +55 articles, +31 facts (3,030 read all-time)
+- **lr**: 0.0015 | **steps**: 30
+- **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, reading 0.00, definitions 0.00
+- self-portrait, asked "Who are you?": *"Fud is the capital of Latour is T you count biggest is the by tens gives."
+

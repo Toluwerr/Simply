@@ -46308,3 +46308,146 @@ A: The currency of Egypt is the pound.
 
 Q: What currency does Poland use?
 A: The currency of Poland is the zloty.
+Q: What is the last letter of 'dhaka'?
+A: The last letter of 'dhaka' is A.
+
+Q: What is the first letter of 'moldova'?
+A: The first letter of 'moldova' is M.
+
+Q: What is the last letter of 'salvador'?
+A: The last letter of 'salvador' is R.
+
+Q: What is the first letter of 'yaounde'?
+A: The first letter of 'yaounde' is Y.
+
+Q: What is the first letter of 'morocco'?
+A: The first letter of 'morocco' is M.
+
+Q: What is the first letter of 'tajikistan'?
+A: The first letter of 'tajikistan' is T.
+
+Q: What is the first letter of 'yerevan'?
+A: The first letter of 'yerevan' is Y.
+
+Q: What is the last letter of 'berlin'?
+A: The last letter of 'berlin' is N.
+
+Q: How do you sort 20, 3, and 17?
+A: In order, they are 3 17 20.
+
+Q: How do you sort 22, 2, and 13?
+A: In order, they are 2 13 22.
+
+Q: How do you sort 4, 9, and 29?
+A: In order, they are 4 9 29.
+
+Q: How do you sort 842, 880, and 556?
+A: In order, they are 556 842 880.
+
+Q: How do you sort 5, 3, and 28?
+A: In order, they are 3 5 28.
+
+Q: How do you sort 24, 28, and 26?
+A: In order, they are 24 26 28.
+
+Q: How do you sort 26, 24, and 12?
+A: In order, they are 12 24 26.
+
+Q: How do you sort 17, 26, and 16?
+A: In order, they are 16 17 26.
+
+Q: Which is bigger, 6 or 20?
+A: 20 is bigger than 6.
+
+Q: Which is bigger, 15 or 17?
+A: 17 is bigger than 15.
+
+Q: Is 18 bigger than 8?
+A: Yes, 18 is bigger than 8.
+
+Q: Which is bigger, 675 or 740?
+A: 740 is bigger than 675.
+
+Q: Is 714 bigger than 367?
+A: Yes, 714 is bigger than 367.
+
+Q: Which is bigger, 4 or 7?
+A: 7 is bigger than 4.
+
+Q: Which is bigger, 745 or 186?
+A: 745 is bigger than 186.
+
+Q: Is 429 bigger than 780?
+A: No, 780 is bigger than 429.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: What is the capital of Sierra Leone?
+A: The capital of Sierra Leone is Freetown.
+
+Q: What is the capital of Bahrain?
+A: The capital of Bahrain is Manama.
+
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+
+Q: What is the capital of Brunei?
+A: The capital of Brunei is Bandar Seri Begawan.
+
+Q: What is the capital of Slovenia?
+A: The capital of Slovenia is Ljubljana.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of Uruguay?
+A: The capital of Uruguay is Montevideo.
+
+Q: What is the capital of North Macedonia?
+A: The capital of North Macedonia is Skopje.
+
+Q: What is 10 plus 8?
+A: 10 plus 8 is 18.
+
+Q: What is 549 plus 205?
+A: 549 plus 205 is 754.
+
+Q: What is 15 times 17?
+A: 15 times 17 is 255.
+
+Q: What is 889 plus 63?
+A: 889 plus 63 is 952.
+
+Q: What is 48 plus 83?
+A: 48 plus 83 is 131.
+
+Q: What is 793 minus 469?
+A: 793 minus 469 is 324.
+
+Q: What is 2 times 5?
+A: 2 times 5 is 10.
+
+Q: What is 9 times 8?
+A: 9 times 8 is 72.

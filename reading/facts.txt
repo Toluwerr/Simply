@@ -4156,3 +4156,96 @@ A: Further Mathematics is the title given to a number of advanced secondary math
 
 Q: What is Mathematical logic?
 A: Mathematical logic is the study of formal logic within mathematics.
+
+Q: What is Procedural programming?
+A: Procedural programming is a programming paradigm, classified as imperative programming.
+
+Q: What is CLU?
+A: CLU is a class-based programming language created at the Massachusetts Institute of Technology by Barbara Liskov and her students starting in 1973.
+
+Q: What is For instance, here?
+A: For instance, here is the CLU syntax for a cluster that implements complex numbers: A cluster implements a data abstraction.
+
+Q: What is Barton Town Football Club?
+A: Barton Town Football Club is a football club based in Barton-upon-Humber, Lincolnshire, England.
+
+Q: What is Dennis Joseph?
+A: Dennis Joseph is an Indian scriptwriter and director known for his work in Malayalam films.
+
+Q: What is Urai?
+A: Urai is a rural locality in Asovskoye Rural Settlement, Beryozovsky District, Perm Krai, Russia.
+
+Q: What is Asovo?
+A: Asovo is the nearest rural locality.
+
+Q: What is Central Stadium?
+A: Central Stadium is a multi-purpose stadium in Tbilisi, Georgia.
+
+Q: What is John German?
+A: John German is an American physicist who is the US co-lead of the International Council on Clean Transportation .
+
+Q: What is Zajkov?
+A: Zajkov is a municipality and village in Pelhimov District in the Vysoina Region of the Czech Republic.
+
+Q: What is Elizabeth Anne Allen?
+A: Elizabeth Anne Allen is an American former actress.
+
+Q: What is Notoziphius?
+A: Notoziphius is an extinct genus of beaked whale from the Late Miocene of Patagonia, Argentina.
+
+Q: What is Here, Ninoziphius?
+A: Here, Ninoziphius is the most basal member of Ziphiidae, followed by Notoziphius and the Messapicetiformes.
+
+Q: What is Childhood Companion?
+A: Childhood Companion is a Malayalam romantic tragedy novel written by Vaikom Muhammad Basheer.
+
+Q: What is Antipodochlora?
+A: Antipodochlora is a genus of dragonfly in the family Corduliidae.
+
+Q: What is Tennis?
+A: Tennis is a racket sport that is played either individually against a single opponent or between two teams of two players each .
+
+Q: What is Optus Sport?
+A: Optus Sport is an Australian group of sports channels, owned by Optus launched on 13 July 2016.
+
+Q: What is Halkapnar Sport Hall?
+A: Halkapnar Sport Hall is an indoor multi-purpose sport venue that is located in the Halkapnar neighborhood of zmir, Turkey.
+
+Q: What is Fowling?
+A: Fowling is a hybrid game that combines the equipment of American football and bowling into one sport with a similar layout as horseshoes and cornhole.
+
+Q: What is NRK Sport?
+A: NRK Sport is a brand name for sports programming produced by the sports department of Norwegian Broadcasting Corporation .
+
+Q: What is Sport Canada?
+A: Sport Canada is a branch of the Department of Canadian Heritage that develops federal sport policy in Canada.
+
+Q: What is Sport Loreto?
+A: Sport Loreto is a local football institution located in Pucallpa, Peru.
+
+Q: What is Football?
+A: Football is the most played sport, although there are other local sport as Volleyball that also participates in the National Championships.
+
+Q: What is Beyond Sport?
+A: Beyond Sport is a UK-registered global foundation, having the role of promoting sustainable social change through sports.
+
+Q: What is Harrod Sport?
+A: Harrod Sport is a British manufacturer of sporting equipment and netting based in Lowestoft, Suffolk.
+
+Q: What is Argentine footballer Lionel Messi?
+A: Argentine footballer Lionel Messi is a recipient of Peace and Sport's Champions for Peace Award.
+
+Q: What is Sport Extra?
+A: Sport Extra is a Romanian sports television, launched on 2 March 2020.
+
+Q: What is Sport Press?
+A: Sport Press is a daily sports newspaper in Macedonia, now known as North Macedonia.
+
+Q: What is Sport?
+A: Sport is an important part of Greenlandic culture, as the population is generally quite active.
+
+Q: What is Jamie Richard Vardy?
+A: Jamie Richard Vardy is an English professional footballer who plays as a striker for EFL Championship club Burnley.
+
+Q: What is Khuru?
+A: Khuru is a traditional Bhutanese dart sport.
