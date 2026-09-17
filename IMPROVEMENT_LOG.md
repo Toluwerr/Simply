@@ -6538,3 +6538,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"Theital of the capital of the USium is the capital of the capital of Kingdom."
 
+## Iteration 729 - NO_GAIN
+- **when**: 2026-09-17T15:46:29Z
+- **train loss**: 1.7566 | **val loss**: 1.3675 | **run best**: 1.3632
+- **corpus**: 284,554 chars (+0 self-written examples)
+- **internet reading**: +54 articles, +26 facts (2,749 read all-time)
+- **lr**: 0.0003 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"The capital of the capital of South Saneto."
+

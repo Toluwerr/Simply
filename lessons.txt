@@ -38795,3 +38795,170 @@ A: 62 in words is sixty-two.
 
 Q: How do you write 4 in words?
 A: 4 in words is four.
+Q: Which is bigger, 543 or 295?
+A: 543 is bigger than 295.
+
+Q: Is 777 bigger than 594?
+A: Yes, 777 is bigger than 594.
+
+Q: Which is bigger, 382 or 744?
+A: 744 is bigger than 382.
+
+Q: Which is bigger, 125 or 707?
+A: 707 is bigger than 125.
+
+Q: Which is bigger, 897 or 295?
+A: 897 is bigger than 295.
+
+Q: Is 17 bigger than 13?
+A: Yes, 17 is bigger than 13.
+
+Q: Which is bigger, 83 or 74?
+A: 83 is bigger than 74.
+
+Q: Which is bigger, 50 or 59?
+A: 59 is bigger than 50.
+
+Q: How do you sort 552, 911, and 185?
+A: In order, they are 185 552 911.
+
+Q: How do you sort 461, 638, and 675?
+A: In order, they are 461 638 675.
+
+Q: How do you sort 25, 9, and 17?
+A: In order, they are 9 17 25.
+
+Q: How do you sort 3, 8, and 20?
+A: In order, they are 3 8 20.
+
+Q: How do you sort 27, 25, and 24?
+A: In order, they are 24 25 27.
+
+Q: How do you sort 1, 18, and 29?
+A: In order, they are 1 18 29.
+
+Q: How do you sort 313, 505, and 186?
+A: In order, they are 186 313 505.
+
+Q: How do you sort 3, 9, and 25?
+A: In order, they are 3 9 25.
+
+Q: What continent is the Maldives on?
+A: the Maldives is on the continent of Asia.
+
+Q: What continent is the United Arab Emirates on?
+A: the United Arab Emirates is on the continent of Asia.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Tajikistan on?
+A: Tajikistan is on the continent of Asia.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Jamaica on?
+A: Jamaica is on the continent of North America.
+
+Q: What continent is Bangladesh on?
+A: Bangladesh is on the continent of Asia.
+
+Q: What continent is the Republic of the Congo on?
+A: the Republic of the Congo is on the continent of Africa.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: What is the capital of the Comoros?
+A: The capital of the Comoros is Moroni.
+
+Q: What is the capital of Nauru?
+A: The capital of Nauru is Yaren.
+
+Q: What is the capital of Algeria?
+A: The capital of Algeria is Algiers.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
+
+Q: What is the capital of Romania?
+A: The capital of Romania is Bucharest.
+
+Q: What is the capital of the Comoros?
+A: The capital of the Comoros is Moroni.
+
+Q: What is the capital of Bahrain?
+A: The capital of Bahrain is Manama.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
