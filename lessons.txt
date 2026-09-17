@@ -62011,3 +62011,170 @@ A: The last letter of 'gentle' is E.
 
 Q: What is the first letter of 'arizona'?
 A: The first letter of 'arizona' is A.
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: How do you sort 17, 26, and 28?
+A: In order, they are 17 26 28.
+
+Q: How do you sort 14, 4, and 8?
+A: In order, they are 4 8 14.
+
+Q: How do you sort 16, 24, and 28?
+A: In order, they are 16 24 28.
+
+Q: How do you sort 6, 7, and 27?
+A: In order, they are 6 7 27.
+
+Q: How do you sort 535, 186, and 801?
+A: In order, they are 186 535 801.
+
+Q: How do you sort 715, 208, and 631?
+A: In order, they are 208 631 715.
+
+Q: How do you sort 189, 465, and 878?
+A: In order, they are 189 465 878.
+
+Q: How do you sort 8, 18, and 29?
+A: In order, they are 8 18 29.
+
+Q: What is the last letter of 'tiny'?
+A: The last letter of 'tiny' is Y.
+
+Q: What is the first letter of 'caring'?
+A: The first letter of 'caring' is C.
+
+Q: What is the last letter of 'pound'?
+A: The last letter of 'pound' is D.
+
+Q: What is the last letter of 'tin'?
+A: The last letter of 'tin' is N.
+
+Q: What is the last letter of 'grenadines'?
+A: The last letter of 'grenadines' is S.
+
+Q: What is the first letter of 'hawaii'?
+A: The first letter of 'hawaii' is H.
+
+Q: What is the last letter of 'louisiana'?
+A: The last letter of 'louisiana' is A.
+
+Q: What is the first letter of 'montenegro'?
+A: The first letter of 'montenegro' is M.
+
+Q: What continent is Turkey on?
+A: Turkey is on the continent of Asia.
+
+Q: What continent is Namibia on?
+A: Namibia is on the continent of Africa.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
+
+Q: What continent is Tajikistan on?
+A: Tajikistan is on the continent of Asia.
+
+Q: What continent is Sudan on?
+A: Sudan is on the continent of Africa.
+
+Q: What continent is Bulgaria on?
+A: Bulgaria is on the continent of Europe.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Iraq on?
+A: Iraq is on the continent of Asia.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington, D.C..
+
+Q: What is the capital of Senegal?
+A: The capital of Senegal is Dakar.
+
+Q: What is the capital of Bolivia?
+A: The capital of Bolivia is La Paz.
+
+Q: What is the capital of Mauritania?
+A: The capital of Mauritania is Nouakchott.
+
+Q: Can you count by twos from 16 to 20?
+A: Counting by twos gives 16 18 20.
+
+Q: Can you count by ones from 20 to 24?
+A: Counting by ones gives 20 21 22 23 24.
+
+Q: Can you count by twos from 28 to 36?
+A: Counting by twos gives 28 30 32 34 36.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by twos from 24 to 32?
+A: Counting by twos gives 24 26 28 30 32.
+
+Q: Can you count by ones from 39 to 41?
+A: Counting by ones gives 39 40 41.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25.
+
+Q: Which is bigger, 875 or 427?
+A: 875 is bigger than 427.
+
+Q: Which is bigger, 78 or 71?
+A: 78 is bigger than 71.
+
+Q: Is 60 bigger than 75?
+A: No, 75 is bigger than 60.
+
+Q: Is 562 bigger than 335?
+A: Yes, 562 is bigger than 335.
+
+Q: Is 893 bigger than 846?
+A: Yes, 893 is bigger than 846.
+
+Q: Is 64 bigger than 82?
+A: No, 82 is bigger than 64.
+
+Q: Is 327 bigger than 591?
+A: No, 591 is bigger than 327.
+
+Q: Is 13 bigger than 8?
+A: Yes, 13 is bigger than 8.
