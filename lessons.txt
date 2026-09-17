@@ -34702,3 +34702,170 @@ A: 9 is bigger than 6.
 
 Q: Is 7 bigger than 8?
 A: No, 8 is bigger than 7.
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 73 in words?
+A: 73 in words is seventy-three.
+
+Q: How do you write 49 in words?
+A: 49 in words is forty-nine.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: What currency does France use?
+A: The currency of France is the euro.
+
+Q: What currency does Chile use?
+A: The currency of Chile is the peso.
+
+Q: What currency does Uganda use?
+A: The currency of Uganda is the shilling.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
+
+Q: What currency does Croatia use?
+A: The currency of Croatia is the euro.
+
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordoba.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: How do you sort 878, 281, and 485?
+A: In order, they are 281 485 878.
+
+Q: How do you sort 28, 13, and 18?
+A: In order, they are 13 18 28.
+
+Q: How do you sort 9, 21, and 29?
+A: In order, they are 9 21 29.
+
+Q: How do you sort 600, 788, and 930?
+A: In order, they are 600 788 930.
+
+Q: How do you sort 62, 854, and 214?
+A: In order, they are 62 214 854.
+
+Q: How do you sort 117, 292, and 397?
+A: In order, they are 117 292 397.
+
+Q: How do you sort 19, 3, and 9?
+A: In order, they are 3 9 19.
+
+Q: How do you sort 935, 826, and 560?
+A: In order, they are 560 826 935.
+
+Q: What is the first letter of 'cow'?
+A: The first letter of 'cow' is C.
+
+Q: What is the last letter of 'indonesia'?
+A: The last letter of 'indonesia' is A.
+
+Q: What is the last letter of 'slovakia'?
+A: The last letter of 'slovakia' is A.
+
+Q: What is the first letter of 'reykjavik'?
+A: The first letter of 'reykjavik' is R.
+
+Q: What is the first letter of 'tehran'?
+A: The first letter of 'tehran' is T.
+
+Q: What is the last letter of 'palladium'?
+A: The last letter of 'palladium' is M.
+
+Q: What is the first letter of 'niobium'?
+A: The first letter of 'niobium' is N.
+
+Q: What is the first letter of 'hoot'?
+A: The first letter of 'hoot' is H.
