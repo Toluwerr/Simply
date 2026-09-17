@@ -55371,3 +55371,170 @@ A: No, 7 is bigger than 3.
 
 Q: Which is bigger, 54 or 22?
 A: 54 is bigger than 22.
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What continent is Uganda on?
+A: Uganda is on the continent of Africa.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: What continent is the Republic of the Congo on?
+A: the Republic of the Congo is on the continent of Africa.
+
+Q: What continent is Switzerland on?
+A: Switzerland is on the continent of Europe.
+
+Q: What continent is Algeria on?
+A: Algeria is on the continent of Africa.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Jamaica on?
+A: Jamaica is on the continent of North America.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: What is the capital of Kenya?
+A: The capital of Kenya is Nairobi.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+
+Q: What is the capital of Israel?
+A: The capital of Israel is Jerusalem.
+
+Q: What is the capital of Belgium?
+A: The capital of Belgium is Brussels.
+
+Q: What is the capital of Paraguay?
+A: The capital of Paraguay is Asuncion.
+
+Q: What is the capital of Finland?
+A: The capital of Finland is Helsinki.
+
+Q: What is the capital of Laos?
+A: The capital of Laos is Vientiane.
+
+Q: How do you write 2 in words?
+A: 2 in words is two.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 60 in words?
+A: 60 in words is sixty.
+
+Q: How do you sort 32, 62, and 402?
+A: In order, they are 32 62 402.
+
+Q: How do you sort 18, 19, and 13?
+A: In order, they are 13 18 19.
+
+Q: How do you sort 763, 228, and 142?
+A: In order, they are 142 228 763.
+
+Q: How do you sort 24, 4, and 10?
+A: In order, they are 4 10 24.
+
+Q: How do you sort 896, 796, and 339?
+A: In order, they are 339 796 896.
+
+Q: How do you sort 12, 7, and 18?
+A: In order, they are 7 12 18.
+
+Q: How do you sort 956, 65, and 480?
+A: In order, they are 65 480 956.
+
+Q: How do you sort 7, 3, and 17?
+A: In order, they are 3 7 17.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
