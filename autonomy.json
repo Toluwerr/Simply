@@ -17,8 +17,8 @@
       "reward": 6.0
     },
     "experiment": {
-      "tries": 0,
-      "reward": 0.0
+      "tries": 1,
+      "reward": 6.0
     }
   },
   "interests": {
@@ -32,14 +32,14 @@
       "text": "read 832 articles all-time (now 632)"
     },
     {
-      "kind": "master",
-      "cat": "roman",
-      "text": "master the 'roman' subject (quiz 1.0)"
-    },
-    {
       "kind": "know",
       "target": 0.6,
       "text": "lift the knowledge quiz average to 0.60"
+    },
+    {
+      "kind": "read",
+      "target": 922,
+      "text": "read 922 articles all-time (now 722)"
     }
   ],
   "runs": 5
