@@ -43899,3 +43899,170 @@ A: 840 is bigger than 693.
 
 Q: Which is bigger, 19 or 16?
 A: 19 is bigger than 16.
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: What currency does Kuwait use?
+A: The currency of Kuwait is the dinar.
+
+Q: What currency does Bulgaria use?
+A: The currency of Bulgaria is the lev.
+
+Q: What currency does Colombia use?
+A: The currency of Colombia is the peso.
+
+Q: What currency does Paraguay use?
+A: The currency of Paraguay is the guarani.
+
+Q: What currency does Austria use?
+A: The currency of Austria is the euro.
+
+Q: What currency does Austria use?
+A: The currency of Austria is the euro.
+
+Q: What currency does Switzerland use?
+A: The currency of Switzerland is the franc.
+
+Q: What currency does Iraq use?
+A: The currency of Iraq is the dinar.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Rhode Island?
+A: Providence is the capital of Rhode Island.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: How do you sort 322, 903, and 72?
+A: In order, they are 72 322 903.
+
+Q: How do you sort 25, 3, and 29?
+A: In order, they are 3 25 29.
+
+Q: How do you sort 73, 706, and 554?
+A: In order, they are 73 554 706.
+
+Q: How do you sort 9, 4, and 24?
+A: In order, they are 4 9 24.
+
+Q: How do you sort 37, 489, and 583?
+A: In order, they are 37 489 583.
+
+Q: How do you sort 27, 23, and 20?
+A: In order, they are 20 23 27.
+
+Q: How do you sort 96, 499, and 484?
+A: In order, they are 96 484 499.
+
+Q: How do you sort 28, 21, and 29?
+A: In order, they are 21 28 29.
+
+Q: What is the last letter of 'kingston'?
+A: The last letter of 'kingston' is N.
+
+Q: What is the last letter of 'vanadium'?
+A: The last letter of 'vanadium' is M.
+
+Q: What is the last letter of 'islamabad'?
+A: The last letter of 'islamabad' is D.
+
+Q: What is the first letter of 'des'?
+A: The first letter of 'des' is D.
+
+Q: What is the last letter of 'syria'?
+A: The last letter of 'syria' is A.
+
+Q: What is the first letter of 'not'?
+A: The first letter of 'not' is N.
+
+Q: What is the last letter of 'virginia'?
+A: The last letter of 'virginia' is A.
+
+Q: What is the first letter of 'principe'?
+A: The first letter of 'principe' is P.
