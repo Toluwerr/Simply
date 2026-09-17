@@ -46451,3 +46451,170 @@ A: 2 times 5 is 10.
 
 Q: What is 9 times 8?
 A: 9 times 8 is 72.
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What is the chemical symbol for cadmium?
+A: The chemical symbol for cadmium is Cd.
+
+Q: What is the chemical symbol for krypton?
+A: The chemical symbol for krypton is Kr.
+
+Q: Which element has the chemical symbol Nd?
+A: Nd is the chemical symbol for neodymium.
+
+Q: Which element has the chemical symbol Cu?
+A: Cu is the chemical symbol for copper.
+
+Q: What is the chemical symbol for titanium?
+A: The chemical symbol for titanium is Ti.
+
+Q: What is the chemical symbol for argon?
+A: The chemical symbol for argon is Ar.
+
+Q: Which element has the chemical symbol Ge?
+A: Ge is the chemical symbol for germanium.
+
+Q: What is the chemical symbol for uranium?
+A: The chemical symbol for uranium is U.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the Roman numeral for 9?
+A: The Roman numeral for 9 is ix.
+
+Q: What number is the Roman numeral xcii?
+A: The Roman numeral xcii is the number 92.
+
+Q: What is the Roman numeral for 412?
+A: The Roman numeral for 412 is cdxii.
+
+Q: What number is the Roman numeral lxvii?
+A: The Roman numeral lxvii is the number 67.
+
+Q: What is the Roman numeral for 7?
+A: The Roman numeral for 7 is vii.
+
+Q: What number is the Roman numeral xlvii?
+A: The Roman numeral xlvii is the number 47.
+
+Q: What number is the Roman numeral xvii?
+A: The Roman numeral xvii is the number 17.
+
+Q: What is the Roman numeral for 14?
+A: The Roman numeral for 14 is xiv.
+
+Q: What is the last letter of 'stand'?
+A: The last letter of 'stand' is D.
+
+Q: What is the first letter of 'florida'?
+A: The first letter of 'florida' is F.
+
+Q: What is the first letter of 'slovenia'?
+A: The first letter of 'slovenia' is S.
+
+Q: What is the last letter of 'strong'?
+A: The last letter of 'strong' is G.
+
+Q: What is the last letter of 'flower'?
+A: The last letter of 'flower' is R.
+
+Q: What is the first letter of 'platinum'?
+A: The first letter of 'platinum' is P.
+
+Q: What is the last letter of 'things'?
+A: The last letter of 'things' is S.
+
+Q: What is the last letter of 'windhoek'?
+A: The last letter of 'windhoek' is K.
+
+Q: Is 16 bigger than 29?
+A: No, 29 is bigger than 16.
+
+Q: Which is bigger, 54 or 44?
+A: 54 is bigger than 44.
+
+Q: Which is bigger, 221 or 941?
+A: 941 is bigger than 221.
+
+Q: Is 175 bigger than 100?
+A: Yes, 175 is bigger than 100.
+
+Q: Which is bigger, 20 or 13?
+A: 20 is bigger than 13.
+
+Q: Which is bigger, 542 or 330?
+A: 542 is bigger than 330.
+
+Q: Is 11 bigger than 3?
+A: Yes, 11 is bigger than 3.
+
+Q: Is 622 bigger than 163?
+A: Yes, 622 is bigger than 163.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is double 32?
+A: Double 32 is 64.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is half of 20?
+A: Half of 20 is 10.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is half of 50?
+A: Half of 50 is 25.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
