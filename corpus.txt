@@ -9884,3 +9884,22 @@ A: Double 16 is 32.
 
 Q: Which element has the chemical symbol Cl?
 A: Cl is the chemical symbol for chlorine.
+
+
+Q: How many letters does the word 'henium' have?
+A: The word 'rh' has 6 letters.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
+
+Q: What is the capital of Bahrain?
+A: The capital of Bahrain is Manama.
+
+Q: How do you sort 7, 8, and 22?
+A: In order, they are 7 8 22.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: What sound does a duck make?
+A: A duck says 'quack.
