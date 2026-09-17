@@ -30075,3 +30075,170 @@ A: The last letter of 'roar' is R.
 
 Q: What is the first letter of 'mauritania'?
 A: The first letter of 'mauritania' is M.
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: How do you sort 14, 13, and 10?
+A: In order, they are 10 13 14.
+
+Q: How do you sort 4, 15, and 1?
+A: In order, they are 1 4 15.
+
+Q: How do you sort 2, 23, and 12?
+A: In order, they are 2 12 23.
+
+Q: How do you sort 12, 5, and 8?
+A: In order, they are 5 8 12.
+
+Q: How do you sort 10, 7, and 9?
+A: In order, they are 7 9 10.
+
+Q: How do you sort 27, 24, and 29?
+A: In order, they are 24 27 29.
+
+Q: How do you sort 138, 872, and 198?
+A: In order, they are 138 198 872.
+
+Q: How do you sort 126, 620, and 980?
+A: In order, they are 126 620 980.
+
+Q: What is the last letter of 'inside'?
+A: The last letter of 'inside' is E.
+
+Q: What is the last letter of 'ankara'?
+A: The last letter of 'ankara' is A.
+
+Q: What is the last letter of 'quack'?
+A: The last letter of 'quack' is K.
+
+Q: What is the first letter of 'nickel'?
+A: The first letter of 'nickel' is N.
+
+Q: What is the first letter of 'funafuti'?
+A: The first letter of 'funafuti' is F.
+
+Q: What is the first letter of 'lithuania'?
+A: The first letter of 'lithuania' is L.
+
+Q: What is the last letter of 'dirty'?
+A: The last letter of 'dirty' is Y.
+
+Q: What is the first letter of 'chair'?
+A: The first letter of 'chair' is C.
+
+Q: What continent is Turkmenistan on?
+A: Turkmenistan is on the continent of Asia.
+
+Q: What continent is the Philippines on?
+A: the Philippines is on the continent of Asia.
+
+Q: What continent is Rwanda on?
+A: Rwanda is on the continent of Africa.
+
+Q: What continent is Albania on?
+A: Albania is on the continent of Europe.
+
+Q: What continent is North Korea on?
+A: North Korea is on the continent of Asia.
+
+Q: What continent is Greece on?
+A: Greece is on the continent of Europe.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What is the capital of Ireland?
+A: The capital of Ireland is Dublin.
+
+Q: What is the capital of Mongolia?
+A: The capital of Mongolia is Ulaanbaatar.
+
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
+
+Q: What is the capital of Laos?
+A: The capital of Laos is Vientiane.
+
+Q: What is the capital of Norway?
+A: The capital of Norway is Oslo.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What is the capital of Senegal?
+A: The capital of Senegal is Dakar.
+
+Q: What is the capital of San Marino?
+A: The capital of San Marino is San Marino.
+
+Q: Can you count by fives from 5 to 15?
+A: Counting by fives gives 5 10 15.
+
+Q: Can you count by twos from 20 to 24?
+A: Counting by twos gives 20 22 24.
+
+Q: Can you count by ones from 31 to 34?
+A: Counting by ones gives 31 32 33 34.
+
+Q: Can you count by twos from 14 to 20?
+A: Counting by twos gives 14 16 18 20.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: Can you count by ones from 37 to 39?
+A: Counting by ones gives 37 38 39.
+
+Q: Can you count by ones from 1 to 4?
+A: Counting by ones gives 1 2 3 4.
+
+Q: Can you count by ones from 14 to 17?
+A: Counting by ones gives 14 15 16 17.
+
+Q: Which is bigger, 7 or 15?
+A: 15 is bigger than 7.
+
+Q: Is 93 bigger than 24?
+A: Yes, 93 is bigger than 24.
+
+Q: Which is bigger, 76 or 18?
+A: 76 is bigger than 18.
+
+Q: Which is bigger, 18 or 10?
+A: 18 is bigger than 10.
+
+Q: Is 63 bigger than 48?
+A: Yes, 63 is bigger than 48.
+
+Q: Which is bigger, 904 or 384?
+A: 904 is bigger than 384.
+
+Q: Is 8 bigger than 9?
+A: No, 9 is bigger than 8.
+
+Q: Which is bigger, 778 or 832?
+A: 832 is bigger than 778.
