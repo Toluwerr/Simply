@@ -58314,3 +58314,170 @@ A: 77 in words is seventy-seven.
 
 Q: How do you write 31 in words?
 A: 31 in words is thirty-one.
+Q: Is 223 bigger than 493?
+A: No, 493 is bigger than 223.
+
+Q: Which is bigger, 7 or 16?
+A: 16 is bigger than 7.
+
+Q: Which is bigger, 464 or 525?
+A: 525 is bigger than 464.
+
+Q: Which is bigger, 559 or 650?
+A: 650 is bigger than 559.
+
+Q: Which is bigger, 3 or 4?
+A: 4 is bigger than 3.
+
+Q: Is 1 bigger than 8?
+A: No, 8 is bigger than 1.
+
+Q: Which is bigger, 20 or 34?
+A: 34 is bigger than 20.
+
+Q: Is 179 bigger than 671?
+A: No, 671 is bigger than 179.
+
+Q: How many letters does the word 'slovenia' have?
+A: The word 'slovenia' has 8 letters.
+
+Q: How many letters does the word 'honolulu' have?
+A: The word 'honolulu' has 8 letters.
+
+Q: How many letters does the word 'shilling' have?
+A: The word 'shilling' has 8 letters.
+
+Q: How many letters does the word 'melon' have?
+A: The word 'melon' has 5 letters.
+
+Q: How many letters does the word 'time' have?
+A: The word 'time' has 4 letters.
+
+Q: How many letters does the word 'amsterdam' have?
+A: The word 'amsterdam' has 9 letters.
+
+Q: How many letters does the word 'quack' have?
+A: The word 'quack' has 5 letters.
+
+Q: How many letters does the word 'soft' have?
+A: The word 'soft' has 4 letters.
+
+Q: How do you sort 549, 29, and 866?
+A: In order, they are 29 549 866.
+
+Q: How do you sort 660, 941, and 419?
+A: In order, they are 419 660 941.
+
+Q: How do you sort 4, 11, and 22?
+A: In order, they are 4 11 22.
+
+Q: How do you sort 811, 616, and 497?
+A: In order, they are 497 616 811.
+
+Q: How do you sort 429, 239, and 78?
+A: In order, they are 78 239 429.
+
+Q: How do you sort 875, 885, and 67?
+A: In order, they are 67 875 885.
+
+Q: How do you sort 14, 19, and 25?
+A: In order, they are 14 19 25.
+
+Q: How do you sort 10, 5, and 13?
+A: In order, they are 5 10 13.
+
+Q: What continent is Laos on?
+A: Laos is on the continent of Asia.
+
+Q: What continent is Malaysia on?
+A: Malaysia is on the continent of Asia.
+
+Q: What continent is China on?
+A: China is on the continent of Asia.
+
+Q: What continent is Chad on?
+A: Chad is on the continent of Africa.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: What continent is Kyrgyzstan on?
+A: Kyrgyzstan is on the continent of Asia.
+
+Q: What continent is the Netherlands on?
+A: the Netherlands is on the continent of Europe.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How do you write 30 in words?
+A: 30 in words is thirty.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: What is the capital of Senegal?
+A: The capital of Senegal is Dakar.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of Venezuela?
+A: The capital of Venezuela is Caracas.
+
+Q: What is the capital of Georgia?
+A: The capital of Georgia is Tbilisi.
+
+Q: What is the capital of Madagascar?
+A: The capital of Madagascar is Antananarivo.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
