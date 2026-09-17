@@ -47629,3 +47629,170 @@ A: The first letter of 'utah' is U.
 
 Q: What is the first letter of 'neptune'?
 A: The first letter of 'neptune' is N.
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: How do you sort 23, 24, and 11?
+A: In order, they are 11 23 24.
+
+Q: How do you sort 7, 16, and 13?
+A: In order, they are 7 13 16.
+
+Q: How do you sort 17, 28, and 16?
+A: In order, they are 16 17 28.
+
+Q: How do you sort 546, 664, and 991?
+A: In order, they are 546 664 991.
+
+Q: How do you sort 5, 2, and 17?
+A: In order, they are 2 5 17.
+
+Q: How do you sort 975, 846, and 735?
+A: In order, they are 735 846 975.
+
+Q: How do you sort 547, 721, and 561?
+A: In order, they are 547 561 721.
+
+Q: How do you sort 286, 364, and 276?
+A: In order, they are 276 286 364.
+
+Q: What is the last letter of 'niger'?
+A: The last letter of 'niger' is R.
+
+Q: What is the last letter of 'soft'?
+A: The last letter of 'soft' is T.
+
+Q: What is the last letter of 'soft'?
+A: The last letter of 'soft' is T.
+
+Q: What is the first letter of 'monrovia'?
+A: The first letter of 'monrovia' is M.
+
+Q: What is the last letter of 'kazakhstan'?
+A: The last letter of 'kazakhstan' is N.
+
+Q: What is the first letter of 'iowa'?
+A: The first letter of 'iowa' is I.
+
+Q: What is the last letter of 'balboa'?
+A: The last letter of 'balboa' is A.
+
+Q: What is the first letter of 'estonia'?
+A: The first letter of 'estonia' is E.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What continent is Morocco on?
+A: Morocco is on the continent of Africa.
+
+Q: What continent is Colombia on?
+A: Colombia is on the continent of South America.
+
+Q: What continent is Greece on?
+A: Greece is on the continent of Europe.
+
+Q: What continent is Algeria on?
+A: Algeria is on the continent of Africa.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: What continent is Argentina on?
+A: Argentina is on the continent of South America.
+
+Q: What continent is Lithuania on?
+A: Lithuania is on the continent of Europe.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: What is the capital of Malta?
+A: The capital of Malta is Valletta.
+
+Q: What is the capital of South Sudan?
+A: The capital of South Sudan is Juba.
+
+Q: What is the capital of Ireland?
+A: The capital of Ireland is Dublin.
+
+Q: What is the capital of Albania?
+A: The capital of Albania is Tirana.
+
+Q: What is the capital of Mauritania?
+A: The capital of Mauritania is Nouakchott.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by twos from 24 to 32?
+A: Counting by twos gives 24 26 28 30 32.
+
+Q: Can you count by ones from 18 to 22?
+A: Counting by ones gives 18 19 20 21 22.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by twos from 26 to 30?
+A: Counting by twos gives 26 28 30.
+
+Q: Can you count by fives from 25 to 40?
+A: Counting by fives gives 25 30 35 40.
+
+Q: Can you count by ones from 15 to 19?
+A: Counting by ones gives 15 16 17 18 19.
+
+Q: Is 648 bigger than 131?
+A: Yes, 648 is bigger than 131.
+
+Q: Is 74 bigger than 15?
+A: Yes, 74 is bigger than 15.
+
+Q: Is 365 bigger than 221?
+A: Yes, 365 is bigger than 221.
+
+Q: Which is bigger, 320 or 647?
+A: 647 is bigger than 320.
+
+Q: Which is bigger, 20 or 19?
+A: 20 is bigger than 19.
+
+Q: Is 265 bigger than 961?
+A: No, 961 is bigger than 265.
+
+Q: Is 13 bigger than 17?
+A: No, 17 is bigger than 13.
+
+Q: Is 20 bigger than 3?
+A: Yes, 20 is bigger than 3.
