@@ -27316,3 +27316,128 @@ A: There are 60 seconds in a minute.
 
 Q: How many hours are in a week?
 A: There are 168 hours in a week.
+Q: What is the Roman numeral for 6?
+A: The Roman numeral for 6 is vi.
+
+Q: What is the Roman numeral for 176?
+A: The Roman numeral for 176 is clxxvi.
+
+Q: What number is the Roman numeral dcxxvii?
+A: The Roman numeral dcxxvii is the number 627.
+
+Q: What number is the Roman numeral lxxx?
+A: The Roman numeral lxxx is the number 80.
+
+Q: What is the Roman numeral for 41?
+A: The Roman numeral for 41 is xli.
+
+Q: What is the Roman numeral for 10?
+A: The Roman numeral for 10 is x.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: How many sides does a triangle have?
+A: A triangle has 3 sides.
+
+Q: Which element has the chemical symbol Re?
+A: Re is the chemical symbol for rhenium.
+
+Q: What is the chemical symbol for lithium?
+A: The chemical symbol for lithium is Li.
+
+Q: What is the chemical symbol for rhodium?
+A: The chemical symbol for rhodium is Rh.
+
+Q: What is the chemical symbol for cadmium?
+A: The chemical symbol for cadmium is Cd.
+
+Q: Which element has the chemical symbol Cr?
+A: Cr is the chemical symbol for chromium.
+
+Q: What is the chemical symbol for ytterbium?
+A: The chemical symbol for ytterbium is Yb.
+
+Q: What is 14 plus 16?
+A: 14 plus 16 is 30.
+
+Q: What is 608 plus 294?
+A: 608 plus 294 is 902.
+
+Q: What is 415 minus 42?
+A: 415 minus 42 is 373.
+
+Q: What is 7 times 6?
+A: 7 times 6 is 42.
+
+Q: What is 5 times 5?
+A: 5 times 5 is 25.
+
+Q: What is 15 plus 15?
+A: 15 plus 15 is 30.
+
+Q: What is the capital of Iraq?
+A: The capital of Iraq is Baghdad.
+
+Q: What is the capital of Cameroon?
+A: The capital of Cameroon is Yaounde.
+
+Q: What is the capital of North Macedonia?
+A: The capital of North Macedonia is Skopje.
+
+Q: What is the capital of Bolivia?
+A: The capital of Bolivia is La Paz.
+
+Q: What is the capital of Madagascar?
+A: The capital of Madagascar is Antananarivo.
+
+Q: What is the capital of Guyana?
+A: The capital of Guyana is Georgetown.
+
+Q: How do you sort 919, 806, and 390?
+A: In order, they are 390 806 919.
+
+Q: How do you sort 11, 25, and 28?
+A: In order, they are 11 25 28.
+
+Q: How do you sort 314, 73, and 221?
+A: In order, they are 73 221 314.
+
+Q: How do you sort 222, 561, and 760?
+A: In order, they are 222 561 760.
+
+Q: How do you sort 309, 787, and 537?
+A: In order, they are 309 537 787.
+
+Q: How do you sort 17, 10, and 9?
+A: In order, they are 9 10 17.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by twos from 16 to 26?
+A: Counting by twos gives 16 18 20 22 24 26.
+
+Q: Can you count by twos from 8 to 14?
+A: Counting by twos gives 8 10 12 14.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by twos from 30 to 38?
+A: Counting by twos gives 30 32 34 36 38.

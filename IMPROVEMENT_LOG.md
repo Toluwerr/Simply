@@ -2858,3 +2858,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.17 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, animals 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"Ivient is spelled."
 
+## Iteration 333 - IMPROVED
+- **when**: 2026-09-17T00:36:25Z
+- **train loss**: 1.2127 | **val loss**: 0.7299 | **run best**: 0.7299
+- **corpus**: 229,642 chars (+0 self-written examples)
+- **internet reading**: +36 articles, +28 facts (632 read all-time)
+- **lr**: 0.0015 | **steps**: 50
+- **knowledge quiz**: avg 0.17 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, units 1.00, continents 1.00
+- self-portrait, asked "Who are you?": *"I train is the first letter of 'slion'town'."
+
