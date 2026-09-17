@@ -47906,3 +47906,146 @@ A: The currency of Norway is the krone.
 
 Q: What currency does Nicaragua use?
 A: The currency of Nicaragua is the cordoba.
+Q: How many letters does the word 'vast' have?
+A: The word 'vast' has 4 letters.
+
+Q: How many letters does the word 'cerium' have?
+A: The word 'cerium' has 6 letters.
+
+Q: How many letters does the word 'uranium' have?
+A: The word 'uranium' has 7 letters.
+
+Q: How many letters does the word 'guarani' have?
+A: The word 'guarani' has 7 letters.
+
+Q: How many letters does the word 'swift' have?
+A: The word 'swift' has 5 letters.
+
+Q: How many letters does the word 'copenhagen' have?
+A: The word 'copenhagen' has 10 letters.
+
+Q: How many letters does the word 'rocket' have?
+A: The word 'rocket' has 6 letters.
+
+Q: How many letters does the word 'zealand' have?
+A: The word 'zealand' has 7 letters.
+
+Q: What is the last letter of 'ghana'?
+A: The last letter of 'ghana' is A.
+
+Q: What is the last letter of 'and'?
+A: The last letter of 'and' is D.
+
+Q: What is the first letter of 'mongolia'?
+A: The first letter of 'mongolia' is M.
+
+Q: What is the last letter of 'picked'?
+A: The last letter of 'picked' is D.
+
+Q: What is the first letter of 'the'?
+A: The first letter of 'the' is T.
+
+Q: What is the first letter of 'slightly'?
+A: The first letter of 'slightly' is S.
+
+Q: What is the last letter of 'bangkok'?
+A: The last letter of 'bangkok' is K.
+
+Q: What is the first letter of 'order'?
+A: The first letter of 'order' is O.
+
+Q: How do you sort 484, 125, and 399?
+A: In order, they are 125 399 484.
+
+Q: How do you sort 11, 3, and 2?
+A: In order, they are 2 3 11.
+
+Q: How do you sort 6, 22, and 2?
+A: In order, they are 2 6 22.
+
+Q: How do you sort 292, 111, and 790?
+A: In order, they are 111 292 790.
+
+Q: How do you sort 927, 277, and 181?
+A: In order, they are 181 277 927.
+
+Q: How do you sort 24, 17, and 2?
+A: In order, they are 2 17 24.
+
+Q: How do you sort 16, 21, and 7?
+A: In order, they are 7 16 21.
+
+Q: How do you sort 26, 7, and 28?
+A: In order, they are 7 26 28.
+
+Q: Is 808 bigger than 413?
+A: Yes, 808 is bigger than 413.
+
+Q: Is 807 bigger than 855?
+A: No, 855 is bigger than 807.
+
+Q: Is 18 bigger than 3?
+A: Yes, 18 is bigger than 3.
+
+Q: Which is bigger, 613 or 409?
+A: 613 is bigger than 409.
+
+Q: Which is bigger, 3 or 20?
+A: 20 is bigger than 3.
+
+Q: Is 6 bigger than 16?
+A: No, 16 is bigger than 6.
+
+Q: Is 360 bigger than 657?
+A: No, 657 is bigger than 360.
+
+Q: Which is bigger, 33 or 25?
+A: 33 is bigger than 25.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: What is the capital of the United Arab Emirates?
+A: The capital of the United Arab Emirates is Abu Dhabi.
+
+Q: What is the capital of Mauritius?
+A: The capital of Mauritius is Port Louis.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.
+
+Q: What is the capital of Malawi?
+A: The capital of Malawi is Lilongwe.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
+
+Q: What is the capital of Taiwan?
+A: The capital of Taiwan is Taipei.

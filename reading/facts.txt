@@ -4249,3 +4249,45 @@ A: Jamie Richard Vardy is an English professional footballer who plays as a stri
 
 Q: What is Khuru?
 A: Khuru is a traditional Bhutanese dart sport.
+
+Q: What is Jaromr Hanzlk?
+A: Jaromr Hanzlk is a Czech actor.
+
+Q: What is Saint Privat?
+A: Saint Privat is a music project conceived by producer Klaus Waldeck and singer Valrie Sajdik in 2004.
+
+Q: What is Aeimnestus?
+A: Aeimnestus is an Ancient Greek word, also spelled aemnstos and armnstos that means unforgettable, literally of everlasting memory.
+
+Q: What is Yuka Ichiguchi?
+A: Yuka Ichiguchi is a Japanese softball player who plays as an infielder.
+
+Q: What is Gus's Cafe?
+A: Gus's Cafe is a caf located in Civic, Canberra, Australia.
+
+Q: What is Lee Heung-sil?
+A: Lee Heung-sil is a South Korean football manager and former footballer.
+
+Q: What is Alsodryas prasinoptila?
+A: Alsodryas prasinoptila is a species of moth in the family Gelechiidae.
+
+Q: What is Abraham Alcano Fernndez?
+A: Abraham Alcano Fernndez is a Chilean politician who served as a minister.
+
+Q: What is Symmetry?
+A: Symmetry is a type of invariance: the property that a mathematical object remains unchanged under a set of operations or transformations.
+
+Q: What is Connected Mathematics?
+A: Connected Mathematics is a comprehensive mathematics program intended for U.S.
+
+Q: What is For example, acceleration?
+A: For example, acceleration is a change in velocity with respect to time.
+
+Q: What is Temporal rate?
+A: Temporal rate is a common type of rate, in which the denominator is a time duration , such as in speed, heart rate, and flux.
+
+Q: What is For instance, a map?
+A: For instance, a map is a continuous function in topology, a linear transformation in linear algebra, etc.
+
+Q: What is Mathematical physics?
+A: Mathematical physics is the development of mathematical methods for use in physics and their applications.
