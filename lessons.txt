@@ -52676,3 +52676,146 @@ A: The currency of Peru is the sol.
 
 Q: What currency does Poland use?
 A: The currency of Poland is the zloty.
+Q: How many letters does the word 'niger' have?
+A: The word 'niger' has 5 letters.
+
+Q: How many letters does the word 'uranus' have?
+A: The word 'uranus' has 6 letters.
+
+Q: How many letters does the word 'december' have?
+A: The word 'december' has 8 letters.
+
+Q: How many letters does the word 'promethium' have?
+A: The word 'promethium' has 10 letters.
+
+Q: How many letters does the word 'suva' have?
+A: The word 'suva' has 4 letters.
+
+Q: How many letters does the word 'first' have?
+A: The word 'first' has 5 letters.
+
+Q: How many letters does the word 'dong' have?
+A: The word 'dong' has 4 letters.
+
+Q: How many letters does the word 'krypton' have?
+A: The word 'krypton' has 7 letters.
+
+Q: How do you sort 526, 779, and 453?
+A: In order, they are 453 526 779.
+
+Q: How do you sort 694, 479, and 852?
+A: In order, they are 479 694 852.
+
+Q: How do you sort 6, 2, and 12?
+A: In order, they are 2 6 12.
+
+Q: How do you sort 534, 818, and 46?
+A: In order, they are 46 534 818.
+
+Q: How do you sort 24, 27, and 8?
+A: In order, they are 8 24 27.
+
+Q: How do you sort 25, 18, and 14?
+A: In order, they are 14 18 25.
+
+Q: How do you sort 748, 660, and 865?
+A: In order, they are 660 748 865.
+
+Q: How do you sort 23, 15, and 27?
+A: In order, they are 15 23 27.
+
+Q: Is 4 bigger than 19?
+A: No, 19 is bigger than 4.
+
+Q: Is 9 bigger than 10?
+A: No, 10 is bigger than 9.
+
+Q: Is 12 bigger than 19?
+A: No, 19 is bigger than 12.
+
+Q: Which is bigger, 68 or 50?
+A: 68 is bigger than 50.
+
+Q: Which is bigger, 17 or 20?
+A: 20 is bigger than 17.
+
+Q: Which is bigger, 6 or 12?
+A: 12 is bigger than 6.
+
+Q: Is 678 bigger than 525?
+A: Yes, 678 is bigger than 525.
+
+Q: Is 949 bigger than 924?
+A: Yes, 949 is bigger than 924.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of the Solomon Islands?
+A: The capital of the Solomon Islands is Honiara.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
+
+Q: What is the capital of Oman?
+A: The capital of Oman is Muscat.
+
+Q: What is the capital of Nauru?
+A: The capital of Nauru is Yaren.
+
+Q: What is the capital of Finland?
+A: The capital of Finland is Helsinki.
+
+Q: What is the capital of Cambodia?
+A: The capital of Cambodia is Phnom Penh.
+
+Q: What is the capital of Mauritius?
+A: The capital of Mauritius is Port Louis.
+
+Q: What is 4 times 9?
+A: 4 times 9 is 36.
+
+Q: What is 32 plus 70?
+A: 32 plus 70 is 102.
+
+Q: What is 986 plus 435?
+A: 986 plus 435 is 1421.
+
+Q: What is 2 plus 7?
+A: 2 plus 7 is 9.
+
+Q: What is 15 times 12?
+A: 15 times 12 is 180.
+
+Q: What is 14 times 15?
+A: 14 times 15 is 210.
+
+Q: What is 628 minus 395?
+A: 628 minus 395 is 233.
+
+Q: What is 313 plus 461?
+A: 313 plus 461 is 774.
