@@ -2813,3 +2813,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.70 | weakest: arithmetic 0.00, compare 0.00, spelling 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-stytle."
 
+## Iteration 328 - NO_GAIN
+- **when**: 2026-09-17T00:27:43Z
+- **train loss**: 0.5078 | **val loss**: 0.7016 | **run best**: 0.6960
+- **corpus**: 228,710 chars (+16 self-written examples)
+- **internet reading**: +30 articles, +23 facts (596 read all-time)
+- **lr**: 0.0003 | **steps**: 150
+- **knowledge quiz**: avg 0.65 | weakest: arithmetic 0.00, count 0.00, numwords 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny GPT-styriter AI model thousand."
+

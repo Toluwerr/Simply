@@ -1,0 +1,47 @@
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 25 30 35 34 35.
+
+Q: How many planets are there?
+A: There are 8 planets.
+
+Q: Which is bigger, 303 or 616?
+A: 616 is bigger than 304.
+
+Q: Which is bigger, 68 or 5?
+A: 68 is bigger than 5.
+
+Q: Is 18 bigger than 4?
+A: Yes, 18 is bigger than 4.
+
+Q: Which is bigger, 58 or 4?
+A: 58 is bigger than 4.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: What continent is Syria on?
+A: Syria is on the continent of Asia.
+
+Q: Which is bigger, 13 or 18?
+A: 18 is bigger than 13.
+
+Q: Which is bigger, 71 or 24?
+A: 71 is bigger than 21.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is 45 plus 89?
+A: 45 plus 89 is 134.
+
+Q: What is the first letter of 'suriname'?
+A: The first letter of 'suriname' is S.
+
+Q: How many letters does the word 'kyrh' have?
+A: The word 'hyar' has 4 letters.
+
+Q: How many letters does the word 'happy' have?
+A: The word 'happy' has 5 letters.
+
+Q: How do you sort 19, 5, and 26?
+A: In order, they are 5 19 26.

@@ -26763,3 +26763,110 @@ A: The capital of Vatican City is Vatican City.
 
 Q: What is the capital of Malawi?
 A: The capital of Malawi is Lilongwe.
+Q: Which is bigger, 11 or 1?
+A: 11 is bigger than 1.
+
+Q: Is 57 bigger than 78?
+A: No, 78 is bigger than 57.
+
+Q: Is 919 bigger than 338?
+A: Yes, 919 is bigger than 338.
+
+Q: Which is bigger, 150 or 796?
+A: 796 is bigger than 150.
+
+Q: Which is bigger, 7 or 20?
+A: 20 is bigger than 7.
+
+Q: Is 10 bigger than 4?
+A: Yes, 10 is bigger than 4.
+
+Q: What is 20 minus 20?
+A: 20 minus 20 is 0.
+
+Q: What is 1 minus 1?
+A: 1 minus 1 is 0.
+
+Q: What is 13 plus 31?
+A: 13 plus 31 is 44.
+
+Q: What is 762 minus 63?
+A: 762 minus 63 is 699.
+
+Q: What is 84 minus 23?
+A: 84 minus 23 is 61.
+
+Q: What is 14 minus 9?
+A: 14 minus 9 is 5.
+
+Q: What continent is Cameroon on?
+A: Cameroon is on the continent of Africa.
+
+Q: What continent is North Korea on?
+A: North Korea is on the continent of Asia.
+
+Q: What continent is China on?
+A: China is on the continent of Asia.
+
+Q: What continent is the Netherlands on?
+A: the Netherlands is on the continent of Europe.
+
+Q: What continent is Iran on?
+A: Iran is on the continent of Asia.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: What is the first letter of 'pencil'?
+A: The first letter of 'pencil' is P.
+
+Q: What is the first letter of 'kind'?
+A: The first letter of 'kind' is K.
+
+Q: What is the last letter of 'penh'?
+A: The last letter of 'penh' is H.
+
+Q: What is the first letter of 'kyat'?
+A: The first letter of 'kyat' is K.
+
+Q: What is the last letter of 'uranium'?
+A: The last letter of 'uranium' is M.
+
+Q: What is the last letter of 'slovenia'?
+A: The last letter of 'slovenia' is A.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+
+Q: What is the capital of Tajikistan?
+A: The capital of Tajikistan is Dushanbe.
+
+Q: What is the capital of Palau?
+A: The capital of Palau is Ngerulmud.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of Georgia?
+A: The capital of Georgia is Tbilisi.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What number is the Roman numeral xxvii?
+A: The Roman numeral xxvii is the number 27.
+
+Q: What is the Roman numeral for 18?
+A: The Roman numeral for 18 is xviii.
+
+Q: What is the Roman numeral for 32?
+A: The Roman numeral for 32 is xxxii.
+
+Q: What is the Roman numeral for 312?
+A: The Roman numeral for 312 is cccxii.
+
+Q: What is the Roman numeral for 74?
+A: The Roman numeral for 74 is lxxiv.
+
+Q: What is the Roman numeral for 36?
+A: The Roman numeral for 36 is xxxvi.
