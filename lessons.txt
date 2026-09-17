@@ -38342,3 +38342,146 @@ A: A square has 4 sides.
 
 Q: What is the biggest animal?
 A: The blue whale is the biggest animal.
+Q: What is the first letter of 'sodium'?
+A: The first letter of 'sodium' is S.
+
+Q: What is the last letter of 'albany'?
+A: The last letter of 'albany' is Y.
+
+Q: What is the last letter of 'chisinau'?
+A: The last letter of 'chisinau' is U.
+
+Q: What is the first letter of 'gitega'?
+A: The first letter of 'gitega' is G.
+
+Q: What is the first letter of 'lazy'?
+A: The first letter of 'lazy' is L.
+
+Q: What is the first letter of 'star'?
+A: The first letter of 'star' is S.
+
+Q: What is the first letter of 'tin'?
+A: The first letter of 'tin' is T.
+
+Q: What is the first letter of 'europe'?
+A: The first letter of 'europe' is E.
+
+Q: How do you sort 712, 437, and 622?
+A: In order, they are 437 622 712.
+
+Q: How do you sort 419, 620, and 859?
+A: In order, they are 419 620 859.
+
+Q: How do you sort 316, 927, and 792?
+A: In order, they are 316 792 927.
+
+Q: How do you sort 28, 15, and 5?
+A: In order, they are 5 15 28.
+
+Q: How do you sort 624, 47, and 530?
+A: In order, they are 47 530 624.
+
+Q: How do you sort 284, 240, and 809?
+A: In order, they are 240 284 809.
+
+Q: How do you sort 19, 25, and 4?
+A: In order, they are 4 19 25.
+
+Q: How do you sort 344, 813, and 956?
+A: In order, they are 344 813 956.
+
+Q: Is 768 bigger than 956?
+A: No, 956 is bigger than 768.
+
+Q: Is 5 bigger than 12?
+A: No, 12 is bigger than 5.
+
+Q: Which is bigger, 22 or 17?
+A: 22 is bigger than 17.
+
+Q: Is 20 bigger than 6?
+A: Yes, 20 is bigger than 6.
+
+Q: Which is bigger, 2 or 5?
+A: 5 is bigger than 2.
+
+Q: Is 44 bigger than 61?
+A: No, 61 is bigger than 44.
+
+Q: Is 932 bigger than 196?
+A: Yes, 932 is bigger than 196.
+
+Q: Is 81 bigger than 25?
+A: Yes, 81 is bigger than 25.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: What is the capital of Denmark?
+A: The capital of Denmark is Copenhagen.
+
+Q: What is the capital of Samoa?
+A: The capital of Samoa is Apia.
+
+Q: What is the capital of Slovakia?
+A: The capital of Slovakia is Bratislava.
+
+Q: What is the capital of Uruguay?
+A: The capital of Uruguay is Montevideo.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
+
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+
+Q: What is the capital of Jordan?
+A: The capital of Jordan is Amman.
+
+Q: What is 657 plus 700?
+A: 657 plus 700 is 1357.
+
+Q: What is 432 plus 605?
+A: 432 plus 605 is 1037.
+
+Q: What is 15 plus 20?
+A: 15 plus 20 is 35.
+
+Q: What is 8 minus 5?
+A: 8 minus 5 is 3.
+
+Q: What is 900 plus 105?
+A: 900 plus 105 is 1005.
+
+Q: What is 11 times 11?
+A: 11 times 11 is 121.
+
+Q: What is 386 minus 90?
+A: 386 minus 90 is 296.
+
+Q: What is 3 times 2?
+A: 3 times 2 is 6.

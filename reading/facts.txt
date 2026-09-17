@@ -3793,3 +3793,81 @@ A: Technology education is the study of technology, in which students learn abou
 
 Q: What is Industrial technology?
 A: Industrial technology is the use of engineering and manufacturing technology to make production faster, simpler, and more efficient.
+
+Q: What is Online learning?
+A: Online learning is a common technique used in areas of machine learning where it is computationally infeasible to train over the entire dataset.
+
+Q: What is Learning?
+A: Learning is the process of acquiring new understanding, knowledge, behavior, skills, values, attitudes, and preferences.
+
+Q: What is Lungotevere della Magliana?
+A: Lungotevere della Magliana is the stretch of the urban road along the Tiber that connects via del Ponte della Magliana to via della Magliana.
+
+Q: What is Ginoondan?
+A: Ginoondan is a rural locality in the North Burnett Region, Queensland, Australia.
+
+Q: What is Bride and Groom?
+A: Bride and Groom is an old-time radio human-interest program in the United States.
+
+Q: What is Ernst Hjalmar Waloddi Weibull?
+A: Ernst Hjalmar Waloddi Weibull is a Swedish engineer, materials scientist, and applied mathematician.
+
+Q: What is Haidergarh?
+A: Haidergarh is a town and a nagar panchayat in the Barabanki district in the Indian state of Uttar Pradesh.
+
+Q: What is Street Dreams?
+A: Street Dreams is a 2009 American film directed by Chris Zamoscianyk, produced by Rob Dyrdek.
+
+Q: What is Jeff Kealty?
+A: Jeff Kealty is an American former professional ice hockey defenseman.
+
+Q: What is Olga?
+A: Olga is a 2004 Brazilian biographical drama film directed by Jayme Monjardim from a screenplay by Rita Buzzar.
+
+Q: What is Ultimate bearing capacity?
+A: Ultimate bearing capacity is the theoretical maximum pressure which can be supported without failure allowable bearing capacity is the ultimate bearin.
+
+Q: What is Erbach?
+A: Erbach is an Ortsgemeinde - a municipality belonging to a Verbandsgemeinde.
+
+Q: What is Southeast of the village?
+A: Southeast of the village is the edge of the Binger Wald .
+
+Q: What is Franois Salque?
+A: Franois Salque is a French classical cellist and academic teacher.
+
+Q: What is Agnes Drer ne Frey?
+A: Agnes Drer ne Frey is the wife of the German artist Albrecht Drer.
+
+Q: What is Agnes Drer?
+A: Agnes Drer is the daughter of the coppersmith and lute maker Hans Frey and his wife Anna.
+
+Q: What is Charles Franois Philibert Masson?
+A: Charles Franois Philibert Masson is a Frenchman who is notable for the books that he published.
+
+Q: What is Calypso?
+A: Calypso is a style of music that originated in Trinidad and Tobago from Afro-Trinidadians during the early- to mid-19th century.
+
+Q: What is Concord Music Group?
+A: Concord Music Group is an American independent music company based in Beverly Hills, California.
+
+Q: What is Heatmiser?
+A: Heatmiser is an American rock band, formed in Portland, Oregon, in October 1991.
+
+Q: What is Manny's Music?
+A: Manny's Music is an American music instrument store in New York City on Music Row West 48th Street, between 6th and 7th Avenues, Midtown Manhattan.
+
+Q: What is Falset?
+A: Falset is the latitude for a brasswind player's pitch-control of a harmonic by adjusting lip or air pressure.
+
+Q: What is Music Bank?
+A: Music Bank is a South Korean music program which airs every Friday at 17:15 KST on KBS2.
+
+Q: What is Bethel Music?
+A: Bethel Music is an American Christian music label and publishing group.
+
+Q: What is Music for Torching?
+A: Music for Torching is a 1999 novel by American writer A.
+
+Q: What is YouTube Premium?
+A: YouTube Premium is a subscription service offered by the American video platform YouTube.

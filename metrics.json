@@ -1,6 +1,6 @@
 {
   "version": 31,
-  "iteration": 725,
+  "iteration": 726,
   "best_val_loss": 1.4185369849205016,
   "lr": 0.0003,
   "plateaus": 0,
@@ -23,7 +23,7 @@
     "count": 0.0,
     "numwords": 0.0,
     "roman": 0.0,
-    "letters": 1.0,
+    "letters": 0.0,
     "spelling": 0.0,
     "first_last": 0.0,
     "capitals": 0.0,
@@ -42,12 +42,12 @@
   },
   "study_mode_v1": true,
   "head_chars": 284342,
-  "lessons": 12623,
+  "lessons": 12670,
   "best_knowledge": 0.043,
   "reading": {
-    "articles": 2695,
-    "facts": 1265,
-    "pool_chars": 2855877
+    "articles": 2749,
+    "facts": 1291,
+    "pool_chars": 2915322
   },
   "token_mode_v1": true,
   "tokenizer_vocab": 2048,
@@ -60,7 +60,7 @@
     "count": 0,
     "numwords": 0,
     "roman": 0,
-    "letters": 1,
+    "letters": 0,
     "spelling": 0,
     "first_last": 0,
     "capitals": 0,
