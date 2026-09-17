@@ -32456,3 +32456,128 @@ A: The chemical symbol for radium is Ra.
 
 Q: Which element has the chemical symbol Ac?
 A: Ac is the chemical symbol for actinium.
+Q: What is 7 times 11?
+A: 7 times 11 is 77.
+
+Q: What is 8 times 7?
+A: 8 times 7 is 56.
+
+Q: What is 14 times 14?
+A: 14 times 14 is 196.
+
+Q: What is 76 minus 70?
+A: 76 minus 70 is 6.
+
+Q: What is 18 minus 7?
+A: 18 minus 7 is 11.
+
+Q: What is 9 minus 7?
+A: 9 minus 7 is 2.
+
+Q: What is the last letter of 'huge'?
+A: The last letter of 'huge' is E.
+
+Q: What is the last letter of 'tantalum'?
+A: The last letter of 'tantalum' is M.
+
+Q: What is the first letter of 'united'?
+A: The first letter of 'united' is U.
+
+Q: What is the last letter of 'ecuador'?
+A: The last letter of 'ecuador' is R.
+
+Q: What is the first letter of 'delhi'?
+A: The first letter of 'delhi' is D.
+
+Q: What is the first letter of 'eswatini'?
+A: The first letter of 'eswatini' is E.
+
+Q: How many letters does the word 'macedonia' have?
+A: The word 'macedonia' has 9 letters.
+
+Q: How many letters does the word 'bismarck' have?
+A: The word 'bismarck' has 8 letters.
+
+Q: How many letters does the word 'arabia' have?
+A: The word 'arabia' has 6 letters.
+
+Q: How many letters does the word 'empty' have?
+A: The word 'empty' has 5 letters.
+
+Q: How many letters does the word 'estonia' have?
+A: The word 'estonia' has 7 letters.
+
+Q: How many letters does the word 'cesium' have?
+A: The word 'cesium' has 6 letters.
+
+Q: What is the capital of Mali?
+A: The capital of Mali is Bamako.
+
+Q: What is the capital of San Marino?
+A: The capital of San Marino is San Marino.
+
+Q: What is the capital of Uzbekistan?
+A: The capital of Uzbekistan is Tashkent.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of Taiwan?
+A: The capital of Taiwan is Taipei.
+
+Q: What is the capital of Pakistan?
+A: The capital of Pakistan is Islamabad.
+
+Q: What continent is Syria on?
+A: Syria is on the continent of Asia.
+
+Q: What continent is Morocco on?
+A: Morocco is on the continent of Africa.
+
+Q: What continent is South Sudan on?
+A: South Sudan is on the continent of Africa.
+
+Q: What continent is Greece on?
+A: Greece is on the continent of Europe.
+
+Q: What continent is Mozambique on?
+A: Mozambique is on the continent of Africa.
+
+Q: What continent is Colombia on?
+A: Colombia is on the continent of South America.
+
+Q: Is 422 bigger than 246?
+A: Yes, 422 is bigger than 246.
+
+Q: Which is bigger, 9 or 4?
+A: 9 is bigger than 4.
+
+Q: Is 498 bigger than 708?
+A: No, 708 is bigger than 498.
+
+Q: Which is bigger, 12 or 11?
+A: 12 is bigger than 11.
+
+Q: Is 1 bigger than 2?
+A: No, 2 is bigger than 1.
+
+Q: Is 31 bigger than 33?
+A: No, 33 is bigger than 31.
+
+Q: How do you sort 1, 29, and 10?
+A: In order, they are 1 10 29.
+
+Q: How do you sort 478, 756, and 830?
+A: In order, they are 478 756 830.
+
+Q: How do you sort 822, 970, and 816?
+A: In order, they are 816 822 970.
+
+Q: How do you sort 267, 91, and 814?
+A: In order, they are 91 267 814.
+
+Q: How do you sort 736, 379, and 551?
+A: In order, they are 379 551 736.
+
+Q: How do you sort 875, 396, and 407?
+A: In order, they are 396 407 875.
