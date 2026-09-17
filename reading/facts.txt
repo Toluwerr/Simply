@@ -2350,3 +2350,90 @@ A: East Carolina University is a public research university in Greenville, North
 
 Q: What is For example, zoology?
 A: For example, zoology is the study of animals, while botany is the study of plants.
+
+Q: What is Robot Framework?
+A: Robot Framework is a generic software test automation framework for acceptance testing and acceptance test-driven development .
+
+Q: What is Codex?
+A: Codex is an AI coding agent developed by OpenAI for software engineering tasks such as writing code and fixing bugs.
+
+Q: What is ComfyUI?
+A: ComfyUI is an open source, node-based program that allows users to generate images from a series of text prompts.
+
+Q: What is Nvidia Corporation?
+A: Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California.
+
+Q: What is Chris Wanstrath?
+A: Chris Wanstrath is an American technology entrepreneur and programmer.
+
+Q: What is Telegram?
+A: Telegram is a Russian-Emirati cloud-based, cross-platform social media and instant messaging service.
+
+Q: What is Eclipse?
+A: Eclipse is an integrated development environment used in computer programming.
+
+Q: What is Simon Oxley?
+A: Simon Oxley is a British freelance graphic designer and illustrator who was most famous for designing the original bird logo for Twitter.
+
+Q: What is Yndiara Asp?
+A: Yndiara Asp is a Brazilian professional skateboarder, who represented Brazil in the 2021 Tokyo Olympics.
+
+Q: What is Chungju Public Stadium?
+A: Chungju Public Stadium is a sports complex and training ground in Chungju, South Korea.
+
+Q: What is DirecTV, LLC?
+A: DirecTV, LLC is an American video programming distributor based in El Segundo, California.
+
+Q: What is Khan Airport?
+A: Khan Airport is an airport situated 10 km away from the city centre of Dera Ismail Khan, a city in Khyber Pakhtunkhwa province of Pakistan.
+
+Q: What is Pakistan International Airlines?
+A: Pakistan International Airlines is the sole operator at the airport, providing feeder services between Peshawar, Zhob, Multan.
+
+Q: What is Additionally, here?
+A: Additionally, here is a separate storyline with Elena and Olga, where they sit on the bed.
+
+Q: What is Sydney Irwin Pollack?
+A: Sydney Irwin Pollack is an American film director, producer, and actor.
+
+Q: What is Lotte Flack?
+A: Lotte Flack is a German actress.
+
+Q: What is Hubert Schmalix?
+A: Hubert Schmalix is an Austrian painter.
+
+Q: What is Fort Dodge?
+A: Fort Dodge is a census-designated place in Grandview Township of Ford County, Kansas, United States.
+
+Q: What is Midnight in Montgomery?
+A: Midnight in Montgomery is a song written by American country music singer Alan Jackson and Don Sampson, and recorded by Jackson.
+
+Q: What is Pieces of Jade?
+A: Pieces of Jade is a posthumously released album by jazz bassist Scott LaFaro.
+
+Q: What is Viva?
+A: Viva is an Israeli television network owned by Dori Media Group.
+
+Q: What is Nunam Iqua?
+A: Nunam Iqua is a Yupik name meaning land's end .
+
+Q: What is Robert Hindmarch?
+A: Robert Hindmarch is an English footballer who played as a central defender.
+
+Q: What is Abrupt climate change therefore?
+A: Abrupt climate change therefore is a variation beyond the variability of a climate.
+
+Q: What is Svalbard?
+A: Svalbard is a Norwegian archipelago in the Arctic Ocean.
+
+Q: What is Central Asia?
+A: Central Asia is a region of Asia consisting of Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, and most of Kazakhstan.
+
+Q: What is Tuvalu?
+A: Tuvalu is an archipelagic country in the Polynesian sub-region of Oceania in the Pacific Ocean, about midway between Hawaii and Australia.
+
+Q: What is Climate?
+A: Climate is a song by American rappers BigthaPlug and Offset from the former's EP The Biggest .
+
+Q: What is Climate Week NYC?
+A: Climate Week NYC is a charity event that takes place in New York City every year.

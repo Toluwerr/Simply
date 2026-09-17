@@ -40307,3 +40307,146 @@ A: The currency of Kazakhstan is the tenge.
 
 Q: What currency does Tanzania use?
 A: The currency of Tanzania is the shilling.
+Q: What is the last letter of 'giant'?
+A: The last letter of 'giant' is T.
+
+Q: What is the first letter of 'neodymium'?
+A: The first letter of 'neodymium' is N.
+
+Q: What is the last letter of 'boron'?
+A: The last letter of 'boron' is N.
+
+Q: What is the first letter of 'something'?
+A: The first letter of 'something' is S.
+
+Q: What is the first letter of 'djibouti'?
+A: The first letter of 'djibouti' is D.
+
+Q: What is the last letter of 'dollar'?
+A: The last letter of 'dollar' is R.
+
+Q: What is the last letter of 'candle'?
+A: The last letter of 'candle' is E.
+
+Q: What is the first letter of 'osmium'?
+A: The first letter of 'osmium' is O.
+
+Q: How do you sort 959, 434, and 968?
+A: In order, they are 434 959 968.
+
+Q: How do you sort 733, 209, and 27?
+A: In order, they are 27 209 733.
+
+Q: How do you sort 239, 706, and 937?
+A: In order, they are 239 706 937.
+
+Q: How do you sort 798, 22, and 394?
+A: In order, they are 22 394 798.
+
+Q: How do you sort 5, 23, and 10?
+A: In order, they are 5 10 23.
+
+Q: How do you sort 10, 11, and 14?
+A: In order, they are 10 11 14.
+
+Q: How do you sort 424, 168, and 345?
+A: In order, they are 168 345 424.
+
+Q: How do you sort 13, 2, and 29?
+A: In order, they are 2 13 29.
+
+Q: Is 69 bigger than 11?
+A: Yes, 69 is bigger than 11.
+
+Q: Is 98 bigger than 95?
+A: Yes, 98 is bigger than 95.
+
+Q: Which is bigger, 5 or 2?
+A: 5 is bigger than 2.
+
+Q: Which is bigger, 767 or 510?
+A: 767 is bigger than 510.
+
+Q: Is 87 bigger than 11?
+A: Yes, 87 is bigger than 11.
+
+Q: Which is bigger, 801 or 504?
+A: 801 is bigger than 504.
+
+Q: Is 38 bigger than 36?
+A: Yes, 38 is bigger than 36.
+
+Q: Is 20 bigger than 26?
+A: No, 26 is bigger than 20.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: What is the capital of Kazakhstan?
+A: The capital of Kazakhstan is Astana.
+
+Q: What is the capital of Germany?
+A: The capital of Germany is Berlin.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Slovakia?
+A: The capital of Slovakia is Bratislava.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of Saint Vincent and the Grenadines?
+A: The capital of Saint Vincent and the Grenadines is Kingstown.
+
+Q: What is the capital of Lesotho?
+A: The capital of Lesotho is Maseru.
+
+Q: What is 18 plus 4?
+A: 18 plus 4 is 22.
+
+Q: What is 5 times 2?
+A: 5 times 2 is 10.
+
+Q: What is 7 times 6?
+A: 7 times 6 is 42.
+
+Q: What is 75 minus 43?
+A: 75 minus 43 is 32.
+
+Q: What is 4 times 8?
+A: 4 times 8 is 32.
+
+Q: What is 5 times 9?
+A: 5 times 9 is 45.
+
+Q: What is 9 times 3?
+A: 9 times 3 is 27.
+
+Q: What is 2 times 2?
+A: 2 times 2 is 4.
