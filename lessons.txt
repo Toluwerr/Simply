@@ -23606,3 +23606,110 @@ A: Counting by fives gives 10 15 20 25 30 35.
 
 Q: Can you count by twos from 12 to 18?
 A: Counting by twos gives 12 14 16 18.
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is 20 plus 13?
+A: 20 plus 13 is 33.
+
+Q: What is 12 minus 3?
+A: 12 minus 3 is 9.
+
+Q: What is 84 minus 35?
+A: 84 minus 35 is 49.
+
+Q: What is 10 times 9?
+A: 10 times 9 is 90.
+
+Q: What is 15 times 18?
+A: 15 times 18 is 270.
+
+Q: What is 217 plus 751?
+A: 217 plus 751 is 968.
+
+Q: What is the last letter of 'kazakhstan'?
+A: The last letter of 'kazakhstan' is N.
+
+Q: What is the last letter of 'thallium'?
+A: The last letter of 'thallium' is M.
+
+Q: What is the last letter of 'nassau'?
+A: The last letter of 'nassau' is U.
+
+Q: What is the last letter of 'sri'?
+A: The last letter of 'sri' is I.
+
+Q: What is the last letter of 'cerium'?
+A: The last letter of 'cerium' is M.
+
+Q: What is the first letter of 'with'?
+A: The first letter of 'with' is W.
+
+Q: What number is the Roman numeral dcxcix?
+A: The Roman numeral dcxcix is the number 699.
+
+Q: What number is the Roman numeral dcxxxvii?
+A: The Roman numeral dcxxxvii is the number 637.
+
+Q: What is the Roman numeral for 3?
+A: The Roman numeral for 3 is iii.
+
+Q: What is the Roman numeral for 95?
+A: The Roman numeral for 95 is xcv.
+
+Q: What number is the Roman numeral xxi?
+A: The Roman numeral xxi is the number 21.
+
+Q: What is the Roman numeral for 969?
+A: The Roman numeral for 969 is cmlxix.
+
+Q: How many letters does the word 'owl' have?
+A: The word 'owl' has 3 letters.
+
+Q: How many letters does the word 'fuzzy' have?
+A: The word 'fuzzy' has 5 letters.
+
+Q: How many letters does the word 'lithuania' have?
+A: The word 'lithuania' has 9 letters.
+
+Q: How many letters does the word 'kingstown' have?
+A: The word 'kingstown' has 9 letters.
+
+Q: How many letters does the word 'weak' have?
+A: The word 'weak' has 4 letters.
+
+Q: How many letters does the word 'hanoi' have?
+A: The word 'hanoi' has 5 letters.
+
+Q: Is 172 bigger than 733?
+A: No, 733 is bigger than 172.
+
+Q: Which is bigger, 9 or 1?
+A: 9 is bigger than 1.
+
+Q: Which is bigger, 53 or 21?
+A: 53 is bigger than 21.
+
+Q: Is 18 bigger than 54?
+A: No, 54 is bigger than 18.
+
+Q: Which is bigger, 4 or 17?
+A: 17 is bigger than 4.
+
+Q: Is 14 bigger than 11?
+A: Yes, 14 is bigger than 11.
