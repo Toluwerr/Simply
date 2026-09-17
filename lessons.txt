@@ -59831,3 +59831,170 @@ A: 9 is bigger than 6.
 
 Q: Which is bigger, 251 or 633?
 A: 633 is bigger than 251.
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 19 in words?
+A: 19 in words is nineteen.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What currency does Japan use?
+A: The currency of Japan is the yen.
+
+Q: What currency does Somalia use?
+A: The currency of Somalia is the shilling.
+
+Q: What currency does Ghana use?
+A: The currency of Ghana is the cedi.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
+
+Q: What currency does Cuba use?
+A: The currency of Cuba is the peso.
+
+Q: What currency does Paraguay use?
+A: The currency of Paraguay is the guarani.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: How do you sort 808, 389, and 449?
+A: In order, they are 389 449 808.
+
+Q: How do you sort 247, 35, and 389?
+A: In order, they are 35 247 389.
+
+Q: How do you sort 4, 29, and 26?
+A: In order, they are 4 26 29.
+
+Q: How do you sort 19, 6, and 20?
+A: In order, they are 6 19 20.
+
+Q: How do you sort 14, 6, and 2?
+A: In order, they are 2 6 14.
+
+Q: How do you sort 20, 3, and 4?
+A: In order, they are 3 4 20.
+
+Q: How do you sort 583, 292, and 333?
+A: In order, they are 292 333 583.
+
+Q: How do you sort 714, 172, and 849?
+A: In order, they are 172 714 849.
+
+Q: What is the first letter of 'niobium'?
+A: The first letter of 'niobium' is N.
+
+Q: What is the first letter of 'slow'?
+A: The first letter of 'slow' is S.
+
+Q: What is the first letter of 'aires'?
+A: The first letter of 'aires' is A.
+
+Q: What is the first letter of 'niobium'?
+A: The first letter of 'niobium' is N.
+
+Q: What is the first letter of 'kyat'?
+A: The first letter of 'kyat' is K.
+
+Q: What is the first letter of 'jerusalem'?
+A: The first letter of 'jerusalem' is J.
+
+Q: What is the first letter of 'faso'?
+A: The first letter of 'faso' is F.
+
+Q: What is the first letter of 'republic'?
+A: The first letter of 'republic' is R.
