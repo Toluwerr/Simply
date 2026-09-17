@@ -51922,3 +51922,170 @@ A: 4 in words is four.
 
 Q: How do you write 29 in words?
 A: 29 in words is twenty-nine.
+Q: Which is bigger, 20 or 2?
+A: 20 is bigger than 2.
+
+Q: Is 12 bigger than 79?
+A: No, 79 is bigger than 12.
+
+Q: Which is bigger, 32 or 86?
+A: 86 is bigger than 32.
+
+Q: Which is bigger, 28 or 92?
+A: 92 is bigger than 28.
+
+Q: Is 13 bigger than 9?
+A: Yes, 13 is bigger than 9.
+
+Q: Which is bigger, 63 or 95?
+A: 95 is bigger than 63.
+
+Q: Is 9 bigger than 13?
+A: No, 13 is bigger than 9.
+
+Q: Is 8 bigger than 16?
+A: No, 16 is bigger than 8.
+
+Q: How many letters does the word 'kigali' have?
+A: The word 'kigali' has 6 letters.
+
+Q: How many letters does the word 'trinidad' have?
+A: The word 'trinidad' has 8 letters.
+
+Q: How many letters does the word 'ukraine' have?
+A: The word 'ukraine' has 7 letters.
+
+Q: How many letters does the word 'providence' have?
+A: The word 'providence' has 10 letters.
+
+Q: How many letters does the word 'budapest' have?
+A: The word 'budapest' has 8 letters.
+
+Q: How many letters does the word 'dodoma' have?
+A: The word 'dodoma' has 6 letters.
+
+Q: How many letters does the word 'khartoum' have?
+A: The word 'khartoum' has 8 letters.
+
+Q: How many letters does the word 'eritrea' have?
+A: The word 'eritrea' has 7 letters.
+
+Q: How do you sort 808, 416, and 859?
+A: In order, they are 416 808 859.
+
+Q: How do you sort 1, 14, and 15?
+A: In order, they are 1 14 15.
+
+Q: How do you sort 379, 167, and 353?
+A: In order, they are 167 353 379.
+
+Q: How do you sort 209, 571, and 379?
+A: In order, they are 209 379 571.
+
+Q: How do you sort 527, 163, and 275?
+A: In order, they are 163 275 527.
+
+Q: How do you sort 109, 295, and 811?
+A: In order, they are 109 295 811.
+
+Q: How do you sort 28, 19, and 22?
+A: In order, they are 19 22 28.
+
+Q: How do you sort 257, 985, and 301?
+A: In order, they are 257 301 985.
+
+Q: What continent is Malta on?
+A: Malta is on the continent of Europe.
+
+Q: What continent is Algeria on?
+A: Algeria is on the continent of Africa.
+
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: What continent is Samoa on?
+A: Samoa is on the continent of Oceania.
+
+Q: What continent is Cyprus on?
+A: Cyprus is on the continent of Asia.
+
+Q: What continent is Sweden on?
+A: Sweden is on the continent of Europe.
+
+Q: How do you write 59 in words?
+A: 59 in words is fifty-nine.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 39 in words?
+A: 39 in words is thirty-nine.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 28 in words?
+A: 28 in words is twenty-eight.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: What is the capital of Zambia?
+A: The capital of Zambia is Lusaka.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of Libya?
+A: The capital of Libya is Tripoli.
+
+Q: What is the capital of Bulgaria?
+A: The capital of Bulgaria is Sofia.
+
+Q: What is the capital of Tonga?
+A: The capital of Tonga is Nuku'alofa.
+
+Q: What is the capital of Cameroon?
+A: The capital of Cameroon is Yaounde.
+
+Q: What is the capital of Samoa?
+A: The capital of Samoa is Apia.
+
+Q: What is the capital of Iran?
+A: The capital of Iran is Tehran.
