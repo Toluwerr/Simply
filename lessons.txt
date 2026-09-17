@@ -49933,3 +49933,170 @@ A: 27 in words is twenty-seven.
 
 Q: How do you write 92 in words?
 A: 92 in words is ninety-two.
+Q: Is 18 bigger than 7?
+A: Yes, 18 is bigger than 7.
+
+Q: Which is bigger, 22 or 29?
+A: 29 is bigger than 22.
+
+Q: Is 7 bigger than 2?
+A: Yes, 7 is bigger than 2.
+
+Q: Is 510 bigger than 523?
+A: No, 523 is bigger than 510.
+
+Q: Which is bigger, 942 or 839?
+A: 942 is bigger than 839.
+
+Q: Which is bigger, 326 or 489?
+A: 489 is bigger than 326.
+
+Q: Is 1 bigger than 7?
+A: No, 7 is bigger than 1.
+
+Q: Is 78 bigger than 34?
+A: Yes, 78 is bigger than 34.
+
+Q: How many letters does the word 'namibia' have?
+A: The word 'namibia' has 7 letters.
+
+Q: How many letters does the word 'not' have?
+A: The word 'not' has 3 letters.
+
+Q: How many letters does the word 'newly' have?
+A: The word 'newly' has 5 letters.
+
+Q: How many letters does the word 'vila' have?
+A: The word 'vila' has 4 letters.
+
+Q: How many letters does the word 'managua' have?
+A: The word 'managua' has 7 letters.
+
+Q: How many letters does the word 'nashville' have?
+A: The word 'nashville' has 9 letters.
+
+Q: How many letters does the word 'quack' have?
+A: The word 'quack' has 5 letters.
+
+Q: How many letters does the word 'first' have?
+A: The word 'first' has 5 letters.
+
+Q: How do you sort 2, 29, and 16?
+A: In order, they are 2 16 29.
+
+Q: How do you sort 28, 25, and 14?
+A: In order, they are 14 25 28.
+
+Q: How do you sort 2, 1, and 18?
+A: In order, they are 1 2 18.
+
+Q: How do you sort 244, 166, and 507?
+A: In order, they are 166 244 507.
+
+Q: How do you sort 16, 21, and 3?
+A: In order, they are 3 16 21.
+
+Q: How do you sort 20, 29, and 21?
+A: In order, they are 20 21 29.
+
+Q: How do you sort 8, 24, and 29?
+A: In order, they are 8 24 29.
+
+Q: How do you sort 9, 4, and 27?
+A: In order, they are 4 9 27.
+
+Q: What continent is Burundi on?
+A: Burundi is on the continent of Africa.
+
+Q: What continent is Sri Lanka on?
+A: Sri Lanka is on the continent of Asia.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: What continent is South Africa on?
+A: South Africa is on the continent of Africa.
+
+Q: What continent is Cyprus on?
+A: Cyprus is on the continent of Asia.
+
+Q: What continent is Senegal on?
+A: Senegal is on the continent of Africa.
+
+Q: What continent is Kiribati on?
+A: Kiribati is on the continent of Oceania.
+
+Q: What continent is Somalia on?
+A: Somalia is on the continent of Africa.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 17 in words?
+A: 17 in words is seventeen.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 73 in words?
+A: 73 in words is seventy-three.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 52 in words?
+A: 52 in words is fifty-two.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of Saint Vincent and the Grenadines?
+A: The capital of Saint Vincent and the Grenadines is Kingstown.
+
+Q: What is the capital of Slovakia?
+A: The capital of Slovakia is Bratislava.
+
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+
+Q: What is the capital of Lesotho?
+A: The capital of Lesotho is Maseru.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is the capital of Sudan?
+A: The capital of Sudan is Khartoum.
