@@ -29431,3 +29431,146 @@ A: Double 47 is 94.
 
 Q: What is double 34?
 A: Double 34 is 68.
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: How many letters does the word 'february' have?
+A: The word 'february' has 8 letters.
+
+Q: How many letters does the word 'boise' have?
+A: The word 'boise' has 5 letters.
+
+Q: How many letters does the word 'river' have?
+A: The word 'river' has 5 letters.
+
+Q: How many letters does the word 'kyiv' have?
+A: The word 'kyiv' has 4 letters.
+
+Q: How many letters does the word 'alaska' have?
+A: The word 'alaska' has 6 letters.
+
+Q: How many letters does the word 'yaounde' have?
+A: The word 'yaounde' has 7 letters.
+
+Q: How many letters does the word 'naypyidaw' have?
+A: The word 'naypyidaw' has 9 letters.
+
+Q: How many letters does the word 'afghanistan' have?
+A: The word 'afghanistan' has 11 letters.
+
+Q: What is 64 minus 29?
+A: 64 minus 29 is 35.
+
+Q: What is 6 times 2?
+A: 6 times 2 is 12.
+
+Q: What is 4 plus 8?
+A: 4 plus 8 is 12.
+
+Q: What is 14 times 15?
+A: 14 times 15 is 210.
+
+Q: What is 709 minus 194?
+A: 709 minus 194 is 515.
+
+Q: What is 4 times 7?
+A: 4 times 7 is 28.
+
+Q: What is 67 plus 47?
+A: 67 plus 47 is 114.
+
+Q: What is 19 minus 17?
+A: 19 minus 17 is 2.
+
+Q: What continent is Bosnia and Herzegovina on?
+A: Bosnia and Herzegovina is on the continent of Europe.
+
+Q: What continent is Montenegro on?
+A: Montenegro is on the continent of Europe.
+
+Q: What continent is Iran on?
+A: Iran is on the continent of Asia.
+
+Q: What continent is South Korea on?
+A: South Korea is on the continent of Asia.
+
+Q: What continent is Slovakia on?
+A: Slovakia is on the continent of Europe.
+
+Q: What continent is Sweden on?
+A: Sweden is on the continent of Europe.
+
+Q: What continent is Bolivia on?
+A: Bolivia is on the continent of South America.
+
+Q: What continent is Benin on?
+A: Benin is on the continent of Africa.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does Panama use?
+A: The currency of Panama is the balboa.
+
+Q: What currency does Bolivia use?
+A: The currency of Bolivia is the boliviano.
+
+Q: What currency does Ukraine use?
+A: The currency of Ukraine is the hryvnia.
+
+Q: What currency does Cuba use?
+A: The currency of Cuba is the peso.
+
+Q: What currency does Ghana use?
+A: The currency of Ghana is the cedi.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What currency does Ghana use?
+A: The currency of Ghana is the cedi.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
+
+Q: How do you write 39 in words?
+A: 39 in words is thirty-nine.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
