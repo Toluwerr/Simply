@@ -10431,3 +10431,13 @@ A: 12 is bigger than 5.
 
 Q: What continent is Switzerland on?
 A: North Amerland is on the continent of Europe.
+
+
+Q: Is 0 bigger than 52?
+A: No, 52 is bigger than 32.
+
+Q: Which is bigger, 9 or 18?
+A: 18 is bigger than 13.
+
+Q: What is 32 plus 38?
+A: 32 plus 38 is 70.

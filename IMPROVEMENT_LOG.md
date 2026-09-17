@@ -2885,3 +2885,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.13 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: units 1.00, capitals 1.00, count 1.00
 - self-portrait, asked "Who are you?": *"Oceanuples, use they are 20 31."
 
+## Iteration 336 - IMPROVED
+- **when**: 2026-09-17T00:40:14Z
+- **train loss**: 1.8296 | **val loss**: 0.7347 | **run best**: 0.7146
+- **corpus**: 230,016 chars (+3 self-written examples)
+- **internet reading**: +36 articles, +28 facts (632 read all-time)
+- **lr**: 0.0015 | **steps**: 50
+- **knowledge quiz**: avg 0.22 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, animals 1.00, units 1.00
+- self-portrait, asked "Who are you?": *"I am but a very motivse and my every."
+
