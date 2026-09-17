@@ -36410,3 +36410,170 @@ A: 3 times 6 is 18.
 
 Q: What is 3 times 4?
 A: 3 times 4 is 12.
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: What is the chemical symbol for thorium?
+A: The chemical symbol for thorium is Th.
+
+Q: Which element has the chemical symbol Zn?
+A: Zn is the chemical symbol for zinc.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium.
+
+Q: Which element has the chemical symbol Sm?
+A: Sm is the chemical symbol for samarium.
+
+Q: Which element has the chemical symbol Na?
+A: Na is the chemical symbol for sodium.
+
+Q: Which element has the chemical symbol Tl?
+A: Tl is the chemical symbol for thallium.
+
+Q: What is the chemical symbol for magnesium?
+A: The chemical symbol for magnesium is Mg.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the Roman numeral for 14?
+A: The Roman numeral for 14 is xiv.
+
+Q: What number is the Roman numeral vi?
+A: The Roman numeral vi is the number 6.
+
+Q: What number is the Roman numeral v?
+A: The Roman numeral v is the number 5.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What is the Roman numeral for 34?
+A: The Roman numeral for 34 is xxxiv.
+
+Q: What is the Roman numeral for 7?
+A: The Roman numeral for 7 is vii.
+
+Q: What number is the Roman numeral cxxxix?
+A: The Roman numeral cxxxix is the number 139.
+
+Q: What is the last letter of 'nouakchott'?
+A: The last letter of 'nouakchott' is T.
+
+Q: What is the first letter of 'light'?
+A: The first letter of 'light' is L.
+
+Q: What is the last letter of 'thallium'?
+A: The last letter of 'thallium' is M.
+
+Q: What is the last letter of 'togo'?
+A: The last letter of 'togo' is O.
+
+Q: What is the first letter of 'empty'?
+A: The first letter of 'empty' is E.
+
+Q: What is the last letter of 'dominica'?
+A: The last letter of 'dominica' is A.
+
+Q: What is the last letter of 'havana'?
+A: The last letter of 'havana' is A.
+
+Q: What is the first letter of 'easily'?
+A: The first letter of 'easily' is E.
+
+Q: Is 564 bigger than 919?
+A: No, 919 is bigger than 564.
+
+Q: Is 20 bigger than 40?
+A: No, 40 is bigger than 20.
+
+Q: Which is bigger, 7 or 4?
+A: 7 is bigger than 4.
+
+Q: Is 247 bigger than 684?
+A: No, 684 is bigger than 247.
+
+Q: Which is bigger, 109 or 392?
+A: 392 is bigger than 109.
+
+Q: Is 632 bigger than 777?
+A: No, 777 is bigger than 632.
+
+Q: Is 160 bigger than 265?
+A: No, 265 is bigger than 160.
+
+Q: Which is bigger, 7 or 8?
+A: 8 is bigger than 7.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is double 47?
+A: Double 47 is 94.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is double 48?
+A: Double 48 is 96.
+
+Q: What is double 8?
+A: Double 8 is 16.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is double 49?
+A: Double 49 is 98.
