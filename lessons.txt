@@ -52199,3 +52199,170 @@ A: Half of 6 is 3.
 
 Q: What is double 15?
 A: Double 15 is 30.
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What continent is Guinea on?
+A: Guinea is on the continent of Africa.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What continent is North Macedonia on?
+A: North Macedonia is on the continent of Europe.
+
+Q: What continent is Liechtenstein on?
+A: Liechtenstein is on the continent of Europe.
+
+Q: What continent is North Macedonia on?
+A: North Macedonia is on the continent of Europe.
+
+Q: What continent is Belgium on?
+A: Belgium is on the continent of Europe.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: What is the capital of Saudi Arabia?
+A: The capital of Saudi Arabia is Riyadh.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is the capital of Chile?
+A: The capital of Chile is Santiago.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is the capital of Armenia?
+A: The capital of Armenia is Yerevan.
+
+Q: What is the capital of Venezuela?
+A: The capital of Venezuela is Caracas.
+
+Q: What is the capital of Norway?
+A: The capital of Norway is Oslo.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 30 in words?
+A: 30 in words is thirty.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: How do you sort 20, 18, and 8?
+A: In order, they are 8 18 20.
+
+Q: How do you sort 24, 2, and 8?
+A: In order, they are 2 8 24.
+
+Q: How do you sort 28, 11, and 26?
+A: In order, they are 11 26 28.
+
+Q: How do you sort 20, 9, and 25?
+A: In order, they are 9 20 25.
+
+Q: How do you sort 940, 372, and 845?
+A: In order, they are 372 845 940.
+
+Q: How do you sort 921, 329, and 326?
+A: In order, they are 326 329 921.
+
+Q: How do you sort 978, 389, and 402?
+A: In order, they are 389 402 978.
+
+Q: How do you sort 4, 1, and 13?
+A: In order, they are 1 4 13.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
