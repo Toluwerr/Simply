@@ -1,9 +1,9 @@
 {
   "version": 17,
-  "iteration": 492,
+  "iteration": 493,
   "best_val_loss": 1.692888605594635,
   "lr": 0.0015,
-  "plateaus": 0,
+  "plateaus": 1,
   "val_start": 131326,
   "val_end": 138238,
   "dataset_chars": 284342,
@@ -42,12 +42,12 @@
   },
   "study_mode_v1": true,
   "head_chars": 284342,
-  "lessons": 10602,
+  "lessons": 10649,
   "best_knowledge": 0.043,
   "reading": {
-    "articles": 1313,
-    "facts": 656,
-    "pool_chars": 1367080
+    "articles": 1373,
+    "facts": 679,
+    "pool_chars": 1433206
   },
   "token_mode_v1": true,
   "tokenizer_vocab": 2048,

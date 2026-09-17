@@ -1966,3 +1966,72 @@ A: Music is an American independent record label founded by rapper Kanye West in
 
 Q: What is Wonderwall Music?
 A: Wonderwall Music is the debut solo studio album by the English musician George Harrison and the soundtrack to the 1968 film Wonderwall.
+
+Q: What is Self-supervised learning?
+A: Self-supervised learning is a paradigm in machine learning where a model is trained on a task using the data itself to generate supervisory signals.
+
+Q: What is Causal inference?
+A: Causal inference is the process of determining the independent, actual effect of a particular phenomenon that is a component of a larger system.
+
+Q: What is Topological deep learning?
+A: Topological deep learning is a research field that extends deep learning to handle complex, non-Euclidean data structures.
+
+Q: What is Horovod?
+A: Horovod is a free and open-source distributed deep learning training framework for TensorFlow, Keras, PyTorch and Apache MNet.
+
+Q: What is Sbastien Bubeck?
+A: Sbastien Bubeck is a French-American computer scientist.
+
+Q: What is Hugging Face, Inc.,?
+A: Hugging Face, Inc., is a French-American company based in New York City that develops computation tools for building applications using machine learni.
+
+Q: What is Data annotation?
+A: Data annotation is the process within a dataset of adding relevant metadata labels or tags to enable machines to interpret the data in line with its i.
+
+Q: What is Data?
+A: Data is a fundamental component in the development of artificial intelligence .
+
+Q: What is Brian Desmond Anthony Hannon?
+A: Brian Desmond Anthony Hannon is a Church of Ireland clergyman, who was Bishop of Clogher from 1986 to 2001.
+
+Q: What is Clara Brett Martin?
+A: Clara Brett Martin is a Canadian lawyer.
+
+Q: What is Rafael Santos Torroella?
+A: Rafael Santos Torroella is a Spanish art critic, translator and poet.
+
+Q: What is Sarotherodon lamprechti?
+A: Sarotherodon lamprechti is a species of cichlid endemic to Lake Ejagham in western Cameroon.
+
+Q: What is Locust Grove?
+A: Locust Grove is a historic home located on a 32-acre tract.
+
+Q: What is Mardan Sports Complex?
+A: Mardan Sports Complex is a multi-purpose stadium in Aksu, Antalya, Turkey.
+
+Q: What is Viktor Uzbek?
+A: Viktor Uzbek is a professional Ukrainian football who plays for Moldovan club FC Iskra-Stal.
+
+Q: What is Talbehat?
+A: Talbehat is a nagar panchayat city in Lalitpur district in the Indian state of Uttar Pradesh.
+
+Q: What is Sant'Eligio Maggiore?
+A: Sant'Eligio Maggiore is a church in Naples, southern Italy.
+
+Q: What is HSE?
+A: HSE is the first educational institution in Russia that successfully introduced bachelor's and master's degrees.
+
+Q: What is James Richard Tatro?
+A: James Richard Tatro is an American actor and YouTuber.
+
+Q: What is Neo-Schumpeterian economics?
+A: Neo-Schumpeterian economics is a school of thought that places technological innovation at the core of economic growth and transformation processes.
+
+Q: What is Within economics, margin?
+A: Within economics, margin is a concept used to describe the current level of consumption or production of a goods or service.
+
+Q: What is Economic liberalism?
+A: Economic liberalism is a political and economic ideology that supports a market economy based on individualism.
+
+Q: What is For example, net income?
+A: For example, net income is the total income of a company after deducting its expenses-commonly known as profit-or the total income of an individual af.

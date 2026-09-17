@@ -32317,3 +32317,146 @@ A: The currency of Poland is the zloty.
 
 Q: What currency does Chile use?
 A: The currency of Chile is the peso.
+Q: How many letters does the word 'island' have?
+A: The word 'island' has 6 letters.
+
+Q: How many letters does the word 'tugrik' have?
+A: The word 'tugrik' has 6 letters.
+
+Q: How many letters does the word 'gambia' have?
+A: The word 'gambia' has 6 letters.
+
+Q: How many letters does the word 'yerevan' have?
+A: The word 'yerevan' has 7 letters.
+
+Q: How many letters does the word 'going' have?
+A: The word 'going' has 5 letters.
+
+Q: How many letters does the word 'lanthanum' have?
+A: The word 'lanthanum' has 9 letters.
+
+Q: How many letters does the word 'day' have?
+A: The word 'day' has 3 letters.
+
+Q: How many letters does the word 'plant' have?
+A: The word 'plant' has 5 letters.
+
+Q: What is the first letter of 'helium'?
+A: The first letter of 'helium' is H.
+
+Q: What is the last letter of 'raleigh'?
+A: The last letter of 'raleigh' is H.
+
+Q: What is the first letter of 'scandium'?
+A: The first letter of 'scandium' is S.
+
+Q: What is the first letter of 'skopje'?
+A: The first letter of 'skopje' is S.
+
+Q: What is the first letter of 'nice'?
+A: The first letter of 'nice' is N.
+
+Q: What is the last letter of 'magnesium'?
+A: The last letter of 'magnesium' is M.
+
+Q: What is the last letter of 'trinidad'?
+A: The last letter of 'trinidad' is D.
+
+Q: What is the first letter of 'malaysia'?
+A: The first letter of 'malaysia' is M.
+
+Q: How do you sort 306, 662, and 801?
+A: In order, they are 306 662 801.
+
+Q: How do you sort 536, 589, and 881?
+A: In order, they are 536 589 881.
+
+Q: How do you sort 461, 132, and 986?
+A: In order, they are 132 461 986.
+
+Q: How do you sort 11, 27, and 25?
+A: In order, they are 11 25 27.
+
+Q: How do you sort 27, 21, and 19?
+A: In order, they are 19 21 27.
+
+Q: How do you sort 409, 247, and 775?
+A: In order, they are 247 409 775.
+
+Q: How do you sort 879, 441, and 472?
+A: In order, they are 441 472 879.
+
+Q: How do you sort 412, 115, and 775?
+A: In order, they are 115 412 775.
+
+Q: Is 167 bigger than 900?
+A: No, 900 is bigger than 167.
+
+Q: Is 21 bigger than 17?
+A: Yes, 21 is bigger than 17.
+
+Q: Is 4 bigger than 6?
+A: No, 6 is bigger than 4.
+
+Q: Is 11 bigger than 77?
+A: No, 77 is bigger than 11.
+
+Q: Is 389 bigger than 933?
+A: No, 933 is bigger than 389.
+
+Q: Which is bigger, 6 or 5?
+A: 6 is bigger than 5.
+
+Q: Which is bigger, 15 or 52?
+A: 52 is bigger than 15.
+
+Q: Is 178 bigger than 745?
+A: No, 745 is bigger than 178.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of Zimbabwe?
+A: The capital of Zimbabwe is Harare.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What is the capital of Nauru?
+A: The capital of Nauru is Yaren.
+
+Q: What is the capital of Barbados?
+A: The capital of Barbados is Bridgetown.
