@@ -40617,3 +40617,146 @@ A: Half of 42 is 21.
 
 Q: What is double 3?
 A: Double 3 is 6.
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: How many letters does the word 'paris' have?
+A: The word 'paris' has 5 letters.
+
+Q: How many letters does the word 'metical' have?
+A: The word 'metical' has 7 letters.
+
+Q: How many letters does the word 'republic' have?
+A: The word 'republic' has 8 letters.
+
+Q: How many letters does the word 'antigua' have?
+A: The word 'antigua' has 7 letters.
+
+Q: How many letters does the word 'carson' have?
+A: The word 'carson' has 6 letters.
+
+Q: How many letters does the word 'baa' have?
+A: The word 'baa' has 3 letters.
+
+Q: How many letters does the word 'sofia' have?
+A: The word 'sofia' has 5 letters.
+
+Q: How many letters does the word 'may' have?
+A: The word 'may' has 3 letters.
+
+Q: What is 5 times 8?
+A: 5 times 8 is 40.
+
+Q: What is 7 times 4?
+A: 7 times 4 is 28.
+
+Q: What is 95 minus 18?
+A: 95 minus 18 is 77.
+
+Q: What is 8 times 12?
+A: 8 times 12 is 96.
+
+Q: What is 86 minus 45?
+A: 86 minus 45 is 41.
+
+Q: What is 8 times 5?
+A: 8 times 5 is 40.
+
+Q: What is 13 times 11?
+A: 13 times 11 is 143.
+
+Q: What is 16 plus 20?
+A: 16 plus 20 is 36.
+
+Q: What continent is Qatar on?
+A: Qatar is on the continent of Asia.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is Qatar on?
+A: Qatar is on the continent of Asia.
+
+Q: What continent is the United States on?
+A: the United States is on the continent of North America.
+
+Q: What continent is New Zealand on?
+A: New Zealand is on the continent of Oceania.
+
+Q: What continent is India on?
+A: India is on the continent of Asia.
+
+Q: What continent is Papua New Guinea on?
+A: Papua New Guinea is on the continent of Oceania.
+
+Q: What continent is Ghana on?
+A: Ghana is on the continent of Africa.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.
+
+Q: What currency does Iraq use?
+A: The currency of Iraq is the dinar.
+
+Q: What currency does Senegal use?
+A: The currency of Senegal is the franc.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.
+
+Q: What currency does Rwanda use?
+A: The currency of Rwanda is the franc.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: What currency does Jordan use?
+A: The currency of Jordan is the dinar.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 93 in words?
+A: 93 in words is ninety-three.
+
+Q: How do you write 35 in words?
+A: 35 in words is thirty-five.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
