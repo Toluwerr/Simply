@@ -10483,3 +10483,7 @@ A: The chemical symbol for osmium is Osn borium.
 
 Q: Which is bigger, 55 or 8?
 A: 55 is bigger than 27.
+
+
+Q: Which is bigger, 11 or 79?
+A: 79 is bigger than 136.

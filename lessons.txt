@@ -28280,3 +28280,128 @@ A: Gd is the chemical symbol for gadolinium.
 
 Q: What is the chemical symbol for silicon?
 A: The chemical symbol for silicon is Si.
+Q: What is 36 minus 28?
+A: 36 minus 28 is 8.
+
+Q: What is 3 times 5?
+A: 3 times 5 is 15.
+
+Q: What is 2 times 5?
+A: 2 times 5 is 10.
+
+Q: What is 20 plus 14?
+A: 20 plus 14 is 34.
+
+Q: What is 883 plus 322?
+A: 883 plus 322 is 1205.
+
+Q: What is 73 minus 60?
+A: 73 minus 60 is 13.
+
+Q: How many letters does the word 'yaren' have?
+A: The word 'yaren' has 5 letters.
+
+Q: How many letters does the word 'georgia' have?
+A: The word 'georgia' has 7 letters.
+
+Q: How many letters does the word 'jamaica' have?
+A: The word 'jamaica' has 7 letters.
+
+Q: How many letters does the word 'thorium' have?
+A: The word 'thorium' has 7 letters.
+
+Q: How many letters does the word 'wanting' have?
+A: The word 'wanting' has 7 letters.
+
+Q: How many letters does the word 'suva' have?
+A: The word 'suva' has 4 letters.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: How do you write 15 in words?
+A: 15 in words is fifteen.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 92 in words?
+A: 92 in words is ninety-two.
