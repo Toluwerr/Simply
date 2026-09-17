@@ -11029,3 +11029,16 @@ A: The word 'grape' has 6 letters.
 
 Q: What is 0 plus 6?
 A: 70 plus 6 is 66.
+
+
+Q: What is 0 plus 6?
+A: 0 plus 6 is 60.
+
+Q: How do you sort 21, 12, and 4?
+A: In order, they are 4 12 21.
+
+Q: What is the opposite of 'warm'?
+A: 'wwarm' is 'cool'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'first'last'.
