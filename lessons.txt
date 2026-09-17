@@ -22896,3 +22896,170 @@ A: 14 minus 13 is 1.
 
 Q: What is 12 times 12?
 A: 12 times 12 is 144.
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What is the chemical symbol for tellurium?
+A: The chemical symbol for tellurium is Te.
+
+Q: What is the chemical symbol for zinc?
+A: The chemical symbol for zinc is Zn.
+
+Q: Which element has the chemical symbol Hf?
+A: Hf is the chemical symbol for hafnium.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: Which element has the chemical symbol P?
+A: P is the chemical symbol for phosphorus.
+
+Q: What is the chemical symbol for thulium?
+A: The chemical symbol for thulium is Tm.
+
+Q: What is the chemical symbol for oxygen?
+A: The chemical symbol for oxygen is O.
+
+Q: Which element has the chemical symbol He?
+A: He is the chemical symbol for helium.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the Roman numeral for 475?
+A: The Roman numeral for 475 is cdlxxv.
+
+Q: What number is the Roman numeral xciii?
+A: The Roman numeral xciii is the number 93.
+
+Q: What number is the Roman numeral dccclv?
+A: The Roman numeral dccclv is the number 855.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What number is the Roman numeral v?
+A: The Roman numeral v is the number 5.
+
+Q: What is the Roman numeral for 12?
+A: The Roman numeral for 12 is xii.
+
+Q: What is the Roman numeral for 503?
+A: The Roman numeral for 503 is diii.
+
+Q: What is the first letter of 'robin'?
+A: The first letter of 'robin' is R.
+
+Q: What is the last letter of 'zagreb'?
+A: The last letter of 'zagreb' is B.
+
+Q: What is the last letter of 'portugal'?
+A: The last letter of 'portugal' is L.
+
+Q: What is the first letter of 'sarajevo'?
+A: The first letter of 'sarajevo' is S.
+
+Q: What is the first letter of 'united'?
+A: The first letter of 'united' is U.
+
+Q: What is the first letter of 'island'?
+A: The first letter of 'island' is I.
+
+Q: What is the first letter of 'uruguay'?
+A: The first letter of 'uruguay' is U.
+
+Q: What is the first letter of 'september'?
+A: The first letter of 'september' is S.
+
+Q: Is 287 bigger than 363?
+A: No, 363 is bigger than 287.
+
+Q: Is 6 bigger than 13?
+A: No, 13 is bigger than 6.
+
+Q: Which is bigger, 405 or 243?
+A: 405 is bigger than 243.
+
+Q: Which is bigger, 7 or 4?
+A: 7 is bigger than 4.
+
+Q: Is 322 bigger than 573?
+A: No, 573 is bigger than 322.
+
+Q: Is 254 bigger than 881?
+A: No, 881 is bigger than 254.
+
+Q: Is 55 bigger than 91?
+A: No, 91 is bigger than 55.
+
+Q: Is 36 bigger than 44?
+A: No, 44 is bigger than 36.
+
+Q: What is half of 2?
+A: Half of 2 is 1.
+
+Q: What is half of 8?
+A: Half of 8 is 4.
+
+Q: What is double 10?
+A: Double 10 is 20.
+
+Q: What is double 52?
+A: Double 52 is 104.
+
+Q: What is double 50?
+A: Double 50 is 100.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is half of 8?
+A: Half of 8 is 4.
+
+Q: What is double 29?
+A: Double 29 is 58.
