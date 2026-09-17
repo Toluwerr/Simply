@@ -30154,3 +30154,110 @@ A: 'giant' means extremely big.
 
 Q: What does 'messy' mean?
 A: 'messy' means not tidy.
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: What is the most populous country?
+A: India is the most populous country.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: What currency does Nepal use?
+A: The currency of Nepal is the rupee.
+
+Q: What currency does Bosnia and Herzegovina use?
+A: The currency of Bosnia and Herzegovina is the mark.
+
+Q: What currency does Uruguay use?
+A: The currency of Uruguay is the peso.
+
+Q: What currency does Zimbabwe use?
+A: The currency of Zimbabwe is the dollar.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Sudan use?
+A: The currency of Sudan is the pound.
+
+Q: How do you sort 124, 118, and 650?
+A: In order, they are 118 124 650.
+
+Q: How do you sort 6, 1, and 4?
+A: In order, they are 1 4 6.
+
+Q: How do you sort 7, 6, and 13?
+A: In order, they are 6 7 13.
+
+Q: How do you sort 15, 29, and 25?
+A: In order, they are 15 25 29.
+
+Q: How do you sort 17, 12, and 14?
+A: In order, they are 12 14 17.
+
+Q: How do you sort 917, 444, and 652?
+A: In order, they are 444 652 917.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What is the last letter of 'tungsten'?
+A: The last letter of 'tungsten' is N.
+
+Q: What is the last letter of 'clever'?
+A: The last letter of 'clever' is R.
+
+Q: What is the last letter of 'dhabi'?
+A: The last letter of 'dhabi' is I.
+
+Q: What is the last letter of 'the'?
+A: The last letter of 'the' is E.
+
+Q: What is the first letter of 'giant'?
+A: The first letter of 'giant' is G.
+
+Q: What is the last letter of 'podgorica'?
+A: The last letter of 'podgorica' is A.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by fives from 20 to 30?
+A: Counting by fives gives 20 25 30.
+
+Q: Can you count by ones from 1 to 6?
+A: Counting by ones gives 1 2 3 4 5 6.
+
+Q: Can you count by fives from 15 to 40?
+A: Counting by fives gives 15 20 25 30 35 40.
+
+Q: Can you count by fives from 20 to 45?
+A: Counting by fives gives 20 25 30 35 40 45.
