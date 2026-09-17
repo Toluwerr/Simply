@@ -48669,3 +48669,170 @@ A: No, 57 is bigger than 20.
 
 Q: Is 4 bigger than 9?
 A: No, 9 is bigger than 4.
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: How do you write 15 in words?
+A: 15 in words is fifteen.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 3 in words?
+A: 3 in words is three.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 25 in words?
+A: 25 in words is twenty-five.
+
+Q: What currency does Ecuador use?
+A: The currency of Ecuador is the dollar.
+
+Q: What currency does Bosnia and Herzegovina use?
+A: The currency of Bosnia and Herzegovina is the mark.
+
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What currency does the Czech Republic use?
+A: The currency of the Czech Republic is the koruna.
+
+Q: What currency does Cuba use?
+A: The currency of Cuba is the peso.
+
+Q: What currency does Hungary use?
+A: The currency of Hungary is the forint.
+
+Q: What currency does Argentina use?
+A: The currency of Argentina is the peso.
+
+Q: What currency does Mexico use?
+A: The currency of Mexico is the peso.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: How do you sort 29, 18, and 10?
+A: In order, they are 10 18 29.
+
+Q: How do you sort 13, 27, and 25?
+A: In order, they are 13 25 27.
+
+Q: How do you sort 361, 558, and 888?
+A: In order, they are 361 558 888.
+
+Q: How do you sort 493, 617, and 689?
+A: In order, they are 493 617 689.
+
+Q: How do you sort 27, 1, and 9?
+A: In order, they are 1 9 27.
+
+Q: How do you sort 320, 618, and 247?
+A: In order, they are 247 320 618.
+
+Q: How do you sort 520, 667, and 563?
+A: In order, they are 520 563 667.
+
+Q: How do you sort 4, 29, and 3?
+A: In order, they are 3 4 29.
+
+Q: What is the first letter of 'laos'?
+A: The first letter of 'laos' is L.
+
+Q: What is the first letter of 'phnom'?
+A: The first letter of 'phnom' is P.
+
+Q: What is the last letter of 'vincent'?
+A: The last letter of 'vincent' is T.
+
+Q: What is the first letter of 'dog'?
+A: The first letter of 'dog' is D.
+
+Q: What is the last letter of 'big'?
+A: The last letter of 'big' is G.
+
+Q: What is the last letter of 'house'?
+A: The last letter of 'house' is E.
+
+Q: What is the first letter of 'vilnius'?
+A: The first letter of 'vilnius' is V.
+
+Q: What is the last letter of 'rwanda'?
+A: The last letter of 'rwanda' is A.
