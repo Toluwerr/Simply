@@ -29908,3 +29908,170 @@ A: 8 is bigger than 2.
 
 Q: Which is bigger, 10 or 11?
 A: 11 is bigger than 10.
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 17 in words?
+A: 17 in words is seventeen.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: What currency does Turkey use?
+A: The currency of Turkey is the lira.
+
+Q: What currency does Jordan use?
+A: The currency of Jordan is the dinar.
+
+Q: What currency does Paraguay use?
+A: The currency of Paraguay is the guarani.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does Argentina use?
+A: The currency of Argentina is the peso.
+
+Q: What currency does Taiwan use?
+A: The currency of Taiwan is the dollar.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: How do you sort 62, 574, and 910?
+A: In order, they are 62 574 910.
+
+Q: How do you sort 26, 10, and 27?
+A: In order, they are 10 26 27.
+
+Q: How do you sort 29, 23, and 2?
+A: In order, they are 2 23 29.
+
+Q: How do you sort 828, 77, and 95?
+A: In order, they are 77 95 828.
+
+Q: How do you sort 24, 18, and 23?
+A: In order, they are 18 23 24.
+
+Q: How do you sort 386, 574, and 777?
+A: In order, they are 386 574 777.
+
+Q: How do you sort 21, 5, and 15?
+A: In order, they are 5 15 21.
+
+Q: How do you sort 292, 580, and 799?
+A: In order, they are 292 580 799.
+
+Q: What is the first letter of 'canada'?
+A: The first letter of 'canada' is C.
+
+Q: What is the last letter of 'greece'?
+A: The last letter of 'greece' is E.
+
+Q: What is the last letter of 'yaounde'?
+A: The last letter of 'yaounde' is E.
+
+Q: What is the last letter of 'providence'?
+A: The last letter of 'providence' is E.
+
+Q: What is the last letter of 'africa'?
+A: The last letter of 'africa' is A.
+
+Q: What is the last letter of 'aires'?
+A: The last letter of 'aires' is S.
+
+Q: What is the last letter of 'roar'?
+A: The last letter of 'roar' is R.
+
+Q: What is the first letter of 'mauritania'?
+A: The first letter of 'mauritania' is M.
