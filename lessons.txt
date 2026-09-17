@@ -56263,3 +56263,146 @@ A: The currency of Ethiopia is the birr.
 
 Q: What currency does Argentina use?
 A: The currency of Argentina is the peso.
+Q: How many letters does the word 'african' have?
+A: The word 'african' has 7 letters.
+
+Q: How many letters does the word 'sarajevo' have?
+A: The word 'sarajevo' has 8 letters.
+
+Q: How many letters does the word 'dollar' have?
+A: The word 'dollar' has 6 letters.
+
+Q: How many letters does the word 'the' have?
+A: The word 'the' has 3 letters.
+
+Q: How many letters does the word 'minnesota' have?
+A: The word 'minnesota' has 9 letters.
+
+Q: How many letters does the word 'hanoi' have?
+A: The word 'hanoi' has 5 letters.
+
+Q: How many letters does the word 'riyal' have?
+A: The word 'riyal' has 5 letters.
+
+Q: How many letters does the word 'dalasi' have?
+A: The word 'dalasi' has 6 letters.
+
+Q: What is the first letter of 'lesotho'?
+A: The first letter of 'lesotho' is L.
+
+Q: What is the last letter of 'time'?
+A: The last letter of 'time' is E.
+
+Q: What is the last letter of 'georgia'?
+A: The last letter of 'georgia' is A.
+
+Q: What is the first letter of 'slippery'?
+A: The first letter of 'slippery' is S.
+
+Q: What is the last letter of 'birr'?
+A: The last letter of 'birr' is R.
+
+Q: What is the last letter of 'estonia'?
+A: The last letter of 'estonia' is A.
+
+Q: What is the last letter of 'easily'?
+A: The last letter of 'easily' is Y.
+
+Q: What is the first letter of 'lansing'?
+A: The first letter of 'lansing' is L.
+
+Q: How do you sort 218, 379, and 568?
+A: In order, they are 218 379 568.
+
+Q: How do you sort 602, 615, and 646?
+A: In order, they are 602 615 646.
+
+Q: How do you sort 22, 25, and 14?
+A: In order, they are 14 22 25.
+
+Q: How do you sort 628, 36, and 635?
+A: In order, they are 36 628 635.
+
+Q: How do you sort 354, 421, and 70?
+A: In order, they are 70 354 421.
+
+Q: How do you sort 310, 507, and 416?
+A: In order, they are 310 416 507.
+
+Q: How do you sort 12, 4, and 5?
+A: In order, they are 4 5 12.
+
+Q: How do you sort 899, 988, and 352?
+A: In order, they are 352 899 988.
+
+Q: Is 855 bigger than 366?
+A: Yes, 855 is bigger than 366.
+
+Q: Is 13 bigger than 16?
+A: No, 16 is bigger than 13.
+
+Q: Which is bigger, 14 or 17?
+A: 17 is bigger than 14.
+
+Q: Is 17 bigger than 1?
+A: Yes, 17 is bigger than 1.
+
+Q: Which is bigger, 706 or 517?
+A: 706 is bigger than 517.
+
+Q: Is 85 bigger than 47?
+A: Yes, 85 is bigger than 47.
+
+Q: Is 822 bigger than 240?
+A: Yes, 822 is bigger than 240.
+
+Q: Which is bigger, 45 or 91?
+A: 91 is bigger than 45.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
+
+Q: What is the capital of Denmark?
+A: The capital of Denmark is Copenhagen.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What is the capital of Kyrgyzstan?
+A: The capital of Kyrgyzstan is Bishkek.
+
+Q: What is the capital of Liberia?
+A: The capital of Liberia is Monrovia.
+
+Q: What is the capital of Saint Kitts and Nevis?
+A: The capital of Saint Kitts and Nevis is Basseterre.
+
+Q: What is the capital of Mauritius?
+A: The capital of Mauritius is Port Louis.
