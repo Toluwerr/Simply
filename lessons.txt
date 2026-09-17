@@ -55538,3 +55538,170 @@ A: The opposite of 'tall' is 'short'.
 
 Q: What is the opposite of 'up'?
 A: The opposite of 'up' is 'down'.
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Costa Rica use?
+A: The currency of Costa Rica is the colon.
+
+Q: What currency does Georgia use?
+A: The currency of Georgia is the lari.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does New Zealand use?
+A: The currency of New Zealand is the dollar.
+
+Q: What currency does Malaysia use?
+A: The currency of Malaysia is the ringgit.
+
+Q: What is the Roman numeral for 10?
+A: The Roman numeral for 10 is x.
+
+Q: What is the Roman numeral for 31?
+A: The Roman numeral for 31 is xxxi.
+
+Q: What number is the Roman numeral c?
+A: The Roman numeral c is the number 100.
+
+Q: What number is the Roman numeral xlv?
+A: The Roman numeral xlv is the number 45.
+
+Q: What is the Roman numeral for 11?
+A: The Roman numeral for 11 is xi.
+
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What number is the Roman numeral liii?
+A: The Roman numeral liii is the number 53.
+
+Q: What is the Roman numeral for 483?
+A: The Roman numeral for 483 is cdlxxxiii.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: What is 25 plus 51?
+A: 25 plus 51 is 76.
+
+Q: What is 12 times 16?
+A: 12 times 16 is 192.
+
+Q: What is 109 plus 909?
+A: 109 plus 909 is 1018.
+
+Q: What is 34 plus 19?
+A: 34 plus 19 is 53.
+
+Q: What is 98 minus 60?
+A: 98 minus 60 is 38.
+
+Q: What is 12 plus 8?
+A: 12 plus 8 is 20.
+
+Q: What is 8 times 4?
+A: 8 times 4 is 32.
+
+Q: What is 772 plus 204?
+A: 772 plus 204 is 976.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
