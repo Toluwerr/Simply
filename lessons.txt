@@ -61095,3 +61095,170 @@ A: 55 in words is fifty-five.
 
 Q: How do you write 71 in words?
 A: 71 in words is seventy-one.
+Q: Is 43 bigger than 59?
+A: No, 59 is bigger than 43.
+
+Q: Is 31 bigger than 13?
+A: Yes, 31 is bigger than 13.
+
+Q: Is 792 bigger than 436?
+A: Yes, 792 is bigger than 436.
+
+Q: Which is bigger, 859 or 269?
+A: 859 is bigger than 269.
+
+Q: Is 1 bigger than 12?
+A: No, 12 is bigger than 1.
+
+Q: Which is bigger, 11 or 6?
+A: 11 is bigger than 6.
+
+Q: Which is bigger, 25 or 27?
+A: 27 is bigger than 25.
+
+Q: Is 12 bigger than 19?
+A: No, 19 is bigger than 12.
+
+Q: How do you sort 29, 18, and 15?
+A: In order, they are 15 18 29.
+
+Q: How do you sort 29, 13, and 14?
+A: In order, they are 13 14 29.
+
+Q: How do you sort 1, 16, and 19?
+A: In order, they are 1 16 19.
+
+Q: How do you sort 12, 10, and 17?
+A: In order, they are 10 12 17.
+
+Q: How do you sort 509, 813, and 131?
+A: In order, they are 131 509 813.
+
+Q: How do you sort 668, 141, and 80?
+A: In order, they are 80 141 668.
+
+Q: How do you sort 19, 28, and 15?
+A: In order, they are 15 19 28.
+
+Q: How do you sort 27, 10, and 26?
+A: In order, they are 10 26 27.
+
+Q: What continent is Albania on?
+A: Albania is on the continent of Europe.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: What continent is Ghana on?
+A: Ghana is on the continent of Africa.
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Albania on?
+A: Albania is on the continent of Europe.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is Singapore on?
+A: Singapore is on the continent of Asia.
+
+Q: How do you write 17 in words?
+A: 17 in words is seventeen.
+
+Q: How do you write 93 in words?
+A: 93 in words is ninety-three.
+
+Q: How do you write 3 in words?
+A: 3 in words is three.
+
+Q: How do you write 37 in words?
+A: 37 in words is thirty-seven.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: What is the capital of Uganda?
+A: The capital of Uganda is Kampala.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+
+Q: What is the capital of Taiwan?
+A: The capital of Taiwan is Taipei.
+
+Q: What is the capital of Sao Tome and Principe?
+A: The capital of Sao Tome and Principe is Sao Tome.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
