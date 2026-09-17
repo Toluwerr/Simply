@@ -46031,3 +46031,170 @@ A: The first letter of 'libreville' is L.
 
 Q: What is the first letter of 'panama'?
 A: The first letter of 'panama' is P.
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: How do you sort 19, 848, and 688?
+A: In order, they are 19 688 848.
+
+Q: How do you sort 8, 19, and 27?
+A: In order, they are 8 19 27.
+
+Q: How do you sort 294, 498, and 371?
+A: In order, they are 294 371 498.
+
+Q: How do you sort 7, 2, and 21?
+A: In order, they are 2 7 21.
+
+Q: How do you sort 829, 629, and 971?
+A: In order, they are 629 829 971.
+
+Q: How do you sort 29, 26, and 19?
+A: In order, they are 19 26 29.
+
+Q: How do you sort 945, 936, and 545?
+A: In order, they are 545 936 945.
+
+Q: How do you sort 237, 683, and 336?
+A: In order, they are 237 336 683.
+
+Q: What is the first letter of 'topeka'?
+A: The first letter of 'topeka' is T.
+
+Q: What is the first letter of 'switzerland'?
+A: The first letter of 'switzerland' is S.
+
+Q: What is the first letter of 'thailand'?
+A: The first letter of 'thailand' is T.
+
+Q: What is the last letter of 'concord'?
+A: The last letter of 'concord' is D.
+
+Q: What is the last letter of 'wisconsin'?
+A: The last letter of 'wisconsin' is N.
+
+Q: What is the first letter of 'picked'?
+A: The first letter of 'picked' is P.
+
+Q: What is the first letter of 'indiana'?
+A: The first letter of 'indiana' is I.
+
+Q: What is the first letter of 'maldives'?
+A: The first letter of 'maldives' is M.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Belgium on?
+A: Belgium is on the continent of Europe.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: What continent is Zimbabwe on?
+A: Zimbabwe is on the continent of Africa.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What continent is Azerbaijan on?
+A: Azerbaijan is on the continent of Asia.
+
+Q: What continent is Argentina on?
+A: Argentina is on the continent of South America.
+
+Q: What continent is Azerbaijan on?
+A: Azerbaijan is on the continent of Asia.
+
+Q: What is the capital of Chile?
+A: The capital of Chile is Santiago.
+
+Q: What is the capital of Ukraine?
+A: The capital of Ukraine is Kyiv.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Uganda?
+A: The capital of Uganda is Kampala.
+
+Q: What is the capital of Guinea?
+A: The capital of Guinea is Conakry.
+
+Q: What is the capital of Yemen?
+A: The capital of Yemen is Sanaa.
+
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by twos from 20 to 28?
+A: Counting by twos gives 20 22 24 26 28.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by ones from 31 to 34?
+A: Counting by ones gives 31 32 33 34.
+
+Q: Can you count by fives from 25 to 50?
+A: Counting by fives gives 25 30 35 40 45 50.
+
+Q: Can you count by fives from 5 to 20?
+A: Counting by fives gives 5 10 15 20.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Which is bigger, 6 or 13?
+A: 13 is bigger than 6.
+
+Q: Which is bigger, 19 or 12?
+A: 19 is bigger than 12.
+
+Q: Is 323 bigger than 674?
+A: No, 674 is bigger than 323.
+
+Q: Is 68 bigger than 31?
+A: Yes, 68 is bigger than 31.
+
+Q: Which is bigger, 93 or 87?
+A: 93 is bigger than 87.
+
+Q: Which is bigger, 15 or 77?
+A: 77 is bigger than 15.
+
+Q: Which is bigger, 17 or 9?
+A: 17 is bigger than 9.
+
+Q: Is 20 bigger than 13?
+A: Yes, 20 is bigger than 13.
