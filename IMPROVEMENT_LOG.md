@@ -3982,3 +3982,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: val_loss 1.9162, was 1.9797
 - self-portrait, asked "Who are you?": *"The word '?"
 
+## Iteration 453 - NO_GAIN
+- **when**: 2026-09-17T03:37:50Z
+- **train loss**: 2.2679 | **val loss**: 2.1222 | **run best**: 1.9162
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +58 articles, +16 facts (1,133 read all-time)
+- **lr**: 0.0015 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"How much is the opposite of Tell me '?"
+
