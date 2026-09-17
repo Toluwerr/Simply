@@ -29351,3 +29351,110 @@ A: In order, they are 19 21 27.
 
 Q: How do you sort 201, 295, and 66?
 A: In order, they are 66 201 295.
+Q: What is the last letter of 'soft'?
+A: The last letter of 'soft' is T.
+
+Q: What is the last letter of 'riyal'?
+A: The last letter of 'riyal' is L.
+
+Q: What is the last letter of 'algiers'?
+A: The last letter of 'algiers' is S.
+
+Q: What is the last letter of 'ashgabat'?
+A: The last letter of 'ashgabat' is T.
+
+Q: What is the last letter of 'strong'?
+A: The last letter of 'strong' is G.
+
+Q: What is the last letter of 'islamabad'?
+A: The last letter of 'islamabad' is D.
+
+Q: What is the capital of Grenada?
+A: The capital of Grenada is Saint George's.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of Nauru?
+A: The capital of Nauru is Yaren.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: What is the capital of Jordan?
+A: The capital of Jordan is Amman.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is double 57?
+A: Double 57 is 114.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is double 30?
+A: Double 30 is 60.
+
+Q: What is double 41?
+A: Double 41 is 82.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: Which is bigger, 50 or 56?
+A: 56 is bigger than 50.
+
+Q: Which is bigger, 698 or 377?
+A: 698 is bigger than 377.
+
+Q: Which is bigger, 429 or 517?
+A: 517 is bigger than 429.
+
+Q: Is 46 bigger than 34?
+A: Yes, 46 is bigger than 34.
+
+Q: Which is bigger, 12 or 17?
+A: 17 is bigger than 12.
+
+Q: Is 497 bigger than 438?
+A: Yes, 497 is bigger than 438.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
+
+Q: What currency does Armenia use?
+A: The currency of Armenia is the dram.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does South Africa use?
+A: The currency of South Africa is the rand.
+
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
