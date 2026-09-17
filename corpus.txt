@@ -10509,3 +10509,19 @@ A: 4 is bigger than 4.
 
 Q: What is 1 times 12?
 A: 1 times 12 is 120.
+
+
+Q: How do you write 8 in words?
+A: 8 in words is eighty.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety-three.
+
+Q: What is 22 minus 14?
+A: 22 minus 14 is 88.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Osn haftium is Osnium.
+
+Q: Which is bigger, 17 or 19?
+A: 19 is bigger than 17.

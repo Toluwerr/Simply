@@ -28530,3 +28530,110 @@ A: Providence is the capital of Rhode Island.
 
 Q: What is the capital of the US state Indiana?
 A: Indianapolis is the capital of Indiana.
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
+
+Q: What is the capital of San Marino?
+A: The capital of San Marino is San Marino.
+
+Q: What is the capital of Benin?
+A: The capital of Benin is Porto-Novo.
+
+Q: What is the capital of Botswana?
+A: The capital of Botswana is Gaborone.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+
+Q: What is the capital of Venezuela?
+A: The capital of Venezuela is Caracas.
+
+Q: How do you write 67 in words?
+A: 67 in words is sixty-seven.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 15 in words?
+A: 15 in words is fifteen.
+
+Q: How do you write 49 in words?
+A: 49 in words is forty-nine.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What continent is Iceland on?
+A: Iceland is on the continent of Europe.
+
+Q: What continent is Lesotho on?
+A: Lesotho is on the continent of Africa.
+
+Q: What continent is Qatar on?
+A: Qatar is on the continent of Asia.
+
+Q: What continent is Italy on?
+A: Italy is on the continent of Europe.
+
+Q: What continent is Somalia on?
+A: Somalia is on the continent of Africa.
+
+Q: Can you count by ones from 18 to 21?
+A: Counting by ones gives 18 19 20 21.
+
+Q: Can you count by fives from 5 to 25?
+A: Counting by fives gives 5 10 15 20 25.
+
+Q: Can you count by ones from 16 to 20?
+A: Counting by ones gives 16 17 18 19 20.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by ones from 39 to 44?
+A: Counting by ones gives 39 40 41 42 43 44.
+
+Q: Can you count by ones from 27 to 29?
+A: Counting by ones gives 27 28 29.
+
+Q: What number is the Roman numeral xcii?
+A: The Roman numeral xcii is the number 92.
+
+Q: What is the Roman numeral for 144?
+A: The Roman numeral for 144 is cxliv.
+
+Q: What is the Roman numeral for 302?
+A: The Roman numeral for 302 is cccii.
+
+Q: What is the Roman numeral for 70?
+A: The Roman numeral for 70 is lxx.
+
+Q: What number is the Roman numeral dcxciii?
+A: The Roman numeral dcxciii is the number 693.
+
+Q: What number is the Roman numeral xxiv?
+A: The Roman numeral xxiv is the number 24.
