@@ -26402,3 +26402,170 @@ A: 5 in words is five.
 
 Q: How do you write 56 in words?
 A: 56 in words is fifty-six.
+Q: Which is bigger, 530 or 496?
+A: 530 is bigger than 496.
+
+Q: Is 832 bigger than 756?
+A: Yes, 832 is bigger than 756.
+
+Q: Is 754 bigger than 450?
+A: Yes, 754 is bigger than 450.
+
+Q: Is 4 bigger than 14?
+A: No, 14 is bigger than 4.
+
+Q: Is 19 bigger than 20?
+A: No, 20 is bigger than 19.
+
+Q: Which is bigger, 44 or 63?
+A: 63 is bigger than 44.
+
+Q: Is 105 bigger than 573?
+A: No, 573 is bigger than 105.
+
+Q: Is 15 bigger than 67?
+A: No, 67 is bigger than 15.
+
+Q: How many letters does the word 'helsinki' have?
+A: The word 'helsinki' has 8 letters.
+
+Q: How many letters does the word 'tidy' have?
+A: The word 'tidy' has 4 letters.
+
+Q: How many letters does the word 'holmium' have?
+A: The word 'holmium' has 7 letters.
+
+Q: How many letters does the word 'costa' have?
+A: The word 'costa' has 5 letters.
+
+Q: How many letters does the word 'dover' have?
+A: The word 'dover' has 5 letters.
+
+Q: How many letters does the word 'dalasi' have?
+A: The word 'dalasi' has 6 letters.
+
+Q: How many letters does the word 'liberia' have?
+A: The word 'liberia' has 7 letters.
+
+Q: How many letters does the word 'kigali' have?
+A: The word 'kigali' has 6 letters.
+
+Q: How do you sort 623, 955, and 867?
+A: In order, they are 623 867 955.
+
+Q: How do you sort 9, 29, and 14?
+A: In order, they are 9 14 29.
+
+Q: How do you sort 87, 824, and 891?
+A: In order, they are 87 824 891.
+
+Q: How do you sort 26, 18, and 8?
+A: In order, they are 8 18 26.
+
+Q: How do you sort 27, 22, and 2?
+A: In order, they are 2 22 27.
+
+Q: How do you sort 7, 1, and 22?
+A: In order, they are 1 7 22.
+
+Q: How do you sort 455, 261, and 48?
+A: In order, they are 48 261 455.
+
+Q: How do you sort 523, 157, and 106?
+A: In order, they are 106 157 523.
+
+Q: What continent is Afghanistan on?
+A: Afghanistan is on the continent of Asia.
+
+Q: What continent is Mali on?
+A: Mali is on the continent of Africa.
+
+Q: What continent is Madagascar on?
+A: Madagascar is on the continent of Africa.
+
+Q: What continent is Poland on?
+A: Poland is on the continent of Europe.
+
+Q: What continent is Ghana on?
+A: Ghana is on the continent of Africa.
+
+Q: What continent is Poland on?
+A: Poland is on the continent of Europe.
+
+Q: What continent is New Zealand on?
+A: New Zealand is on the continent of Oceania.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of North Korea?
+A: The capital of North Korea is Pyongyang.
+
+Q: What is the capital of the Central African Republic?
+A: The capital of the Central African Republic is Bangui.
+
+Q: What is the capital of Italy?
+A: The capital of Italy is Rome.
+
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+
+Q: What is the capital of Iran?
+A: The capital of Iran is Tehran.
+
+Q: What is the capital of Bulgaria?
+A: The capital of Bulgaria is Sofia.
