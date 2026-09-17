@@ -57050,3 +57050,170 @@ A: No, 77 is bigger than 74.
 
 Q: Which is bigger, 19 or 5?
 A: 19 is bigger than 5.
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 63 in words?
+A: 63 in words is sixty-three.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: How do you write 52 in words?
+A: 52 in words is fifty-two.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: What currency does China use?
+A: The currency of China is the yuan.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: What currency does Chile use?
+A: The currency of Chile is the peso.
+
+Q: What currency does the United Arab Emirates use?
+A: The currency of the United Arab Emirates is the dirham.
+
+Q: What currency does Jamaica use?
+A: The currency of Jamaica is the dollar.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What currency does Belarus use?
+A: The currency of Belarus is the ruble.
+
+Q: What currency does Uganda use?
+A: The currency of Uganda is the shilling.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: How do you sort 27, 29, and 17?
+A: In order, they are 17 27 29.
+
+Q: How do you sort 11, 1, and 2?
+A: In order, they are 1 2 11.
+
+Q: How do you sort 25, 4, and 29?
+A: In order, they are 4 25 29.
+
+Q: How do you sort 220, 979, and 864?
+A: In order, they are 220 864 979.
+
+Q: How do you sort 168, 566, and 113?
+A: In order, they are 113 168 566.
+
+Q: How do you sort 768, 451, and 485?
+A: In order, they are 451 485 768.
+
+Q: How do you sort 21, 17, and 22?
+A: In order, they are 17 21 22.
+
+Q: How do you sort 16, 28, and 4?
+A: In order, they are 4 16 28.
+
+Q: What is the first letter of 'may'?
+A: The first letter of 'may' is M.
+
+Q: What is the last letter of 'aluminium'?
+A: The last letter of 'aluminium' is M.
+
+Q: What is the first letter of 'mozambique'?
+A: The first letter of 'mozambique' is M.
+
+Q: What is the last letter of 'maple'?
+A: The last letter of 'maple' is E.
+
+Q: What is the first letter of 'topeka'?
+A: The first letter of 'topeka' is T.
+
+Q: What is the last letter of 'bangui'?
+A: The last letter of 'bangui' is I.
+
+Q: What is the last letter of 'ruble'?
+A: The last letter of 'ruble' is E.
+
+Q: What is the first letter of 'dover'?
+A: The first letter of 'dover' is D.
