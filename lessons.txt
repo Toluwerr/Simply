@@ -24605,3 +24605,110 @@ A: The word 'with' has 4 letters.
 
 Q: How many letters does the word 'selenium' have?
 A: The word 'selenium' has 8 letters.
+Q: How many letters does the word 'dushanbe' have?
+A: The word 'dushanbe' has 8 letters.
+
+Q: How many letters does the word 'sheep' have?
+A: The word 'sheep' has 5 letters.
+
+Q: How many letters does the word 'house' have?
+A: The word 'house' has 5 letters.
+
+Q: How many letters does the word 'nashville' have?
+A: The word 'nashville' has 9 letters.
+
+Q: How many letters does the word 'may' have?
+A: The word 'may' has 3 letters.
+
+Q: How many letters does the word 'leone' have?
+A: The word 'leone' has 5 letters.
+
+Q: How do you sort 25, 12, and 6?
+A: In order, they are 6 12 25.
+
+Q: How do you sort 17, 12, and 15?
+A: In order, they are 12 15 17.
+
+Q: How do you sort 27, 12, and 1?
+A: In order, they are 1 12 27.
+
+Q: How do you sort 604, 83, and 73?
+A: In order, they are 73 83 604.
+
+Q: How do you sort 887, 501, and 260?
+A: In order, they are 260 501 887.
+
+Q: How do you sort 27, 26, and 28?
+A: In order, they are 26 27 28.
+
+Q: What is 5 times 12?
+A: 5 times 12 is 60.
+
+Q: What is 498 minus 310?
+A: 498 minus 310 is 188.
+
+Q: What is 9 plus 3?
+A: 9 plus 3 is 12.
+
+Q: What is 20 minus 7?
+A: 20 minus 7 is 13.
+
+Q: What is 41 minus 18?
+A: 41 minus 18 is 23.
+
+Q: What is 5 minus 4?
+A: 5 minus 4 is 1.
+
+Q: What continent is Lebanon on?
+A: Lebanon is on the continent of Asia.
+
+Q: What continent is Switzerland on?
+A: Switzerland is on the continent of Europe.
+
+Q: What continent is Vanuatu on?
+A: Vanuatu is on the continent of Oceania.
+
+Q: What continent is Afghanistan on?
+A: Afghanistan is on the continent of Asia.
+
+Q: What continent is Ecuador on?
+A: Ecuador is on the continent of South America.
+
+Q: What continent is India on?
+A: India is on the continent of Asia.
+
+Q: What currency does Sri Lanka use?
+A: The currency of Sri Lanka is the rupee.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
+
+Q: What number is the Roman numeral ccxlviii?
+A: The Roman numeral ccxlviii is the number 248.
+
+Q: What number is the Roman numeral xcvi?
+A: The Roman numeral xcvi is the number 96.
+
+Q: What is the Roman numeral for 49?
+A: The Roman numeral for 49 is xlix.
+
+Q: What is the Roman numeral for 893?
+A: The Roman numeral for 893 is dcccxciii.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What number is the Roman numeral cdv?
+A: The Roman numeral cdv is the number 405.

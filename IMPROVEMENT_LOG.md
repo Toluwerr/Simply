@@ -2629,3 +2629,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.70 | weakest: arithmetic 0.00, sort 0.00, letters 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny AI model that improves itself a little model to model. How much ands colds does an internation, which can be find holds use?"
 
+## Iteration 308 - NO_GAIN
+- **when**: 2026-09-17T00:08:50Z
+- **train loss**: 0.5344 | **val loss**: 0.7115 | **run best**: 0.6799
+- **corpus**: 212,729 chars (+5 self-written examples)
+- **internet reading**: +26 articles, +12 facts (536 read all-time)
+- **lr**: 0.0008 | **steps**: 150
+- **knowledge quiz**: avg 0.65 | weakest: sort 0.00, letters 0.00, spelling 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am a small but very fella a motivenny only."
+
