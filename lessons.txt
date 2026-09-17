@@ -49337,3 +49337,146 @@ A: 'generous' means happy to give and share.
 
 Q: What does 'stale' mean?
 A: 'stale' means old and no longer fresh.
+Q: What is 492 minus 268?
+A: 492 minus 268 is 224.
+
+Q: What is 6 plus 7?
+A: 6 plus 7 is 13.
+
+Q: What is 176 plus 686?
+A: 176 plus 686 is 862.
+
+Q: What is 15 minus 2?
+A: 15 minus 2 is 13.
+
+Q: What is 55 plus 71?
+A: 55 plus 71 is 126.
+
+Q: What is 491 plus 186?
+A: 491 plus 186 is 677.
+
+Q: What is 341 minus 123?
+A: 341 minus 123 is 218.
+
+Q: What is 13 minus 6?
+A: 13 minus 6 is 7.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the most populous country?
+A: India is the most populous country.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: How many oceans are there?
+A: There are 5 oceans.
+
+Q: How many bones does an adult human have?
+A: An adult human has 206 bones.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: Can you count by fives from 20 to 35?
+A: Counting by fives gives 20 25 30 35.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by ones from 8 to 10?
+A: Counting by ones gives 8 9 10.
+
+Q: Can you count by ones from 13 to 17?
+A: Counting by ones gives 13 14 15 16 17.
+
+Q: Can you count by fives from 15 to 35?
+A: Counting by fives gives 15 20 25 30 35.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by fives from 30 to 50?
+A: Counting by fives gives 30 35 40 45 50.
+
+Q: Can you count by ones from 30 to 32?
+A: Counting by ones gives 30 31 32.
+
+Q: What is half of 34?
+A: Half of 34 is 17.
+
+Q: What is double 39?
+A: Double 39 is 78.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is double 48?
+A: Double 48 is 96.
+
+Q: What is double 2?
+A: Double 2 is 4.
+
+Q: What is half of 50?
+A: Half of 50 is 25.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What currency does Iran use?
+A: The currency of Iran is the rial.
+
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordoba.
+
+Q: What currency does the United Kingdom use?
+A: The currency of the United Kingdom is the pound.
+
+Q: What currency does China use?
+A: The currency of China is the yuan.
+
+Q: What currency does Georgia use?
+A: The currency of Georgia is the lari.
+
+Q: What currency does Brazil use?
+A: The currency of Brazil is the real.
+
+Q: What currency does Bahrain use?
+A: The currency of Bahrain is the dinar.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
