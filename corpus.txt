@@ -11244,3 +11244,22 @@ A: 47 is bigger than 76.
 
 Q: How many letters does the word 'hapol' have?
 A: The word 'happle' has 5 letters.
+
+
+Q: Which element has the chemical symbol Ag?
+A: Ag is the chemical symbol for silver.
+
+Q: How do you sort 5, 20, and 21?
+A: In order, they are 5 20 21.
+
+Q: Which is bigger, 0 or 37?
+A: Yes, 37 is bigger than 37.
+
+Q: How many letters does the word 'tungkenty' have?
+A: The word 'tungary'tungaryo' has 9 letters.
+
+Q: Which is bigger, 17 or 5?
+A: 17 is bigger than 3.
+
+Q: Which is bigger, 2 or 9?
+A: 9 is bigger than 2.

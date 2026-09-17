@@ -32010,3 +32010,110 @@ A: 63 in words is sixty-three.
 
 Q: How do you write 17 in words?
 A: 17 in words is seventeen.
+Q: What is the capital of the Solomon Islands?
+A: The capital of the Solomon Islands is Honiara.
+
+Q: What is the capital of Uzbekistan?
+A: The capital of Uzbekistan is Tashkent.
+
+Q: What is the capital of Saint Vincent and the Grenadines?
+A: The capital of Saint Vincent and the Grenadines is Kingstown.
+
+Q: What is the capital of Saint Lucia?
+A: The capital of Saint Lucia is Castries.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
+
+Q: What is the capital of Lesotho?
+A: The capital of Lesotho is Maseru.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Os.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium.
+
+Q: What is the chemical symbol for erbium?
+A: The chemical symbol for erbium is Er.
+
+Q: Which element has the chemical symbol Zr?
+A: Zr is the chemical symbol for zirconium.
+
+Q: What is the chemical symbol for zirconium?
+A: The chemical symbol for zirconium is Zr.
+
+Q: What is the chemical symbol for promethium?
+A: The chemical symbol for promethium is Pm.
+
+Q: How do you sort 905, 30, and 936?
+A: In order, they are 30 905 936.
+
+Q: How do you sort 1, 26, and 10?
+A: In order, they are 1 10 26.
+
+Q: How do you sort 579, 567, and 55?
+A: In order, they are 55 567 579.
+
+Q: How do you sort 58, 187, and 364?
+A: In order, they are 58 187 364.
+
+Q: How do you sort 350, 915, and 651?
+A: In order, they are 350 651 915.
+
+Q: How do you sort 226, 734, and 558?
+A: In order, they are 226 558 734.
+
+Q: How many letters does the word 'ashgabat' have?
+A: The word 'ashgabat' has 8 letters.
+
+Q: How many letters does the word 'boron' have?
+A: The word 'boron' has 5 letters.
+
+Q: How many letters does the word 'topeka' have?
+A: The word 'topeka' has 6 letters.
+
+Q: How many letters does the word 'manila' have?
+A: The word 'manila' has 6 letters.
+
+Q: How many letters does the word 'cambodia' have?
+A: The word 'cambodia' has 8 letters.
+
+Q: How many letters does the word 'peach' have?
+A: The word 'peach' has 5 letters.
+
+Q: What is double 35?
+A: Double 35 is 70.
+
+Q: What is double 17?
+A: Double 17 is 34.
+
+Q: What is double 33?
+A: Double 33 is 66.
+
+Q: What is double 59?
+A: Double 59 is 118.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What currency does Costa Rica use?
+A: The currency of Costa Rica is the colon.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
+
+Q: What currency does Iceland use?
+A: The currency of Iceland is the krona.
