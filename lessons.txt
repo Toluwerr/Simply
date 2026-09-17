@@ -36634,3 +36634,170 @@ A: 14 is bigger than 5.
 
 Q: Is 508 bigger than 642?
 A: No, 642 is bigger than 508.
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What continent is Indonesia on?
+A: Indonesia is on the continent of Asia.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is Azerbaijan on?
+A: Azerbaijan is on the continent of Asia.
+
+Q: What continent is Peru on?
+A: Peru is on the continent of South America.
+
+Q: What continent is Germany on?
+A: Germany is on the continent of Europe.
+
+Q: What continent is Serbia on?
+A: Serbia is on the continent of Europe.
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.
+
+Q: What continent is the Republic of the Congo on?
+A: the Republic of the Congo is on the continent of Africa.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of Portugal?
+A: The capital of Portugal is Lisbon.
+
+Q: What is the capital of Saint Lucia?
+A: The capital of Saint Lucia is Castries.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of Luxembourg?
+A: The capital of Luxembourg is Luxembourg.
+
+Q: What is the capital of Uruguay?
+A: The capital of Uruguay is Montevideo.
+
+Q: What is the capital of Liberia?
+A: The capital of Liberia is Monrovia.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you write 3 in words?
+A: 3 in words is three.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 3 in words?
+A: 3 in words is three.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 48 in words?
+A: 48 in words is forty-eight.
+
+Q: How do you write 50 in words?
+A: 50 in words is fifty.
+
+Q: How do you sort 128, 39, and 14?
+A: In order, they are 14 39 128.
+
+Q: How do you sort 199, 38, and 167?
+A: In order, they are 38 167 199.
+
+Q: How do you sort 808, 806, and 803?
+A: In order, they are 803 806 808.
+
+Q: How do you sort 14, 18, and 21?
+A: In order, they are 14 18 21.
+
+Q: How do you sort 774, 417, and 23?
+A: In order, they are 23 417 774.
+
+Q: How do you sort 8, 27, and 6?
+A: In order, they are 6 8 27.
+
+Q: How do you sort 29, 23, and 8?
+A: In order, they are 8 23 29.
+
+Q: How do you sort 29, 15, and 5?
+A: In order, they are 5 15 29.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
