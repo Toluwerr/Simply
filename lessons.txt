@@ -38232,3 +38232,170 @@ A: No, 8 is bigger than 2.
 
 Q: Which is bigger, 64 or 97?
 A: 97 is bigger than 64.
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is Kazakhstan on?
+A: Kazakhstan is on the continent of Asia.
+
+Q: What continent is Togo on?
+A: Togo is on the continent of Africa.
+
+Q: What continent is Iran on?
+A: Iran is on the continent of Asia.
+
+Q: What continent is the Philippines on?
+A: the Philippines is on the continent of Asia.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: What continent is Moldova on?
+A: Moldova is on the continent of Europe.
+
+Q: What continent is Benin on?
+A: Benin is on the continent of Africa.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: What is the capital of Saudi Arabia?
+A: The capital of Saudi Arabia is Riyadh.
+
+Q: What is the capital of Liberia?
+A: The capital of Liberia is Monrovia.
+
+Q: What is the capital of Brunei?
+A: The capital of Brunei is Bandar Seri Begawan.
+
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+
+Q: What is the capital of Equatorial Guinea?
+A: The capital of Equatorial Guinea is Malabo.
+
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of Poland?
+A: The capital of Poland is Warsaw.
+
+Q: What is the capital of Thailand?
+A: The capital of Thailand is Bangkok.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 73 in words?
+A: 73 in words is seventy-three.
+
+Q: How do you write 35 in words?
+A: 35 in words is thirty-five.
+
+Q: How do you sort 19, 13, and 18?
+A: In order, they are 13 18 19.
+
+Q: How do you sort 569, 723, and 893?
+A: In order, they are 569 723 893.
+
+Q: How do you sort 12, 9, and 7?
+A: In order, they are 7 9 12.
+
+Q: How do you sort 907, 848, and 636?
+A: In order, they are 636 848 907.
+
+Q: How do you sort 895, 201, and 22?
+A: In order, they are 22 201 895.
+
+Q: How do you sort 240, 667, and 587?
+A: In order, they are 240 587 667.
+
+Q: How do you sort 418, 852, and 287?
+A: In order, they are 287 418 852.
+
+Q: How do you sort 304, 309, and 417?
+A: In order, they are 304 309 417.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
