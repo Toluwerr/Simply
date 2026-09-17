@@ -34869,3 +34869,170 @@ A: The first letter of 'niobium' is N.
 
 Q: What is the first letter of 'hoot'?
 A: The first letter of 'hoot' is H.
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: How do you sort 19, 26, and 12?
+A: In order, they are 12 19 26.
+
+Q: How do you sort 27, 16, and 6?
+A: In order, they are 6 16 27.
+
+Q: How do you sort 139, 760, and 780?
+A: In order, they are 139 760 780.
+
+Q: How do you sort 943, 790, and 41?
+A: In order, they are 41 790 943.
+
+Q: How do you sort 27, 15, and 4?
+A: In order, they are 4 15 27.
+
+Q: How do you sort 15, 1, and 2?
+A: In order, they are 1 2 15.
+
+Q: How do you sort 20, 27, and 18?
+A: In order, they are 18 20 27.
+
+Q: How do you sort 724, 974, and 804?
+A: In order, they are 724 804 974.
+
+Q: What is the first letter of 'dim'?
+A: The first letter of 'dim' is D.
+
+Q: What is the last letter of 'turtle'?
+A: The last letter of 'turtle' is E.
+
+Q: What is the last letter of 'moving'?
+A: The last letter of 'moving' is G.
+
+Q: What is the last letter of 'tanzania'?
+A: The last letter of 'tanzania' is A.
+
+Q: What is the last letter of 'sad'?
+A: The last letter of 'sad' is D.
+
+Q: What is the first letter of 'magnesium'?
+A: The first letter of 'magnesium' is M.
+
+Q: What is the first letter of 'sturdy'?
+A: The first letter of 'sturdy' is S.
+
+Q: What is the last letter of 'cobalt'?
+A: The last letter of 'cobalt' is T.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is Mali on?
+A: Mali is on the continent of Africa.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is Malawi on?
+A: Malawi is on the continent of Africa.
+
+Q: What continent is Iraq on?
+A: Iraq is on the continent of Asia.
+
+Q: What continent is Canada on?
+A: Canada is on the continent of North America.
+
+Q: What continent is Turkey on?
+A: Turkey is on the continent of Asia.
+
+Q: What is the capital of Uganda?
+A: The capital of Uganda is Kampala.
+
+Q: What is the capital of Fiji?
+A: The capital of Fiji is Suva.
+
+Q: What is the capital of Nauru?
+A: The capital of Nauru is Yaren.
+
+Q: What is the capital of Iraq?
+A: The capital of Iraq is Baghdad.
+
+Q: What is the capital of Barbados?
+A: The capital of Barbados is Bridgetown.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: What is the capital of Cyprus?
+A: The capital of Cyprus is Nicosia.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by twos from 32 to 38?
+A: Counting by twos gives 32 34 36 38.
+
+Q: Can you count by twos from 26 to 34?
+A: Counting by twos gives 26 28 30 32 34.
+
+Q: Can you count by fives from 20 to 40?
+A: Counting by fives gives 20 25 30 35 40.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 45.
+
+Q: Can you count by fives from 5 to 30?
+A: Counting by fives gives 5 10 15 20 25 30.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by twos from 8 to 12?
+A: Counting by twos gives 8 10 12.
+
+Q: Which is bigger, 5 or 12?
+A: 12 is bigger than 5.
+
+Q: Which is bigger, 9 or 14?
+A: 14 is bigger than 9.
+
+Q: Is 939 bigger than 590?
+A: Yes, 939 is bigger than 590.
+
+Q: Is 9 bigger than 6?
+A: Yes, 9 is bigger than 6.
+
+Q: Which is bigger, 8 or 11?
+A: 11 is bigger than 8.
+
+Q: Which is bigger, 636 or 396?
+A: 636 is bigger than 396.
+
+Q: Is 5 bigger than 12?
+A: No, 12 is bigger than 5.
+
+Q: Is 600 bigger than 621?
+A: No, 621 is bigger than 600.
