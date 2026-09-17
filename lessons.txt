@@ -53520,3 +53520,170 @@ A: 10 in words is ten.
 
 Q: How do you write 80 in words?
 A: 80 in words is eighty.
+Q: Is 757 bigger than 804?
+A: No, 804 is bigger than 757.
+
+Q: Which is bigger, 674 or 775?
+A: 775 is bigger than 674.
+
+Q: Which is bigger, 433 or 150?
+A: 433 is bigger than 150.
+
+Q: Is 238 bigger than 366?
+A: No, 366 is bigger than 238.
+
+Q: Which is bigger, 2 or 9?
+A: 9 is bigger than 2.
+
+Q: Which is bigger, 10 or 13?
+A: 13 is bigger than 10.
+
+Q: Which is bigger, 16 or 10?
+A: 16 is bigger than 10.
+
+Q: Is 181 bigger than 411?
+A: No, 411 is bigger than 181.
+
+Q: How many letters does the word 'dominica' have?
+A: The word 'dominica' has 8 letters.
+
+Q: How many letters does the word 'open' have?
+A: The word 'open' has 4 letters.
+
+Q: How many letters does the word 'koruna' have?
+A: The word 'koruna' has 6 letters.
+
+Q: How many letters does the word 'moving' have?
+A: The word 'moving' has 6 letters.
+
+Q: How many letters does the word 'island' have?
+A: The word 'island' has 6 letters.
+
+Q: How many letters does the word 'erbium' have?
+A: The word 'erbium' has 6 letters.
+
+Q: How many letters does the word 'kyat' have?
+A: The word 'kyat' has 4 letters.
+
+Q: How many letters does the word 'boron' have?
+A: The word 'boron' has 5 letters.
+
+Q: How do you sort 395, 964, and 775?
+A: In order, they are 395 775 964.
+
+Q: How do you sort 5, 4, and 22?
+A: In order, they are 4 5 22.
+
+Q: How do you sort 126, 506, and 769?
+A: In order, they are 126 506 769.
+
+Q: How do you sort 10, 21, and 6?
+A: In order, they are 6 10 21.
+
+Q: How do you sort 537, 125, and 951?
+A: In order, they are 125 537 951.
+
+Q: How do you sort 942, 667, and 52?
+A: In order, they are 52 667 942.
+
+Q: How do you sort 27, 22, and 15?
+A: In order, they are 15 22 27.
+
+Q: How do you sort 52, 238, and 149?
+A: In order, they are 52 149 238.
+
+Q: What continent is Ecuador on?
+A: Ecuador is on the continent of South America.
+
+Q: What continent is the Republic of the Congo on?
+A: the Republic of the Congo is on the continent of Africa.
+
+Q: What continent is Nepal on?
+A: Nepal is on the continent of Asia.
+
+Q: What continent is Kenya on?
+A: Kenya is on the continent of Africa.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is Vanuatu on?
+A: Vanuatu is on the continent of Oceania.
+
+Q: What continent is Andorra on?
+A: Andorra is on the continent of Europe.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 73 in words?
+A: 73 in words is seventy-three.
+
+Q: How do you write 45 in words?
+A: 45 in words is forty-five.
+
+Q: How do you write 20 in words?
+A: 20 in words is twenty.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 93 in words?
+A: 93 in words is ninety-three.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: What is the capital of Ireland?
+A: The capital of Ireland is Dublin.
+
+Q: What is the capital of North Macedonia?
+A: The capital of North Macedonia is Skopje.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: What is the capital of Somalia?
+A: The capital of Somalia is Mogadishu.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+
+Q: What is the capital of Gambia?
+A: The capital of Gambia is Banjul.
+
+Q: What is the capital of Ethiopia?
+A: The capital of Ethiopia is Addis Ababa.
