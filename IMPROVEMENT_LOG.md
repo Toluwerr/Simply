@@ -3624,3 +3624,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.61 | weakest: sort 0.00, count 0.00, roman 0.00 | strongest: definitions 1.00, animals 1.00, records 1.00
 - self-portrait, asked "Who are you?": *"I am my of write 79, 79."
 
+## Iteration 415 - NO_GAIN
+- **when**: 2026-09-17T02:26:19Z
+- **train loss**: 1.4126 | **val loss**: 0.5635 | **run best**: 0.5521
+- **corpus**: 278,857 chars (+8 self-written examples)
+- **internet reading**: +30 articles, +7 facts (867 read all-time)
+- **lr**: 0.0003 | **steps**: 62
+- **knowledge quiz**: avg 0.61 | weakest: arithmetic 0.00, sort 0.00, double_half 0.00 | strongest: definitions 1.00, animals 1.00, records 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a small language model."
+

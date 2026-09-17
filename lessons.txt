@@ -20263,3 +20263,110 @@ A: 6 times 4 is 24.
 
 Q: What is 13 minus 9?
 A: 13 minus 9 is 4.
+Q: How many letters does the word 'raleigh' have?
+A: The word 'raleigh' has 7 letters.
+
+Q: How many letters does the word 'hawaii' have?
+A: The word 'hawaii' has 6 letters.
+
+Q: How many letters does the word 'washington' have?
+A: The word 'washington' has 10 letters.
+
+Q: How many letters does the word 'paul' have?
+A: The word 'paul' has 4 letters.
+
+Q: How many letters does the word 'moon' have?
+A: The word 'moon' has 4 letters.
+
+Q: How many letters does the word 'congo' have?
+A: The word 'congo' has 5 letters.
+
+Q: Can you count by ones from 13 to 16?
+A: Counting by ones gives 13 14 15 16.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 45.
+
+Q: Can you count by fives from 35 to 60?
+A: Counting by fives gives 35 40 45 50 55 60.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by twos from 32 to 36?
+A: Counting by twos gives 32 34 36.
+
+Q: What continent is Vanuatu on?
+A: Vanuatu is on the continent of Oceania.
+
+Q: What continent is Iceland on?
+A: Iceland is on the continent of Europe.
+
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: What continent is Gabon on?
+A: Gabon is on the continent of Africa.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: How do you sort 206, 333, and 692?
+A: In order, they are 206 333 692.
+
+Q: How do you sort 736, 786, and 933?
+A: In order, they are 736 786 933.
+
+Q: How do you sort 388, 574, and 556?
+A: In order, they are 388 556 574.
+
+Q: How do you sort 298, 423, and 859?
+A: In order, they are 298 423 859.
+
+Q: How do you sort 18, 21, and 8?
+A: In order, they are 8 18 21.
+
+Q: How do you sort 10, 22, and 7?
+A: In order, they are 7 10 22.
+
+Q: What is the first letter of 'fragile'?
+A: The first letter of 'fragile' is F.
+
+Q: What is the last letter of 'burundi'?
+A: The last letter of 'burundi' is I.
+
+Q: What is the last letter of 'sturdy'?
+A: The last letter of 'sturdy' is Y.
+
+Q: What is the last letter of 'manama'?
+A: The last letter of 'manama' is A.
+
+Q: What is the last letter of 'jupiter'?
+A: The last letter of 'jupiter' is R.
+
+Q: What is the first letter of 'kip'?
+A: The first letter of 'kip' is K.
+
+Q: What is the Roman numeral for 6?
+A: The Roman numeral for 6 is vi.
+
+Q: What is the Roman numeral for 834?
+A: The Roman numeral for 834 is dcccxxxiv.
+
+Q: What is the Roman numeral for 224?
+A: The Roman numeral for 224 is ccxxiv.
+
+Q: What number is the Roman numeral ccxcvii?
+A: The Roman numeral ccxcvii is the number 297.
+
+Q: What number is the Roman numeral dcccliii?
+A: The Roman numeral dcccliii is the number 853.
+
+Q: What number is the Roman numeral dccclxxviii?
+A: The Roman numeral dccclxxviii is the number 878.
