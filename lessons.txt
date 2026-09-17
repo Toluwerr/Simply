@@ -31029,3 +31029,146 @@ A: Half of 12 is 6.
 
 Q: What is half of 20?
 A: Half of 20 is 10.
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: How many letters does the word 'little' have?
+A: The word 'little' has 6 letters.
+
+Q: How many letters does the word 'tome' have?
+A: The word 'tome' has 4 letters.
+
+Q: How many letters does the word 'fiji' have?
+A: The word 'fiji' has 4 letters.
+
+Q: How many letters does the word 'stockholm' have?
+A: The word 'stockholm' has 9 letters.
+
+Q: How many letters does the word 'quack' have?
+A: The word 'quack' has 5 letters.
+
+Q: How many letters does the word 'uganda' have?
+A: The word 'uganda' has 6 letters.
+
+Q: How many letters does the word 'hampshire' have?
+A: The word 'hampshire' has 9 letters.
+
+Q: How many letters does the word 'iran' have?
+A: The word 'iran' has 4 letters.
+
+Q: What is 7 times 9?
+A: 7 times 9 is 63.
+
+Q: What is 3 times 9?
+A: 3 times 9 is 27.
+
+Q: What is 20 minus 6?
+A: 20 minus 6 is 14.
+
+Q: What is 64 minus 24?
+A: 64 minus 24 is 40.
+
+Q: What is 18 minus 3?
+A: 18 minus 3 is 15.
+
+Q: What is 79 plus 36?
+A: 79 plus 36 is 115.
+
+Q: What is 2 plus 3?
+A: 2 plus 3 is 5.
+
+Q: What is 901 plus 18?
+A: 901 plus 18 is 919.
+
+Q: What continent is Tajikistan on?
+A: Tajikistan is on the continent of Asia.
+
+Q: What continent is Ghana on?
+A: Ghana is on the continent of Africa.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What continent is Yemen on?
+A: Yemen is on the continent of Asia.
+
+Q: What continent is Mongolia on?
+A: Mongolia is on the continent of Asia.
+
+Q: What continent is Andorra on?
+A: Andorra is on the continent of Europe.
+
+Q: What continent is Ukraine on?
+A: Ukraine is on the continent of Europe.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What currency does Italy use?
+A: The currency of Italy is the euro.
+
+Q: What currency does Nigeria use?
+A: The currency of Nigeria is the naira.
+
+Q: What currency does Kuwait use?
+A: The currency of Kuwait is the dinar.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Uzbekistan use?
+A: The currency of Uzbekistan is the som.
+
+Q: What currency does Mauritius use?
+A: The currency of Mauritius is the rupee.
+
+Q: What currency does Mauritius use?
+A: The currency of Mauritius is the rupee.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: How do you write 3 in words?
+A: 3 in words is three.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 52 in words?
+A: 52 in words is fifty-two.
+
+Q: How do you write 93 in words?
+A: 93 in words is ninety-three.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 30 in words?
+A: 30 in words is thirty.
