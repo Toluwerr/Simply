@@ -24159,3 +24159,110 @@ A: The currency of Trinidad and Tobago is the dollar.
 
 Q: What currency does Russia use?
 A: The currency of Russia is the ruble.
+Q: What is the capital of Moldova?
+A: The capital of Moldova is Chisinau.
+
+Q: What is the capital of Malawi?
+A: The capital of Malawi is Lilongwe.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.
+
+Q: What is the capital of Brunei?
+A: The capital of Brunei is Bandar Seri Begawan.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of Panama?
+A: The capital of Panama is Panama City.
+
+Q: How many letters does the word 'colorado' have?
+A: The word 'colorado' has 8 letters.
+
+Q: How many letters does the word 'burundi' have?
+A: The word 'burundi' has 7 letters.
+
+Q: How many letters does the word 'clean' have?
+A: The word 'clean' has 5 letters.
+
+Q: How many letters does the word 'cheyenne' have?
+A: The word 'cheyenne' has 8 letters.
+
+Q: How many letters does the word 'niobium' have?
+A: The word 'niobium' has 7 letters.
+
+Q: How many letters does the word 'tobago' have?
+A: The word 'tobago' has 6 letters.
+
+Q: How do you sort 130, 902, and 388?
+A: In order, they are 130 388 902.
+
+Q: How do you sort 25, 10, and 1?
+A: In order, they are 1 10 25.
+
+Q: How do you sort 20, 17, and 15?
+A: In order, they are 15 17 20.
+
+Q: How do you sort 27, 16, and 22?
+A: In order, they are 16 22 27.
+
+Q: How do you sort 639, 277, and 959?
+A: In order, they are 277 639 959.
+
+Q: How do you sort 7, 17, and 15?
+A: In order, they are 7 15 17.
+
+Q: Is 10 bigger than 19?
+A: No, 19 is bigger than 10.
+
+Q: Is 500 bigger than 263?
+A: Yes, 500 is bigger than 263.
+
+Q: Is 415 bigger than 655?
+A: No, 655 is bigger than 415.
+
+Q: Which is bigger, 419 or 294?
+A: 419 is bigger than 294.
+
+Q: Which is bigger, 17 or 14?
+A: 17 is bigger than 14.
+
+Q: Which is bigger, 6 or 16?
+A: 16 is bigger than 6.
+
+Q: What is the first letter of 'jefferson'?
+A: The first letter of 'jefferson' is J.
+
+Q: What is the last letter of 'platinum'?
+A: The last letter of 'platinum' is M.
+
+Q: What is the last letter of 'phnom'?
+A: The last letter of 'phnom' is M.
+
+Q: What is the last letter of 'polite'?
+A: The last letter of 'polite' is E.
+
+Q: What is the last letter of 'yaren'?
+A: The last letter of 'yaren' is N.
+
+Q: What is the first letter of 'mozambique'?
+A: The first letter of 'mozambique' is M.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What is the biggest planet?
+A: Jupiter is the biggest planet.
