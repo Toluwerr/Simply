@@ -54522,3 +54522,146 @@ A: 'deep' means going far down.
 
 Q: What does 'eager' mean?
 A: 'eager' means very excited to do something.
+Q: What is 3 times 9?
+A: 3 times 9 is 27.
+
+Q: What is 66 plus 30?
+A: 66 plus 30 is 96.
+
+Q: What is 13 minus 6?
+A: 13 minus 6 is 7.
+
+Q: What is 64 plus 37?
+A: 64 plus 37 is 101.
+
+Q: What is 810 minus 186?
+A: 810 minus 186 is 624.
+
+Q: What is 11 plus 14?
+A: 11 plus 14 is 25.
+
+Q: What is 6 times 4?
+A: 6 times 4 is 24.
+
+Q: What is 580 plus 747?
+A: 580 plus 747 is 1327.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: How many planets are there?
+A: There are 8 planets.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by fives from 5 to 30?
+A: Counting by fives gives 5 10 15 20 25 30.
+
+Q: Can you count by ones from 14 to 18?
+A: Counting by ones gives 14 15 16 17 18.
+
+Q: Can you count by twos from 20 to 24?
+A: Counting by twos gives 20 22 24.
+
+Q: Can you count by fives from 20 to 40?
+A: Counting by fives gives 20 25 30 35 40.
+
+Q: Can you count by ones from 20 to 23?
+A: Counting by ones gives 20 21 22 23.
+
+Q: Can you count by twos from 14 to 22?
+A: Counting by twos gives 14 16 18 20 22.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: What is double 53?
+A: Double 53 is 106.
+
+Q: What is double 56?
+A: Double 56 is 112.
+
+Q: What is double 54?
+A: Double 54 is 108.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is half of 20?
+A: Half of 20 is 10.
+
+Q: What is double 19?
+A: Double 19 is 38.
+
+Q: What is half of 36?
+A: Half of 36 is 18.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What currency does Zambia use?
+A: The currency of Zambia is the kwacha.
+
+Q: What currency does Venezuela use?
+A: The currency of Venezuela is the bolivar.
+
+Q: What currency does Uruguay use?
+A: The currency of Uruguay is the peso.
+
+Q: What currency does Thailand use?
+A: The currency of Thailand is the baht.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
