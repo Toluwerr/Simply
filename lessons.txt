@@ -40727,3 +40727,170 @@ A: 858 is bigger than 300.
 
 Q: Which is bigger, 70 or 23?
 A: 70 is bigger than 23.
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 55 in words?
+A: 55 in words is fifty-five.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What currency does Qatar use?
+A: The currency of Qatar is the riyal.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What currency does the United Kingdom use?
+A: The currency of the United Kingdom is the pound.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does Iraq use?
+A: The currency of Iraq is the dinar.
+
+Q: What currency does Georgia use?
+A: The currency of Georgia is the lari.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Rhode Island?
+A: Providence is the capital of Rhode Island.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: How do you sort 24, 6, and 15?
+A: In order, they are 6 15 24.
+
+Q: How do you sort 27, 5, and 15?
+A: In order, they are 5 15 27.
+
+Q: How do you sort 570, 419, and 563?
+A: In order, they are 419 563 570.
+
+Q: How do you sort 9, 25, and 18?
+A: In order, they are 9 18 25.
+
+Q: How do you sort 561, 265, and 243?
+A: In order, they are 243 265 561.
+
+Q: How do you sort 28, 3, and 16?
+A: In order, they are 3 16 28.
+
+Q: How do you sort 11, 2, and 29?
+A: In order, they are 2 11 29.
+
+Q: How do you sort 158, 493, and 175?
+A: In order, they are 158 175 493.
+
+Q: What is the first letter of 'gold'?
+A: The first letter of 'gold' is G.
+
+Q: What is the first letter of 'manila'?
+A: The first letter of 'manila' is M.
+
+Q: What is the first letter of 'qatar'?
+A: The first letter of 'qatar' is Q.
+
+Q: What is the first letter of 'domingo'?
+A: The first letter of 'domingo' is D.
+
+Q: What is the first letter of 'tarawa'?
+A: The first letter of 'tarawa' is T.
+
+Q: What is the first letter of 'brussels'?
+A: The first letter of 'brussels' is B.
+
+Q: What is the first letter of 'liechtenstein'?
+A: The first letter of 'liechtenstein' is L.
+
+Q: What is the first letter of 'mississippi'?
+A: The first letter of 'mississippi' is M.
