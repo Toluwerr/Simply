@@ -36300,3 +36300,170 @@ A: 88 is bigger than 37.
 
 Q: Which is bigger, 608 or 748?
 A: 748 is bigger than 608.
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 45 in words?
+A: 45 in words is forty-five.
+
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: What currency does Taiwan use?
+A: The currency of Taiwan is the dollar.
+
+Q: What currency does Ireland use?
+A: The currency of Ireland is the euro.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does the Bahamas use?
+A: The currency of the Bahamas is the dollar.
+
+Q: What currency does Jamaica use?
+A: The currency of Jamaica is the dollar.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: How do you sort 10, 9, and 14?
+A: In order, they are 9 10 14.
+
+Q: How do you sort 320, 981, and 52?
+A: In order, they are 52 320 981.
+
+Q: How do you sort 340, 777, and 898?
+A: In order, they are 340 777 898.
+
+Q: How do you sort 546, 285, and 417?
+A: In order, they are 285 417 546.
+
+Q: How do you sort 853, 518, and 933?
+A: In order, they are 518 853 933.
+
+Q: How do you sort 2, 11, and 12?
+A: In order, they are 2 11 12.
+
+Q: How do you sort 25, 27, and 4?
+A: In order, they are 4 25 27.
+
+Q: How do you sort 16, 1, and 23?
+A: In order, they are 1 16 23.
+
+Q: What is the first letter of 'comfortable'?
+A: The first letter of 'comfortable' is C.
+
+Q: What is the first letter of 'aggressive'?
+A: The first letter of 'aggressive' is A.
+
+Q: What is the first letter of 'bahrain'?
+A: The first letter of 'bahrain' is B.
+
+Q: What is the last letter of 'sanaa'?
+A: The last letter of 'sanaa' is A.
+
+Q: What is the last letter of 'abuja'?
+A: The last letter of 'abuja' is A.
+
+Q: What is the first letter of 'montevideo'?
+A: The first letter of 'montevideo' is M.
+
+Q: What is the last letter of 'croak'?
+A: The last letter of 'croak' is K.
+
+Q: What is the last letter of 'bandar'?
+A: The last letter of 'bandar' is R.
