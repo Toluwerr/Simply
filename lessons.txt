@@ -47128,3 +47128,170 @@ A: 14 in words is fourteen.
 
 Q: How do you write 27 in words?
 A: 27 in words is twenty-seven.
+Q: Which is bigger, 364 or 910?
+A: 910 is bigger than 364.
+
+Q: Which is bigger, 14 or 17?
+A: 17 is bigger than 14.
+
+Q: Which is bigger, 53 or 39?
+A: 53 is bigger than 39.
+
+Q: Is 8 bigger than 17?
+A: No, 17 is bigger than 8.
+
+Q: Is 71 bigger than 30?
+A: Yes, 71 is bigger than 30.
+
+Q: Is 878 bigger than 981?
+A: No, 981 is bigger than 878.
+
+Q: Which is bigger, 8 or 11?
+A: 11 is bigger than 8.
+
+Q: Which is bigger, 850 or 642?
+A: 850 is bigger than 642.
+
+Q: How do you sort 860, 126, and 825?
+A: In order, they are 126 825 860.
+
+Q: How do you sort 143, 991, and 936?
+A: In order, they are 143 936 991.
+
+Q: How do you sort 20, 14, and 3?
+A: In order, they are 3 14 20.
+
+Q: How do you sort 759, 76, and 66?
+A: In order, they are 66 76 759.
+
+Q: How do you sort 25, 2, and 18?
+A: In order, they are 2 18 25.
+
+Q: How do you sort 26, 13, and 22?
+A: In order, they are 13 22 26.
+
+Q: How do you sort 250, 144, and 347?
+A: In order, they are 144 250 347.
+
+Q: How do you sort 665, 440, and 492?
+A: In order, they are 440 492 665.
+
+Q: What continent is Ukraine on?
+A: Ukraine is on the continent of Europe.
+
+Q: What continent is Gabon on?
+A: Gabon is on the continent of Africa.
+
+Q: What continent is Afghanistan on?
+A: Afghanistan is on the continent of Asia.
+
+Q: What continent is Romania on?
+A: Romania is on the continent of Europe.
+
+Q: What continent is Bolivia on?
+A: Bolivia is on the continent of South America.
+
+Q: What continent is Chad on?
+A: Chad is on the continent of Africa.
+
+Q: What continent is Mozambique on?
+A: Mozambique is on the continent of Africa.
+
+Q: What continent is Syria on?
+A: Syria is on the continent of Asia.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 73 in words?
+A: 73 in words is seventy-three.
+
+Q: How do you write 25 in words?
+A: 25 in words is twenty-five.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of Ecuador?
+A: The capital of Ecuador is Quito.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of the Philippines?
+A: The capital of the Philippines is Manila.
+
+Q: What is the capital of Papua New Guinea?
+A: The capital of Papua New Guinea is Port Moresby.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
+
+Q: What is the capital of Ethiopia?
+A: The capital of Ethiopia is Addis Ababa.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of Benin?
+A: The capital of Benin is Porto-Novo.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What is the closest star to Earth?
+A: The sun is the closest star to Earth.
