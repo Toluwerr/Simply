@@ -44433,3 +44433,170 @@ A: The first letter of 'rock' is R.
 
 Q: What is the last letter of 'paramaribo'?
 A: The last letter of 'paramaribo' is O.
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: How do you sort 436, 258, and 680?
+A: In order, they are 258 436 680.
+
+Q: How do you sort 917, 798, and 857?
+A: In order, they are 798 857 917.
+
+Q: How do you sort 25, 5, and 19?
+A: In order, they are 5 19 25.
+
+Q: How do you sort 206, 25, and 568?
+A: In order, they are 25 206 568.
+
+Q: How do you sort 295, 254, and 607?
+A: In order, they are 254 295 607.
+
+Q: How do you sort 4, 26, and 10?
+A: In order, they are 4 10 26.
+
+Q: How do you sort 15, 6, and 9?
+A: In order, they are 6 9 15.
+
+Q: How do you sort 694, 313, and 186?
+A: In order, they are 186 313 694.
+
+Q: What is the last letter of 'bromine'?
+A: The last letter of 'bromine' is E.
+
+Q: What is the last letter of 'marino'?
+A: The last letter of 'marino' is O.
+
+Q: What is the last letter of 'birr'?
+A: The last letter of 'birr' is R.
+
+Q: What is the last letter of 'sulfur'?
+A: The last letter of 'sulfur' is R.
+
+Q: What is the last letter of 'baton'?
+A: The last letter of 'baton' is N.
+
+Q: What is the last letter of 'baton'?
+A: The last letter of 'baton' is N.
+
+Q: What is the last letter of 'accra'?
+A: The last letter of 'accra' is A.
+
+Q: What is the last letter of 'naypyidaw'?
+A: The last letter of 'naypyidaw' is W.
+
+Q: What continent is the Maldives on?
+A: the Maldives is on the continent of Asia.
+
+Q: What continent is Belarus on?
+A: Belarus is on the continent of Europe.
+
+Q: What continent is Turkmenistan on?
+A: Turkmenistan is on the continent of Asia.
+
+Q: What continent is Samoa on?
+A: Samoa is on the continent of Oceania.
+
+Q: What continent is Colombia on?
+A: Colombia is on the continent of South America.
+
+Q: What continent is Jordan on?
+A: Jordan is on the continent of Asia.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: What continent is Turkmenistan on?
+A: Turkmenistan is on the continent of Asia.
+
+Q: What is the capital of El Salvador?
+A: The capital of El Salvador is San Salvador.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: What is the capital of Croatia?
+A: The capital of Croatia is Zagreb.
+
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+
+Q: What is the capital of Vanuatu?
+A: The capital of Vanuatu is Port Vila.
+
+Q: What is the capital of Cameroon?
+A: The capital of Cameroon is Yaounde.
+
+Q: What is the capital of Uganda?
+A: The capital of Uganda is Kampala.
+
+Q: What is the capital of Switzerland?
+A: The capital of Switzerland is Bern.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by ones from 36 to 38?
+A: Counting by ones gives 36 37 38.
+
+Q: Can you count by ones from 10 to 15?
+A: Counting by ones gives 10 11 12 13 14 15.
+
+Q: Can you count by fives from 25 to 50?
+A: Counting by fives gives 25 30 35 40 45 50.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by twos from 20 to 30?
+A: Counting by twos gives 20 22 24 26 28 30.
+
+Q: Can you count by twos from 28 to 36?
+A: Counting by twos gives 28 30 32 34 36.
+
+Q: Can you count by fives from 35 to 55?
+A: Counting by fives gives 35 40 45 50 55.
+
+Q: Is 228 bigger than 250?
+A: No, 250 is bigger than 228.
+
+Q: Is 53 bigger than 43?
+A: Yes, 53 is bigger than 43.
+
+Q: Is 116 bigger than 785?
+A: No, 785 is bigger than 116.
+
+Q: Which is bigger, 20 or 15?
+A: 20 is bigger than 15.
+
+Q: Is 18 bigger than 75?
+A: No, 75 is bigger than 18.
+
+Q: Which is bigger, 2 or 14?
+A: 14 is bigger than 2.
+
+Q: Is 455 bigger than 928?
+A: No, 928 is bigger than 455.
+
+Q: Is 6 bigger than 16?
+A: No, 16 is bigger than 6.
