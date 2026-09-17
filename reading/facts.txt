@@ -2263,3 +2263,90 @@ A: Lindsey Davis is an English historical novelist.
 
 Q: What is Intersexphobia or interphobia?
 A: Intersexphobia or interphobia is the historical and systemic discrimination, violence against, and negative perception of people with intersex traits.
+
+Q: What is JavaScript?
+A: JavaScript is a programming language and core technology of the Web, alongside HTML and CSS.
+
+Q: What is Inter?
+A: Inter is a free and open-source neo-grotesque sans-serif typeface designed by Rasmus Andersson.
+
+Q: What is Mermaid?
+A: Mermaid is an open-source JavaScript-based diagramming and charting software that generates diagrams from text-based descriptions.
+
+Q: What is Elasticsearch?
+A: Elasticsearch is a source-available search engine developed by Elastic.
+
+Q: What is Underscore.js?
+A: Underscore.js is a JavaScript library which provides utility functions for common programming tasks.
+
+Q: What is Levent Hasan Ali Alpge?
+A: Levent Hasan Ali Alpge is an American and Turkish mathematician.
+
+Q: What is Invidious?
+A: Invidious is a free and open-source alternative frontend to YouTube.
+
+Q: What is GoodbyeDPI?
+A: GoodbyeDPI is a free and open-source software tool for bypassing deep packet inspection systems and Internet censorship.
+
+Q: What is Ghidra?
+A: Ghidra is a free and open source reverse engineering tool developed by the National Security Agency of the United States.
+
+Q: What is LightDM?
+A: LightDM is a free and open-source  display manager that aims to be lightweight, fast, extensible and multi-desktop.
+
+Q: What is Thomas Preston-Werner?
+A: Thomas Preston-Werner is an American software developer and billionaire entrepreneur.
+
+Q: What is DuckDuckGo?
+A: DuckDuckGo is an American software company founded by Gabriel Weinberg in 2008 that focuses on Internet privacy.
+
+Q: What is Weinberg?
+A: Weinberg is an entrepreneur who previously launched Names Database, a now defunct social network.
+
+Q: What is Indianola?
+A: Indianola is the third studio album by American country music artist Steve Azar.
+
+Q: What is Challacombe?
+A: Challacombe is the Martin Rushton Professor of Oral Medicine at King's College, London and the University of London.
+
+Q: What is Daniel Michael Gakeler?
+A: Daniel Michael Gakeler is an American former Major League Baseball pitcher.
+
+Q: What is Daniel Valente Dantas?
+A: Daniel Valente Dantas is a Brazilian banker and businessman, founder of the Banco Opportunity, an institution specialized in asset management.
+
+Q: What is Psychedelic pop?
+A: Psychedelic pop is a genre of pop music that contains musical characteristics associated with psychedelic music.
+
+Q: What is Oate?
+A: Oate is the eventual vanquisher of the Neapolitan Republic and commissioned the Fontana della Sellaria to commemorate his victory.
+
+Q: What is John Rote?
+A: John Rote is an American field hockey player.
+
+Q: What is Venhar?
+A: Venhar is a village in Sohr and Firuzan Rural District of Pir Bakran District in Falavarjan County, Isfahan province.
+
+Q: What is John Gwynn?
+A: John Gwynn is an English architect and civil engineer, who became one of the founder members of the Royal Academy in 1768.
+
+Q: What is Pharmacy?
+A: Pharmacy is the science and practice of dispensing, preparing, reviewing safety and efficacy, monitoring, discovering, producing.
+
+Q: What is Advanced Science?
+A: Advanced Science is an interdisciplinary peer-reviewed open-access scientific journal covering fundamental and applied research in materials science.
+
+Q: What is Frontiers Media SA?
+A: Frontiers Media SA is a publisher of peer-reviewed, open access, scientific journals currently active in science, technology, and medicine.
+
+Q: What is Below?
+A: Below is a list of science museums all over the world.
+
+Q: What is BIT?
+A: BIT is the first institute in India to set up a department of space engineering and rocketry, in 1964.
+
+Q: What is East Carolina University?
+A: East Carolina University is a public research university in Greenville, North Carolina, United States.
+
+Q: What is For example, zoology?
+A: For example, zoology is the study of animals, while botany is the study of plants.

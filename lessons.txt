@@ -38709,3 +38709,146 @@ A: The currency of Spain is the euro.
 
 Q: What currency does Croatia use?
 A: The currency of Croatia is the euro.
+Q: How many letters does the word 'madison' have?
+A: The word 'madison' has 7 letters.
+
+Q: How many letters does the word 'sol' have?
+A: The word 'sol' has 3 letters.
+
+Q: How many letters does the word 'bulgaria' have?
+A: The word 'bulgaria' has 8 letters.
+
+Q: How many letters does the word 'afraid' have?
+A: The word 'afraid' has 6 letters.
+
+Q: How many letters does the word 'actinium' have?
+A: The word 'actinium' has 8 letters.
+
+Q: How many letters does the word 'dalasi' have?
+A: The word 'dalasi' has 6 letters.
+
+Q: How many letters does the word 'saint' have?
+A: The word 'saint' has 5 letters.
+
+Q: How many letters does the word 'kingdom' have?
+A: The word 'kingdom' has 7 letters.
+
+Q: What is the last letter of 'slippery'?
+A: The last letter of 'slippery' is Y.
+
+Q: What is the first letter of 'maldives'?
+A: The first letter of 'maldives' is M.
+
+Q: What is the first letter of 'duck'?
+A: The first letter of 'duck' is D.
+
+Q: What is the first letter of 'wyoming'?
+A: The first letter of 'wyoming' is W.
+
+Q: What is the first letter of 'monaco'?
+A: The first letter of 'monaco' is M.
+
+Q: What is the last letter of 'house'?
+A: The last letter of 'house' is E.
+
+Q: What is the first letter of 'abu'?
+A: The first letter of 'abu' is A.
+
+Q: What is the last letter of 'big'?
+A: The last letter of 'big' is G.
+
+Q: How do you sort 349, 77, and 969?
+A: In order, they are 77 349 969.
+
+Q: How do you sort 1, 7, and 28?
+A: In order, they are 1 7 28.
+
+Q: How do you sort 482, 46, and 45?
+A: In order, they are 45 46 482.
+
+Q: How do you sort 72, 631, and 412?
+A: In order, they are 72 412 631.
+
+Q: How do you sort 19, 2, and 25?
+A: In order, they are 2 19 25.
+
+Q: How do you sort 11, 24, and 5?
+A: In order, they are 5 11 24.
+
+Q: How do you sort 27, 21, and 20?
+A: In order, they are 20 21 27.
+
+Q: How do you sort 992, 244, and 550?
+A: In order, they are 244 550 992.
+
+Q: Is 1 bigger than 5?
+A: No, 5 is bigger than 1.
+
+Q: Which is bigger, 11 or 14?
+A: 14 is bigger than 11.
+
+Q: Which is bigger, 3 or 7?
+A: 7 is bigger than 3.
+
+Q: Which is bigger, 34 or 93?
+A: 93 is bigger than 34.
+
+Q: Is 27 bigger than 94?
+A: No, 94 is bigger than 27.
+
+Q: Is 43 bigger than 95?
+A: No, 95 is bigger than 43.
+
+Q: Which is bigger, 20 or 12?
+A: 20 is bigger than 12.
+
+Q: Is 210 bigger than 239?
+A: No, 239 is bigger than 210.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: What is the capital of Armenia?
+A: The capital of Armenia is Yerevan.
+
+Q: What is the capital of Albania?
+A: The capital of Albania is Tirana.
+
+Q: What is the capital of Nicaragua?
+A: The capital of Nicaragua is Managua.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Botswana?
+A: The capital of Botswana is Gaborone.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What is the capital of Chad?
+A: The capital of Chad is N'Djamena.
