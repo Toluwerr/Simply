@@ -5654,3 +5654,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Iter' has 60 is the capital of Do."
 
+## Promotion - v27 - weights promoted to Releases
+- **reason**: knowledge 0.04, was 0.00; val 1.4294
+- self-portrait, asked "Who are you?": *"Do is sort 719."
+
