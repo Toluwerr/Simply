@@ -39997,3 +39997,170 @@ A: The opposite of 'early' is 'late'.
 
 Q: What is the opposite of 'wet'?
 A: The opposite of 'wet' is 'dry'.
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: What currency does Senegal use?
+A: The currency of Senegal is the franc.
+
+Q: What currency does Mongolia use?
+A: The currency of Mongolia is the tugrik.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Nicaragua use?
+A: The currency of Nicaragua is the cordoba.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.
+
+Q: What currency does Belarus use?
+A: The currency of Belarus is the ruble.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What number is the Roman numeral cdxcv?
+A: The Roman numeral cdxcv is the number 495.
+
+Q: What number is the Roman numeral lxxvi?
+A: The Roman numeral lxxvi is the number 76.
+
+Q: What number is the Roman numeral cclxvi?
+A: The Roman numeral cclxvi is the number 266.
+
+Q: What is the Roman numeral for 14?
+A: The Roman numeral for 14 is xiv.
+
+Q: What number is the Roman numeral lxxxix?
+A: The Roman numeral lxxxix is the number 89.
+
+Q: What is the Roman numeral for 95?
+A: The Roman numeral for 95 is xcv.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What is the Roman numeral for 69?
+A: The Roman numeral for 69 is lxix.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: What is 8 minus 2?
+A: 8 minus 2 is 6.
+
+Q: What is 13 minus 6?
+A: 13 minus 6 is 7.
+
+Q: What is 79 minus 38?
+A: 79 minus 38 is 41.
+
+Q: What is 1 plus 19?
+A: 1 plus 19 is 20.
+
+Q: What is 74 minus 27?
+A: 74 minus 27 is 47.
+
+Q: What is 15 times 13?
+A: 15 times 13 is 195.
+
+Q: What is 13 times 12?
+A: 13 times 12 is 156.
+
+Q: What is 9 minus 4?
+A: 9 minus 4 is 5.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
