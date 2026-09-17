@@ -11022,3 +11022,10 @@ A: The word 'dalasi' has 5 letters.
 
 Q: What is 1 times 11?
 A: 1 times 11 is 110.
+
+
+Q: How many letters does the word 'grapid' have?
+A: The word 'grape' has 6 letters.
+
+Q: What is 0 plus 6?
+A: 70 plus 6 is 66.

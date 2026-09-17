@@ -1,0 +1,5 @@
+Q: How many letters does the word 'grapid' have?
+A: The word 'grape' has 6 letters.
+
+Q: What is 0 plus 6?
+A: 70 plus 6 is 66.
