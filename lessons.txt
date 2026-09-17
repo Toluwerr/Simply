@@ -57718,3 +57718,146 @@ A: 'modern' means of the present time.
 
 Q: What does 'loud' mean?
 A: 'loud' means making a strong sound.
+Q: What is 23 plus 54?
+A: 23 plus 54 is 77.
+
+Q: What is 10 minus 10?
+A: 10 minus 10 is 0.
+
+Q: What is 874 plus 274?
+A: 874 plus 274 is 1148.
+
+Q: What is 12 minus 9?
+A: 12 minus 9 is 3.
+
+Q: What is 62 minus 16?
+A: 62 minus 16 is 46.
+
+Q: What is 6 times 5?
+A: 6 times 5 is 30.
+
+Q: What is 7 times 8?
+A: 7 times 8 is 56.
+
+Q: What is 968 minus 174?
+A: 968 minus 174 is 794.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: Can you count by twos from 12 to 22?
+A: Counting by twos gives 12 14 16 18 20 22.
+
+Q: Can you count by fives from 20 to 30?
+A: Counting by fives gives 20 25 30.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by twos from 20 to 26?
+A: Counting by twos gives 20 22 24 26.
+
+Q: Can you count by fives from 35 to 55?
+A: Counting by fives gives 35 40 45 50 55.
+
+Q: What is double 38?
+A: Double 38 is 76.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is double 8?
+A: Double 8 is 16.
+
+Q: What is double 29?
+A: Double 29 is 58.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is double 54?
+A: Double 54 is 108.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What currency does Hungary use?
+A: The currency of Hungary is the forint.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Panama use?
+A: The currency of Panama is the balboa.
+
+Q: What currency does Uganda use?
+A: The currency of Uganda is the shilling.
+
+Q: What currency does South Africa use?
+A: The currency of South Africa is the rand.
+
+Q: What currency does Argentina use?
+A: The currency of Argentina is the peso.
+
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does South Korea use?
+A: The currency of South Korea is the won.
