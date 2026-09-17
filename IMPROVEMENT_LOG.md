@@ -2638,3 +2638,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.65 | weakest: sort 0.00, letters 0.00, spelling 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am a small but very fella a motivenny only."
 
+## Iteration 309 - NO_GAIN
+- **when**: 2026-09-17T00:09:38Z
+- **train loss**: 0.9594 | **val loss**: 0.7029 | **run best**: 0.6799
+- **corpus**: 213,535 chars (+11 self-written examples)
+- **internet reading**: +26 articles, +12 facts (536 read all-time)
+- **lr**: 0.0004 | **steps**: 150
+- **knowledge quiz**: avg 0.65 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, old but my but very faster they's very more."
+

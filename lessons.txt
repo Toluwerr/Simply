@@ -24712,3 +24712,110 @@ A: The Roman numeral vii is the number 7.
 
 Q: What number is the Roman numeral cdv?
 A: The Roman numeral cdv is the number 405.
+Q: What continent is Kiribati on?
+A: Kiribati is on the continent of Oceania.
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.
+
+Q: What continent is Tunisia on?
+A: Tunisia is on the continent of Africa.
+
+Q: What continent is Tanzania on?
+A: Tanzania is on the continent of Africa.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is Ireland on?
+A: Ireland is on the continent of Europe.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Ecuador use?
+A: The currency of Ecuador is the dollar.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
+
+Q: What currency does India use?
+A: The currency of India is the rupee.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What is the first letter of 'narrow'?
+A: The first letter of 'narrow' is N.
+
+Q: What is the first letter of 'hryvnia'?
+A: The first letter of 'hryvnia' is H.
+
+Q: What is the first letter of 'islamabad'?
+A: The first letter of 'islamabad' is I.
+
+Q: What is the last letter of 'oman'?
+A: The last letter of 'oman' is N.
+
+Q: What is the first letter of 'dublin'?
+A: The first letter of 'dublin' is D.
+
+Q: What is the last letter of 'uruguay'?
+A: The last letter of 'uruguay' is Y.
+
+Q: How do you sort 388, 815, and 993?
+A: In order, they are 388 815 993.
+
+Q: How do you sort 770, 830, and 773?
+A: In order, they are 770 773 830.
+
+Q: How do you sort 131, 663, and 950?
+A: In order, they are 131 663 950.
+
+Q: How do you sort 7, 29, and 27?
+A: In order, they are 7 27 29.
+
+Q: How do you sort 307, 366, and 725?
+A: In order, they are 307 366 725.
+
+Q: How do you sort 23, 4, and 21?
+A: In order, they are 4 21 23.
+
+Q: What is the capital of Tuvalu?
+A: The capital of Tuvalu is Funafuti.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What is the capital of the Marshall Islands?
+A: The capital of the Marshall Islands is Majuro.
+
+Q: What is the capital of the Seychelles?
+A: The capital of the Seychelles is Victoria.
+
+Q: What is the capital of Guatemala?
+A: The capital of Guatemala is Guatemala City.
+
+Q: What is the capital of the Philippines?
+A: The capital of the Philippines is Manila.
+
+Q: How many letters does the word 'basseterre' have?
+A: The word 'basseterre' has 10 letters.
+
+Q: How many letters does the word 'niobium' have?
+A: The word 'niobium' has 7 letters.
+
+Q: How many letters does the word 'podgorica' have?
+A: The word 'podgorica' has 9 letters.
+
+Q: How many letters does the word 'messy' have?
+A: The word 'messy' has 5 letters.
+
+Q: How many letters does the word 'niamey' have?
+A: The word 'niamey' has 6 letters.
+
+Q: How many letters does the word 'dalasi' have?
+A: The word 'dalasi' has 6 letters.

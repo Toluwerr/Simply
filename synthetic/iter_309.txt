@@ -1,0 +1,32 @@
+Q: How do you sort 5, 21, and 13?
+A: In order, they are 5 13 21.
+
+Q: How do you sort 5, 18, and 17?
+A: In order, they are 5 17 18.
+
+Q: How do you sort 21, 6, and 8?
+A: In order, they are 6 8 21.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 pign and on that canment single in line.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 polite and bos0.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: How do you sort 5, 25, and 20?
+A: In order, they are 5 20 25.
+
+Q: How do you sort 27, 10, and 8?
+A: In order, they are 8 10 27.
+
+Q: What is the capital of Malaysia?
+A: The capital of Malaysia is Kuala Lumpur.
+
+Q: How many letters does the word 'sturder' have?
+A: The word 'sturderous' has 7 letters.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
