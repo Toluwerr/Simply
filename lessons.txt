@@ -42158,3 +42158,170 @@ A: The capital of Antigua and Barbuda is Saint John's.
 
 Q: What is the capital of Canada?
 A: The capital of Canada is Ottawa.
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: What is the capital of Mauritius?
+A: The capital of Mauritius is Port Louis.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of Vietnam?
+A: The capital of Vietnam is Hanoi.
+
+Q: What is the capital of Paraguay?
+A: The capital of Paraguay is Asuncion.
+
+Q: What is the capital of Georgia?
+A: The capital of Georgia is Tbilisi.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
+
+Q: What is the capital of the Seychelles?
+A: The capital of the Seychelles is Victoria.
+
+Q: What is 36 plus 42?
+A: 36 plus 42 is 78.
+
+Q: What is 13 times 14?
+A: 13 times 14 is 182.
+
+Q: What is 12 plus 17?
+A: 12 plus 17 is 29.
+
+Q: What is 15 minus 15?
+A: 15 minus 15 is 0.
+
+Q: What is 27 plus 39?
+A: 27 plus 39 is 66.
+
+Q: What is 5 times 6?
+A: 5 times 6 is 30.
+
+Q: What is 569 minus 125?
+A: 569 minus 125 is 444.
+
+Q: What is 14 times 13?
+A: 14 times 13 is 182.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: How many letters does the word 'wide' have?
+A: The word 'wide' has 4 letters.
+
+Q: How many letters does the word 'plutonium' have?
+A: The word 'plutonium' has 9 letters.
+
+Q: How many letters does the word 'hampshire' have?
+A: The word 'hampshire' has 9 letters.
+
+Q: How many letters does the word 'dirham' have?
+A: The word 'dirham' has 6 letters.
+
+Q: How many letters does the word 'brisk' have?
+A: The word 'brisk' has 5 letters.
+
+Q: How many letters does the word 'slippery' have?
+A: The word 'slippery' has 8 letters.
+
+Q: How many letters does the word 'order' have?
+A: The word 'order' has 5 letters.
+
+Q: How many letters does the word 'dark' have?
+A: The word 'dark' has 4 letters.
+
+Q: What is the first letter of 'helena'?
+A: The first letter of 'helena' is H.
+
+Q: What is the last letter of 'light'?
+A: The last letter of 'light' is T.
+
+Q: What is the last letter of 'antimony'?
+A: The last letter of 'antimony' is Y.
+
+Q: What is the first letter of 'albania'?
+A: The first letter of 'albania' is A.
+
+Q: What is the first letter of 'europe'?
+A: The first letter of 'europe' is E.
+
+Q: What is the last letter of 'mogadishu'?
+A: The last letter of 'mogadishu' is U.
+
+Q: What is the first letter of 'night'?
+A: The first letter of 'night' is N.
+
+Q: What is the first letter of 'technetium'?
+A: The first letter of 'technetium' is T.
+
+Q: Which is bigger, 61 or 93?
+A: 93 is bigger than 61.
+
+Q: Is 16 bigger than 72?
+A: No, 72 is bigger than 16.
+
+Q: Which is bigger, 14 or 1?
+A: 14 is bigger than 1.
+
+Q: Which is bigger, 627 or 746?
+A: 746 is bigger than 627.
+
+Q: Is 474 bigger than 274?
+A: Yes, 474 is bigger than 274.
+
+Q: Which is bigger, 26 or 50?
+A: 50 is bigger than 26.
+
+Q: Which is bigger, 20 or 15?
+A: 20 is bigger than 15.
+
+Q: Is 178 bigger than 455?
+A: No, 455 is bigger than 178.
