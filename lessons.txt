@@ -36801,3 +36801,170 @@ A: The opposite of 'clean' is 'dirty'.
 
 Q: What is the opposite of 'up'?
 A: The opposite of 'up' is 'down'.
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does China use?
+A: The currency of China is the yuan.
+
+Q: What currency does Venezuela use?
+A: The currency of Venezuela is the bolivar.
+
+Q: What currency does Iceland use?
+A: The currency of Iceland is the krona.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: What is the Roman numeral for 87?
+A: The Roman numeral for 87 is lxxxvii.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What number is the Roman numeral dlxxiii?
+A: The Roman numeral dlxxiii is the number 573.
+
+Q: What number is the Roman numeral dcxl?
+A: The Roman numeral dcxl is the number 640.
+
+Q: What is the Roman numeral for 487?
+A: The Roman numeral for 487 is cdlxxxvii.
+
+Q: What number is the Roman numeral xcii?
+A: The Roman numeral xcii is the number 92.
+
+Q: What is the Roman numeral for 710?
+A: The Roman numeral for 710 is dccx.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: What is 265 plus 703?
+A: 265 plus 703 is 968.
+
+Q: What is 955 plus 868?
+A: 955 plus 868 is 1823.
+
+Q: What is 970 minus 536?
+A: 970 minus 536 is 434.
+
+Q: What is 57 minus 33?
+A: 57 minus 33 is 24.
+
+Q: What is 9 times 8?
+A: 9 times 8 is 72.
+
+Q: What is 8 plus 10?
+A: 8 plus 10 is 18.
+
+Q: What is 14 times 16?
+A: 14 times 16 is 224.
+
+Q: What is 50 plus 86?
+A: 50 plus 86 is 136.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
