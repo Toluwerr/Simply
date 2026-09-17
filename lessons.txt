@@ -30832,3 +30832,128 @@ A: Counting by tens gives 20 30 40 50 60.
 
 Q: Can you count by fives from 30 to 50?
 A: Counting by fives gives 30 35 40 45 50.
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: How do you sort 19, 26, and 16?
+A: In order, they are 16 19 26.
+
+Q: How do you sort 27, 13, and 1?
+A: In order, they are 1 13 27.
+
+Q: How do you sort 12, 4, and 26?
+A: In order, they are 4 12 26.
+
+Q: How do you sort 6, 20, and 28?
+A: In order, they are 6 20 28.
+
+Q: How do you sort 20, 12, and 10?
+A: In order, they are 10 12 20.
+
+Q: How do you sort 22, 2, and 25?
+A: In order, they are 2 22 25.
+
+Q: What is the last letter of 'albany'?
+A: The last letter of 'albany' is Y.
+
+Q: What is the first letter of 'cape'?
+A: The first letter of 'cape' is C.
+
+Q: What is the first letter of 'tidy'?
+A: The first letter of 'tidy' is T.
+
+Q: What is the last letter of 'jerusalem'?
+A: The last letter of 'jerusalem' is M.
+
+Q: What is the last letter of 'rude'?
+A: The last letter of 'rude' is E.
+
+Q: What is the first letter of 'concord'?
+A: The first letter of 'concord' is C.
+
+Q: What is 3 times 3?
+A: 3 times 3 is 9.
+
+Q: What is 89 minus 61?
+A: 89 minus 61 is 28.
+
+Q: What is 8 plus 6?
+A: 8 plus 6 is 14.
+
+Q: What is 752 minus 185?
+A: 752 minus 185 is 567.
+
+Q: What is 374 plus 756?
+A: 374 plus 756 is 1130.
+
+Q: What is 234 plus 356?
+A: 234 plus 356 is 590.
+
+Q: Which is bigger, 428 or 776?
+A: 776 is bigger than 428.
+
+Q: Which is bigger, 740 or 123?
+A: 740 is bigger than 123.
+
+Q: Which is bigger, 3 or 10?
+A: 10 is bigger than 3.
+
+Q: Is 81 bigger than 38?
+A: Yes, 81 is bigger than 38.
+
+Q: Which is bigger, 11 or 54?
+A: 54 is bigger than 11.
+
+Q: Which is bigger, 401 or 871?
+A: 871 is bigger than 401.
+
+Q: How many letters does the word 'eswatini' have?
+A: The word 'eswatini' has 8 letters.
+
+Q: How many letters does the word 'delaware' have?
+A: The word 'delaware' has 8 letters.
+
+Q: How many letters does the word 'islamabad' have?
+A: The word 'islamabad' has 9 letters.
+
+Q: How many letters does the word 'rupee' have?
+A: The word 'rupee' has 5 letters.
+
+Q: How many letters does the word 'cool' have?
+A: The word 'cool' has 4 letters.
+
+Q: How many letters does the word 'praseodymium' have?
+A: The word 'praseodymium' has 12 letters.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does Nigeria use?
+A: The currency of Nigeria is the naira.
+
+Q: What currency does North Korea use?
+A: The currency of North Korea is the won.
+
+Q: What currency does Nepal use?
+A: The currency of Nepal is the rupee.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What currency does Zimbabwe use?
+A: The currency of Zimbabwe is the dollar.
