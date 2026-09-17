@@ -61200,3 +61200,170 @@ A: 8 times 5 is 40.
 
 Q: What is 5 times 3?
 A: 5 times 3 is 15.
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: Which element has the chemical symbol Pu?
+A: Pu is the chemical symbol for plutonium.
+
+Q: Which element has the chemical symbol Er?
+A: Er is the chemical symbol for erbium.
+
+Q: Which element has the chemical symbol Er?
+A: Er is the chemical symbol for erbium.
+
+Q: What is the chemical symbol for thulium?
+A: The chemical symbol for thulium is Tm.
+
+Q: What is the chemical symbol for gallium?
+A: The chemical symbol for gallium is Ga.
+
+Q: Which element has the chemical symbol Mo?
+A: Mo is the chemical symbol for molybdenum.
+
+Q: Which element has the chemical symbol Cu?
+A: Cu is the chemical symbol for copper.
+
+Q: What is the chemical symbol for thulium?
+A: The chemical symbol for thulium is Tm.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What number is the Roman numeral cdlxii?
+A: The Roman numeral cdlxii is the number 462.
+
+Q: What is the Roman numeral for 59?
+A: The Roman numeral for 59 is lix.
+
+Q: What is the Roman numeral for 4?
+A: The Roman numeral for 4 is iv.
+
+Q: What is the Roman numeral for 129?
+A: The Roman numeral for 129 is cxxix.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What number is the Roman numeral dclviii?
+A: The Roman numeral dclviii is the number 658.
+
+Q: What number is the Roman numeral cdxl?
+A: The Roman numeral cdxl is the number 440.
+
+Q: What is the Roman numeral for 45?
+A: The Roman numeral for 45 is xlv.
+
+Q: What is the last letter of 'havana'?
+A: The last letter of 'havana' is A.
+
+Q: What is the last letter of 'strong'?
+A: The last letter of 'strong' is G.
+
+Q: What is the last letter of 'turkey'?
+A: The last letter of 'turkey' is Y.
+
+Q: What is the last letter of 'cobalt'?
+A: The last letter of 'cobalt' is T.
+
+Q: What is the first letter of 'july'?
+A: The first letter of 'july' is J.
+
+Q: What is the last letter of 'islamabad'?
+A: The last letter of 'islamabad' is D.
+
+Q: What is the first letter of 'ohio'?
+A: The first letter of 'ohio' is O.
+
+Q: What is the first letter of 'minsk'?
+A: The first letter of 'minsk' is M.
+
+Q: Which is bigger, 2 or 3?
+A: 3 is bigger than 2.
+
+Q: Is 398 bigger than 387?
+A: Yes, 398 is bigger than 387.
+
+Q: Is 16 bigger than 5?
+A: Yes, 16 is bigger than 5.
+
+Q: Which is bigger, 70 or 38?
+A: 70 is bigger than 38.
+
+Q: Is 205 bigger than 702?
+A: No, 702 is bigger than 205.
+
+Q: Is 25 bigger than 81?
+A: No, 81 is bigger than 25.
+
+Q: Is 832 bigger than 559?
+A: Yes, 832 is bigger than 559.
+
+Q: Which is bigger, 31 or 21?
+A: 31 is bigger than 21.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is double 42?
+A: Double 42 is 84.
+
+Q: What is double 58?
+A: Double 58 is 116.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is double 38?
+A: Double 38 is 76.
+
+Q: What is double 2?
+A: Double 2 is 4.
