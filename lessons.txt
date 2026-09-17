@@ -36720,3 +36720,170 @@ A: 47 in words is forty-seven.
 
 Q: How do you write 38 in words?
 A: 38 in words is thirty-eight.
+Q: Which is bigger, 18 or 1?
+A: 18 is bigger than 1.
+
+Q: Is 69 bigger than 48?
+A: Yes, 69 is bigger than 48.
+
+Q: Which is bigger, 20 or 18?
+A: 20 is bigger than 18.
+
+Q: Is 953 bigger than 776?
+A: Yes, 953 is bigger than 776.
+
+Q: Which is bigger, 922 or 234?
+A: 922 is bigger than 234.
+
+Q: Is 2 bigger than 19?
+A: No, 19 is bigger than 2.
+
+Q: Which is bigger, 37 or 36?
+A: 37 is bigger than 36.
+
+Q: Is 18 bigger than 34?
+A: No, 34 is bigger than 18.
+
+Q: How many letters does the word 'cozy' have?
+A: The word 'cozy' has 4 letters.
+
+Q: How many letters does the word 'conakry' have?
+A: The word 'conakry' has 7 letters.
+
+Q: How many letters does the word 'som' have?
+A: The word 'som' has 3 letters.
+
+Q: How many letters does the word 'duck' have?
+A: The word 'duck' has 4 letters.
+
+Q: How many letters does the word 'tegucigalpa' have?
+A: The word 'tegucigalpa' has 11 letters.
+
+Q: How many letters does the word 'easily' have?
+A: The word 'easily' has 6 letters.
+
+Q: How many letters does the word 'manila' have?
+A: The word 'manila' has 6 letters.
+
+Q: How many letters does the word 'islamabad' have?
+A: The word 'islamabad' has 9 letters.
+
+Q: How do you sort 498, 934, and 92?
+A: In order, they are 92 498 934.
+
+Q: How do you sort 7, 14, and 20?
+A: In order, they are 7 14 20.
+
+Q: How do you sort 19, 13, and 23?
+A: In order, they are 13 19 23.
+
+Q: How do you sort 176, 439, and 214?
+A: In order, they are 176 214 439.
+
+Q: How do you sort 989, 948, and 859?
+A: In order, they are 859 948 989.
+
+Q: How do you sort 17, 12, and 20?
+A: In order, they are 12 17 20.
+
+Q: How do you sort 29, 9, and 23?
+A: In order, they are 9 23 29.
+
+Q: How do you sort 25, 5, and 1?
+A: In order, they are 1 5 25.
+
+Q: What continent is Belgium on?
+A: Belgium is on the continent of Europe.
+
+Q: What continent is Jordan on?
+A: Jordan is on the continent of Asia.
+
+Q: What continent is Samoa on?
+A: Samoa is on the continent of Oceania.
+
+Q: What continent is Colombia on?
+A: Colombia is on the continent of South America.
+
+Q: What continent is Zimbabwe on?
+A: Zimbabwe is on the continent of Africa.
+
+Q: What continent is Libya on?
+A: Libya is on the continent of Africa.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: What continent is Vanuatu on?
+A: Vanuatu is on the continent of Oceania.
+
+Q: How do you write 67 in words?
+A: 67 in words is sixty-seven.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 1 in words?
+A: 1 in words is one.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: What is the capital of Pakistan?
+A: The capital of Pakistan is Islamabad.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Samoa?
+A: The capital of Samoa is Apia.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is the capital of Uganda?
+A: The capital of Uganda is Kampala.
+
+Q: What is the capital of Austria?
+A: The capital of Austria is Vienna.
+
+Q: What is the capital of Switzerland?
+A: The capital of Switzerland is Bern.
+
+Q: What is the capital of Kyrgyzstan?
+A: The capital of Kyrgyzstan is Bishkek.
