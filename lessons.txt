@@ -40250,3 +40250,146 @@ A: Double 52 is 104.
 
 Q: What is double 9?
 A: Double 9 is 18.
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: How many letters does the word 'sao' have?
+A: The word 'sao' has 3 letters.
+
+Q: How many letters does the word 'argentina' have?
+A: The word 'argentina' has 9 letters.
+
+Q: How many letters does the word 'botswana' have?
+A: The word 'botswana' has 8 letters.
+
+Q: How many letters does the word 'utah' have?
+A: The word 'utah' has 4 letters.
+
+Q: How many letters does the word 'czech' have?
+A: The word 'czech' has 5 letters.
+
+Q: How many letters does the word 'mauritius' have?
+A: The word 'mauritius' has 9 letters.
+
+Q: How many letters does the word 'belmopan' have?
+A: The word 'belmopan' has 8 letters.
+
+Q: How many letters does the word 'kigali' have?
+A: The word 'kigali' has 6 letters.
+
+Q: What is 7 minus 3?
+A: 7 minus 3 is 4.
+
+Q: What is 74 minus 33?
+A: 74 minus 33 is 41.
+
+Q: What is 8 plus 17?
+A: 8 plus 17 is 25.
+
+Q: What is 9 times 7?
+A: 9 times 7 is 63.
+
+Q: What is 51 minus 40?
+A: 51 minus 40 is 11.
+
+Q: What is 856 plus 989?
+A: 856 plus 989 is 1845.
+
+Q: What is 46 plus 95?
+A: 46 plus 95 is 141.
+
+Q: What is 3 times 2?
+A: 3 times 2 is 6.
+
+Q: What continent is Qatar on?
+A: Qatar is on the continent of Asia.
+
+Q: What continent is Bhutan on?
+A: Bhutan is on the continent of Asia.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Greece on?
+A: Greece is on the continent of Europe.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is Senegal on?
+A: Senegal is on the continent of Africa.
+
+Q: What continent is Chile on?
+A: Chile is on the continent of South America.
+
+Q: What continent is India on?
+A: India is on the continent of Asia.
+
+Q: What currency does South Africa use?
+A: The currency of South Africa is the rand.
+
+Q: What currency does Chile use?
+A: The currency of Chile is the peso.
+
+Q: What currency does Ecuador use?
+A: The currency of Ecuador is the dollar.
+
+Q: What currency does Turkmenistan use?
+A: The currency of Turkmenistan is the manat.
+
+Q: What currency does Canada use?
+A: The currency of Canada is the dollar.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.
+
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: How do you write 28 in words?
+A: 28 in words is twenty-eight.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 59 in words?
+A: 59 in words is fifty-nine.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: How do you write 19 in words?
+A: 19 in words is nineteen.
+
+Q: How do you write 6 in words?
+A: 6 in words is six.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
