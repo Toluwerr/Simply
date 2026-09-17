@@ -61844,3 +61844,170 @@ A: Yes, 794 is bigger than 737.
 
 Q: Is 870 bigger than 577?
 A: Yes, 870 is bigger than 577.
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 22 in words?
+A: 22 in words is twenty-two.
+
+Q: How do you write 30 in words?
+A: 30 in words is thirty.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: What currency does Chile use?
+A: The currency of Chile is the peso.
+
+Q: What currency does Austria use?
+A: The currency of Austria is the euro.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Botswana use?
+A: The currency of Botswana is the pula.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What currency does Iceland use?
+A: The currency of Iceland is the krona.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: How do you sort 97, 91, and 675?
+A: In order, they are 91 97 675.
+
+Q: How do you sort 9, 8, and 29?
+A: In order, they are 8 9 29.
+
+Q: How do you sort 9, 29, and 24?
+A: In order, they are 9 24 29.
+
+Q: How do you sort 288, 754, and 506?
+A: In order, they are 288 506 754.
+
+Q: How do you sort 92, 913, and 392?
+A: In order, they are 92 392 913.
+
+Q: How do you sort 355, 947, and 665?
+A: In order, they are 355 665 947.
+
+Q: How do you sort 291, 216, and 132?
+A: In order, they are 132 216 291.
+
+Q: How do you sort 566, 694, and 749?
+A: In order, they are 566 694 749.
+
+Q: What is the last letter of 'fast'?
+A: The last letter of 'fast' is T.
+
+Q: What is the first letter of 'switzerland'?
+A: The first letter of 'switzerland' is S.
+
+Q: What is the last letter of 'zimbabwe'?
+A: The last letter of 'zimbabwe' is E.
+
+Q: What is the last letter of 'planet'?
+A: The last letter of 'planet' is T.
+
+Q: What is the first letter of 'metical'?
+A: The first letter of 'metical' is M.
+
+Q: What is the first letter of 'samoa'?
+A: The first letter of 'samoa' is S.
+
+Q: What is the last letter of 'gentle'?
+A: The last letter of 'gentle' is E.
+
+Q: What is the first letter of 'arizona'?
+A: The first letter of 'arizona' is A.
