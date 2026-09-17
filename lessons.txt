@@ -21775,3 +21775,170 @@ A: The capital of Japan is Tokyo.
 
 Q: What is the capital of Morocco?
 A: The capital of Morocco is Rabat.
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: What is the capital of Denmark?
+A: The capital of Denmark is Copenhagen.
+
+Q: What is the capital of Vanuatu?
+A: The capital of Vanuatu is Port Vila.
+
+Q: What is the capital of Chad?
+A: The capital of Chad is N'Djamena.
+
+Q: What is the capital of Norway?
+A: The capital of Norway is Oslo.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of Eritrea?
+A: The capital of Eritrea is Asmara.
+
+Q: What is the capital of Madagascar?
+A: The capital of Madagascar is Antananarivo.
+
+Q: What is the capital of Ghana?
+A: The capital of Ghana is Accra.
+
+Q: What is 7 plus 11?
+A: 7 plus 11 is 18.
+
+Q: What is 900 plus 703?
+A: 900 plus 703 is 1603.
+
+Q: What is 5 times 7?
+A: 5 times 7 is 35.
+
+Q: What is 25 plus 74?
+A: 25 plus 74 is 99.
+
+Q: What is 12 times 14?
+A: 12 times 14 is 168.
+
+Q: What is 90 plus 94?
+A: 90 plus 94 is 184.
+
+Q: What is 6 times 4?
+A: 6 times 4 is 24.
+
+Q: What is 633 minus 359?
+A: 633 minus 359 is 274.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: How many letters does the word 'damp' have?
+A: The word 'damp' has 4 letters.
+
+Q: How many letters does the word 'gabon' have?
+A: The word 'gabon' has 5 letters.
+
+Q: How many letters does the word 'kina' have?
+A: The word 'kina' has 4 letters.
+
+Q: How many letters does the word 'meow' have?
+A: The word 'meow' has 4 letters.
+
+Q: How many letters does the word 'stale' have?
+A: The word 'stale' has 5 letters.
+
+Q: How many letters does the word 'sulfur' have?
+A: The word 'sulfur' has 6 letters.
+
+Q: How many letters does the word 'gitega' have?
+A: The word 'gitega' has 6 letters.
+
+Q: How many letters does the word 'rwanda' have?
+A: The word 'rwanda' has 6 letters.
+
+Q: What is the first letter of 'madison'?
+A: The first letter of 'madison' is M.
+
+Q: What is the first letter of 'scandium'?
+A: The first letter of 'scandium' is S.
+
+Q: What is the first letter of 'than'?
+A: The first letter of 'than' is T.
+
+Q: What is the first letter of 'gambia'?
+A: The first letter of 'gambia' is G.
+
+Q: What is the last letter of 'virginia'?
+A: The last letter of 'virginia' is A.
+
+Q: What is the first letter of 'bosnia'?
+A: The first letter of 'bosnia' is B.
+
+Q: What is the last letter of 'plutonium'?
+A: The last letter of 'plutonium' is M.
+
+Q: What is the last letter of 'quetzal'?
+A: The last letter of 'quetzal' is L.
+
+Q: Is 470 bigger than 509?
+A: No, 509 is bigger than 470.
+
+Q: Is 13 bigger than 20?
+A: No, 20 is bigger than 13.
+
+Q: Is 536 bigger than 573?
+A: No, 573 is bigger than 536.
+
+Q: Which is bigger, 728 or 764?
+A: 764 is bigger than 728.
+
+Q: Is 12 bigger than 14?
+A: No, 14 is bigger than 12.
+
+Q: Is 7 bigger than 11?
+A: No, 11 is bigger than 7.
+
+Q: Is 5 bigger than 10?
+A: No, 10 is bigger than 5.
+
+Q: Which is bigger, 40 or 73?
+A: 73 is bigger than 40.
