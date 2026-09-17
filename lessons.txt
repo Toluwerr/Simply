@@ -22109,3 +22109,170 @@ A: The last letter of 'the' is E.
 
 Q: What is the last letter of 'mongolia'?
 A: The last letter of 'mongolia' is A.
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: How do you sort 404, 452, and 186?
+A: In order, they are 186 404 452.
+
+Q: How do you sort 766, 834, and 101?
+A: In order, they are 101 766 834.
+
+Q: How do you sort 62, 15, and 454?
+A: In order, they are 15 62 454.
+
+Q: How do you sort 743, 434, and 474?
+A: In order, they are 434 474 743.
+
+Q: How do you sort 354, 672, and 409?
+A: In order, they are 354 409 672.
+
+Q: How do you sort 94, 714, and 96?
+A: In order, they are 94 96 714.
+
+Q: How do you sort 9, 27, and 10?
+A: In order, they are 9 10 27.
+
+Q: How do you sort 87, 930, and 280?
+A: In order, they are 87 280 930.
+
+Q: What is the first letter of 'brisk'?
+A: The first letter of 'brisk' is B.
+
+Q: What is the first letter of 'moldova'?
+A: The first letter of 'moldova' is M.
+
+Q: What is the first letter of 'london'?
+A: The first letter of 'london' is L.
+
+Q: What is the last letter of 'active'?
+A: The last letter of 'active' is E.
+
+Q: What is the first letter of 'malawi'?
+A: The first letter of 'malawi' is M.
+
+Q: What is the first letter of 'kyrgyzstan'?
+A: The first letter of 'kyrgyzstan' is K.
+
+Q: What is the first letter of 'indianapolis'?
+A: The first letter of 'indianapolis' is I.
+
+Q: What is the last letter of 'closed'?
+A: The last letter of 'closed' is D.
+
+Q: What continent is the Philippines on?
+A: the Philippines is on the continent of Asia.
+
+Q: What continent is China on?
+A: China is on the continent of Asia.
+
+Q: What continent is Finland on?
+A: Finland is on the continent of Europe.
+
+Q: What continent is Kiribati on?
+A: Kiribati is on the continent of Oceania.
+
+Q: What continent is Estonia on?
+A: Estonia is on the continent of Europe.
+
+Q: What continent is Jamaica on?
+A: Jamaica is on the continent of North America.
+
+Q: What continent is Bhutan on?
+A: Bhutan is on the continent of Asia.
+
+Q: What continent is Iran on?
+A: Iran is on the continent of Asia.
+
+Q: What is the capital of Cape Verde?
+A: The capital of Cape Verde is Praia.
+
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+
+Q: What is the capital of Barbados?
+A: The capital of Barbados is Bridgetown.
+
+Q: What is the capital of Belarus?
+A: The capital of Belarus is Minsk.
+
+Q: What is the capital of Sierra Leone?
+A: The capital of Sierra Leone is Freetown.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of Saint Lucia?
+A: The capital of Saint Lucia is Castries.
+
+Q: What is the capital of the Philippines?
+A: The capital of the Philippines is Manila.
+
+Q: Can you count by twos from 32 to 40?
+A: Counting by twos gives 32 34 36 38 40.
+
+Q: Can you count by twos from 30 to 38?
+A: Counting by twos gives 30 32 34 36 38.
+
+Q: Can you count by twos from 16 to 26?
+A: Counting by twos gives 16 18 20 22 24 26.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by twos from 20 to 30?
+A: Counting by twos gives 20 22 24 26 28 30.
+
+Q: Can you count by fives from 15 to 30?
+A: Counting by fives gives 15 20 25 30.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: Can you count by ones from 10 to 13?
+A: Counting by ones gives 10 11 12 13.
+
+Q: Is 4 bigger than 19?
+A: No, 19 is bigger than 4.
+
+Q: Which is bigger, 963 or 210?
+A: 963 is bigger than 210.
+
+Q: Is 14 bigger than 7?
+A: Yes, 14 is bigger than 7.
+
+Q: Is 44 bigger than 74?
+A: No, 74 is bigger than 44.
+
+Q: Is 872 bigger than 234?
+A: Yes, 872 is bigger than 234.
+
+Q: Which is bigger, 902 or 329?
+A: 902 is bigger than 329.
+
+Q: Which is bigger, 118 or 379?
+A: 379 is bigger than 118.
+
+Q: Which is bigger, 182 or 706?
+A: 706 is bigger than 182.
