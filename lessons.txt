@@ -47095,3 +47095,170 @@ A: 14 is bigger than 4.
 
 Q: Which is bigger, 12 or 5?
 A: 12 is bigger than 5.
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 2 in words?
+A: 2 in words is two.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 93 in words?
+A: 93 in words is ninety-three.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: What currency does Azerbaijan use?
+A: The currency of Azerbaijan is the manat.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Austria use?
+A: The currency of Austria is the euro.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What currency does Malta use?
+A: The currency of Malta is the euro.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Brazil use?
+A: The currency of Brazil is the real.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: How do you sort 805, 474, and 308?
+A: In order, they are 308 474 805.
+
+Q: How do you sort 675, 998, and 289?
+A: In order, they are 289 675 998.
+
+Q: How do you sort 24, 17, and 26?
+A: In order, they are 17 24 26.
+
+Q: How do you sort 741, 749, and 376?
+A: In order, they are 376 741 749.
+
+Q: How do you sort 4, 2, and 28?
+A: In order, they are 2 4 28.
+
+Q: How do you sort 29, 11, and 1?
+A: In order, they are 1 11 29.
+
+Q: How do you sort 15, 27, and 26?
+A: In order, they are 15 26 27.
+
+Q: How do you sort 16, 26, and 8?
+A: In order, they are 8 16 26.
+
+Q: What is the first letter of 'nauru'?
+A: The first letter of 'nauru' is N.
+
+Q: What is the last letter of 'tome'?
+A: The last letter of 'tome' is E.
+
+Q: What is the first letter of 'vincent'?
+A: The first letter of 'vincent' is V.
+
+Q: What is the last letter of 'seri'?
+A: The last letter of 'seri' is I.
+
+Q: What is the first letter of 'iceland'?
+A: The first letter of 'iceland' is I.
+
+Q: What is the last letter of 'chromium'?
+A: The last letter of 'chromium' is M.
+
+Q: What is the first letter of 'swift'?
+A: The first letter of 'swift' is S.
+
+Q: What is the first letter of 'korea'?
+A: The first letter of 'korea' is K.
