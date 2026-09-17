@@ -29226,3 +29226,128 @@ A: In order, they are 5 18 20.
 
 Q: How do you sort 13, 5, and 21?
 A: In order, they are 5 13 21.
+Q: What is the first letter of 'sanaa'?
+A: The first letter of 'sanaa' is S.
+
+Q: What is the last letter of 'koruna'?
+A: The last letter of 'koruna' is A.
+
+Q: What is the last letter of 'colombo'?
+A: The last letter of 'colombo' is O.
+
+Q: What is the last letter of 'windhoek'?
+A: The last letter of 'windhoek' is K.
+
+Q: What is the last letter of 'victoria'?
+A: The last letter of 'victoria' is A.
+
+Q: What is the last letter of 'mali'?
+A: The last letter of 'mali' is I.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What is double 25?
+A: Double 25 is 50.
+
+Q: What is half of 50?
+A: Half of 50 is 25.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is double 17?
+A: Double 17 is 34.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: What is the chemical symbol for argon?
+A: The chemical symbol for argon is Ar.
+
+Q: What is the chemical symbol for cerium?
+A: The chemical symbol for cerium is Ce.
+
+Q: What is the chemical symbol for oxygen?
+A: The chemical symbol for oxygen is O.
+
+Q: Which element has the chemical symbol Lu?
+A: Lu is the chemical symbol for lutetium.
+
+Q: Which element has the chemical symbol Sm?
+A: Sm is the chemical symbol for samarium.
+
+Q: Is 73 bigger than 87?
+A: No, 87 is bigger than 73.
+
+Q: Which is bigger, 817 or 765?
+A: 817 is bigger than 765.
+
+Q: Is 563 bigger than 565?
+A: No, 565 is bigger than 563.
+
+Q: Which is bigger, 974 or 253?
+A: 974 is bigger than 253.
+
+Q: Which is bigger, 76 or 53?
+A: 76 is bigger than 53.
+
+Q: Which is bigger, 42 or 73?
+A: 73 is bigger than 42.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: What is the most populous country?
+A: India is the most populous country.
+
+Q: What is the largest island?
+A: Greenland is the largest island.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: How do you sort 21, 15, and 5?
+A: In order, they are 5 15 21.
+
+Q: How do you sort 7, 25, and 1?
+A: In order, they are 1 7 25.
+
+Q: How do you sort 29, 19, and 23?
+A: In order, they are 19 23 29.
+
+Q: How do you sort 297, 337, and 68?
+A: In order, they are 68 297 337.
+
+Q: How do you sort 27, 21, and 19?
+A: In order, they are 19 21 27.
+
+Q: How do you sort 201, 295, and 66?
+A: In order, they are 66 201 295.

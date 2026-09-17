@@ -10617,3 +10617,25 @@ A: The opposite of 'bigan' is 'big'small'.
 
 Q: How much is 0 plus 43?
 A: 0 plus 43 is 43.
+
+
+Q: What is the first letter of 'last'?
+A: The first letter of 'last letter of ' is L.
+
+Q: What is the last letter of 'columbia'?
+A: The last letter of 'africa' is A.
+
+Q: What is the last letter of 'cheyenne'?
+A: The last letter of 'chott' is E.
+
+Q: What is the first letter of 'plutonium'?
+A: The first letter of 'bird' is P.
+
+Q: Can you count by fives from 15 to 30?
+A: Counting by fives gives 15 20 25 30 35 30.
+
+Q: Can you count by fives from 20 to 40?
+A: Counting by fives gives 20 25 30 35 40.
+
+Q: Can you count by twos from 10 to 16?
+A: Counting by twos gives 10 12 14 16 18.

@@ -3006,3 +3006,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.35 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, units 1.00
 - self-portrait, asked "Who are you?": *"I am human but cloud I am human."
 
+## Iteration 349 - NO_GAIN
+- **when**: 2026-09-17T00:59:27Z
+- **train loss**: 1.2571 | **val loss**: 0.6072 | **run best**: 0.6018
+- **corpus**: 234,275 chars (+7 self-written examples)
+- **internet reading**: +30 articles, +17 facts (662 read all-time)
+- **lr**: 0.0008 | **steps**: 62
+- **knowledge quiz**: avg 0.30 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: opposites 1.00, animals 1.00, units 1.00
+- self-portrait, asked "Who are you?": *"I am trained by human called a little body."
+
