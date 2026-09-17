@@ -31506,3 +31506,170 @@ A: 16 is bigger than 8.
 
 Q: Is 862 bigger than 903?
 A: No, 903 is bigger than 862.
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: How do you write 35 in words?
+A: 35 in words is thirty-five.
+
+Q: How do you write 45 in words?
+A: 45 in words is forty-five.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 1 in words?
+A: 1 in words is one.
+
+Q: How do you write 92 in words?
+A: 92 in words is ninety-two.
+
+Q: What currency does Iran use?
+A: The currency of Iran is the rial.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.
+
+Q: What currency does Bolivia use?
+A: The currency of Bolivia is the boliviano.
+
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: What currency does Argentina use?
+A: The currency of Argentina is the peso.
+
+Q: What currency does Fiji use?
+A: The currency of Fiji is the dollar.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: How do you sort 43, 27, and 652?
+A: In order, they are 27 43 652.
+
+Q: How do you sort 15, 29, and 24?
+A: In order, they are 15 24 29.
+
+Q: How do you sort 483, 729, and 831?
+A: In order, they are 483 729 831.
+
+Q: How do you sort 10, 19, and 29?
+A: In order, they are 10 19 29.
+
+Q: How do you sort 982, 953, and 188?
+A: In order, they are 188 953 982.
+
+Q: How do you sort 25, 13, and 2?
+A: In order, they are 2 13 25.
+
+Q: How do you sort 14, 2, and 16?
+A: In order, they are 2 14 16.
+
+Q: How do you sort 345, 534, and 444?
+A: In order, they are 345 444 534.
+
+Q: What is the first letter of 'lake'?
+A: The first letter of 'lake' is L.
+
+Q: What is the last letter of 'august'?
+A: The last letter of 'august' is T.
+
+Q: What is the first letter of 'radon'?
+A: The first letter of 'radon' is R.
+
+Q: What is the first letter of 'won'?
+A: The first letter of 'won' is W.
+
+Q: What is the first letter of 'antananarivo'?
+A: The first letter of 'antananarivo' is A.
+
+Q: What is the first letter of 'rapid'?
+A: The first letter of 'rapid' is R.
+
+Q: What is the last letter of 'tbilisi'?
+A: The last letter of 'tbilisi' is I.
+
+Q: What is the first letter of 'kyrgyzstan'?
+A: The first letter of 'kyrgyzstan' is K.
