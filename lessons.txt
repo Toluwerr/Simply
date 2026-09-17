@@ -57303,3 +57303,146 @@ A: 'sticky' means able to attach to things.
 
 Q: What does 'shallow' mean?
 A: 'shallow' means not deep.
+Q: What is 11 times 11?
+A: 11 times 11 is 121.
+
+Q: What is 11 times 5?
+A: 11 times 5 is 55.
+
+Q: What is 792 plus 368?
+A: 792 plus 368 is 1160.
+
+Q: What is 7 times 5?
+A: 7 times 5 is 35.
+
+Q: What is 4 times 4?
+A: 4 times 4 is 16.
+
+Q: What is 45 plus 17?
+A: 45 plus 17 is 62.
+
+Q: What is 749 plus 591?
+A: 749 plus 591 is 1340.
+
+Q: What is 3 times 6?
+A: 3 times 6 is 18.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: Can you count by ones from 34 to 38?
+A: Counting by ones gives 34 35 36 37 38.
+
+Q: Can you count by ones from 31 to 36?
+A: Counting by ones gives 31 32 33 34 35 36.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by fives from 10 to 20?
+A: Counting by fives gives 10 15 20.
+
+Q: Can you count by fives from 35 to 55?
+A: Counting by fives gives 35 40 45 50 55.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by twos from 8 to 16?
+A: Counting by twos gives 8 10 12 14 16.
+
+Q: What is double 13?
+A: Double 13 is 26.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is double 12?
+A: Double 12 is 24.
+
+Q: What is double 30?
+A: Double 30 is 60.
+
+Q: What is double 55?
+A: Double 55 is 110.
+
+Q: What is half of 58?
+A: Half of 58 is 29.
+
+Q: What is double 6?
+A: Double 6 is 12.
+
+Q: What is double 56?
+A: Double 56 is 112.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Georgia use?
+A: The currency of Georgia is the lari.
+
+Q: What currency does Saudi Arabia use?
+A: The currency of Saudi Arabia is the riyal.
+
+Q: What currency does Bosnia and Herzegovina use?
+A: The currency of Bosnia and Herzegovina is the mark.
+
+Q: What currency does Taiwan use?
+A: The currency of Taiwan is the dollar.
+
+Q: What currency does Cambodia use?
+A: The currency of Cambodia is the riel.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
