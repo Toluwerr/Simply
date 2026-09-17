@@ -29741,3 +29741,170 @@ A: The capital of Angola is Luanda.
 
 Q: What is the capital of Monaco?
 A: The capital of Monaco is Monaco.
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: What is the capital of Montenegro?
+A: The capital of Montenegro is Podgorica.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of North Macedonia?
+A: The capital of North Macedonia is Skopje.
+
+Q: What is the capital of Taiwan?
+A: The capital of Taiwan is Taipei.
+
+Q: What is the capital of Belarus?
+A: The capital of Belarus is Minsk.
+
+Q: What is 5 times 4?
+A: 5 times 4 is 20.
+
+Q: What is 5 times 6?
+A: 5 times 6 is 30.
+
+Q: What is 60 minus 36?
+A: 60 minus 36 is 24.
+
+Q: What is 11 plus 17?
+A: 11 plus 17 is 28.
+
+Q: What is 13 times 17?
+A: 13 times 17 is 221.
+
+Q: What is 2 times 6?
+A: 2 times 6 is 12.
+
+Q: What is 341 minus 213?
+A: 341 minus 213 is 128.
+
+Q: What is 920 minus 437?
+A: 920 minus 437 is 483.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Connecticut?
+A: Hartford is the capital of Connecticut.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: How many letters does the word 'nassau' have?
+A: The word 'nassau' has 6 letters.
+
+Q: How many letters does the word 'philippines' have?
+A: The word 'philippines' has 11 letters.
+
+Q: How many letters does the word 'moon' have?
+A: The word 'moon' has 4 letters.
+
+Q: How many letters does the word 'conakry' have?
+A: The word 'conakry' has 7 letters.
+
+Q: How many letters does the word 'azerbaijan' have?
+A: The word 'azerbaijan' has 10 letters.
+
+Q: How many letters does the word 'aggressive' have?
+A: The word 'aggressive' has 10 letters.
+
+Q: How many letters does the word 'koruna' have?
+A: The word 'koruna' has 6 letters.
+
+Q: How many letters does the word 'oink' have?
+A: The word 'oink' has 4 letters.
+
+Q: What is the last letter of 'tokyo'?
+A: The last letter of 'tokyo' is O.
+
+Q: What is the last letter of 'belmopan'?
+A: The last letter of 'belmopan' is N.
+
+Q: What is the first letter of 'albania'?
+A: The first letter of 'albania' is A.
+
+Q: What is the last letter of 'domingo'?
+A: The last letter of 'domingo' is O.
+
+Q: What is the last letter of 'beijing'?
+A: The last letter of 'beijing' is G.
+
+Q: What is the last letter of 'palikir'?
+A: The last letter of 'palikir' is R.
+
+Q: What is the first letter of 'roar'?
+A: The first letter of 'roar' is R.
+
+Q: What is the last letter of 'roar'?
+A: The last letter of 'roar' is R.
+
+Q: Is 99 bigger than 54?
+A: Yes, 99 is bigger than 54.
+
+Q: Which is bigger, 342 or 741?
+A: 741 is bigger than 342.
+
+Q: Which is bigger, 696 or 945?
+A: 945 is bigger than 696.
+
+Q: Is 964 bigger than 703?
+A: Yes, 964 is bigger than 703.
+
+Q: Which is bigger, 7 or 12?
+A: 12 is bigger than 7.
+
+Q: Is 550 bigger than 210?
+A: Yes, 550 is bigger than 210.
+
+Q: Which is bigger, 2 or 8?
+A: 8 is bigger than 2.
+
+Q: Which is bigger, 10 or 11?
+A: 11 is bigger than 10.
