@@ -1273,3 +1273,57 @@ A: Caines is a Danish brand of cigarettes, currently owned and manufactured by H
 
 Q: What is Monrepos?
 A: Monrepos is an archaeological research centre and a museum of human behavioural evolution located in Germany.
+
+Q: What is Software architecture?
+A: Software architecture is the set of structures needed to reason about a software system and the discipline of creating such structures and systems.
+
+Q: What is Software Engineering Institute?
+A: Software Engineering Institute is a federally funded research and development center in Pittsburgh, Pennsylvania, United States.
+
+Q: What is Social software engineering?
+A: Social software engineering is a branch of software engineering that is concerned with the social aspects of software development.
+
+Q: What is Information extraction?
+A: Information extraction is the practice of gathering all relevant information for performing the operation.
+
+Q: What is Modeling?
+A: Modeling is the practice of combining the gathered information into an abstract model.
+
+Q: What is Review?
+A: Review is the testing of the model to ensure the validity of the chosen abstract.
+
+Q: What is Software testing?
+A: Software testing is the act of checking whether software meets its intended objectives and satisfies expectations.
+
+Q: What is Computer science?
+A: Computer science is the study of computation, information, and automation.
+
+Q: What is Stag?
+A: Stag is the second all-nude gay strip club on the West Coast, after Silverado, which is located in downtown Portland.
+
+Q: What is V-Ray?
+A: V-Ray is a biased computer-generated imagery rendering software application developed by Bulgarian software company Chaos.
+
+Q: What is Neighbours?
+A: Neighbours is a song recorded by the English rock band the Rolling Stones.
+
+Q: What is Puppis?
+A: Puppis is a constellation in the southern sky.
+
+Q: What is Gary Twigg?
+A: Gary Twigg is a Scottish former association footballer who played as a forward.
+
+Q: What is WJAL?
+A: WJAL is a television station licensed to Silver Spring, Maryland, United States, serving the Washington, D.C.
+
+Q: What is Mehmet Demir?
+A: Mehmet Demir is a Kurdish politician with the People's Democratic Party in Turkey.
+
+Q: What is Sotalol?
+A: Sotalol is a non-selective -adrenergic receptor blocker which has both class II and class III antiarrhythmic properties.
+
+Q: What is Setteri?
+A: Setteri is a village situated in the Bangarupalyam mandal of the Chittoor District in Andhra Pradesh.
+
+Q: What is Denise Pacheco Gomes?
+A: Denise Pacheco Gomes is a Brazilian mixed martial artist currently fighting in the women's Strawweight division of the Ultimate Fighting Championship.

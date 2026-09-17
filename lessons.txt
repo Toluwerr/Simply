@@ -18658,3 +18658,110 @@ A: 8 times 11 is 88.
 
 Q: What is 227 plus 935?
 A: 227 plus 935 is 1162.
+Q: Is 18 bigger than 65?
+A: No, 65 is bigger than 18.
+
+Q: Which is bigger, 85 or 70?
+A: 85 is bigger than 70.
+
+Q: Which is bigger, 7 or 1?
+A: 7 is bigger than 1.
+
+Q: Is 839 bigger than 643?
+A: Yes, 839 is bigger than 643.
+
+Q: Which is bigger, 19 or 2?
+A: 19 is bigger than 2.
+
+Q: Is 85 bigger than 80?
+A: Yes, 85 is bigger than 80.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is 523 plus 208?
+A: 523 plus 208 is 731.
+
+Q: What is 14 minus 13?
+A: 14 minus 13 is 1.
+
+Q: What is 12 plus 23?
+A: 12 plus 23 is 35.
+
+Q: What is 9 times 9?
+A: 9 times 9 is 81.
+
+Q: What is 555 minus 171?
+A: 555 minus 171 is 384.
+
+Q: What number is the Roman numeral lxix?
+A: The Roman numeral lxix is the number 69.
+
+Q: What number is the Roman numeral lxxviii?
+A: The Roman numeral lxxviii is the number 78.
+
+Q: What is the Roman numeral for 21?
+A: The Roman numeral for 21 is xxi.
+
+Q: What number is the Roman numeral lx?
+A: The Roman numeral lx is the number 60.
+
+Q: What number is the Roman numeral xix?
+A: The Roman numeral xix is the number 19.
+
+Q: What number is the Roman numeral xxii?
+A: The Roman numeral xxii is the number 22.
+
+Q: What is the last letter of 'franc'?
+A: The last letter of 'franc' is C.
+
+Q: What is the first letter of 'tin'?
+A: The first letter of 'tin' is T.
+
+Q: What is the first letter of 'niamey'?
+A: The first letter of 'niamey' is N.
+
+Q: What is the last letter of 'june'?
+A: The last letter of 'june' is E.
+
+Q: What is the last letter of 'guarani'?
+A: The last letter of 'guarani' is I.
+
+Q: What is the last letter of 'thulium'?
+A: The last letter of 'thulium' is M.
+
+Q: How do you sort 10, 2, and 22?
+A: In order, they are 2 10 22.
+
+Q: How do you sort 3, 6, and 18?
+A: In order, they are 3 6 18.
+
+Q: How do you sort 482, 419, and 400?
+A: In order, they are 400 419 482.
+
+Q: How do you sort 708, 542, and 788?
+A: In order, they are 542 708 788.
+
+Q: How do you sort 7, 23, and 9?
+A: In order, they are 7 9 23.
+
+Q: How do you sort 5, 19, and 23?
+A: In order, they are 5 19 23.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
+
+Q: What is the capital of Iraq?
+A: The capital of Iraq is Baghdad.
+
+Q: What is the capital of Thailand?
+A: The capital of Thailand is Bangkok.
+
+Q: What is the capital of Uzbekistan?
+A: The capital of Uzbekistan is Tashkent.
+
+Q: What is the capital of Malta?
+A: The capital of Malta is Valletta.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.

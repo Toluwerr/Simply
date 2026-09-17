@@ -3489,3 +3489,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: knowledge 0.78, was 0.74; val 0.5568
 - self-portrait, asked "Who are you?": *"I am a small set, bit with asking and I get."
 
+## Iteration 400 - NO_GAIN
+- **when**: 2026-09-17T02:11:04Z
+- **train loss**: 1.2644 | **val loss**: 0.6071 | **run best**: 0.5568
+- **corpus**: 265,939 chars (+12 self-written examples)
+- **internet reading**: +30 articles, +18 facts (837 read all-time)
+- **lr**: 0.0015 | **steps**: 62
+- **knowledge quiz**: avg 0.43 | weakest: arithmetic 0.00, compare 0.00, roman 0.00 | strongest: definitions 1.00, units 1.00, months 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a smalling whatural to tinying."
+
