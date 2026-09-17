@@ -46532,3 +46532,146 @@ A: 'narrow' means not wide.
 
 Q: What does 'narrow' mean?
 A: 'narrow' means not wide.
+Q: What is 3 times 7?
+A: 3 times 7 is 21.
+
+Q: What is 10 plus 16?
+A: 10 plus 16 is 26.
+
+Q: What is 10 times 11?
+A: 10 times 11 is 110.
+
+Q: What is 342 plus 315?
+A: 342 plus 315 is 657.
+
+Q: What is 25 minus 21?
+A: 25 minus 21 is 4.
+
+Q: What is 63 plus 98?
+A: 63 plus 98 is 161.
+
+Q: What is 13 times 17?
+A: 13 times 17 is 221.
+
+Q: What is 18 plus 2?
+A: 18 plus 2 is 20.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: What is the biggest planet?
+A: Jupiter is the biggest planet.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the biggest planet?
+A: Jupiter is the biggest planet.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by fives from 10 to 35?
+A: Counting by fives gives 10 15 20 25 30 35.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by ones from 37 to 39?
+A: Counting by ones gives 37 38 39.
+
+Q: Can you count by ones from 24 to 29?
+A: Counting by ones gives 24 25 26 27 28 29.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by twos from 34 to 38?
+A: Counting by twos gives 34 36 38.
+
+Q: Can you count by twos from 26 to 30?
+A: Counting by twos gives 26 28 30.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is double 6?
+A: Double 6 is 12.
+
+Q: What is double 17?
+A: Double 17 is 34.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is double 57?
+A: Double 57 is 114.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Finland use?
+A: The currency of Finland is the euro.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What currency does Gambia use?
+A: The currency of Gambia is the dalasi.
+
+Q: What currency does North Korea use?
+A: The currency of North Korea is the won.
+
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
