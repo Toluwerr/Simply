@@ -37254,3 +37254,170 @@ A: The capital of Peru is Lima.
 
 Q: What is the capital of Egypt?
 A: The capital of Egypt is Cairo.
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: Which element has the chemical symbol F?
+A: F is the chemical symbol for fluorine.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium.
+
+Q: Which element has the chemical symbol F?
+A: F is the chemical symbol for fluorine.
+
+Q: What is the chemical symbol for iron?
+A: The chemical symbol for iron is Fe.
+
+Q: What is the chemical symbol for platinum?
+A: The chemical symbol for platinum is Pt.
+
+Q: What is the chemical symbol for hydrogen?
+A: The chemical symbol for hydrogen is H.
+
+Q: What is the chemical symbol for cerium?
+A: The chemical symbol for cerium is Ce.
+
+Q: Which element has the chemical symbol Yb?
+A: Yb is the chemical symbol for ytterbium.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the Roman numeral for 122?
+A: The Roman numeral for 122 is cxxii.
+
+Q: What is the Roman numeral for 438?
+A: The Roman numeral for 438 is cdxxxviii.
+
+Q: What is the Roman numeral for 13?
+A: The Roman numeral for 13 is xiii.
+
+Q: What number is the Roman numeral xxxii?
+A: The Roman numeral xxxii is the number 32.
+
+Q: What is the Roman numeral for 288?
+A: The Roman numeral for 288 is cclxxxviii.
+
+Q: What is the Roman numeral for 467?
+A: The Roman numeral for 467 is cdlxvii.
+
+Q: What number is the Roman numeral xvii?
+A: The Roman numeral xvii is the number 17.
+
+Q: What number is the Roman numeral xxxvi?
+A: The Roman numeral xxxvi is the number 36.
+
+Q: What is the last letter of 'manat'?
+A: The last letter of 'manat' is T.
+
+Q: What is the first letter of 'time'?
+A: The first letter of 'time' is T.
+
+Q: What is the first letter of 'maldives'?
+A: The first letter of 'maldives' is M.
+
+Q: What is the first letter of 'algiers'?
+A: The first letter of 'algiers' is A.
+
+Q: What is the first letter of 'kiribati'?
+A: The first letter of 'kiribati' is K.
+
+Q: What is the last letter of 'tunis'?
+A: The last letter of 'tunis' is S.
+
+Q: What is the last letter of 'michigan'?
+A: The last letter of 'michigan' is N.
+
+Q: What is the last letter of 'hydrogen'?
+A: The last letter of 'hydrogen' is N.
+
+Q: Is 10 bigger than 5?
+A: Yes, 10 is bigger than 5.
+
+Q: Is 9 bigger than 2?
+A: Yes, 9 is bigger than 2.
+
+Q: Which is bigger, 79 or 26?
+A: 79 is bigger than 26.
+
+Q: Which is bigger, 31 or 26?
+A: 31 is bigger than 26.
+
+Q: Is 25 bigger than 62?
+A: No, 62 is bigger than 25.
+
+Q: Is 46 bigger than 60?
+A: No, 60 is bigger than 46.
+
+Q: Which is bigger, 13 or 6?
+A: 13 is bigger than 6.
+
+Q: Which is bigger, 34 or 48?
+A: 48 is bigger than 34.
+
+Q: What is double 49?
+A: Double 49 is 98.
+
+Q: What is half of 52?
+A: Half of 52 is 26.
+
+Q: What is double 38?
+A: Double 38 is 76.
+
+Q: What is double 14?
+A: Double 14 is 28.
+
+Q: What is double 33?
+A: Double 33 is 66.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is double 37?
+A: Double 37 is 74.
+
+Q: What is double 13?
+A: Double 13 is 26.
