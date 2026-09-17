@@ -29922,3 +29922,128 @@ A: Half of 28 is 14.
 
 Q: What is half of 24?
 A: Half of 24 is 12.
+Q: How many letters does the word 'manat' have?
+A: The word 'manat' has 5 letters.
+
+Q: How many letters does the word 'quack' have?
+A: The word 'quack' has 5 letters.
+
+Q: How many letters does the word 'monaco' have?
+A: The word 'monaco' has 6 letters.
+
+Q: How many letters does the word 'peso' have?
+A: The word 'peso' has 4 letters.
+
+Q: How many letters does the word 'arabia' have?
+A: The word 'arabia' has 6 letters.
+
+Q: How many letters does the word 'dominican' have?
+A: The word 'dominican' has 9 letters.
+
+Q: Which is bigger, 598 or 935?
+A: 935 is bigger than 598.
+
+Q: Is 402 bigger than 843?
+A: No, 843 is bigger than 402.
+
+Q: Which is bigger, 19 or 8?
+A: 19 is bigger than 8.
+
+Q: Which is bigger, 797 or 656?
+A: 797 is bigger than 656.
+
+Q: Is 18 bigger than 14?
+A: Yes, 18 is bigger than 14.
+
+Q: Is 87 bigger than 70?
+A: Yes, 87 is bigger than 70.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is double 22?
+A: Double 22 is 44.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is double 10?
+A: Double 10 is 20.
+
+Q: What is double 30?
+A: Double 30 is 60.
+
+Q: What is double 35?
+A: Double 35 is 70.
+
+Q: What is double 3?
+A: Double 3 is 6.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What is the capital of the Philippines?
+A: The capital of the Philippines is Manila.
+
+Q: What is the capital of Pakistan?
+A: The capital of Pakistan is Islamabad.
+
+Q: What is the capital of Botswana?
+A: The capital of Botswana is Gaborone.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of the Central African Republic?
+A: The capital of the Central African Republic is Bangui.
+
+Q: Which element has the chemical symbol Be?
+A: Be is the chemical symbol for beryllium.
+
+Q: Which element has the chemical symbol Re?
+A: Re is the chemical symbol for rhenium.
+
+Q: Which element has the chemical symbol Ni?
+A: Ni is the chemical symbol for nickel.
+
+Q: What is the chemical symbol for strontium?
+A: The chemical symbol for strontium is Sr.
+
+Q: Which element has the chemical symbol Sc?
+A: Sc is the chemical symbol for scandium.
+
+Q: What is the chemical symbol for scandium?
+A: The chemical symbol for scandium is Sc.

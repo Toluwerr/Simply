@@ -10806,3 +10806,31 @@ A: Counting by tens gives 20 30 40 50 60 60.
 
 Q: How do you sort 10, 22, and 8?
 A: In order, they are 8 10 22.
+
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Pho.
+
+Q: What is the opposite of 'loud'?
+A: 'loud' is the opposite of 'quiet'.
+
+Q: What continent is Senegal on?
+A: Sken is on the continent of Africa.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'f 'last' is '.
+
+Q: How do you write 6 in words?
+A: 6 in words is six-eight.
+
+Q: Which is bigger, 78 or 95?
+A: 95 is bigger than 95.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is Bi.
+
+Q: How do you sort 12, 7, and 19?
+A: In order, they are 7 12 19.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'last' is 'last'.
