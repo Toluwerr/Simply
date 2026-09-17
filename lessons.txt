@@ -55204,3 +55204,170 @@ A: The last letter of 'kathmandu' is U.
 
 Q: What is the last letter of 'grape'?
 A: The last letter of 'grape' is E.
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: How do you sort 1, 21, and 12?
+A: In order, they are 1 12 21.
+
+Q: How do you sort 714, 692, and 159?
+A: In order, they are 159 692 714.
+
+Q: How do you sort 5, 20, and 9?
+A: In order, they are 5 9 20.
+
+Q: How do you sort 290, 906, and 424?
+A: In order, they are 290 424 906.
+
+Q: How do you sort 436, 43, and 246?
+A: In order, they are 43 246 436.
+
+Q: How do you sort 14, 28, and 16?
+A: In order, they are 14 16 28.
+
+Q: How do you sort 797, 352, and 166?
+A: In order, they are 166 352 797.
+
+Q: How do you sort 397, 347, and 361?
+A: In order, they are 347 361 397.
+
+Q: What is the last letter of 'tokyo'?
+A: The last letter of 'tokyo' is O.
+
+Q: What is the last letter of 'boliviano'?
+A: The last letter of 'boliviano' is O.
+
+Q: What is the last letter of 'penh'?
+A: The last letter of 'penh' is H.
+
+Q: What is the last letter of 'brasilia'?
+A: The last letter of 'brasilia' is A.
+
+Q: What is the last letter of 'jose'?
+A: The last letter of 'jose' is E.
+
+Q: What is the last letter of 'guyana'?
+A: The last letter of 'guyana' is A.
+
+Q: What is the first letter of 'djibouti'?
+A: The first letter of 'djibouti' is D.
+
+Q: What is the last letter of 'march'?
+A: The last letter of 'march' is H.
+
+Q: What continent is Rwanda on?
+A: Rwanda is on the continent of Africa.
+
+Q: What continent is Bangladesh on?
+A: Bangladesh is on the continent of Asia.
+
+Q: What continent is Micronesia on?
+A: Micronesia is on the continent of Oceania.
+
+Q: What continent is Iran on?
+A: Iran is on the continent of Asia.
+
+Q: What continent is Jamaica on?
+A: Jamaica is on the continent of North America.
+
+Q: What continent is Andorra on?
+A: Andorra is on the continent of Europe.
+
+Q: What continent is Vatican City on?
+A: Vatican City is on the continent of Europe.
+
+Q: What continent is South Africa on?
+A: South Africa is on the continent of Africa.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What is the capital of Saint Vincent and the Grenadines?
+A: The capital of Saint Vincent and the Grenadines is Kingstown.
+
+Q: What is the capital of Barbados?
+A: The capital of Barbados is Bridgetown.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
+
+Q: What is the capital of Uganda?
+A: The capital of Uganda is Kampala.
+
+Q: What is the capital of Eritrea?
+A: The capital of Eritrea is Asmara.
+
+Q: What is the capital of Somalia?
+A: The capital of Somalia is Mogadishu.
+
+Q: What is the capital of the Netherlands?
+A: The capital of the Netherlands is Amsterdam.
+
+Q: Can you count by twos from 34 to 38?
+A: Counting by twos gives 34 36 38.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25.
+
+Q: Can you count by ones from 22 to 26?
+A: Counting by ones gives 22 23 24 25 26.
+
+Q: Can you count by fives from 5 to 25?
+A: Counting by fives gives 5 10 15 20 25.
+
+Q: Can you count by ones from 35 to 38?
+A: Counting by ones gives 35 36 37 38.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Which is bigger, 11 or 28?
+A: 28 is bigger than 11.
+
+Q: Which is bigger, 236 or 707?
+A: 707 is bigger than 236.
+
+Q: Is 454 bigger than 849?
+A: No, 849 is bigger than 454.
+
+Q: Which is bigger, 11 or 13?
+A: 13 is bigger than 11.
+
+Q: Is 468 bigger than 501?
+A: No, 501 is bigger than 468.
+
+Q: Is 78 bigger than 92?
+A: No, 92 is bigger than 78.
+
+Q: Is 3 bigger than 7?
+A: No, 7 is bigger than 3.
+
+Q: Which is bigger, 54 or 22?
+A: 54 is bigger than 22.
