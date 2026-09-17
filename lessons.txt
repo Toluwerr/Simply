@@ -39162,3 +39162,170 @@ A: 21 in words is twenty-one.
 
 Q: How do you write 76 in words?
 A: 76 in words is seventy-six.
+Q: Which is bigger, 9 or 14?
+A: 14 is bigger than 9.
+
+Q: Is 12 bigger than 20?
+A: No, 20 is bigger than 12.
+
+Q: Which is bigger, 730 or 332?
+A: 730 is bigger than 332.
+
+Q: Which is bigger, 2 or 1?
+A: 2 is bigger than 1.
+
+Q: Is 35 bigger than 12?
+A: Yes, 35 is bigger than 12.
+
+Q: Is 82 bigger than 72?
+A: Yes, 82 is bigger than 72.
+
+Q: Which is bigger, 10 or 17?
+A: 17 is bigger than 10.
+
+Q: Which is bigger, 677 or 973?
+A: 973 is bigger than 677.
+
+Q: How do you sort 22, 3, and 21?
+A: In order, they are 3 21 22.
+
+Q: How do you sort 25, 4, and 6?
+A: In order, they are 4 6 25.
+
+Q: How do you sort 3, 19, and 26?
+A: In order, they are 3 19 26.
+
+Q: How do you sort 99, 532, and 250?
+A: In order, they are 99 250 532.
+
+Q: How do you sort 144, 922, and 67?
+A: In order, they are 67 144 922.
+
+Q: How do you sort 23, 18, and 24?
+A: In order, they are 18 23 24.
+
+Q: How do you sort 29, 11, and 9?
+A: In order, they are 9 11 29.
+
+Q: How do you sort 312, 993, and 344?
+A: In order, they are 312 344 993.
+
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: What continent is Germany on?
+A: Germany is on the continent of Europe.
+
+Q: What continent is Indonesia on?
+A: Indonesia is on the continent of Asia.
+
+Q: What continent is Austria on?
+A: Austria is on the continent of Europe.
+
+Q: What continent is Chile on?
+A: Chile is on the continent of South America.
+
+Q: What continent is India on?
+A: India is on the continent of Asia.
+
+Q: What continent is South Sudan on?
+A: South Sudan is on the continent of Africa.
+
+Q: What continent is Zambia on?
+A: Zambia is on the continent of Africa.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of Papua New Guinea?
+A: The capital of Papua New Guinea is Port Moresby.
+
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+
+Q: What is the capital of Georgia?
+A: The capital of Georgia is Tbilisi.
+
+Q: What is the capital of the Marshall Islands?
+A: The capital of the Marshall Islands is Majuro.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
