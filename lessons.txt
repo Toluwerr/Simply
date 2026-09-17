@@ -19514,3 +19514,110 @@ A: 95 in words is ninety-five.
 
 Q: How do you write 38 in words?
 A: 38 in words is thirty-eight.
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+
+Q: What is the capital of the Comoros?
+A: The capital of the Comoros is Moroni.
+
+Q: What is the capital of Zimbabwe?
+A: The capital of Zimbabwe is Harare.
+
+Q: What is the capital of Chile?
+A: The capital of Chile is Santiago.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Benin?
+A: The capital of Benin is Porto-Novo.
+
+Q: What is the last letter of 'tehran'?
+A: The last letter of 'tehran' is N.
+
+Q: What is the first letter of 'september'?
+A: The first letter of 'september' is S.
+
+Q: What is the first letter of 'belgium'?
+A: The first letter of 'belgium' is B.
+
+Q: What is the first letter of 'watchful'?
+A: The first letter of 'watchful' is W.
+
+Q: What is the first letter of 'order'?
+A: The first letter of 'order' is O.
+
+Q: What is the first letter of 'tall'?
+A: The first letter of 'tall' is T.
+
+Q: What is 10 times 11?
+A: 10 times 11 is 110.
+
+Q: What is 732 minus 250?
+A: 732 minus 250 is 482.
+
+Q: What is 226 plus 366?
+A: 226 plus 366 is 592.
+
+Q: What is 234 minus 231?
+A: 234 minus 231 is 3.
+
+Q: What is 759 plus 346?
+A: 759 plus 346 is 1105.
+
+Q: What is 5 times 6?
+A: 5 times 6 is 30.
+
+Q: How do you sort 12, 8, and 19?
+A: In order, they are 8 12 19.
+
+Q: How do you sort 704, 181, and 25?
+A: In order, they are 25 181 704.
+
+Q: How do you sort 687, 376, and 889?
+A: In order, they are 376 687 889.
+
+Q: How do you sort 131, 159, and 944?
+A: In order, they are 131 159 944.
+
+Q: How do you sort 9, 18, and 26?
+A: In order, they are 9 18 26.
+
+Q: How do you sort 20, 2, and 16?
+A: In order, they are 2 16 20.
+
+Q: Which is bigger, 238 or 573?
+A: 573 is bigger than 238.
+
+Q: Which is bigger, 5 or 1?
+A: 5 is bigger than 1.
+
+Q: Which is bigger, 79 or 57?
+A: 79 is bigger than 57.
+
+Q: Is 820 bigger than 688?
+A: Yes, 820 is bigger than 688.
+
+Q: Which is bigger, 95 or 64?
+A: 95 is bigger than 64.
+
+Q: Which is bigger, 356 or 173?
+A: 356 is bigger than 173.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Austria use?
+A: The currency of Austria is the euro.
+
+Q: What currency does Cuba use?
+A: The currency of Cuba is the peso.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.

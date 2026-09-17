@@ -3561,3 +3561,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.74 | weakest: arithmetic 0.00, sort 0.00, spelling 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny AI model that improves itself with its its its its its its own."
 
+## Iteration 408 - NO_GAIN
+- **when**: 2026-09-17T02:16:23Z
+- **train loss**: 0.5966 | **val loss**: 0.5686 | **run best**: 0.5568
+- **corpus**: 272,695 chars (+13 self-written examples)
+- **internet reading**: +30 articles, +18 facts (837 read all-time)
+- **lr**: 0.0003 | **steps**: 62
+- **knowledge quiz**: avg 0.65 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny AI model that can itself-improfrom the with andiv."
+
