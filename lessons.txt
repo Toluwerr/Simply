@@ -54703,3 +54703,170 @@ A: 92 in words is ninety-two.
 
 Q: How do you write 46 in words?
 A: 46 in words is forty-six.
+Q: Is 18 bigger than 19?
+A: No, 19 is bigger than 18.
+
+Q: Which is bigger, 728 or 890?
+A: 890 is bigger than 728.
+
+Q: Is 8 bigger than 18?
+A: No, 18 is bigger than 8.
+
+Q: Is 38 bigger than 71?
+A: No, 71 is bigger than 38.
+
+Q: Which is bigger, 874 or 989?
+A: 989 is bigger than 874.
+
+Q: Is 20 bigger than 97?
+A: No, 97 is bigger than 20.
+
+Q: Is 18 bigger than 16?
+A: Yes, 18 is bigger than 16.
+
+Q: Is 19 bigger than 1?
+A: Yes, 19 is bigger than 1.
+
+Q: How many letters does the word 'tall' have?
+A: The word 'tall' has 4 letters.
+
+Q: How many letters does the word 'fluorine' have?
+A: The word 'fluorine' has 8 letters.
+
+Q: How many letters does the word 'kingstown' have?
+A: The word 'kingstown' has 9 letters.
+
+Q: How many letters does the word 'manama' have?
+A: The word 'manama' has 6 letters.
+
+Q: How many letters does the word 'wet' have?
+A: The word 'wet' has 3 letters.
+
+Q: How many letters does the word 'nouakchott' have?
+A: The word 'nouakchott' has 10 letters.
+
+Q: How many letters does the word 'kuwait' have?
+A: The word 'kuwait' has 6 letters.
+
+Q: How many letters does the word 'somalia' have?
+A: The word 'somalia' has 7 letters.
+
+Q: How do you sort 10, 7, and 20?
+A: In order, they are 7 10 20.
+
+Q: How do you sort 23, 1, and 4?
+A: In order, they are 1 4 23.
+
+Q: How do you sort 552, 578, and 338?
+A: In order, they are 338 552 578.
+
+Q: How do you sort 1, 24, and 25?
+A: In order, they are 1 24 25.
+
+Q: How do you sort 25, 20, and 22?
+A: In order, they are 20 22 25.
+
+Q: How do you sort 1, 19, and 10?
+A: In order, they are 1 10 19.
+
+Q: How do you sort 220, 26, and 47?
+A: In order, they are 26 47 220.
+
+Q: How do you sort 20, 18, and 11?
+A: In order, they are 11 18 20.
+
+Q: What continent is Hungary on?
+A: Hungary is on the continent of Europe.
+
+Q: What continent is Poland on?
+A: Poland is on the continent of Europe.
+
+Q: What continent is Romania on?
+A: Romania is on the continent of Europe.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
+
+Q: What continent is Liechtenstein on?
+A: Liechtenstein is on the continent of Europe.
+
+Q: What continent is Uganda on?
+A: Uganda is on the continent of Africa.
+
+Q: What continent is Chile on?
+A: Chile is on the continent of South America.
+
+Q: What continent is Micronesia on?
+A: Micronesia is on the continent of Oceania.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 60 in words?
+A: 60 in words is sixty.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 73 in words?
+A: 73 in words is seventy-three.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 22 in words?
+A: 22 in words is twenty-two.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: What is the capital of Guinea-Bissau?
+A: The capital of Guinea-Bissau is Bissau.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: What is the capital of Montenegro?
+A: The capital of Montenegro is Podgorica.
+
+Q: What is the capital of Portugal?
+A: The capital of Portugal is Lisbon.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is the capital of Poland?
+A: The capital of Poland is Warsaw.
+
+Q: What is the capital of Burkina Faso?
+A: The capital of Burkina Faso is Ouagadougou.
