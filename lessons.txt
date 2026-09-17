@@ -60246,3 +60246,170 @@ A: No, 679 is bigger than 656.
 
 Q: Which is bigger, 285 or 968?
 A: 968 is bigger than 285.
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: How do you write 63 in words?
+A: 63 in words is sixty-three.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 15 in words?
+A: 15 in words is fifteen.
+
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.
+
+Q: What currency does Saudi Arabia use?
+A: The currency of Saudi Arabia is the riyal.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.
+
+Q: What currency does Somalia use?
+A: The currency of Somalia is the shilling.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Iran use?
+A: The currency of Iran is the rial.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: How do you sort 452, 759, and 270?
+A: In order, they are 270 452 759.
+
+Q: How do you sort 21, 897, and 761?
+A: In order, they are 21 761 897.
+
+Q: How do you sort 19, 703, and 606?
+A: In order, they are 19 606 703.
+
+Q: How do you sort 13, 15, and 29?
+A: In order, they are 13 15 29.
+
+Q: How do you sort 21, 2, and 12?
+A: In order, they are 2 12 21.
+
+Q: How do you sort 25, 29, and 18?
+A: In order, they are 18 25 29.
+
+Q: How do you sort 540, 246, and 251?
+A: In order, they are 246 251 540.
+
+Q: How do you sort 10, 24, and 27?
+A: In order, they are 10 24 27.
+
+Q: What is the last letter of 'learn'?
+A: The last letter of 'learn' is N.
+
+Q: What is the first letter of 'mars'?
+A: The first letter of 'mars' is M.
+
+Q: What is the first letter of 'cordoba'?
+A: The first letter of 'cordoba' is C.
+
+Q: What is the first letter of 'tiger'?
+A: The first letter of 'tiger' is T.
+
+Q: What is the first letter of 'algeria'?
+A: The first letter of 'algeria' is A.
+
+Q: What is the first letter of 'fish'?
+A: The first letter of 'fish' is F.
+
+Q: What is the last letter of 'pennsylvania'?
+A: The last letter of 'pennsylvania' is A.
+
+Q: What is the first letter of 'georgia'?
+A: The first letter of 'georgia' is G.

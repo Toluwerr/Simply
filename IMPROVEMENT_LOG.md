@@ -5977,3 +5977,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Iran much is and sound day and ball."
 
+## Iteration 668 - NO_GAIN
+- **when**: 2026-09-17T10:02:29Z
+- **train loss**: 1.8001 | **val loss**: 1.3642 | **run best**: 1.3642
+- **corpus**: 284,421 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +20 facts (2,360 read all-time)
+- **lr**: 0.0003 | **steps**: 30
+- **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 1.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Slublic is 0 plus 0 is they aring are 54."
+
