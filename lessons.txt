@@ -58567,3 +58567,170 @@ A: 11 is bigger than 6.
 
 Q: Which is bigger, 19 or 7?
 A: 19 is bigger than 7.
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What continent is Finland on?
+A: Finland is on the continent of Europe.
+
+Q: What continent is Armenia on?
+A: Armenia is on the continent of Asia.
+
+Q: What continent is Sudan on?
+A: Sudan is on the continent of Africa.
+
+Q: What continent is the Republic of the Congo on?
+A: the Republic of the Congo is on the continent of Africa.
+
+Q: What continent is Lebanon on?
+A: Lebanon is on the continent of Asia.
+
+Q: What continent is India on?
+A: India is on the continent of Asia.
+
+Q: What continent is Syria on?
+A: Syria is on the continent of Asia.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: What is the capital of Paraguay?
+A: The capital of Paraguay is Asuncion.
+
+Q: What is the capital of Vietnam?
+A: The capital of Vietnam is Hanoi.
+
+Q: What is the capital of El Salvador?
+A: The capital of El Salvador is San Salvador.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of El Salvador?
+A: The capital of El Salvador is San Salvador.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Barbados?
+A: The capital of Barbados is Bridgetown.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+
+Q: How do you write 39 in words?
+A: 39 in words is thirty-nine.
+
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 99 in words?
+A: 99 in words is ninety-nine.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you sort 494, 815, and 851?
+A: In order, they are 494 815 851.
+
+Q: How do you sort 218, 662, and 699?
+A: In order, they are 218 662 699.
+
+Q: How do you sort 314, 752, and 968?
+A: In order, they are 314 752 968.
+
+Q: How do you sort 412, 862, and 736?
+A: In order, they are 412 736 862.
+
+Q: How do you sort 6, 9, and 3?
+A: In order, they are 3 6 9.
+
+Q: How do you sort 7, 23, and 8?
+A: In order, they are 7 8 23.
+
+Q: How do you sort 23, 8, and 25?
+A: In order, they are 8 23 25.
+
+Q: How do you sort 9, 4, and 11?
+A: In order, they are 4 9 11.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
