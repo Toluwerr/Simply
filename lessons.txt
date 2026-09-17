@@ -59769,3 +59769,146 @@ A: 40 plus 98 is 138.
 
 Q: What is 29 minus 17?
 A: 29 minus 17 is 12.
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: How many letters does the word 'eswatini' have?
+A: The word 'eswatini' has 8 letters.
+
+Q: How many letters does the word 'oman' have?
+A: The word 'oman' has 4 letters.
+
+Q: How many letters does the word 'sofia' have?
+A: The word 'sofia' has 5 letters.
+
+Q: How many letters does the word 'shekel' have?
+A: The word 'shekel' has 6 letters.
+
+Q: How many letters does the word 'lanthanum' have?
+A: The word 'lanthanum' has 9 letters.
+
+Q: How many letters does the word 'baa' have?
+A: The word 'baa' has 3 letters.
+
+Q: How many letters does the word 'maldives' have?
+A: The word 'maldives' has 8 letters.
+
+Q: How many letters does the word 'mogadishu' have?
+A: The word 'mogadishu' has 9 letters.
+
+Q: What is 2 times 5?
+A: 2 times 5 is 10.
+
+Q: What is 4 times 9?
+A: 4 times 9 is 36.
+
+Q: What is 9 times 10?
+A: 9 times 10 is 90.
+
+Q: What is 892 plus 979?
+A: 892 plus 979 is 1871.
+
+Q: What is 13 plus 9?
+A: 13 plus 9 is 22.
+
+Q: What is 7 times 4?
+A: 7 times 4 is 28.
+
+Q: What is 4 times 8?
+A: 4 times 8 is 32.
+
+Q: What is 18 minus 13?
+A: 18 minus 13 is 5.
+
+Q: What currency does Uzbekistan use?
+A: The currency of Uzbekistan is the som.
+
+Q: What currency does Belarus use?
+A: The currency of Belarus is the ruble.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
+
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What currency does New Zealand use?
+A: The currency of New Zealand is the dollar.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 97 in words?
+A: 97 in words is ninety-seven.
+
+Q: How do you write 15 in words?
+A: 15 in words is fifteen.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: Which is bigger, 5 or 7?
+A: 7 is bigger than 5.
+
+Q: Which is bigger, 15 or 54?
+A: 54 is bigger than 15.
+
+Q: Is 835 bigger than 346?
+A: Yes, 835 is bigger than 346.
+
+Q: Is 535 bigger than 293?
+A: Yes, 535 is bigger than 293.
+
+Q: Which is bigger, 16 or 2?
+A: 16 is bigger than 2.
+
+Q: Is 461 bigger than 667?
+A: No, 667 is bigger than 461.
+
+Q: Is 85 bigger than 42?
+A: Yes, 85 is bigger than 42.
+
+Q: Is 7 bigger than 1?
+A: Yes, 7 is bigger than 1.
