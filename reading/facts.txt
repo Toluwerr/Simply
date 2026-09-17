@@ -3274,3 +3274,63 @@ A: Vietnam is a member of the Asia-Pacific Economic Cooperation, the Association
 
 Q: What is Adafruit Industries?
 A: Adafruit Industries is an open-source hardware company based in New York, United States.
+
+Q: What is Dropout?
+A: Dropout is a regularization technique for reducing overfitting in artificial neural networks by preventing complex co-adaptations on training data.
+
+Q: What is Valentin de Bournonville?
+A: Valentin de Bournonville is a French Baroque composer.
+
+Q: What is JDS Okishio?
+A: JDS Okishio is a Yshio-class submarine.
+
+Q: What is Masabih al-Sunnah?
+A: Masabih al-Sunnah is a collection of hadith by the Persian Shafi'i scholar Abu Muhammad al-Husayn ibn Mas'ud ibn Muhammad al-Farra' al-Baghawi.
+
+Q: What is VARAN?
+A: VARAN is a wired data network technology for local data networks with the main application in the field of automation technology.
+
+Q: What is Berezovaya Gora?
+A: Berezovaya Gora is a rural locality in Kichmengskoye Rural Settlement, Kichmengsko-Gorodetsky District, Vologda Oblast, Russia.
+
+Q: What is Podol?
+A: Podol is the nearest rural locality.
+
+Q: What is Sadanaga?
+A: Sadanaga is the son of Makino Sadamichi , who was...
+
+Q: What is Homology, Homotopy and Applications?
+A: Homology, Homotopy and Applications is a peer-reviewed delayed open access mathematics journal published by International Press.
+
+Q: What is Gagn?
+A: Gagn is an American entomologist whose work focuses on gall midges.
+
+Q: What is Hairkutt?
+A: Hairkutt is a 2005 documentary film by Curtis Elliott and Ben Scholle.
+
+Q: What is Venetian literature?
+A: Venetian literature is the corpus of literature in Venetian, the vernacular language of the region roughly corresponding to Venice.
+
+Q: What is Winterbottom?
+A: Winterbottom is a puzzle platform game that boasted the company's quirky art style.
+
+Q: What is Jos Jess Mrquez Snchez?
+A: Jos Jess Mrquez Snchez is a Spanish Taekwondo athlete.
+
+Q: What is Mecistoptera albisigna?
+A: Mecistoptera albisigna is a species of moth of the family Erebidae.
+
+Q: What is Charles Smart Evans?
+A: Charles Smart Evans is an English vocalist and composer.
+
+Q: What is History: A Novel?
+A: History: A Novel is a novel by Italian author Elsa Morante.
+
+Q: What is Clear History?
+A: Clear History is a 2013 American comedy television film directed by Greg Mottola, written by Larry David, Alec Berg, David Mandel and Jeff Schaffer.
+
+Q: What is Robert Roswell Palmer?
+A: Robert Roswell Palmer is an American historian.
+
+Q: What is Historical method?
+A: Historical method is the collection of techniques and guidelines that historians use to research and write histories of the past.

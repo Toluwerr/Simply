@@ -59459,3 +59459,146 @@ A: The currency of Paraguay is the guarani.
 
 Q: What currency does the Dominican Republic use?
 A: The currency of the Dominican Republic is the peso.
+Q: How many letters does the word 'fierce' have?
+A: The word 'fierce' has 6 letters.
+
+Q: How many letters does the word 'covered' have?
+A: The word 'covered' has 7 letters.
+
+Q: How many letters does the word 'madison' have?
+A: The word 'madison' has 7 letters.
+
+Q: How many letters does the word 'cloud' have?
+A: The word 'cloud' has 5 letters.
+
+Q: How many letters does the word 'massachusetts' have?
+A: The word 'massachusetts' has 13 letters.
+
+Q: How many letters does the word 'equatorial' have?
+A: The word 'equatorial' has 10 letters.
+
+Q: How many letters does the word 'jakarta' have?
+A: The word 'jakarta' has 7 letters.
+
+Q: How many letters does the word 'ljubljana' have?
+A: The word 'ljubljana' has 9 letters.
+
+Q: What is the first letter of 'fiji'?
+A: The first letter of 'fiji' is F.
+
+Q: What is the first letter of 'september'?
+A: The first letter of 'september' is S.
+
+Q: What is the first letter of 'tidy'?
+A: The first letter of 'tidy' is T.
+
+Q: What is the last letter of 'minnesota'?
+A: The last letter of 'minnesota' is A.
+
+Q: What is the last letter of 'samarium'?
+A: The last letter of 'samarium' is M.
+
+Q: What is the last letter of 'train'?
+A: The last letter of 'train' is N.
+
+Q: What is the last letter of 'slow'?
+A: The last letter of 'slow' is W.
+
+Q: What is the first letter of 'sofia'?
+A: The first letter of 'sofia' is S.
+
+Q: How do you sort 430, 886, and 624?
+A: In order, they are 430 624 886.
+
+Q: How do you sort 932, 750, and 304?
+A: In order, they are 304 750 932.
+
+Q: How do you sort 13, 27, and 11?
+A: In order, they are 11 13 27.
+
+Q: How do you sort 18, 911, and 853?
+A: In order, they are 18 853 911.
+
+Q: How do you sort 10, 26, and 29?
+A: In order, they are 10 26 29.
+
+Q: How do you sort 23, 20, and 18?
+A: In order, they are 18 20 23.
+
+Q: How do you sort 17, 14, and 8?
+A: In order, they are 8 14 17.
+
+Q: How do you sort 291, 188, and 874?
+A: In order, they are 188 291 874.
+
+Q: Is 68 bigger than 88?
+A: No, 88 is bigger than 68.
+
+Q: Is 69 bigger than 27?
+A: Yes, 69 is bigger than 27.
+
+Q: Is 1 bigger than 19?
+A: No, 19 is bigger than 1.
+
+Q: Is 3 bigger than 16?
+A: No, 16 is bigger than 3.
+
+Q: Which is bigger, 68 or 49?
+A: 68 is bigger than 49.
+
+Q: Is 9 bigger than 14?
+A: No, 14 is bigger than 9.
+
+Q: Is 16 bigger than 38?
+A: No, 38 is bigger than 16.
+
+Q: Is 56 bigger than 41?
+A: Yes, 56 is bigger than 41.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: What is the capital of South Sudan?
+A: The capital of South Sudan is Juba.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: What is the capital of the Seychelles?
+A: The capital of the Seychelles is Victoria.
+
+Q: What is the capital of Bulgaria?
+A: The capital of Bulgaria is Sofia.
+
+Q: What is the capital of Lesotho?
+A: The capital of Lesotho is Maseru.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
