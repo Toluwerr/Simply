@@ -46818,3 +46818,170 @@ A: The capital of the United Kingdom is London.
 
 Q: What is the capital of Estonia?
 A: The capital of Estonia is Tallinn.
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: Which element has the chemical symbol U?
+A: U is the chemical symbol for uranium.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: Which element has the chemical symbol Sr?
+A: Sr is the chemical symbol for strontium.
+
+Q: Which element has the chemical symbol W?
+A: W is the chemical symbol for tungsten.
+
+Q: Which element has the chemical symbol N?
+A: N is the chemical symbol for nitrogen.
+
+Q: Which element has the chemical symbol Al?
+A: Al is the chemical symbol for aluminium.
+
+Q: Which element has the chemical symbol Tl?
+A: Tl is the chemical symbol for thallium.
+
+Q: Which element has the chemical symbol Bi?
+A: Bi is the chemical symbol for bismuth.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the Roman numeral for 44?
+A: The Roman numeral for 44 is xliv.
+
+Q: What is the Roman numeral for 9?
+A: The Roman numeral for 9 is ix.
+
+Q: What number is the Roman numeral ix?
+A: The Roman numeral ix is the number 9.
+
+Q: What is the Roman numeral for 73?
+A: The Roman numeral for 73 is lxxiii.
+
+Q: What is the Roman numeral for 76?
+A: The Roman numeral for 76 is lxxvi.
+
+Q: What number is the Roman numeral xc?
+A: The Roman numeral xc is the number 90.
+
+Q: What is the Roman numeral for 80?
+A: The Roman numeral for 80 is lxxx.
+
+Q: What is the Roman numeral for 18?
+A: The Roman numeral for 18 is xviii.
+
+Q: What is the last letter of 'rome'?
+A: The last letter of 'rome' is E.
+
+Q: What is the last letter of 'careful'?
+A: The last letter of 'careful' is L.
+
+Q: What is the first letter of 'idaho'?
+A: The first letter of 'idaho' is I.
+
+Q: What is the first letter of 'harrisburg'?
+A: The first letter of 'harrisburg' is H.
+
+Q: What is the first letter of 'lion'?
+A: The first letter of 'lion' is L.
+
+Q: What is the first letter of 'djibouti'?
+A: The first letter of 'djibouti' is D.
+
+Q: What is the last letter of 'chlorine'?
+A: The last letter of 'chlorine' is E.
+
+Q: What is the last letter of 'newly'?
+A: The last letter of 'newly' is Y.
+
+Q: Is 101 bigger than 320?
+A: No, 320 is bigger than 101.
+
+Q: Which is bigger, 71 or 58?
+A: 71 is bigger than 58.
+
+Q: Which is bigger, 338 or 371?
+A: 371 is bigger than 338.
+
+Q: Which is bigger, 64 or 82?
+A: 82 is bigger than 64.
+
+Q: Which is bigger, 61 or 76?
+A: 76 is bigger than 61.
+
+Q: Which is bigger, 777 or 540?
+A: 777 is bigger than 540.
+
+Q: Is 904 bigger than 777?
+A: Yes, 904 is bigger than 777.
+
+Q: Is 16 bigger than 2?
+A: Yes, 16 is bigger than 2.
+
+Q: What is double 18?
+A: Double 18 is 36.
+
+Q: What is double 7?
+A: Double 7 is 14.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is half of 38?
+A: Half of 38 is 19.
+
+Q: What is double 34?
+A: Double 34 is 68.
