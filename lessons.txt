@@ -43279,3 +43279,170 @@ A: 3 times 6 is 18.
 
 Q: What is 11 plus 12?
 A: 11 plus 12 is 23.
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What is the chemical symbol for samarium?
+A: The chemical symbol for samarium is Sm.
+
+Q: What is the chemical symbol for beryllium?
+A: The chemical symbol for beryllium is Be.
+
+Q: What is the chemical symbol for rhodium?
+A: The chemical symbol for rhodium is Rh.
+
+Q: What is the chemical symbol for scandium?
+A: The chemical symbol for scandium is Sc.
+
+Q: Which element has the chemical symbol Ar?
+A: Ar is the chemical symbol for argon.
+
+Q: Which element has the chemical symbol Au?
+A: Au is the chemical symbol for gold.
+
+Q: What is the chemical symbol for actinium?
+A: The chemical symbol for actinium is Ac.
+
+Q: What is the chemical symbol for technetium?
+A: The chemical symbol for technetium is Tc.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What number is the Roman numeral civ?
+A: The Roman numeral civ is the number 104.
+
+Q: What is the Roman numeral for 60?
+A: The Roman numeral for 60 is lx.
+
+Q: What number is the Roman numeral dcxcviii?
+A: The Roman numeral dcxcviii is the number 698.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What number is the Roman numeral ccv?
+A: The Roman numeral ccv is the number 205.
+
+Q: What is the Roman numeral for 3?
+A: The Roman numeral for 3 is iii.
+
+Q: What number is the Roman numeral liv?
+A: The Roman numeral liv is the number 54.
+
+Q: What number is the Roman numeral dcccxliii?
+A: The Roman numeral dcccxliii is the number 843.
+
+Q: What is the first letter of 'kazakhstan'?
+A: The first letter of 'kazakhstan' is K.
+
+Q: What is the first letter of 'rupee'?
+A: The first letter of 'rupee' is R.
+
+Q: What is the last letter of 'wizard'?
+A: The last letter of 'wizard' is D.
+
+Q: What is the last letter of 'with'?
+A: The last letter of 'with' is H.
+
+Q: What is the last letter of 'washington'?
+A: The last letter of 'washington' is N.
+
+Q: What is the last letter of 'greece'?
+A: The last letter of 'greece' is E.
+
+Q: What is the last letter of 'magnesium'?
+A: The last letter of 'magnesium' is M.
+
+Q: What is the first letter of 'radium'?
+A: The first letter of 'radium' is R.
+
+Q: Is 17 bigger than 6?
+A: Yes, 17 is bigger than 6.
+
+Q: Is 47 bigger than 51?
+A: No, 51 is bigger than 47.
+
+Q: Is 50 bigger than 92?
+A: No, 92 is bigger than 50.
+
+Q: Is 66 bigger than 56?
+A: Yes, 66 is bigger than 56.
+
+Q: Which is bigger, 14 or 9?
+A: 14 is bigger than 9.
+
+Q: Which is bigger, 97 or 41?
+A: 97 is bigger than 41.
+
+Q: Which is bigger, 10 or 14?
+A: 14 is bigger than 10.
+
+Q: Is 13 bigger than 5?
+A: Yes, 13 is bigger than 5.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is double 46?
+A: Double 46 is 92.
+
+Q: What is double 35?
+A: Double 35 is 70.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is double 35?
+A: Double 35 is 70.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is double 39?
+A: Double 39 is 78.
