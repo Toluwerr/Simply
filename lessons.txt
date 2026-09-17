@@ -38652,3 +38652,146 @@ A: Half of 38 is 19.
 
 Q: What is half of 34?
 A: Half of 34 is 17.
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: How many letters does the word 'actinium' have?
+A: The word 'actinium' has 8 letters.
+
+Q: How many letters does the word 'generous' have?
+A: The word 'generous' has 8 letters.
+
+Q: How many letters does the word 'wet' have?
+A: The word 'wet' has 3 letters.
+
+Q: How many letters does the word 'boron' have?
+A: The word 'boron' has 5 letters.
+
+Q: How many letters does the word 'chad' have?
+A: The word 'chad' has 4 letters.
+
+Q: How many letters does the word 'light' have?
+A: The word 'light' has 5 letters.
+
+Q: How many letters does the word 'iran' have?
+A: The word 'iran' has 4 letters.
+
+Q: How many letters does the word 'franc' have?
+A: The word 'franc' has 5 letters.
+
+Q: What is 85 plus 84?
+A: 85 plus 84 is 169.
+
+Q: What is 598 plus 829?
+A: 598 plus 829 is 1427.
+
+Q: What is 18 plus 16?
+A: 18 plus 16 is 34.
+
+Q: What is 3 times 8?
+A: 3 times 8 is 24.
+
+Q: What is 926 minus 206?
+A: 926 minus 206 is 720.
+
+Q: What is 790 minus 518?
+A: 790 minus 518 is 272.
+
+Q: What is 12 times 5?
+A: 12 times 5 is 60.
+
+Q: What is 14 times 16?
+A: 14 times 16 is 224.
+
+Q: What continent is Ukraine on?
+A: Ukraine is on the continent of Europe.
+
+Q: What continent is Bulgaria on?
+A: Bulgaria is on the continent of Europe.
+
+Q: What continent is Syria on?
+A: Syria is on the continent of Asia.
+
+Q: What continent is Sierra Leone on?
+A: Sierra Leone is on the continent of Africa.
+
+Q: What continent is Norway on?
+A: Norway is on the continent of Europe.
+
+Q: What continent is Somalia on?
+A: Somalia is on the continent of Africa.
+
+Q: What continent is Japan on?
+A: Japan is on the continent of Asia.
+
+Q: What continent is Austria on?
+A: Austria is on the continent of Europe.
+
+Q: What currency does Ecuador use?
+A: The currency of Ecuador is the dollar.
+
+Q: What currency does Uruguay use?
+A: The currency of Uruguay is the peso.
+
+Q: What currency does Ecuador use?
+A: The currency of Ecuador is the dollar.
+
+Q: What currency does the United Kingdom use?
+A: The currency of the United Kingdom is the pound.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What currency does South Africa use?
+A: The currency of South Africa is the rand.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does South Africa use?
+A: The currency of South Africa is the rand.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 50 in words?
+A: 50 in words is fifty.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 30 in words?
+A: 30 in words is thirty.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
