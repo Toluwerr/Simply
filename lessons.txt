@@ -24351,3 +24351,146 @@ A: The currency of Turkmenistan is the manat.
 
 Q: What currency does Latvia use?
 A: The currency of Latvia is the euro.
+Q: How many letters does the word 'sofia' have?
+A: The word 'sofia' has 5 letters.
+
+Q: How many letters does the word 'october' have?
+A: The word 'october' has 7 letters.
+
+Q: How many letters does the word 'senegal' have?
+A: The word 'senegal' has 7 letters.
+
+Q: How many letters does the word 'equatorial' have?
+A: The word 'equatorial' has 10 letters.
+
+Q: How many letters does the word 'learn' have?
+A: The word 'learn' has 5 letters.
+
+Q: How many letters does the word 'sweden' have?
+A: The word 'sweden' has 6 letters.
+
+Q: How many letters does the word 'niobium' have?
+A: The word 'niobium' has 7 letters.
+
+Q: How many letters does the word 'tin' have?
+A: The word 'tin' has 3 letters.
+
+Q: What is the last letter of 'kenya'?
+A: The last letter of 'kenya' is A.
+
+Q: What is the last letter of 'helium'?
+A: The last letter of 'helium' is M.
+
+Q: What is the first letter of 'equatorial'?
+A: The first letter of 'equatorial' is E.
+
+Q: What is the first letter of 'mozambique'?
+A: The first letter of 'mozambique' is M.
+
+Q: What is the last letter of 'mouse'?
+A: The last letter of 'mouse' is E.
+
+Q: What is the first letter of 'algiers'?
+A: The first letter of 'algiers' is A.
+
+Q: What is the last letter of 'bulgaria'?
+A: The last letter of 'bulgaria' is A.
+
+Q: What is the last letter of 'tashkent'?
+A: The last letter of 'tashkent' is T.
+
+Q: How do you sort 823, 682, and 219?
+A: In order, they are 219 682 823.
+
+Q: How do you sort 460, 512, and 38?
+A: In order, they are 38 460 512.
+
+Q: How do you sort 9, 16, and 21?
+A: In order, they are 9 16 21.
+
+Q: How do you sort 881, 366, and 292?
+A: In order, they are 292 366 881.
+
+Q: How do you sort 698, 787, and 395?
+A: In order, they are 395 698 787.
+
+Q: How do you sort 27, 2, and 9?
+A: In order, they are 2 9 27.
+
+Q: How do you sort 396, 846, and 769?
+A: In order, they are 396 769 846.
+
+Q: How do you sort 861, 308, and 435?
+A: In order, they are 308 435 861.
+
+Q: Which is bigger, 664 or 513?
+A: 664 is bigger than 513.
+
+Q: Which is bigger, 3 or 20?
+A: 20 is bigger than 3.
+
+Q: Is 4 bigger than 3?
+A: Yes, 4 is bigger than 3.
+
+Q: Is 149 bigger than 572?
+A: No, 572 is bigger than 149.
+
+Q: Is 607 bigger than 339?
+A: Yes, 607 is bigger than 339.
+
+Q: Which is bigger, 909 or 942?
+A: 942 is bigger than 909.
+
+Q: Is 286 bigger than 449?
+A: No, 449 is bigger than 286.
+
+Q: Which is bigger, 57 or 19?
+A: 57 is bigger than 19.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of Kiribati?
+A: The capital of Kiribati is Tarawa.
+
+Q: What is the capital of Senegal?
+A: The capital of Senegal is Dakar.
+
+Q: What is the capital of Vatican City?
+A: The capital of Vatican City is Vatican City.
+
+Q: What is the capital of Uruguay?
+A: The capital of Uruguay is Montevideo.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of Nauru?
+A: The capital of Nauru is Yaren.
