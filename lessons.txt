@@ -55037,3 +55037,170 @@ A: 82 is bigger than 54.
 
 Q: Which is bigger, 96 or 86?
 A: 96 is bigger than 86.
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 45 in words?
+A: 45 in words is forty-five.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: What currency does Trinidad and Tobago use?
+A: The currency of Trinidad and Tobago is the dollar.
+
+Q: What currency does Uganda use?
+A: The currency of Uganda is the shilling.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: What currency does Latvia use?
+A: The currency of Latvia is the euro.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What currency does Croatia use?
+A: The currency of Croatia is the euro.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: How do you sort 24, 14, and 27?
+A: In order, they are 14 24 27.
+
+Q: How do you sort 15, 29, and 13?
+A: In order, they are 13 15 29.
+
+Q: How do you sort 434, 737, and 850?
+A: In order, they are 434 737 850.
+
+Q: How do you sort 4, 5, and 23?
+A: In order, they are 4 5 23.
+
+Q: How do you sort 36, 604, and 70?
+A: In order, they are 36 70 604.
+
+Q: How do you sort 9, 24, and 27?
+A: In order, they are 9 24 27.
+
+Q: How do you sort 1, 20, and 22?
+A: In order, they are 1 20 22.
+
+Q: How do you sort 1, 9, and 11?
+A: In order, they are 1 9 11.
+
+Q: What is the first letter of 'magnesium'?
+A: The first letter of 'magnesium' is M.
+
+Q: What is the last letter of 'ulaanbaatar'?
+A: The last letter of 'ulaanbaatar' is R.
+
+Q: What is the last letter of 'hawaii'?
+A: The last letter of 'hawaii' is I.
+
+Q: What is the first letter of 'muscat'?
+A: The first letter of 'muscat' is M.
+
+Q: What is the last letter of 'riga'?
+A: The last letter of 'riga' is A.
+
+Q: What is the first letter of 'bhutan'?
+A: The first letter of 'bhutan' is B.
+
+Q: What is the last letter of 'kathmandu'?
+A: The last letter of 'kathmandu' is U.
+
+Q: What is the last letter of 'grape'?
+A: The last letter of 'grape' is E.
