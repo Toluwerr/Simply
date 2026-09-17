@@ -35790,3 +35790,170 @@ A: No, 9 is bigger than 5.
 
 Q: Is 61 bigger than 16?
 A: Yes, 61 is bigger than 16.
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What continent is Oman on?
+A: Oman is on the continent of Asia.
+
+Q: What continent is Bolivia on?
+A: Bolivia is on the continent of South America.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is the Philippines on?
+A: the Philippines is on the continent of Asia.
+
+Q: What continent is the Netherlands on?
+A: the Netherlands is on the continent of Europe.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: What continent is Paraguay on?
+A: Paraguay is on the continent of South America.
+
+Q: What continent is Bolivia on?
+A: Bolivia is on the continent of South America.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: What is the capital of Guatemala?
+A: The capital of Guatemala is Guatemala City.
+
+Q: What is the capital of Iceland?
+A: The capital of Iceland is Reykjavik.
+
+Q: What is the capital of the Comoros?
+A: The capital of the Comoros is Moroni.
+
+Q: What is the capital of Belarus?
+A: The capital of Belarus is Minsk.
+
+Q: What is the capital of Oman?
+A: The capital of Oman is Muscat.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+
+Q: What is the capital of Zambia?
+A: The capital of Zambia is Lusaka.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: How do you write 41 in words?
+A: 41 in words is forty-one.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you sort 16, 22, and 8?
+A: In order, they are 8 16 22.
+
+Q: How do you sort 9, 20, and 5?
+A: In order, they are 5 9 20.
+
+Q: How do you sort 485, 431, and 275?
+A: In order, they are 275 431 485.
+
+Q: How do you sort 19, 13, and 3?
+A: In order, they are 3 13 19.
+
+Q: How do you sort 29, 23, and 14?
+A: In order, they are 14 23 29.
+
+Q: How do you sort 444, 592, and 470?
+A: In order, they are 444 470 592.
+
+Q: How do you sort 15, 16, and 14?
+A: In order, they are 14 15 16.
+
+Q: How do you sort 5, 2, and 27?
+A: In order, they are 2 5 27.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
