@@ -35513,3 +35513,146 @@ A: The currency of Lithuania is the euro.
 
 Q: What currency does Vietnam use?
 A: The currency of Vietnam is the dong.
+Q: How many letters does the word 'nashville' have?
+A: The word 'nashville' has 9 letters.
+
+Q: How many letters does the word 'malaysia' have?
+A: The word 'malaysia' has 8 letters.
+
+Q: How many letters does the word 'nouakchott' have?
+A: The word 'nouakchott' has 10 letters.
+
+Q: How many letters does the word 'connecticut' have?
+A: The word 'connecticut' has 11 letters.
+
+Q: How many letters does the word 'guyana' have?
+A: The word 'guyana' has 6 letters.
+
+Q: How many letters does the word 'vincent' have?
+A: The word 'vincent' has 7 letters.
+
+Q: How many letters does the word 'canada' have?
+A: The word 'canada' has 6 letters.
+
+Q: How many letters does the word 'dhabi' have?
+A: The word 'dhabi' has 5 letters.
+
+Q: What is the last letter of 'moving'?
+A: The last letter of 'moving' is G.
+
+Q: What is the first letter of 'delaware'?
+A: The first letter of 'delaware' is D.
+
+Q: What is the last letter of 'wet'?
+A: The last letter of 'wet' is T.
+
+Q: What is the first letter of 'magnesium'?
+A: The first letter of 'magnesium' is M.
+
+Q: What is the last letter of 'loud'?
+A: The last letter of 'loud' is D.
+
+Q: What is the first letter of 'nevis'?
+A: The first letter of 'nevis' is N.
+
+Q: What is the last letter of 'clean'?
+A: The last letter of 'clean' is N.
+
+Q: What is the last letter of 'syria'?
+A: The last letter of 'syria' is A.
+
+Q: How do you sort 21, 1, and 7?
+A: In order, they are 1 7 21.
+
+Q: How do you sort 28, 19, and 21?
+A: In order, they are 19 21 28.
+
+Q: How do you sort 5, 11, and 8?
+A: In order, they are 5 8 11.
+
+Q: How do you sort 5, 16, and 26?
+A: In order, they are 5 16 26.
+
+Q: How do you sort 6, 21, and 17?
+A: In order, they are 6 17 21.
+
+Q: How do you sort 5, 17, and 1?
+A: In order, they are 1 5 17.
+
+Q: How do you sort 160, 959, and 690?
+A: In order, they are 160 690 959.
+
+Q: How do you sort 13, 22, and 16?
+A: In order, they are 13 16 22.
+
+Q: Which is bigger, 350 or 611?
+A: 611 is bigger than 350.
+
+Q: Which is bigger, 16 or 19?
+A: 19 is bigger than 16.
+
+Q: Which is bigger, 515 or 569?
+A: 569 is bigger than 515.
+
+Q: Is 1 bigger than 3?
+A: No, 3 is bigger than 1.
+
+Q: Is 11 bigger than 19?
+A: No, 19 is bigger than 11.
+
+Q: Which is bigger, 67 or 77?
+A: 77 is bigger than 67.
+
+Q: Which is bigger, 2 or 3?
+A: 3 is bigger than 2.
+
+Q: Is 426 bigger than 520?
+A: No, 520 is bigger than 426.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: What is the capital of Zimbabwe?
+A: The capital of Zimbabwe is Harare.
+
+Q: What is the capital of Suriname?
+A: The capital of Suriname is Paramaribo.
+
+Q: What is the capital of Taiwan?
+A: The capital of Taiwan is Taipei.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of Angola?
+A: The capital of Angola is Luanda.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is the capital of Nepal?
+A: The capital of Nepal is Kathmandu.
