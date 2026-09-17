@@ -19086,3 +19086,110 @@ A: Ir is the chemical symbol for iridium.
 
 Q: What is the chemical symbol for lanthanum?
 A: The chemical symbol for lanthanum is La.
+Q: How do you sort 397, 958, and 547?
+A: In order, they are 397 547 958.
+
+Q: How do you sort 24, 3, and 12?
+A: In order, they are 3 12 24.
+
+Q: How do you sort 883, 44, and 443?
+A: In order, they are 44 443 883.
+
+Q: How do you sort 13, 2, and 11?
+A: In order, they are 2 11 13.
+
+Q: How do you sort 10, 1, and 27?
+A: In order, they are 1 10 27.
+
+Q: How do you sort 2, 16, and 22?
+A: In order, they are 2 16 22.
+
+Q: What continent is Kuwait on?
+A: Kuwait is on the continent of Asia.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What continent is Jordan on?
+A: Jordan is on the continent of Asia.
+
+Q: What continent is Papua New Guinea on?
+A: Papua New Guinea is on the continent of Oceania.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What continent is Lebanon on?
+A: Lebanon is on the continent of Asia.
+
+Q: What number is the Roman numeral viii?
+A: The Roman numeral viii is the number 8.
+
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What is the Roman numeral for 11?
+A: The Roman numeral for 11 is xi.
+
+Q: What is the Roman numeral for 84?
+A: The Roman numeral for 84 is lxxxiv.
+
+Q: What is the Roman numeral for 310?
+A: The Roman numeral for 310 is cccx.
+
+Q: What number is the Roman numeral ix?
+A: The Roman numeral ix is the number 9.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: What currency does Taiwan use?
+A: The currency of Taiwan is the dollar.
+
+Q: What currency does Germany use?
+A: The currency of Germany is the euro.
+
+Q: What currency does Uganda use?
+A: The currency of Uganda is the shilling.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.
+
+Q: What currency does Ireland use?
+A: The currency of Ireland is the euro.
+
+Q: How many letters does the word 'antananarivo' have?
+A: The word 'antananarivo' has 12 letters.
+
+Q: How many letters does the word 'eswatini' have?
+A: The word 'eswatini' has 8 letters.
+
+Q: How many letters does the word 'thorium' have?
+A: The word 'thorium' has 7 letters.
+
+Q: How many letters does the word 'australia' have?
+A: The word 'australia' has 9 letters.
+
+Q: How many letters does the word 'strong' have?
+A: The word 'strong' has 6 letters.
+
+Q: How many letters does the word 'zealand' have?
+A: The word 'zealand' has 7 letters.
+
+Q: Which element has the chemical symbol Pr?
+A: Pr is the chemical symbol for praseodymium.
+
+Q: Which element has the chemical symbol Sm?
+A: Sm is the chemical symbol for samarium.
+
+Q: What is the chemical symbol for strontium?
+A: The chemical symbol for strontium is Sr.
+
+Q: What is the chemical symbol for palladium?
+A: The chemical symbol for palladium is Pd.
+
+Q: Which element has the chemical symbol Hg?
+A: Hg is the chemical symbol for mercury.
+
+Q: Which element has the chemical symbol Ca?
+A: Ca is the chemical symbol for calcium.
