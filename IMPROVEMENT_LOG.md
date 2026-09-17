@@ -2970,3 +2970,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.39 | weakest: arithmetic 0.00, compare 0.00, double_half 0.00 | strongest: animals 1.00, records 1.00, months 1.00
 - self-portrait, asked "Who are you?": *"I am my trained by day in a little or."
 
+## Iteration 345 - NO_GAIN
+- **when**: 2026-09-17T00:53:34Z
+- **train loss**: 1.7696 | **val loss**: 0.6606 | **run best**: 0.6484
+- **corpus**: 232,200 chars (+3 self-written examples)
+- **internet reading**: +30 articles, +17 facts (662 read all-time)
+- **lr**: 0.0015 | **steps**: 62
+- **knowledge quiz**: avg 0.30 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: opposites 1.00, animals 1.00, units 1.00
+- self-portrait, asked "Who are you?": *"Double 57 is 94."
+

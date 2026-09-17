@@ -28762,3 +28762,110 @@ A: A owl says 'hoot'.
 
 Q: What sound does a cow make?
 A: A cow says 'moo'.
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many letters does the word 'tenge' have?
+A: The word 'tenge' has 5 letters.
+
+Q: How many letters does the word 'juba' have?
+A: The word 'juba' has 4 letters.
+
+Q: How many letters does the word 'sri' have?
+A: The word 'sri' has 3 letters.
+
+Q: How many letters does the word 'conakry' have?
+A: The word 'conakry' has 7 letters.
+
+Q: How many letters does the word 'cadmium' have?
+A: The word 'cadmium' has 7 letters.
+
+Q: How many letters does the word 'oregon' have?
+A: The word 'oregon' has 6 letters.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What is 89 minus 66?
+A: 89 minus 66 is 23.
+
+Q: What is 4 plus 14?
+A: 4 plus 14 is 18.
+
+Q: What is 26 minus 12?
+A: 26 minus 12 is 14.
+
+Q: What is 678 plus 361?
+A: 678 plus 361 is 1039.
+
+Q: What is 17 minus 10?
+A: 17 minus 10 is 7.
+
+Q: What is 20 minus 11?
+A: 20 minus 11 is 9.
+
+Q: What is the last letter of 'deep'?
+A: The last letter of 'deep' is P.
+
+Q: What is the first letter of 'sturdy'?
+A: The first letter of 'sturdy' is S.
+
+Q: What is the last letter of 'closed'?
+A: The last letter of 'closed' is D.
+
+Q: What is the last letter of 'maputo'?
+A: The last letter of 'maputo' is O.
+
+Q: What is the last letter of 'benin'?
+A: The last letter of 'benin' is N.
+
+Q: What is the first letter of 'concord'?
+A: The first letter of 'concord' is C.
+
+Q: What is the Roman numeral for 7?
+A: The Roman numeral for 7 is vii.
+
+Q: What number is the Roman numeral xiii?
+A: The Roman numeral xiii is the number 13.
+
+Q: What number is the Roman numeral cdlv?
+A: The Roman numeral cdlv is the number 455.
+
+Q: What number is the Roman numeral lxv?
+A: The Roman numeral lxv is the number 65.
+
+Q: What is the Roman numeral for 95?
+A: The Roman numeral for 95 is xcv.
+
+Q: What number is the Roman numeral xciii?
+A: The Roman numeral xciii is the number 93.
