@@ -30862,3 +30862,170 @@ A: The capital of Ghana is Accra.
 
 Q: What is the capital of Ethiopia?
 A: The capital of Ethiopia is Addis Ababa.
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: Which element has the chemical symbol W?
+A: W is the chemical symbol for tungsten.
+
+Q: What is the chemical symbol for gold?
+A: The chemical symbol for gold is Au.
+
+Q: What is the chemical symbol for titanium?
+A: The chemical symbol for titanium is Ti.
+
+Q: What is the chemical symbol for cadmium?
+A: The chemical symbol for cadmium is Cd.
+
+Q: What is the chemical symbol for europium?
+A: The chemical symbol for europium is Eu.
+
+Q: What is the chemical symbol for thulium?
+A: The chemical symbol for thulium is Tm.
+
+Q: What is the chemical symbol for oxygen?
+A: The chemical symbol for oxygen is O.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the Roman numeral for 13?
+A: The Roman numeral for 13 is xiii.
+
+Q: What number is the Roman numeral xiii?
+A: The Roman numeral xiii is the number 13.
+
+Q: What is the Roman numeral for 476?
+A: The Roman numeral for 476 is cdlxxvi.
+
+Q: What is the Roman numeral for 79?
+A: The Roman numeral for 79 is lxxix.
+
+Q: What is the Roman numeral for 6?
+A: The Roman numeral for 6 is vi.
+
+Q: What is the Roman numeral for 27?
+A: The Roman numeral for 27 is xxvii.
+
+Q: What is the Roman numeral for 353?
+A: The Roman numeral for 353 is cccliii.
+
+Q: What number is the Roman numeral dxl?
+A: The Roman numeral dxl is the number 540.
+
+Q: What is the last letter of 'tehran'?
+A: The last letter of 'tehran' is N.
+
+Q: What is the first letter of 'potassium'?
+A: The first letter of 'potassium' is P.
+
+Q: What is the first letter of 'titanium'?
+A: The first letter of 'titanium' is T.
+
+Q: What is the first letter of 'sri'?
+A: The first letter of 'sri' is S.
+
+Q: What is the first letter of 'apia'?
+A: The first letter of 'apia' is A.
+
+Q: What is the first letter of 'papua'?
+A: The first letter of 'papua' is P.
+
+Q: What is the last letter of 'neodymium'?
+A: The last letter of 'neodymium' is M.
+
+Q: What is the first letter of 'nevada'?
+A: The first letter of 'nevada' is N.
+
+Q: Which is bigger, 556 or 997?
+A: 997 is bigger than 556.
+
+Q: Which is bigger, 68 or 69?
+A: 69 is bigger than 68.
+
+Q: Which is bigger, 20 or 15?
+A: 20 is bigger than 15.
+
+Q: Is 904 bigger than 520?
+A: Yes, 904 is bigger than 520.
+
+Q: Which is bigger, 257 or 950?
+A: 950 is bigger than 257.
+
+Q: Which is bigger, 571 or 119?
+A: 571 is bigger than 119.
+
+Q: Is 93 bigger than 23?
+A: Yes, 93 is bigger than 23.
+
+Q: Which is bigger, 192 or 341?
+A: 341 is bigger than 192.
+
+Q: What is double 32?
+A: Double 32 is 64.
+
+Q: What is half of 20?
+A: Half of 20 is 10.
+
+Q: What is double 26?
+A: Double 26 is 52.
+
+Q: What is double 9?
+A: Double 9 is 18.
+
+Q: What is half of 36?
+A: Half of 36 is 18.
+
+Q: What is double 14?
+A: Double 14 is 28.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is half of 20?
+A: Half of 20 is 10.
