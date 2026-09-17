@@ -27833,3 +27833,146 @@ A: Double 18 is 36.
 
 Q: What is half of 14?
 A: Half of 14 is 7.
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: How many letters does the word 'costa' have?
+A: The word 'costa' has 5 letters.
+
+Q: How many letters does the word 'bucharest' have?
+A: The word 'bucharest' has 9 letters.
+
+Q: How many letters does the word 'bratislava' have?
+A: The word 'bratislava' has 10 letters.
+
+Q: How many letters does the word 'january' have?
+A: The word 'january' has 7 letters.
+
+Q: How many letters does the word 'mouse' have?
+A: The word 'mouse' has 5 letters.
+
+Q: How many letters does the word 'raven' have?
+A: The word 'raven' has 5 letters.
+
+Q: How many letters does the word 'rock' have?
+A: The word 'rock' has 4 letters.
+
+Q: How many letters does the word 'arsenic' have?
+A: The word 'arsenic' has 7 letters.
+
+Q: What is 12 times 3?
+A: 12 times 3 is 36.
+
+Q: What is 208 plus 18?
+A: 208 plus 18 is 226.
+
+Q: What is 20 minus 10?
+A: 20 minus 10 is 10.
+
+Q: What is 940 minus 568?
+A: 940 minus 568 is 372.
+
+Q: What is 558 plus 762?
+A: 558 plus 762 is 1320.
+
+Q: What is 37 plus 73?
+A: 37 plus 73 is 110.
+
+Q: What is 14 times 14?
+A: 14 times 14 is 196.
+
+Q: What is 6 times 5?
+A: 6 times 5 is 30.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What continent is Mauritania on?
+A: Mauritania is on the continent of Africa.
+
+Q: What continent is Zimbabwe on?
+A: Zimbabwe is on the continent of Africa.
+
+Q: What continent is Cyprus on?
+A: Cyprus is on the continent of Asia.
+
+Q: What continent is Tunisia on?
+A: Tunisia is on the continent of Africa.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: What continent is Iraq on?
+A: Iraq is on the continent of Asia.
+
+Q: What continent is Benin on?
+A: Benin is on the continent of Africa.
+
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
+
+Q: What currency does Bulgaria use?
+A: The currency of Bulgaria is the lev.
+
+Q: What currency does Senegal use?
+A: The currency of Senegal is the franc.
+
+Q: What currency does South Africa use?
+A: The currency of South Africa is the rand.
+
+Q: What currency does Estonia use?
+A: The currency of Estonia is the euro.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does Uruguay use?
+A: The currency of Uruguay is the peso.
+
+Q: What currency does Israel use?
+A: The currency of Israel is the shekel.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 67 in words?
+A: 67 in words is sixty-seven.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 15 in words?
+A: 15 in words is fifteen.
+
+Q: How do you write 6 in words?
+A: 6 in words is six.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
