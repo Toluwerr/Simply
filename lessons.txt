@@ -44066,3 +44066,170 @@ A: The last letter of 'virginia' is A.
 
 Q: What is the first letter of 'principe'?
 A: The first letter of 'principe' is P.
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: How do you sort 23, 12, and 27?
+A: In order, they are 12 23 27.
+
+Q: How do you sort 17, 24, and 16?
+A: In order, they are 16 17 24.
+
+Q: How do you sort 9, 21, and 4?
+A: In order, they are 4 9 21.
+
+Q: How do you sort 280, 798, and 121?
+A: In order, they are 121 280 798.
+
+Q: How do you sort 19, 2, and 16?
+A: In order, they are 2 16 19.
+
+Q: How do you sort 455, 934, and 737?
+A: In order, they are 455 737 934.
+
+Q: How do you sort 6, 13, and 11?
+A: In order, they are 6 11 13.
+
+Q: How do you sort 14, 16, and 13?
+A: In order, they are 13 14 16.
+
+Q: What is the first letter of 'september'?
+A: The first letter of 'september' is S.
+
+Q: What is the first letter of 'dakota'?
+A: The first letter of 'dakota' is D.
+
+Q: What is the first letter of 'plutonium'?
+A: The first letter of 'plutonium' is P.
+
+Q: What is the last letter of 'indiana'?
+A: The last letter of 'indiana' is A.
+
+Q: What is the first letter of 'jamaica'?
+A: The first letter of 'jamaica' is J.
+
+Q: What is the last letter of 'kyiv'?
+A: The last letter of 'kyiv' is V.
+
+Q: What is the last letter of 'augusta'?
+A: The last letter of 'augusta' is A.
+
+Q: What is the last letter of 'bogota'?
+A: The last letter of 'bogota' is A.
+
+Q: What continent is Belgium on?
+A: Belgium is on the continent of Europe.
+
+Q: What continent is Lesotho on?
+A: Lesotho is on the continent of Africa.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Lebanon on?
+A: Lebanon is on the continent of Asia.
+
+Q: What continent is Argentina on?
+A: Argentina is on the continent of South America.
+
+Q: What continent is South Korea on?
+A: South Korea is on the continent of Asia.
+
+Q: What continent is Australia on?
+A: Australia is on the continent of Australia.
+
+Q: What continent is Namibia on?
+A: Namibia is on the continent of Africa.
+
+Q: What is the capital of Lesotho?
+A: The capital of Lesotho is Maseru.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is the capital of Poland?
+A: The capital of Poland is Warsaw.
+
+Q: What is the capital of Micronesia?
+A: The capital of Micronesia is Palikir.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of Serbia?
+A: The capital of Serbia is Belgrade.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What is the capital of Tunisia?
+A: The capital of Tunisia is Tunis.
+
+Q: Can you count by fives from 35 to 60?
+A: Counting by fives gives 35 40 45 50 55 60.
+
+Q: Can you count by twos from 18 to 28?
+A: Counting by twos gives 18 20 22 24 26 28.
+
+Q: Can you count by twos from 4 to 14?
+A: Counting by twos gives 4 6 8 10 12 14.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 45.
+
+Q: Can you count by twos from 10 to 20?
+A: Counting by twos gives 10 12 14 16 18 20.
+
+Q: Can you count by fives from 20 to 45?
+A: Counting by fives gives 20 25 30 35 40 45.
+
+Q: Can you count by fives from 5 to 30?
+A: Counting by fives gives 5 10 15 20 25 30.
+
+Q: Can you count by twos from 14 to 20?
+A: Counting by twos gives 14 16 18 20.
+
+Q: Is 32 bigger than 36?
+A: No, 36 is bigger than 32.
+
+Q: Is 48 bigger than 17?
+A: Yes, 48 is bigger than 17.
+
+Q: Which is bigger, 244 or 729?
+A: 729 is bigger than 244.
+
+Q: Is 7 bigger than 19?
+A: No, 19 is bigger than 7.
+
+Q: Is 110 bigger than 123?
+A: No, 123 is bigger than 110.
+
+Q: Is 498 bigger than 492?
+A: Yes, 498 is bigger than 492.
+
+Q: Which is bigger, 890 or 324?
+A: 890 is bigger than 324.
+
+Q: Is 4 bigger than 9?
+A: No, 9 is bigger than 4.

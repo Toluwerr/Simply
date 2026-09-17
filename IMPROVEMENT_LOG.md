@@ -6843,3 +6843,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"11 is bigger than 12 is bigger than 72."
 
+## Iteration 762 - NO_GAIN
+- **when**: 2026-09-17T16:45:49Z
+- **train loss**: 2.4936 | **val loss**: 1.3881 | **run best**: 1.3153
+- **corpus**: 284,554 chars (+0 self-written examples)
+- **internet reading**: +59 articles, +24 facts (2,918 read all-time)
+- **lr**: 0.0003 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"91 33 in words is bigger than 179 is bigger than 14?"
+
