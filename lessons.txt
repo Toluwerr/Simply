@@ -60642,3 +60642,146 @@ A: The currency of Finland is the euro.
 
 Q: What currency does the Czech Republic use?
 A: The currency of the Czech Republic is the koruna.
+Q: How many letters does the word 'australia' have?
+A: The word 'australia' has 9 letters.
+
+Q: How many letters does the word 'still' have?
+A: The word 'still' has 5 letters.
+
+Q: How many letters does the word 'boston' have?
+A: The word 'boston' has 6 letters.
+
+Q: How many letters does the word 'fast' have?
+A: The word 'fast' has 4 letters.
+
+Q: How many letters does the word 'dominican' have?
+A: The word 'dominican' has 9 letters.
+
+Q: How many letters does the word 'sanaa' have?
+A: The word 'sanaa' has 5 letters.
+
+Q: How many letters does the word 'namibia' have?
+A: The word 'namibia' has 7 letters.
+
+Q: How many letters does the word 'magnesium' have?
+A: The word 'magnesium' has 9 letters.
+
+Q: What is the first letter of 'wide'?
+A: The first letter of 'wide' is W.
+
+Q: What is the last letter of 'december'?
+A: The last letter of 'december' is R.
+
+Q: What is the first letter of 'germany'?
+A: The first letter of 'germany' is G.
+
+Q: What is the last letter of 'belarus'?
+A: The last letter of 'belarus' is S.
+
+Q: What is the first letter of 'cold'?
+A: The first letter of 'cold' is C.
+
+Q: What is the first letter of 'far'?
+A: The first letter of 'far' is F.
+
+Q: What is the last letter of 'vaduz'?
+A: The last letter of 'vaduz' is Z.
+
+Q: What is the first letter of 'belize'?
+A: The first letter of 'belize' is B.
+
+Q: How do you sort 87, 940, and 736?
+A: In order, they are 87 736 940.
+
+Q: How do you sort 542, 272, and 241?
+A: In order, they are 241 272 542.
+
+Q: How do you sort 23, 7, and 25?
+A: In order, they are 7 23 25.
+
+Q: How do you sort 555, 92, and 857?
+A: In order, they are 92 555 857.
+
+Q: How do you sort 781, 323, and 686?
+A: In order, they are 323 686 781.
+
+Q: How do you sort 221, 156, and 33?
+A: In order, they are 33 156 221.
+
+Q: How do you sort 180, 297, and 460?
+A: In order, they are 180 297 460.
+
+Q: How do you sort 19, 2, and 1?
+A: In order, they are 1 2 19.
+
+Q: Which is bigger, 73 or 99?
+A: 99 is bigger than 73.
+
+Q: Is 93 bigger than 10?
+A: Yes, 93 is bigger than 10.
+
+Q: Is 18 bigger than 5?
+A: Yes, 18 is bigger than 5.
+
+Q: Which is bigger, 559 or 946?
+A: 946 is bigger than 559.
+
+Q: Is 2 bigger than 1?
+A: Yes, 2 is bigger than 1.
+
+Q: Is 685 bigger than 317?
+A: Yes, 685 is bigger than 317.
+
+Q: Which is bigger, 86 or 63?
+A: 86 is bigger than 63.
+
+Q: Which is bigger, 611 or 218?
+A: 611 is bigger than 218.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+
+Q: What is the capital of Lithuania?
+A: The capital of Lithuania is Vilnius.
+
+Q: What is the capital of Sweden?
+A: The capital of Sweden is Stockholm.
+
+Q: What is the capital of Tajikistan?
+A: The capital of Tajikistan is Dushanbe.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Yemen?
+A: The capital of Yemen is Sanaa.
+
+Q: What is the capital of Afghanistan?
+A: The capital of Afghanistan is Kabul.

@@ -4711,3 +4711,48 @@ A: Axiom Space, Inc., is an American privately funded space infrastructure devel
 
 Q: What is Ghaffarian?
 A: Ghaffarian is an engineer and entrepreneur who sold his company, Stinger Ghaffarian Technologies, Inc., a large NASA contractor, to KBR in 2018.
+
+Q: What is Alfresco Software?
+A: Alfresco Software is a collection of information management software products for Microsoft Windows.
+
+Q: What is Anubis?
+A: Anubis is an open source software program that adds a proof of work challenge to websites before users can access them in order to deter web scraping.
+
+Q: What is Open Source Ecology?
+A: Open Source Ecology is a network of farmers, engineers, architects and supporters.
+
+Q: What is Software as a service?
+A: Software as a service is a cloud computing service model in which a provider delivers application software to clients while managing the required phys.
+
+Q: What is Christopher Reaves Messina?
+A: Christopher Reaves Messina is an American blogger.
+
+Q: What is Keep Android Open?
+A: Keep Android Open is a campaign launched in October 2025 to oppose a Google policy requiring all Android app developers to register their identities w.
+
+Q: What is InnerSource?
+A: InnerSource is the use of open source software development best practices.
+
+Q: What is Angels Cry?
+A: Angels Cry is a song by American singer-songwriter Mariah Carey from her twelfth studio album, Memoirs of an Imperfect Angel .
+
+Q: What is Sasho Cirovski?
+A: Sasho Cirovski is a Macedonian-Canadian soccer coach of the University of Maryland.
+
+Q: What is Laurel Run Rockshelter?
+A: Laurel Run Rockshelter is a historic archaeological site located near Coe, Webster County, West Virginia.
+
+Q: What is Biddulph Town Hall?
+A: Biddulph Town Hall is a municipal building in the High Street in Biddulph, a town in Staffordshire, in England.
+
+Q: What is Saa?
+A: Saa is an Oceanic language spoken on Small Malaita and Ulawa Island in the Solomon Islands.
+
+Q: What is Thomas Dodd?
+A: Thomas Dodd is an English auctioneer and printseller.
+
+Q: What is Sod's law?
+A: Sod's law is a British culture axiom that states that if something can go wrong, it will.
+
+Q: What is Eroom's law?
+A: Eroom's law is the observation that drug discovery is becoming slower and more expensive over time.

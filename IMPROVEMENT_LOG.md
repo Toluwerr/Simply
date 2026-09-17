@@ -7799,3 +7799,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Counteep is the capital of the Romter of E."
 
+## Iteration 866 - IMPROVED
+- **when**: 2026-09-17T19:52:55Z
+- **train loss**: 1.5166 | **val loss**: 1.2303 | **run best**: 1.2303
+- **corpus**: 285,448 chars (+0 self-written examples)
+- **internet reading**: +40 articles, +15 facts (3,488 read all-time)
+- **lr**: 0.0003 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"emical symbol for do ytters do ytters does a does a cow."
+
