@@ -26335,3 +26335,110 @@ A: 72 in words is seventy-two.
 
 Q: How do you write 97 in words?
 A: 97 in words is ninety-seven.
+Q: How many letters does the word 'trinidad' have?
+A: The word 'trinidad' has 8 letters.
+
+Q: How many letters does the word 'austin' have?
+A: The word 'austin' has 6 letters.
+
+Q: How many letters does the word 'arab' have?
+A: The word 'arab' has 4 letters.
+
+Q: How many letters does the word 'active' have?
+A: The word 'active' has 6 letters.
+
+Q: How many letters does the word 'faso' have?
+A: The word 'faso' has 4 letters.
+
+Q: How many letters does the word 'able' have?
+A: The word 'able' has 4 letters.
+
+Q: What is the first letter of 'seoul'?
+A: The first letter of 'seoul' is S.
+
+Q: What is the first letter of 'nebraska'?
+A: The first letter of 'nebraska' is N.
+
+Q: What is the last letter of 'gallium'?
+A: The last letter of 'gallium' is M.
+
+Q: What is the first letter of 'antananarivo'?
+A: The first letter of 'antananarivo' is A.
+
+Q: What is the first letter of 'bread'?
+A: The first letter of 'bread' is B.
+
+Q: What is the first letter of 'lempira'?
+A: The first letter of 'lempira' is L.
+
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What currency does the Czech Republic use?
+A: The currency of the Czech Republic is the koruna.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does Kuwait use?
+A: The currency of Kuwait is the dinar.
+
+Q: What currency does Botswana use?
+A: The currency of Botswana is the pula.
+
+Q: What currency does Austria use?
+A: The currency of Austria is the euro.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: What is 15 minus 9?
+A: 15 minus 9 is 6.
+
+Q: What is 689 minus 292?
+A: 689 minus 292 is 397.
+
+Q: What is 772 minus 595?
+A: 772 minus 595 is 177.
+
+Q: What is 4 times 6?
+A: 4 times 6 is 24.
+
+Q: What is 887 plus 809?
+A: 887 plus 809 is 1696.
+
+Q: What is 12 times 11?
+A: 12 times 11 is 132.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.

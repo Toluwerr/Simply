@@ -859,3 +859,72 @@ A: Energy independence is the ability of a country to exercise independence or a
 
 Q: What is Christopher Allen Wright?
 A: Christopher Allen Wright is an American businessman and government official serving as the 17th United States secretary of energy since February 2025.
+
+Q: What is Julia?
+A: Julia is a dynamic general-purpose programming language.
+
+Q: What is Cangjie?
+A: Cangjie is a high-level, statically typed, general-purpose, multi-paradigm.
+
+Q: What is Racket?
+A: Racket is a general-purpose, multi-paradigm programming language.
+
+Q: What is For example, Python?
+A: For example, Python is a GPL, while SQL is a DSL for querying relational databases.
+
+Q: What is Luau?
+A: Luau is an open-source scripting language derived from Lua 5.1.
+
+Q: What is Dart?
+A: Dart is a programming language designed by Lars Bak and Kasper Lund and developed by Google.
+
+Q: What is Karel?
+A: Karel is an educational programming language for beginners, created by Richard E.
+
+Q: What is Catherine Amusugut?
+A: Catherine Amusugut is a Ugandan geologist and corporate executive, who serves as a Geoscience Manager at the Uganda National Oil Company.
+
+Q: What is Kirovo?
+A: Kirovo is a rural locality in Rassvetovsky Selsoviet, Davlekanovsky District, Bashkortostan, Russia.
+
+Q: What is Komsomolsky?
+A: Komsomolsky is the nearest rural locality.
+
+Q: What is Hardyville?
+A: Hardyville is a small unincorporated community and census-designated place in Hart County, Kentucky, United States.
+
+Q: What is Kinderkl?
+A: Kinderkl is a rural locality in Kukmara District, Tatarstan.
+
+Q: What is Manifold Data Mining Inc.?
+A: Manifold Data Mining Inc. is a Canadian company specializing in consumer data products, analytics, and predictive modeling.
+
+Q: What is Manifold?
+A: Manifold is a partner of Vividata and Numeris, and models their survey responses down to the 6-digit postal...
+
+Q: What is Matt Casamassina?
+A: Matt Casamassina is a video game journalist, businessman, and novelist, and a founding editor of IGN.
+
+Q: What is Brbara Catherine Figueroa Sandoval?
+A: Brbara Catherine Figueroa Sandoval is a Chilean psychologist, philosophy professor, trade unionist and politician.
+
+Q: What is Choeradoplana banga?
+A: Choeradoplana banga is a species of land planarian belonging to the subfamily Geoplaninae.
+
+Q: What is Megasoma gyas?
+A: Megasoma gyas is a species of large Neotropical rhinoceros beetles.
+
+Q: What is Szwadron?
+A: Szwadron is a Polish historical film directed by Juliusz Machulski.
+
+Q: What is Cavalry Museum?
+A: Cavalry Museum is a museum located on Fort Riley in Fort Riley, Kansas, United States.
+
+Q: What is Fayetteville Confederate Cemetery?
+A: Fayetteville Confederate Cemetery is a cemetery for soldiers of the Confederate States located on the eastern side of Fayetteville in Washington Count.
+
+Q: What is Odabakht?
+A: Odabakht is a 3rd-century Sasanian prince.
+
+Q: What is Odabakht's mother?
+A: Odabakht's mother is a queen named Denag.
