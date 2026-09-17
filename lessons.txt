@@ -60952,3 +60952,146 @@ A: Half of 32 is 16.
 
 Q: What is double 29?
 A: Double 29 is 58.
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: How many letters does the word 'lithium' have?
+A: The word 'lithium' has 7 letters.
+
+Q: How many letters does the word 'boston' have?
+A: The word 'boston' has 6 letters.
+
+Q: How many letters does the word 'oregon' have?
+A: The word 'oregon' has 6 letters.
+
+Q: How many letters does the word 'malabo' have?
+A: The word 'malabo' has 6 letters.
+
+Q: How many letters does the word 'samoa' have?
+A: The word 'samoa' has 5 letters.
+
+Q: How many letters does the word 'frankfort' have?
+A: The word 'frankfort' has 9 letters.
+
+Q: How many letters does the word 'deep' have?
+A: The word 'deep' has 4 letters.
+
+Q: How many letters does the word 'ringgit' have?
+A: The word 'ringgit' has 7 letters.
+
+Q: What is 3 minus 2?
+A: 3 minus 2 is 1.
+
+Q: What is 843 minus 157?
+A: 843 minus 157 is 686.
+
+Q: What is 788 minus 491?
+A: 788 minus 491 is 297.
+
+Q: What is 757 minus 230?
+A: 757 minus 230 is 527.
+
+Q: What is 464 minus 374?
+A: 464 minus 374 is 90.
+
+Q: What is 11 times 17?
+A: 11 times 17 is 187.
+
+Q: What is 18 plus 14?
+A: 18 plus 14 is 32.
+
+Q: What is 7 plus 7?
+A: 7 plus 7 is 14.
+
+Q: What continent is Myanmar on?
+A: Myanmar is on the continent of Asia.
+
+Q: What continent is Tunisia on?
+A: Tunisia is on the continent of Africa.
+
+Q: What continent is Laos on?
+A: Laos is on the continent of Asia.
+
+Q: What continent is Greece on?
+A: Greece is on the continent of Europe.
+
+Q: What continent is Burkina Faso on?
+A: Burkina Faso is on the continent of Africa.
+
+Q: What continent is the Czech Republic on?
+A: the Czech Republic is on the continent of Europe.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
+
+Q: What continent is Vietnam on?
+A: Vietnam is on the continent of Asia.
+
+Q: What currency does Romania use?
+A: The currency of Romania is the leu.
+
+Q: What currency does Egypt use?
+A: The currency of Egypt is the pound.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
+
+Q: What currency does Jordan use?
+A: The currency of Jordan is the dinar.
+
+Q: What currency does Slovakia use?
+A: The currency of Slovakia is the euro.
+
+Q: What currency does Thailand use?
+A: The currency of Thailand is the baht.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: How do you write 55 in words?
+A: 55 in words is fifty-five.
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
