@@ -3091,3 +3091,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.48 | weakest: arithmetic 0.00, compare 0.00, double_half 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am ris ris ris."
 
+## Iteration 358 - NO_GAIN
+- **when**: 2026-09-17T01:15:19Z
+- **train loss**: 1.4148 | **val loss**: 0.5791 | **run best**: 0.5780
+- **corpus**: 242,086 chars (+22 self-written examples)
+- **internet reading**: +30 articles, +21 facts (692 read all-time)
+- **lr**: 0.0004 | **steps**: 55
+- **knowledge quiz**: avg 0.39 | weakest: arithmetic 0.00, compare 0.00, double_half 0.00 | strongest: opposites 1.00, animals 1.00, records 1.00
+- self-portrait, asked "Who are you?": *"I am was write sing!"
+

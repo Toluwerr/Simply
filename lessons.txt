@@ -30261,3 +30261,110 @@ A: Counting by fives gives 15 20 25 30 35 40.
 
 Q: Can you count by fives from 20 to 45?
 A: Counting by fives gives 20 25 30 35 40 45.
+Q: What is the capital of Kazakhstan?
+A: The capital of Kazakhstan is Astana.
+
+Q: What is the capital of Vietnam?
+A: The capital of Vietnam is Hanoi.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+
+Q: What is the capital of Panama?
+A: The capital of Panama is Panama City.
+
+Q: What is the capital of Croatia?
+A: The capital of Croatia is Zagreb.
+
+Q: What is the capital of Uganda?
+A: The capital of Uganda is Kampala.
+
+Q: What currency does Mongolia use?
+A: The currency of Mongolia is the tugrik.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Estonia use?
+A: The currency of Estonia is the euro.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Argentina use?
+A: The currency of Argentina is the peso.
+
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
+
+Q: What is half of 52?
+A: Half of 52 is 26.
+
+Q: What is double 5?
+A: Double 5 is 10.
+
+Q: What is double 8?
+A: Double 8 is 16.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is half of 12?
+A: Half of 12 is 6.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: Is 379 bigger than 498?
+A: No, 498 is bigger than 379.
+
+Q: Which is bigger, 930 or 903?
+A: 930 is bigger than 903.
+
+Q: Which is bigger, 570 or 863?
+A: 863 is bigger than 570.
+
+Q: Which is bigger, 16 or 18?
+A: 18 is bigger than 16.
+
+Q: Which is bigger, 57 or 36?
+A: 57 is bigger than 36.
+
+Q: Is 342 bigger than 919?
+A: No, 919 is bigger than 342.
+
+Q: How many letters does the word 'taka' have?
+A: The word 'taka' has 4 letters.
+
+Q: How many letters does the word 'bissau' have?
+A: The word 'bissau' has 6 letters.
+
+Q: How many letters does the word 'paanga' have?
+A: The word 'paanga' has 6 letters.
+
+Q: How many letters does the word 'roar' have?
+A: The word 'roar' has 4 letters.
+
+Q: How many letters does the word 'baku' have?
+A: The word 'baku' has 4 letters.
+
+Q: How many letters does the word 'iron' have?
+A: The word 'iron' has 4 letters.
+
+Q: What is 79 plus 17?
+A: 79 plus 17 is 96.
+
+Q: What is 10 plus 12?
+A: 10 plus 12 is 22.
+
+Q: What is 729 minus 631?
+A: 729 minus 631 is 98.
+
+Q: What is 96 minus 93?
+A: 96 minus 93 is 3.
+
+Q: What is 8 minus 6?
+A: 8 minus 6 is 2.
+
+Q: What is 3 times 3?
+A: 3 times 3 is 9.
