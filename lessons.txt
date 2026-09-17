@@ -39797,3 +39797,146 @@ A: 'hollow' means empty inside.
 
 Q: What does 'cautious' mean?
 A: 'cautious' means careful and watchful.
+Q: What is 736 minus 235?
+A: 736 minus 235 is 501.
+
+Q: What is 48 minus 22?
+A: 48 minus 22 is 26.
+
+Q: What is 20 minus 17?
+A: 20 minus 17 is 3.
+
+Q: What is 3 times 4?
+A: 3 times 4 is 12.
+
+Q: What is 759 plus 363?
+A: 759 plus 363 is 1122.
+
+Q: What is 3 times 2?
+A: 3 times 2 is 6.
+
+Q: What is 6 times 6?
+A: 6 times 6 is 36.
+
+Q: What is 3 times 7?
+A: 3 times 7 is 21.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: Can you count by fives from 35 to 60?
+A: Counting by fives gives 35 40 45 50 55 60.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by fives from 15 to 40?
+A: Counting by fives gives 15 20 25 30 35 40.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by ones from 3 to 7?
+A: Counting by ones gives 3 4 5 6 7.
+
+Q: Can you count by ones from 36 to 38?
+A: Counting by ones gives 36 37 38.
+
+Q: Can you count by ones from 18 to 22?
+A: Counting by ones gives 18 19 20 21 22.
+
+Q: What is double 2?
+A: Double 2 is 4.
+
+Q: What is half of 38?
+A: Half of 38 is 19.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is half of 14?
+A: Half of 14 is 7.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is double 30?
+A: Double 30 is 60.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What currency does Canada use?
+A: The currency of Canada is the dollar.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Latvia use?
+A: The currency of Latvia is the euro.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: What currency does Japan use?
+A: The currency of Japan is the yen.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
