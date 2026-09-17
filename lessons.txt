@@ -33047,3 +33047,170 @@ A: The currency of Honduras is the lempira.
 
 Q: What currency does Cameroon use?
 A: The currency of Cameroon is the franc.
+Q: How many letters does the word 'sound' have?
+A: The word 'sound' has 5 letters.
+
+Q: How many letters does the word 'monaco' have?
+A: The word 'monaco' has 6 letters.
+
+Q: How many letters does the word 'pound' have?
+A: The word 'pound' has 5 letters.
+
+Q: How many letters does the word 'cow' have?
+A: The word 'cow' has 3 letters.
+
+Q: How many letters does the word 'albany' have?
+A: The word 'albany' has 6 letters.
+
+Q: How many letters does the word 'topeka' have?
+A: The word 'topeka' has 6 letters.
+
+Q: How many letters does the word 'mercury' have?
+A: The word 'mercury' has 7 letters.
+
+Q: How many letters does the word 'frog' have?
+A: The word 'frog' has 4 letters.
+
+Q: How do you sort 140, 963, and 472?
+A: In order, they are 140 472 963.
+
+Q: How do you sort 516, 527, and 631?
+A: In order, they are 516 527 631.
+
+Q: How do you sort 623, 141, and 85?
+A: In order, they are 85 141 623.
+
+Q: How do you sort 9, 22, and 6?
+A: In order, they are 6 9 22.
+
+Q: How do you sort 16, 5, and 1?
+A: In order, they are 1 5 16.
+
+Q: How do you sort 2, 4, and 21?
+A: In order, they are 2 4 21.
+
+Q: How do you sort 384, 299, and 780?
+A: In order, they are 299 384 780.
+
+Q: How do you sort 18, 10, and 20?
+A: In order, they are 10 18 20.
+
+Q: Which is bigger, 847 or 108?
+A: 847 is bigger than 108.
+
+Q: Is 6 bigger than 11?
+A: No, 11 is bigger than 6.
+
+Q: Which is bigger, 1 or 9?
+A: 9 is bigger than 1.
+
+Q: Which is bigger, 681 or 592?
+A: 681 is bigger than 592.
+
+Q: Which is bigger, 1 or 20?
+A: 20 is bigger than 1.
+
+Q: Is 98 bigger than 15?
+A: Yes, 98 is bigger than 15.
+
+Q: Is 14 bigger than 5?
+A: Yes, 14 is bigger than 5.
+
+Q: Which is bigger, 620 or 730?
+A: 730 is bigger than 620.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: What is the capital of Saint Vincent and the Grenadines?
+A: The capital of Saint Vincent and the Grenadines is Kingstown.
+
+Q: What is the capital of Malawi?
+A: The capital of Malawi is Lilongwe.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of the Central African Republic?
+A: The capital of the Central African Republic is Bangui.
+
+Q: What is the capital of Vanuatu?
+A: The capital of Vanuatu is Port Vila.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is the capital of Libya?
+A: The capital of Libya is Tripoli.
+
+Q: What is the capital of Palau?
+A: The capital of Palau is Ngerulmud.
+
+Q: What is 11 times 7?
+A: 11 times 7 is 77.
+
+Q: What is 987 minus 423?
+A: 987 minus 423 is 564.
+
+Q: What is 96 plus 17?
+A: 96 plus 17 is 113.
+
+Q: What is 42 plus 46?
+A: 42 plus 46 is 88.
+
+Q: What is 11 times 7?
+A: 11 times 7 is 77.
+
+Q: What is 18 plus 18?
+A: 18 plus 18 is 36.
+
+Q: What is 8 plus 13?
+A: 8 plus 13 is 21.
+
+Q: What is 7 times 5?
+A: 7 times 5 is 35.
+
+Q: How many oceans are there?
+A: There are 5 oceans.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: How many continents are there?
+A: There are 7 continents.

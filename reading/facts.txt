@@ -3496,3 +3496,75 @@ A: Apocalypto is a 2006 epic historical action-adventure film produced and direc
 
 Q: What is Protohistory?
 A: Protohistory is the period between prehistory and written history, during which a culture or civilization has not yet developed writing.
+
+Q: What is Rare Objects?
+A: Rare Objects is a 2016 historical fiction novel by American author Kathleen Tessaro.
+
+Q: What is Ranheim Fotball?
+A: Ranheim Fotball is a Norwegian football club from Ranheim in Trondheim that currently plays in 1.
+
+Q: What is Ranheim?
+A: Ranheim is the football department of Ranheim IL.
+
+Q: What is Honj?
+A: Honj is a village located in Minamiamabe District, ita Prefecture, Japan.
+
+Q: What is Janet Turk Wittes?
+A: Janet Turk Wittes is an American biostatistician and entrepreneur, known for her work on statistical issues in clinical trials.
+
+Q: What is John Harold Sherf?
+A: John Harold Sherf is an American ice hockey player.
+
+Q: What is Socket M?
+A: Socket M is a CPU socket introduced by Intel in 2006.
+
+Q: What is Patricia Josephine Smith?
+A: Patricia Josephine Smith is an Australian international lawn bowler.
+
+Q: What is Walter John Plimmer Sr.?
+A: Walter John Plimmer Sr. is an English theatrical producer, owner, and agent.
+
+Q: What is Folsomdale?
+A: Folsomdale is an unincorporated community in Graves County, Kentucky, United States.
+
+Q: What is Recorded as Charles, he?
+A: Recorded as Charles, he is the son of jockey Carlos Lopez, Sr.
+
+Q: What is Tokyo once?
+A: Tokyo once is a city with low buildings and packed with single family homes.
+
+Q: What is Expressionist architecture?
+A: Expressionist architecture is an architectural movement in Europe during the first decades of the 20th century in parallel with the expressionist visu.
+
+Q: What is Forensic Architecture?
+A: Forensic Architecture is a multidisciplinary research group based at Goldsmiths.
+
+Q: What is Kuwaiti architecture?
+A: Kuwaiti architecture is a style of architecture unique to Kuwait, a country founded in the early 18th century.
+
+Q: What is Lego Architecture?
+A: Lego Architecture is a Lego theme that aims to celebrate the past, present and future of architecture through the Lego Brick.
+
+Q: What is ARM?
+A: ARM is a family of RISC instruction set architectures for computer processors.
+
+Q: What is Lambda architecture?
+A: Lambda architecture is a data-processing architecture designed to handle massive quantities of data by taking advantage of both batch.
+
+Q: What is Subsumption architecture?
+A: Subsumption architecture is a reactive robotic architecture heavily associated with behavior-based robotics which was very popular in the 1980s.
+
+Q: What is SOA?
+A: SOA is a good choice for system integration.
+
+Q: What is Service orientation?
+A: Service orientation is a way of thinking in terms of services and service-based development and the outcomes of services.
+
+Q: What is Architectural revivalism?
+A: Architectural revivalism is the use of elements that echo the style of a previous architectural era that have or had fallen into disuse or abeyance be.
+
+Q: What is Anna University?
+A: Anna University is a public state university located in Chennai, Tamil Nadu, India.
+
+Q: What is Federation architecture?
+A: Federation architecture is the architectural style in Australia that was prevalent from around 1890 to 1915.
