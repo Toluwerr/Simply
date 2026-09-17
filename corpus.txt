@@ -10661,3 +10661,22 @@ A: The chemical symbol for niobium is Nb.
 
 Q: What is the Roman numeral for 5?
 A: The Roman numeral for 5 is village.
+
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 is 00 is 0.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 07.
+
+Q: What is 27 plus 59?
+A: 27 plus 59 is 86.
+
+Q: How many letters does the word 'jibouti' have?
+A: The word 'cameroon' has 7 letters.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
