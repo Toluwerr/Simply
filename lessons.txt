@@ -24819,3 +24819,110 @@ A: The word 'niamey' has 6 letters.
 
 Q: How many letters does the word 'dalasi' have?
 A: The word 'dalasi' has 6 letters.
+Q: What is 669 plus 897?
+A: 669 plus 897 is 1566.
+
+Q: What is 379 minus 141?
+A: 379 minus 141 is 238.
+
+Q: What is 8 times 3?
+A: 8 times 3 is 24.
+
+Q: What is 12 times 13?
+A: 12 times 13 is 156.
+
+Q: What is 15 times 13?
+A: 15 times 13 is 195.
+
+Q: What is 12 plus 57?
+A: 12 plus 57 is 69.
+
+Q: What is the first letter of 'ghana'?
+A: The first letter of 'ghana' is G.
+
+Q: What is the first letter of 'alaska'?
+A: The first letter of 'alaska' is A.
+
+Q: What is the first letter of 'praia'?
+A: The first letter of 'praia' is P.
+
+Q: What is the last letter of 'apia'?
+A: The last letter of 'apia' is A.
+
+Q: What is the first letter of 'yaounde'?
+A: The first letter of 'yaounde' is Y.
+
+Q: What is the first letter of 'tree'?
+A: The first letter of 'tree' is T.
+
+Q: How do you sort 26, 17, and 15?
+A: In order, they are 15 17 26.
+
+Q: How do you sort 16, 3, and 11?
+A: In order, they are 3 11 16.
+
+Q: How do you sort 27, 24, and 15?
+A: In order, they are 15 24 27.
+
+Q: How do you sort 987, 878, and 132?
+A: In order, they are 132 878 987.
+
+Q: How do you sort 27, 9, and 13?
+A: In order, they are 9 13 27.
+
+Q: How do you sort 9, 11, and 15?
+A: In order, they are 9 11 15.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
+
+Q: What is the capital of Somalia?
+A: The capital of Somalia is Mogadishu.
+
+Q: What is the capital of Austria?
+A: The capital of Austria is Vienna.
+
+Q: What is the capital of the Comoros?
+A: The capital of the Comoros is Moroni.
+
+Q: What is the capital of Cambodia?
+A: The capital of Cambodia is Phnom Penh.
+
+Q: What is the capital of Venezuela?
+A: The capital of Venezuela is Caracas.
+
+Q: What continent is Thailand on?
+A: Thailand is on the continent of Asia.
+
+Q: What continent is Monaco on?
+A: Monaco is on the continent of Europe.
+
+Q: What continent is Guinea on?
+A: Guinea is on the continent of Africa.
+
+Q: What continent is Sweden on?
+A: Sweden is on the continent of Europe.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: Which is bigger, 26 or 50?
+A: 50 is bigger than 26.
+
+Q: Which is bigger, 10 or 11?
+A: 11 is bigger than 10.
+
+Q: Is 74 bigger than 85?
+A: No, 85 is bigger than 74.
+
+Q: Which is bigger, 81 or 41?
+A: 81 is bigger than 41.
+
+Q: Is 18 bigger than 16?
+A: Yes, 18 is bigger than 16.
+
+Q: Which is bigger, 11 or 7?
+A: 11 is bigger than 7.
