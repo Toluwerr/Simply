@@ -51221,3 +51221,170 @@ A: The capital of North Macedonia is Skopje.
 
 Q: What is the capital of Russia?
 A: The capital of Russia is Moscow.
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: Which element has the chemical symbol Ar?
+A: Ar is the chemical symbol for argon.
+
+Q: Which element has the chemical symbol Ge?
+A: Ge is the chemical symbol for germanium.
+
+Q: What is the chemical symbol for gallium?
+A: The chemical symbol for gallium is Ga.
+
+Q: What is the chemical symbol for iron?
+A: The chemical symbol for iron is Fe.
+
+Q: Which element has the chemical symbol In?
+A: In is the chemical symbol for indium.
+
+Q: Which element has the chemical symbol V?
+A: V is the chemical symbol for vanadium.
+
+Q: Which element has the chemical symbol Cs?
+A: Cs is the chemical symbol for cesium.
+
+Q: What is the chemical symbol for boron?
+A: The chemical symbol for boron is B.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the Roman numeral for 76?
+A: The Roman numeral for 76 is lxxvi.
+
+Q: What number is the Roman numeral iii?
+A: The Roman numeral iii is the number 3.
+
+Q: What number is the Roman numeral dccxcii?
+A: The Roman numeral dccxcii is the number 792.
+
+Q: What is the Roman numeral for 12?
+A: The Roman numeral for 12 is xii.
+
+Q: What is the Roman numeral for 65?
+A: The Roman numeral for 65 is lxv.
+
+Q: What is the Roman numeral for 77?
+A: The Roman numeral for 77 is lxxvii.
+
+Q: What number is the Roman numeral lxiv?
+A: The Roman numeral lxiv is the number 64.
+
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What is the last letter of 'poland'?
+A: The last letter of 'poland' is D.
+
+Q: What is the first letter of 'praseodymium'?
+A: The first letter of 'praseodymium' is P.
+
+Q: What is the first letter of 'tashkent'?
+A: The first letter of 'tashkent' is T.
+
+Q: What is the last letter of 'michigan'?
+A: The last letter of 'michigan' is N.
+
+Q: What is the first letter of 'magnesium'?
+A: The first letter of 'magnesium' is M.
+
+Q: What is the last letter of 'bucharest'?
+A: The last letter of 'bucharest' is T.
+
+Q: What is the first letter of 'belarus'?
+A: The first letter of 'belarus' is B.
+
+Q: What is the first letter of 'metical'?
+A: The first letter of 'metical' is M.
+
+Q: Which is bigger, 959 or 361?
+A: 959 is bigger than 361.
+
+Q: Is 15 bigger than 74?
+A: No, 74 is bigger than 15.
+
+Q: Is 676 bigger than 199?
+A: Yes, 676 is bigger than 199.
+
+Q: Is 815 bigger than 135?
+A: Yes, 815 is bigger than 135.
+
+Q: Is 30 bigger than 82?
+A: No, 82 is bigger than 30.
+
+Q: Is 2 bigger than 4?
+A: No, 4 is bigger than 2.
+
+Q: Is 20 bigger than 5?
+A: Yes, 20 is bigger than 5.
+
+Q: Is 2 bigger than 6?
+A: No, 6 is bigger than 2.
+
+Q: What is double 13?
+A: Double 13 is 26.
+
+Q: What is half of 2?
+A: Half of 2 is 1.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What is half of 36?
+A: Half of 36 is 18.
+
+Q: What is double 47?
+A: Double 47 is 94.
+
+Q: What is double 40?
+A: Double 40 is 80.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is double 13?
+A: Double 13 is 26.
