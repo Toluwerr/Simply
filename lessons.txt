@@ -45664,3 +45664,170 @@ A: The first letter of 'pierre' is P.
 
 Q: What is the last letter of 'albania'?
 A: The last letter of 'albania' is A.
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: How do you sort 29, 27, and 13?
+A: In order, they are 13 27 29.
+
+Q: How do you sort 4, 18, and 17?
+A: In order, they are 4 17 18.
+
+Q: How do you sort 233, 884, and 647?
+A: In order, they are 233 647 884.
+
+Q: How do you sort 611, 355, and 166?
+A: In order, they are 166 355 611.
+
+Q: How do you sort 594, 429, and 423?
+A: In order, they are 423 429 594.
+
+Q: How do you sort 417, 601, and 301?
+A: In order, they are 301 417 601.
+
+Q: How do you sort 12, 27, and 4?
+A: In order, they are 4 12 27.
+
+Q: How do you sort 18, 4, and 8?
+A: In order, they are 4 8 18.
+
+Q: What is the first letter of 'fluff'?
+A: The first letter of 'fluff' is F.
+
+Q: What is the last letter of 'skopje'?
+A: The last letter of 'skopje' is E.
+
+Q: What is the first letter of 'oklahoma'?
+A: The first letter of 'oklahoma' is O.
+
+Q: What is the first letter of 'bern'?
+A: The first letter of 'bern' is B.
+
+Q: What is the first letter of 'bolivia'?
+A: The first letter of 'bolivia' is B.
+
+Q: What is the last letter of 'dalasi'?
+A: The last letter of 'dalasi' is I.
+
+Q: What is the last letter of 'peaceful'?
+A: The last letter of 'peaceful' is L.
+
+Q: What is the first letter of 'seoul'?
+A: The first letter of 'seoul' is S.
+
+Q: What continent is Mexico on?
+A: Mexico is on the continent of North America.
+
+Q: What continent is Nepal on?
+A: Nepal is on the continent of Asia.
+
+Q: What continent is Somalia on?
+A: Somalia is on the continent of Africa.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is the Maldives on?
+A: the Maldives is on the continent of Asia.
+
+Q: What continent is France on?
+A: France is on the continent of Europe.
+
+Q: What continent is the United Arab Emirates on?
+A: the United Arab Emirates is on the continent of Asia.
+
+Q: What continent is the Central African Republic on?
+A: the Central African Republic is on the continent of Africa.
+
+Q: What is the capital of Albania?
+A: The capital of Albania is Tirana.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What is the capital of Lithuania?
+A: The capital of Lithuania is Vilnius.
+
+Q: What is the capital of Lesotho?
+A: The capital of Lesotho is Maseru.
+
+Q: What is the capital of Chad?
+A: The capital of Chad is N'Djamena.
+
+Q: What is the capital of Norway?
+A: The capital of Norway is Oslo.
+
+Q: Can you count by fives from 5 to 30?
+A: Counting by fives gives 5 10 15 20 25 30.
+
+Q: Can you count by twos from 14 to 20?
+A: Counting by twos gives 14 16 18 20.
+
+Q: Can you count by ones from 26 to 31?
+A: Counting by ones gives 26 27 28 29 30 31.
+
+Q: Can you count by twos from 12 to 20?
+A: Counting by twos gives 12 14 16 18 20.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by twos from 24 to 34?
+A: Counting by twos gives 24 26 28 30 32 34.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Is 858 bigger than 992?
+A: No, 992 is bigger than 858.
+
+Q: Is 20 bigger than 12?
+A: Yes, 20 is bigger than 12.
+
+Q: Is 12 bigger than 5?
+A: Yes, 12 is bigger than 5.
+
+Q: Is 537 bigger than 998?
+A: No, 998 is bigger than 537.
+
+Q: Which is bigger, 98 or 35?
+A: 98 is bigger than 35.
+
+Q: Which is bigger, 17 or 38?
+A: 38 is bigger than 17.
+
+Q: Is 93 bigger than 98?
+A: No, 98 is bigger than 93.
+
+Q: Which is bigger, 44 or 36?
+A: 44 is bigger than 36.
