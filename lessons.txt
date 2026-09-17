@@ -43136,3 +43136,146 @@ A: The currency of Bangladesh is the taka.
 
 Q: What currency does South Korea use?
 A: The currency of South Korea is the won.
+Q: What is the first letter of 'kina'?
+A: The first letter of 'kina' is K.
+
+Q: What is the first letter of 'african'?
+A: The first letter of 'african' is A.
+
+Q: What is the last letter of 'moving'?
+A: The last letter of 'moving' is G.
+
+Q: What is the first letter of 'montgomery'?
+A: The first letter of 'montgomery' is M.
+
+Q: What is the last letter of 'ocean'?
+A: The last letter of 'ocean' is N.
+
+Q: What is the first letter of 'oceania'?
+A: The first letter of 'oceania' is O.
+
+Q: What is the last letter of 'slovakia'?
+A: The last letter of 'slovakia' is A.
+
+Q: What is the first letter of 'mali'?
+A: The first letter of 'mali' is M.
+
+Q: How do you sort 27, 9, and 7?
+A: In order, they are 7 9 27.
+
+Q: How do you sort 5, 7, and 23?
+A: In order, they are 5 7 23.
+
+Q: How do you sort 19, 15, and 11?
+A: In order, they are 11 15 19.
+
+Q: How do you sort 918, 619, and 468?
+A: In order, they are 468 619 918.
+
+Q: How do you sort 489, 545, and 343?
+A: In order, they are 343 489 545.
+
+Q: How do you sort 622, 101, and 627?
+A: In order, they are 101 622 627.
+
+Q: How do you sort 314, 222, and 977?
+A: In order, they are 222 314 977.
+
+Q: How do you sort 826, 152, and 463?
+A: In order, they are 152 463 826.
+
+Q: Which is bigger, 18 or 4?
+A: 18 is bigger than 4.
+
+Q: Which is bigger, 594 or 191?
+A: 594 is bigger than 191.
+
+Q: Is 5 bigger than 19?
+A: No, 19 is bigger than 5.
+
+Q: Which is bigger, 38 or 87?
+A: 87 is bigger than 38.
+
+Q: Is 23 bigger than 20?
+A: Yes, 23 is bigger than 20.
+
+Q: Is 735 bigger than 573?
+A: Yes, 735 is bigger than 573.
+
+Q: Which is bigger, 450 or 226?
+A: 450 is bigger than 226.
+
+Q: Is 447 bigger than 543?
+A: No, 543 is bigger than 447.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: What is the capital of Serbia?
+A: The capital of Serbia is Belgrade.
+
+Q: What is the capital of Burkina Faso?
+A: The capital of Burkina Faso is Ouagadougou.
+
+Q: What is the capital of Ethiopia?
+A: The capital of Ethiopia is Addis Ababa.
+
+Q: What is the capital of Armenia?
+A: The capital of Armenia is Yerevan.
+
+Q: What is the capital of Zambia?
+A: The capital of Zambia is Lusaka.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Bahrain?
+A: The capital of Bahrain is Manama.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is 16 minus 16?
+A: 16 minus 16 is 0.
+
+Q: What is 48 plus 32?
+A: 48 plus 32 is 80.
+
+Q: What is 3 times 5?
+A: 3 times 5 is 15.
+
+Q: What is 14 times 19?
+A: 14 times 19 is 266.
+
+Q: What is 11 times 13?
+A: 11 times 13 is 143.
+
+Q: What is 11 plus 5?
+A: 11 plus 5 is 16.
+
+Q: What is 3 times 6?
+A: 3 times 6 is 18.
+
+Q: What is 11 plus 12?
+A: 11 plus 12 is 23.
