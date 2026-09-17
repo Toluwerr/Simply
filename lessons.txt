@@ -31546,3 +31546,128 @@ A: The chemical symbol for gallium is Ga.
 
 Q: Which element has the chemical symbol Ho?
 A: Ho is the chemical symbol for holmium.
+Q: Is 86 bigger than 23?
+A: Yes, 86 is bigger than 23.
+
+Q: Which is bigger, 10 or 17?
+A: 17 is bigger than 10.
+
+Q: Which is bigger, 3 or 12?
+A: 12 is bigger than 3.
+
+Q: Is 469 bigger than 982?
+A: No, 982 is bigger than 469.
+
+Q: Which is bigger, 17 or 14?
+A: 17 is bigger than 14.
+
+Q: Which is bigger, 98 or 30?
+A: 98 is bigger than 30.
+
+Q: How do you sort 8, 5, and 14?
+A: In order, they are 5 8 14.
+
+Q: How do you sort 547, 901, and 548?
+A: In order, they are 547 548 901.
+
+Q: How do you sort 867, 34, and 911?
+A: In order, they are 34 867 911.
+
+Q: How do you sort 7, 11, and 3?
+A: In order, they are 3 7 11.
+
+Q: How do you sort 12, 15, and 5?
+A: In order, they are 5 12 15.
+
+Q: How do you sort 426, 246, and 225?
+A: In order, they are 225 246 426.
+
+Q: What is the chemical symbol for gadolinium?
+A: The chemical symbol for gadolinium is Gd.
+
+Q: Which element has the chemical symbol P?
+A: P is the chemical symbol for phosphorus.
+
+Q: What is the chemical symbol for krypton?
+A: The chemical symbol for krypton is Kr.
+
+Q: What is the chemical symbol for mercury?
+A: The chemical symbol for mercury is Hg.
+
+Q: What is the chemical symbol for cobalt?
+A: The chemical symbol for cobalt is Co.
+
+Q: Which element has the chemical symbol Ar?
+A: Ar is the chemical symbol for argon.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+
+Q: What is the capital of Kenya?
+A: The capital of Kenya is Nairobi.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is the capital of Colombia?
+A: The capital of Colombia is Bogota.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: How many letters does the word 'eager' have?
+A: The word 'eager' has 5 letters.
+
+Q: How many letters does the word 'silver' have?
+A: The word 'silver' has 6 letters.
+
+Q: How many letters does the word 'moon' have?
+A: The word 'moon' has 4 letters.
+
+Q: How many letters does the word 'monrovia' have?
+A: The word 'monrovia' has 8 letters.
+
+Q: How many letters does the word 'dover' have?
+A: The word 'dover' has 5 letters.
+
+Q: How many letters does the word 'pennsylvania' have?
+A: The word 'pennsylvania' has 12 letters.
+
+Q: What is 2 times 4?
+A: 2 times 4 is 8.
+
+Q: What is 305 minus 157?
+A: 305 minus 157 is 148.
+
+Q: What is 585 minus 222?
+A: 585 minus 222 is 363.
+
+Q: What is 18 plus 11?
+A: 18 plus 11 is 29.
+
+Q: What is 12 plus 8?
+A: 12 plus 8 is 20.
+
+Q: What is 88 minus 39?
+A: 88 minus 39 is 49.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What continent is Tuvalu on?
+A: Tuvalu is on the continent of Oceania.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is Syria on?
+A: Syria is on the continent of Asia.
+
+Q: What continent is India on?
+A: India is on the continent of Asia.
+
+Q: What continent is Sweden on?
+A: Sweden is on the continent of Europe.

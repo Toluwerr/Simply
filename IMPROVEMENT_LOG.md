@@ -3194,3 +3194,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a small little model that improves its bit with that I stickers."
 
+## Iteration 369 - IMPROVED
+- **when**: 2026-09-17T01:30:52Z
+- **train loss**: 1.3091 | **val loss**: 0.5632 | **run best**: 0.5632
+- **corpus**: 247,102 chars (+8 self-written examples)
+- **internet reading**: +30 articles, +10 facts (722 read all-time)
+- **lr**: 0.0004 | **steps**: 57
+- **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, compare 0.00, double_half 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am running my tens."
+
