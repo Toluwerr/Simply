@@ -43336,3 +43336,146 @@ A: 'cautious' means careful and watchful.
 
 Q: What does 'eager' mean?
 A: 'eager' means very excited to do something.
+Q: What is 565 minus 512?
+A: 565 minus 512 is 53.
+
+Q: What is 8 times 9?
+A: 8 times 9 is 72.
+
+Q: What is 57 plus 53?
+A: 57 plus 53 is 110.
+
+Q: What is 20 minus 7?
+A: 20 minus 7 is 13.
+
+Q: What is 17 minus 5?
+A: 17 minus 5 is 12.
+
+Q: What is 329 minus 318?
+A: 329 minus 318 is 11.
+
+Q: What is 7 times 6?
+A: 7 times 6 is 42.
+
+Q: What is 522 minus 313?
+A: 522 minus 313 is 209.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: What is the biggest animal?
+A: The blue whale is the biggest animal.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the biggest planet?
+A: Jupiter is the biggest planet.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: What is the most populous country?
+A: India is the most populous country.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: How many planets are there?
+A: There are 8 planets.
+
+Q: Can you count by twos from 28 to 38?
+A: Counting by twos gives 28 30 32 34 36 38.
+
+Q: Can you count by twos from 2 to 6?
+A: Counting by twos gives 2 4 6.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by twos from 12 to 16?
+A: Counting by twos gives 12 14 16.
+
+Q: Can you count by fives from 5 to 20?
+A: Counting by fives gives 5 10 15 20.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by fives from 30 to 40?
+A: Counting by fives gives 30 35 40.
+
+Q: Can you count by ones from 4 to 8?
+A: Counting by ones gives 4 5 6 7 8.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is half of 36?
+A: Half of 36 is 18.
+
+Q: What is double 59?
+A: Double 59 is 118.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is double 5?
+A: Double 5 is 10.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
+
+Q: What currency does Ghana use?
+A: The currency of Ghana is the cedi.
+
+Q: What currency does Slovakia use?
+A: The currency of Slovakia is the euro.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.
+
+Q: What currency does Ecuador use?
+A: The currency of Ecuador is the dollar.
+
+Q: What currency does Italy use?
+A: The currency of Italy is the euro.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
