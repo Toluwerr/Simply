@@ -27046,3 +27046,170 @@ A: Yes, 929 is bigger than 379.
 
 Q: Which is bigger, 65 or 21?
 A: 65 is bigger than 21.
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: What continent is Bosnia and Herzegovina on?
+A: Bosnia and Herzegovina is on the continent of Europe.
+
+Q: What continent is South Africa on?
+A: South Africa is on the continent of Africa.
+
+Q: What continent is Bahrain on?
+A: Bahrain is on the continent of Asia.
+
+Q: What continent is Spain on?
+A: Spain is on the continent of Europe.
+
+Q: What continent is Latvia on?
+A: Latvia is on the continent of Europe.
+
+Q: What continent is Bulgaria on?
+A: Bulgaria is on the continent of Europe.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: What is the capital of Montenegro?
+A: The capital of Montenegro is Podgorica.
+
+Q: What is the capital of Brunei?
+A: The capital of Brunei is Bandar Seri Begawan.
+
+Q: What is the capital of Chile?
+A: The capital of Chile is Santiago.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.
+
+Q: What is the capital of Micronesia?
+A: The capital of Micronesia is Palikir.
+
+Q: What is the capital of Sweden?
+A: The capital of Sweden is Stockholm.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of Kuwait?
+A: The capital of Kuwait is Kuwait City.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 73 in words?
+A: 73 in words is seventy-three.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 52 in words?
+A: 52 in words is fifty-two.
+
+Q: How do you sort 732, 307, and 227?
+A: In order, they are 227 307 732.
+
+Q: How do you sort 11, 21, and 17?
+A: In order, they are 11 17 21.
+
+Q: How do you sort 929, 773, and 39?
+A: In order, they are 39 773 929.
+
+Q: How do you sort 25, 16, and 1?
+A: In order, they are 1 16 25.
+
+Q: How do you sort 24, 8, and 18?
+A: In order, they are 8 18 24.
+
+Q: How do you sort 580, 732, and 878?
+A: In order, they are 580 732 878.
+
+Q: How do you sort 16, 27, and 29?
+A: In order, they are 16 27 29.
+
+Q: How do you sort 26, 18, and 27?
+A: In order, they are 18 26 27.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
