@@ -54393,3 +54393,170 @@ A: The capital of Haiti is Port-au-Prince.
 
 Q: What is the capital of Slovenia?
 A: The capital of Slovenia is Ljubljana.
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What is the chemical symbol for praseodymium?
+A: The chemical symbol for praseodymium is Pr.
+
+Q: What is the chemical symbol for silicon?
+A: The chemical symbol for silicon is Si.
+
+Q: Which element has the chemical symbol Cr?
+A: Cr is the chemical symbol for chromium.
+
+Q: Which element has the chemical symbol V?
+A: V is the chemical symbol for vanadium.
+
+Q: What is the chemical symbol for holmium?
+A: The chemical symbol for holmium is Ho.
+
+Q: Which element has the chemical symbol Co?
+A: Co is the chemical symbol for cobalt.
+
+Q: What is the chemical symbol for germanium?
+A: The chemical symbol for germanium is Ge.
+
+Q: What is the chemical symbol for silicon?
+A: The chemical symbol for silicon is Si.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the Roman numeral for 794?
+A: The Roman numeral for 794 is dccxciv.
+
+Q: What is the Roman numeral for 15?
+A: The Roman numeral for 15 is xv.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What number is the Roman numeral xx?
+A: The Roman numeral xx is the number 20.
+
+Q: What number is the Roman numeral xii?
+A: The Roman numeral xii is the number 12.
+
+Q: What is the Roman numeral for 44?
+A: The Roman numeral for 44 is xliv.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What number is the Roman numeral xx?
+A: The Roman numeral xx is the number 20.
+
+Q: Which is bigger, 708 or 282?
+A: 708 is bigger than 282.
+
+Q: Which is bigger, 29 or 62?
+A: 62 is bigger than 29.
+
+Q: Which is bigger, 531 or 726?
+A: 726 is bigger than 531.
+
+Q: Which is bigger, 12 or 2?
+A: 12 is bigger than 2.
+
+Q: Which is bigger, 20 or 8?
+A: 20 is bigger than 8.
+
+Q: Is 264 bigger than 609?
+A: No, 609 is bigger than 264.
+
+Q: Which is bigger, 268 or 569?
+A: 569 is bigger than 268.
+
+Q: Which is bigger, 15 or 14?
+A: 15 is bigger than 14.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is double 50?
+A: Double 50 is 100.
+
+Q: What is double 26?
+A: Double 26 is 52.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is double 41?
+A: Double 41 is 82.
+
+Q: What is half of 10?
+A: Half of 10 is 5.
+
+Q: What is half of 58?
+A: Half of 58 is 29.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is 9 plus 20?
+A: 9 plus 20 is 29.
+
+Q: What is 22 plus 70?
+A: 22 plus 70 is 92.
+
+Q: What is 5 plus 4?
+A: 5 plus 4 is 9.
+
+Q: What is 528 plus 532?
+A: 528 plus 532 is 1060.
+
+Q: What is 3 times 3?
+A: 3 times 3 is 9.
+
+Q: What is 11 times 11?
+A: 11 times 11 is 121.
+
+Q: What is 8 times 9?
+A: 8 times 9 is 72.
+
+Q: What is 5 times 6?
+A: 5 times 6 is 30.
