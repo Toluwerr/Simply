@@ -20834,3 +20834,110 @@ A: The Roman numeral lxxi is the number 71.
 
 Q: What is the Roman numeral for 12?
 A: The Roman numeral for 12 is xii.
+Q: How many letters does the word 'slovenia' have?
+A: The word 'slovenia' has 8 letters.
+
+Q: How many letters does the word 'eswatini' have?
+A: The word 'eswatini' has 8 letters.
+
+Q: How many letters does the word 'otter' have?
+A: The word 'otter' has 5 letters.
+
+Q: How many letters does the word 'bolivar' have?
+A: The word 'bolivar' has 7 letters.
+
+Q: How many letters does the word 'mauritius' have?
+A: The word 'mauritius' has 9 letters.
+
+Q: How many letters does the word 'roar' have?
+A: The word 'roar' has 4 letters.
+
+Q: How do you sort 266, 49, and 18?
+A: In order, they are 18 49 266.
+
+Q: How do you sort 22, 19, and 15?
+A: In order, they are 15 19 22.
+
+Q: How do you sort 684, 726, and 157?
+A: In order, they are 157 684 726.
+
+Q: How do you sort 4, 14, and 13?
+A: In order, they are 4 13 14.
+
+Q: How do you sort 34, 804, and 896?
+A: In order, they are 34 804 896.
+
+Q: How do you sort 27, 2, and 5?
+A: In order, they are 2 5 27.
+
+Q: Is 488 bigger than 174?
+A: Yes, 488 is bigger than 174.
+
+Q: Is 13 bigger than 1?
+A: Yes, 13 is bigger than 1.
+
+Q: Which is bigger, 104 or 841?
+A: 841 is bigger than 104.
+
+Q: Which is bigger, 9 or 15?
+A: 15 is bigger than 9.
+
+Q: Is 546 bigger than 768?
+A: No, 768 is bigger than 546.
+
+Q: Which is bigger, 47 or 39?
+A: 47 is bigger than 39.
+
+Q: What is 10 minus 1?
+A: 10 minus 1 is 9.
+
+Q: What is 15 times 14?
+A: 15 times 14 is 210.
+
+Q: What is 12 times 12?
+A: 12 times 12 is 144.
+
+Q: What is 15 plus 15?
+A: 15 plus 15 is 30.
+
+Q: What is 564 minus 174?
+A: 564 minus 174 is 390.
+
+Q: What is 14 plus 88?
+A: 14 plus 88 is 102.
+
+Q: What is the last letter of 'bahamas'?
+A: The last letter of 'bahamas' is S.
+
+Q: What is the first letter of 'georgetown'?
+A: The first letter of 'georgetown' is G.
+
+Q: What is the last letter of 'aggressive'?
+A: The last letter of 'aggressive' is E.
+
+Q: What is the last letter of 'lusaka'?
+A: The last letter of 'lusaka' is A.
+
+Q: What is the last letter of 'singapore'?
+A: The last letter of 'singapore' is E.
+
+Q: What is the first letter of 'argon'?
+A: The first letter of 'argon' is A.
+
+Q: What continent is Mali on?
+A: Mali is on the continent of Africa.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What continent is Malaysia on?
+A: Malaysia is on the continent of Asia.
+
+Q: What continent is Mali on?
+A: Mali is on the continent of Africa.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What continent is Azerbaijan on?
+A: Azerbaijan is on the continent of Asia.
