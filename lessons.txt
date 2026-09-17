@@ -54188,3 +54188,170 @@ A: Yes, 941 is bigger than 293.
 
 Q: Which is bigger, 11 or 8?
 A: 11 is bigger than 8.
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What continent is New Zealand on?
+A: New Zealand is on the continent of Oceania.
+
+Q: What continent is Kuwait on?
+A: Kuwait is on the continent of Asia.
+
+Q: What continent is Sierra Leone on?
+A: Sierra Leone is on the continent of Africa.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What continent is Japan on?
+A: Japan is on the continent of Asia.
+
+Q: What continent is Bolivia on?
+A: Bolivia is on the continent of South America.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: What is the capital of Tanzania?
+A: The capital of Tanzania is Dodoma.
+
+Q: What is the capital of Switzerland?
+A: The capital of Switzerland is Bern.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
+
+Q: What is the capital of South Sudan?
+A: The capital of South Sudan is Juba.
+
+Q: What is the capital of Paraguay?
+A: The capital of Paraguay is Asuncion.
+
+Q: What is the capital of New Zealand?
+A: The capital of New Zealand is Wellington.
+
+Q: What is the capital of Palau?
+A: The capital of Palau is Ngerulmud.
+
+Q: How do you write 35 in words?
+A: 35 in words is thirty-five.
+
+Q: How do you write 22 in words?
+A: 22 in words is twenty-two.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 28 in words?
+A: 28 in words is twenty-eight.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you sort 18, 1, and 27?
+A: In order, they are 1 18 27.
+
+Q: How do you sort 15, 9, and 1?
+A: In order, they are 1 9 15.
+
+Q: How do you sort 222, 200, and 331?
+A: In order, they are 200 222 331.
+
+Q: How do you sort 945, 425, and 370?
+A: In order, they are 370 425 945.
+
+Q: How do you sort 8, 25, and 17?
+A: In order, they are 8 17 25.
+
+Q: How do you sort 25, 10, and 3?
+A: In order, they are 3 10 25.
+
+Q: How do you sort 121, 356, and 810?
+A: In order, they are 121 356 810.
+
+Q: How do you sort 6, 21, and 17?
+A: In order, they are 6 17 21.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
