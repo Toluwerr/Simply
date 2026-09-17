@@ -55619,3 +55619,170 @@ A: The last letter of 'germanium' is M.
 
 Q: What is the last letter of 'singapore'?
 A: The last letter of 'singapore' is E.
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: How do you sort 14, 23, and 24?
+A: In order, they are 14 23 24.
+
+Q: How do you sort 212, 934, and 94?
+A: In order, they are 94 212 934.
+
+Q: How do you sort 628, 246, and 663?
+A: In order, they are 246 628 663.
+
+Q: How do you sort 2, 24, and 25?
+A: In order, they are 2 24 25.
+
+Q: How do you sort 22, 2, and 14?
+A: In order, they are 2 14 22.
+
+Q: How do you sort 488, 924, and 466?
+A: In order, they are 466 488 924.
+
+Q: How do you sort 321, 751, and 870?
+A: In order, they are 321 751 870.
+
+Q: How do you sort 735, 576, and 369?
+A: In order, they are 369 576 735.
+
+Q: What is the first letter of 'dinar'?
+A: The first letter of 'dinar' is D.
+
+Q: What is the last letter of 'strong'?
+A: The last letter of 'strong' is G.
+
+Q: What is the last letter of 'paanga'?
+A: The last letter of 'paanga' is A.
+
+Q: What is the first letter of 'mauritius'?
+A: The first letter of 'mauritius' is M.
+
+Q: What is the first letter of 'tree'?
+A: The first letter of 'tree' is T.
+
+Q: What is the last letter of 'huge'?
+A: The last letter of 'huge' is E.
+
+Q: What is the first letter of 'trenton'?
+A: The first letter of 'trenton' is T.
+
+Q: What is the last letter of 'sound'?
+A: The last letter of 'sound' is D.
+
+Q: What continent is Morocco on?
+A: Morocco is on the continent of Africa.
+
+Q: What continent is Latvia on?
+A: Latvia is on the continent of Europe.
+
+Q: What continent is Kiribati on?
+A: Kiribati is on the continent of Oceania.
+
+Q: What continent is Italy on?
+A: Italy is on the continent of Europe.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What continent is Sierra Leone on?
+A: Sierra Leone is on the continent of Africa.
+
+Q: What continent is Myanmar on?
+A: Myanmar is on the continent of Asia.
+
+Q: What continent is Belgium on?
+A: Belgium is on the continent of Europe.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of Saint Lucia?
+A: The capital of Saint Lucia is Castries.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: What is the capital of Guinea-Bissau?
+A: The capital of Guinea-Bissau is Bissau.
+
+Q: What is the capital of Iran?
+A: The capital of Iran is Tehran.
+
+Q: What is the capital of Zambia?
+A: The capital of Zambia is Lusaka.
+
+Q: What is the capital of Malaysia?
+A: The capital of Malaysia is Kuala Lumpur.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by ones from 38 to 40?
+A: Counting by ones gives 38 39 40.
+
+Q: Can you count by twos from 2 to 10?
+A: Counting by twos gives 2 4 6 8 10.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by ones from 33 to 37?
+A: Counting by ones gives 33 34 35 36 37.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: Can you count by fives from 5 to 25?
+A: Counting by fives gives 5 10 15 20 25.
+
+Q: Is 524 bigger than 281?
+A: Yes, 524 is bigger than 281.
+
+Q: Is 4 bigger than 5?
+A: No, 5 is bigger than 4.
+
+Q: Which is bigger, 504 or 428?
+A: 504 is bigger than 428.
+
+Q: Which is bigger, 504 or 261?
+A: 504 is bigger than 261.
+
+Q: Is 37 bigger than 44?
+A: No, 44 is bigger than 37.
+
+Q: Which is bigger, 94 or 21?
+A: 94 is bigger than 21.
+
+Q: Which is bigger, 11 or 8?
+A: 11 is bigger than 8.
+
+Q: Which is bigger, 14 or 8?
+A: 14 is bigger than 8.
