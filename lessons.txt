@@ -43622,3 +43622,170 @@ A: The capital of Nepal is Kathmandu.
 
 Q: What is the capital of Cuba?
 A: The capital of Cuba is Havana.
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: Which element has the chemical symbol Dy?
+A: Dy is the chemical symbol for dysprosium.
+
+Q: What is the chemical symbol for sodium?
+A: The chemical symbol for sodium is Na.
+
+Q: Which element has the chemical symbol Si?
+A: Si is the chemical symbol for silicon.
+
+Q: What is the chemical symbol for iodine?
+A: The chemical symbol for iodine is I.
+
+Q: Which element has the chemical symbol Ir?
+A: Ir is the chemical symbol for iridium.
+
+Q: Which element has the chemical symbol Tm?
+A: Tm is the chemical symbol for thulium.
+
+Q: What is the chemical symbol for thulium?
+A: The chemical symbol for thulium is Tm.
+
+Q: Which element has the chemical symbol Gd?
+A: Gd is the chemical symbol for gadolinium.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the Roman numeral for 323?
+A: The Roman numeral for 323 is cccxxiii.
+
+Q: What is the Roman numeral for 2?
+A: The Roman numeral for 2 is ii.
+
+Q: What number is the Roman numeral dccxlv?
+A: The Roman numeral dccxlv is the number 745.
+
+Q: What is the Roman numeral for 9?
+A: The Roman numeral for 9 is ix.
+
+Q: What is the Roman numeral for 796?
+A: The Roman numeral for 796 is dccxcvi.
+
+Q: What number is the Roman numeral dclxvii?
+A: The Roman numeral dclxvii is the number 667.
+
+Q: What number is the Roman numeral cclv?
+A: The Roman numeral cclv is the number 255.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What is the last letter of 'dominican'?
+A: The last letter of 'dominican' is N.
+
+Q: What is the last letter of 'soft'?
+A: The last letter of 'soft' is T.
+
+Q: What is the last letter of 'mouse'?
+A: The last letter of 'mouse' is E.
+
+Q: What is the last letter of 'february'?
+A: The last letter of 'february' is Y.
+
+Q: What is the last letter of 'west'?
+A: The last letter of 'west' is T.
+
+Q: What is the last letter of 'arizona'?
+A: The last letter of 'arizona' is A.
+
+Q: What is the first letter of 'vientiane'?
+A: The first letter of 'vientiane' is V.
+
+Q: What is the last letter of 'castries'?
+A: The last letter of 'castries' is S.
+
+Q: Is 84 bigger than 44?
+A: Yes, 84 is bigger than 44.
+
+Q: Which is bigger, 18 or 12?
+A: 18 is bigger than 12.
+
+Q: Is 99 bigger than 14?
+A: Yes, 99 is bigger than 14.
+
+Q: Which is bigger, 20 or 10?
+A: 20 is bigger than 10.
+
+Q: Which is bigger, 354 or 807?
+A: 807 is bigger than 354.
+
+Q: Which is bigger, 472 or 882?
+A: 882 is bigger than 472.
+
+Q: Is 797 bigger than 498?
+A: Yes, 797 is bigger than 498.
+
+Q: Is 151 bigger than 963?
+A: No, 963 is bigger than 151.
+
+Q: What is half of 34?
+A: Half of 34 is 17.
+
+Q: What is double 38?
+A: Double 38 is 76.
+
+Q: What is double 46?
+A: Double 46 is 92.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What is double 5?
+A: Double 5 is 10.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is double 17?
+A: Double 17 is 34.
