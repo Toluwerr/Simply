@@ -1156,3 +1156,39 @@ A: Michael Hanlon is a British science writer and newspaper science editor.
 
 Q: What is Vulturu?
 A: Vulturu is a commune located in the southeastern part of Vrancea County, Romania.
+
+Q: What is Elixir?
+A: Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine.
+
+Q: What is SNOBOL?
+A: SNOBOL is a series of programming languages developed between 1962 and 1967 at ATT Bell Laboratories by David J.
+
+Q: What is Abraham Jacobus Pienaar?
+A: Abraham Jacobus Pienaar is a South African-born American cricketer who plays for the Washington Freedom.
+
+Q: What is Albert Mangaratua Tambunan?
+A: Albert Mangaratua Tambunan is the chairman and the general secretary of the Indonesian Christian Party.
+
+Q: What is Lenis Paulista?
+A: Lenis Paulista is a municipality in the Central West region of the state of So Paulo.
+
+Q: What is Ephysteris diminutella?
+A: Ephysteris diminutella is a moth in the family Gelechiidae.
+
+Q: What is Sir Harry Work Melville,?
+A: Sir Harry Work Melville, is a British chemist, academic, and academic administrator, who specialised in polymer research.
+
+Q: What is Qiemo Airport?
+A: Qiemo Airport is an airport serving Qiemo Town in injiang Uyghur Autonomous Region, China.
+
+Q: What is Basic Books?
+A: Basic Books is a book publisher founded in 1950 and located in New York City, now an imprint of Hachette Book Group.
+
+Q: What is Surplus economics?
+A: Surplus economics is the study of economics based upon the concept that economies operate on the basis of the production of a surplus over basic needs.
+
+Q: What is Economics of networks?
+A: Economics of networks is a discipline in the fields of economics and network sciences.
+
+Q: What is Health Economics?
+A: Health Economics is a monthly peer-reviewed academic journal published by John Wiley  Sons, covering the subject of health economics.

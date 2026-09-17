@@ -31671,3 +31671,110 @@ A: India is on the continent of Asia.
 
 Q: What continent is Sweden on?
 A: Sweden is on the continent of Europe.
+Q: How many letters does the word 'april' have?
+A: The word 'april' has 5 letters.
+
+Q: How many letters does the word 'euro' have?
+A: The word 'euro' has 4 letters.
+
+Q: How many letters does the word 'vella' have?
+A: The word 'vella' has 5 letters.
+
+Q: How many letters does the word 'erbium' have?
+A: The word 'erbium' has 6 letters.
+
+Q: How many letters does the word 'krone' have?
+A: The word 'krone' has 5 letters.
+
+Q: How many letters does the word 'bee' have?
+A: The word 'bee' has 3 letters.
+
+Q: How do you sort 24, 4, and 12?
+A: In order, they are 4 12 24.
+
+Q: How do you sort 452, 859, and 680?
+A: In order, they are 452 680 859.
+
+Q: How do you sort 24, 1, and 18?
+A: In order, they are 1 18 24.
+
+Q: How do you sort 428, 507, and 595?
+A: In order, they are 428 507 595.
+
+Q: How do you sort 70, 495, and 577?
+A: In order, they are 70 495 577.
+
+Q: How do you sort 915, 469, and 419?
+A: In order, they are 419 469 915.
+
+Q: Is 81 bigger than 71?
+A: Yes, 81 is bigger than 71.
+
+Q: Is 8 bigger than 9?
+A: No, 9 is bigger than 8.
+
+Q: Which is bigger, 191 or 391?
+A: 391 is bigger than 191.
+
+Q: Which is bigger, 88 or 82?
+A: 88 is bigger than 82.
+
+Q: Is 48 bigger than 54?
+A: No, 54 is bigger than 48.
+
+Q: Is 19 bigger than 20?
+A: No, 20 is bigger than 19.
+
+Q: What is the capital of Sudan?
+A: The capital of Sudan is Khartoum.
+
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+
+Q: What is the capital of Croatia?
+A: The capital of Croatia is Zagreb.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of Luxembourg?
+A: The capital of Luxembourg is Luxembourg.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is 8 times 9?
+A: 8 times 9 is 72.
+
+Q: What is 16 minus 12?
+A: 16 minus 12 is 4.
+
+Q: What is 78 minus 51?
+A: 78 minus 51 is 27.
+
+Q: What is 9 times 7?
+A: 9 times 7 is 63.
+
+Q: What is 12 times 13?
+A: 12 times 13 is 156.
+
+Q: What is 5 times 6?
+A: 5 times 6 is 30.
+
+Q: What continent is Vanuatu on?
+A: Vanuatu is on the continent of Oceania.
+
+Q: What continent is Colombia on?
+A: Colombia is on the continent of South America.
+
+Q: What continent is Madagascar on?
+A: Madagascar is on the continent of Africa.
+
+Q: What continent is Turkey on?
+A: Turkey is on the continent of Asia.
+
+Q: What continent is Singapore on?
+A: Singapore is on the continent of Asia.
+
+Q: What continent is Iraq on?
+A: Iraq is on the continent of Asia.

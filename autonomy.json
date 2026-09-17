@@ -24,7 +24,7 @@
   "interests": {
     "ecology": 1
   },
-  "last": "experiment",
+  "last": "drill",
   "goals": [
     {
       "kind": "read",
@@ -42,5 +42,5 @@
       "text": "read 922 articles all-time (now 722)"
     }
   ],
-  "runs": 5
+  "runs": 6
 }

@@ -11193,3 +11193,16 @@ A: 'last' is the opposite of 'hot'.
 
 Q: What is 13 minus 11?
 A: 13 minus 11 is 24.
+
+
+Q: What is 34 plus 97?
+A: 34 plus 97 is 131.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteenixteen.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 polite has 19.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 polite and find has 126.
