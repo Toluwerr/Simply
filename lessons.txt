@@ -34812,3 +34812,170 @@ A: The capital of Israel is Jerusalem.
 
 Q: What is the capital of Uzbekistan?
 A: The capital of Uzbekistan is Tashkent.
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What is the chemical symbol for radium?
+A: The chemical symbol for radium is Ra.
+
+Q: Which element has the chemical symbol Lu?
+A: Lu is the chemical symbol for lutetium.
+
+Q: Which element has the chemical symbol Nb?
+A: Nb is the chemical symbol for niobium.
+
+Q: Which element has the chemical symbol Ge?
+A: Ge is the chemical symbol for germanium.
+
+Q: What is the chemical symbol for strontium?
+A: The chemical symbol for strontium is Sr.
+
+Q: What is the chemical symbol for chlorine?
+A: The chemical symbol for chlorine is Cl.
+
+Q: What is the chemical symbol for zirconium?
+A: The chemical symbol for zirconium is Zr.
+
+Q: What is the chemical symbol for cerium?
+A: The chemical symbol for cerium is Ce.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What is the Roman numeral for 28?
+A: The Roman numeral for 28 is xxviii.
+
+Q: What number is the Roman numeral dccxvii?
+A: The Roman numeral dccxvii is the number 717.
+
+Q: What number is the Roman numeral dxxxix?
+A: The Roman numeral dxxxix is the number 539.
+
+Q: What number is the Roman numeral ccliii?
+A: The Roman numeral ccliii is the number 253.
+
+Q: What is the Roman numeral for 59?
+A: The Roman numeral for 59 is lix.
+
+Q: What is the Roman numeral for 16?
+A: The Roman numeral for 16 is xvi.
+
+Q: What number is the Roman numeral cccxcviii?
+A: The Roman numeral cccxcviii is the number 398.
+
+Q: What is the first letter of 'aluminium'?
+A: The first letter of 'aluminium' is A.
+
+Q: What is the last letter of 'kuala'?
+A: The last letter of 'kuala' is A.
+
+Q: What is the first letter of 'wyoming'?
+A: The first letter of 'wyoming' is W.
+
+Q: What is the last letter of 'warm'?
+A: The last letter of 'warm' is M.
+
+Q: What is the last letter of 'bucharest'?
+A: The last letter of 'bucharest' is T.
+
+Q: What is the last letter of 'estonia'?
+A: The last letter of 'estonia' is A.
+
+Q: What is the last letter of 'pennsylvania'?
+A: The last letter of 'pennsylvania' is A.
+
+Q: What is the first letter of 'december'?
+A: The first letter of 'december' is D.
+
+Q: Which is bigger, 80 or 51?
+A: 80 is bigger than 51.
+
+Q: Which is bigger, 31 or 98?
+A: 98 is bigger than 31.
+
+Q: Which is bigger, 939 or 282?
+A: 939 is bigger than 282.
+
+Q: Is 86 bigger than 28?
+A: Yes, 86 is bigger than 28.
+
+Q: Which is bigger, 12 or 94?
+A: 94 is bigger than 12.
+
+Q: Is 56 bigger than 92?
+A: No, 92 is bigger than 56.
+
+Q: Is 56 bigger than 28?
+A: Yes, 56 is bigger than 28.
+
+Q: Is 12 bigger than 14?
+A: No, 14 is bigger than 12.
+
+Q: What is double 12?
+A: Double 12 is 24.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is half of 38?
+A: Half of 38 is 19.
+
+Q: What is double 55?
+A: Double 55 is 110.
+
+Q: What is double 41?
+A: Double 41 is 82.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What is double 5?
+A: Double 5 is 10.
+
+Q: What is double 48?
+A: Double 48 is 96.
