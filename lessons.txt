@@ -57136,3 +57136,170 @@ A: The opposite of 'open' is 'closed'.
 
 Q: What is the opposite of 'up'?
 A: The opposite of 'up' is 'down'.
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Zambia use?
+A: The currency of Zambia is the kwacha.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Kuwait use?
+A: The currency of Kuwait is the dinar.
+
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: What currency does Colombia use?
+A: The currency of Colombia is the peso.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What number is the Roman numeral xlii?
+A: The Roman numeral xlii is the number 42.
+
+Q: What number is the Roman numeral li?
+A: The Roman numeral li is the number 51.
+
+Q: What is the Roman numeral for 84?
+A: The Roman numeral for 84 is lxxxiv.
+
+Q: What is the Roman numeral for 778?
+A: The Roman numeral for 778 is dcclxxviii.
+
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What is the Roman numeral for 73?
+A: The Roman numeral for 73 is lxxiii.
+
+Q: What number is the Roman numeral ix?
+A: The Roman numeral ix is the number 9.
+
+Q: What number is the Roman numeral dxliv?
+A: The Roman numeral dxliv is the number 544.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: What is 5 times 9?
+A: 5 times 9 is 45.
+
+Q: What is 831 minus 305?
+A: 831 minus 305 is 526.
+
+Q: What is 15 times 12?
+A: 15 times 12 is 180.
+
+Q: What is 9 times 8?
+A: 9 times 8 is 72.
+
+Q: What is 12 times 17?
+A: 12 times 17 is 204.
+
+Q: What is 90 minus 42?
+A: 90 minus 42 is 48.
+
+Q: What is 35 plus 57?
+A: 35 plus 57 is 92.
+
+Q: What is 4 times 12?
+A: 4 times 12 is 48.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
