@@ -54021,3 +54021,170 @@ A: The last letter of 'tbilisi' is I.
 
 Q: What is the last letter of 'dakota'?
 A: The last letter of 'dakota' is A.
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: How do you sort 745, 136, and 835?
+A: In order, they are 136 745 835.
+
+Q: How do you sort 1, 25, and 6?
+A: In order, they are 1 6 25.
+
+Q: How do you sort 23, 8, and 18?
+A: In order, they are 8 18 23.
+
+Q: How do you sort 906, 85, and 791?
+A: In order, they are 85 791 906.
+
+Q: How do you sort 8, 10, and 27?
+A: In order, they are 8 10 27.
+
+Q: How do you sort 815, 442, and 619?
+A: In order, they are 442 619 815.
+
+Q: How do you sort 7, 5, and 24?
+A: In order, they are 5 7 24.
+
+Q: How do you sort 565, 841, and 990?
+A: In order, they are 565 841 990.
+
+Q: What is the last letter of 'pennsylvania'?
+A: The last letter of 'pennsylvania' is A.
+
+Q: What is the last letter of 'quiet'?
+A: The last letter of 'quiet' is T.
+
+Q: What is the first letter of 'ghana'?
+A: The first letter of 'ghana' is G.
+
+Q: What is the last letter of 'algeria'?
+A: The last letter of 'algeria' is A.
+
+Q: What is the first letter of 'scandium'?
+A: The first letter of 'scandium' is S.
+
+Q: What is the last letter of 'austin'?
+A: The last letter of 'austin' is N.
+
+Q: What is the first letter of 'sudan'?
+A: The first letter of 'sudan' is S.
+
+Q: What is the first letter of 'city'?
+A: The first letter of 'city' is C.
+
+Q: What continent is the Netherlands on?
+A: the Netherlands is on the continent of Europe.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Sierra Leone on?
+A: Sierra Leone is on the continent of Africa.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
+
+Q: What continent is Ukraine on?
+A: Ukraine is on the continent of Europe.
+
+Q: What continent is Switzerland on?
+A: Switzerland is on the continent of Europe.
+
+Q: What continent is Jamaica on?
+A: Jamaica is on the continent of North America.
+
+Q: What continent is Iran on?
+A: Iran is on the continent of Asia.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Nicaragua?
+A: The capital of Nicaragua is Managua.
+
+Q: What is the capital of Mongolia?
+A: The capital of Mongolia is Ulaanbaatar.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of Eritrea?
+A: The capital of Eritrea is Asmara.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of Uruguay?
+A: The capital of Uruguay is Montevideo.
+
+Q: Can you count by ones from 25 to 30?
+A: Counting by ones gives 25 26 27 28 29 30.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by ones from 4 to 6?
+A: Counting by ones gives 4 5 6.
+
+Q: Can you count by ones from 20 to 23?
+A: Counting by ones gives 20 21 22 23.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by twos from 34 to 40?
+A: Counting by twos gives 34 36 38 40.
+
+Q: Can you count by twos from 8 to 14?
+A: Counting by twos gives 8 10 12 14.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Which is bigger, 52 or 81?
+A: 81 is bigger than 52.
+
+Q: Which is bigger, 557 or 895?
+A: 895 is bigger than 557.
+
+Q: Which is bigger, 690 or 817?
+A: 817 is bigger than 690.
+
+Q: Is 5 bigger than 13?
+A: No, 13 is bigger than 5.
+
+Q: Which is bigger, 250 or 540?
+A: 540 is bigger than 250.
+
+Q: Is 77 bigger than 45?
+A: Yes, 77 is bigger than 45.
+
+Q: Is 941 bigger than 293?
+A: Yes, 941 is bigger than 293.
+
+Q: Which is bigger, 11 or 8?
+A: 11 is bigger than 8.

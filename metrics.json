@@ -1,9 +1,9 @@
 {
   "version": 26,
-  "iteration": 628,
+  "iteration": 629,
   "best_val_loss": 1.45024071931839,
   "lr": 0.0003,
-  "plateaus": 0,
+  "plateaus": 1,
   "val_start": 131326,
   "val_end": 138238,
   "dataset_chars": 284342,
@@ -42,7 +42,7 @@
   },
   "study_mode_v1": true,
   "head_chars": 284342,
-  "lessons": 17746,
+  "lessons": 17801,
   "best_knowledge": 0.043,
   "reading": {
     "articles": 2124,
