@@ -52366,3 +52366,170 @@ A: The opposite of 'rich' is 'poor'.
 
 Q: What is the opposite of 'new'?
 A: The opposite of 'new' is 'old'.
+Q: What currency does Italy use?
+A: The currency of Italy is the euro.
+
+Q: What currency does Uzbekistan use?
+A: The currency of Uzbekistan is the som.
+
+Q: What currency does Israel use?
+A: The currency of Israel is the shekel.
+
+Q: What currency does Slovakia use?
+A: The currency of Slovakia is the euro.
+
+Q: What currency does Austria use?
+A: The currency of Austria is the euro.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does Oman use?
+A: The currency of Oman is the rial.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: What number is the Roman numeral cdlxviii?
+A: The Roman numeral cdlxviii is the number 468.
+
+Q: What is the Roman numeral for 15?
+A: The Roman numeral for 15 is xv.
+
+Q: What is the Roman numeral for 18?
+A: The Roman numeral for 18 is xviii.
+
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What number is the Roman numeral dcclxxxv?
+A: The Roman numeral dcclxxxv is the number 785.
+
+Q: What number is the Roman numeral dcxc?
+A: The Roman numeral dcxc is the number 690.
+
+Q: What is the Roman numeral for 30?
+A: The Roman numeral for 30 is xxx.
+
+Q: What number is the Roman numeral ccli?
+A: The Roman numeral ccli is the number 251.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: What is 7 times 3?
+A: 7 times 3 is 21.
+
+Q: What is 3 plus 11?
+A: 3 plus 11 is 14.
+
+Q: What is 11 times 5?
+A: 11 times 5 is 55.
+
+Q: What is 57 plus 35?
+A: 57 plus 35 is 92.
+
+Q: What is 11 times 12?
+A: 11 times 12 is 132.
+
+Q: What is 15 times 12?
+A: 15 times 12 is 180.
+
+Q: What is 5 times 8?
+A: 5 times 8 is 40.
+
+Q: What is 1 plus 2?
+A: 1 plus 2 is 3.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
