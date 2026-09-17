@@ -53940,3 +53940,170 @@ A: The opposite of 'light' is 'dark'.
 
 Q: What is the opposite of 'clean'?
 A: The opposite of 'clean' is 'dirty'.
+Q: What currency does Germany use?
+A: The currency of Germany is the euro.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What currency does Mongolia use?
+A: The currency of Mongolia is the tugrik.
+
+Q: What currency does Fiji use?
+A: The currency of Fiji is the dollar.
+
+Q: What currency does China use?
+A: The currency of China is the yuan.
+
+Q: What currency does Croatia use?
+A: The currency of Croatia is the euro.
+
+Q: What currency does Azerbaijan use?
+A: The currency of Azerbaijan is the manat.
+
+Q: What currency does Iraq use?
+A: The currency of Iraq is the dinar.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What number is the Roman numeral i?
+A: The Roman numeral i is the number 1.
+
+Q: What number is the Roman numeral dlxiv?
+A: The Roman numeral dlxiv is the number 564.
+
+Q: What number is the Roman numeral lxxviii?
+A: The Roman numeral lxxviii is the number 78.
+
+Q: What is the Roman numeral for 185?
+A: The Roman numeral for 185 is clxxxv.
+
+Q: What is the Roman numeral for 78?
+A: The Roman numeral for 78 is lxxviii.
+
+Q: What number is the Roman numeral xvii?
+A: The Roman numeral xvii is the number 17.
+
+Q: What number is the Roman numeral xlix?
+A: The Roman numeral xlix is the number 49.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: What is 17 plus 18?
+A: 17 plus 18 is 35.
+
+Q: What is 19 plus 4?
+A: 19 plus 4 is 23.
+
+Q: What is 79 minus 42?
+A: 79 minus 42 is 37.
+
+Q: What is 2 times 5?
+A: 2 times 5 is 10.
+
+Q: What is 98 plus 39?
+A: 98 plus 39 is 137.
+
+Q: What is 9 times 4?
+A: 9 times 4 is 36.
+
+Q: What is 4 times 4?
+A: 4 times 4 is 16.
+
+Q: What is 808 minus 57?
+A: 808 minus 57 is 751.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
