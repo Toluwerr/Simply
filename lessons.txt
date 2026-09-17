@@ -50658,3 +50658,170 @@ A: 276 is bigger than 163.
 
 Q: Is 317 bigger than 737?
 A: No, 737 is bigger than 317.
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: How do you write 39 in words?
+A: 39 in words is thirty-nine.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What currency does Fiji use?
+A: The currency of Fiji is the dollar.
+
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: What currency does Hungary use?
+A: The currency of Hungary is the forint.
+
+Q: What currency does Uruguay use?
+A: The currency of Uruguay is the peso.
+
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Rhode Island?
+A: Providence is the capital of Rhode Island.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: How do you sort 29, 17, and 12?
+A: In order, they are 12 17 29.
+
+Q: How do you sort 386, 115, and 328?
+A: In order, they are 115 328 386.
+
+Q: How do you sort 130, 323, and 764?
+A: In order, they are 130 323 764.
+
+Q: How do you sort 13, 24, and 21?
+A: In order, they are 13 21 24.
+
+Q: How do you sort 10, 4, and 5?
+A: In order, they are 4 5 10.
+
+Q: How do you sort 17, 8, and 23?
+A: In order, they are 8 17 23.
+
+Q: How do you sort 26, 29, and 3?
+A: In order, they are 3 26 29.
+
+Q: How do you sort 780, 626, and 790?
+A: In order, they are 626 780 790.
+
+Q: What is the last letter of 'vietnam'?
+A: The last letter of 'vietnam' is M.
+
+Q: What is the first letter of 'doha'?
+A: The first letter of 'doha' is D.
+
+Q: What is the first letter of 'broken'?
+A: The first letter of 'broken' is B.
+
+Q: What is the first letter of 'plutonium'?
+A: The first letter of 'plutonium' is P.
+
+Q: What is the last letter of 'seychelles'?
+A: The last letter of 'seychelles' is S.
+
+Q: What is the first letter of 'late'?
+A: The first letter of 'late' is L.
+
+Q: What is the first letter of 'croak'?
+A: The first letter of 'croak' is C.
+
+Q: What is the first letter of 'eager'?
+A: The first letter of 'eager' is E.
