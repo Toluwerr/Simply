@@ -40894,3 +40894,170 @@ A: The first letter of 'liechtenstein' is L.
 
 Q: What is the first letter of 'mississippi'?
 A: The first letter of 'mississippi' is M.
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: How do you sort 864, 845, and 652?
+A: In order, they are 652 845 864.
+
+Q: How do you sort 8, 15, and 13?
+A: In order, they are 8 13 15.
+
+Q: How do you sort 562, 80, and 518?
+A: In order, they are 80 518 562.
+
+Q: How do you sort 362, 701, and 897?
+A: In order, they are 362 701 897.
+
+Q: How do you sort 521, 383, and 73?
+A: In order, they are 73 383 521.
+
+Q: How do you sort 675, 967, and 690?
+A: In order, they are 675 690 967.
+
+Q: How do you sort 918, 220, and 957?
+A: In order, they are 220 918 957.
+
+Q: How do you sort 245, 463, and 203?
+A: In order, they are 203 245 463.
+
+Q: What is the last letter of 'nassau'?
+A: The last letter of 'nassau' is U.
+
+Q: What is the first letter of 'robin'?
+A: The first letter of 'robin' is R.
+
+Q: What is the first letter of 'bee'?
+A: The first letter of 'bee' is B.
+
+Q: What is the last letter of 'tobago'?
+A: The last letter of 'tobago' is O.
+
+Q: What is the first letter of 'mali'?
+A: The first letter of 'mali' is M.
+
+Q: What is the last letter of 'tree'?
+A: The last letter of 'tree' is E.
+
+Q: What is the first letter of 'planet'?
+A: The first letter of 'planet' is P.
+
+Q: What is the last letter of 'bolivar'?
+A: The last letter of 'bolivar' is R.
+
+Q: What continent is Jordan on?
+A: Jordan is on the continent of Asia.
+
+Q: What continent is Sri Lanka on?
+A: Sri Lanka is on the continent of Asia.
+
+Q: What continent is Belarus on?
+A: Belarus is on the continent of Europe.
+
+Q: What continent is Germany on?
+A: Germany is on the continent of Europe.
+
+Q: What continent is Sweden on?
+A: Sweden is on the continent of Europe.
+
+Q: What continent is Yemen on?
+A: Yemen is on the continent of Asia.
+
+Q: What continent is Iceland on?
+A: Iceland is on the continent of Europe.
+
+Q: What continent is Qatar on?
+A: Qatar is on the continent of Asia.
+
+Q: What is the capital of Yemen?
+A: The capital of Yemen is Sanaa.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of Jordan?
+A: The capital of Jordan is Amman.
+
+Q: What is the capital of Djibouti?
+A: The capital of Djibouti is Djibouti.
+
+Q: What is the capital of Grenada?
+A: The capital of Grenada is Saint George's.
+
+Q: What is the capital of Ukraine?
+A: The capital of Ukraine is Kyiv.
+
+Q: What is the capital of Iceland?
+A: The capital of Iceland is Reykjavik.
+
+Q: What is the capital of Palau?
+A: The capital of Palau is Ngerulmud.
+
+Q: Can you count by twos from 20 to 28?
+A: Counting by twos gives 20 22 24 26 28.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by ones from 12 to 16?
+A: Counting by ones gives 12 13 14 15 16.
+
+Q: Can you count by ones from 38 to 43?
+A: Counting by ones gives 38 39 40 41 42 43.
+
+Q: Can you count by twos from 18 to 24?
+A: Counting by twos gives 18 20 22 24.
+
+Q: Can you count by twos from 32 to 40?
+A: Counting by twos gives 32 34 36 38 40.
+
+Q: Can you count by fives from 35 to 60?
+A: Counting by fives gives 35 40 45 50 55 60.
+
+Q: Can you count by ones from 8 to 11?
+A: Counting by ones gives 8 9 10 11.
+
+Q: Which is bigger, 16 or 57?
+A: 57 is bigger than 16.
+
+Q: Which is bigger, 64 or 90?
+A: 90 is bigger than 64.
+
+Q: Which is bigger, 75 or 53?
+A: 75 is bigger than 53.
+
+Q: Is 76 bigger than 58?
+A: Yes, 76 is bigger than 58.
+
+Q: Which is bigger, 90 or 65?
+A: 90 is bigger than 65.
+
+Q: Which is bigger, 492 or 873?
+A: 873 is bigger than 492.
+
+Q: Is 8 bigger than 15?
+A: No, 15 is bigger than 8.
+
+Q: Which is bigger, 507 or 483?
+A: 507 is bigger than 483.
