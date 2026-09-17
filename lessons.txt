@@ -18872,3 +18872,110 @@ A: Columbus is the capital of Ohio.
 
 Q: What is the capital of the US state Alabama?
 A: Montgomery is the capital of Alabama.
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: What is the largest island?
+A: Greenland is the largest island.
+
+Q: How many letters does the word 'republic' have?
+A: The word 'republic' has 8 letters.
+
+Q: How many letters does the word 'congo' have?
+A: The word 'congo' has 5 letters.
+
+Q: How many letters does the word 'mbabane' have?
+A: The word 'mbabane' has 7 letters.
+
+Q: How many letters does the word 'gold' have?
+A: The word 'gold' has 4 letters.
+
+Q: How many letters does the word 'burundi' have?
+A: The word 'burundi' has 7 letters.
+
+Q: How many letters does the word 'iraq' have?
+A: The word 'iraq' has 4 letters.
+
+Q: How do you sort 4, 1, and 9?
+A: In order, they are 1 4 9.
+
+Q: How do you sort 24, 6, and 18?
+A: In order, they are 6 18 24.
+
+Q: How do you sort 47, 921, and 878?
+A: In order, they are 47 878 921.
+
+Q: How do you sort 14, 29, and 15?
+A: In order, they are 14 15 29.
+
+Q: How do you sort 12, 84, and 615?
+A: In order, they are 12 84 615.
+
+Q: How do you sort 29, 28, and 3?
+A: In order, they are 3 28 29.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is 3 times 3?
+A: 3 times 3 is 9.
+
+Q: What is 7 times 3?
+A: 7 times 3 is 21.
+
+Q: What is 54 minus 38?
+A: 54 minus 38 is 16.
+
+Q: What is 12 times 18?
+A: 12 times 18 is 216.
+
+Q: What is 814 minus 763?
+A: 814 minus 763 is 51.
+
+Q: What is 2 times 7?
+A: 2 times 7 is 14.
+
+Q: Is 498 bigger than 224?
+A: Yes, 498 is bigger than 224.
+
+Q: Which is bigger, 17 or 20?
+A: 20 is bigger than 17.
+
+Q: Is 428 bigger than 278?
+A: Yes, 428 is bigger than 278.
+
+Q: Which is bigger, 12 or 16?
+A: 16 is bigger than 12.
+
+Q: Is 46 bigger than 67?
+A: No, 67 is bigger than 46.
+
+Q: Which is bigger, 454 or 265?
+A: 454 is bigger than 265.

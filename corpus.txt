@@ -12077,3 +12077,19 @@ A: 9 is bigger than 7.
 
 Q: What is the Roman numeral for 11?
 A: The Roman numeral for 11 is xii.
+
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.
+
+Q: What continent is Italy on?
+A: Italy is on the continent of Europe.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 is 0 polite and bulls it more. Hine there is a will bear.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What currency does Oman use?
+A: The currency of Oman is the rial.
