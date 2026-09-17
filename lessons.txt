@@ -40760,3 +40760,170 @@ A: 41 in words is forty-one.
 
 Q: How do you write 72 in words?
 A: 72 in words is seventy-two.
+Q: Which is bigger, 18 or 9?
+A: 18 is bigger than 9.
+
+Q: Is 19 bigger than 20?
+A: No, 20 is bigger than 19.
+
+Q: Is 39 bigger than 46?
+A: No, 46 is bigger than 39.
+
+Q: Is 59 bigger than 80?
+A: No, 80 is bigger than 59.
+
+Q: Which is bigger, 16 or 9?
+A: 16 is bigger than 9.
+
+Q: Which is bigger, 968 or 329?
+A: 968 is bigger than 329.
+
+Q: Which is bigger, 607 or 837?
+A: 837 is bigger than 607.
+
+Q: Which is bigger, 355 or 649?
+A: 649 is bigger than 355.
+
+Q: How do you sort 18, 5, and 6?
+A: In order, they are 5 6 18.
+
+Q: How do you sort 753, 415, and 703?
+A: In order, they are 415 703 753.
+
+Q: How do you sort 4, 5, and 15?
+A: In order, they are 4 5 15.
+
+Q: How do you sort 7, 5, and 2?
+A: In order, they are 2 5 7.
+
+Q: How do you sort 27, 12, and 6?
+A: In order, they are 6 12 27.
+
+Q: How do you sort 23, 3, and 16?
+A: In order, they are 3 16 23.
+
+Q: How do you sort 10, 12, and 16?
+A: In order, they are 10 12 16.
+
+Q: How do you sort 1, 6, and 22?
+A: In order, they are 1 6 22.
+
+Q: What continent is Azerbaijan on?
+A: Azerbaijan is on the continent of Asia.
+
+Q: What continent is Kazakhstan on?
+A: Kazakhstan is on the continent of Asia.
+
+Q: What continent is Chad on?
+A: Chad is on the continent of Africa.
+
+Q: What continent is Sri Lanka on?
+A: Sri Lanka is on the continent of Asia.
+
+Q: What continent is China on?
+A: China is on the continent of Asia.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is Kiribati on?
+A: Kiribati is on the continent of Oceania.
+
+Q: What continent is Sweden on?
+A: Sweden is on the continent of Europe.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 45 in words?
+A: 45 in words is forty-five.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of Mongolia?
+A: The capital of Mongolia is Ulaanbaatar.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+
+Q: What is the capital of Zimbabwe?
+A: The capital of Zimbabwe is Harare.
+
+Q: What is the capital of Bolivia?
+A: The capital of Bolivia is La Paz.
+
+Q: What is the capital of Uruguay?
+A: The capital of Uruguay is Montevideo.
+
+Q: What is the capital of Paraguay?
+A: The capital of Paraguay is Asuncion.
+
+Q: What is the capital of Uzbekistan?
+A: The capital of Uzbekistan is Tashkent.
+
+Q: What is the capital of Thailand?
+A: The capital of Thailand is Bangkok.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What is the biggest hot desert?
+A: The Sahara is the biggest hot desert.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
