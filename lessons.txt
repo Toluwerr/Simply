@@ -53377,3 +53377,146 @@ A: Half of 56 is 28.
 
 Q: What is half of 16?
 A: Half of 16 is 8.
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: How many letters does the word 'addis' have?
+A: The word 'addis' has 5 letters.
+
+Q: How many letters does the word 'khartoum' have?
+A: The word 'khartoum' has 8 letters.
+
+Q: How many letters does the word 'lazy' have?
+A: The word 'lazy' has 4 letters.
+
+Q: How many letters does the word 'with' have?
+A: The word 'with' has 4 letters.
+
+Q: How many letters does the word 'equatorial' have?
+A: The word 'equatorial' has 10 letters.
+
+Q: How many letters does the word 'long' have?
+A: The word 'long' has 4 letters.
+
+Q: How many letters does the word 'brasilia' have?
+A: The word 'brasilia' has 8 letters.
+
+Q: How many letters does the word 'republic' have?
+A: The word 'republic' has 8 letters.
+
+Q: What is 176 plus 539?
+A: 176 plus 539 is 715.
+
+Q: What is 9 minus 4?
+A: 9 minus 4 is 5.
+
+Q: What is 644 plus 138?
+A: 644 plus 138 is 782.
+
+Q: What is 35 plus 59?
+A: 35 plus 59 is 94.
+
+Q: What is 602 minus 324?
+A: 602 minus 324 is 278.
+
+Q: What is 5 times 7?
+A: 5 times 7 is 35.
+
+Q: What is 43 plus 41?
+A: 43 plus 41 is 84.
+
+Q: What is 10 times 11?
+A: 10 times 11 is 110.
+
+Q: What continent is New Zealand on?
+A: New Zealand is on the continent of Oceania.
+
+Q: What continent is New Zealand on?
+A: New Zealand is on the continent of Oceania.
+
+Q: What continent is North Korea on?
+A: North Korea is on the continent of Asia.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is Kuwait on?
+A: Kuwait is on the continent of Asia.
+
+Q: What continent is China on?
+A: China is on the continent of Asia.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is Argentina on?
+A: Argentina is on the continent of South America.
+
+Q: What currency does Malta use?
+A: The currency of Malta is the euro.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Switzerland use?
+A: The currency of Switzerland is the franc.
+
+Q: What currency does Austria use?
+A: The currency of Austria is the euro.
+
+Q: What currency does Nigeria use?
+A: The currency of Nigeria is the naira.
+
+Q: What currency does Paraguay use?
+A: The currency of Paraguay is the guarani.
+
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
