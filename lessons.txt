@@ -49790,3 +49790,146 @@ A: Half of 26 is 13.
 
 Q: What is double 49?
 A: Double 49 is 98.
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: How many letters does the word 'benin' have?
+A: The word 'benin' has 5 letters.
+
+Q: How many letters does the word 'tarawa' have?
+A: The word 'tarawa' has 6 letters.
+
+Q: How many letters does the word 'japan' have?
+A: The word 'japan' has 5 letters.
+
+Q: How many letters does the word 'reykjavik' have?
+A: The word 'reykjavik' has 9 letters.
+
+Q: How many letters does the word 'estonia' have?
+A: The word 'estonia' has 7 letters.
+
+Q: How many letters does the word 'virginia' have?
+A: The word 'virginia' has 8 letters.
+
+Q: How many letters does the word 'bandar' have?
+A: The word 'bandar' has 6 letters.
+
+Q: How many letters does the word 'yaounde' have?
+A: The word 'yaounde' has 7 letters.
+
+Q: What is 3 times 6?
+A: 3 times 6 is 18.
+
+Q: What is 854 minus 118?
+A: 854 minus 118 is 736.
+
+Q: What is 65 minus 33?
+A: 65 minus 33 is 32.
+
+Q: What is 15 minus 9?
+A: 15 minus 9 is 6.
+
+Q: What is 11 times 9?
+A: 11 times 9 is 99.
+
+Q: What is 3 minus 1?
+A: 3 minus 1 is 2.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is 89 plus 78?
+A: 89 plus 78 is 167.
+
+Q: What continent is Slovakia on?
+A: Slovakia is on the continent of Europe.
+
+Q: What continent is Malaysia on?
+A: Malaysia is on the continent of Asia.
+
+Q: What continent is Samoa on?
+A: Samoa is on the continent of Oceania.
+
+Q: What continent is Argentina on?
+A: Argentina is on the continent of South America.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is Nepal on?
+A: Nepal is on the continent of Asia.
+
+Q: What continent is North Macedonia on?
+A: North Macedonia is on the continent of Europe.
+
+Q: What continent is Mali on?
+A: Mali is on the continent of Africa.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What currency does France use?
+A: The currency of France is the euro.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: What currency does Bangladesh use?
+A: The currency of Bangladesh is the taka.
+
+Q: What currency does India use?
+A: The currency of India is the rupee.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 50 in words?
+A: 50 in words is fifty.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 49 in words?
+A: 49 in words is forty-nine.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
+
+Q: How do you write 92 in words?
+A: 92 in words is ninety-two.
