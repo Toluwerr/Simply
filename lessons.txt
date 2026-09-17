@@ -57589,3 +57589,170 @@ A: The capital of Nigeria is Abuja.
 
 Q: What is the capital of Liechtenstein?
 A: The capital of Liechtenstein is Vaduz.
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: Which element has the chemical symbol S?
+A: S is the chemical symbol for sulfur.
+
+Q: Which element has the chemical symbol Al?
+A: Al is the chemical symbol for aluminium.
+
+Q: Which element has the chemical symbol Ge?
+A: Ge is the chemical symbol for germanium.
+
+Q: Which element has the chemical symbol Sn?
+A: Sn is the chemical symbol for tin.
+
+Q: What is the chemical symbol for krypton?
+A: The chemical symbol for krypton is Kr.
+
+Q: What is the chemical symbol for americium?
+A: The chemical symbol for americium is Am.
+
+Q: Which element has the chemical symbol Cu?
+A: Cu is the chemical symbol for copper.
+
+Q: Which element has the chemical symbol Zn?
+A: Zn is the chemical symbol for zinc.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What number is the Roman numeral vi?
+A: The Roman numeral vi is the number 6.
+
+Q: What is the Roman numeral for 14?
+A: The Roman numeral for 14 is xiv.
+
+Q: What number is the Roman numeral dlxx?
+A: The Roman numeral dlxx is the number 570.
+
+Q: What number is the Roman numeral xxv?
+A: The Roman numeral xxv is the number 25.
+
+Q: What number is the Roman numeral lxxxviii?
+A: The Roman numeral lxxxviii is the number 88.
+
+Q: What number is the Roman numeral x?
+A: The Roman numeral x is the number 10.
+
+Q: What is the Roman numeral for 767?
+A: The Roman numeral for 767 is dcclxvii.
+
+Q: What is the last letter of 'kyrgyzstan'?
+A: The last letter of 'kyrgyzstan' is N.
+
+Q: What is the first letter of 'vermont'?
+A: The first letter of 'vermont' is V.
+
+Q: What is the last letter of 'earth'?
+A: The last letter of 'earth' is H.
+
+Q: What is the last letter of 'bangkok'?
+A: The last letter of 'bangkok' is K.
+
+Q: What is the first letter of 'bogota'?
+A: The first letter of 'bogota' is B.
+
+Q: What is the first letter of 'full'?
+A: The first letter of 'full' is F.
+
+Q: What is the last letter of 'respectful'?
+A: The last letter of 'respectful' is L.
+
+Q: What is the first letter of 'tuvalu'?
+A: The first letter of 'tuvalu' is T.
+
+Q: Is 655 bigger than 630?
+A: Yes, 655 is bigger than 630.
+
+Q: Which is bigger, 19 or 17?
+A: 19 is bigger than 17.
+
+Q: Is 4 bigger than 17?
+A: No, 17 is bigger than 4.
+
+Q: Is 780 bigger than 460?
+A: Yes, 780 is bigger than 460.
+
+Q: Is 298 bigger than 694?
+A: No, 694 is bigger than 298.
+
+Q: Which is bigger, 447 or 860?
+A: 860 is bigger than 447.
+
+Q: Which is bigger, 835 or 646?
+A: 835 is bigger than 646.
+
+Q: Is 80 bigger than 41?
+A: Yes, 80 is bigger than 41.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is half of 34?
+A: Half of 34 is 17.
+
+Q: What is double 42?
+A: Double 42 is 84.
+
+Q: What is double 22?
+A: Double 22 is 44.
+
+Q: What is double 53?
+A: Double 53 is 106.
+
+Q: What is double 18?
+A: Double 18 is 36.
+
+Q: What is double 13?
+A: Double 13 is 26.
+
+Q: What is double 9?
+A: Double 9 is 18.
