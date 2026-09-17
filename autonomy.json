@@ -9,8 +9,8 @@
       "reward": 6.0
     },
     "drill": {
-      "tries": 8,
-      "reward": 38.0
+      "tries": 9,
+      "reward": 42.0
     },
     "create": {
       "tries": 1,
@@ -27,11 +27,6 @@
   "last": "drill",
   "goals": [
     {
-      "kind": "read",
-      "target": 1037,
-      "text": "read 1,037 articles all-time (now 837)"
-    },
-    {
       "kind": "know",
       "target": 0.16,
       "text": "lift the knowledge quiz average to 0.16"
@@ -40,6 +35,11 @@
       "kind": "write",
       "target": 2135,
       "text": "write 2135 verified examples of its own (now 2075)"
+    },
+    {
+      "kind": "master",
+      "cat": "currencies",
+      "text": "master the 'currencies' subject (quiz 1.0)"
     }
   ],
   "runs": 14
