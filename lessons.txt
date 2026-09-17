@@ -52256,3 +52256,170 @@ A: Yes, 5 is bigger than 2.
 
 Q: Is 937 bigger than 798?
 A: Yes, 937 is bigger than 798.
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 55 in words?
+A: 55 in words is fifty-five.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.
+
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What currency does Latvia use?
+A: The currency of Latvia is the euro.
+
+Q: What currency does Botswana use?
+A: The currency of Botswana is the pula.
+
+Q: What currency does New Zealand use?
+A: The currency of New Zealand is the dollar.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Connecticut?
+A: Hartford is the capital of Connecticut.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: How do you sort 178, 932, and 785?
+A: In order, they are 178 785 932.
+
+Q: How do you sort 668, 878, and 243?
+A: In order, they are 243 668 878.
+
+Q: How do you sort 50, 412, and 726?
+A: In order, they are 50 412 726.
+
+Q: How do you sort 144, 216, and 586?
+A: In order, they are 144 216 586.
+
+Q: How do you sort 21, 18, and 13?
+A: In order, they are 13 18 21.
+
+Q: How do you sort 136, 112, and 108?
+A: In order, they are 108 112 136.
+
+Q: How do you sort 618, 431, and 287?
+A: In order, they are 287 431 618.
+
+Q: How do you sort 8, 9, and 1?
+A: In order, they are 1 8 9.
+
+Q: What is the first letter of 'maple'?
+A: The first letter of 'maple' is M.
+
+Q: What is the first letter of 'brazzaville'?
+A: The first letter of 'brazzaville' is B.
+
+Q: What is the last letter of 'dim'?
+A: The last letter of 'dim' is M.
+
+Q: What is the last letter of 'wellington'?
+A: The last letter of 'wellington' is N.
+
+Q: What is the last letter of 'short'?
+A: The last letter of 'short' is T.
+
+Q: What is the first letter of 'croak'?
+A: The first letter of 'croak' is C.
+
+Q: What is the first letter of 'won'?
+A: The first letter of 'won' is W.
+
+Q: What is the last letter of 'roseau'?
+A: The last letter of 'roseau' is U.
