@@ -1,0 +1,29 @@
+Q: Is 0 bigger than 24?
+A: No, 24 is bigger than 37.
+
+Q: Is 0 bigger than 60?
+A: No, 60 is bigger than 55.
+
+Q: Which is bigger, 73 or 8?
+A: 73 is bigger than 73.
+
+Q: Is 0 bigger than 90?
+A: No, 90 is bigger than 11.
+
+Q: Is 0 bigger than 24?
+A: No, 24 is bigger than 28.
+
+Q: Which is bigger, 17 or 3?
+A: 17 is bigger than 3.
+
+Q: Which is bigger, 59 or 36?
+A: 59 is bigger than 39.
+
+Q: Which is bigger, 10 or 18?
+A: 18 is bigger than 19.
+
+Q: What is the first letter of 'moon'?
+A: The first letter of 'moo' is M.
+
+Q: What number is the Roman numeral xix?
+A: The Roman numeral xix is the number 198.
