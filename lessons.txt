@@ -36968,3 +36968,146 @@ A: 'rude' means not polite.
 
 Q: What does 'swift' mean?
 A: 'swift' means moving very fast.
+Q: What is 540 plus 787?
+A: 540 plus 787 is 1327.
+
+Q: What is 475 minus 360?
+A: 475 minus 360 is 115.
+
+Q: What is 10 times 5?
+A: 10 times 5 is 50.
+
+Q: What is 14 minus 2?
+A: 14 minus 2 is 12.
+
+Q: What is 3 plus 20?
+A: 3 plus 20 is 23.
+
+Q: What is 2 times 4?
+A: 2 times 4 is 8.
+
+Q: What is 776 minus 66?
+A: 776 minus 66 is 710.
+
+Q: What is 1 plus 16?
+A: 1 plus 16 is 17.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: How many sides does a triangle have?
+A: A triangle has 3 sides.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: How many bones does an adult human have?
+A: An adult human has 206 bones.
+
+Q: How many sides does a triangle have?
+A: A triangle has 3 sides.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: Can you count by twos from 36 to 44?
+A: Counting by twos gives 36 38 40 42 44.
+
+Q: Can you count by twos from 28 to 38?
+A: Counting by twos gives 28 30 32 34 36 38.
+
+Q: Can you count by twos from 20 to 24?
+A: Counting by twos gives 20 22 24.
+
+Q: Can you count by twos from 8 to 16?
+A: Counting by twos gives 8 10 12 14 16.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by fives from 35 to 55?
+A: Counting by fives gives 35 40 45 50 55.
+
+Q: Can you count by ones from 27 to 30?
+A: Counting by ones gives 27 28 29 30.
+
+Q: What is double 11?
+A: Double 11 is 22.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is double 15?
+A: Double 15 is 30.
+
+Q: What is double 9?
+A: Double 9 is 18.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What currency does Italy use?
+A: The currency of Italy is the euro.
+
+Q: What currency does the United Kingdom use?
+A: The currency of the United Kingdom is the pound.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What currency does Ukraine use?
+A: The currency of Ukraine is the hryvnia.
+
+Q: What currency does Turkmenistan use?
+A: The currency of Turkmenistan is the manat.
+
+Q: What currency does the Bahamas use?
+A: The currency of the Bahamas is the dollar.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: What currency does Senegal use?
+A: The currency of Senegal is the franc.
