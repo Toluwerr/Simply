@@ -44710,3 +44710,146 @@ A: The currency of Germany is the euro.
 
 Q: What currency does Turkmenistan use?
 A: The currency of Turkmenistan is the manat.
+Q: How many letters does the word 'december' have?
+A: The word 'december' has 8 letters.
+
+Q: How many letters does the word 'wanting' have?
+A: The word 'wanting' has 7 letters.
+
+Q: How many letters does the word 'damp' have?
+A: The word 'damp' has 4 letters.
+
+Q: How many letters does the word 'phnom' have?
+A: The word 'phnom' has 5 letters.
+
+Q: How many letters does the word 'attach' have?
+A: The word 'attach' has 6 letters.
+
+Q: How many letters does the word 'mogadishu' have?
+A: The word 'mogadishu' has 9 letters.
+
+Q: How many letters does the word 'garden' have?
+A: The word 'garden' has 6 letters.
+
+Q: How many letters does the word 'rwanda' have?
+A: The word 'rwanda' has 6 letters.
+
+Q: What is the last letter of 'bee'?
+A: The last letter of 'bee' is E.
+
+Q: What is the first letter of 'congo'?
+A: The first letter of 'congo' is C.
+
+Q: What is the last letter of 'lucia'?
+A: The last letter of 'lucia' is A.
+
+Q: What is the first letter of 'maldives'?
+A: The first letter of 'maldives' is M.
+
+Q: What is the last letter of 'czech'?
+A: The last letter of 'czech' is H.
+
+Q: What is the last letter of 'whale'?
+A: The last letter of 'whale' is E.
+
+Q: What is the first letter of 'lithium'?
+A: The first letter of 'lithium' is L.
+
+Q: What is the last letter of 'plant'?
+A: The last letter of 'plant' is T.
+
+Q: How do you sort 26, 4, and 6?
+A: In order, they are 4 6 26.
+
+Q: How do you sort 306, 12, and 689?
+A: In order, they are 12 306 689.
+
+Q: How do you sort 6, 4, and 20?
+A: In order, they are 4 6 20.
+
+Q: How do you sort 766, 769, and 946?
+A: In order, they are 766 769 946.
+
+Q: How do you sort 17, 11, and 2?
+A: In order, they are 2 11 17.
+
+Q: How do you sort 24, 9, and 8?
+A: In order, they are 8 9 24.
+
+Q: How do you sort 241, 279, and 12?
+A: In order, they are 12 241 279.
+
+Q: How do you sort 182, 235, and 651?
+A: In order, they are 182 235 651.
+
+Q: Is 40 bigger than 87?
+A: No, 87 is bigger than 40.
+
+Q: Which is bigger, 41 or 27?
+A: 41 is bigger than 27.
+
+Q: Which is bigger, 13 or 51?
+A: 51 is bigger than 13.
+
+Q: Is 16 bigger than 13?
+A: Yes, 16 is bigger than 13.
+
+Q: Which is bigger, 19 or 14?
+A: 19 is bigger than 14.
+
+Q: Which is bigger, 17 or 3?
+A: 17 is bigger than 3.
+
+Q: Which is bigger, 6 or 15?
+A: 15 is bigger than 6.
+
+Q: Which is bigger, 13 or 14?
+A: 14 is bigger than 13.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: What is the capital of Libya?
+A: The capital of Libya is Tripoli.
+
+Q: What is the capital of Mauritius?
+A: The capital of Mauritius is Port Louis.
+
+Q: What is the capital of Slovakia?
+A: The capital of Slovakia is Bratislava.
+
+Q: What is the capital of Tanzania?
+A: The capital of Tanzania is Dodoma.
+
+Q: What is the capital of Laos?
+A: The capital of Laos is Vientiane.
+
+Q: What is the capital of Mauritania?
+A: The capital of Mauritania is Nouakchott.
+
+Q: What is the capital of Belarus?
+A: The capital of Belarus is Minsk.
+
+Q: What is the capital of Tanzania?
+A: The capital of Tanzania is Dodoma.

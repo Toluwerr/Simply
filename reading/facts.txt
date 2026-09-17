@@ -4123,3 +4123,36 @@ A: Ross is a teacher at the Ting-Wen Institute, a private school for Chinese boy
 
 Q: What is Aina Wifalk?
 A: Aina Wifalk is a Swedish social scientist and inventor of the modern walker.
+
+Q: What is Internet vigilantism?
+A: Internet vigilantism is the act of carrying out vigilante activities through the Internet.
+
+Q: What is Cionopsis?
+A: Cionopsis is a genus of true weevils in the beetle family Curculionidae.
+
+Q: What is General Sir Richard Wilbraham?
+A: General Sir Richard Wilbraham is a British Army officer who became colonel of the Royal Fusiliers.
+
+Q: What is Goiana?
+A: Goiana is a city in Brazil in the northeast of the state of Pernambuco, roughly 65 km north of the city of Recife.
+
+Q: What is HMS Douglas?
+A: HMS Douglas is an Admiralty type flotilla leader of the British Royal Navy.
+
+Q: What is Get Rhythm?
+A: Get Rhythm is a song written and recorded by American singer-songwriter and musician Johnny Cash.
+
+Q: What is Se Acab?
+A: Se Acab is a Spanish language phrase meaning it's over.
+
+Q: What is More formally, a ring?
+A: More formally, a ring is a set that is endowed with two binary operations such that the ring is an abelian group with respect to addition.
+
+Q: What is Reverse mathematics?
+A: Reverse mathematics is a program in mathematical logic that seeks to determine which axioms are required to prove theorems of mathematics.
+
+Q: What is Further Mathematics?
+A: Further Mathematics is the title given to a number of advanced secondary mathematics courses.
+
+Q: What is Mathematical logic?
+A: Mathematical logic is the study of formal logic within mathematics.
