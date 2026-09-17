@@ -53439,3 +53439,170 @@ A: 12 is bigger than 7.
 
 Q: Is 19 bigger than 93?
 A: No, 93 is bigger than 19.
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 52 in words?
+A: 52 in words is fifty-two.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 2 in words?
+A: 2 in words is two.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 55 in words?
+A: 55 in words is fifty-five.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Israel use?
+A: The currency of Israel is the shekel.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
+
+Q: What currency does Bangladesh use?
+A: The currency of Bangladesh is the taka.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does Brazil use?
+A: The currency of Brazil is the real.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: How do you sort 730, 193, and 300?
+A: In order, they are 193 300 730.
+
+Q: How do you sort 26, 20, and 11?
+A: In order, they are 11 20 26.
+
+Q: How do you sort 392, 959, and 714?
+A: In order, they are 392 714 959.
+
+Q: How do you sort 857, 589, and 939?
+A: In order, they are 589 857 939.
+
+Q: How do you sort 119, 481, and 324?
+A: In order, they are 119 324 481.
+
+Q: How do you sort 12, 15, and 29?
+A: In order, they are 12 15 29.
+
+Q: How do you sort 672, 528, and 213?
+A: In order, they are 213 528 672.
+
+Q: How do you sort 28, 26, and 14?
+A: In order, they are 14 26 28.
+
+Q: What is the last letter of 'japan'?
+A: The last letter of 'japan' is N.
+
+Q: What is the last letter of 'bangkok'?
+A: The last letter of 'bangkok' is K.
+
+Q: What is the last letter of 'camel'?
+A: The last letter of 'camel' is L.
+
+Q: What is the last letter of 'yerevan'?
+A: The last letter of 'yerevan' is N.
+
+Q: What is the first letter of 'cow'?
+A: The first letter of 'cow' is C.
+
+Q: What is the last letter of 'iraq'?
+A: The last letter of 'iraq' is Q.
+
+Q: What is the first letter of 'fish'?
+A: The first letter of 'fish' is F.
+
+Q: What is the last letter of 'dirham'?
+A: The last letter of 'dirham' is M.
