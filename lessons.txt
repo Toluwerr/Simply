@@ -42668,3 +42668,170 @@ A: Yes, 14 is bigger than 5.
 
 Q: Which is bigger, 93 or 59?
 A: 93 is bigger than 59.
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: How do you write 93 in words?
+A: 93 in words is ninety-three.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: What currency does Trinidad and Tobago use?
+A: The currency of Trinidad and Tobago is the dollar.
+
+Q: What currency does Malta use?
+A: The currency of Malta is the euro.
+
+Q: What currency does Brazil use?
+A: The currency of Brazil is the real.
+
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What currency does Chile use?
+A: The currency of Chile is the peso.
+
+Q: What currency does Armenia use?
+A: The currency of Armenia is the dram.
+
+Q: What currency does Kuwait use?
+A: The currency of Kuwait is the dinar.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: How do you sort 632, 595, and 781?
+A: In order, they are 595 632 781.
+
+Q: How do you sort 796, 385, and 304?
+A: In order, they are 304 385 796.
+
+Q: How do you sort 22, 228, and 131?
+A: In order, they are 22 131 228.
+
+Q: How do you sort 53, 572, and 222?
+A: In order, they are 53 222 572.
+
+Q: How do you sort 25, 21, and 7?
+A: In order, they are 7 21 25.
+
+Q: How do you sort 27, 21, and 10?
+A: In order, they are 10 21 27.
+
+Q: How do you sort 29, 14, and 26?
+A: In order, they are 14 26 29.
+
+Q: How do you sort 184, 741, and 513?
+A: In order, they are 184 513 741.
+
+Q: What is the last letter of 'leu'?
+A: The last letter of 'leu' is U.
+
+Q: What is the first letter of 'wide'?
+A: The first letter of 'wide' is W.
+
+Q: What is the last letter of 'oceania'?
+A: The last letter of 'oceania' is A.
+
+Q: What is the first letter of 'cairo'?
+A: The first letter of 'cairo' is C.
+
+Q: What is the first letter of 'garden'?
+A: The first letter of 'garden' is G.
+
+Q: What is the last letter of 'montpelier'?
+A: The last letter of 'montpelier' is R.
+
+Q: What is the first letter of 'manama'?
+A: The first letter of 'manama' is M.
+
+Q: What is the first letter of 'bottle'?
+A: The first letter of 'bottle' is B.
