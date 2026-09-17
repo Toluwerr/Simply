@@ -33271,3 +33271,170 @@ A: The first letter of 'asuncion' is A.
 
 Q: What is the first letter of 'vietnam'?
 A: The first letter of 'vietnam' is V.
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: How do you sort 6, 26, and 5?
+A: In order, they are 5 6 26.
+
+Q: How do you sort 8, 21, and 2?
+A: In order, they are 2 8 21.
+
+Q: How do you sort 949, 10, and 604?
+A: In order, they are 10 604 949.
+
+Q: How do you sort 10, 22, and 24?
+A: In order, they are 10 22 24.
+
+Q: How do you sort 3, 4, and 1?
+A: In order, they are 1 3 4.
+
+Q: How do you sort 919, 575, and 669?
+A: In order, they are 575 669 919.
+
+Q: How do you sort 11, 29, and 5?
+A: In order, they are 5 11 29.
+
+Q: How do you sort 1, 25, and 21?
+A: In order, they are 1 21 25.
+
+Q: What is the last letter of 'cheyenne'?
+A: The last letter of 'cheyenne' is E.
+
+Q: What is the first letter of 'bern'?
+A: The first letter of 'bern' is B.
+
+Q: What is the first letter of 'algeria'?
+A: The first letter of 'algeria' is A.
+
+Q: What is the last letter of 'tunisia'?
+A: The last letter of 'tunisia' is A.
+
+Q: What is the first letter of 'neodymium'?
+A: The first letter of 'neodymium' is N.
+
+Q: What is the first letter of 'mouse'?
+A: The first letter of 'mouse' is M.
+
+Q: What is the first letter of 'inside'?
+A: The first letter of 'inside' is I.
+
+Q: What is the last letter of 'cobalt'?
+A: The last letter of 'cobalt' is T.
+
+Q: What continent is Gabon on?
+A: Gabon is on the continent of Africa.
+
+Q: What continent is the Republic of the Congo on?
+A: the Republic of the Congo is on the continent of Africa.
+
+Q: What continent is Tuvalu on?
+A: Tuvalu is on the continent of Oceania.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: What continent is Somalia on?
+A: Somalia is on the continent of Africa.
+
+Q: What continent is Lesotho on?
+A: Lesotho is on the continent of Africa.
+
+Q: What continent is Madagascar on?
+A: Madagascar is on the continent of Africa.
+
+Q: What continent is Norway on?
+A: Norway is on the continent of Europe.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
+
+Q: What is the capital of Gambia?
+A: The capital of Gambia is Banjul.
+
+Q: What is the capital of Brunei?
+A: The capital of Brunei is Bandar Seri Begawan.
+
+Q: What is the capital of Malta?
+A: The capital of Malta is Valletta.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of Saudi Arabia?
+A: The capital of Saudi Arabia is Riyadh.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: Can you count by fives from 25 to 45?
+A: Counting by fives gives 25 30 35 40 45.
+
+Q: Can you count by fives from 15 to 40?
+A: Counting by fives gives 15 20 25 30 35 40.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by fives from 30 to 45?
+A: Counting by fives gives 30 35 40 45.
+
+Q: Can you count by fives from 15 to 35?
+A: Counting by fives gives 15 20 25 30 35.
+
+Q: Can you count by ones from 9 to 13?
+A: Counting by ones gives 9 10 11 12 13.
+
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 25 30 35.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 45.
+
+Q: Is 11 bigger than 5?
+A: Yes, 11 is bigger than 5.
+
+Q: Which is bigger, 24 or 94?
+A: 94 is bigger than 24.
+
+Q: Is 8 bigger than 5?
+A: Yes, 8 is bigger than 5.
+
+Q: Is 980 bigger than 510?
+A: Yes, 980 is bigger than 510.
+
+Q: Is 13 bigger than 9?
+A: Yes, 13 is bigger than 9.
+
+Q: Which is bigger, 6 or 7?
+A: 7 is bigger than 6.
+
+Q: Is 926 bigger than 510?
+A: Yes, 926 is bigger than 510.
+
+Q: Which is bigger, 43 or 17?
+A: 43 is bigger than 17.
