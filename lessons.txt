@@ -38008,3 +38008,170 @@ A: The capital of Nauru is Yaren.
 
 Q: What is the capital of Antigua and Barbuda?
 A: The capital of Antigua and Barbuda is Saint John's.
+Q: What is 909 minus 668?
+A: 909 minus 668 is 241.
+
+Q: What is 14 minus 2?
+A: 14 minus 2 is 12.
+
+Q: What is 321 minus 298?
+A: 321 minus 298 is 23.
+
+Q: What is 6 times 4?
+A: 6 times 4 is 24.
+
+Q: What is 2 times 6?
+A: 2 times 6 is 12.
+
+Q: What is 263 plus 177?
+A: 263 plus 177 is 440.
+
+Q: What is 5 times 6?
+A: 5 times 6 is 30.
+
+Q: What is 56 minus 52?
+A: 56 minus 52 is 4.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Norway on?
+A: Norway is on the continent of Europe.
+
+Q: What continent is Denmark on?
+A: Denmark is on the continent of Europe.
+
+Q: What continent is Malawi on?
+A: Malawi is on the continent of Africa.
+
+Q: What continent is Estonia on?
+A: Estonia is on the continent of Europe.
+
+Q: What continent is Austria on?
+A: Austria is on the continent of Europe.
+
+Q: What continent is Chad on?
+A: Chad is on the continent of Africa.
+
+Q: What continent is Benin on?
+A: Benin is on the continent of Africa.
+
+Q: What is the first letter of 'bee'?
+A: The first letter of 'bee' is B.
+
+Q: What is the first letter of 'dakar'?
+A: The first letter of 'dakar' is D.
+
+Q: What is the last letter of 'cedi'?
+A: The last letter of 'cedi' is I.
+
+Q: What is the first letter of 'neodymium'?
+A: The first letter of 'neodymium' is N.
+
+Q: What is the last letter of 'dysprosium'?
+A: The last letter of 'dysprosium' is M.
+
+Q: What is the first letter of 'tunisia'?
+A: The first letter of 'tunisia' is T.
+
+Q: What is the last letter of 'london'?
+A: The last letter of 'london' is N.
+
+Q: What is the last letter of 'madagascar'?
+A: The last letter of 'madagascar' is R.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does the Czech Republic use?
+A: The currency of the Czech Republic is the koruna.
+
+Q: What currency does Bangladesh use?
+A: The currency of Bangladesh is the taka.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+
+Q: What is the capital of Guinea?
+A: The capital of Guinea is Conakry.
+
+Q: What is the capital of Nepal?
+A: The capital of Nepal is Kathmandu.
+
+Q: What is the capital of Vanuatu?
+A: The capital of Vanuatu is Port Vila.
+
+Q: What is the capital of Sierra Leone?
+A: The capital of Sierra Leone is Freetown.
+
+Q: What is the capital of Luxembourg?
+A: The capital of Luxembourg is Luxembourg.
+
+Q: What is the capital of Uganda?
+A: The capital of Uganda is Kampala.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
