@@ -42659,3 +42659,170 @@ A: 99 is bigger than 84.
 
 Q: Is 722 bigger than 418?
 A: Yes, 722 is bigger than 418.
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What continent is Mauritania on?
+A: Mauritania is on the continent of Africa.
+
+Q: What continent is Bolivia on?
+A: Bolivia is on the continent of South America.
+
+Q: What continent is Ghana on?
+A: Ghana is on the continent of Africa.
+
+Q: What continent is Vatican City on?
+A: Vatican City is on the continent of Europe.
+
+Q: What continent is Thailand on?
+A: Thailand is on the continent of Asia.
+
+Q: What continent is Montenegro on?
+A: Montenegro is on the continent of Europe.
+
+Q: What continent is Ireland on?
+A: Ireland is on the continent of Europe.
+
+Q: What continent is the Netherlands on?
+A: the Netherlands is on the continent of Europe.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: What is the capital of Guinea?
+A: The capital of Guinea is Conakry.
+
+Q: What is the capital of Papua New Guinea?
+A: The capital of Papua New Guinea is Port Moresby.
+
+Q: What is the capital of the Netherlands?
+A: The capital of the Netherlands is Amsterdam.
+
+Q: What is the capital of Saint Kitts and Nevis?
+A: The capital of Saint Kitts and Nevis is Basseterre.
+
+Q: What is the capital of Tuvalu?
+A: The capital of Tuvalu is Funafuti.
+
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+
+Q: What is the capital of Vatican City?
+A: The capital of Vatican City is Vatican City.
+
+Q: What is the capital of Poland?
+A: The capital of Poland is Warsaw.
+
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 60 in words?
+A: 60 in words is sixty.
+
+Q: How do you sort 22, 26, and 4?
+A: In order, they are 4 22 26.
+
+Q: How do you sort 16, 8, and 20?
+A: In order, they are 8 16 20.
+
+Q: How do you sort 8, 14, and 12?
+A: In order, they are 8 12 14.
+
+Q: How do you sort 20, 29, and 6?
+A: In order, they are 6 20 29.
+
+Q: How do you sort 119, 896, and 810?
+A: In order, they are 119 810 896.
+
+Q: How do you sort 24, 19, and 6?
+A: In order, they are 6 19 24.
+
+Q: How do you sort 1, 8, and 6?
+A: In order, they are 1 6 8.
+
+Q: How do you sort 25, 16, and 29?
+A: In order, they are 16 25 29.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
