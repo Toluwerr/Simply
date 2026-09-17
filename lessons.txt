@@ -17302,3 +17302,110 @@ A: Half of 10 is 5.
 
 Q: What is half of 54?
 A: Half of 54 is 27.
+Q: What currency does Azerbaijan use?
+A: The currency of Azerbaijan is the manat.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Austria use?
+A: The currency of Austria is the euro.
+
+Q: What currency does Jamaica use?
+A: The currency of Jamaica is the dollar.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What is 8 times 4?
+A: 8 times 4 is 32.
+
+Q: What is 70 minus 36?
+A: 70 minus 36 is 34.
+
+Q: What is 4 times 8?
+A: 4 times 8 is 32.
+
+Q: What is 37 minus 30?
+A: 37 minus 30 is 7.
+
+Q: What is 14 times 11?
+A: 14 times 11 is 154.
+
+Q: What is 15 minus 11?
+A: 15 minus 11 is 4.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is half of 34?
+A: Half of 34 is 17.
+
+Q: What is double 36?
+A: Double 36 is 72.
+
+Q: What is half of 20?
+A: Half of 20 is 10.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is double 36?
+A: Double 36 is 72.
+
+Q: What number is the Roman numeral lxxxiv?
+A: The Roman numeral lxxxiv is the number 84.
+
+Q: What number is the Roman numeral ccclxviii?
+A: The Roman numeral ccclxviii is the number 368.
+
+Q: What number is the Roman numeral ii?
+A: The Roman numeral ii is the number 2.
+
+Q: What number is the Roman numeral cclxxvi?
+A: The Roman numeral cclxxvi is the number 276.
+
+Q: What number is the Roman numeral xiii?
+A: The Roman numeral xiii is the number 13.
+
+Q: What is the Roman numeral for 33?
+A: The Roman numeral for 33 is xxxiii.
+
+Q: Which is bigger, 18 or 1?
+A: 18 is bigger than 1.
+
+Q: Is 2 bigger than 9?
+A: No, 9 is bigger than 2.
+
+Q: Is 76 bigger than 61?
+A: Yes, 76 is bigger than 61.
+
+Q: Is 39 bigger than 35?
+A: Yes, 39 is bigger than 35.
+
+Q: Is 861 bigger than 145?
+A: Yes, 861 is bigger than 145.
+
+Q: Is 28 bigger than 85?
+A: No, 85 is bigger than 28.
+
+Q: What is the capital of Algeria?
+A: The capital of Algeria is Algiers.
+
+Q: What is the capital of Cape Verde?
+A: The capital of Cape Verde is Praia.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
+
+Q: What is the capital of Paraguay?
+A: The capital of Paraguay is Asuncion.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What is the capital of Serbia?
+A: The capital of Serbia is Belgrade.

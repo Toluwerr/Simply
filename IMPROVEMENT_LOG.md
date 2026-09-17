@@ -3373,3 +3373,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.74 | weakest: arithmetic 0.00, double_half 0.00, roman 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am run!"
 
+## Iteration 388 - NO_GAIN
+- **when**: 2026-09-17T01:52:30Z
+- **train loss**: 0.6387 | **val loss**: 0.5555 | **run best**: 0.5521
+- **corpus**: 256,882 chars (+9 self-written examples)
+- **internet reading**: +27 articles, +12 facts (777 read all-time)
+- **lr**: 0.0003 | **steps**: 62
+- **knowledge quiz**: avg 0.61 | weakest: arithmetic 0.00, sort 0.00, roman 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am Simply, a tiny get better than."
+

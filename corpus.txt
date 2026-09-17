@@ -11619,3 +11619,31 @@ A: 'last' is the opposite The '.
 
 Q: Which is bigger, 11 or 1?
 A: 11 is bigger than 1.
+
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 polite and bulls that many has 7 newly butes, and.
+
+Q: How do you sort 2, 26, and 8?
+A: In order, they are 2 8 26.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40 50 60 60.
+
+Q: What is 99 plus 74?
+A: 99 plus 74 is 173.
+
+Q: What number is the Roman numeral ix?
+A: The Roman numeral ix is the number 9.
+
+Q: What is the Roman numeral for 90?
+A: The Roman numeral for 90 is xcix.
+
+Q: How many letters does the word 'candle' have?
+A: The word 'candle' has 6 letters.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70 60 70 70.
+
+Q: What is the last letter of 'columbia'?
+A: The last letter of 'columbia' is A.
