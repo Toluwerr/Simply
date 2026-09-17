@@ -50825,3 +50825,170 @@ A: The first letter of 'croak' is C.
 
 Q: What is the first letter of 'eager'?
 A: The first letter of 'eager' is E.
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: How do you sort 792, 113, and 403?
+A: In order, they are 113 403 792.
+
+Q: How do you sort 497, 221, and 314?
+A: In order, they are 221 314 497.
+
+Q: How do you sort 8, 10, and 1?
+A: In order, they are 1 8 10.
+
+Q: How do you sort 12, 14, and 27?
+A: In order, they are 12 14 27.
+
+Q: How do you sort 146, 339, and 358?
+A: In order, they are 146 339 358.
+
+Q: How do you sort 720, 471, and 246?
+A: In order, they are 246 471 720.
+
+Q: How do you sort 195, 571, and 647?
+A: In order, they are 195 571 647.
+
+Q: How do you sort 899, 958, and 884?
+A: In order, they are 884 899 958.
+
+Q: What continent is Sierra Leone on?
+A: Sierra Leone is on the continent of Africa.
+
+Q: What continent is Tanzania on?
+A: Tanzania is on the continent of Africa.
+
+Q: What continent is Niger on?
+A: Niger is on the continent of Africa.
+
+Q: What continent is Algeria on?
+A: Algeria is on the continent of Africa.
+
+Q: What continent is Micronesia on?
+A: Micronesia is on the continent of Oceania.
+
+Q: What continent is Eswatini on?
+A: Eswatini is on the continent of Africa.
+
+Q: What continent is Malta on?
+A: Malta is on the continent of Europe.
+
+Q: What continent is Indonesia on?
+A: Indonesia is on the continent of Asia.
+
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of Tuvalu?
+A: The capital of Tuvalu is Funafuti.
+
+Q: What is the capital of Costa Rica?
+A: The capital of Costa Rica is San Jose.
+
+Q: What is the capital of Tajikistan?
+A: The capital of Tajikistan is Dushanbe.
+
+Q: What is the capital of Iraq?
+A: The capital of Iraq is Baghdad.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: Can you count by fives from 10 to 20?
+A: Counting by fives gives 10 15 20.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 45.
+
+Q: Can you count by ones from 3 to 7?
+A: Counting by ones gives 3 4 5 6 7.
+
+Q: Can you count by fives from 5 to 15?
+A: Counting by fives gives 5 10 15.
+
+Q: Can you count by fives from 25 to 50?
+A: Counting by fives gives 25 30 35 40 45 50.
+
+Q: Can you count by twos from 12 to 18?
+A: Counting by twos gives 12 14 16 18.
+
+Q: Can you count by fives from 10 to 20?
+A: Counting by fives gives 10 15 20.
+
+Q: Which is bigger, 26 or 70?
+A: 70 is bigger than 26.
+
+Q: Is 252 bigger than 422?
+A: No, 422 is bigger than 252.
+
+Q: Which is bigger, 347 or 400?
+A: 400 is bigger than 347.
+
+Q: Is 47 bigger than 40?
+A: Yes, 47 is bigger than 40.
+
+Q: Is 8 bigger than 17?
+A: No, 17 is bigger than 8.
+
+Q: Which is bigger, 20 or 4?
+A: 20 is bigger than 4.
+
+Q: Which is bigger, 9 or 10?
+A: 10 is bigger than 9.
+
+Q: Which is bigger, 632 or 845?
+A: 845 is bigger than 632.
+
+Q: What is double 5?
+A: Double 5 is 10.
+
+Q: What is double 14?
+A: Double 14 is 28.
+
+Q: What is double 59?
+A: Double 59 is 118.
+
+Q: What is double 23?
+A: Double 23 is 46.
+
+Q: What is double 33?
+A: Double 33 is 66.
+
+Q: What is double 46?
+A: Double 46 is 92.
+
+Q: What is double 34?
+A: Double 34 is 68.
+
+Q: What is double 54?
+A: Double 54 is 108.
