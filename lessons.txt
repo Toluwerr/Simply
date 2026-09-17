@@ -18533,3 +18533,128 @@ A: Counting by ones gives 36 37 38.
 
 Q: Can you count by ones from 31 to 36?
 A: Counting by ones gives 31 32 33 34 35 36.
+Q: What is the last letter of 'lanka'?
+A: The last letter of 'lanka' is A.
+
+Q: What is the first letter of 'ouagadougou'?
+A: The first letter of 'ouagadougou' is O.
+
+Q: What is the last letter of 'des'?
+A: The last letter of 'des' is S.
+
+Q: What is the first letter of 'fish'?
+A: The first letter of 'fish' is F.
+
+Q: What is the first letter of 'big'?
+A: The first letter of 'big' is B.
+
+Q: What is the first letter of 'belize'?
+A: The first letter of 'belize' is B.
+
+Q: What is the chemical symbol for ytterbium?
+A: The chemical symbol for ytterbium is Yb.
+
+Q: Which element has the chemical symbol Pd?
+A: Pd is the chemical symbol for palladium.
+
+Q: What is the chemical symbol for iodine?
+A: The chemical symbol for iodine is I.
+
+Q: Which element has the chemical symbol Ru?
+A: Ru is the chemical symbol for ruthenium.
+
+Q: What is the chemical symbol for arsenic?
+A: The chemical symbol for arsenic is As.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: Which is bigger, 15 or 4?
+A: 15 is bigger than 4.
+
+Q: Is 5 bigger than 18?
+A: No, 18 is bigger than 5.
+
+Q: Which is bigger, 201 or 652?
+A: 652 is bigger than 201.
+
+Q: Which is bigger, 17 or 2?
+A: 17 is bigger than 2.
+
+Q: Which is bigger, 49 or 28?
+A: 49 is bigger than 28.
+
+Q: Which is bigger, 15 or 10?
+A: 15 is bigger than 10.
+
+Q: How do you sort 737, 542, and 695?
+A: In order, they are 542 695 737.
+
+Q: How do you sort 285, 103, and 770?
+A: In order, they are 103 285 770.
+
+Q: How do you sort 941, 921, and 799?
+A: In order, they are 799 921 941.
+
+Q: How do you sort 28, 16, and 22?
+A: In order, they are 16 22 28.
+
+Q: How do you sort 506, 153, and 264?
+A: In order, they are 153 264 506.
+
+Q: How do you sort 185, 100, and 782?
+A: In order, they are 100 185 782.
+
+Q: What currency does Cuba use?
+A: The currency of Cuba is the peso.
+
+Q: What currency does Kuwait use?
+A: The currency of Kuwait is the dinar.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does South Africa use?
+A: The currency of South Africa is the rand.
+
+Q: What currency does Israel use?
+A: The currency of Israel is the shekel.
+
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of Bosnia and Herzegovina?
+A: The capital of Bosnia and Herzegovina is Sarajevo.
+
+Q: What is the capital of Belgium?
+A: The capital of Belgium is Brussels.
+
+Q: What is the capital of Pakistan?
+A: The capital of Pakistan is Islamabad.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What is 19 plus 10?
+A: 19 plus 10 is 29.
+
+Q: What is 7 times 5?
+A: 7 times 5 is 35.
+
+Q: What is 6 plus 12?
+A: 6 plus 12 is 18.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is 8 times 11?
+A: 8 times 11 is 88.
+
+Q: What is 227 plus 935?
+A: 227 plus 935 is 1162.

@@ -11960,3 +11960,31 @@ A: The word 'belon' has 5 letters.
 
 Q: What number is the Roman numeral iv?
 A: The Roman numeral v is the number 4.
+
+
+Q: What is the first letter of 'long'?
+A: The first letter of 'long' is L.
+
+Q: What is the first letter of 'gallium'?
+A: The first letter of 'gallium' is G.
+
+Q: What is the last letter of 'uruguay'?
+A: The last letter of 'uruguay' is Y.
+
+Q: What is the first letter of 'afghanistan'?
+A: The first letter of 'afghanistan' is A.
+
+Q: Which is bigger, 9 or 17?
+A: 17 is bigger than 9.
+
+Q: Which is bigger, 97 or 56?
+A: 97 is bigger than 28.
+
+Q: Which is bigger, 614 or 951?
+A: 951 is bigger than 614.
+
+Q: Which is bigger, 6 or 8?
+A: 8 is bigger than 7.
+
+Q: What is the chemical symbol for silicon?
+A: The chemical symbol for silicon is Si.
