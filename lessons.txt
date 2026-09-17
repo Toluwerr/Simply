@@ -43589,3 +43589,170 @@ A: No, 60 is bigger than 44.
 
 Q: Which is bigger, 139 or 732?
 A: 732 is bigger than 139.
+Q: Is 97 bigger than 71?
+A: Yes, 97 is bigger than 71.
+
+Q: Is 75 bigger than 50?
+A: Yes, 75 is bigger than 50.
+
+Q: Which is bigger, 11 or 1?
+A: 11 is bigger than 1.
+
+Q: Is 385 bigger than 272?
+A: Yes, 385 is bigger than 272.
+
+Q: Is 16 bigger than 7?
+A: Yes, 16 is bigger than 7.
+
+Q: Which is bigger, 33 or 51?
+A: 51 is bigger than 33.
+
+Q: Which is bigger, 5 or 20?
+A: 20 is bigger than 5.
+
+Q: Which is bigger, 68 or 59?
+A: 68 is bigger than 59.
+
+Q: How many letters does the word 'making' have?
+A: The word 'making' has 6 letters.
+
+Q: How many letters does the word 'something' have?
+A: The word 'something' has 9 letters.
+
+Q: How many letters does the word 'tome' have?
+A: The word 'tome' has 4 letters.
+
+Q: How many letters does the word 'gitega' have?
+A: The word 'gitega' has 6 letters.
+
+Q: How many letters does the word 'brazzaville' have?
+A: The word 'brazzaville' has 11 letters.
+
+Q: How many letters does the word 'belgrade' have?
+A: The word 'belgrade' has 8 letters.
+
+Q: How many letters does the word 'radon' have?
+A: The word 'radon' has 5 letters.
+
+Q: How many letters does the word 'canada' have?
+A: The word 'canada' has 6 letters.
+
+Q: How do you sort 21, 20, and 10?
+A: In order, they are 10 20 21.
+
+Q: How do you sort 850, 358, and 461?
+A: In order, they are 358 461 850.
+
+Q: How do you sort 723, 909, and 393?
+A: In order, they are 393 723 909.
+
+Q: How do you sort 29, 4, and 11?
+A: In order, they are 4 11 29.
+
+Q: How do you sort 439, 698, and 365?
+A: In order, they are 365 439 698.
+
+Q: How do you sort 452, 332, and 478?
+A: In order, they are 332 452 478.
+
+Q: How do you sort 379, 25, and 844?
+A: In order, they are 25 379 844.
+
+Q: How do you sort 14, 3, and 23?
+A: In order, they are 3 14 23.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: What continent is San Marino on?
+A: San Marino is on the continent of Europe.
+
+Q: What continent is Malta on?
+A: Malta is on the continent of Europe.
+
+Q: What continent is Burundi on?
+A: Burundi is on the continent of Africa.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: What continent is Malawi on?
+A: Malawi is on the continent of Africa.
+
+Q: What continent is Thailand on?
+A: Thailand is on the continent of Asia.
+
+Q: What continent is South Sudan on?
+A: South Sudan is on the continent of Africa.
+
+Q: How do you write 13 in words?
+A: 13 in words is thirteen.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 15 in words?
+A: 15 in words is fifteen.
+
+Q: How do you write 58 in words?
+A: 58 in words is fifty-eight.
+
+Q: How do you write 6 in words?
+A: 6 in words is six.
+
+Q: How do you write 37 in words?
+A: 37 in words is thirty-seven.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is the capital of Vatican City?
+A: The capital of Vatican City is Vatican City.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of Bolivia?
+A: The capital of Bolivia is La Paz.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is the capital of Myanmar?
+A: The capital of Myanmar is Naypyidaw.
