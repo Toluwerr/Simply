@@ -19407,3 +19407,110 @@ A: In order, they are 3 18 25.
 
 Q: How do you sort 176, 83, and 662?
 A: In order, they are 83 176 662.
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What is 511 minus 302?
+A: 511 minus 302 is 209.
+
+Q: What is 949 minus 698?
+A: 949 minus 698 is 251.
+
+Q: What is 14 times 18?
+A: 14 times 18 is 252.
+
+Q: What is 6 times 7?
+A: 6 times 7 is 42.
+
+Q: What is 576 plus 160?
+A: 576 plus 160 is 736.
+
+Q: What is 10 times 9?
+A: 10 times 9 is 90.
+
+Q: What is the last letter of 'burundi'?
+A: The last letter of 'burundi' is I.
+
+Q: What is the last letter of 'penh'?
+A: The last letter of 'penh' is H.
+
+Q: What is the first letter of 'peach'?
+A: The first letter of 'peach' is P.
+
+Q: What is the last letter of 'albania'?
+A: The last letter of 'albania' is A.
+
+Q: What is the last letter of 'bismuth'?
+A: The last letter of 'bismuth' is H.
+
+Q: What is the first letter of 'monrovia'?
+A: The first letter of 'monrovia' is M.
+
+Q: How many letters does the word 'neptune' have?
+A: The word 'neptune' has 7 letters.
+
+Q: How many letters does the word 'islands' have?
+A: The word 'islands' has 7 letters.
+
+Q: How many letters does the word 'guinea' have?
+A: The word 'guinea' has 6 letters.
+
+Q: How many letters does the word 'meow' have?
+A: The word 'meow' has 4 letters.
+
+Q: How many letters does the word 'birr' have?
+A: The word 'birr' has 4 letters.
+
+Q: How many letters does the word 'asmara' have?
+A: The word 'asmara' has 6 letters.
+
+Q: How do you sort 43, 393, and 829?
+A: In order, they are 43 393 829.
+
+Q: How do you sort 7, 11, and 2?
+A: In order, they are 2 7 11.
+
+Q: How do you sort 1, 21, and 5?
+A: In order, they are 1 5 21.
+
+Q: How do you sort 197, 263, and 659?
+A: In order, they are 197 263 659.
+
+Q: How do you sort 24, 6, and 17?
+A: In order, they are 6 17 24.
+
+Q: How do you sort 416, 275, and 671?
+A: In order, they are 275 416 671.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 52 in words?
+A: 52 in words is fifty-two.
+
+Q: How do you write 17 in words?
+A: 17 in words is seventeen.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
