@@ -61739,3 +61739,170 @@ A: 10 is bigger than 1.
 
 Q: Is 577 bigger than 392?
 A: Yes, 577 is bigger than 392.
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Bolivia on?
+A: Bolivia is on the continent of South America.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: What continent is Sri Lanka on?
+A: Sri Lanka is on the continent of Asia.
+
+Q: What continent is Brazil on?
+A: Brazil is on the continent of South America.
+
+Q: What continent is Zimbabwe on?
+A: Zimbabwe is on the continent of Africa.
+
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: What is the capital of Kenya?
+A: The capital of Kenya is Nairobi.
+
+Q: What is the capital of Burkina Faso?
+A: The capital of Burkina Faso is Ouagadougou.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
+
+Q: What is the capital of Tonga?
+A: The capital of Tonga is Nuku'alofa.
+
+Q: What is the capital of Thailand?
+A: The capital of Thailand is Bangkok.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 39 in words?
+A: 39 in words is thirty-nine.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 59 in words?
+A: 59 in words is fifty-nine.
+
+Q: How do you write 2 in words?
+A: 2 in words is two.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you sort 515, 111, and 356?
+A: In order, they are 111 356 515.
+
+Q: How do you sort 90, 400, and 518?
+A: In order, they are 90 400 518.
+
+Q: How do you sort 315, 451, and 400?
+A: In order, they are 315 400 451.
+
+Q: How do you sort 5, 15, and 2?
+A: In order, they are 2 5 15.
+
+Q: How do you sort 18, 20, and 9?
+A: In order, they are 9 18 20.
+
+Q: How do you sort 17, 15, and 9?
+A: In order, they are 9 15 17.
+
+Q: How do you sort 7, 1, and 8?
+A: In order, they are 1 7 8.
+
+Q: How do you sort 18, 25, and 17?
+A: In order, they are 17 18 25.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
