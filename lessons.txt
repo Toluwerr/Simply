@@ -32007,3 +32007,170 @@ A: The opposite of 'rich' is 'poor'.
 
 Q: What is the opposite of 'day'?
 A: The opposite of 'day' is 'night'.
+Q: What currency does Belgium use?
+A: The currency of Belgium is the euro.
+
+Q: What currency does Paraguay use?
+A: The currency of Paraguay is the guarani.
+
+Q: What currency does South Korea use?
+A: The currency of South Korea is the won.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Malaysia use?
+A: The currency of Malaysia is the ringgit.
+
+Q: What currency does Colombia use?
+A: The currency of Colombia is the peso.
+
+Q: What currency does Jamaica use?
+A: The currency of Jamaica is the dollar.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What number is the Roman numeral dccxci?
+A: The Roman numeral dccxci is the number 791.
+
+Q: What is the Roman numeral for 570?
+A: The Roman numeral for 570 is dlxx.
+
+Q: What is the Roman numeral for 93?
+A: The Roman numeral for 93 is xciii.
+
+Q: What is the Roman numeral for 835?
+A: The Roman numeral for 835 is dcccxxxv.
+
+Q: What is the Roman numeral for 853?
+A: The Roman numeral for 853 is dcccliii.
+
+Q: What number is the Roman numeral lxxxii?
+A: The Roman numeral lxxxii is the number 82.
+
+Q: What is the Roman numeral for 100?
+A: The Roman numeral for 100 is c.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: What is 20 minus 15?
+A: 20 minus 15 is 5.
+
+Q: What is 893 plus 98?
+A: 893 plus 98 is 991.
+
+Q: What is 296 plus 37?
+A: 296 plus 37 is 333.
+
+Q: What is 17 plus 62?
+A: 17 plus 62 is 79.
+
+Q: What is 12 times 19?
+A: 12 times 19 is 228.
+
+Q: What is 848 plus 138?
+A: 848 plus 138 is 986.
+
+Q: What is 944 plus 719?
+A: 944 plus 719 is 1663.
+
+Q: What is 60 plus 58?
+A: 60 plus 58 is 118.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
