@@ -60785,3 +60785,170 @@ A: The capital of Yemen is Sanaa.
 
 Q: What is the capital of Afghanistan?
 A: The capital of Afghanistan is Kabul.
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: Which element has the chemical symbol Pm?
+A: Pm is the chemical symbol for promethium.
+
+Q: What is the chemical symbol for neodymium?
+A: The chemical symbol for neodymium is Nd.
+
+Q: What is the chemical symbol for holmium?
+A: The chemical symbol for holmium is Ho.
+
+Q: Which element has the chemical symbol N?
+A: N is the chemical symbol for nitrogen.
+
+Q: Which element has the chemical symbol Tc?
+A: Tc is the chemical symbol for technetium.
+
+Q: What is the chemical symbol for vanadium?
+A: The chemical symbol for vanadium is V.
+
+Q: Which element has the chemical symbol Pt?
+A: Pt is the chemical symbol for platinum.
+
+Q: Which element has the chemical symbol Yb?
+A: Yb is the chemical symbol for ytterbium.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What number is the Roman numeral ccclii?
+A: The Roman numeral ccclii is the number 352.
+
+Q: What number is the Roman numeral lxxix?
+A: The Roman numeral lxxix is the number 79.
+
+Q: What is the Roman numeral for 716?
+A: The Roman numeral for 716 is dccxvi.
+
+Q: What number is the Roman numeral xlv?
+A: The Roman numeral xlv is the number 45.
+
+Q: What is the Roman numeral for 87?
+A: The Roman numeral for 87 is lxxxvii.
+
+Q: What is the Roman numeral for 75?
+A: The Roman numeral for 75 is lxxv.
+
+Q: What number is the Roman numeral dcxxv?
+A: The Roman numeral dcxxv is the number 625.
+
+Q: What number is the Roman numeral cmlxxv?
+A: The Roman numeral cmlxxv is the number 975.
+
+Q: What is the last letter of 'watchful'?
+A: The last letter of 'watchful' is L.
+
+Q: What is the first letter of 'afghani'?
+A: The first letter of 'afghani' is A.
+
+Q: What is the last letter of 'reykjavik'?
+A: The last letter of 'reykjavik' is K.
+
+Q: What is the first letter of 'trenton'?
+A: The first letter of 'trenton' is T.
+
+Q: What is the last letter of 'shekel'?
+A: The last letter of 'shekel' is L.
+
+Q: What is the first letter of 'attach'?
+A: The first letter of 'attach' is A.
+
+Q: What is the first letter of 'messy'?
+A: The first letter of 'messy' is M.
+
+Q: What is the last letter of 'planet'?
+A: The last letter of 'planet' is T.
+
+Q: Which is bigger, 910 or 249?
+A: 910 is bigger than 249.
+
+Q: Is 15 bigger than 1?
+A: Yes, 15 is bigger than 1.
+
+Q: Is 107 bigger than 141?
+A: No, 141 is bigger than 107.
+
+Q: Which is bigger, 20 or 2?
+A: 20 is bigger than 2.
+
+Q: Is 69 bigger than 75?
+A: No, 75 is bigger than 69.
+
+Q: Is 14 bigger than 15?
+A: No, 15 is bigger than 14.
+
+Q: Which is bigger, 66 or 53?
+A: 66 is bigger than 53.
+
+Q: Which is bigger, 12 or 1?
+A: 12 is bigger than 1.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is double 10?
+A: Double 10 is 20.
+
+Q: What is double 15?
+A: Double 15 is 30.
+
+Q: What is double 18?
+A: Double 18 is 36.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is double 29?
+A: Double 29 is 58.
