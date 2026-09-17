@@ -32349,3 +32349,110 @@ A: 416 plus 49 is 465.
 
 Q: What is 19 plus 11?
 A: 19 plus 11 is 30.
+Q: What number is the Roman numeral i?
+A: The Roman numeral i is the number 1.
+
+Q: What number is the Roman numeral xix?
+A: The Roman numeral xix is the number 19.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What number is the Roman numeral xcix?
+A: The Roman numeral xcix is the number 99.
+
+Q: What number is the Roman numeral lxi?
+A: The Roman numeral lxi is the number 61.
+
+Q: What is the Roman numeral for 61?
+A: The Roman numeral for 61 is lxi.
+
+Q: Can you count by twos from 6 to 10?
+A: Counting by twos gives 6 8 10.
+
+Q: Can you count by fives from 25 to 45?
+A: Counting by fives gives 25 30 35 40 45.
+
+Q: Can you count by fives from 20 to 40?
+A: Counting by fives gives 20 25 30 35 40.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: Can you count by ones from 26 to 31?
+A: Counting by ones gives 26 27 28 29 30 31.
+
+Q: How do you sort 902, 810, and 790?
+A: In order, they are 790 810 902.
+
+Q: How do you sort 20, 533, and 845?
+A: In order, they are 20 533 845.
+
+Q: How do you sort 15, 14, and 12?
+A: In order, they are 12 14 15.
+
+Q: How do you sort 10, 15, and 20?
+A: In order, they are 10 15 20.
+
+Q: How do you sort 819, 35, and 546?
+A: In order, they are 35 546 819.
+
+Q: How do you sort 417, 425, and 145?
+A: In order, they are 145 417 425.
+
+Q: What is 6 times 5?
+A: 6 times 5 is 30.
+
+Q: What is 39 minus 18?
+A: 39 minus 18 is 21.
+
+Q: What is 932 plus 530?
+A: 932 plus 530 is 1462.
+
+Q: What is 91 minus 14?
+A: 91 minus 14 is 77.
+
+Q: What is 94 minus 10?
+A: 94 minus 10 is 84.
+
+Q: What is 12 minus 6?
+A: 12 minus 6 is 6.
+
+Q: What is the last letter of 'saturn'?
+A: The last letter of 'saturn' is N.
+
+Q: What is the first letter of 'active'?
+A: The first letter of 'active' is A.
+
+Q: What is the last letter of 'honiara'?
+A: The last letter of 'honiara' is A.
+
+Q: What is the last letter of 'athens'?
+A: The last letter of 'athens' is S.
+
+Q: What is the first letter of 'brasilia'?
+A: The first letter of 'brasilia' is B.
+
+Q: What is the last letter of 'maple'?
+A: The last letter of 'maple' is E.
+
+Q: Which element has the chemical symbol Si?
+A: Si is the chemical symbol for silicon.
+
+Q: What is the chemical symbol for neodymium?
+A: The chemical symbol for neodymium is Nd.
+
+Q: Which element has the chemical symbol Yb?
+A: Yb is the chemical symbol for ytterbium.
+
+Q: Which element has the chemical symbol Yb?
+A: Yb is the chemical symbol for ytterbium.
+
+Q: What is the chemical symbol for radium?
+A: The chemical symbol for radium is Ra.
+
+Q: Which element has the chemical symbol Ac?
+A: Ac is the chemical symbol for actinium.

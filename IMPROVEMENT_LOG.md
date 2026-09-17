@@ -3261,3 +3261,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.65 | weakest: arithmetic 0.00, sort 0.00, count 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am run is the eight."
 
+## Iteration 376 - IMPROVED
+- **when**: 2026-09-17T01:36:38Z
+- **train loss**: 1.4046 | **val loss**: 0.5559 | **run best**: 0.5559
+- **corpus**: 249,994 chars (+5 self-written examples)
+- **internet reading**: +28 articles, +12 facts (750 read all-time)
+- **lr**: 0.0004 | **steps**: 62
+- **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am run for bito, one gives gives 12 13 14 15 16 17."
+
