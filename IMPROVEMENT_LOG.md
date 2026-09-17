@@ -4542,3 +4542,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Whichan number 68 or 5ouble 26 is bigger than 168?"
 
+## Promotion - v19 - weights promoted to Releases
+- **reason**: val_loss 1.6652, was 1.7359
+- self-portrait, asked "Who are you?": *"What currency does Py' has."
+
