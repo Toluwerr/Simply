@@ -52986,3 +52986,146 @@ A: Double 49 is 98.
 
 Q: What is double 41?
 A: Double 41 is 82.
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: How many letters does the word 'sacramento' have?
+A: The word 'sacramento' has 10 letters.
+
+Q: How many letters does the word 'sticky' have?
+A: The word 'sticky' has 6 letters.
+
+Q: How many letters does the word 'malabo' have?
+A: The word 'malabo' has 6 letters.
+
+Q: How many letters does the word 'stockholm' have?
+A: The word 'stockholm' has 9 letters.
+
+Q: How many letters does the word 'bottle' have?
+A: The word 'bottle' has 6 letters.
+
+Q: How many letters does the word 'short' have?
+A: The word 'short' has 5 letters.
+
+Q: How many letters does the word 'thailand' have?
+A: The word 'thailand' has 8 letters.
+
+Q: How many letters does the word 'sodium' have?
+A: The word 'sodium' has 6 letters.
+
+Q: What is 19 plus 84?
+A: 19 plus 84 is 103.
+
+Q: What is 97 minus 61?
+A: 97 minus 61 is 36.
+
+Q: What is 8 times 4?
+A: 8 times 4 is 32.
+
+Q: What is 13 plus 7?
+A: 13 plus 7 is 20.
+
+Q: What is 15 times 17?
+A: 15 times 17 is 255.
+
+Q: What is 11 times 15?
+A: 11 times 15 is 165.
+
+Q: What is 3 times 3?
+A: 3 times 3 is 9.
+
+Q: What is 12 plus 7?
+A: 12 plus 7 is 19.
+
+Q: What currency does Hungary use?
+A: The currency of Hungary is the forint.
+
+Q: What currency does Gambia use?
+A: The currency of Gambia is the dalasi.
+
+Q: What currency does Italy use?
+A: The currency of Italy is the euro.
+
+Q: What currency does Belgium use?
+A: The currency of Belgium is the euro.
+
+Q: What currency does Somalia use?
+A: The currency of Somalia is the shilling.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does Azerbaijan use?
+A: The currency of Azerbaijan is the manat.
+
+Q: What currency does Georgia use?
+A: The currency of Georgia is the lari.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 55 in words?
+A: 55 in words is fifty-five.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 6 in words?
+A: 6 in words is six.
+
+Q: How do you write 93 in words?
+A: 93 in words is ninety-three.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: Which is bigger, 895 or 253?
+A: 895 is bigger than 253.
+
+Q: Is 803 bigger than 859?
+A: No, 859 is bigger than 803.
+
+Q: Is 76 bigger than 67?
+A: Yes, 76 is bigger than 67.
+
+Q: Which is bigger, 12 or 10?
+A: 12 is bigger than 10.
+
+Q: Which is bigger, 36 or 85?
+A: 85 is bigger than 36.
+
+Q: Which is bigger, 10 or 13?
+A: 13 is bigger than 10.
+
+Q: Which is bigger, 952 or 558?
+A: 952 is bigger than 558.
+
+Q: Which is bigger, 17 or 66?
+A: 66 is bigger than 17.
