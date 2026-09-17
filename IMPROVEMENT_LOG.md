@@ -4166,3 +4166,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"What is the numeral for 71."
 
+## Promotion - v15 - weights promoted to Releases
+- **reason**: val_loss 1.8160, was 1.9487
+- self-portrait, asked "Who are you?": *"The last letter of ' has the opposite of '?"
+
