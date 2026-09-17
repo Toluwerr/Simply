@@ -7350,3 +7350,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"The capital of Portah is Lebra'?"
 
+## Iteration 817 - NO_GAIN
+- **when**: 2026-09-17T18:25:12Z
+- **train loss**: 2.6483 | **val loss**: 1.6248 | **run best**: 1.2479
+- **corpus**: 284,819 chars (+0 self-written examples)
+- **internet reading**: +53 articles, +22 facts (3,221 read all-time)
+- **lr**: 0.0008 | **steps**: 30
+- **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: continents 1.00, reading 0.00, definitions 0.00
+- self-portrait, asked "Who are you?": *"What continent is Oceania on the continent of Ocea."
+

@@ -52819,3 +52819,170 @@ A: 628 minus 395 is 233.
 
 Q: What is 313 plus 461?
 A: 313 plus 461 is 774.
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: Which element has the chemical symbol Sm?
+A: Sm is the chemical symbol for samarium.
+
+Q: What is the chemical symbol for lead?
+A: The chemical symbol for lead is Pb.
+
+Q: What is the chemical symbol for sodium?
+A: The chemical symbol for sodium is Na.
+
+Q: Which element has the chemical symbol Zr?
+A: Zr is the chemical symbol for zirconium.
+
+Q: Which element has the chemical symbol Cu?
+A: Cu is the chemical symbol for copper.
+
+Q: Which element has the chemical symbol I?
+A: I is the chemical symbol for iodine.
+
+Q: What is the chemical symbol for cerium?
+A: The chemical symbol for cerium is Ce.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What number is the Roman numeral iii?
+A: The Roman numeral iii is the number 3.
+
+Q: What is the Roman numeral for 22?
+A: The Roman numeral for 22 is xxii.
+
+Q: What is the Roman numeral for 90?
+A: The Roman numeral for 90 is xc.
+
+Q: What number is the Roman numeral x?
+A: The Roman numeral x is the number 10.
+
+Q: What is the Roman numeral for 92?
+A: The Roman numeral for 92 is xcii.
+
+Q: What is the Roman numeral for 449?
+A: The Roman numeral for 449 is cdxlix.
+
+Q: What is the Roman numeral for 127?
+A: The Roman numeral for 127 is cxxvii.
+
+Q: What number is the Roman numeral cdxxxviii?
+A: The Roman numeral cdxxxviii is the number 438.
+
+Q: What is the first letter of 'rude'?
+A: The first letter of 'rude' is R.
+
+Q: What is the last letter of 'columbus'?
+A: The last letter of 'columbus' is S.
+
+Q: What is the first letter of 'trenton'?
+A: The first letter of 'trenton' is T.
+
+Q: What is the first letter of 'greece'?
+A: The first letter of 'greece' is G.
+
+Q: What is the last letter of 'tashkent'?
+A: The last letter of 'tashkent' is T.
+
+Q: What is the first letter of 'roar'?
+A: The first letter of 'roar' is R.
+
+Q: What is the last letter of 'made'?
+A: The last letter of 'made' is E.
+
+Q: What is the first letter of 'lithuania'?
+A: The first letter of 'lithuania' is L.
+
+Q: Which is bigger, 68 or 65?
+A: 68 is bigger than 65.
+
+Q: Which is bigger, 94 or 16?
+A: 94 is bigger than 16.
+
+Q: Is 488 bigger than 277?
+A: Yes, 488 is bigger than 277.
+
+Q: Is 38 bigger than 70?
+A: No, 70 is bigger than 38.
+
+Q: Is 20 bigger than 19?
+A: Yes, 20 is bigger than 19.
+
+Q: Is 48 bigger than 78?
+A: No, 78 is bigger than 48.
+
+Q: Which is bigger, 512 or 250?
+A: 512 is bigger than 250.
+
+Q: Which is bigger, 14 or 15?
+A: 15 is bigger than 14.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is double 41?
+A: Double 41 is 82.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What is double 18?
+A: Double 18 is 36.
+
+Q: What is double 49?
+A: Double 49 is 98.
+
+Q: What is double 41?
+A: Double 41 is 82.
