@@ -928,3 +928,87 @@ A: Odabakht is a 3rd-century Sasanian prince.
 
 Q: What is Odabakht's mother?
 A: Odabakht's mother is a queen named Denag.
+
+Q: What is Nova?
+A: Nova is a Cuban state-sponsored Linux distribution launched in February 2009.
+
+Q: What is Solus?
+A: Solus is an independently developed operating system for the x86-64 architecture based on the Linux kernel and a choice of Budgie, GNOME.
+
+Q: What is GNU?
+A: GNU is an extensive collection of free software , which can be used as an operating system or can be used in parts with other operating systems.
+
+Q: What is Richard Stallman?
+A: Richard Stallman is a part of a group...
+
+Q: What is Eugenia Calosso?
+A: Eugenia Calosso is an Italian conductor and composer.
+
+Q: What is Braxton County High School?
+A: Braxton County High School is a high school located in Sutton, West Virginia, United States.
+
+Q: What is C wing?
+A: C wing is the academic wing which contained classrooms for classes such as chemistry, math, and English.
+
+Q: What is B wing?
+A: B wing is the vocational wing which held vocational classes, such as typing, cooking, building construction, electrical and welding.
+
+Q: What is Chris Katjiukua?
+A: Chris Katjiukua is a Namibian professional footballer who played as a defender for several South African clubs and the Namibia national football team.
+
+Q: What is Murchisoniidae?
+A: Murchisoniidae is an extinct family of fossil gastropods in the superfamily Murchisonioidea according to the taxonomy of the Gastropoda by Bouchet  Ro.
+
+Q: What is Beinn Bheigeir?
+A: Beinn Bheigeir is a hill on the island of Islay in Scotland.
+
+Q: What is Catharine Smiley Cheatham?
+A: Catharine Smiley Cheatham is an American singer and monologist.
+
+Q: What is Ardeadoris scottjohnsoni?
+A: Ardeadoris scottjohnsoni is a species of sea slug, a dorid nudibranch.
+
+Q: What is Kavi Raz?
+A: Kavi Raz is an Indian-born British actor, writer, director and producer.
+
+Q: What is Luiza Pendyk?
+A: Luiza Pendyk is a Polish former professional footballer who played as a forward.
+
+Q: What is Ansonia High School?
+A: Ansonia High School is a public high school in Ansonia, Ohio, United States.
+
+Q: What is Joseph Mees?
+A: Joseph Mees is a Belgian prelate of the Catholic Church who spent his career in the diplomatic service of the Holy See.
+
+Q: What is Atiqa Odho?
+A: Atiqa Odho is a Pakistani television and film actress, television host, and the namesake of her own founded cosmetics brand Odho Cosmetics.
+
+Q: What is Polar ecology?
+A: Polar ecology is the relationship between plants and animals in a polar environment.
+
+Q: What is Social ecology?
+A: Social ecology is the study of how people engage with, respond to, and impact their environment.
+
+Q: What is Desert ecology?
+A: Desert ecology is the study of interactions between both biotic and abiotic components of desert environments.
+
+Q: What is Stream ecology?
+A: Stream ecology is the scientific study of the aquatic species, their interactions with one another, and their connection with the biological.
+
+Q: What is Molecular ecology?
+A: Molecular ecology is a subdiscipline of ecology that is concerned with applying molecular genetic techniques to ecological questions e.g.
+
+Q: What is Recreation ecology?
+A: Recreation ecology is the scientific study of environmental impacts resulting from recreational activity in protected natural areas.
+
+Q: What is Nol Mamre?
+A: Nol Mamre is the movement's vice-president from 1992 to 1994, when he was excluded from the party and founded the Ecology-Solidarity Convergence.
+
+Q: What is Systems ecology?
+A: Systems ecology is an interdisciplinary field of ecology, a subset of Earth system science.
+
+Q: What is Nature Ecology  Evolution?
+A: Nature Ecology  Evolution is an online-only monthly peer-reviewed scientific journal published by Nature Portfolio covering all aspects of research on.
+
+Q: What is Reconciliation ecology?
+A: Reconciliation ecology is the branch of ecology which studies ways to encourage biodiversity in the human-dominated ecosystems of the anthropocene era.

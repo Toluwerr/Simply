@@ -21,8 +21,10 @@
       "reward": 0.0
     }
   },
-  "interests": {},
-  "last": "survey",
+  "interests": {
+    "ecology": 1
+  },
+  "last": "deep_dive",
   "goals": [
     {
       "kind": "read",
@@ -40,5 +42,5 @@
       "text": "write 537 verified examples of its own (now 477)"
     }
   ],
-  "runs": 1
+  "runs": 2
 }

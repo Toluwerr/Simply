@@ -2831,3 +2831,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.78 | weakest: compare 0.00, sort 0.00, letters 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, old hon model that improves itself a little model a little bit every commit 0."
 
+## Iteration 330 - IMPROVED
+- **when**: 2026-09-17T00:32:34Z
+- **train loss**: 1.3299 | **val loss**: 0.7487 | **run best**: 0.7487
+- **corpus**: 229,432 chars (+0 self-written examples)
+- **internet reading**: +36 articles, +28 facts (632 read all-time)
+- **lr**: 0.0015 | **steps**: 50
+- **knowledge quiz**: avg 0.09 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: planets 1.00, letters 1.00, reading 0.00
+- self-portrait, asked "Who are you?": *"I am train it training before very my one trained, so."
+

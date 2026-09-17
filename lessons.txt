@@ -26977,3 +26977,110 @@ A: The word 'rabat' has 5 letters.
 
 Q: How many letters does the word 'nairobi' have?
 A: The word 'nairobi' has 7 letters.
+Q: How many letters does the word 'picked' have?
+A: The word 'picked' has 6 letters.
+
+Q: How many letters does the word 'seri' have?
+A: The word 'seri' has 4 letters.
+
+Q: How many letters does the word 'needed' have?
+A: The word 'needed' has 6 letters.
+
+Q: How many letters does the word 'harare' have?
+A: The word 'harare' has 6 letters.
+
+Q: How many letters does the word 'terbium' have?
+A: The word 'terbium' has 7 letters.
+
+Q: How many letters does the word 'beirut' have?
+A: The word 'beirut' has 6 letters.
+
+Q: What is the last letter of 'rial'?
+A: The last letter of 'rial' is L.
+
+Q: What is the last letter of 'korea'?
+A: The last letter of 'korea' is A.
+
+Q: What is the last letter of 'chad'?
+A: The last letter of 'chad' is D.
+
+Q: What is the last letter of 'tbilisi'?
+A: The last letter of 'tbilisi' is I.
+
+Q: What is the first letter of 'africa'?
+A: The first letter of 'africa' is A.
+
+Q: What is the last letter of 'tuvalu'?
+A: The last letter of 'tuvalu' is U.
+
+Q: How do you sort 10, 18, and 14?
+A: In order, they are 10 14 18.
+
+Q: How do you sort 310, 74, and 977?
+A: In order, they are 74 310 977.
+
+Q: How do you sort 842, 864, and 418?
+A: In order, they are 418 842 864.
+
+Q: How do you sort 16, 17, and 25?
+A: In order, they are 16 17 25.
+
+Q: How do you sort 16, 20, and 19?
+A: In order, they are 16 19 20.
+
+Q: How do you sort 373, 35, and 916?
+A: In order, they are 35 373 916.
+
+Q: Is 35 bigger than 32?
+A: Yes, 35 is bigger than 32.
+
+Q: Which is bigger, 11 or 29?
+A: 29 is bigger than 11.
+
+Q: Which is bigger, 42 or 88?
+A: 88 is bigger than 42.
+
+Q: Is 13 bigger than 7?
+A: Yes, 13 is bigger than 7.
+
+Q: Is 698 bigger than 918?
+A: No, 918 is bigger than 698.
+
+Q: Which is bigger, 1 or 10?
+A: 10 is bigger than 1.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: What is the capital of North Macedonia?
+A: The capital of North Macedonia is Skopje.
+
+Q: What is the capital of Iceland?
+A: The capital of Iceland is Reykjavik.
+
+Q: What is the capital of Greece?
+A: The capital of Greece is Athens.
+
+Q: What is the capital of Croatia?
+A: The capital of Croatia is Zagreb.
+
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of Iran?
+A: The capital of Iran is Tehran.
