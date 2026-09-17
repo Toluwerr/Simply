@@ -39496,3 +39496,170 @@ A: Yes, 441 is bigger than 200.
 
 Q: Is 12 bigger than 16?
 A: No, 16 is bigger than 12.
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 52 in words?
+A: 52 in words is fifty-two.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 3 in words?
+A: 3 in words is three.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does Mexico use?
+A: The currency of Mexico is the peso.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: What currency does Azerbaijan use?
+A: The currency of Azerbaijan is the manat.
+
+Q: What currency does Bolivia use?
+A: The currency of Bolivia is the boliviano.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: How do you sort 16, 5, and 15?
+A: In order, they are 5 15 16.
+
+Q: How do you sort 941, 23, and 78?
+A: In order, they are 23 78 941.
+
+Q: How do you sort 29, 5, and 27?
+A: In order, they are 5 27 29.
+
+Q: How do you sort 566, 381, and 283?
+A: In order, they are 283 381 566.
+
+Q: How do you sort 13, 19, and 2?
+A: In order, they are 2 13 19.
+
+Q: How do you sort 357, 554, and 489?
+A: In order, they are 357 489 554.
+
+Q: How do you sort 28, 180, and 492?
+A: In order, they are 28 180 492.
+
+Q: How do you sort 14, 9, and 13?
+A: In order, they are 9 13 14.
+
+Q: What is the first letter of 'republic'?
+A: The first letter of 'republic' is R.
+
+Q: What is the last letter of 'emirates'?
+A: The last letter of 'emirates' is S.
+
+Q: What is the first letter of 'kabul'?
+A: The first letter of 'kabul' is K.
+
+Q: What is the last letter of 'dysprosium'?
+A: The last letter of 'dysprosium' is M.
+
+Q: What is the first letter of 'boise'?
+A: The first letter of 'boise' is B.
+
+Q: What is the first letter of 'azerbaijan'?
+A: The first letter of 'azerbaijan' is A.
+
+Q: What is the last letter of 'iceland'?
+A: The last letter of 'iceland' is D.
+
+Q: What is the first letter of 'columbus'?
+A: The first letter of 'columbus' is C.
