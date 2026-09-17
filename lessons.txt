@@ -31735,3 +31735,170 @@ A: Double 17 is 34.
 
 Q: What is double 8?
 A: Double 8 is 16.
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: How many letters does the word 'calcium' have?
+A: The word 'calcium' has 7 letters.
+
+Q: How many letters does the word 'tbilisi' have?
+A: The word 'tbilisi' has 7 letters.
+
+Q: How many letters does the word 'moldova' have?
+A: The word 'moldova' has 7 letters.
+
+Q: How many letters does the word 'vienna' have?
+A: The word 'vienna' has 6 letters.
+
+Q: How many letters does the word 'krona' have?
+A: The word 'krona' has 5 letters.
+
+Q: How many letters does the word 'nouakchott' have?
+A: The word 'nouakchott' has 10 letters.
+
+Q: How many letters does the word 'late' have?
+A: The word 'late' has 4 letters.
+
+Q: How many letters does the word 'kwacha' have?
+A: The word 'kwacha' has 6 letters.
+
+Q: What is 12 minus 3?
+A: 12 minus 3 is 9.
+
+Q: What is 72 minus 59?
+A: 72 minus 59 is 13.
+
+Q: What is 13 times 15?
+A: 13 times 15 is 195.
+
+Q: What is 7 plus 6?
+A: 7 plus 6 is 13.
+
+Q: What is 657 minus 246?
+A: 657 minus 246 is 411.
+
+Q: What is 5 times 6?
+A: 5 times 6 is 30.
+
+Q: What is 87 minus 48?
+A: 87 minus 48 is 39.
+
+Q: What is 689 minus 240?
+A: 689 minus 240 is 449.
+
+Q: What continent is China on?
+A: China is on the continent of Asia.
+
+Q: What continent is Poland on?
+A: Poland is on the continent of Europe.
+
+Q: What continent is Chile on?
+A: Chile is on the continent of South America.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is Sudan on?
+A: Sudan is on the continent of Africa.
+
+Q: What continent is New Zealand on?
+A: New Zealand is on the continent of Oceania.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What currency does Panama use?
+A: The currency of Panama is the balboa.
+
+Q: What currency does Chile use?
+A: The currency of Chile is the peso.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 15 in words?
+A: 15 in words is fifteen.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 1 in words?
+A: 1 in words is one.
+
+Q: Is 22 bigger than 49?
+A: No, 49 is bigger than 22.
+
+Q: Which is bigger, 8 or 4?
+A: 8 is bigger than 4.
+
+Q: Is 12 bigger than 89?
+A: No, 89 is bigger than 12.
+
+Q: Which is bigger, 25 or 60?
+A: 60 is bigger than 25.
+
+Q: Is 819 bigger than 958?
+A: No, 958 is bigger than 819.
+
+Q: Which is bigger, 95 or 61?
+A: 95 is bigger than 61.
+
+Q: Which is bigger, 44 or 77?
+A: 77 is bigger than 44.
+
+Q: Is 93 bigger than 90?
+A: Yes, 93 is bigger than 90.
