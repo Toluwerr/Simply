@@ -59187,3 +59187,170 @@ A: 11 plus 1 is 12.
 
 Q: What is 20 minus 11?
 A: 20 minus 11 is 9.
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What is the chemical symbol for beryllium?
+A: The chemical symbol for beryllium is Be.
+
+Q: What is the chemical symbol for thorium?
+A: The chemical symbol for thorium is Th.
+
+Q: What is the chemical symbol for ytterbium?
+A: The chemical symbol for ytterbium is Yb.
+
+Q: Which element has the chemical symbol Zn?
+A: Zn is the chemical symbol for zinc.
+
+Q: What is the chemical symbol for vanadium?
+A: The chemical symbol for vanadium is V.
+
+Q: What is the chemical symbol for manganese?
+A: The chemical symbol for manganese is Mn.
+
+Q: Which element has the chemical symbol Se?
+A: Se is the chemical symbol for selenium.
+
+Q: Which element has the chemical symbol Bi?
+A: Bi is the chemical symbol for bismuth.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What number is the Roman numeral cccxxxviii?
+A: The Roman numeral cccxxxviii is the number 338.
+
+Q: What is the Roman numeral for 644?
+A: The Roman numeral for 644 is dcxliv.
+
+Q: What is the Roman numeral for 478?
+A: The Roman numeral for 478 is cdlxxviii.
+
+Q: What number is the Roman numeral dcxlviii?
+A: The Roman numeral dcxlviii is the number 648.
+
+Q: What number is the Roman numeral xvii?
+A: The Roman numeral xvii is the number 17.
+
+Q: What is the Roman numeral for 70?
+A: The Roman numeral for 70 is lxx.
+
+Q: What is the Roman numeral for 122?
+A: The Roman numeral for 122 is cxxii.
+
+Q: What number is the Roman numeral lxxxi?
+A: The Roman numeral lxxxi is the number 81.
+
+Q: What is the first letter of 'boliviano'?
+A: The first letter of 'boliviano' is B.
+
+Q: What is the last letter of 'nairobi'?
+A: The last letter of 'nairobi' is I.
+
+Q: What is the last letter of 'managua'?
+A: The last letter of 'managua' is A.
+
+Q: What is the last letter of 'togo'?
+A: The last letter of 'togo' is O.
+
+Q: What is the last letter of 'paraguay'?
+A: The last letter of 'paraguay' is Y.
+
+Q: What is the first letter of 'last'?
+A: The first letter of 'last' is L.
+
+Q: What is the last letter of 'tree'?
+A: The last letter of 'tree' is E.
+
+Q: What is the last letter of 'nigeria'?
+A: The last letter of 'nigeria' is A.
+
+Q: Which is bigger, 423 or 158?
+A: 423 is bigger than 158.
+
+Q: Is 440 bigger than 809?
+A: No, 809 is bigger than 440.
+
+Q: Which is bigger, 74 or 84?
+A: 84 is bigger than 74.
+
+Q: Which is bigger, 4 or 14?
+A: 14 is bigger than 4.
+
+Q: Which is bigger, 14 or 7?
+A: 14 is bigger than 7.
+
+Q: Which is bigger, 853 or 669?
+A: 853 is bigger than 669.
+
+Q: Which is bigger, 15 or 20?
+A: 20 is bigger than 15.
+
+Q: Which is bigger, 279 or 724?
+A: 724 is bigger than 279.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is double 13?
+A: Double 13 is 26.
+
+Q: What is half of 14?
+A: Half of 14 is 7.
+
+Q: What is double 13?
+A: Double 13 is 26.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is double 54?
+A: Double 54 is 108.
