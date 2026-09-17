@@ -23063,3 +23063,146 @@ A: Half of 8 is 4.
 
 Q: What is double 29?
 A: Double 29 is 58.
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: How many letters does the word 'very' have?
+A: The word 'very' has 4 letters.
+
+Q: How many letters does the word 'bandar' have?
+A: The word 'bandar' has 6 letters.
+
+Q: How many letters does the word 'kwacha' have?
+A: The word 'kwacha' has 6 letters.
+
+Q: How many letters does the word 'lisbon' have?
+A: The word 'lisbon' has 6 letters.
+
+Q: How many letters does the word 'saturn' have?
+A: The word 'saturn' has 6 letters.
+
+Q: How many letters does the word 'sierra' have?
+A: The word 'sierra' has 6 letters.
+
+Q: How many letters does the word 'than' have?
+A: The word 'than' has 4 letters.
+
+Q: How many letters does the word 'train' have?
+A: The word 'train' has 5 letters.
+
+Q: What is 20 minus 14?
+A: 20 minus 14 is 6.
+
+Q: What is 64 plus 29?
+A: 64 plus 29 is 93.
+
+Q: What is 58 plus 98?
+A: 58 plus 98 is 156.
+
+Q: What is 29 minus 22?
+A: 29 minus 22 is 7.
+
+Q: What is 5 times 4?
+A: 5 times 4 is 20.
+
+Q: What is 6 times 5?
+A: 6 times 5 is 30.
+
+Q: What is 44 plus 41?
+A: 44 plus 41 is 85.
+
+Q: What is 58 minus 42?
+A: 58 minus 42 is 16.
+
+Q: What continent is Italy on?
+A: Italy is on the continent of Europe.
+
+Q: What continent is South Sudan on?
+A: South Sudan is on the continent of Africa.
+
+Q: What continent is Laos on?
+A: Laos is on the continent of Asia.
+
+Q: What continent is South Africa on?
+A: South Africa is on the continent of Africa.
+
+Q: What continent is Micronesia on?
+A: Micronesia is on the continent of Oceania.
+
+Q: What continent is Zambia on?
+A: Zambia is on the continent of Africa.
+
+Q: What continent is Malaysia on?
+A: Malaysia is on the continent of Asia.
+
+Q: What continent is Bahrain on?
+A: Bahrain is on the continent of Asia.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What currency does Ukraine use?
+A: The currency of Ukraine is the hryvnia.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
+
+Q: What currency does Morocco use?
+A: The currency of Morocco is the dirham.
+
+Q: What currency does Armenia use?
+A: The currency of Armenia is the dram.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does Jordan use?
+A: The currency of Jordan is the dinar.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 49 in words?
+A: 49 in words is forty-nine.
