@@ -26121,3 +26121,110 @@ A: The first letter of 'dry' is D.
 
 Q: What is the last letter of 'germanium'?
 A: The last letter of 'germanium' is M.
+Q: What is the first letter of 'richmond'?
+A: The first letter of 'richmond' is R.
+
+Q: What is the last letter of 'carbon'?
+A: The last letter of 'carbon' is N.
+
+Q: What is the first letter of 'cesium'?
+A: The first letter of 'cesium' is C.
+
+Q: What is the last letter of 'chromium'?
+A: The last letter of 'chromium' is M.
+
+Q: What is the first letter of 'happy'?
+A: The first letter of 'happy' is H.
+
+Q: What is the first letter of 'ouagadougou'?
+A: The first letter of 'ouagadougou' is O.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What is the largest island?
+A: Greenland is the largest island.
+
+Q: What is double 6?
+A: Double 6 is 12.
+
+Q: What is double 58?
+A: Double 58 is 116.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is double 50?
+A: Double 50 is 100.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is double 10?
+A: Double 10 is 20.
+
+Q: How do you sort 9, 1, and 18?
+A: In order, they are 1 9 18.
+
+Q: How do you sort 139, 509, and 510?
+A: In order, they are 139 509 510.
+
+Q: How do you sort 4, 18, and 3?
+A: In order, they are 3 4 18.
+
+Q: How do you sort 1, 25, and 14?
+A: In order, they are 1 14 25.
+
+Q: How do you sort 650, 589, and 961?
+A: In order, they are 589 650 961.
+
+Q: How do you sort 2, 7, and 29?
+A: In order, they are 2 7 29.
+
+Q: Is 518 bigger than 261?
+A: Yes, 518 is bigger than 261.
+
+Q: Is 85 bigger than 74?
+A: Yes, 85 is bigger than 74.
+
+Q: Which is bigger, 598 or 397?
+A: 598 is bigger than 397.
+
+Q: Is 1 bigger than 5?
+A: No, 5 is bigger than 1.
+
+Q: Which is bigger, 847 or 336?
+A: 847 is bigger than 336.
+
+Q: Which is bigger, 301 or 820?
+A: 820 is bigger than 301.
+
+Q: What continent is Paraguay on?
+A: Paraguay is on the continent of South America.
+
+Q: What continent is Switzerland on?
+A: Switzerland is on the continent of Europe.
+
+Q: What continent is Yemen on?
+A: Yemen is on the continent of Asia.
+
+Q: What continent is Samoa on?
+A: Samoa is on the continent of Oceania.
+
+Q: What continent is Norway on?
+A: Norway is on the continent of Europe.
+
+Q: What continent is Uganda on?
+A: Uganda is on the continent of Africa.

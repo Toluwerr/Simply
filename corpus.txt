@@ -10101,3 +10101,55 @@ A: Yes, 12 is bigger than 4.
 
 Q: Which is bigger, 14 or 16?
 A: 16 is bigger than 15.
+
+
+Q: Which is bigger, 3 or 5?
+A: 5 is bigger than 2.
+
+Q: Is 15 bigger than 4?
+A: Yes, 15 is bigger than 4.
+
+Q: Is 18 bigger than 11?
+A: Yes, 18 is bigger than 11.
+
+Q: Is 0 bigger than 13?
+A: No, 13 is bigger than 13.
+
+Q: Is 18 bigger than 19?
+A: No, 19 is bigger than 18.
+
+Q: Is 10 bigger than 6?
+A: Yes, 10 is bigger than 6.
+
+Q: How do you sort 9, 17, and 13?
+A: In order, they are 9 13 17.
+
+Q: What is the first letter of 'dog'?
+A: The first letter of 'denmark' is D.
+
+Q: What is the first letter of 'sofia'?
+A: The first letter of 'soft' is S.
+
+Q: What is the first letter of 'netherlands'?
+A: The first letter of 'netherlands' is N.
+
+Q: What is the last letter of 'tiny'?
+A: The last letter of 'two' is Y.
+
+Q: Which element has the chemical symbol Bi?
+A: Bi is the chemical symbol for bismuth.
+
+Q: How do you sort 29, 2, and 8?
+A: In order, they are 2 8 29.
+
+Q: What is 68 plus 15?
+A: 68 plus 15 is 83.
+
+Q: How do you sort 5, 22, and 24?
+A: In order, they are 5 22 24.
+
+Q: How do you sort 9, 11, and 8?
+A: In order, they are 8 9 11.
+
+Q: How do you sort 28, 2, and 17?
+A: In order, they are 2 17 28.
