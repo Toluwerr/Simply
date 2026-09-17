@@ -39129,3 +39129,170 @@ A: No, 891 is bigger than 766.
 
 Q: Is 54 bigger than 82?
 A: No, 82 is bigger than 54.
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 3 in words?
+A: 3 in words is three.
+
+Q: How do you write 2 in words?
+A: 2 in words is two.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: What currency does Mongolia use?
+A: The currency of Mongolia is the tugrik.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: What currency does Canada use?
+A: The currency of Canada is the dollar.
+
+Q: What currency does Japan use?
+A: The currency of Japan is the yen.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
+
+Q: What currency does Uganda use?
+A: The currency of Uganda is the shilling.
+
+Q: What currency does Slovakia use?
+A: The currency of Slovakia is the euro.
+
+Q: What currency does Latvia use?
+A: The currency of Latvia is the euro.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: How do you sort 403, 717, and 656?
+A: In order, they are 403 656 717.
+
+Q: How do you sort 12, 18, and 20?
+A: In order, they are 12 18 20.
+
+Q: How do you sort 219, 503, and 50?
+A: In order, they are 50 219 503.
+
+Q: How do you sort 22, 21, and 24?
+A: In order, they are 21 22 24.
+
+Q: How do you sort 25, 11, and 6?
+A: In order, they are 6 11 25.
+
+Q: How do you sort 16, 27, and 13?
+A: In order, they are 13 16 27.
+
+Q: How do you sort 1, 21, and 12?
+A: In order, they are 1 12 21.
+
+Q: How do you sort 6, 28, and 3?
+A: In order, they are 3 6 28.
+
+Q: What is the last letter of 'dram'?
+A: The last letter of 'dram' is M.
+
+Q: What is the last letter of 'americium'?
+A: The last letter of 'americium' is M.
+
+Q: What is the first letter of 'suva'?
+A: The first letter of 'suva' is S.
+
+Q: What is the first letter of 'djibouti'?
+A: The first letter of 'djibouti' is D.
+
+Q: What is the first letter of 'thulium'?
+A: The first letter of 'thulium' is T.
+
+Q: What is the first letter of 'malabo'?
+A: The first letter of 'malabo' is M.
+
+Q: What is the last letter of 'grenada'?
+A: The last letter of 'grenada' is A.
+
+Q: What is the last letter of 'dover'?
+A: The last letter of 'dover' is R.
