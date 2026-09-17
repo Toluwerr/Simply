@@ -12859,3 +12859,7 @@ A: The chemical symbol for osmium is Osn has.
 
 Q: How many letters does the word 'quien' have?
 A: The word ' has 5 letters.
+
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Osetium.

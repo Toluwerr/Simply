@@ -61572,3 +61572,170 @@ A: The last letter of 'shallow' is W.
 
 Q: What is the first letter of 'time'?
 A: The first letter of 'time' is T.
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: How do you sort 8, 11, and 6?
+A: In order, they are 6 8 11.
+
+Q: How do you sort 5, 9, and 8?
+A: In order, they are 5 8 9.
+
+Q: How do you sort 368, 370, and 948?
+A: In order, they are 368 370 948.
+
+Q: How do you sort 926, 631, and 667?
+A: In order, they are 631 667 926.
+
+Q: How do you sort 958, 425, and 793?
+A: In order, they are 425 793 958.
+
+Q: How do you sort 13, 6, and 28?
+A: In order, they are 6 13 28.
+
+Q: How do you sort 743, 764, and 956?
+A: In order, they are 743 764 956.
+
+Q: How do you sort 11, 13, and 25?
+A: In order, they are 11 13 25.
+
+Q: What is the last letter of 'topeka'?
+A: The last letter of 'topeka' is A.
+
+Q: What is the last letter of 'iowa'?
+A: The last letter of 'iowa' is A.
+
+Q: What is the last letter of 'venus'?
+A: The last letter of 'venus' is S.
+
+Q: What is the first letter of 'lansing'?
+A: The first letter of 'lansing' is L.
+
+Q: What is the first letter of 'andorra'?
+A: The first letter of 'andorra' is A.
+
+Q: What is the last letter of 'jakarta'?
+A: The last letter of 'jakarta' is A.
+
+Q: What is the first letter of 'montgomery'?
+A: The first letter of 'montgomery' is M.
+
+Q: What is the first letter of 'july'?
+A: The first letter of 'july' is J.
+
+Q: What continent is Thailand on?
+A: Thailand is on the continent of Asia.
+
+Q: What continent is Qatar on?
+A: Qatar is on the continent of Asia.
+
+Q: What continent is Pakistan on?
+A: Pakistan is on the continent of Asia.
+
+Q: What continent is Bahrain on?
+A: Bahrain is on the continent of Asia.
+
+Q: What continent is Switzerland on?
+A: Switzerland is on the continent of Europe.
+
+Q: What continent is Armenia on?
+A: Armenia is on the continent of Asia.
+
+Q: What continent is Iraq on?
+A: Iraq is on the continent of Asia.
+
+Q: What continent is Morocco on?
+A: Morocco is on the continent of Africa.
+
+Q: What is the capital of Micronesia?
+A: The capital of Micronesia is Palikir.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of Angola?
+A: The capital of Angola is Luanda.
+
+Q: What is the capital of Malaysia?
+A: The capital of Malaysia is Kuala Lumpur.
+
+Q: What is the capital of Vietnam?
+A: The capital of Vietnam is Hanoi.
+
+Q: What is the capital of Gambia?
+A: The capital of Gambia is Banjul.
+
+Q: What is the capital of Grenada?
+A: The capital of Grenada is Saint George's.
+
+Q: What is the capital of Cyprus?
+A: The capital of Cyprus is Nicosia.
+
+Q: Can you count by fives from 30 to 40?
+A: Counting by fives gives 30 35 40.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by fives from 10 to 35?
+A: Counting by fives gives 10 15 20 25 30 35.
+
+Q: Can you count by twos from 18 to 28?
+A: Counting by twos gives 18 20 22 24 26 28.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by fives from 35 to 60?
+A: Counting by fives gives 35 40 45 50 55 60.
+
+Q: Can you count by twos from 34 to 40?
+A: Counting by twos gives 34 36 38 40.
+
+Q: Is 64 bigger than 73?
+A: No, 73 is bigger than 64.
+
+Q: Is 858 bigger than 592?
+A: Yes, 858 is bigger than 592.
+
+Q: Which is bigger, 783 or 326?
+A: 783 is bigger than 326.
+
+Q: Which is bigger, 6 or 9?
+A: 9 is bigger than 6.
+
+Q: Is 463 bigger than 637?
+A: No, 637 is bigger than 463.
+
+Q: Which is bigger, 83 or 32?
+A: 83 is bigger than 32.
+
+Q: Which is bigger, 10 or 1?
+A: 10 is bigger than 1.
+
+Q: Is 577 bigger than 392?
+A: Yes, 577 is bigger than 392.
