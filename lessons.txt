@@ -41681,3 +41681,170 @@ A: The capital of Mozambique is Maputo.
 
 Q: What is the capital of Bosnia and Herzegovina?
 A: The capital of Bosnia and Herzegovina is Sarajevo.
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: Which element has the chemical symbol S?
+A: S is the chemical symbol for sulfur.
+
+Q: What is the chemical symbol for technetium?
+A: The chemical symbol for technetium is Tc.
+
+Q: Which element has the chemical symbol Ho?
+A: Ho is the chemical symbol for holmium.
+
+Q: What is the chemical symbol for tungsten?
+A: The chemical symbol for tungsten is W.
+
+Q: What is the chemical symbol for rhodium?
+A: The chemical symbol for rhodium is Rh.
+
+Q: Which element has the chemical symbol Pr?
+A: Pr is the chemical symbol for praseodymium.
+
+Q: What is the chemical symbol for americium?
+A: The chemical symbol for americium is Am.
+
+Q: What is the chemical symbol for tungsten?
+A: The chemical symbol for tungsten is W.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the Roman numeral for 43?
+A: The Roman numeral for 43 is xliii.
+
+Q: What number is the Roman numeral xlvii?
+A: The Roman numeral xlvii is the number 47.
+
+Q: What number is the Roman numeral lxi?
+A: The Roman numeral lxi is the number 61.
+
+Q: What is the Roman numeral for 98?
+A: The Roman numeral for 98 is xcviii.
+
+Q: What number is the Roman numeral cmlxxv?
+A: The Roman numeral cmlxxv is the number 975.
+
+Q: What number is the Roman numeral xci?
+A: The Roman numeral xci is the number 91.
+
+Q: What is the Roman numeral for 26?
+A: The Roman numeral for 26 is xxvi.
+
+Q: What number is the Roman numeral viii?
+A: The Roman numeral viii is the number 8.
+
+Q: What is the last letter of 'not'?
+A: The last letter of 'not' is T.
+
+Q: What is the first letter of 'koala'?
+A: The first letter of 'koala' is K.
+
+Q: What is the last letter of 'sacramento'?
+A: The last letter of 'sacramento' is O.
+
+Q: What is the first letter of 'nouakchott'?
+A: The first letter of 'nouakchott' is N.
+
+Q: What is the first letter of 'georgetown'?
+A: The first letter of 'georgetown' is G.
+
+Q: What is the first letter of 'shilling'?
+A: The first letter of 'shilling' is S.
+
+Q: What is the last letter of 'moscow'?
+A: The last letter of 'moscow' is W.
+
+Q: What is the first letter of 'turkmenistan'?
+A: The first letter of 'turkmenistan' is T.
+
+Q: Is 15 bigger than 87?
+A: No, 87 is bigger than 15.
+
+Q: Which is bigger, 970 or 988?
+A: 988 is bigger than 970.
+
+Q: Is 352 bigger than 450?
+A: No, 450 is bigger than 352.
+
+Q: Is 104 bigger than 466?
+A: No, 466 is bigger than 104.
+
+Q: Which is bigger, 69 or 72?
+A: 72 is bigger than 69.
+
+Q: Which is bigger, 2 or 14?
+A: 14 is bigger than 2.
+
+Q: Is 16 bigger than 2?
+A: Yes, 16 is bigger than 2.
+
+Q: Is 968 bigger than 206?
+A: Yes, 968 is bigger than 206.
+
+Q: What is double 25?
+A: Double 25 is 50.
+
+Q: What is half of 58?
+A: Half of 58 is 29.
+
+Q: What is double 54?
+A: Double 54 is 108.
+
+Q: What is double 37?
+A: Double 37 is 74.
+
+Q: What is double 36?
+A: Double 36 is 72.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is double 25?
+A: Double 25 is 50.
+
+Q: What is double 6?
+A: Double 6 is 12.
