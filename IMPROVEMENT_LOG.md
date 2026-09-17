@@ -3682,3 +3682,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, sort 0.00, double_half 0.00 | strongest: opposites 1.00, animals 1.00, records 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny GPTT-style transformer with character-stockst indust more."
 
+## Iteration 421 - NO_GAIN
+- **when**: 2026-09-17T02:35:33Z
+- **train loss**: 1.3383 | **val loss**: 0.5952 | **run best**: 0.5638
+- **corpus**: 283,203 chars (+3 self-written examples)
+- **internet reading**: +28 articles, +12 facts (895 read all-time)
+- **lr**: 0.0008 | **steps**: 62
+- **knowledge quiz**: avg 0.39 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: opposites 1.00, animals 1.00, records 1.00
+- self-portrait, asked "Who are you?": *"I am version smarter little boat do says, ' buys'oink'."
+

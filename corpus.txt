@@ -12759,3 +12759,13 @@ A: 0 times 0 is 0 polite and bulls one of need the body..
 
 Q: What is 0 times 0?
 A: 0 times 0 is 0 polite and other other berrys other not be to ten tasks.
+
+
+Q: Can you count by fives from 20 to 30?
+A: Counting by fives gives 20 25 30.
+
+Q: Which is bigger, 2 or 93?
+A: 93 is bigger than 2.
+
+Q: Which is bigger, 21 or 63?
+A: 63 is bigger than 24.

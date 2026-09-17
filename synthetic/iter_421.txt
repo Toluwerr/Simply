@@ -1,0 +1,8 @@
+Q: Can you count by fives from 20 to 30?
+A: Counting by fives gives 20 25 30.
+
+Q: Which is bigger, 2 or 93?
+A: 93 is bigger than 2.
+
+Q: Which is bigger, 21 or 63?
+A: 63 is bigger than 24.
