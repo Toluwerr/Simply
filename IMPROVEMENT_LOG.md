@@ -7705,3 +7705,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Counteep is the capital of the first letter of '?"
 
+## Promotion - v38 - weights promoted to Releases
+- **reason**: knowledge 0.13, was 0.00; val 1.2353
+- self-portrait, asked "Who are you?": *"The currency double 1 in words is far."
+
