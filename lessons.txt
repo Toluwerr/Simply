@@ -38852,3 +38852,170 @@ A: The capital of Japan is Tokyo.
 
 Q: What is the capital of Chad?
 A: The capital of Chad is N'Djamena.
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: Which element has the chemical symbol Cu?
+A: Cu is the chemical symbol for copper.
+
+Q: Which element has the chemical symbol Eu?
+A: Eu is the chemical symbol for europium.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: Which element has the chemical symbol Au?
+A: Au is the chemical symbol for gold.
+
+Q: What is the chemical symbol for cesium?
+A: The chemical symbol for cesium is Cs.
+
+Q: Which element has the chemical symbol Ge?
+A: Ge is the chemical symbol for germanium.
+
+Q: Which element has the chemical symbol Rh?
+A: Rh is the chemical symbol for rhodium.
+
+Q: What is the chemical symbol for praseodymium?
+A: The chemical symbol for praseodymium is Pr.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What number is the Roman numeral clxviii?
+A: The Roman numeral clxviii is the number 168.
+
+Q: What is the Roman numeral for 738?
+A: The Roman numeral for 738 is dccxxxviii.
+
+Q: What is the Roman numeral for 14?
+A: The Roman numeral for 14 is xiv.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What number is the Roman numeral xlviii?
+A: The Roman numeral xlviii is the number 48.
+
+Q: What is the Roman numeral for 726?
+A: The Roman numeral for 726 is dccxxvi.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What is the Roman numeral for 5?
+A: The Roman numeral for 5 is v.
+
+Q: What is the first letter of 'rial'?
+A: The first letter of 'rial' is R.
+
+Q: What is the last letter of 'iodine'?
+A: The last letter of 'iodine' is E.
+
+Q: What is the first letter of 'grenadines'?
+A: The first letter of 'grenadines' is G.
+
+Q: What is the last letter of 'faso'?
+A: The last letter of 'faso' is O.
+
+Q: What is the first letter of 'ngerulmud'?
+A: The first letter of 'ngerulmud' is N.
+
+Q: What is the first letter of 'oslo'?
+A: The first letter of 'oslo' is O.
+
+Q: What is the last letter of 'fish'?
+A: The last letter of 'fish' is H.
+
+Q: What is the first letter of 'nicaragua'?
+A: The first letter of 'nicaragua' is N.
+
+Q: Is 38 bigger than 23?
+A: Yes, 38 is bigger than 23.
+
+Q: Which is bigger, 456 or 799?
+A: 799 is bigger than 456.
+
+Q: Which is bigger, 15 or 69?
+A: 69 is bigger than 15.
+
+Q: Is 7 bigger than 13?
+A: No, 13 is bigger than 7.
+
+Q: Is 13 bigger than 12?
+A: Yes, 13 is bigger than 12.
+
+Q: Is 37 bigger than 72?
+A: No, 72 is bigger than 37.
+
+Q: Is 1 bigger than 4?
+A: No, 4 is bigger than 1.
+
+Q: Which is bigger, 65 or 44?
+A: 65 is bigger than 44.
+
+Q: What is double 37?
+A: Double 37 is 74.
+
+Q: What is double 48?
+A: Double 48 is 96.
+
+Q: What is half of 50?
+A: Half of 50 is 25.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is double 15?
+A: Double 15 is 30.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is double 29?
+A: Double 29 is 58.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
