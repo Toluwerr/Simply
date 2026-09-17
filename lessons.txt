@@ -31421,3 +31421,128 @@ A: The currency of Zambia is the kwacha.
 
 Q: What currency does Papua New Guinea use?
 A: The currency of Papua New Guinea is the kina.
+Q: What is the capital of Romania?
+A: The capital of Romania is Bucharest.
+
+Q: What is the capital of Afghanistan?
+A: The capital of Afghanistan is Kabul.
+
+Q: What is the capital of the Comoros?
+A: The capital of the Comoros is Moroni.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What is the capital of Moldova?
+A: The capital of Moldova is Chisinau.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What is the Roman numeral for 661?
+A: The Roman numeral for 661 is dclxi.
+
+Q: What is the Roman numeral for 873?
+A: The Roman numeral for 873 is dccclxxiii.
+
+Q: What is the Roman numeral for 333?
+A: The Roman numeral for 333 is cccxxxiii.
+
+Q: What number is the Roman numeral lxiii?
+A: The Roman numeral lxiii is the number 63.
+
+Q: What number is the Roman numeral xx?
+A: The Roman numeral xx is the number 20.
+
+Q: How many letters does the word 'july' have?
+A: The word 'july' has 4 letters.
+
+Q: How many letters does the word 'yaounde' have?
+A: The word 'yaounde' has 7 letters.
+
+Q: How many letters does the word 'january' have?
+A: The word 'january' has 7 letters.
+
+Q: How many letters does the word 'brasilia' have?
+A: The word 'brasilia' has 8 letters.
+
+Q: How many letters does the word 'cat' have?
+A: The word 'cat' has 3 letters.
+
+Q: How many letters does the word 'mauritius' have?
+A: The word 'mauritius' has 9 letters.
+
+Q: Can you count by twos from 26 to 34?
+A: Counting by twos gives 26 28 30 32 34.
+
+Q: Can you count by ones from 28 to 30?
+A: Counting by ones gives 28 29 30.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 45.
+
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 25 30 35.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by twos from 2 to 12?
+A: Counting by twos gives 2 4 6 8 10 12.
+
+Q: What currency does Jamaica use?
+A: The currency of Jamaica is the dollar.
+
+Q: What currency does Rwanda use?
+A: The currency of Rwanda is the franc.
+
+Q: What currency does Colombia use?
+A: The currency of Colombia is the peso.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Rwanda use?
+A: The currency of Rwanda is the franc.
+
+Q: What currency does the Dominican Republic use?
+A: The currency of the Dominican Republic is the peso.
+
+Q: What is double 7?
+A: Double 7 is 14.
+
+Q: What is double 45?
+A: Double 45 is 90.
+
+Q: What is double 28?
+A: Double 28 is 56.
+
+Q: What is half of 34?
+A: Half of 34 is 17.
+
+Q: What is double 42?
+A: Double 42 is 84.
+
+Q: What is double 33?
+A: Double 33 is 66.
+
+Q: Which element has the chemical symbol Gd?
+A: Gd is the chemical symbol for gadolinium.
+
+Q: What is the chemical symbol for radium?
+A: The chemical symbol for radium is Ra.
+
+Q: What is the chemical symbol for zirconium?
+A: The chemical symbol for zirconium is Zr.
+
+Q: Which element has the chemical symbol N?
+A: N is the chemical symbol for nitrogen.
+
+Q: What is the chemical symbol for gallium?
+A: The chemical symbol for gallium is Ga.
+
+Q: Which element has the chemical symbol Ho?
+A: Ho is the chemical symbol for holmium.
