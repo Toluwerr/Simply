@@ -34058,3 +34058,170 @@ A: The capital of Portugal is Lisbon.
 
 Q: What is the capital of Senegal?
 A: The capital of Senegal is Dakar.
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: Which element has the chemical symbol Zn?
+A: Zn is the chemical symbol for zinc.
+
+Q: Which element has the chemical symbol Zn?
+A: Zn is the chemical symbol for zinc.
+
+Q: Which element has the chemical symbol As?
+A: As is the chemical symbol for arsenic.
+
+Q: Which element has the chemical symbol Co?
+A: Co is the chemical symbol for cobalt.
+
+Q: Which element has the chemical symbol Sr?
+A: Sr is the chemical symbol for strontium.
+
+Q: Which element has the chemical symbol Cs?
+A: Cs is the chemical symbol for cesium.
+
+Q: Which element has the chemical symbol Li?
+A: Li is the chemical symbol for lithium.
+
+Q: What is the chemical symbol for thorium?
+A: The chemical symbol for thorium is Th.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What number is the Roman numeral xv?
+A: The Roman numeral xv is the number 15.
+
+Q: What number is the Roman numeral cxvii?
+A: The Roman numeral cxvii is the number 117.
+
+Q: What number is the Roman numeral ix?
+A: The Roman numeral ix is the number 9.
+
+Q: What is the Roman numeral for 1?
+A: The Roman numeral for 1 is i.
+
+Q: What number is the Roman numeral xxxvi?
+A: The Roman numeral xxxvi is the number 36.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What is the Roman numeral for 37?
+A: The Roman numeral for 37 is xxxvii.
+
+Q: What number is the Roman numeral i?
+A: The Roman numeral i is the number 1.
+
+Q: What is the first letter of 'forint'?
+A: The first letter of 'forint' is F.
+
+Q: What is the first letter of 'nassau'?
+A: The first letter of 'nassau' is N.
+
+Q: What is the last letter of 'singapore'?
+A: The last letter of 'singapore' is E.
+
+Q: What is the first letter of 'paramaribo'?
+A: The first letter of 'paramaribo' is P.
+
+Q: What is the first letter of 'windhoek'?
+A: The first letter of 'windhoek' is W.
+
+Q: What is the first letter of 'may'?
+A: The first letter of 'may' is M.
+
+Q: What is the first letter of 'emirates'?
+A: The first letter of 'emirates' is E.
+
+Q: What is the first letter of 'strong'?
+A: The first letter of 'strong' is S.
+
+Q: Is 13 bigger than 10?
+A: Yes, 13 is bigger than 10.
+
+Q: Is 53 bigger than 19?
+A: Yes, 53 is bigger than 19.
+
+Q: Is 672 bigger than 626?
+A: Yes, 672 is bigger than 626.
+
+Q: Which is bigger, 47 or 62?
+A: 62 is bigger than 47.
+
+Q: Is 19 bigger than 9?
+A: Yes, 19 is bigger than 9.
+
+Q: Is 76 bigger than 93?
+A: No, 93 is bigger than 76.
+
+Q: Which is bigger, 355 or 987?
+A: 987 is bigger than 355.
+
+Q: Is 307 bigger than 714?
+A: No, 714 is bigger than 307.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is double 26?
+A: Double 26 is 52.
+
+Q: What is double 60?
+A: Double 60 is 120.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is double 6?
+A: Double 6 is 12.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What is double 51?
+A: Double 51 is 102.
