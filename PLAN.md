@@ -7,9 +7,10 @@ off when the committed metrics actually meet them._
 
 ## Goals it set for itself
 
-- [ ] read 832 articles all-time (now 632)
+- [x] read 832 articles all-time (now 632) - DONE (iteration 409)
 - [ ] read 922 articles all-time (now 722)
 - [ ] read 950 articles all-time (now 750)
+- [ ] read 1,037 articles all-time (now 837)
 
 ## How it chooses
 
@@ -21,7 +22,7 @@ outcomes (promotions, quiz gains, loss gains). Explore
 |---|---|---|
 | survey | 1 | 6.00 |
 | deep_dive | 1 | 6.00 |
-| drill | 4 | 5.75 |
+| drill | 5 | 4.60 |
 | create | 1 | 6.00 |
 | experiment | 1 | 6.00 |
 

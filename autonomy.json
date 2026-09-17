@@ -9,7 +9,7 @@
       "reward": 6.0
     },
     "drill": {
-      "tries": 4,
+      "tries": 5,
       "reward": 23.0
     },
     "create": {
@@ -28,11 +28,6 @@
   "goals": [
     {
       "kind": "read",
-      "target": 832,
-      "text": "read 832 articles all-time (now 632)"
-    },
-    {
-      "kind": "read",
       "target": 922,
       "text": "read 922 articles all-time (now 722)"
     },
@@ -40,6 +35,11 @@
       "kind": "read",
       "target": 950,
       "text": "read 950 articles all-time (now 750)"
+    },
+    {
+      "kind": "read",
+      "target": 1037,
+      "text": "read 1,037 articles all-time (now 837)"
     }
   ],
   "runs": 9
