@@ -46985,3 +46985,146 @@ A: Half of 38 is 19.
 
 Q: What is double 34?
 A: Double 34 is 68.
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: How many letters does the word 'neon' have?
+A: The word 'neon' has 4 letters.
+
+Q: How many letters does the word 'vaduz' have?
+A: The word 'vaduz' has 5 letters.
+
+Q: How many letters does the word 'tashkent' have?
+A: The word 'tashkent' has 8 letters.
+
+Q: How many letters does the word 'hawaii' have?
+A: The word 'hawaii' has 6 letters.
+
+Q: How many letters does the word 'fluorine' have?
+A: The word 'fluorine' has 8 letters.
+
+Q: How many letters does the word 'tungsten' have?
+A: The word 'tungsten' has 8 letters.
+
+Q: How many letters does the word 'boston' have?
+A: The word 'boston' has 6 letters.
+
+Q: How many letters does the word 'tuvalu' have?
+A: The word 'tuvalu' has 6 letters.
+
+Q: What is 894 minus 279?
+A: 894 minus 279 is 615.
+
+Q: What is 5 times 4?
+A: 5 times 4 is 20.
+
+Q: What is 14 times 15?
+A: 14 times 15 is 210.
+
+Q: What is 13 times 16?
+A: 13 times 16 is 208.
+
+Q: What is 67 plus 34?
+A: 67 plus 34 is 101.
+
+Q: What is 92 plus 95?
+A: 92 plus 95 is 187.
+
+Q: What is 4 times 2?
+A: 4 times 2 is 8.
+
+Q: What is 9 times 9?
+A: 9 times 9 is 81.
+
+Q: What continent is Slovakia on?
+A: Slovakia is on the continent of Europe.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is Burundi on?
+A: Burundi is on the continent of Africa.
+
+Q: What continent is Kyrgyzstan on?
+A: Kyrgyzstan is on the continent of Asia.
+
+Q: What continent is Tuvalu on?
+A: Tuvalu is on the continent of Oceania.
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.
+
+Q: What continent is North Macedonia on?
+A: North Macedonia is on the continent of Europe.
+
+Q: What continent is Luxembourg on?
+A: Luxembourg is on the continent of Europe.
+
+Q: What currency does Morocco use?
+A: The currency of Morocco is the dirham.
+
+Q: What currency does Sri Lanka use?
+A: The currency of Sri Lanka is the rupee.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Qatar use?
+A: The currency of Qatar is the riyal.
+
+Q: What currency does Sudan use?
+A: The currency of Sudan is the pound.
+
+Q: What currency does Sri Lanka use?
+A: The currency of Sri Lanka is the rupee.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does Egypt use?
+A: The currency of Egypt is the pound.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
