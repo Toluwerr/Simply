@@ -48216,3 +48216,146 @@ A: Half of 36 is 18.
 
 Q: What is double 11?
 A: Double 11 is 22.
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What is 9 times 4?
+A: 9 times 4 is 36.
+
+Q: What is 89 minus 58?
+A: 89 minus 58 is 31.
+
+Q: What is 170 minus 60?
+A: 170 minus 60 is 110.
+
+Q: What is 14 times 12?
+A: 14 times 12 is 168.
+
+Q: What is 4 minus 4?
+A: 4 minus 4 is 0.
+
+Q: What is 11 times 13?
+A: 11 times 13 is 143.
+
+Q: What is 8 times 10?
+A: 8 times 10 is 80.
+
+Q: What is 840 plus 107?
+A: 840 plus 107 is 947.
+
+Q: What continent is Moldova on?
+A: Moldova is on the continent of Europe.
+
+Q: What continent is Bosnia and Herzegovina on?
+A: Bosnia and Herzegovina is on the continent of Europe.
+
+Q: What continent is Sierra Leone on?
+A: Sierra Leone is on the continent of Africa.
+
+Q: What continent is Jamaica on?
+A: Jamaica is on the continent of North America.
+
+Q: What continent is Tanzania on?
+A: Tanzania is on the continent of Africa.
+
+Q: What continent is Mozambique on?
+A: Mozambique is on the continent of Africa.
+
+Q: What continent is Nepal on?
+A: Nepal is on the continent of Asia.
+
+Q: What continent is Pakistan on?
+A: Pakistan is on the continent of Asia.
+
+Q: What currency does Sweden use?
+A: The currency of Sweden is the krona.
+
+Q: What currency does Slovakia use?
+A: The currency of Slovakia is the euro.
+
+Q: What currency does Algeria use?
+A: The currency of Algeria is the dinar.
+
+Q: What currency does Somalia use?
+A: The currency of Somalia is the shilling.
+
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does Taiwan use?
+A: The currency of Taiwan is the dollar.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Sweden use?
+A: The currency of Sweden is the krona.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 48 in words?
+A: 48 in words is forty-eight.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
+
+Q: How do you write 67 in words?
+A: 67 in words is sixty-seven.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: Is 817 bigger than 254?
+A: Yes, 817 is bigger than 254.
+
+Q: Which is bigger, 14 or 20?
+A: 20 is bigger than 14.
+
+Q: Is 37 bigger than 31?
+A: Yes, 37 is bigger than 31.
+
+Q: Is 76 bigger than 23?
+A: Yes, 76 is bigger than 23.
+
+Q: Which is bigger, 70 or 44?
+A: 70 is bigger than 44.
+
+Q: Which is bigger, 16 or 6?
+A: 16 is bigger than 6.
+
+Q: Which is bigger, 15 or 6?
+A: 15 is bigger than 6.
+
+Q: Which is bigger, 936 or 418?
+A: 936 is bigger than 418.
