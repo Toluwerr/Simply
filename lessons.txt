@@ -35289,3 +35289,170 @@ A: The capital of Spain is Madrid.
 
 Q: What is the capital of the Dominican Republic?
 A: The capital of the Dominican Republic is Santo Domingo.
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: What is the capital of Venezuela?
+A: The capital of Venezuela is Caracas.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of Uruguay?
+A: The capital of Uruguay is Montevideo.
+
+Q: What is the capital of Sierra Leone?
+A: The capital of Sierra Leone is Freetown.
+
+Q: What is the capital of Moldova?
+A: The capital of Moldova is Chisinau.
+
+Q: What is the capital of Croatia?
+A: The capital of Croatia is Zagreb.
+
+Q: What is 9 plus 12?
+A: 9 plus 12 is 21.
+
+Q: What is 10 times 12?
+A: 10 times 12 is 120.
+
+Q: What is 43 minus 17?
+A: 43 minus 17 is 26.
+
+Q: What is 97 plus 42?
+A: 97 plus 42 is 139.
+
+Q: What is 42 minus 31?
+A: 42 minus 31 is 11.
+
+Q: What is 31 minus 11?
+A: 31 minus 11 is 20.
+
+Q: What is 6 times 6?
+A: 6 times 6 is 36.
+
+Q: What is 14 minus 11?
+A: 14 minus 11 is 3.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: How many letters does the word 'stockholm' have?
+A: The word 'stockholm' has 9 letters.
+
+Q: How many letters does the word 'iowa' have?
+A: The word 'iowa' has 4 letters.
+
+Q: How many letters does the word 'afghani' have?
+A: The word 'afghani' has 7 letters.
+
+Q: How many letters does the word 'sodium' have?
+A: The word 'sodium' has 6 letters.
+
+Q: How many letters does the word 'guinea' have?
+A: The word 'guinea' has 6 letters.
+
+Q: How many letters does the word 'mark' have?
+A: The word 'mark' has 4 letters.
+
+Q: How many letters does the word 'fragile' have?
+A: The word 'fragile' has 7 letters.
+
+Q: How many letters does the word 'majuro' have?
+A: The word 'majuro' has 6 letters.
+
+Q: What is the last letter of 'south'?
+A: The last letter of 'south' is H.
+
+Q: What is the first letter of 'yttrium'?
+A: The first letter of 'yttrium' is Y.
+
+Q: What is the first letter of 'wet'?
+A: The first letter of 'wet' is W.
+
+Q: What is the first letter of 'stockholm'?
+A: The first letter of 'stockholm' is S.
+
+Q: What is the first letter of 'madrid'?
+A: The first letter of 'madrid' is M.
+
+Q: What is the first letter of 'palladium'?
+A: The first letter of 'palladium' is P.
+
+Q: What is the first letter of 'beryllium'?
+A: The first letter of 'beryllium' is B.
+
+Q: What is the first letter of 'hampshire'?
+A: The first letter of 'hampshire' is H.
+
+Q: Which is bigger, 9 or 13?
+A: 13 is bigger than 9.
+
+Q: Which is bigger, 93 or 19?
+A: 93 is bigger than 19.
+
+Q: Is 3 bigger than 13?
+A: No, 13 is bigger than 3.
+
+Q: Is 70 bigger than 74?
+A: No, 74 is bigger than 70.
+
+Q: Which is bigger, 9 or 14?
+A: 14 is bigger than 9.
+
+Q: Is 68 bigger than 27?
+A: Yes, 68 is bigger than 27.
+
+Q: Is 63 bigger than 42?
+A: Yes, 63 is bigger than 42.
+
+Q: Is 749 bigger than 571?
+A: Yes, 749 is bigger than 571.
