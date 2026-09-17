@@ -45497,3 +45497,170 @@ A: 96 is bigger than 30.
 
 Q: Which is bigger, 74 or 14?
 A: 74 is bigger than 14.
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 50 in words?
+A: 50 in words is fifty.
+
+Q: How do you write 37 in words?
+A: 37 in words is thirty-seven.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: What currency does Germany use?
+A: The currency of Germany is the euro.
+
+Q: What currency does Qatar use?
+A: The currency of Qatar is the riyal.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
+
+Q: What currency does Ukraine use?
+A: The currency of Ukraine is the hryvnia.
+
+Q: What currency does Mauritius use?
+A: The currency of Mauritius is the rupee.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Trinidad and Tobago use?
+A: The currency of Trinidad and Tobago is the dollar.
+
+Q: What currency does Canada use?
+A: The currency of Canada is the dollar.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: How do you sort 532, 840, and 433?
+A: In order, they are 433 532 840.
+
+Q: How do you sort 10, 11, and 2?
+A: In order, they are 2 10 11.
+
+Q: How do you sort 24, 4, and 10?
+A: In order, they are 4 10 24.
+
+Q: How do you sort 28, 16, and 8?
+A: In order, they are 8 16 28.
+
+Q: How do you sort 87, 892, and 118?
+A: In order, they are 87 118 892.
+
+Q: How do you sort 337, 778, and 541?
+A: In order, they are 337 541 778.
+
+Q: How do you sort 764, 583, and 321?
+A: In order, they are 321 583 764.
+
+Q: How do you sort 21, 2, and 27?
+A: In order, they are 2 21 27.
+
+Q: What is the last letter of 'dakar'?
+A: The last letter of 'dakar' is R.
+
+Q: What is the last letter of 'olympia'?
+A: The last letter of 'olympia' is A.
+
+Q: What is the first letter of 'peso'?
+A: The first letter of 'peso' is P.
+
+Q: What is the first letter of 'tellurium'?
+A: The first letter of 'tellurium' is T.
+
+Q: What is the last letter of 'ruble'?
+A: The last letter of 'ruble' is E.
+
+Q: What is the last letter of 'castle'?
+A: The last letter of 'castle' is E.
+
+Q: What is the first letter of 'pierre'?
+A: The first letter of 'pierre' is P.
+
+Q: What is the last letter of 'albania'?
+A: The last letter of 'albania' is A.
