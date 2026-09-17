@@ -32460,3 +32460,170 @@ A: The capital of Nauru is Yaren.
 
 Q: What is the capital of Barbados?
 A: The capital of Barbados is Bridgetown.
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What is the chemical symbol for copper?
+A: The chemical symbol for copper is Cu.
+
+Q: Which element has the chemical symbol Co?
+A: Co is the chemical symbol for cobalt.
+
+Q: What is the chemical symbol for oxygen?
+A: The chemical symbol for oxygen is O.
+
+Q: Which element has the chemical symbol N?
+A: N is the chemical symbol for nitrogen.
+
+Q: Which element has the chemical symbol F?
+A: F is the chemical symbol for fluorine.
+
+Q: Which element has the chemical symbol Mn?
+A: Mn is the chemical symbol for manganese.
+
+Q: What is the chemical symbol for scandium?
+A: The chemical symbol for scandium is Sc.
+
+Q: What is the chemical symbol for manganese?
+A: The chemical symbol for manganese is Mn.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What number is the Roman numeral xli?
+A: The Roman numeral xli is the number 41.
+
+Q: What is the Roman numeral for 668?
+A: The Roman numeral for 668 is dclxviii.
+
+Q: What number is the Roman numeral xlvii?
+A: The Roman numeral xlvii is the number 47.
+
+Q: What number is the Roman numeral xcix?
+A: The Roman numeral xcix is the number 99.
+
+Q: What number is the Roman numeral xiv?
+A: The Roman numeral xiv is the number 14.
+
+Q: What is the Roman numeral for 75?
+A: The Roman numeral for 75 is lxxv.
+
+Q: What number is the Roman numeral xvi?
+A: The Roman numeral xvi is the number 16.
+
+Q: What number is the Roman numeral xviii?
+A: The Roman numeral xviii is the number 18.
+
+Q: What is the first letter of 'windhoek'?
+A: The first letter of 'windhoek' is W.
+
+Q: What is the last letter of 'tobago'?
+A: The last letter of 'tobago' is O.
+
+Q: What is the last letter of 'delhi'?
+A: The last letter of 'delhi' is I.
+
+Q: What is the first letter of 'topeka'?
+A: The first letter of 'topeka' is T.
+
+Q: What is the last letter of 'utah'?
+A: The last letter of 'utah' is H.
+
+Q: What is the first letter of 'franc'?
+A: The first letter of 'franc' is F.
+
+Q: What is the first letter of 'hydrogen'?
+A: The first letter of 'hydrogen' is H.
+
+Q: What is the first letter of 'bee'?
+A: The first letter of 'bee' is B.
+
+Q: Which is bigger, 24 or 16?
+A: 24 is bigger than 16.
+
+Q: Is 877 bigger than 581?
+A: Yes, 877 is bigger than 581.
+
+Q: Which is bigger, 38 or 73?
+A: 73 is bigger than 38.
+
+Q: Is 4 bigger than 18?
+A: No, 18 is bigger than 4.
+
+Q: Which is bigger, 11 or 16?
+A: 16 is bigger than 11.
+
+Q: Is 255 bigger than 816?
+A: No, 816 is bigger than 255.
+
+Q: Is 2 bigger than 13?
+A: No, 13 is bigger than 2.
+
+Q: Which is bigger, 18 or 7?
+A: 18 is bigger than 7.
+
+Q: What is double 50?
+A: Double 50 is 100.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is double 46?
+A: Double 46 is 92.
+
+Q: What is double 11?
+A: Double 11 is 22.
+
+Q: What is double 6?
+A: Double 6 is 12.
+
+Q: What is double 10?
+A: Double 10 is 20.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is half of 10?
+A: Half of 10 is 5.
