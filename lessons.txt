@@ -50434,3 +50434,170 @@ A: The last letter of 'not' is T.
 
 Q: What is the first letter of 'chromium'?
 A: The first letter of 'chromium' is C.
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: How do you sort 847, 503, and 204?
+A: In order, they are 204 503 847.
+
+Q: How do you sort 20, 906, and 553?
+A: In order, they are 20 553 906.
+
+Q: How do you sort 1, 2, and 23?
+A: In order, they are 1 2 23.
+
+Q: How do you sort 22, 8, and 17?
+A: In order, they are 8 17 22.
+
+Q: How do you sort 10, 23, and 3?
+A: In order, they are 3 10 23.
+
+Q: How do you sort 873, 389, and 101?
+A: In order, they are 101 389 873.
+
+Q: How do you sort 515, 312, and 22?
+A: In order, they are 22 312 515.
+
+Q: How do you sort 13, 4, and 22?
+A: In order, they are 4 13 22.
+
+Q: What is the first letter of 'kina'?
+A: The first letter of 'kina' is K.
+
+Q: What is the last letter of 'iceland'?
+A: The last letter of 'iceland' is D.
+
+Q: What is the first letter of 'japan'?
+A: The first letter of 'japan' is J.
+
+Q: What is the last letter of 'mongolia'?
+A: The last letter of 'mongolia' is A.
+
+Q: What is the last letter of 'yuan'?
+A: The last letter of 'yuan' is N.
+
+Q: What is the first letter of 'morocco'?
+A: The first letter of 'morocco' is M.
+
+Q: What is the first letter of 'yuan'?
+A: The first letter of 'yuan' is Y.
+
+Q: What is the first letter of 'brazzaville'?
+A: The first letter of 'brazzaville' is B.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: What continent is Guinea on?
+A: Guinea is on the continent of Africa.
+
+Q: What continent is Ethiopia on?
+A: Ethiopia is on the continent of Africa.
+
+Q: What continent is China on?
+A: China is on the continent of Asia.
+
+Q: What continent is South Africa on?
+A: South Africa is on the continent of Africa.
+
+Q: What continent is Turkmenistan on?
+A: Turkmenistan is on the continent of Asia.
+
+Q: What continent is Rwanda on?
+A: Rwanda is on the continent of Africa.
+
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+
+Q: What is the capital of Uzbekistan?
+A: The capital of Uzbekistan is Tashkent.
+
+Q: What is the capital of Belarus?
+A: The capital of Belarus is Minsk.
+
+Q: What is the capital of Bolivia?
+A: The capital of Bolivia is La Paz.
+
+Q: What is the capital of Djibouti?
+A: The capital of Djibouti is Djibouti.
+
+Q: What is the capital of Colombia?
+A: The capital of Colombia is Bogota.
+
+Q: What is the capital of the Philippines?
+A: The capital of the Philippines is Manila.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
+
+Q: Can you count by twos from 28 to 38?
+A: Counting by twos gives 28 30 32 34 36 38.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25.
+
+Q: Can you count by fives from 10 to 25?
+A: Counting by fives gives 10 15 20 25.
+
+Q: Can you count by twos from 28 to 38?
+A: Counting by twos gives 28 30 32 34 36 38.
+
+Q: Can you count by ones from 9 to 14?
+A: Counting by ones gives 9 10 11 12 13 14.
+
+Q: Can you count by ones from 21 to 25?
+A: Counting by ones gives 21 22 23 24 25.
+
+Q: Can you count by ones from 2 to 5?
+A: Counting by ones gives 2 3 4 5.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Is 68 bigger than 91?
+A: No, 91 is bigger than 68.
+
+Q: Is 8 bigger than 13?
+A: No, 13 is bigger than 8.
+
+Q: Is 382 bigger than 828?
+A: No, 828 is bigger than 382.
+
+Q: Which is bigger, 7 or 20?
+A: 20 is bigger than 7.
+
+Q: Is 11 bigger than 9?
+A: Yes, 11 is bigger than 9.
+
+Q: Is 5 bigger than 12?
+A: No, 12 is bigger than 5.
+
+Q: Which is bigger, 23 or 72?
+A: 72 is bigger than 23.
+
+Q: Is 10 bigger than 6?
+A: Yes, 10 is bigger than 6.
