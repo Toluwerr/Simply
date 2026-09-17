@@ -18765,3 +18765,110 @@ A: The capital of Malta is Valletta.
 
 Q: What is the capital of Estonia?
 A: The capital of Estonia is Tallinn.
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the smallest ocean?
+A: The Arctic is the smallest ocean.
+
+Q: What is the freezing point of water?
+A: Water freezes at 0 degrees Celsius.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of the Netherlands?
+A: The capital of the Netherlands is Amsterdam.
+
+Q: What is the capital of Kenya?
+A: The capital of Kenya is Nairobi.
+
+Q: What is the capital of Madagascar?
+A: The capital of Madagascar is Antananarivo.
+
+Q: What is the capital of Bahrain?
+A: The capital of Bahrain is Manama.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: What currency does Bangladesh use?
+A: The currency of Bangladesh is the taka.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.
+
+Q: What currency does the Bahamas use?
+A: The currency of the Bahamas is the dollar.
+
+Q: What currency does Uganda use?
+A: The currency of Uganda is the shilling.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
+
+Q: What currency does Sweden use?
+A: The currency of Sweden is the krona.
+
+Q: How many letters does the word 'afraid' have?
+A: The word 'afraid' has 6 letters.
+
+Q: How many letters does the word 'tarawa' have?
+A: The word 'tarawa' has 6 letters.
+
+Q: How many letters does the word 'dhaka' have?
+A: The word 'dhaka' has 5 letters.
+
+Q: How many letters does the word 'minsk' have?
+A: The word 'minsk' has 5 letters.
+
+Q: How many letters does the word 'eritrea' have?
+A: The word 'eritrea' has 7 letters.
+
+Q: How many letters does the word 'maple' have?
+A: The word 'maple' has 5 letters.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
