@@ -25138,3 +25138,170 @@ A: No, 18 is bigger than 17.
 
 Q: Is 623 bigger than 471?
 A: Yes, 623 is bigger than 471.
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: How do you write 6 in words?
+A: 6 in words is six.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: How do you write 67 in words?
+A: 67 in words is sixty-seven.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 82 in words?
+A: 82 in words is eighty-two.
+
+Q: How do you write 55 in words?
+A: 55 in words is fifty-five.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: What currency does Jordan use?
+A: The currency of Jordan is the dinar.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does the United States use?
+A: The currency of the United States is the dollar.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.
+
+Q: What currency does India use?
+A: The currency of India is the rupee.
+
+Q: What currency does Bulgaria use?
+A: The currency of Bulgaria is the lev.
+
+Q: What currency does Uruguay use?
+A: The currency of Uruguay is the peso.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: How do you sort 2, 15, and 12?
+A: In order, they are 2 12 15.
+
+Q: How do you sort 17, 14, and 19?
+A: In order, they are 14 17 19.
+
+Q: How do you sort 168, 103, and 643?
+A: In order, they are 103 168 643.
+
+Q: How do you sort 9, 22, and 16?
+A: In order, they are 9 16 22.
+
+Q: How do you sort 551, 487, and 758?
+A: In order, they are 487 551 758.
+
+Q: How do you sort 7, 12, and 2?
+A: In order, they are 2 7 12.
+
+Q: How do you sort 103, 765, and 545?
+A: In order, they are 103 545 765.
+
+Q: How do you sort 22, 25, and 4?
+A: In order, they are 4 22 25.
+
+Q: What is the last letter of 'danger'?
+A: The last letter of 'danger' is R.
+
+Q: What is the first letter of 'tugrik'?
+A: The first letter of 'tugrik' is T.
+
+Q: What is the first letter of 'juba'?
+A: The first letter of 'juba' is J.
+
+Q: What is the last letter of 'principe'?
+A: The last letter of 'principe' is E.
+
+Q: What is the first letter of 'sierra'?
+A: The first letter of 'sierra' is S.
+
+Q: What is the last letter of 'hydrogen'?
+A: The last letter of 'hydrogen' is N.
+
+Q: What is the first letter of 'bahamas'?
+A: The first letter of 'bahamas' is B.
+
+Q: What is the last letter of 'antananarivo'?
+A: The last letter of 'antananarivo' is O.
