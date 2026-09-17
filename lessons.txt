@@ -23707,3 +23707,170 @@ A: The last letter of 'vienna' is A.
 
 Q: What is the first letter of 'vientiane'?
 A: The first letter of 'vientiane' is V.
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: How do you sort 410, 510, and 608?
+A: In order, they are 410 510 608.
+
+Q: How do you sort 263, 605, and 937?
+A: In order, they are 263 605 937.
+
+Q: How do you sort 16, 9, and 26?
+A: In order, they are 9 16 26.
+
+Q: How do you sort 209, 246, and 124?
+A: In order, they are 124 209 246.
+
+Q: How do you sort 632, 436, and 364?
+A: In order, they are 364 436 632.
+
+Q: How do you sort 27, 1, and 24?
+A: In order, they are 1 24 27.
+
+Q: How do you sort 922, 885, and 631?
+A: In order, they are 631 885 922.
+
+Q: How do you sort 26, 21, and 29?
+A: In order, they are 21 26 29.
+
+Q: What is the last letter of 'vila'?
+A: The last letter of 'vila' is A.
+
+Q: What is the last letter of 'nouakchott'?
+A: The last letter of 'nouakchott' is T.
+
+Q: What is the last letter of 'comfortable'?
+A: The last letter of 'comfortable' is E.
+
+Q: What is the first letter of 'castries'?
+A: The first letter of 'castries' is C.
+
+Q: What is the first letter of 'respectful'?
+A: The first letter of 'respectful' is R.
+
+Q: What is the last letter of 'fragile'?
+A: The last letter of 'fragile' is E.
+
+Q: What is the last letter of 'praia'?
+A: The last letter of 'praia' is A.
+
+Q: What is the first letter of 'afghani'?
+A: The first letter of 'afghani' is A.
+
+Q: What continent is Andorra on?
+A: Andorra is on the continent of Europe.
+
+Q: What continent is Nauru on?
+A: Nauru is on the continent of Oceania.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is Cameroon on?
+A: Cameroon is on the continent of Africa.
+
+Q: What continent is Bulgaria on?
+A: Bulgaria is on the continent of Europe.
+
+Q: What continent is Monaco on?
+A: Monaco is on the continent of Europe.
+
+Q: What continent is the Maldives on?
+A: the Maldives is on the continent of Asia.
+
+Q: What continent is Bahrain on?
+A: Bahrain is on the continent of Asia.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of Colombia?
+A: The capital of Colombia is Bogota.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is the capital of Portugal?
+A: The capital of Portugal is Lisbon.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What is the capital of Yemen?
+A: The capital of Yemen is Sanaa.
+
+Q: What is the capital of Guyana?
+A: The capital of Guyana is Georgetown.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 45.
+
+Q: Can you count by ones from 34 to 37?
+A: Counting by ones gives 34 35 36 37.
+
+Q: Can you count by fives from 5 to 20?
+A: Counting by fives gives 5 10 15 20.
+
+Q: Can you count by twos from 30 to 36?
+A: Counting by twos gives 30 32 34 36.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 25 30 35.
+
+Q: Can you count by fives from 25 to 40?
+A: Counting by fives gives 25 30 35 40.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Is 498 bigger than 572?
+A: No, 572 is bigger than 498.
+
+Q: Is 29 bigger than 82?
+A: No, 82 is bigger than 29.
+
+Q: Which is bigger, 20 or 9?
+A: 20 is bigger than 9.
+
+Q: Which is bigger, 12 or 8?
+A: 12 is bigger than 8.
+
+Q: Which is bigger, 831 or 797?
+A: 831 is bigger than 797.
+
+Q: Is 42 bigger than 31?
+A: Yes, 42 is bigger than 31.
+
+Q: Which is bigger, 41 or 71?
+A: 71 is bigger than 41.
+
+Q: Is 14 bigger than 10?
+A: Yes, 14 is bigger than 10.

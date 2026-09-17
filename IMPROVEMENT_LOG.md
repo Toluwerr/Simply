@@ -3848,3 +3848,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"What is the word ' has 10 is 88 is 7 letters dimes ' has 5 letters do you count by letters."
 
+## Iteration 439 - NO_GAIN
+- **when**: 2026-09-17T03:14:22Z
+- **train loss**: 3.1450 | **val loss**: 2.1262 | **run best**: 1.9904
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +35 facts (1,015 read all-time)
+- **lr**: 0.0004 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"The Romow does the words9, 54?"
+
