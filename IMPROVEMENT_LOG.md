@@ -4139,3 +4139,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"The capital of Morara is the capital of Vana is the US state."
 
+## Iteration 470 - IMPROVED
+- **when**: 2026-09-17T04:08:56Z
+- **train loss**: 2.5906 | **val loss**: 1.8305 | **run best**: 1.8305
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +29 facts (1,193 read all-time)
+- **lr**: 0.0004 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"The Roman numeral for 6."
+
