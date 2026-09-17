@@ -1,13 +1,13 @@
 {
   "version": 38,
-  "iteration": 863,
+  "iteration": 864,
   "best_val_loss": 1.2352949142456056,
   "lr": 0.0003,
-  "plateaus": 0,
+  "plateaus": 1,
   "val_start": 131326,
   "val_end": 138238,
-  "dataset_chars": 285369,
-  "synthetic_total": 2087,
+  "dataset_chars": 285448,
+  "synthetic_total": 2088,
   "model_kwargs": {
     "block_size": 512,
     "n_layer": 6,
@@ -42,7 +42,7 @@
   },
   "study_mode_v1": true,
   "head_chars": 284342,
-  "lessons": 19861,
+  "lessons": 19916,
   "best_knowledge": 0.13,
   "reading": {
     "articles": 3448,
