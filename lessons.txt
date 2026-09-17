@@ -25907,3 +25907,110 @@ A: Little Rock is the capital of Arkansas.
 
 Q: What is the capital of the US state Minnesota?
 A: Saint Paul is the capital of Minnesota.
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by ones from 11 to 16?
+A: Counting by ones gives 11 12 13 14 15 16.
+
+Q: Can you count by ones from 5 to 10?
+A: Counting by ones gives 5 6 7 8 9 10.
+
+Q: Can you count by ones from 8 to 10?
+A: Counting by ones gives 8 9 10.
+
+Q: Can you count by ones from 28 to 32?
+A: Counting by ones gives 28 29 30 31 32.
+
+Q: Can you count by twos from 8 to 12?
+A: Counting by twos gives 8 10 12.
+
+Q: What is the chemical symbol for terbium?
+A: The chemical symbol for terbium is Tb.
+
+Q: Which element has the chemical symbol S?
+A: S is the chemical symbol for sulfur.
+
+Q: What is the chemical symbol for antimony?
+A: The chemical symbol for antimony is Sb.
+
+Q: What is the chemical symbol for radium?
+A: The chemical symbol for radium is Ra.
+
+Q: What is the chemical symbol for rubidium?
+A: The chemical symbol for rubidium is Rb.
+
+Q: Which element has the chemical symbol Th?
+A: Th is the chemical symbol for thorium.
+
+Q: What is 302 plus 832?
+A: 302 plus 832 is 1134.
+
+Q: What is 18 plus 4?
+A: 18 plus 4 is 22.
+
+Q: What is 28 plus 29?
+A: 28 plus 29 is 57.
+
+Q: What is 20 plus 20?
+A: 20 plus 20 is 40.
+
+Q: What is 6 times 3?
+A: 6 times 3 is 18.
+
+Q: What is 3 times 4?
+A: 3 times 4 is 12.
+
+Q: What is the last letter of 'rica'?
+A: The last letter of 'rica' is A.
+
+Q: What is the first letter of 'nepal'?
+A: The first letter of 'nepal' is N.
+
+Q: What is the last letter of 'phnom'?
+A: The last letter of 'phnom' is M.
+
+Q: What is the last letter of 'camel'?
+A: The last letter of 'camel' is L.
+
+Q: What is the last letter of 'central'?
+A: The last letter of 'central' is L.
+
+Q: What is the last letter of 'nouakchott'?
+A: The last letter of 'nouakchott' is T.
+
+Q: How do you sort 915, 995, and 313?
+A: In order, they are 313 915 995.
+
+Q: How do you sort 22, 20, and 2?
+A: In order, they are 2 20 22.
+
+Q: How do you sort 14, 15, and 21?
+A: In order, they are 14 15 21.
+
+Q: How do you sort 10, 21, and 5?
+A: In order, they are 5 10 21.
+
+Q: How do you sort 13, 28, and 9?
+A: In order, they are 9 13 28.
+
+Q: How do you sort 660, 893, and 720?
+A: In order, they are 660 720 893.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: What continent is Tajikistan on?
+A: Tajikistan is on the continent of Asia.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: What continent is South Africa on?
+A: South Africa is on the continent of Africa.
+
+Q: What continent is Senegal on?
+A: Senegal is on the continent of Africa.
