@@ -19193,3 +19193,110 @@ A: Hg is the chemical symbol for mercury.
 
 Q: Which element has the chemical symbol Ca?
 A: Ca is the chemical symbol for calcium.
+Q: How many letters does the word 'zagreb' have?
+A: The word 'zagreb' has 6 letters.
+
+Q: How many letters does the word 'brussels' have?
+A: The word 'brussels' has 8 letters.
+
+Q: How many letters does the word 'clean' have?
+A: The word 'clean' has 5 letters.
+
+Q: How many letters does the word 'bissau' have?
+A: The word 'bissau' has 6 letters.
+
+Q: How many letters does the word 'dover' have?
+A: The word 'dover' has 5 letters.
+
+Q: How many letters does the word 'naypyidaw' have?
+A: The word 'naypyidaw' has 9 letters.
+
+Q: How do you sort 533, 805, and 391?
+A: In order, they are 391 533 805.
+
+Q: How do you sort 20, 15, and 21?
+A: In order, they are 15 20 21.
+
+Q: How do you sort 778, 347, and 706?
+A: In order, they are 347 706 778.
+
+Q: How do you sort 9, 23, and 2?
+A: In order, they are 2 9 23.
+
+Q: How do you sort 14, 17, and 6?
+A: In order, they are 6 14 17.
+
+Q: How do you sort 28, 2, and 26?
+A: In order, they are 2 26 28.
+
+Q: What is 64 plus 17?
+A: 64 plus 17 is 81.
+
+Q: What is 12 times 7?
+A: 12 times 7 is 84.
+
+Q: What is 777 minus 471?
+A: 777 minus 471 is 306.
+
+Q: What is 13 times 17?
+A: 13 times 17 is 221.
+
+Q: What is 94 plus 85?
+A: 94 plus 85 is 179.
+
+Q: What is 11 plus 49?
+A: 11 plus 49 is 60.
+
+Q: What is the first letter of 'and'?
+A: The first letter of 'and' is A.
+
+Q: What is the first letter of 'careful'?
+A: The first letter of 'careful' is C.
+
+Q: What is the first letter of 'fish'?
+A: The first letter of 'fish' is F.
+
+Q: What is the first letter of 'easily'?
+A: The first letter of 'easily' is E.
+
+Q: What is the first letter of 'uruguay'?
+A: The first letter of 'uruguay' is U.
+
+Q: What is the last letter of 'mauritania'?
+A: The last letter of 'mauritania' is A.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the biggest hot desert?
+A: The Sahara is the biggest hot desert.
+
+Q: What is the Roman numeral for 486?
+A: The Roman numeral for 486 is cdlxxxvi.
+
+Q: What number is the Roman numeral xxxiii?
+A: The Roman numeral xxxiii is the number 33.
+
+Q: What is the Roman numeral for 96?
+A: The Roman numeral for 96 is xcvi.
+
+Q: What number is the Roman numeral dcclv?
+A: The Roman numeral dcclv is the number 755.
+
+Q: What is the Roman numeral for 65?
+A: The Roman numeral for 65 is lxv.
+
+Q: What is the Roman numeral for 218?
+A: The Roman numeral for 218 is ccxviii.
