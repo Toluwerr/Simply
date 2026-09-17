@@ -27213,3 +27213,170 @@ A: The opposite of 'up' is 'down'.
 
 Q: What is the opposite of 'young'?
 A: The opposite of 'young' is 'old'.
+Q: What currency does Germany use?
+A: The currency of Germany is the euro.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What currency does the United Arab Emirates use?
+A: The currency of the United Arab Emirates is the dirham.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What currency does Iraq use?
+A: The currency of Iraq is the dinar.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Japan use?
+A: The currency of Japan is the yen.
+
+Q: What number is the Roman numeral liv?
+A: The Roman numeral liv is the number 54.
+
+Q: What number is the Roman numeral xxxiii?
+A: The Roman numeral xxxiii is the number 33.
+
+Q: What is the Roman numeral for 23?
+A: The Roman numeral for 23 is xxiii.
+
+Q: What number is the Roman numeral cxii?
+A: The Roman numeral cxii is the number 112.
+
+Q: What is the Roman numeral for 25?
+A: The Roman numeral for 25 is xxv.
+
+Q: What number is the Roman numeral lxxxiii?
+A: The Roman numeral lxxxiii is the number 83.
+
+Q: What number is the Roman numeral xxxviii?
+A: The Roman numeral xxxviii is the number 38.
+
+Q: What number is the Roman numeral ii?
+A: The Roman numeral ii is the number 2.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: What is 901 minus 710?
+A: 901 minus 710 is 191.
+
+Q: What is 15 times 13?
+A: 15 times 13 is 195.
+
+Q: What is 71 minus 41?
+A: 71 minus 41 is 30.
+
+Q: What is 5 times 4?
+A: 5 times 4 is 20.
+
+Q: What is 9 minus 2?
+A: 9 minus 2 is 7.
+
+Q: What is 6 times 11?
+A: 6 times 11 is 66.
+
+Q: What is 698 minus 298?
+A: 698 minus 298 is 400.
+
+Q: What is 4 times 6?
+A: 4 times 6 is 24.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.

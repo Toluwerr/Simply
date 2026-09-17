@@ -4054,3 +4054,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"The words is bigger than 11 is bigger than 47 plus 95?"
 
+## Iteration 461 - NO_GAIN
+- **when**: 2026-09-17T03:51:39Z
+- **train loss**: 3.0318 | **val loss**: 1.8606 | **run best**: 1.8310
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +58 articles, +16 facts (1,133 read all-time)
+- **lr**: 0.0004 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Canublea' has 6 contines 12."
+
