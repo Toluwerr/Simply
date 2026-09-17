@@ -31903,3 +31903,110 @@ A: The capital of Togo is Lome.
 
 Q: What is the capital of Saint Kitts and Nevis?
 A: The capital of Saint Kitts and Nevis is Basseterre.
+Q: What is the biggest planet?
+A: Jupiter is the biggest planet.
+
+Q: What is the biggest planet?
+A: Jupiter is the biggest planet.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: How many colors are in a rainbow?
+A: There are 7 colors in a rainbow.
+
+Q: What is the biggest ocean?
+A: The Pacific is the biggest ocean.
+
+Q: What is the closest star to Earth?
+A: The sun is the closest star to Earth.
+
+Q: How do you sort 7, 14, and 11?
+A: In order, they are 7 11 14.
+
+Q: How do you sort 128, 601, and 658?
+A: In order, they are 128 601 658.
+
+Q: How do you sort 18, 3, and 28?
+A: In order, they are 3 18 28.
+
+Q: How do you sort 19, 7, and 15?
+A: In order, they are 7 15 19.
+
+Q: How do you sort 16, 3, and 10?
+A: In order, they are 3 10 16.
+
+Q: How do you sort 25, 18, and 8?
+A: In order, they are 8 18 25.
+
+Q: Can you count by fives from 15 to 35?
+A: Counting by fives gives 15 20 25 30 35.
+
+Q: Can you count by fives from 15 to 35?
+A: Counting by fives gives 15 20 25 30 35.
+
+Q: Can you count by fives from 5 to 20?
+A: Counting by fives gives 5 10 15 20.
+
+Q: Can you count by ones from 3 to 7?
+A: Counting by ones gives 3 4 5 6 7.
+
+Q: Can you count by fives from 10 to 35?
+A: Counting by fives gives 10 15 20 25 30 35.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: What currency does Morocco use?
+A: The currency of Morocco is the dirham.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Jordan use?
+A: The currency of Jordan is the dinar.
+
+Q: What currency does Venezuela use?
+A: The currency of Venezuela is the bolivar.
+
+Q: What currency does Ecuador use?
+A: The currency of Ecuador is the dollar.
+
+Q: Which is bigger, 81 or 64?
+A: 81 is bigger than 64.
+
+Q: Which is bigger, 63 or 75?
+A: 75 is bigger than 63.
+
+Q: Which is bigger, 14 or 7?
+A: 14 is bigger than 7.
+
+Q: Is 779 bigger than 241?
+A: Yes, 779 is bigger than 241.
+
+Q: Is 15 bigger than 1?
+A: Yes, 15 is bigger than 1.
+
+Q: Is 159 bigger than 117?
+A: Yes, 159 is bigger than 117.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 63 in words?
+A: 63 in words is sixty-three.
+
+Q: How do you write 17 in words?
+A: 17 in words is seventeen.

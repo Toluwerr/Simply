@@ -11237,3 +11237,10 @@ A: The Roman numeral for 70 is lxxix.
 
 Q: What is the Roman numeral for 99?
 A: The Roman numeral for 99 is xcix.
+
+
+Q: Which is bigger, 47 or 7?
+A: 47 is bigger than 76.
+
+Q: How many letters does the word 'hapol' have?
+A: The word 'happle' has 5 letters.
