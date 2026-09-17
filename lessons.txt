@@ -45220,3 +45220,170 @@ A: The capital of Estonia is Tallinn.
 
 Q: What is the capital of Somalia?
 A: The capital of Somalia is Mogadishu.
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: Which element has the chemical symbol Na?
+A: Na is the chemical symbol for sodium.
+
+Q: What is the chemical symbol for germanium?
+A: The chemical symbol for germanium is Ge.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium.
+
+Q: Which element has the chemical symbol V?
+A: V is the chemical symbol for vanadium.
+
+Q: Which element has the chemical symbol Ta?
+A: Ta is the chemical symbol for tantalum.
+
+Q: Which element has the chemical symbol Rh?
+A: Rh is the chemical symbol for rhodium.
+
+Q: Which element has the chemical symbol Ce?
+A: Ce is the chemical symbol for cerium.
+
+Q: Which element has the chemical symbol Kr?
+A: Kr is the chemical symbol for krypton.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the Roman numeral for 562?
+A: The Roman numeral for 562 is dlxii.
+
+Q: What is the Roman numeral for 44?
+A: The Roman numeral for 44 is xliv.
+
+Q: What is the Roman numeral for 49?
+A: The Roman numeral for 49 is xlix.
+
+Q: What is the Roman numeral for 561?
+A: The Roman numeral for 561 is dlxi.
+
+Q: What is the Roman numeral for 15?
+A: The Roman numeral for 15 is xv.
+
+Q: What is the Roman numeral for 15?
+A: The Roman numeral for 15 is xv.
+
+Q: What is the Roman numeral for 10?
+A: The Roman numeral for 10 is x.
+
+Q: What number is the Roman numeral ccxxiv?
+A: The Roman numeral ccxxiv is the number 224.
+
+Q: What is the first letter of 'aluminium'?
+A: The first letter of 'aluminium' is A.
+
+Q: What is the first letter of 'bridgetown'?
+A: The first letter of 'bridgetown' is B.
+
+Q: What is the first letter of 'cow'?
+A: The first letter of 'cow' is C.
+
+Q: What is the last letter of 'guyana'?
+A: The last letter of 'guyana' is A.
+
+Q: What is the first letter of 'curious'?
+A: The first letter of 'curious' is C.
+
+Q: What is the last letter of 'europium'?
+A: The last letter of 'europium' is M.
+
+Q: What is the last letter of 'gold'?
+A: The last letter of 'gold' is D.
+
+Q: What is the last letter of 'zimbabwe'?
+A: The last letter of 'zimbabwe' is E.
+
+Q: Is 375 bigger than 710?
+A: No, 710 is bigger than 375.
+
+Q: Is 15 bigger than 13?
+A: Yes, 15 is bigger than 13.
+
+Q: Is 17 bigger than 15?
+A: Yes, 17 is bigger than 15.
+
+Q: Is 690 bigger than 152?
+A: Yes, 690 is bigger than 152.
+
+Q: Is 69 bigger than 68?
+A: Yes, 69 is bigger than 68.
+
+Q: Which is bigger, 8 or 17?
+A: 17 is bigger than 8.
+
+Q: Which is bigger, 76 or 24?
+A: 76 is bigger than 24.
+
+Q: Is 6 bigger than 15?
+A: No, 15 is bigger than 6.
+
+Q: What is double 14?
+A: Double 14 is 28.
+
+Q: What is double 48?
+A: Double 48 is 96.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is double 14?
+A: Double 14 is 28.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is half of 8?
+A: Half of 8 is 4.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
