@@ -16856,3 +16856,110 @@ A: 79 minus 57 is 22.
 
 Q: What is 4 times 11?
 A: 4 times 11 is 44.
+Q: What is half of 52?
+A: Half of 52 is 26.
+
+Q: What is double 5?
+A: Double 5 is 10.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is half of 34?
+A: Half of 34 is 17.
+
+Q: What is double 5?
+A: Double 5 is 10.
+
+Q: What is double 34?
+A: Double 34 is 68.
+
+Q: What continent is Tuvalu on?
+A: Tuvalu is on the continent of Oceania.
+
+Q: What continent is Micronesia on?
+A: Micronesia is on the continent of Oceania.
+
+Q: What continent is South Sudan on?
+A: South Sudan is on the continent of Africa.
+
+Q: What continent is Paraguay on?
+A: Paraguay is on the continent of South America.
+
+Q: What continent is Colombia on?
+A: Colombia is on the continent of South America.
+
+Q: What continent is Tanzania on?
+A: Tanzania is on the continent of Africa.
+
+Q: What currency does Uzbekistan use?
+A: The currency of Uzbekistan is the som.
+
+Q: What currency does the Czech Republic use?
+A: The currency of the Czech Republic is the koruna.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What currency does Sweden use?
+A: The currency of Sweden is the krona.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: What currency does Bosnia and Herzegovina use?
+A: The currency of Bosnia and Herzegovina is the mark.
+
+Q: What is 2 times 5?
+A: 2 times 5 is 10.
+
+Q: What is 815 minus 761?
+A: 815 minus 761 is 54.
+
+Q: What is 6 plus 1?
+A: 6 plus 1 is 7.
+
+Q: What is 17 plus 7?
+A: 17 plus 7 is 24.
+
+Q: What is 2 plus 20?
+A: 2 plus 20 is 22.
+
+Q: What is 20 minus 2?
+A: 20 minus 2 is 18.
+
+Q: How many letters does the word 'arizona' have?
+A: The word 'arizona' has 7 letters.
+
+Q: How many letters does the word 'planet' have?
+A: The word 'planet' has 6 letters.
+
+Q: How many letters does the word 'earth' have?
+A: The word 'earth' has 5 letters.
+
+Q: How many letters does the word 'tantalum' have?
+A: The word 'tantalum' has 8 letters.
+
+Q: How many letters does the word 'still' have?
+A: The word 'still' has 5 letters.
+
+Q: How many letters does the word 'moon' have?
+A: The word 'moon' has 4 letters.
+
+Q: What is the capital of Tuvalu?
+A: The capital of Tuvalu is Funafuti.
+
+Q: What is the capital of the Marshall Islands?
+A: The capital of the Marshall Islands is Majuro.
+
+Q: What is the capital of Norway?
+A: The capital of Norway is Oslo.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of the Marshall Islands?
+A: The capital of the Marshall Islands is Majuro.
+
+Q: What is the capital of Bosnia and Herzegovina?
+A: The capital of Bosnia and Herzegovina is Sarajevo.

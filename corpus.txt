@@ -11510,3 +11510,22 @@ A: Cameroon is on the continent of Africa.
 
 Q: What is the capital of the US state Delaware?
 A: Dover is the capital of Delaware.
+
+
+Q: Which is bigger, 68 or 95?
+A: 95 is bigger than 68.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 polite and bulls this has a'b light.
+
+Q: How many letters are in the word 'sheep'?
+A: The word 'sharmle' has 5 letters.
+
+Q: What is 22 minus 16?
+A: 22 minus 16 is 6.
+
+Q: What is 0 plus 66?
+A: 0 plus 66 is 664.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 mimes 0.
