@@ -32403,3 +32403,170 @@ A: The first letter of 'laos' is L.
 
 Q: What is the last letter of 'quiet'?
 A: The last letter of 'quiet' is T.
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: How do you sort 1, 10, and 25?
+A: In order, they are 1 10 25.
+
+Q: How do you sort 118, 297, and 486?
+A: In order, they are 118 297 486.
+
+Q: How do you sort 15, 4, and 2?
+A: In order, they are 2 4 15.
+
+Q: How do you sort 11, 268, and 214?
+A: In order, they are 11 214 268.
+
+Q: How do you sort 483, 822, and 489?
+A: In order, they are 483 489 822.
+
+Q: How do you sort 657, 553, and 289?
+A: In order, they are 289 553 657.
+
+Q: How do you sort 12, 3, and 1?
+A: In order, they are 1 3 12.
+
+Q: How do you sort 414, 966, and 642?
+A: In order, they are 414 642 966.
+
+Q: What is the first letter of 'city'?
+A: The first letter of 'city' is C.
+
+Q: What is the last letter of 'neigh'?
+A: The last letter of 'neigh' is H.
+
+Q: What is the first letter of 'som'?
+A: The first letter of 'som' is S.
+
+Q: What is the first letter of 'indiana'?
+A: The first letter of 'indiana' is I.
+
+Q: What is the first letter of 'manat'?
+A: The first letter of 'manat' is M.
+
+Q: What is the first letter of 'west'?
+A: The first letter of 'west' is W.
+
+Q: What is the first letter of 'hollow'?
+A: The first letter of 'hollow' is H.
+
+Q: What is the first letter of 'little'?
+A: The first letter of 'little' is L.
+
+Q: What continent is Sierra Leone on?
+A: Sierra Leone is on the continent of Africa.
+
+Q: What continent is Sweden on?
+A: Sweden is on the continent of Europe.
+
+Q: What continent is Togo on?
+A: Togo is on the continent of Africa.
+
+Q: What continent is North Korea on?
+A: North Korea is on the continent of Asia.
+
+Q: What continent is the United Arab Emirates on?
+A: the United Arab Emirates is on the continent of Asia.
+
+Q: What continent is Vanuatu on?
+A: Vanuatu is on the continent of Oceania.
+
+Q: What continent is Namibia on?
+A: Namibia is on the continent of Africa.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: What is the capital of Guinea?
+A: The capital of Guinea is Conakry.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is the capital of Myanmar?
+A: The capital of Myanmar is Naypyidaw.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of Ukraine?
+A: The capital of Ukraine is Kyiv.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+
+Q: Can you count by twos from 14 to 18?
+A: Counting by twos gives 14 16 18.
+
+Q: Can you count by twos from 26 to 36?
+A: Counting by twos gives 26 28 30 32 34 36.
+
+Q: Can you count by ones from 15 to 20?
+A: Counting by ones gives 15 16 17 18 19 20.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by ones from 22 to 24?
+A: Counting by ones gives 22 23 24.
+
+Q: Can you count by tens from 30 to 80?
+A: Counting by tens gives 30 40 50 60 70 80.
+
+Q: Can you count by ones from 39 to 42?
+A: Counting by ones gives 39 40 41 42.
+
+Q: Is 4 bigger than 14?
+A: No, 14 is bigger than 4.
+
+Q: Which is bigger, 16 or 9?
+A: 16 is bigger than 9.
+
+Q: Which is bigger, 56 or 27?
+A: 56 is bigger than 27.
+
+Q: Is 304 bigger than 306?
+A: No, 306 is bigger than 304.
+
+Q: Is 746 bigger than 487?
+A: Yes, 746 is bigger than 487.
+
+Q: Which is bigger, 722 or 142?
+A: 722 is bigger than 142.
+
+Q: Is 17 bigger than 4?
+A: Yes, 17 is bigger than 4.
+
+Q: Is 20 bigger than 52?
+A: No, 52 is bigger than 20.
