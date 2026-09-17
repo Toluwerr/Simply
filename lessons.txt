@@ -54975,3 +54975,146 @@ A: Double 31 is 62.
 
 Q: What is double 46?
 A: Double 46 is 92.
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What is 903 plus 725?
+A: 903 plus 725 is 1628.
+
+Q: What is 25 minus 14?
+A: 25 minus 14 is 11.
+
+Q: What is 48 minus 35?
+A: 48 minus 35 is 13.
+
+Q: What is 5 times 5?
+A: 5 times 5 is 25.
+
+Q: What is 3 times 3?
+A: 3 times 3 is 9.
+
+Q: What is 12 plus 14?
+A: 12 plus 14 is 26.
+
+Q: What is 11 times 3?
+A: 11 times 3 is 33.
+
+Q: What is 14 minus 6?
+A: 14 minus 6 is 8.
+
+Q: What continent is the United Arab Emirates on?
+A: the United Arab Emirates is on the continent of Asia.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: What continent is Peru on?
+A: Peru is on the continent of South America.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is Peru on?
+A: Peru is on the continent of South America.
+
+Q: What continent is India on?
+A: India is on the continent of Asia.
+
+Q: What continent is North Macedonia on?
+A: North Macedonia is on the continent of Europe.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What currency does South Africa use?
+A: The currency of South Africa is the rand.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
+
+Q: What currency does Finland use?
+A: The currency of Finland is the euro.
+
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: What currency does Bangladesh use?
+A: The currency of Bangladesh is the taka.
+
+Q: What currency does Somalia use?
+A: The currency of Somalia is the shilling.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 28 in words?
+A: 28 in words is twenty-eight.
+
+Q: Which is bigger, 11 or 13?
+A: 13 is bigger than 11.
+
+Q: Is 69 bigger than 54?
+A: Yes, 69 is bigger than 54.
+
+Q: Which is bigger, 18 or 2?
+A: 18 is bigger than 2.
+
+Q: Which is bigger, 516 or 116?
+A: 516 is bigger than 116.
+
+Q: Which is bigger, 52 or 73?
+A: 73 is bigger than 52.
+
+Q: Is 956 bigger than 505?
+A: Yes, 956 is bigger than 505.
+
+Q: Which is bigger, 11 or 10?
+A: 11 is bigger than 10.
+
+Q: Which is bigger, 67 or 68?
+A: 68 is bigger than 67.
