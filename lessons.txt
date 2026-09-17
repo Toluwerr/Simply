@@ -57861,3 +57861,146 @@ A: The currency of Lithuania is the euro.
 
 Q: What currency does South Korea use?
 A: The currency of South Korea is the won.
+Q: What is the first letter of 'honduras'?
+A: The first letter of 'honduras' is H.
+
+Q: What is the last letter of 'costa'?
+A: The last letter of 'costa' is A.
+
+Q: What is the last letter of 'clever'?
+A: The last letter of 'clever' is R.
+
+Q: What is the first letter of 'congo'?
+A: The first letter of 'congo' is C.
+
+Q: What is the last letter of 'moines'?
+A: The last letter of 'moines' is S.
+
+Q: What is the last letter of 'manama'?
+A: The last letter of 'manama' is A.
+
+Q: What is the first letter of 'minnesota'?
+A: The first letter of 'minnesota' is M.
+
+Q: What is the first letter of 'fuzzy'?
+A: The first letter of 'fuzzy' is F.
+
+Q: How do you sort 869, 253, and 822?
+A: In order, they are 253 822 869.
+
+Q: How do you sort 600, 325, and 615?
+A: In order, they are 325 600 615.
+
+Q: How do you sort 134, 682, and 165?
+A: In order, they are 134 165 682.
+
+Q: How do you sort 395, 63, and 200?
+A: In order, they are 63 200 395.
+
+Q: How do you sort 18, 24, and 4?
+A: In order, they are 4 18 24.
+
+Q: How do you sort 8, 14, and 15?
+A: In order, they are 8 14 15.
+
+Q: How do you sort 17, 11, and 2?
+A: In order, they are 2 11 17.
+
+Q: How do you sort 22, 19, and 10?
+A: In order, they are 10 19 22.
+
+Q: Is 465 bigger than 921?
+A: No, 921 is bigger than 465.
+
+Q: Is 38 bigger than 29?
+A: Yes, 38 is bigger than 29.
+
+Q: Which is bigger, 18 or 4?
+A: 18 is bigger than 4.
+
+Q: Is 60 bigger than 11?
+A: Yes, 60 is bigger than 11.
+
+Q: Is 3 bigger than 14?
+A: No, 14 is bigger than 3.
+
+Q: Is 14 bigger than 8?
+A: Yes, 14 is bigger than 8.
+
+Q: Is 12 bigger than 9?
+A: Yes, 12 is bigger than 9.
+
+Q: Which is bigger, 24 or 74?
+A: 74 is bigger than 24.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: What is the capital of Taiwan?
+A: The capital of Taiwan is Taipei.
+
+Q: What is the capital of Bosnia and Herzegovina?
+A: The capital of Bosnia and Herzegovina is Sarajevo.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+
+Q: What is the capital of Madagascar?
+A: The capital of Madagascar is Antananarivo.
+
+Q: What is the capital of Belarus?
+A: The capital of Belarus is Minsk.
+
+Q: What is the capital of Djibouti?
+A: The capital of Djibouti is Djibouti.
+
+Q: What is the capital of Vietnam?
+A: The capital of Vietnam is Hanoi.
+
+Q: What is the capital of Guinea?
+A: The capital of Guinea is Conakry.
+
+Q: What is 47 minus 47?
+A: 47 minus 47 is 0.
+
+Q: What is 11 times 3?
+A: 11 times 3 is 33.
+
+Q: What is 334 plus 486?
+A: 334 plus 486 is 820.
+
+Q: What is 13 plus 12?
+A: 13 plus 12 is 25.
+
+Q: What is 867 plus 238?
+A: 867 plus 238 is 1105.
+
+Q: What is 1 plus 18?
+A: 1 plus 18 is 19.
+
+Q: What is 55 minus 25?
+A: 55 minus 25 is 30.
+
+Q: What is 4 times 9?
+A: 4 times 9 is 36.

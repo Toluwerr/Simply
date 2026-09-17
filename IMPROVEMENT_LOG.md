@@ -5842,3 +5842,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: knowledge 0.04, was 0.00; val 1.3779
 - self-portrait, asked "Who are you?": *"Australeet from 35."
 
+## Iteration 653 - NO_GAIN
+- **when**: 2026-09-17T09:39:36Z
+- **train loss**: 1.9220 | **val loss**: 1.7874 | **run best**: 1.3779
+- **corpus**: 284,421 chars (+0 self-written examples)
+- **internet reading**: +57 articles, +31 facts (2,300 read all-time)
+- **lr**: 0.0015 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"How do you sort 16 in words, they are 51."
+
