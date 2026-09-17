@@ -60165,3 +60165,170 @@ A: 19 is bigger than 7.
 
 Q: Is 11 bigger than 17?
 A: No, 17 is bigger than 11.
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What continent is Saudi Arabia on?
+A: Saudi Arabia is on the continent of Asia.
+
+Q: What continent is Cuba on?
+A: Cuba is on the continent of North America.
+
+Q: What continent is Togo on?
+A: Togo is on the continent of Africa.
+
+Q: What continent is Cameroon on?
+A: Cameroon is on the continent of Africa.
+
+Q: What continent is Chad on?
+A: Chad is on the continent of Africa.
+
+Q: What continent is Myanmar on?
+A: Myanmar is on the continent of Asia.
+
+Q: What continent is Luxembourg on?
+A: Luxembourg is on the continent of Europe.
+
+Q: What continent is Guinea on?
+A: Guinea is on the continent of Africa.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: What is the capital of Madagascar?
+A: The capital of Madagascar is Antananarivo.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What is the capital of Bangladesh?
+A: The capital of Bangladesh is Dhaka.
+
+Q: What is the capital of the United Kingdom?
+A: The capital of the United Kingdom is London.
+
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.
+
+Q: What is the capital of Kazakhstan?
+A: The capital of Kazakhstan is Astana.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 49 in words?
+A: 49 in words is forty-nine.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: How do you write 52 in words?
+A: 52 in words is fifty-two.
+
+Q: How do you sort 24, 18, and 9?
+A: In order, they are 9 18 24.
+
+Q: How do you sort 15, 694, and 729?
+A: In order, they are 15 694 729.
+
+Q: How do you sort 6, 11, and 28?
+A: In order, they are 6 11 28.
+
+Q: How do you sort 5, 20, and 4?
+A: In order, they are 4 5 20.
+
+Q: How do you sort 177, 54, and 714?
+A: In order, they are 54 177 714.
+
+Q: How do you sort 13, 10, and 16?
+A: In order, they are 10 13 16.
+
+Q: How do you sort 5, 17, and 20?
+A: In order, they are 5 17 20.
+
+Q: How do you sort 458, 665, and 302?
+A: In order, they are 302 458 665.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
