@@ -40164,3 +40164,146 @@ A: 'sticky' means able to attach to things.
 
 Q: What does 'messy' mean?
 A: 'messy' means not tidy.
+Q: What is 86 plus 90?
+A: 86 plus 90 is 176.
+
+Q: What is 854 minus 221?
+A: 854 minus 221 is 633.
+
+Q: What is 6 times 4?
+A: 6 times 4 is 24.
+
+Q: What is 4 times 7?
+A: 4 times 7 is 28.
+
+Q: What is 10 times 7?
+A: 10 times 7 is 70.
+
+Q: What is 88 plus 50?
+A: 88 plus 50 is 138.
+
+Q: What is 44 plus 24?
+A: 44 plus 24 is 68.
+
+Q: What is 12 times 8?
+A: 12 times 8 is 96.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What is the hardest natural substance?
+A: Diamond is the hardest natural substance.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What is the closest star to Earth?
+A: The sun is the closest star to Earth.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: Can you count by fives from 35 to 60?
+A: Counting by fives gives 35 40 45 50 55 60.
+
+Q: Can you count by ones from 26 to 29?
+A: Counting by ones gives 26 27 28 29.
+
+Q: Can you count by ones from 22 to 25?
+A: Counting by ones gives 22 23 24 25.
+
+Q: Can you count by ones from 28 to 33?
+A: Counting by ones gives 28 29 30 31 32 33.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by ones from 29 to 32?
+A: Counting by ones gives 29 30 31 32.
+
+Q: Can you count by twos from 34 to 40?
+A: Counting by twos gives 34 36 38 40.
+
+Q: Can you count by fives from 5 to 30?
+A: Counting by fives gives 5 10 15 20 25 30.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is half of 14?
+A: Half of 14 is 7.
+
+Q: What is double 32?
+A: Double 32 is 64.
+
+Q: What is double 26?
+A: Double 26 is 52.
+
+Q: What is double 29?
+A: Double 29 is 58.
+
+Q: What is double 37?
+A: Double 37 is 74.
+
+Q: What is double 27?
+A: Double 27 is 54.
+
+Q: What is double 41?
+A: Double 41 is 82.
+
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What currency does Somalia use?
+A: The currency of Somalia is the shilling.
+
+Q: What currency does Bosnia and Herzegovina use?
+A: The currency of Bosnia and Herzegovina is the mark.
+
+Q: What currency does Zambia use?
+A: The currency of Zambia is the kwacha.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
+
+Q: What currency does Tanzania use?
+A: The currency of Tanzania is the shilling.
