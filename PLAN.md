@@ -7,8 +7,6 @@ off when the committed metrics actually meet them._
 
 ## Goals it set for itself
 
-- [x] read 922 articles all-time (now 722) - DONE (iteration 432)
-- [x] read 950 articles all-time (now 750) - DONE (iteration 432)
 - [ ] read 1,037 articles all-time (now 837)
 - [ ] lift the knowledge quiz average to 0.16
 - [ ] write 2135 verified examples of its own (now 2075)
@@ -23,7 +21,7 @@ outcomes (promotions, quiz gains, loss gains). Explore
 |---|---|---|
 | survey | 1 | 6.00 |
 | deep_dive | 1 | 6.00 |
-| drill | 7 | 4.86 |
+| drill | 8 | 4.75 |
 | create | 1 | 6.00 |
 | experiment | 1 | 6.00 |
 
