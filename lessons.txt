@@ -44233,3 +44233,170 @@ A: 890 is bigger than 324.
 
 Q: Is 4 bigger than 9?
 A: No, 9 is bigger than 4.
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is the Netherlands on?
+A: the Netherlands is on the continent of Europe.
+
+Q: What continent is Somalia on?
+A: Somalia is on the continent of Africa.
+
+Q: What continent is Luxembourg on?
+A: Luxembourg is on the continent of Europe.
+
+Q: What continent is Switzerland on?
+A: Switzerland is on the continent of Europe.
+
+Q: What continent is Slovakia on?
+A: Slovakia is on the continent of Europe.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: What is the capital of Kyrgyzstan?
+A: The capital of Kyrgyzstan is Bishkek.
+
+Q: What is the capital of Paraguay?
+A: The capital of Paraguay is Asuncion.
+
+Q: What is the capital of Moldova?
+A: The capital of Moldova is Chisinau.
+
+Q: What is the capital of Guyana?
+A: The capital of Guyana is Georgetown.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of Oman?
+A: The capital of Oman is Muscat.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 2 in words?
+A: 2 in words is two.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 26 in words?
+A: 26 in words is twenty-six.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you sort 10, 18, and 15?
+A: In order, they are 10 15 18.
+
+Q: How do you sort 12, 27, and 9?
+A: In order, they are 9 12 27.
+
+Q: How do you sort 498, 124, and 28?
+A: In order, they are 28 124 498.
+
+Q: How do you sort 10, 7, and 11?
+A: In order, they are 7 10 11.
+
+Q: How do you sort 21, 24, and 22?
+A: In order, they are 21 22 24.
+
+Q: How do you sort 8, 19, and 29?
+A: In order, they are 8 19 29.
+
+Q: How do you sort 1, 11, and 17?
+A: In order, they are 1 11 17.
+
+Q: How do you sort 678, 130, and 960?
+A: In order, they are 130 678 960.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
