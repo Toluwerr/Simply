@@ -31172,3 +31172,170 @@ A: 86 in words is eighty-six.
 
 Q: How do you write 30 in words?
 A: 30 in words is thirty.
+Q: Which is bigger, 691 or 749?
+A: 749 is bigger than 691.
+
+Q: Is 14 bigger than 90?
+A: No, 90 is bigger than 14.
+
+Q: Which is bigger, 97 or 73?
+A: 97 is bigger than 73.
+
+Q: Which is bigger, 89 or 14?
+A: 89 is bigger than 14.
+
+Q: Which is bigger, 588 or 692?
+A: 692 is bigger than 588.
+
+Q: Which is bigger, 13 or 11?
+A: 13 is bigger than 11.
+
+Q: Is 10 bigger than 1?
+A: Yes, 10 is bigger than 1.
+
+Q: Is 21 bigger than 48?
+A: No, 48 is bigger than 21.
+
+Q: How many letters does the word 'malawi' have?
+A: The word 'malawi' has 6 letters.
+
+Q: How many letters does the word 'wyoming' have?
+A: The word 'wyoming' has 7 letters.
+
+Q: How many letters does the word 'zebra' have?
+A: The word 'zebra' has 5 letters.
+
+Q: How many letters does the word 'york' have?
+A: The word 'york' has 4 letters.
+
+Q: How many letters does the word 'hydrogen' have?
+A: The word 'hydrogen' has 8 letters.
+
+Q: How many letters does the word 'loud' have?
+A: The word 'loud' has 4 letters.
+
+Q: How many letters does the word 'large' have?
+A: The word 'large' has 5 letters.
+
+Q: How many letters does the word 'switzerland' have?
+A: The word 'switzerland' has 11 letters.
+
+Q: How do you sort 132, 907, and 667?
+A: In order, they are 132 667 907.
+
+Q: How do you sort 4, 12, and 16?
+A: In order, they are 4 12 16.
+
+Q: How do you sort 18, 23, and 5?
+A: In order, they are 5 18 23.
+
+Q: How do you sort 730, 415, and 460?
+A: In order, they are 415 460 730.
+
+Q: How do you sort 868, 585, and 319?
+A: In order, they are 319 585 868.
+
+Q: How do you sort 654, 240, and 544?
+A: In order, they are 240 544 654.
+
+Q: How do you sort 549, 256, and 464?
+A: In order, they are 256 464 549.
+
+Q: How do you sort 16, 17, and 25?
+A: In order, they are 16 17 25.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What continent is Mongolia on?
+A: Mongolia is on the continent of Asia.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is the Maldives on?
+A: the Maldives is on the continent of Asia.
+
+Q: What continent is Syria on?
+A: Syria is on the continent of Asia.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: What continent is Japan on?
+A: Japan is on the continent of Asia.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: What is the capital of North Korea?
+A: The capital of North Korea is Pyongyang.
+
+Q: What is the capital of Bhutan?
+A: The capital of Bhutan is Thimphu.
+
+Q: What is the capital of Gambia?
+A: The capital of Gambia is Banjul.
+
+Q: What is the capital of Guatemala?
+A: The capital of Guatemala is Guatemala City.
+
+Q: What is the capital of Afghanistan?
+A: The capital of Afghanistan is Kabul.
+
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+
+Q: What is the capital of Guyana?
+A: The capital of Guyana is Georgetown.
