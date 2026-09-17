@@ -46618,3 +46618,146 @@ A: Half of 44 is 22.
 
 Q: What is half of 56?
 A: Half of 56 is 28.
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: How many letters does the word 'polite' have?
+A: The word 'polite' has 6 letters.
+
+Q: How many letters does the word 'vanuatu' have?
+A: The word 'vanuatu' has 7 letters.
+
+Q: How many letters does the word 'turtle' have?
+A: The word 'turtle' has 6 letters.
+
+Q: How many letters does the word 'mouse' have?
+A: The word 'mouse' has 5 letters.
+
+Q: How many letters does the word 'berlin' have?
+A: The word 'berlin' has 6 letters.
+
+Q: How many letters does the word 'with' have?
+A: The word 'with' has 4 letters.
+
+Q: How many letters does the word 'sanaa' have?
+A: The word 'sanaa' has 5 letters.
+
+Q: How many letters does the word 'tall' have?
+A: The word 'tall' has 4 letters.
+
+Q: What is 75 minus 16?
+A: 75 minus 16 is 59.
+
+Q: What is 20 plus 19?
+A: 20 plus 19 is 39.
+
+Q: What is 10 minus 7?
+A: 10 minus 7 is 3.
+
+Q: What is 856 plus 91?
+A: 856 plus 91 is 947.
+
+Q: What is 3 times 5?
+A: 3 times 5 is 15.
+
+Q: What is 816 plus 893?
+A: 816 plus 893 is 1709.
+
+Q: What is 823 minus 211?
+A: 823 minus 211 is 612.
+
+Q: What is 92 minus 84?
+A: 92 minus 84 is 8.
+
+Q: What continent is Chile on?
+A: Chile is on the continent of South America.
+
+Q: What continent is Slovakia on?
+A: Slovakia is on the continent of Europe.
+
+Q: What continent is Thailand on?
+A: Thailand is on the continent of Asia.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What continent is Belgium on?
+A: Belgium is on the continent of Europe.
+
+Q: What continent is Morocco on?
+A: Morocco is on the continent of Africa.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: What currency does Algeria use?
+A: The currency of Algeria is the dinar.
+
+Q: What currency does Slovakia use?
+A: The currency of Slovakia is the euro.
+
+Q: What currency does Armenia use?
+A: The currency of Armenia is the dram.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Kuwait use?
+A: The currency of Kuwait is the dinar.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What currency does Japan use?
+A: The currency of Japan is the yen.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 76 in words?
+A: 76 in words is seventy-six.
+
+Q: How do you write 37 in words?
+A: 37 in words is thirty-seven.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
