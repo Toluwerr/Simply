@@ -38566,3 +38566,146 @@ A: 'rapid' means very fast.
 
 Q: What does 'deep' mean?
 A: 'deep' means going far down.
+Q: What is 12 times 8?
+A: 12 times 8 is 96.
+
+Q: What is 17 plus 18?
+A: 17 plus 18 is 35.
+
+Q: What is 14 times 13?
+A: 14 times 13 is 182.
+
+Q: What is 3 times 4?
+A: 3 times 4 is 12.
+
+Q: What is 69 plus 21?
+A: 69 plus 21 is 90.
+
+Q: What is 28 plus 87?
+A: 28 plus 87 is 115.
+
+Q: What is 16 plus 4?
+A: 16 plus 4 is 20.
+
+Q: What is 46 minus 29?
+A: 46 minus 29 is 17.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What is the largest island?
+A: Greenland is the largest island.
+
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: What is the biggest planet?
+A: Jupiter is the biggest planet.
+
+Q: What is the hardest natural substance?
+A: Diamond is the hardest natural substance.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: Can you count by ones from 4 to 8?
+A: Counting by ones gives 4 5 6 7 8.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by fives from 10 to 20?
+A: Counting by fives gives 10 15 20.
+
+Q: Can you count by fives from 20 to 40?
+A: Counting by fives gives 20 25 30 35 40.
+
+Q: Can you count by ones from 8 to 13?
+A: Counting by ones gives 8 9 10 11 12 13.
+
+Q: What is double 15?
+A: Double 15 is 30.
+
+Q: What is half of 36?
+A: Half of 36 is 18.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is double 10?
+A: Double 10 is 20.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is double 25?
+A: Double 25 is 50.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What currency does Saudi Arabia use?
+A: The currency of Saudi Arabia is the riyal.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: What currency does Italy use?
+A: The currency of Italy is the euro.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What currency does Bulgaria use?
+A: The currency of Bulgaria is the lev.
+
+Q: What currency does Spain use?
+A: The currency of Spain is the euro.
+
+Q: What currency does Croatia use?
+A: The currency of Croatia is the euro.
