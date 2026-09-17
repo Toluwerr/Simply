@@ -35823,3 +35823,146 @@ A: Double 33 is 66.
 
 Q: What is double 12?
 A: Double 12 is 24.
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: How many letters does the word 'the' have?
+A: The word 'the' has 3 letters.
+
+Q: How many letters does the word 'long' have?
+A: The word 'long' has 4 letters.
+
+Q: How many letters does the word 'cautious' have?
+A: The word 'cautious' has 8 letters.
+
+Q: How many letters does the word 'dry' have?
+A: The word 'dry' has 3 letters.
+
+Q: How many letters does the word 'praia' have?
+A: The word 'praia' has 5 letters.
+
+Q: How many letters does the word 'liechtenstein' have?
+A: The word 'liechtenstein' has 13 letters.
+
+Q: How many letters does the word 'dublin' have?
+A: The word 'dublin' has 6 letters.
+
+Q: How many letters does the word 'iceland' have?
+A: The word 'iceland' has 7 letters.
+
+Q: What is 17 plus 4?
+A: 17 plus 4 is 21.
+
+Q: What is 81 minus 81?
+A: 81 minus 81 is 0.
+
+Q: What is 9 minus 5?
+A: 9 minus 5 is 4.
+
+Q: What is 2 times 6?
+A: 2 times 6 is 12.
+
+Q: What is 52 minus 17?
+A: 52 minus 17 is 35.
+
+Q: What is 9 times 9?
+A: 9 times 9 is 81.
+
+Q: What is 7 times 11?
+A: 7 times 11 is 77.
+
+Q: What is 50 minus 42?
+A: 50 minus 42 is 8.
+
+Q: What continent is Spain on?
+A: Spain is on the continent of Europe.
+
+Q: What continent is Saudi Arabia on?
+A: Saudi Arabia is on the continent of Asia.
+
+Q: What continent is Morocco on?
+A: Morocco is on the continent of Africa.
+
+Q: What continent is Belarus on?
+A: Belarus is on the continent of Europe.
+
+Q: What continent is Denmark on?
+A: Denmark is on the continent of Europe.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What continent is Bhutan on?
+A: Bhutan is on the continent of Asia.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What currency does Gambia use?
+A: The currency of Gambia is the dalasi.
+
+Q: What currency does Malaysia use?
+A: The currency of Malaysia is the ringgit.
+
+Q: What currency does Iceland use?
+A: The currency of Iceland is the krona.
+
+Q: What currency does Costa Rica use?
+A: The currency of Costa Rica is the colon.
+
+Q: What currency does Nigeria use?
+A: The currency of Nigeria is the naira.
+
+Q: What currency does Austria use?
+A: The currency of Austria is the euro.
+
+Q: What currency does Saudi Arabia use?
+A: The currency of Saudi Arabia is the riyal.
+
+Q: How do you write 50 in words?
+A: 50 in words is fifty.
+
+Q: How do you write 87 in words?
+A: 87 in words is eighty-seven.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 39 in words?
+A: 39 in words is thirty-nine.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
