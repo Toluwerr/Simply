@@ -17177,3 +17177,128 @@ A: The word 'iraq' has 4 letters.
 
 Q: How many letters does the word 'peaceful' have?
 A: The word 'peaceful' has 8 letters.
+Q: Which element has the chemical symbol Cu?
+A: Cu is the chemical symbol for copper.
+
+Q: Which element has the chemical symbol Te?
+A: Te is the chemical symbol for tellurium.
+
+Q: Which element has the chemical symbol Ba?
+A: Ba is the chemical symbol for barium.
+
+Q: What is the chemical symbol for cesium?
+A: The chemical symbol for cesium is Cs.
+
+Q: What is the chemical symbol for oxygen?
+A: The chemical symbol for oxygen is O.
+
+Q: Which element has the chemical symbol Hf?
+A: Hf is the chemical symbol for hafnium.
+
+Q: What is 12 times 5?
+A: 12 times 5 is 60.
+
+Q: What is 63 minus 18?
+A: 63 minus 18 is 45.
+
+Q: What is 3 times 8?
+A: 3 times 8 is 24.
+
+Q: What is 4 times 10?
+A: 4 times 10 is 40.
+
+Q: What is 10 times 11?
+A: 10 times 11 is 110.
+
+Q: What is 73 plus 63?
+A: 73 plus 63 is 136.
+
+Q: What is the last letter of 'rocket'?
+A: The last letter of 'rocket' is T.
+
+Q: What is the first letter of 'lisbon'?
+A: The first letter of 'lisbon' is L.
+
+Q: What is the first letter of 'tenge'?
+A: The first letter of 'tenge' is T.
+
+Q: What is the first letter of 'aires'?
+A: The first letter of 'aires' is A.
+
+Q: What is the last letter of 'palikir'?
+A: The last letter of 'palikir' is R.
+
+Q: What is the last letter of 'herzegovina'?
+A: The last letter of 'herzegovina' is A.
+
+Q: How many letters does the word 'germanium' have?
+A: The word 'germanium' has 9 letters.
+
+Q: How many letters does the word 'praseodymium' have?
+A: The word 'praseodymium' has 12 letters.
+
+Q: How many letters does the word 'dong' have?
+A: The word 'dong' has 4 letters.
+
+Q: How many letters does the word 'riyadh' have?
+A: The word 'riyadh' has 6 letters.
+
+Q: How many letters does the word 'fluff' have?
+A: The word 'fluff' has 5 letters.
+
+Q: How many letters does the word 'charleston' have?
+A: The word 'charleston' has 10 letters.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of North Macedonia?
+A: The capital of North Macedonia is Skopje.
+
+Q: What is the capital of Madagascar?
+A: The capital of Madagascar is Antananarivo.
+
+Q: What continent is Jamaica on?
+A: Jamaica is on the continent of North America.
+
+Q: What continent is Jamaica on?
+A: Jamaica is on the continent of North America.
+
+Q: What continent is Nepal on?
+A: Nepal is on the continent of Asia.
+
+Q: What continent is Oman on?
+A: Oman is on the continent of Asia.
+
+Q: What continent is Monaco on?
+A: Monaco is on the continent of Europe.
+
+Q: What continent is Guyana on?
+A: Guyana is on the continent of South America.
+
+Q: What is double 45?
+A: Double 45 is 90.
+
+Q: What is half of 32?
+A: Half of 32 is 16.
+
+Q: What is half of 50?
+A: Half of 50 is 25.
+
+Q: What is double 38?
+A: Double 38 is 76.
+
+Q: What is half of 10?
+A: Half of 10 is 5.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
