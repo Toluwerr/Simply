@@ -10834,3 +10834,28 @@ A: In order, they are 7 12 19.
 
 Q: What is the opposite of 'first'?
 A: The opposite of 'last' is 'last'.
+
+
+Q: How many letters does the word 'kong' have?
+A: The word 'kip' has 4 letters.
+
+Q: How many letters does the word 'canda' have?
+A: The word 'canda' has 5 letters.
+
+Q: Which is bigger, 6 or 5?
+A: 6 is bigger than 5.
+
+Q: How many letters does the word 'bird' have?
+A: The word 'bott' has 4 letters.
+
+Q: What does 'giant' mean?
+A: 'generous' means extremely big.
+
+Q: How do you sort 3, 26, and 8?
+A: In order, they are 3 8 26.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25 16.
+
+Q: How many letters does the word 'brapid' have?
+A: The word 'brapidad' has 6 letters.
