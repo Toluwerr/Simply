@@ -1,11 +1,13 @@
 """Simply - a small decoder-only transformer that improves itself.
 
-Generation 2: a decoder-only transformer over byte-level BPE tokens
-(see tokenizer.py). Defaults (MODEL_KWARGS in self_improve.py): 4
-layers, 4 heads, 128 embedding dims, 192-token context, 1024-token
-vocabulary - about 1.1 million parameters. Small enough to train on a
-CPU, big enough to learn language patterns; the token vocabulary lets
-one window hold several times more text than the character model could.
+Generation 3: a decoder-only transformer over byte-level BPE tokens
+(see tokenizer.py). Defaults (MODEL_KWARGS in self_improve.py): 6
+layers, 6 heads, 192 embedding dims, 256-token context, 2048-token
+vocabulary - about 3.1 million parameters with tied embeddings. Same
+architecture family as the big LLMs (tokenized input, causal
+self-attention, MLP blocks, tied output head), scaled so it can still
+train on a CPU runner inside a self-improvement loop. The 2048-token
+vocabulary lets one window hold roughly a page of text.
 """
 import math
 
@@ -15,12 +17,16 @@ import torch.nn.functional as F
 
 
 class GPTConfig:
-    def __init__(self, vocab_size, block_size=128, n_layer=4, n_head=4, n_embd=128):
+    def __init__(self, vocab_size, block_size=128, n_layer=4, n_head=4,
+                 n_embd=128, tie_weights=True):
         self.vocab_size = vocab_size
         self.block_size = block_size
         self.n_layer = n_layer
         self.n_head = n_head
         self.n_embd = n_embd
+        # Tie the output head to the token embedding (GPT-2 style): fewer
+        # parameters, and small models train better with it.
+        self.tie_weights = tie_weights
 
 
 class CausalSelfAttention(nn.Module):
@@ -83,6 +89,8 @@ class Simply(nn.Module):
         self.blocks = nn.ModuleList([Block(config) for _ in range(config.n_layer)])
         self.ln_f = nn.LayerNorm(config.n_embd)
         self.head = nn.Linear(config.n_embd, config.vocab_size, bias=False)
+        if config.tie_weights:
+            self.head.weight = self.tok_emb.weight
         self.apply(self._init_weights)
 
     def _init_weights(self, m):

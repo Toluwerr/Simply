@@ -10,7 +10,8 @@ name: Simply RSI Loop
 #      ever dies (a failed run stops the chain), cron restarts it.
 #
 # A run does 10 self-improvement iterations = 10 commits, in roughly
-# 15-20 minutes. Chained continuously that is 700-900 commits/day,
+# 15-20 minutes with the gen-3 brain (~3.1M params, 2048-token BPE,
+# 256-token context). Chained continuously that is 600-900 commits/day,
 # comfortably over 500. The queue guard keeps at most one run waiting,
 # so the chain can never pile up on itself.
 
@@ -54,7 +55,7 @@ jobs:
       - name: Run self-improvement
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python self_improve.py --iterations "${{ inputs.iterations || 10 }}" --steps 150 --synth-batches 3
+        run: python self_improve.py --iterations "${{ inputs.iterations || 10 }}" --synth-batches 2
 
       - name: Ensure progress is committed
         run: |

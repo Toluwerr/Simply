@@ -1,0 +1,44 @@
+{
+  "strategies": {
+    "survey": {
+      "tries": 1,
+      "reward": 6.0
+    },
+    "deep_dive": {
+      "tries": 0,
+      "reward": 0.0
+    },
+    "drill": {
+      "tries": 0,
+      "reward": 0.0
+    },
+    "create": {
+      "tries": 0,
+      "reward": 0.0
+    },
+    "experiment": {
+      "tries": 0,
+      "reward": 0.0
+    }
+  },
+  "interests": {},
+  "last": "survey",
+  "goals": [
+    {
+      "kind": "read",
+      "target": 545,
+      "text": "read 545 articles all-time (now 345)"
+    },
+    {
+      "kind": "know",
+      "target": 0.25,
+      "text": "lift the knowledge quiz average to 0.25"
+    },
+    {
+      "kind": "write",
+      "target": 537,
+      "text": "write 537 verified examples of its own (now 477)"
+    }
+  ],
+  "runs": 1
+}

@@ -3,7 +3,7 @@
 Why byte-level: 256 base tokens cover EVERY possible byte, so no piece
 of internet text can ever contain an unknown token, and the vocabulary
 never drifts under a live checkpoint. On top of the 256 bytes it
-learns merges until the vocabulary reaches TOKEN_VOCAB (1024). Words
+learns merges until the vocabulary reaches TOKEN_VOCAB (2048). Words
 the model sees a lot become single tokens, so the same context window
 holds several times more text than the old character-level model.
 
@@ -22,7 +22,7 @@ from collections import Counter, defaultdict
 ROOT = os.path.dirname(os.path.abspath(__file__))
 TOKENIZER_PATH = os.path.join(ROOT, "tokenizer.json")
 
-TOKEN_VOCAB = 1024  # 256 base bytes + 768 learned merges
+TOKEN_VOCAB = 2048  # 256 base bytes + 1792 learned merges (gen 3)
 
 _CHUNK_RE = re.compile(r"\s?\w+|[^\w\s]|\s", re.UNICODE)
 

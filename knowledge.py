@@ -108,10 +108,13 @@ def _clean_text(t):
     return t.strip()
 
 
-def _pick_titles(n, rng):
-    """A slice on git/GitHub/AI (its own world), plus half serendipity
-    (random articles) and half a rotating topic with a random search
-    offset, so coverage is both wide and deep."""
+def _pick_titles(n, rng, focus=None):
+    """A slice on git/GitHub/AI (its own world), plus serendipity
+    (random articles) and topic searches with random offsets, so
+    coverage is both wide and deep.
+
+    focus: when Simply CHOOSES a topic for itself (autonomy module),
+    that topic takes half the session - a deliberate deep dive."""
     titles = []
     tech = max(2, n // 5)
     data = _http_json({"action": "query", "list": "search",
@@ -124,11 +127,13 @@ def _pick_titles(n, rng):
                        "rnnamespace": 0, "rnlimit": min(n, 20)})
     if data:
         titles += [x["title"] for x in data.get("query", {}).get("random", [])]
-    topic = rng.choice(TOPIC_LIST)
-    offset = rng.randrange(0, 150)
+    if focus:
+        topic, limit, offset = focus, max(4, n), rng.randrange(0, 200)
+    else:
+        topic, limit, offset = rng.choice(TOPIC_LIST), max(4, n), rng.randrange(0, 150)
     data = _http_json({"action": "query", "list": "search",
                        "srsearch": topic, "srnamespace": 0,
-                       "srlimit": max(4, n), "sroffset": offset,
+                       "srlimit": limit, "sroffset": offset,
                        "srprop": ""})
     if data:
         titles += [x["title"] for x in
@@ -385,7 +390,7 @@ def self_context(log=print):
 
 
 def refresh(metrics, allowed_chars=None, budget_s=FETCH_BUDGET_S,
-            articles=ARTICLES_PER_RUN, log=print):
+            articles=ARTICLES_PER_RUN, focus=None, log=print):
     """One reading session: fetch, clean, store, distill, trim.
 
     Never raises: any failure just means 'no new reading today'. Returns
@@ -405,7 +410,7 @@ def refresh(metrics, allowed_chars=None, budget_s=FETCH_BUDGET_S,
         if len(home) > 100:
             append_pool_text(home)
 
-    titles = _pick_titles(articles + 8, rng)
+    titles = _pick_titles(articles + 8, rng, focus=focus)
     for title in titles:
         if new_articles >= articles or time.time() - t0 > budget_s:
             break
@@ -445,11 +450,13 @@ def refresh(metrics, allowed_chars=None, budget_s=FETCH_BUDGET_S,
         "facts_new": new_facts,
         "facts_stored": len(load_facts()),
         "pool_chars": pool_chars,
+        "focus": focus,
         "seconds": round(time.time() - t0, 1),
     }
+    deep = f", deep dive: {focus}" if focus else ""
     log(f"  reading session: +{new_articles} articles, +{new_facts} facts "
         f"({total_learned:,} read all-time, pool {pool_chars:,} chars, "
-        f"{stats['seconds']}s)")
+        f"{stats['seconds']}s{deep})")
     return stats
 
 

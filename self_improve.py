@@ -28,7 +28,8 @@ import seed_data as SD  # ground-truth tables used by the verifier
 import world_tables as WT  # expanded world-knowledge ground truth
 import curriculum as CU  # infinite provable lessons per category
 import knowledge as KN  # internet reader: fetch, clean, distill, recall
-import tokenizer as TK  # byte-level BPE: the gen-2 vocabulary
+import tokenizer as TK  # byte-level BPE: the frozen vocabulary
+import autonomy as AU  # free will: strategies, goals, interests, diary
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 os.chdir(ROOT)
@@ -41,11 +42,11 @@ BEST_DIR = "best"
 LAST_DIR = "last"
 SYN_DIR = "synthetic"
 
-MODEL_KWARGS = dict(block_size=192, n_layer=4, n_head=4, n_embd=128)
-TOKEN_VOCAB = 1024  # 256 raw bytes + 768 learned merges
+MODEL_KWARGS = dict(block_size=256, n_layer=6, n_head=6, n_embd=192)
+GENERATION = 3      # gen 1 = char model, gen 2 = 1024-BPE, gen 3 = 2048-BPE + bigger brain
 
-BOOTSTRAP_STEPS = 500   # used for the very first training run
-DEFAULT_STEPS = 300     # used for every later iteration
+BOOTSTRAP_STEPS = 600   # used for the very first training run
+DEFAULT_STEPS = 50      # used for every later iteration (3.1M-param brain)
 VAL_FRAC = 0.05
 IMPROVE_EPSILON = 0.002  # val loss must drop by at least this much
 KNOW_EPSILON = 0.02      # knowledge-quiz accuracy must rise by this much
@@ -121,43 +122,46 @@ def corpus_charset():
     return _CORPUS_CHARS
 
 
-def ensure_token_mode(metrics):
-    """Generation 2: convert Simply from a character model into a
-    token model. A byte-level BPE is trained ONCE over everything it
-    has ever read, then frozen to tokenizer.json - the vocabulary can
-    never drift afterwards, and no internet text can ever contain an
-    unknown token.
+def ensure_generation(metrics):
+    """Generation 3: a bigger brain on a wider vocabulary.
 
-    The old brain cannot be carried over (different token space), so
-    baselines reset and the quiz restarts at zero - but the whole
-    archive (corpus, lessons, reading pool, distilled facts) is kept,
-    so the fresh brain re-learns from everything it owns, with a
-    several-times-longer context per window.
-    """
-    if metrics.get("token_mode_v1"):
+    The transformer grows from 1.1M to ~3.1M parameters (6 layers,
+    6 heads, 192 dims, 256-token context) and the frozen BPE grows
+    from 1024 to 2048 tokens, so one window now holds roughly a page
+    of text. Both changes move to a new token space, so - exactly like
+    the gen-1 -> gen-2 jump - the old brain cannot be carried over:
+    baselines reset and the quiz restarts at zero, while the whole
+    archive (corpus, lessons, reading pool, distilled facts) is kept
+    for the fresh brain to relearn from. The tokenizer is retrained
+    ONCE over everything Simply owns, then frozen again."""
+    if (metrics.get("generation") == GENERATION
+            and metrics.get("tokenizer_vocab") == TK.TOKEN_VOCAB
+            and os.path.exists(TK.TOKENIZER_PATH)):
         return
-    tok = TK.get() if os.path.exists(TK.TOKENIZER_PATH) else None
-    if tok is None:
-        text = load_corpus() + load_lessons_text()
-        if os.path.exists(KN.FACTS_PATH):
-            with open(KN.FACTS_PATH, encoding="utf-8") as f:
+    text = load_corpus() + load_lessons_text()
+    for extra in (KN.FACTS_PATH, KN.POOL_PATH):
+        if os.path.exists(extra):
+            with open(extra, encoding="utf-8") as f:
                 text += f.read()
-        log(f"generation 2: training byte-level BPE (vocab {TK.TOKEN_VOCAB}) "
-            f"on {len(text):,} chars of archive ...")
-        tok = TK.train(text, TK.TOKEN_VOCAB)
-        tok.save()
+    log(f"generation 3: training byte-level BPE (vocab {TK.TOKEN_VOCAB}) "
+        f"on {len(text):,} chars of archive ...")
+    tok = TK.train(text, TK.TOKEN_VOCAB)
+    tok.save()
+    metrics["generation"] = GENERATION
     metrics["token_mode_v1"] = True
     metrics["tokenizer_vocab"] = tok.vocab_size
     metrics["best_val_loss"] = None
     metrics["val_start"] = None
     metrics["val_end"] = None
     metrics["knowledge"] = {}
+    metrics["mastery"] = {}
     metrics["lr"] = LR_START
     metrics["head_chars"] = os.path.getsize(CORPUS_PATH)
     metrics["model_kwargs"] = MODEL_KWARGS
     save_metrics(metrics)
-    log(f"generation 2 online: vocab {tok.vocab_size}, context "
-        f"{MODEL_KWARGS['block_size']} tokens - fresh brain, full memory")
+    log(f"generation 3 online: vocab {tok.vocab_size}, context "
+        f"{MODEL_KWARGS['block_size']} tokens, ~3.1M parameters - "
+        "fresh brain, full memory")
 
 
 def build_dataset(corpus, metrics):
@@ -188,8 +192,12 @@ def load_model(ds, device):
                  os.path.join(LAST_DIR, "model.pt")):
         if os.path.exists(path):
             blob = torch.load(path, map_location=device)
-            if blob.get("config", {}).get("vocab_size") not in (None, len(ds.itos)):
-                log(f"vocab drift at {path} - cannot load safely, skipping")
+            cfgb = blob.get("config", {})
+            if (cfgb.get("vocab_size") not in (None, len(ds.itos))
+                    or cfgb.get("block_size") not in
+                    (None, MODEL_KWARGS["block_size"])):
+                log(f"architecture drift at {path} - cannot load safely, "
+                    "skipping")
                 continue
             model.load_state_dict(blob["model"])
             log(f"loaded weights from {path}")
@@ -200,8 +208,12 @@ def load_model(ds, device):
 
 def save_checkpoint(model, ds, val_loss, version, path):
     os.makedirs(os.path.dirname(path), exist_ok=True)
+    # fp16 on disk: half the bytes in git history per promotion, and
+    # load_state_dict copies straight back into the fp32 module.
+    state = {k: (v.half() if v.is_floating_point() else v)
+             for k, v in model.state_dict().items()}
     torch.save({
-        "model": model.state_dict(),
+        "model": state,
         "config": {**MODEL_KWARGS, "vocab_size": len(ds.itos)},
         "stoi": ds.stoi,
         "itos": ds.itos,
@@ -505,14 +517,20 @@ def too_repetitive(blob):
     return False
 
 
-def weakest_categories(knowledge):
-    """Rank knowledge categories weakest-first (the self-study plan)."""
+def weakest_categories(knowledge, mastery=None):
+    """Rank knowledge categories weakest-first (the self-study plan).
+
+    Subjects Simply has MASTERED (three perfect quizzes in a row,
+    tracked in metrics['mastery']) sink to the bottom of the list:
+    study time flows to the frontier, not to what it already knows."""
     def acc(c):
         v = knowledge.get(c) if isinstance(knowledge, dict) else None
         return v if isinstance(v, (int, float)) else 0.0
+    mastery = mastery or {}
     cats = [c for c in CATEGORY_PROMPTS if c != "reading"] + (
         ["reading"] if _READING_FACTS else [])
-    cats.sort(key=lambda c: (acc(c), random.random()))
+    cats.sort(key=lambda c: (1.0 if mastery.get(c, 0) >= 3 else 0.0,
+                             acc(c), random.random()))
     return cats
 
 
@@ -544,7 +562,7 @@ def run_knowledge_quiz(model, ds, device, iteration):
         # Greedy decoding: the quiz measures knowledge, not creativity.
         ans = sample_answer(model, ds, device, question=q,
                             temperature=0.1,
-                            max_new=96 if cat == "reading" else 64,
+                            max_new=72 if cat == "reading" else 48,
                             top_k=1)
         scores[cat] = 1.0 if template_check(q, ans) else 0.0
     acc = {c: round(v, 3) for c, v in scores.items()}
@@ -890,6 +908,9 @@ def main():
                     help="sampling batches per iteration for self-written data")
     ap.add_argument("--bench", type=int, default=0,
                     help="train N steps in memory, print speed, exit")
+    ap.add_argument("--pretrain", type=int, default=0,
+                    help="one-time bootstrap: migrate, train N steps from "
+                         "scratch, save the champion, exit")
     args = ap.parse_args()
 
     device = "cpu" if args.cpu or not torch.cuda.is_available() else "cuda"
@@ -897,7 +918,7 @@ def main():
     torch.manual_seed(random.randrange(1 << 30))
 
     metrics = load_metrics()
-    ensure_token_mode(metrics)
+    ensure_generation(metrics)
     corpus = load_corpus()
     ds = build_dataset(corpus, metrics)
     if metrics["val_start"] is None:
@@ -925,6 +946,64 @@ def main():
     if not metrics.get("study_mode_v1"):
         build_study_seed(metrics)
 
+    # One-time bootstrap for a brand-new brain (generation jumps): train
+    # N steps from scratch, save the champion, exit. Runs BEFORE any
+    # quiz/commit machinery so the first real run starts warm.
+    if args.pretrain:
+        target = args.pretrain
+        done = int(metrics.get("pretrain_steps", 0))
+        model, fresh = load_model(ds, device)
+        if done and fresh:
+            log("pretrain: no usable checkpoint - starting over")
+            done = 0
+        n_params = Simply(
+            GPTConfig(vocab_size=len(ds.itos), **MODEL_KWARGS)).num_params()
+        lessons = LessonStream(ds)
+        reading = None
+        if os.path.exists(KN.POOL_PATH):
+            cand = ReadingStream(ds)
+            if len(cand.data) > MODEL_KWARGS["block_size"] * 4:
+                reading = cand
+        if done >= target:
+            log("pretrain: target already reached - finishing up")
+        else:
+            log(f"pretrain: steps {done} -> {target} "
+                f"({n_params / 1e6:.2f}M params) ...")
+            # Chunked + checkpointed: every 250 steps the partial brain
+            # is saved to last/, so a pretrain can be resumed after any
+            # interruption without losing progress.
+            while done < target:
+                chunk = min(250, target - done)
+                train_steps(model, ds, chunk, args.batch_size,
+                            2e-3, device, lessons, reading)
+                done += chunk
+                metrics["pretrain_steps"] = done
+                save_metrics(metrics)
+                os.makedirs(LAST_DIR, exist_ok=True)
+                save_checkpoint(model, ds, None, 0,
+                                os.path.join(LAST_DIR, "model.pt"))
+                log(f"pretrain checkpoint: {done}/{target} steps saved")
+        val_loss = ds.eval_loss(model, device)
+        metrics["version"] = 1
+        metrics["best_val_loss"] = val_loss
+        metrics["lr"] = 1.5e-3
+        os.makedirs(BEST_DIR, exist_ok=True)
+        save_checkpoint(model, ds, val_loss, 1,
+                        os.path.join(BEST_DIR, "model.pt"))
+        save_metrics(metrics)
+        log(f"pretrain done: val loss {val_loss:.4f} saved as v1 champion")
+        return
+
+    # Free will: Simply picks HOW to spend this run - broad reading,
+    # a self-chosen deep dive, extra drilling, more writing, or a bold
+    # experiment. The choice and its payoff are committed to the repo.
+    A = AU.load()
+    plan = AU.begin_run(A, metrics, random)
+    log(f"free will: chose '{plan['strategy']}' - {plan['desc']}")
+    if plan["bold_lr"]:
+        metrics["lr"] = min(3e-3, metrics["lr"] * 2)
+        log(f"  bold mode: lr raised to {metrics['lr']:.2e} for this run")
+
     # Reading session: go learn something new from the open internet.
     # Best effort by design - if the web is unreachable, the loop keeps
     # going on whatever it already has. Facts are distilled into the
@@ -932,7 +1011,9 @@ def main():
     read_stats = None
     if not args.no_net:
         try:
-            read_stats = KN.refresh(metrics, allowed_chars=set(corpus))
+            read_stats = KN.refresh(metrics, allowed_chars=set(corpus),
+                                    articles=plan["articles"],
+                                    focus=plan["focus"])
             metrics["reading"] = {
                 "articles": read_stats["articles_total"],
                 "facts": read_stats["facts_stored"],
@@ -955,6 +1036,7 @@ def main():
     run_best_loss = baseline
     run_best_val_state = None
     metrics.setdefault("knowledge", {})
+    version_before = metrics["version"]
     start_know = (sum(metrics["knowledge"].values()) / len(metrics["knowledge"])
                   if metrics["knowledge"] else 0.0)
     run_best_know = start_know
@@ -976,14 +1058,16 @@ def main():
         it_num = metrics["iteration"]
         steps = args.steps if args.steps is not None else (
             BOOTSTRAP_STEPS if from_scratch else DEFAULT_STEPS)
+        steps = int(steps * plan["steps_mult"])
         log(f"=== iteration {it_num} === "
             f"params={n_params / 1e6:.2f}M steps={steps} "
             f"lr={metrics['lr']:.2e} device={device}")
 
         # Study first: fresh provable exercises for whatever the model is
         # worst at right now, then train on the mix, then grade it.
-        added = topup_lessons(weakest_categories(metrics["knowledge"]),
-                              it_num)
+        added = topup_lessons(
+            weakest_categories(metrics["knowledge"], metrics.get("mastery")),
+            it_num)
         lessons = LessonStream(ds)
         log(f"  study plan: +{added} new lessons "
             f"(pool: {lessons_count()}), weakest first")
@@ -991,13 +1075,24 @@ def main():
         train_loss = train_steps(model, ds, steps, args.batch_size,
                                  metrics["lr"], device, lessons, reading)
         synth_n = generate_and_absorb(model, ds, device, it_num,
-                                      batches=args.synth_batches,
+                                      batches=args.synth_batches
+                                      + plan["synth_extra"],
                                       cat_order=weakest_categories(
-                                          metrics["knowledge"]))
+                                          metrics["knowledge"],
+                                          metrics.get("mastery")))
         trim_corpus_if_needed(metrics)
         quiz_acc, quiz_line = run_knowledge_quiz(model, ds, device, it_num)
         know_avg = sum(quiz_acc.values()) / len(quiz_acc)
         metrics["knowledge"] = quiz_acc
+        # Mastery streaks: three perfect quizzes in a row moves a subject
+        # to the back of the study queue - the frontier gets the time.
+        mastery = metrics.setdefault("mastery", {})
+        for c, v in quiz_acc.items():
+            mastery[c] = mastery.get(c, 0) + 1 if v >= 0.999 else 0
+        newly = [c for c, s in mastery.items() if s == 3]
+        if newly:
+            log(f"  mastered: {', '.join(newly)} "
+                "(3 perfect quizzes in a row)")
         known_all = sum(1 for v in quiz_acc.values() if v >= 0.999)
         log(f"  knowledge quiz: {quiz_line} "
             f"({known_all}/{len(quiz_acc)} categories perfect)")
@@ -1132,6 +1227,27 @@ def main():
         )
         log(f"=== promoted weights: v{metrics['version']} ({why}) ===")
 
+    # Free-will bookkeeping: score the choice it made against what
+    # actually happened, tick its goals, rewrite its plan, and leave a
+    # couple of lines in its own words. All committed, all auditable.
+    end_know = (sum(metrics["knowledge"].values()) / len(metrics["knowledge"])
+                if metrics["knowledge"] else 0.0)
+    promoted = metrics["version"] != version_before
+    know_gain = end_know > start_know + KNOW_EPSILON
+    val_gain = (run_best_val_state is not None and baseline is not None
+                and run_best_loss < baseline - IMPROVE_EPSILON)
+    reward = AU.score_last(A, know_gain, val_gain, promoted)
+    met = AU.update_goals(A, metrics)
+    for g in met:
+        log(f"goal met: {g['text']}")
+    AU.write_plan(A, metrics, plan, met)
+    try:
+        AU.write_diary(model, ds, device, plan)
+    except Exception as e:
+        log(f"diary skipped: {e}")
+    log(f"free will: '{plan['strategy']}' scored {reward:.1f} this run "
+        f"(promoted={promoted}, knowledge_gain={know_gain}, "
+        f"loss_gain={val_gain})")
     save_metrics(metrics)
     log("all done")
 

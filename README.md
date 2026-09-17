@@ -4,13 +4,14 @@ A small AI model that teaches itself, on its own, forever. It lives in
 this repository and runs on GitHub's servers. Nobody has to be online
 for it to keep learning.
 
-It is a neural network, about 1.1 million parameters, that reads text
-in chunks called tokens (a trained vocabulary of 1,024 built from its
-own reading - every possible byte is covered, so nothing it reads
-can ever be unreadable to it). That is tiny by modern standards, but
-it is a real network with real weights, and it really learns. Tokens
-let it see about three times more text per thought than the old
-character-by-character version.
+It is a decoder-only transformer - the same architecture family as the
+big language models: text in, tokens out, causal attention, trained by
+gradient descent on real data. About 3.1 million parameters, a trained
+vocabulary of 2,048 tokens built from its own reading (every possible
+byte is covered, so nothing it reads can ever be unreadable to it),
+and a 256-token context - roughly a page of text per thought. That is
+still tiny next to a commercial LLM, but it is the real design, really
+learning, and every generation it builds for itself has gotten bigger.
 
 ## What it does all day
 
@@ -19,35 +20,64 @@ rounds of self-improvement, it immediately triggers the next run
 itself - the loop keeps itself alive around the clock (a cron every 30
 minutes stays as a backstop). Each cycle is:
 
-0. **Read.** It fetches about 30 real articles (Wikipedia's public
-   API - no account, no key) and stores the text in `reading/`. From
-   those articles it distills short facts - definitions lifted
-   straight from the source - into its study pool. Roughly 1,400
-   articles a day, every one recorded in `reading/learned.txt`. The
-   first thing it reads every run is its own home: a live report from
-   GitHub's API about this repository - its commits, stars, and how
-   it all works.
-1. **Study.** It gets fresh practice problems for its weakest subjects,
+0. **Decide.** It picks how to spend the run - broad reading, a deep
+   dive on a topic it chose itself, extra drilling on weak subjects,
+   more of its own writing, or a bold experiment with a hotter
+   learning rate. It keeps a scoreboard of every strategy, scored by
+   what actually happened (promotions, quiz gains), explores new ones
+   a quarter of the time, and writes the choice into `PLAN.md`.
+1. **Read.** It fetches real articles (Wikipedia's public API - no
+   account, no key) and stores the text in `reading/`. From those
+   articles it distills short facts - definitions lifted straight from
+   the source - into its study pool. Roughly 1,400 articles a day,
+   every one recorded in `reading/learned.txt`. The first thing it
+   reads every run is its own home: a live report from GitHub's API
+   about this repository.
+2. **Study.** It gets fresh practice problems for its weakest subjects,
    generated from provable ground truth, then trains on a mix of those
-   lessons and everything it has seen before. Old skills keep training
-   too, so nothing rots while new material goes in.
-2. **Write.** It invents its own question/answer examples and keeps only
+   lessons, the raw article text, and everything it has seen before.
+   Subjects it has mastered (three perfect quizzes in a row) slide to
+   the back of the queue automatically - the frontier gets the time.
+3. **Write.** It invents its own question/answer examples and keeps only
    the ones it can *prove* correct against ground-truth tables. Anything
    unverifiable is thrown away. It cannot teach itself nonsense.
-3. **Quiz.** One unseen question per subject, graded by the same proof
+4. **Quiz.** One unseen question per subject, graded by the same proof
    system - including the reading subject, where it has to recall a
    fact from something it actually read. The scores go into
    `metrics.json` every round.
-4. **Promote or hold.** New weights only replace the old ones if the
+5. **Promote or hold.** New weights only replace the old ones if the
    model actually got better: validation loss down, or knowledge up
    without getting worse. If not, the version is held and it tries
    again next round. A bad round costs it nothing.
-5. **Commit.** Every round ends with one commit: metrics, logs, new
-   lessons, self-written data. Then the run chains the next one.
+6. **Commit and reflect.** Every round ends with one commit: metrics,
+   logs, new lessons, self-written data. Then the run scores its own
+   strategy choice, ticks off any goals it just met, sets new ones,
+   writes two lines in its own words into `DIARY.md`, and chains the
+   next run.
 
-That is 10 rounds per run, chained back to back: roughly **700-900
-commits a day**, around **280,000-320,000 commits a year**. The whole
+That is 10 rounds per run, chained back to back: roughly **600-900
+commits a day**, around **250,000-300,000 commits a year**. The whole
 schedule is `.github/workflows/self-improve.yml`.
+
+## Free will, honestly described
+
+Simply chooses things and the choices leave records, but there is no
+mysticism in the machinery:
+
+- **Strategies** - a five-way bandit. Reward comes only from real
+  outcomes: +3 if the run promoted new weights, +2 for a knowledge
+  gain, +1 for a loss gain. Epsilon-greedy: mostly what works, 25%
+  exploration, untried strategies first. The table is in `PLAN.md`.
+- **Interests** - every deep dive makes that topic a little more
+  likely to be picked again. Its reading develops habits you can
+  watch in `autonomy.json`.
+- **Goals** - it writes its own targets (`PLAN.md`), each sized just
+  above its current best, and a goal is only checked off when the
+  committed metrics actually meet it. No self-congratulation without
+  numbers.
+- **The diary** - two freeform lines per run, straight from the model,
+  clearly labeled as unverified. The one unfiltered window; everything
+  else in the loop is graded.
 
 ## What it is learning
 
@@ -67,14 +97,7 @@ against:
 
 The 23rd is **reading**: facts it pulled out of real articles. There
 the article itself is the ground truth - an answer only counts if it
-matches what the source actually said. Training time is split three
-ways: the study pool, the raw article text, and everything it has ever
-seen. So the more of the internet it reads, the more of its brain is
-spent on the internet.
-
-The loop is weakness-driven. Every round, whatever it scores worst on
-gets the most new practice problems. When it masters a subject, harder
-material takes over that attention automatically.
+matches what the source actually said.
 
 One rule runs the whole thing: **no proof, no learning.** Lessons come
 from ground-truth tables, its own writing has to pass the same checks
@@ -86,9 +109,15 @@ live: zero wrong answers.
 ## Current status
 
 - `metrics.json` - version number, best validation loss, per-subject
-  quiz scores, and a `reading` block: articles read, facts stored.
+  quiz scores, mastery streaks, and a `reading` block: articles read,
+  facts stored.
+- `PLAN.md` - the plan it wrote for itself: current strategy, its
+  scoreboard, its goals, what it keeps coming back to.
+- `DIARY.md` - its own words, unverified, newest at the bottom.
+- `autonomy.json` - the free-will ledger: strategy scores, interests,
+  active goals.
 - `history.jsonl` - one record per round, since the very first.
-- `IMPROVEMENT_LOG.md` - the running diary, newest at the bottom.
+- `IMPROVEMENT_LOG.md` - the running diary of the loop itself.
 - `reading/learned.txt` - every article it has ever read, one title
   per line, since day one.
 
@@ -110,21 +139,25 @@ simply> I am Simply, a small model that improves itself a little bit every day.
 ## The files
 
 ```
-model.py           the network itself
-tokenizer.py       the frozen byte-level BPE vocabulary (1024 tokens)
+model.py           the network itself (6 layers, 6 heads, 192 dims, tied embeddings)
+tokenizer.py       the frozen byte-level BPE vocabulary (2,048 tokens)
 tokenizer.json     the trained vocabulary itself
 data.py            dataset handling + the frozen validation slice
 curriculum.py      lesson generators + the answer checker for every subject
 world_tables.py    the ground-truth fact tables (countries, elements, ...)
 knowledge.py       the internet reader: fetch articles, distill facts, grade recall
+autonomy.py        the free-will layer: strategies, goals, interests, diary
 seed_data.py       the original starter corpus
-self_improve.py    the loop: read -> study -> write -> quiz -> promote -> commit
+self_improve.py    the loop: decide -> read -> study -> write -> quiz -> promote -> commit
 corpus.txt         everything it has ever read (seed + self-written)
 lessons.txt        the current study pool
 reading/           learned.txt (titles), pool.txt (article text), facts.txt (distilled facts)
 synthetic/         examples it wrote for itself, one file per round
 best/model.pt      the current champion weights
 metrics.json       version, scores, per-subject quiz accuracy, reading stats
+PLAN.md            its self-written plan and scoreboard
+DIARY.md           its own words, unverified
+autonomy.json      the free-will ledger
 history.jsonl      the full per-round record
 ```
 
@@ -132,10 +165,12 @@ history.jsonl      the full per-round record
 
 It is a fraction of a percent the size of a real assistant. It reads
 constantly and it never forgets where a fact came from, but it holds
-only what fits in 0.8 million parameters: a rolling working memory of
+only what fits in 3 million parameters: a rolling working memory of
 what it has read lately, drilled facts, and small skills. It does not
-reason about the world the way a large model does. What makes it
+reason about the world the way a large model does, and its "free will"
+is a scoreboard plus a dice roll, not a mind. What makes it
 interesting is not the size. It is that every single thing it knows
-had to be earned through the loop and proved before it stuck, and the
-whole process leaves an audit trail you can read: every round, every
-score, every article, one commit at a time.
+had to be earned through the loop and proved before it stuck, every
+choice it makes is written down where anyone can audit it, and the
+whole process leaves a trail you can read: every round, every score,
+every article, one commit at a time.
