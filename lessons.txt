@@ -25247,3 +25247,110 @@ A: Half of 32 is 16.
 
 Q: What is half of 12?
 A: Half of 12 is 6.
+Q: What is the capital of Belgium?
+A: The capital of Belgium is Brussels.
+
+Q: What is the capital of San Marino?
+A: The capital of San Marino is San Marino.
+
+Q: What is the capital of Bosnia and Herzegovina?
+A: The capital of Bosnia and Herzegovina is Sarajevo.
+
+Q: What is the capital of Lithuania?
+A: The capital of Lithuania is Vilnius.
+
+Q: What is the capital of Tunisia?
+A: The capital of Tunisia is Tunis.
+
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is Monaco on?
+A: Monaco is on the continent of Europe.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is North Macedonia on?
+A: North Macedonia is on the continent of Europe.
+
+Q: What continent is Senegal on?
+A: Senegal is on the continent of Africa.
+
+Q: Which element has the chemical symbol W?
+A: W is the chemical symbol for tungsten.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: Which element has the chemical symbol Pr?
+A: Pr is the chemical symbol for praseodymium.
+
+Q: Which element has the chemical symbol Pd?
+A: Pd is the chemical symbol for palladium.
+
+Q: Which element has the chemical symbol Cu?
+A: Cu is the chemical symbol for copper.
+
+Q: Which element has the chemical symbol Rn?
+A: Rn is the chemical symbol for radon.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: What is 19 plus 13?
+A: 19 plus 13 is 32.
+
+Q: What is 9 plus 8?
+A: 9 plus 8 is 17.
+
+Q: What is 14 plus 19?
+A: 14 plus 19 is 33.
+
+Q: What is 827 plus 960?
+A: 827 plus 960 is 1787.
+
+Q: What is 15 times 19?
+A: 15 times 19 is 285.
+
+Q: What is 955 minus 606?
+A: 955 minus 606 is 349.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
