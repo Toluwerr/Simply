@@ -2947,3 +2947,78 @@ A: Rillieux, a French-speaking Creole.
 
 Q: What is Norbert?
 A: Norbert is the eldest of seven children.
+
+Q: What is TeamCity?
+A: TeamCity is a build management and continuous integrationcontinuous delivery server developed by JetBrains.
+
+Q: What is Spider-Man: No Way Home?
+A: Spider-Man: No Way Home is a 2021 American superhero film based on the Marvel Comics character Spider-Man.
+
+Q: What is Minecraft?
+A: Minecraft is a sandbox video game developed and published by the Swedish company Mojang Studios.
+
+Q: What is Luis Tud Pomar?
+A: Luis Tud Pomar is a Spanish footballer who played as a defender for Barcelona between 1912 and 1918, winning one Copa del Rey in 1913.
+
+Q: What is Sydenham  Dulwich Girls?
+A: Sydenham  Dulwich Girls is a private day school for 4- to 18-year-old girls located in London, England.
+
+Q: What is Christopher O'Hare?
+A: Christopher O'Hare is a Scottish former middle-distance runner who competes in the 1500 metres.
+
+Q: What is O'Hare is married and?
+A: O'Hare is married and is a fan of Celtic FC.
+
+Q: What is Rolf Juell Gleditsch?
+A: Rolf Juell Gleditsch is a Norwegian painter.
+
+Q: What is Marie-Laure de Lorenzi?
+A: Marie-Laure de Lorenzi is a French professional golfer.
+
+Q: What is Just the Ticket?
+A: Just the Ticket is a 1998 American drama film directed by Richard Wenk.
+
+Q: What is Isaac Bickerstaff Esq?
+A: Isaac Bickerstaff Esq is a pseudonym used by Jonathan Swift as part of a hoax to predict the death of then-famous Almanac-maker.
+
+Q: What is William Wells?
+A: William Wells is an English cricketer active from 1904 to 1926 who played for Northamptonshire .
+
+Q: What is Mpulungu District?
+A: Mpulungu District is a district of Zambia, located in Northern Province.
+
+Q: What is Exacum socotranum?
+A: Exacum socotranum is a species of flowering plant in the family Gentianaceae.
+
+Q: What is Innovation?
+A: Innovation is the practical implementation of ideas that result in the creation or improvements of goods or services.
+
+Q: What is Ancient Inventions?
+A: Ancient Inventions is a BBC historical documentary series released in 1998.
+
+Q: What is Sue Monk Kidd?
+A: Sue Monk Kidd is an American writer from Sylvester, Georgia.
+
+Q: What is Ann Makosinski?
+A: Ann Makosinski is a Filipino-Polish-Canadian inventor and public speaker.
+
+Q: What is George Elwood Smith?
+A: George Elwood Smith is an American applied physicist and a co-inventor of the charge-coupled device .
+
+Q: What is Cooking?
+A: Cooking is an aspect of all human societies and a cultural universal.
+
+Q: What is Daguerreotype?
+A: Daguerreotype is the first publicly available photographic process, widely used from the 1830s to 1850s.
+
+Q: What is Mutation of J.B.?
+A: Mutation of J.B. is a 1996 point-and-click adventure game by Slovak developer Invention.
+
+Q: What is Patent infringement?
+A: Patent infringement is an unauthorized act of - for example - making, using, offering for sale, selling.
+
+Q: What is Robert Barron?
+A: Robert Barron is an English locksmith notable for his invention of the double-acting tumbler lock in 1778, also recognized as the level tumbler lock.
+
+Q: What is Construction?
+A: Construction is an ancient human activity that began at around 4000 BC as a response to the human need for shelter.

@@ -53067,3 +53067,146 @@ A: The currency of Malaysia is the ringgit.
 
 Q: What currency does Afghanistan use?
 A: The currency of Afghanistan is the afghani.
+Q: How many letters does the word 'indonesia' have?
+A: The word 'indonesia' has 9 letters.
+
+Q: How many letters does the word 'magnesium' have?
+A: The word 'magnesium' has 9 letters.
+
+Q: How many letters does the word 'rhodium' have?
+A: The word 'rhodium' has 7 letters.
+
+Q: How many letters does the word 'bahamas' have?
+A: The word 'bahamas' has 7 letters.
+
+Q: How many letters does the word 'lansing' have?
+A: The word 'lansing' has 7 letters.
+
+Q: How many letters does the word 'scandium' have?
+A: The word 'scandium' has 8 letters.
+
+Q: How many letters does the word 'fiji' have?
+A: The word 'fiji' has 4 letters.
+
+Q: How many letters does the word 'faso' have?
+A: The word 'faso' has 4 letters.
+
+Q: What is the first letter of 'narrow'?
+A: The first letter of 'narrow' is N.
+
+Q: What is the first letter of 'otter'?
+A: The first letter of 'otter' is O.
+
+Q: What is the first letter of 'rhenium'?
+A: The first letter of 'rhenium' is R.
+
+Q: What is the last letter of 'ankara'?
+A: The last letter of 'ankara' is A.
+
+Q: What is the first letter of 'silver'?
+A: The first letter of 'silver' is S.
+
+Q: What is the last letter of 'bulgaria'?
+A: The last letter of 'bulgaria' is A.
+
+Q: What is the first letter of 'pula'?
+A: The first letter of 'pula' is P.
+
+Q: What is the last letter of 'tallahassee'?
+A: The last letter of 'tallahassee' is E.
+
+Q: How do you sort 13, 20, and 18?
+A: In order, they are 13 18 20.
+
+Q: How do you sort 578, 105, and 168?
+A: In order, they are 105 168 578.
+
+Q: How do you sort 793, 510, and 472?
+A: In order, they are 472 510 793.
+
+Q: How do you sort 19, 25, and 14?
+A: In order, they are 14 19 25.
+
+Q: How do you sort 933, 251, and 71?
+A: In order, they are 71 251 933.
+
+Q: How do you sort 8, 13, and 29?
+A: In order, they are 8 13 29.
+
+Q: How do you sort 594, 250, and 825?
+A: In order, they are 250 594 825.
+
+Q: How do you sort 780, 19, and 440?
+A: In order, they are 19 440 780.
+
+Q: Is 619 bigger than 358?
+A: Yes, 619 is bigger than 358.
+
+Q: Which is bigger, 13 or 5?
+A: 13 is bigger than 5.
+
+Q: Which is bigger, 69 or 73?
+A: 73 is bigger than 69.
+
+Q: Is 40 bigger than 26?
+A: Yes, 40 is bigger than 26.
+
+Q: Is 22 bigger than 76?
+A: No, 76 is bigger than 22.
+
+Q: Is 13 bigger than 14?
+A: No, 14 is bigger than 13.
+
+Q: Is 11 bigger than 13?
+A: No, 13 is bigger than 11.
+
+Q: Which is bigger, 6 or 12?
+A: 12 is bigger than 6.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: What is the capital of Cape Verde?
+A: The capital of Cape Verde is Praia.
+
+Q: What is the capital of Guinea-Bissau?
+A: The capital of Guinea-Bissau is Bissau.
+
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Slovenia?
+A: The capital of Slovenia is Ljubljana.
+
+Q: What is the capital of Costa Rica?
+A: The capital of Costa Rica is San Jose.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Denmark?
+A: The capital of Denmark is Copenhagen.
