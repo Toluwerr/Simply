@@ -27941,3 +27941,110 @@ A: The capital of the Central African Republic is Bangui.
 
 Q: What is the capital of the Netherlands?
 A: The capital of the Netherlands is Amsterdam.
+Q: What is 824 minus 257?
+A: 824 minus 257 is 567.
+
+Q: What is 53 minus 53?
+A: 53 minus 53 is 0.
+
+Q: What is 20 minus 17?
+A: 20 minus 17 is 3.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is 52 plus 68?
+A: 52 plus 68 is 120.
+
+Q: What is 14 plus 18?
+A: 14 plus 18 is 32.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What number is the Roman numeral i?
+A: The Roman numeral i is the number 1.
+
+Q: What is the Roman numeral for 374?
+A: The Roman numeral for 374 is ccclxxiv.
+
+Q: What number is the Roman numeral xliii?
+A: The Roman numeral xliii is the number 43.
+
+Q: What is the Roman numeral for 35?
+A: The Roman numeral for 35 is xxxv.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What is the Roman numeral for 16?
+A: The Roman numeral for 16 is xvi.
+
+Q: What is the first letter of 'solid'?
+A: The first letter of 'solid' is S.
+
+Q: What is the first letter of 'leone'?
+A: The first letter of 'leone' is L.
+
+Q: What is the first letter of 'arizona'?
+A: The first letter of 'arizona' is A.
+
+Q: What is the last letter of 'vatican'?
+A: The last letter of 'vatican' is N.
+
+Q: What is the first letter of 'lebanon'?
+A: The first letter of 'lebanon' is L.
+
+Q: What is the first letter of 'copper'?
+A: The first letter of 'copper' is C.
+
+Q: What currency does Belarus use?
+A: The currency of Belarus is the ruble.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What currency does Senegal use?
+A: The currency of Senegal is the franc.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What currency does New Zealand use?
+A: The currency of New Zealand is the dollar.
+
+Q: Can you count by ones from 3 to 7?
+A: Counting by ones gives 3 4 5 6 7.
+
+Q: Can you count by ones from 16 to 21?
+A: Counting by ones gives 16 17 18 19 20 21.
+
+Q: Can you count by fives from 20 to 40?
+A: Counting by fives gives 20 25 30 35 40.
+
+Q: Can you count by fives from 25 to 45?
+A: Counting by fives gives 25 30 35 40 45.
+
+Q: Can you count by ones from 14 to 18?
+A: Counting by ones gives 14 15 16 17 18.
+
+Q: Can you count by fives from 10 to 35?
+A: Counting by fives gives 10 15 20 25 30 35.
