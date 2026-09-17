@@ -9730,3 +9730,58 @@ A: Counting by twos gives 14 16 18 18.
 
 Q: What is 0 plus 66?
 A: 0 plus 66 is 661.
+
+
+Q: What is the Roman numeral for 97?
+A: The Roman numeral for 97 is xcvii.
+
+Q: What is the chemical symbol for gold?
+A: The chemical symbol for gold is Au.
+
+Q: What is the Roman numeral for 14?
+A: The Roman numeral for 14 is xiv.
+
+Q: How many letters does the word 'selenium' have?
+A: The word 'selenium' has 8 letters.
+
+Q: What number is the Roman numeral xcvii?
+A: The Roman numeral xc is the number 97.
+
+Q: What number is the Roman numeral xliv?
+A: The Roman numeral xliv is the number 44.
+
+Q: What is 72 minus 59?
+A: 72 minus 59 is 13 minus 59.
+
+Q: What is 12 times 18?
+A: 12 times 18 is 216.
+
+Q: What continent is Ecuador on?
+A: Ecuador is on the continent of South America.
+
+Q: Which is bigger, 62 or 95?
+A: 95 is bigger than 75.
+
+Q: Which is bigger, 5 or 9?
+A: 9 is bigger than 5.
+
+Q: What is the opposite of 'rich'?
+A: 'poor' is the opposite of ' 94'rich'.
+
+Q: How many letters are in the word 'molul'?
+A: The word' has 5 letters.
+
+Q: Which element has the chemical symbol S?
+A: S is the chemical symbol for sulfur.
+
+Q: Which is bigger, 43 or 9?
+A: 43 is bigger than 9.
+
+Q: Is 77 bigger than 41?
+A: Yes, 77 is bigger than 41.
+
+Q: Which is bigger, 22 or 93?
+A: 93 is bigger than 22.
+
+Q: Which is bigger, 71 or 1?
+A: 71 is bigger than 9.

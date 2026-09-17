@@ -24926,3 +24926,110 @@ A: Yes, 18 is bigger than 16.
 
 Q: Which is bigger, 11 or 7?
 A: 11 is bigger than 7.
+Q: What currency does Chile use?
+A: The currency of Chile is the peso.
+
+Q: What currency does Finland use?
+A: The currency of Finland is the euro.
+
+Q: What currency does Ireland use?
+A: The currency of Ireland is the euro.
+
+Q: What currency does Iran use?
+A: The currency of Iran is the rial.
+
+Q: What currency does Colombia use?
+A: The currency of Colombia is the peso.
+
+Q: What currency does Saudi Arabia use?
+A: The currency of Saudi Arabia is the riyal.
+
+Q: How many letters does the word 'saturn' have?
+A: The word 'saturn' has 6 letters.
+
+Q: How many letters does the word 'grenada' have?
+A: The word 'grenada' has 7 letters.
+
+Q: How many letters does the word 'costa' have?
+A: The word 'costa' has 5 letters.
+
+Q: How many letters does the word 'honiara' have?
+A: The word 'honiara' has 7 letters.
+
+Q: How many letters does the word 'montgomery' have?
+A: The word 'montgomery' has 10 letters.
+
+Q: How many letters does the word 'asmara' have?
+A: The word 'asmara' has 6 letters.
+
+Q: How do you sort 656, 45, and 859?
+A: In order, they are 45 656 859.
+
+Q: How do you sort 18, 21, and 11?
+A: In order, they are 11 18 21.
+
+Q: How do you sort 975, 850, and 714?
+A: In order, they are 714 850 975.
+
+Q: How do you sort 2, 8, and 11?
+A: In order, they are 2 8 11.
+
+Q: How do you sort 519, 59, and 739?
+A: In order, they are 59 519 739.
+
+Q: How do you sort 2, 24, and 12?
+A: In order, they are 2 12 24.
+
+Q: What is the chemical symbol for europium?
+A: The chemical symbol for europium is Eu.
+
+Q: What is the chemical symbol for germanium?
+A: The chemical symbol for germanium is Ge.
+
+Q: What is the chemical symbol for mercury?
+A: The chemical symbol for mercury is Hg.
+
+Q: Which element has the chemical symbol He?
+A: He is the chemical symbol for helium.
+
+Q: Which element has the chemical symbol Ru?
+A: Ru is the chemical symbol for ruthenium.
+
+Q: Which element has the chemical symbol F?
+A: F is the chemical symbol for fluorine.
+
+Q: What is 574 plus 396?
+A: 574 plus 396 is 970.
+
+Q: What is 2 times 6?
+A: 2 times 6 is 12.
+
+Q: What is 12 times 11?
+A: 12 times 11 is 132.
+
+Q: What is 17 minus 15?
+A: 17 minus 15 is 2.
+
+Q: What is 165 plus 169?
+A: 165 plus 169 is 334.
+
+Q: What is 728 minus 308?
+A: 728 minus 308 is 420.
+
+Q: Which is bigger, 893 or 570?
+A: 893 is bigger than 570.
+
+Q: Is 93 bigger than 80?
+A: Yes, 93 is bigger than 80.
+
+Q: Which is bigger, 3 or 7?
+A: 7 is bigger than 3.
+
+Q: Is 497 bigger than 456?
+A: Yes, 497 is bigger than 456.
+
+Q: Which is bigger, 35 or 97?
+A: 97 is bigger than 35.
+
+Q: Is 462 bigger than 153?
+A: Yes, 462 is bigger than 153.
