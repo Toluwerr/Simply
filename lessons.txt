@@ -51612,3 +51612,170 @@ A: 10 minus 3 is 7.
 
 Q: What is 13 times 18?
 A: 13 times 18 is 234.
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What is the chemical symbol for nitrogen?
+A: The chemical symbol for nitrogen is N.
+
+Q: What is the chemical symbol for tellurium?
+A: The chemical symbol for tellurium is Te.
+
+Q: Which element has the chemical symbol Th?
+A: Th is the chemical symbol for thorium.
+
+Q: Which element has the chemical symbol Pu?
+A: Pu is the chemical symbol for plutonium.
+
+Q: Which element has the chemical symbol Cd?
+A: Cd is the chemical symbol for cadmium.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: What is the chemical symbol for silver?
+A: The chemical symbol for silver is Ag.
+
+Q: What is the chemical symbol for lanthanum?
+A: The chemical symbol for lanthanum is La.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What number is the Roman numeral cdxlii?
+A: The Roman numeral cdxlii is the number 442.
+
+Q: What is the Roman numeral for 93?
+A: The Roman numeral for 93 is xciii.
+
+Q: What number is the Roman numeral xvii?
+A: The Roman numeral xvii is the number 17.
+
+Q: What is the Roman numeral for 14?
+A: The Roman numeral for 14 is xiv.
+
+Q: What is the Roman numeral for 610?
+A: The Roman numeral for 610 is dcx.
+
+Q: What is the Roman numeral for 63?
+A: The Roman numeral for 63 is lxiii.
+
+Q: What is the Roman numeral for 11?
+A: The Roman numeral for 11 is xi.
+
+Q: What is the Roman numeral for 4?
+A: The Roman numeral for 4 is iv.
+
+Q: What is the first letter of 'wellington'?
+A: The first letter of 'wellington' is W.
+
+Q: What is the last letter of 'lusaka'?
+A: The last letter of 'lusaka' is A.
+
+Q: What is the first letter of 'ngerulmud'?
+A: The first letter of 'ngerulmud' is N.
+
+Q: What is the last letter of 'molybdenum'?
+A: The last letter of 'molybdenum' is M.
+
+Q: What is the first letter of 'ruble'?
+A: The first letter of 'ruble' is R.
+
+Q: What is the first letter of 'australia'?
+A: The first letter of 'australia' is A.
+
+Q: What is the first letter of 'picked'?
+A: The first letter of 'picked' is P.
+
+Q: What is the first letter of 'rubidium'?
+A: The first letter of 'rubidium' is R.
+
+Q: Which is bigger, 98 or 81?
+A: 98 is bigger than 81.
+
+Q: Which is bigger, 900 or 305?
+A: 900 is bigger than 305.
+
+Q: Is 119 bigger than 917?
+A: No, 917 is bigger than 119.
+
+Q: Which is bigger, 13 or 14?
+A: 14 is bigger than 13.
+
+Q: Which is bigger, 6 or 12?
+A: 12 is bigger than 6.
+
+Q: Is 74 bigger than 58?
+A: Yes, 74 is bigger than 58.
+
+Q: Which is bigger, 277 or 140?
+A: 277 is bigger than 140.
+
+Q: Which is bigger, 454 or 242?
+A: 454 is bigger than 242.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is double 29?
+A: Double 29 is 58.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is double 33?
+A: Double 33 is 66.
+
+Q: What is double 41?
+A: Double 41 is 82.
+
+Q: What is double 20?
+A: Double 20 is 40.
+
+Q: What is half of 2?
+A: Half of 2 is 1.
