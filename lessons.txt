@@ -26259,3 +26259,146 @@ A: Double 29 is 58.
 
 Q: What is half of 40?
 A: Half of 40 is 20.
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: How many letters does the word 'jupiter' have?
+A: The word 'jupiter' has 7 letters.
+
+Q: How many letters does the word 'franc' have?
+A: The word 'franc' has 5 letters.
+
+Q: How many letters does the word 'raleigh' have?
+A: The word 'raleigh' has 7 letters.
+
+Q: How many letters does the word 'bogota' have?
+A: The word 'bogota' has 6 letters.
+
+Q: How many letters does the word 'ankara' have?
+A: The word 'ankara' has 6 letters.
+
+Q: How many letters does the word 'yaounde' have?
+A: The word 'yaounde' has 7 letters.
+
+Q: How many letters does the word 'train' have?
+A: The word 'train' has 5 letters.
+
+Q: How many letters does the word 'fragile' have?
+A: The word 'fragile' has 7 letters.
+
+Q: What is 12 plus 20?
+A: 12 plus 20 is 32.
+
+Q: What is 15 times 19?
+A: 15 times 19 is 285.
+
+Q: What is 14 minus 6?
+A: 14 minus 6 is 8.
+
+Q: What is 9 times 4?
+A: 9 times 4 is 36.
+
+Q: What is 12 times 8?
+A: 12 times 8 is 96.
+
+Q: What is 6 plus 19?
+A: 6 plus 19 is 25.
+
+Q: What is 80 minus 11?
+A: 80 minus 11 is 69.
+
+Q: What is 8 times 5?
+A: 8 times 5 is 40.
+
+Q: What continent is Bangladesh on?
+A: Bangladesh is on the continent of Asia.
+
+Q: What continent is New Zealand on?
+A: New Zealand is on the continent of Oceania.
+
+Q: What continent is the Central African Republic on?
+A: the Central African Republic is on the continent of Africa.
+
+Q: What continent is Micronesia on?
+A: Micronesia is on the continent of Oceania.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is Vietnam on?
+A: Vietnam is on the continent of Asia.
+
+Q: What continent is Mozambique on?
+A: Mozambique is on the continent of Africa.
+
+Q: What continent is Chile on?
+A: Chile is on the continent of South America.
+
+Q: What currency does the Bahamas use?
+A: The currency of the Bahamas is the dollar.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: What currency does Thailand use?
+A: The currency of Thailand is the baht.
+
+Q: What currency does South Africa use?
+A: The currency of South Africa is the rand.
+
+Q: What currency does Ukraine use?
+A: The currency of Ukraine is the hryvnia.
+
+Q: What currency does Ecuador use?
+A: The currency of Ecuador is the dollar.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
