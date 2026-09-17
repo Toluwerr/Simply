@@ -7920,3 +7920,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"74 plus 72 is be 4 is be 72 is bigger than 8."
 
+## Iteration 879 - NO_GAIN
+- **when**: 2026-09-17T20:52:27Z
+- **train loss**: 2.6442 | **val loss**: 1.7996 | **run best**: 1.2484
+- **corpus**: 285,539 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +23 facts (3,548 read all-time)
+- **lr**: 0.0004 | **steps**: 250
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Can you write in words?"
+

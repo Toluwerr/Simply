@@ -62693,3 +62693,170 @@ A: No, 66 is bigger than 65.
 
 Q: Is 13 bigger than 2?
 A: Yes, 13 is bigger than 2.
+Q: Which element has the chemical symbol Na?
+A: Na is the chemical symbol for sodium.
+
+Q: What is the chemical symbol for rhodium?
+A: The chemical symbol for rhodium is Rh.
+
+Q: What is the chemical symbol for silver?
+A: The chemical symbol for silver is Ag.
+
+Q: What is the chemical symbol for carbon?
+A: The chemical symbol for carbon is C.
+
+Q: Which element has the chemical symbol Se?
+A: Se is the chemical symbol for selenium.
+
+Q: What is the chemical symbol for tellurium?
+A: The chemical symbol for tellurium is Te.
+
+Q: Which element has the chemical symbol Sr?
+A: Sr is the chemical symbol for strontium.
+
+Q: Which element has the chemical symbol Li?
+A: Li is the chemical symbol for lithium.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Connecticut?
+A: Hartford is the capital of Connecticut.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
+
+Q: What is the capital of Finland?
+A: The capital of Finland is Helsinki.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is the capital of San Marino?
+A: The capital of San Marino is San Marino.
+
+Q: What is the capital of Bolivia?
+A: The capital of Bolivia is La Paz.
+
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+
+Q: What is the capital of Equatorial Guinea?
+A: The capital of Equatorial Guinea is Malabo.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: Is 60 bigger than 40?
+A: Yes, 60 is bigger than 40.
+
+Q: Is 84 bigger than 11?
+A: Yes, 84 is bigger than 11.
+
+Q: Is 11 bigger than 5?
+A: Yes, 11 is bigger than 5.
+
+Q: Is 948 bigger than 366?
+A: Yes, 948 is bigger than 366.
+
+Q: Which is bigger, 2 or 16?
+A: 16 is bigger than 2.
+
+Q: Is 592 bigger than 453?
+A: Yes, 592 is bigger than 453.
+
+Q: Which is bigger, 50 or 30?
+A: 50 is bigger than 30.
+
+Q: Is 7 bigger than 17?
+A: No, 17 is bigger than 7.
+
+Q: How do you write 19 in words?
+A: 19 in words is nineteen.
+
+Q: How do you write 19 in words?
+A: 19 in words is nineteen.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 29 in words?
+A: 29 in words is twenty-nine.
+
+Q: How do you write 62 in words?
+A: 62 in words is sixty-two.
+
+Q: How do you write 55 in words?
+A: 55 in words is fifty-five.
+
+Q: How do you write 6 in words?
+A: 6 in words is six.
+
+Q: How do you write 37 in words?
+A: 37 in words is thirty-seven.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
