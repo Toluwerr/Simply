@@ -3700,3 +3700,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.57 | weakest: arithmetic 0.00, sort 0.00, double_half 0.00 | strongest: opposites 1.00, animals 1.00, records 1.00
 - self-portrait, asked "Who are you?": *"I am running a by too-imes, itself itself-improvement loop."
 
+## Iteration 423 - IMPROVED
+- **when**: 2026-09-17T02:44:13Z
+- **train loss**: 2.8775 | **val loss**: 2.4238 | **run best**: 2.4238
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +28 facts (955 read all-time)
+- **lr**: 0.0030 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"How min shortet aro yan numeral sow many letters does the Romey are 20."
+
