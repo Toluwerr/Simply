@@ -48359,3 +48359,170 @@ A: 15 is bigger than 6.
 
 Q: Which is bigger, 936 or 418?
 A: 936 is bigger than 418.
+Q: Is 31 bigger than 28?
+A: Yes, 31 is bigger than 28.
+
+Q: Is 16 bigger than 83?
+A: No, 83 is bigger than 16.
+
+Q: Is 10 bigger than 7?
+A: Yes, 10 is bigger than 7.
+
+Q: Which is bigger, 19 or 15?
+A: 19 is bigger than 15.
+
+Q: Is 52 bigger than 90?
+A: No, 90 is bigger than 52.
+
+Q: Which is bigger, 40 or 34?
+A: 40 is bigger than 34.
+
+Q: Is 41 bigger than 81?
+A: No, 81 is bigger than 41.
+
+Q: Which is bigger, 8 or 9?
+A: 9 is bigger than 8.
+
+Q: How many letters does the word 'bissau' have?
+A: The word 'bissau' has 6 letters.
+
+Q: How many letters does the word 'tunisia' have?
+A: The word 'tunisia' has 7 letters.
+
+Q: How many letters does the word 'wellington' have?
+A: The word 'wellington' has 10 letters.
+
+Q: How many letters does the word 'krypton' have?
+A: The word 'krypton' has 7 letters.
+
+Q: How many letters does the word 'short' have?
+A: The word 'short' has 5 letters.
+
+Q: How many letters does the word 'salt' have?
+A: The word 'salt' has 4 letters.
+
+Q: How many letters does the word 'kathmandu' have?
+A: The word 'kathmandu' has 9 letters.
+
+Q: How many letters does the word 'rome' have?
+A: The word 'rome' has 4 letters.
+
+Q: How do you sort 24, 29, and 8?
+A: In order, they are 8 24 29.
+
+Q: How do you sort 4, 1, and 9?
+A: In order, they are 1 4 9.
+
+Q: How do you sort 4, 29, and 21?
+A: In order, they are 4 21 29.
+
+Q: How do you sort 428, 131, and 504?
+A: In order, they are 131 428 504.
+
+Q: How do you sort 27, 26, and 18?
+A: In order, they are 18 26 27.
+
+Q: How do you sort 17, 27, and 29?
+A: In order, they are 17 27 29.
+
+Q: How do you sort 523, 384, and 769?
+A: In order, they are 384 523 769.
+
+Q: How do you sort 396, 586, and 351?
+A: In order, they are 351 396 586.
+
+Q: What continent is Mozambique on?
+A: Mozambique is on the continent of Africa.
+
+Q: What continent is New Zealand on?
+A: New Zealand is on the continent of Oceania.
+
+Q: What continent is the Philippines on?
+A: the Philippines is on the continent of Asia.
+
+Q: What continent is the United States on?
+A: the United States is on the continent of North America.
+
+Q: What continent is South Korea on?
+A: South Korea is on the continent of Asia.
+
+Q: What continent is Serbia on?
+A: Serbia is on the continent of Europe.
+
+Q: What continent is Andorra on?
+A: Andorra is on the continent of Europe.
+
+Q: What continent is Australia on?
+A: Australia is on the continent of Australia.
+
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 55 in words?
+A: 55 in words is fifty-five.
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: How do you write 60 in words?
+A: 60 in words is sixty.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: What is the capital of the Netherlands?
+A: The capital of the Netherlands is Amsterdam.
+
+Q: What is the capital of Guinea-Bissau?
+A: The capital of Guinea-Bissau is Bissau.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of Cape Verde?
+A: The capital of Cape Verde is Praia.
+
+Q: What is the capital of Myanmar?
+A: The capital of Myanmar is Naypyidaw.
+
+Q: What is the capital of Bulgaria?
+A: The capital of Bulgaria is Sofia.
+
+Q: What is the capital of the Marshall Islands?
+A: The capital of the Marshall Islands is Majuro.
+
+Q: What is the capital of Saint Vincent and the Grenadines?
+A: The capital of Saint Vincent and the Grenadines is Kingstown.
