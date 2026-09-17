@@ -57899,3 +57899,170 @@ A: The capital of El Salvador is San Salvador.
 
 Q: What is the capital of Chile?
 A: The capital of Chile is Santiago.
+Q: Which is bigger, 9 or 18?
+A: 18 is bigger than 9.
+
+Q: Is 957 bigger than 521?
+A: Yes, 957 is bigger than 521.
+
+Q: Which is bigger, 767 or 552?
+A: 767 is bigger than 552.
+
+Q: Is 69 bigger than 84?
+A: No, 84 is bigger than 69.
+
+Q: Is 308 bigger than 196?
+A: Yes, 308 is bigger than 196.
+
+Q: Is 75 bigger than 12?
+A: Yes, 75 is bigger than 12.
+
+Q: Is 95 bigger than 94?
+A: Yes, 95 is bigger than 94.
+
+Q: Which is bigger, 495 or 474?
+A: 495 is bigger than 474.
+
+Q: How many letters does the word 'kazakhstan' have?
+A: The word 'kazakhstan' has 10 letters.
+
+Q: How many letters does the word 'giant' have?
+A: The word 'giant' has 5 letters.
+
+Q: How many letters does the word 'york' have?
+A: The word 'york' has 4 letters.
+
+Q: How many letters does the word 'rocket' have?
+A: The word 'rocket' has 6 letters.
+
+Q: How many letters does the word 'young' have?
+A: The word 'young' has 5 letters.
+
+Q: How many letters does the word 'narrow' have?
+A: The word 'narrow' has 6 letters.
+
+Q: How many letters does the word 'clean' have?
+A: The word 'clean' has 5 letters.
+
+Q: How many letters does the word 'paramaribo' have?
+A: The word 'paramaribo' has 10 letters.
+
+Q: How do you sort 14, 12, and 22?
+A: In order, they are 12 14 22.
+
+Q: How do you sort 383, 293, and 95?
+A: In order, they are 95 293 383.
+
+Q: How do you sort 573, 501, and 741?
+A: In order, they are 501 573 741.
+
+Q: How do you sort 77, 287, and 724?
+A: In order, they are 77 287 724.
+
+Q: How do you sort 23, 19, and 7?
+A: In order, they are 7 19 23.
+
+Q: How do you sort 892, 368, and 998?
+A: In order, they are 368 892 998.
+
+Q: How do you sort 24, 26, and 17?
+A: In order, they are 17 24 26.
+
+Q: How do you sort 16, 26, and 5?
+A: In order, they are 5 16 26.
+
+Q: What continent is Sri Lanka on?
+A: Sri Lanka is on the continent of Asia.
+
+Q: What continent is the Netherlands on?
+A: the Netherlands is on the continent of Europe.
+
+Q: What continent is Angola on?
+A: Angola is on the continent of Africa.
+
+Q: What continent is Bangladesh on?
+A: Bangladesh is on the continent of Asia.
+
+Q: What continent is Norway on?
+A: Norway is on the continent of Europe.
+
+Q: What continent is Tuvalu on?
+A: Tuvalu is on the continent of Oceania.
+
+Q: What continent is Rwanda on?
+A: Rwanda is on the continent of Africa.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 52 in words?
+A: 52 in words is fifty-two.
+
+Q: How do you write 81 in words?
+A: 81 in words is eighty-one.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: How do you write 37 in words?
+A: 37 in words is thirty-seven.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: What is the capital of Lithuania?
+A: The capital of Lithuania is Vilnius.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: What is the capital of Sweden?
+A: The capital of Sweden is Stockholm.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: What is the capital of Slovakia?
+A: The capital of Slovakia is Bratislava.
+
+Q: What is the capital of Malawi?
+A: The capital of Malawi is Lilongwe.
+
+Q: What is the capital of the Netherlands?
+A: The capital of the Netherlands is Amsterdam.
