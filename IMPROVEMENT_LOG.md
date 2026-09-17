@@ -6785,3 +6785,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: roman 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"Theital of South' is the capital of Do."
 
+## Promotion - v33 - weights promoted to Releases
+- **reason**: knowledge 0.09, was 0.00; val 1.3153
+- self-portrait, asked "Who are you?": *"78 is 0 plus 0 in a pin."
+
