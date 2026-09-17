@@ -2689,3 +2689,75 @@ A: International Business Machines Corporation is a multinational corporation sp
 
 Q: What is Business history?
 A: Business history is a historiographical field which examines the history of firms, business methods.
+
+Q: What is Artificial intelligence in education?
+A: Artificial intelligence in education is a subfield of educational technology that studies how to use artificial intelligence to create learning enviro.
+
+Q: What is Generative artificial intelligence?
+A: Generative artificial intelligence is a subfield of artificial intelligence that uses generative models to generate text, images, videos, audio.
+
+Q: What is Regulation of artificial intelligence?
+A: Regulation of artificial intelligence is the development of public sector policies and laws for promoting and regulating artificial intelligence .
+
+Q: What is AI governance?
+A: AI governance is a term used in policy, industry, and academic contexts to describe how AI systems are directed and overseen.
+
+Q: What is FC Bulat Cherepovets?
+A: FC Bulat Cherepovets is a Russian football team from Cherepovets.
+
+Q: What is Conor Corbett?
+A: Conor Corbett is an Irish Gaelic footballer who plays for Cork SAFC club Clyda Rovers and at inter-county level with the Cork senior football team.
+
+Q: What is Emilie Kirstine Valborg Sannom?
+A: Emilie Kirstine Valborg Sannom is a Danish silent film actress and aerial acrobat.
+
+Q: What is Nina Becker Nunes?
+A: Nina Becker Nunes is a Brazilian singer-songwriter.
+
+Q: What is Oasis Academy Oldham?
+A: Oasis Academy Oldham is a coeducational secondary school with academy status for 11- to 16-year-olds in the Hollinwood area of Oldham.
+
+Q: What is Victoria Milou Mackenzie?
+A: Victoria Milou Mackenzie is an American politician.
+
+Q: What is Catocala leechi?
+A: Catocala leechi is a moth of the family Erebidae first described by George Hampson in 1913.
+
+Q: What is Cicero's Brutus?
+A: Cicero's Brutus is a history of Roman oratory.
+
+Q: What is Kandreho?
+A: Kandreho is a municipality in western Madagascar in Betsiboka Region approximately 200 kilometres north-west of the capital Antananarivo.
+
+Q: What is Necessary?
+A: Necessary is a song by the Japanese J-pop group Every Little Thing, released as their tenth single on September 30.
+
+Q: What is Samuel Lines?
+A: Samuel Lines is an English designer, painter and art teacher, and an early member of the Birmingham School of landscape painters.
+
+Q: What is Law, Law  Potter?
+A: Law, Law  Potter is an architecture firm in Madison, Wisconsin Potter Lawson, Inc.
+
+Q: What is Hooke's law?
+A: Hooke's law is a first-order linear approximation to the real response of springs and other elastic bodies to applied forces.
+
+Q: What is Paschen's law?
+A: Paschen's law is an equation that gives the breakdown voltage- the voltage necessary to start a discharge or electric arc -between two electrodes in a.
+
+Q: What is Hanlon's razor?
+A: Hanlon's razor is an adage or rule of thumb that states, Never attribute to malice that which is adequately explained by stupidity.
+
+Q: What is Brandolini's law?
+A: Brandolini's law is an Internet adage coined in 2013 by Italian programmer Alberto Brandolini.
+
+Q: What is Focker-in-Law?
+A: Focker-in-Law is an upcoming American comedy film written for the screen and directed by John Hamburg from a story by Hamburg, Ilana Glazer.
+
+Q: What is Law?
+A: Law is an American legal drama television series created by Steven Bochco and Terry Louise Fisher for NBC.
+
+Q: What is Campbell's law?
+A: Campbell's law is an adage developed by American psychologist and social scientist Donald T.
+
+Q: What is Roman law?
+A: Roman law is the legal system of ancient Rome, including the legal developments spanning over a thousand years of jurisprudence.

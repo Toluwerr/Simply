@@ -5290,3 +5290,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: val_loss 1.5021, was 1.5294
 - self-portrait, asked "Who are you?": *"In ordo you sort 1 in words is fort 9 in words?"
 
+## Iteration 593 - NO_GAIN
+- **when**: 2026-09-17T07:47:59Z
+- **train loss**: 1.9601 | **val loss**: 1.6850 | **run best**: 1.5021
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +59 articles, +24 facts (1,944 read all-time)
+- **lr**: 0.0015 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Hows pluset plus 16 plus in a short story. The tumbit tiny key."
+

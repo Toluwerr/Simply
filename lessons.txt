@@ -48273,3 +48273,146 @@ A: The currency of Indonesia is the rupiah.
 
 Q: What currency does Fiji use?
 A: The currency of Fiji is the dollar.
+Q: How many letters does the word 'tennessee' have?
+A: The word 'tennessee' has 9 letters.
+
+Q: How many letters does the word 'clean' have?
+A: The word 'clean' has 5 letters.
+
+Q: How many letters does the word 'tobago' have?
+A: The word 'tobago' has 6 letters.
+
+Q: How many letters does the word 'canberra' have?
+A: The word 'canberra' has 8 letters.
+
+Q: How many letters does the word 'nashville' have?
+A: The word 'nashville' has 9 letters.
+
+Q: How many letters does the word 'slovakia' have?
+A: The word 'slovakia' has 8 letters.
+
+Q: How many letters does the word 'cairo' have?
+A: The word 'cairo' has 5 letters.
+
+Q: How many letters does the word 'jose' have?
+A: The word 'jose' has 4 letters.
+
+Q: What is the first letter of 'quick'?
+A: The first letter of 'quick' is Q.
+
+Q: What is the last letter of 'estonia'?
+A: The last letter of 'estonia' is A.
+
+Q: What is the first letter of 'manila'?
+A: The first letter of 'manila' is M.
+
+Q: What is the last letter of 'berlin'?
+A: The last letter of 'berlin' is N.
+
+Q: What is the last letter of 'huge'?
+A: The last letter of 'huge' is E.
+
+Q: What is the last letter of 'afghani'?
+A: The last letter of 'afghani' is I.
+
+Q: What is the last letter of 'emirates'?
+A: The last letter of 'emirates' is S.
+
+Q: What is the first letter of 'bolivia'?
+A: The first letter of 'bolivia' is B.
+
+Q: How do you sort 680, 485, and 299?
+A: In order, they are 299 485 680.
+
+Q: How do you sort 19, 17, and 6?
+A: In order, they are 6 17 19.
+
+Q: How do you sort 453, 114, and 255?
+A: In order, they are 114 255 453.
+
+Q: How do you sort 706, 292, and 720?
+A: In order, they are 292 706 720.
+
+Q: How do you sort 64, 588, and 183?
+A: In order, they are 64 183 588.
+
+Q: How do you sort 425, 150, and 144?
+A: In order, they are 144 150 425.
+
+Q: How do you sort 433, 942, and 305?
+A: In order, they are 305 433 942.
+
+Q: How do you sort 25, 17, and 24?
+A: In order, they are 17 24 25.
+
+Q: Which is bigger, 9 or 8?
+A: 9 is bigger than 8.
+
+Q: Is 38 bigger than 52?
+A: No, 52 is bigger than 38.
+
+Q: Is 34 bigger than 62?
+A: No, 62 is bigger than 34.
+
+Q: Which is bigger, 14 or 3?
+A: 14 is bigger than 3.
+
+Q: Which is bigger, 13 or 12?
+A: 13 is bigger than 12.
+
+Q: Is 3 bigger than 10?
+A: No, 10 is bigger than 3.
+
+Q: Is 18 bigger than 21?
+A: No, 21 is bigger than 18.
+
+Q: Is 1 bigger than 5?
+A: No, 5 is bigger than 1.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: What is the capital of El Salvador?
+A: The capital of El Salvador is San Salvador.
+
+Q: What is the capital of Papua New Guinea?
+A: The capital of Papua New Guinea is Port Moresby.
+
+Q: What is the capital of Austria?
+A: The capital of Austria is Vienna.
+
+Q: What is the capital of Norway?
+A: The capital of Norway is Oslo.
+
+Q: What is the capital of Guinea?
+A: The capital of Guinea is Conakry.
+
+Q: What is the capital of Tuvalu?
+A: The capital of Tuvalu is Funafuti.
+
+Q: What is the capital of Benin?
+A: The capital of Benin is Porto-Novo.
+
+Q: What is the capital of Uzbekistan?
+A: The capital of Uzbekistan is Tashkent.
