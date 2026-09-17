@@ -48726,3 +48726,170 @@ A: Yes, 98 is bigger than 37.
 
 Q: Which is bigger, 9 or 5?
 A: 9 is bigger than 5.
+Q: Is 167 bigger than 199?
+A: No, 199 is bigger than 167.
+
+Q: Which is bigger, 837 or 383?
+A: 837 is bigger than 383.
+
+Q: Which is bigger, 19 or 84?
+A: 84 is bigger than 19.
+
+Q: Is 950 bigger than 284?
+A: Yes, 950 is bigger than 284.
+
+Q: Which is bigger, 17 or 20?
+A: 20 is bigger than 17.
+
+Q: Which is bigger, 94 or 86?
+A: 94 is bigger than 86.
+
+Q: Which is bigger, 41 or 20?
+A: 41 is bigger than 20.
+
+Q: Is 15 bigger than 12?
+A: Yes, 15 is bigger than 12.
+
+Q: How many letters does the word 'senegal' have?
+A: The word 'senegal' has 7 letters.
+
+Q: How many letters does the word 'boise' have?
+A: The word 'boise' has 5 letters.
+
+Q: How many letters does the word 'lebanon' have?
+A: The word 'lebanon' has 7 letters.
+
+Q: How many letters does the word 'suva' have?
+A: The word 'suva' has 4 letters.
+
+Q: How many letters does the word 'rica' have?
+A: The word 'rica' has 4 letters.
+
+Q: How many letters does the word 'papua' have?
+A: The word 'papua' has 5 letters.
+
+Q: How many letters does the word 'vanadium' have?
+A: The word 'vanadium' has 8 letters.
+
+Q: How many letters does the word 'burundi' have?
+A: The word 'burundi' has 7 letters.
+
+Q: How do you sort 256, 584, and 812?
+A: In order, they are 256 584 812.
+
+Q: How do you sort 20, 4, and 5?
+A: In order, they are 4 5 20.
+
+Q: How do you sort 9, 14, and 27?
+A: In order, they are 9 14 27.
+
+Q: How do you sort 10, 6, and 27?
+A: In order, they are 6 10 27.
+
+Q: How do you sort 8, 19, and 26?
+A: In order, they are 8 19 26.
+
+Q: How do you sort 526, 592, and 806?
+A: In order, they are 526 592 806.
+
+Q: How do you sort 344, 452, and 180?
+A: In order, they are 180 344 452.
+
+Q: How do you sort 297, 199, and 440?
+A: In order, they are 199 297 440.
+
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: What continent is Cameroon on?
+A: Cameroon is on the continent of Africa.
+
+Q: What continent is Poland on?
+A: Poland is on the continent of Europe.
+
+Q: What continent is Sierra Leone on?
+A: Sierra Leone is on the continent of Africa.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is Moldova on?
+A: Moldova is on the continent of Europe.
+
+Q: What continent is Yemen on?
+A: Yemen is on the continent of Asia.
+
+Q: What continent is Paraguay on?
+A: Paraguay is on the continent of South America.
+
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 67 in words?
+A: 67 in words is sixty-seven.
+
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: How do you write 2 in words?
+A: 2 in words is two.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: What is the capital of Belgium?
+A: The capital of Belgium is Brussels.
+
+Q: What is the capital of Nepal?
+A: The capital of Nepal is Kathmandu.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+
+Q: What is the capital of Algeria?
+A: The capital of Algeria is Algiers.
+
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What is the capital of Guatemala?
+A: The capital of Guatemala is Guatemala City.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
