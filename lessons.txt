@@ -28310,3 +28310,170 @@ A: 19 is bigger than 13.
 
 Q: Is 61 bigger than 80?
 A: No, 80 is bigger than 61.
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: How do you write 30 in words?
+A: 30 in words is thirty.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 69 in words?
+A: 69 in words is sixty-nine.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 63 in words?
+A: 63 in words is sixty-three.
+
+Q: How do you write 1 in words?
+A: 1 in words is one.
+
+Q: What currency does Portugal use?
+A: The currency of Portugal is the euro.
+
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Gambia use?
+A: The currency of Gambia is the dalasi.
+
+Q: What currency does Guatemala use?
+A: The currency of Guatemala is the quetzal.
+
+Q: What currency does India use?
+A: The currency of India is the rupee.
+
+Q: What currency does Argentina use?
+A: The currency of Argentina is the peso.
+
+Q: What currency does Mexico use?
+A: The currency of Mexico is the peso.
+
+Q: What currency does Canada use?
+A: The currency of Canada is the dollar.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Connecticut?
+A: Hartford is the capital of Connecticut.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: How do you sort 2, 21, and 13?
+A: In order, they are 2 13 21.
+
+Q: How do you sort 645, 190, and 462?
+A: In order, they are 190 462 645.
+
+Q: How do you sort 537, 792, and 791?
+A: In order, they are 537 791 792.
+
+Q: How do you sort 2, 26, and 13?
+A: In order, they are 2 13 26.
+
+Q: How do you sort 14, 25, and 24?
+A: In order, they are 14 24 25.
+
+Q: How do you sort 68, 282, and 108?
+A: In order, they are 68 108 282.
+
+Q: How do you sort 539, 849, and 894?
+A: In order, they are 539 849 894.
+
+Q: How do you sort 3, 23, and 14?
+A: In order, they are 3 14 23.
+
+Q: What is the last letter of 'jose'?
+A: The last letter of 'jose' is E.
+
+Q: What is the first letter of 'brunei'?
+A: The first letter of 'brunei' is B.
+
+Q: What is the last letter of 'mississippi'?
+A: The last letter of 'mississippi' is I.
+
+Q: What is the first letter of 'gaborone'?
+A: The first letter of 'gaborone' is G.
+
+Q: What is the last letter of 'juba'?
+A: The last letter of 'juba' is A.
+
+Q: What is the first letter of 'turkey'?
+A: The first letter of 'turkey' is T.
+
+Q: What is the last letter of 'forint'?
+A: The last letter of 'forint' is T.
+
+Q: What is the first letter of 'manganese'?
+A: The first letter of 'manganese' is M.
