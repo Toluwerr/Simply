@@ -41261,3 +41261,170 @@ A: The last letter of 'bulgaria' is A.
 
 Q: What is the last letter of 'euro'?
 A: The last letter of 'euro' is O.
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: How do you sort 274, 473, and 399?
+A: In order, they are 274 399 473.
+
+Q: How do you sort 950, 586, and 158?
+A: In order, they are 158 586 950.
+
+Q: How do you sort 7, 20, and 5?
+A: In order, they are 5 7 20.
+
+Q: How do you sort 7, 12, and 17?
+A: In order, they are 7 12 17.
+
+Q: How do you sort 930, 881, and 603?
+A: In order, they are 603 881 930.
+
+Q: How do you sort 6, 26, and 8?
+A: In order, they are 6 8 26.
+
+Q: How do you sort 20, 1, and 17?
+A: In order, they are 1 17 20.
+
+Q: How do you sort 865, 15, and 699?
+A: In order, they are 15 699 865.
+
+Q: What is the last letter of 'faso'?
+A: The last letter of 'faso' is O.
+
+Q: What is the last letter of 'salt'?
+A: The last letter of 'salt' is T.
+
+Q: What is the last letter of 'verde'?
+A: The last letter of 'verde' is E.
+
+Q: What is the last letter of 'naira'?
+A: The last letter of 'naira' is A.
+
+Q: What is the first letter of 'dry'?
+A: The first letter of 'dry' is D.
+
+Q: What is the first letter of 'maryland'?
+A: The first letter of 'maryland' is M.
+
+Q: What is the first letter of 'lemon'?
+A: The first letter of 'lemon' is L.
+
+Q: What is the last letter of 'iraq'?
+A: The last letter of 'iraq' is Q.
+
+Q: What continent is Gambia on?
+A: Gambia is on the continent of Africa.
+
+Q: What continent is Norway on?
+A: Norway is on the continent of Europe.
+
+Q: What continent is Israel on?
+A: Israel is on the continent of Asia.
+
+Q: What continent is Italy on?
+A: Italy is on the continent of Europe.
+
+Q: What continent is Nauru on?
+A: Nauru is on the continent of Oceania.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is Qatar on?
+A: Qatar is on the continent of Asia.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: What is the capital of Bulgaria?
+A: The capital of Bulgaria is Sofia.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of Somalia?
+A: The capital of Somalia is Mogadishu.
+
+Q: What is the capital of the Bahamas?
+A: The capital of the Bahamas is Nassau.
+
+Q: What is the capital of Palau?
+A: The capital of Palau is Ngerulmud.
+
+Q: What is the capital of Malaysia?
+A: The capital of Malaysia is Kuala Lumpur.
+
+Q: What is the capital of Zambia?
+A: The capital of Zambia is Lusaka.
+
+Q: What is the capital of Bulgaria?
+A: The capital of Bulgaria is Sofia.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by fives from 30 to 40?
+A: Counting by fives gives 30 35 40.
+
+Q: Can you count by ones from 10 to 15?
+A: Counting by ones gives 10 11 12 13 14 15.
+
+Q: Can you count by ones from 25 to 30?
+A: Counting by ones gives 25 26 27 28 29 30.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by ones from 35 to 40?
+A: Counting by ones gives 35 36 37 38 39 40.
+
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 25 30 35.
+
+Q: Is 20 bigger than 13?
+A: Yes, 20 is bigger than 13.
+
+Q: Which is bigger, 8 or 3?
+A: 8 is bigger than 3.
+
+Q: Which is bigger, 18 or 9?
+A: 18 is bigger than 9.
+
+Q: Which is bigger, 270 or 505?
+A: 505 is bigger than 270.
+
+Q: Which is bigger, 804 or 830?
+A: 830 is bigger than 804.
+
+Q: Which is bigger, 5 or 9?
+A: 9 is bigger than 5.
+
+Q: Is 13 bigger than 9?
+A: Yes, 13 is bigger than 9.
+
+Q: Which is bigger, 934 or 396?
+A: 934 is bigger than 396.
