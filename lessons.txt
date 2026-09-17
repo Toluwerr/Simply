@@ -56969,3 +56969,170 @@ A: 95 is bigger than 40.
 
 Q: Is 93 bigger than 31?
 A: Yes, 93 is bigger than 31.
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What continent is Tajikistan on?
+A: Tajikistan is on the continent of Asia.
+
+Q: What continent is Sierra Leone on?
+A: Sierra Leone is on the continent of Africa.
+
+Q: What continent is Mozambique on?
+A: Mozambique is on the continent of Africa.
+
+Q: What continent is Mongolia on?
+A: Mongolia is on the continent of Asia.
+
+Q: What continent is Nauru on?
+A: Nauru is on the continent of Oceania.
+
+Q: What continent is Cambodia on?
+A: Cambodia is on the continent of Asia.
+
+Q: What continent is Benin on?
+A: Benin is on the continent of Africa.
+
+Q: What continent is Bhutan on?
+A: Bhutan is on the continent of Asia.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: What is the capital of Nepal?
+A: The capital of Nepal is Kathmandu.
+
+Q: What is the capital of Grenada?
+A: The capital of Grenada is Saint George's.
+
+Q: What is the capital of North Korea?
+A: The capital of North Korea is Pyongyang.
+
+Q: What is the capital of Tajikistan?
+A: The capital of Tajikistan is Dushanbe.
+
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+
+Q: What is the capital of Mongolia?
+A: The capital of Mongolia is Ulaanbaatar.
+
+Q: What is the capital of Zambia?
+A: The capital of Zambia is Lusaka.
+
+Q: What is the capital of Bulgaria?
+A: The capital of Bulgaria is Sofia.
+
+Q: How do you write 37 in words?
+A: 37 in words is thirty-seven.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you sort 268, 519, and 22?
+A: In order, they are 22 268 519.
+
+Q: How do you sort 27, 24, and 18?
+A: In order, they are 18 24 27.
+
+Q: How do you sort 4, 5, and 2?
+A: In order, they are 2 4 5.
+
+Q: How do you sort 134, 777, and 852?
+A: In order, they are 134 777 852.
+
+Q: How do you sort 5, 19, and 27?
+A: In order, they are 5 19 27.
+
+Q: How do you sort 4, 1, and 14?
+A: In order, they are 1 4 14.
+
+Q: How do you sort 3, 24, and 5?
+A: In order, they are 3 5 24.
+
+Q: How do you sort 364, 206, and 128?
+A: In order, they are 128 206 364.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
