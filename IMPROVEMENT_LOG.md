@@ -7395,3 +7395,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.09 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: first_last 1.00, letters 1.00, reading 0.00
 - self-portrait, asked "Who are you?": *"11 in ordthia4 in words is fun?"
 
+## Iteration 822 - NO_GAIN
+- **when**: 2026-09-17T18:33:54Z
+- **train loss**: 2.4881 | **val loss**: 1.3385 | **run best**: 1.2479
+- **corpus**: 284,819 chars (+0 self-written examples)
+- **internet reading**: +53 articles, +22 facts (3,221 read all-time)
+- **lr**: 0.0004 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Mad-nine is eighty-s of America is on the continent of Bel arealia."
+

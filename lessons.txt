@@ -53606,3 +53606,170 @@ A: The first letter of 'fish' is F.
 
 Q: What is the last letter of 'dirham'?
 A: The last letter of 'dirham' is M.
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: How do you sort 810, 663, and 252?
+A: In order, they are 252 663 810.
+
+Q: How do you sort 24, 26, and 10?
+A: In order, they are 10 24 26.
+
+Q: How do you sort 209, 141, and 567?
+A: In order, they are 141 209 567.
+
+Q: How do you sort 19, 20, and 9?
+A: In order, they are 9 19 20.
+
+Q: How do you sort 353, 980, and 152?
+A: In order, they are 152 353 980.
+
+Q: How do you sort 539, 292, and 191?
+A: In order, they are 191 292 539.
+
+Q: How do you sort 25, 18, and 15?
+A: In order, they are 15 18 25.
+
+Q: How do you sort 187, 817, and 537?
+A: In order, they are 187 537 817.
+
+Q: What continent is Namibia on?
+A: Namibia is on the continent of Africa.
+
+Q: What continent is Lebanon on?
+A: Lebanon is on the continent of Asia.
+
+Q: What continent is Lithuania on?
+A: Lithuania is on the continent of Europe.
+
+Q: What continent is France on?
+A: France is on the continent of Europe.
+
+Q: What continent is Iceland on?
+A: Iceland is on the continent of Europe.
+
+Q: What continent is Nauru on?
+A: Nauru is on the continent of Oceania.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is Guyana on?
+A: Guyana is on the continent of South America.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of Ecuador?
+A: The capital of Ecuador is Quito.
+
+Q: What is the capital of Taiwan?
+A: The capital of Taiwan is Taipei.
+
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+
+Q: What is the capital of Uruguay?
+A: The capital of Uruguay is Montevideo.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
+
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 25 30 35.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by twos from 36 to 40?
+A: Counting by twos gives 36 38 40.
+
+Q: Can you count by twos from 10 to 16?
+A: Counting by twos gives 10 12 14 16.
+
+Q: Can you count by ones from 27 to 30?
+A: Counting by ones gives 27 28 29 30.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by twos from 38 to 48?
+A: Counting by twos gives 38 40 42 44 46 48.
+
+Q: Can you count by twos from 28 to 38?
+A: Counting by twos gives 28 30 32 34 36 38.
+
+Q: Which is bigger, 170 or 644?
+A: 644 is bigger than 170.
+
+Q: Which is bigger, 68 or 47?
+A: 68 is bigger than 47.
+
+Q: Is 8 bigger than 5?
+A: Yes, 8 is bigger than 5.
+
+Q: Which is bigger, 1 or 2?
+A: 2 is bigger than 1.
+
+Q: Is 409 bigger than 319?
+A: Yes, 409 is bigger than 319.
+
+Q: Is 79 bigger than 61?
+A: Yes, 79 is bigger than 61.
+
+Q: Which is bigger, 17 or 8?
+A: 17 is bigger than 8.
+
+Q: Which is bigger, 18 or 2?
+A: 18 is bigger than 2.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What is double 33?
+A: Double 33 is 66.
+
+Q: What is double 40?
+A: Double 40 is 80.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is double 52?
+A: Double 52 is 104.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
