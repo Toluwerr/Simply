@@ -38962,3 +38962,170 @@ A: The Nile is the longest river in the world.
 
 Q: What is the boiling point of water?
 A: Water boils at 100 degrees Celsius.
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many hours are in a week?
+A: There are 168 hours in a week.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many days are in a year?
+A: There are 365 days in a year.
+
+Q: What is the capital of Saint Lucia?
+A: The capital of Saint Lucia is Castries.
+
+Q: What is the capital of Armenia?
+A: The capital of Armenia is Yerevan.
+
+Q: What is the capital of Switzerland?
+A: The capital of Switzerland is Bern.
+
+Q: What is the capital of Brazil?
+A: The capital of Brazil is Brasilia.
+
+Q: What is the capital of Equatorial Guinea?
+A: The capital of Equatorial Guinea is Malabo.
+
+Q: What is the capital of the Dominican Republic?
+A: The capital of the Dominican Republic is Santo Domingo.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of Ethiopia?
+A: The capital of Ethiopia is Addis Ababa.
+
+Q: What is 12 times 6?
+A: 12 times 6 is 72.
+
+Q: What is 11 times 18?
+A: 11 times 18 is 198.
+
+Q: What is 4 times 5?
+A: 4 times 5 is 20.
+
+Q: What is 12 times 13?
+A: 12 times 13 is 156.
+
+Q: What is 59 minus 50?
+A: 59 minus 50 is 9.
+
+Q: What is 679 minus 321?
+A: 679 minus 321 is 358.
+
+Q: What is 626 plus 318?
+A: 626 plus 318 is 944.
+
+Q: What is 939 minus 183?
+A: 939 minus 183 is 756.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: How many letters does the word 'islands' have?
+A: The word 'islands' has 7 letters.
+
+Q: How many letters does the word 'sofia' have?
+A: The word 'sofia' has 5 letters.
+
+Q: How many letters does the word 'messy' have?
+A: The word 'messy' has 5 letters.
+
+Q: How many letters does the word 'bottle' have?
+A: The word 'bottle' has 6 letters.
+
+Q: How many letters does the word 'dirty' have?
+A: The word 'dirty' has 5 letters.
+
+Q: How many letters does the word 'dover' have?
+A: The word 'dover' has 5 letters.
+
+Q: How many letters does the word 'kabul' have?
+A: The word 'kabul' has 5 letters.
+
+Q: How many letters does the word 'italy' have?
+A: The word 'italy' has 5 letters.
+
+Q: What is the last letter of 'seoul'?
+A: The last letter of 'seoul' is L.
+
+Q: What is the first letter of 'weak'?
+A: The first letter of 'weak' is W.
+
+Q: What is the first letter of 'indium'?
+A: The first letter of 'indium' is I.
+
+Q: What is the last letter of 'nicosia'?
+A: The last letter of 'nicosia' is A.
+
+Q: What is the first letter of 'lanka'?
+A: The first letter of 'lanka' is L.
+
+Q: What is the first letter of 'indiana'?
+A: The first letter of 'indiana' is I.
+
+Q: What is the first letter of 'house'?
+A: The first letter of 'house' is H.
+
+Q: What is the last letter of 'wet'?
+A: The last letter of 'wet' is T.
+
+Q: Which is bigger, 731 or 593?
+A: 731 is bigger than 593.
+
+Q: Which is bigger, 17 or 14?
+A: 17 is bigger than 14.
+
+Q: Is 230 bigger than 206?
+A: Yes, 230 is bigger than 206.
+
+Q: Is 657 bigger than 266?
+A: Yes, 657 is bigger than 266.
+
+Q: Is 93 bigger than 19?
+A: Yes, 93 is bigger than 19.
+
+Q: Which is bigger, 790 or 422?
+A: 790 is bigger than 422.
+
+Q: Is 766 bigger than 891?
+A: No, 891 is bigger than 766.
+
+Q: Is 54 bigger than 82?
+A: No, 82 is bigger than 54.
