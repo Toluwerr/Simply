@@ -27566,3 +27566,128 @@ A: Mars is the fourth planet from the sun.
 
 Q: Which planet is fourth from the sun?
 A: Mars is the fourth planet from the sun.
+Q: What is 37 minus 28?
+A: 37 minus 28 is 9.
+
+Q: What is 2 times 2?
+A: 2 times 2 is 4.
+
+Q: What is 525 plus 369?
+A: 525 plus 369 is 894.
+
+Q: What is 19 minus 9?
+A: 19 minus 9 is 10.
+
+Q: What is 541 plus 926?
+A: 541 plus 926 is 1467.
+
+Q: What is 7 times 7?
+A: 7 times 7 is 49.
+
+Q: How many planets are there?
+A: There are 8 planets.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What is the biggest animal?
+A: The blue whale is the biggest animal.
+
+Q: What is the biggest hot desert?
+A: The Sahara is the biggest hot desert.
+
+Q: What is the Roman numeral for 431?
+A: The Roman numeral for 431 is cdxxxi.
+
+Q: What is the Roman numeral for 198?
+A: The Roman numeral for 198 is cxcviii.
+
+Q: What number is the Roman numeral lxxxiii?
+A: The Roman numeral lxxxiii is the number 83.
+
+Q: What number is the Roman numeral xxxiii?
+A: The Roman numeral xxxiii is the number 33.
+
+Q: What number is the Roman numeral xvi?
+A: The Roman numeral xvi is the number 16.
+
+Q: What number is the Roman numeral xxxiv?
+A: The Roman numeral xxxiv is the number 34.
+
+Q: What is the chemical symbol for nickel?
+A: The chemical symbol for nickel is Ni.
+
+Q: What is the chemical symbol for krypton?
+A: The chemical symbol for krypton is Kr.
+
+Q: What is the chemical symbol for chlorine?
+A: The chemical symbol for chlorine is Cl.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Os.
+
+Q: Which element has the chemical symbol He?
+A: He is the chemical symbol for helium.
+
+Q: What is the chemical symbol for krypton?
+A: The chemical symbol for krypton is Kr.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.

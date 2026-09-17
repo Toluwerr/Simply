@@ -10427,3 +10427,7 @@ A: In order, they are 4 20 21 25 27 25.
 
 Q: Which is bigger, 2 or 12?
 A: 12 is bigger than 5.
+
+
+Q: What continent is Switzerland on?
+A: North Amerland is on the continent of Europe.

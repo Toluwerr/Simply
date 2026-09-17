@@ -2876,3 +2876,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: months 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"I am data, goes not bird days, or psychological and I hind has garbgs, and has no and has never, a day hoters my applications... How many letters does the word 't'plan' have?"
 
+## Iteration 335 - IMPROVED
+- **when**: 2026-09-17T00:38:58Z
+- **train loss**: 1.1826 | **val loss**: 0.7146 | **run best**: 0.7146
+- **corpus**: 229,861 chars (+1 self-written examples)
+- **internet reading**: +36 articles, +28 facts (632 read all-time)
+- **lr**: 0.0015 | **steps**: 50
+- **knowledge quiz**: avg 0.13 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: units 1.00, capitals 1.00, count 1.00
+- self-portrait, asked "Who are you?": *"Oceanuples, use they are 20 31."
+
