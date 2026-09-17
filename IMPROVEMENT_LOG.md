@@ -3391,3 +3391,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a tiny AI model that of that trains with sof you!"
 
+## Promotion - v8 - weights committed
+- **reason**: knowledge 0.74, was 0.70; val 0.5542
+- self-portrait, asked "Who are you?": *"I am a small says, bit with a brain."
+
