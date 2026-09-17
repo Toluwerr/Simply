@@ -44266,3 +44266,170 @@ A: 22 is bigger than 11.
 
 Q: Is 1 bigger than 20?
 A: No, 20 is bigger than 1.
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a sheep make?
+A: A sheep says 'baa'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: How do you write 30 in words?
+A: 30 in words is thirty.
+
+Q: How do you write 44 in words?
+A: 44 in words is forty-four.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: How do you write 97 in words?
+A: 97 in words is ninety-seven.
+
+Q: How do you write 35 in words?
+A: 35 in words is thirty-five.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 49 in words?
+A: 49 in words is forty-nine.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Cuba use?
+A: The currency of Cuba is the peso.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: What currency does Botswana use?
+A: The currency of Botswana is the pula.
+
+Q: What currency does Panama use?
+A: The currency of Panama is the balboa.
+
+Q: What currency does Slovakia use?
+A: The currency of Slovakia is the euro.
+
+Q: What currency does Hungary use?
+A: The currency of Hungary is the forint.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Connecticut?
+A: Hartford is the capital of Connecticut.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: How do you sort 810, 83, and 219?
+A: In order, they are 83 219 810.
+
+Q: How do you sort 653, 880, and 221?
+A: In order, they are 221 653 880.
+
+Q: How do you sort 683, 693, and 492?
+A: In order, they are 492 683 693.
+
+Q: How do you sort 700, 126, and 763?
+A: In order, they are 126 700 763.
+
+Q: How do you sort 23, 17, and 4?
+A: In order, they are 4 17 23.
+
+Q: How do you sort 18, 21, and 17?
+A: In order, they are 17 18 21.
+
+Q: How do you sort 23, 1, and 22?
+A: In order, they are 1 22 23.
+
+Q: How do you sort 924, 542, and 94?
+A: In order, they are 94 542 924.
+
+Q: What is the last letter of 'ireland'?
+A: The last letter of 'ireland' is D.
+
+Q: What is the last letter of 'still'?
+A: The last letter of 'still' is L.
+
+Q: What is the last letter of 'lome'?
+A: The last letter of 'lome' is E.
+
+Q: What is the last letter of 'wisconsin'?
+A: The last letter of 'wisconsin' is N.
+
+Q: What is the first letter of 'rwanda'?
+A: The first letter of 'rwanda' is R.
+
+Q: What is the last letter of 'finland'?
+A: The last letter of 'finland' is D.
+
+Q: What is the first letter of 'rock'?
+A: The first letter of 'rock' is R.
+
+Q: What is the last letter of 'paramaribo'?
+A: The last letter of 'paramaribo' is O.
