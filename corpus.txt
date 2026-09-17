@@ -10011,3 +10011,37 @@ A: No, 18 is bigger than 3.
 
 Q: Which is bigger, 209 or 129?
 A: 209 is bigger than 124.
+
+
+Q: What is 6 times 0?
+A: 6 times 0 is 0 is 0.
+
+Q: How much is 46 plus 65?
+A: 46 plus 65 is 111.
+
+Q: How do you sort 13, 11, and 22?
+A: In order, they are 11 13 22.
+
+Q: What is half of 14?
+A: Half of 14 is 7.
+
+Q: How do you sort 18, 12, and 1?
+A: In order, they are 1 12 18.
+
+Q: How do you sort 5, 21, and 24?
+A: In order, they are 5 21 24.
+
+Q: What is the first letter of 'argon'?
+A: The first letter of 'argon' is A.
+
+Q: Which is bigger, 17 or 75?
+A: 75 is bigger than 17.
+
+Q: What is the first letter of 'harare'?
+A: The first letter of 'henium' is H.
+
+Q: What is the first letter of 'denmark'?
+A: The first letter of 'denmarsh' is D.
+
+Q: How do you sort 26, 8, and 9?
+A: In order, they are 8 9 26.

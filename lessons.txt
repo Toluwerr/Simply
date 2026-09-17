@@ -25800,3 +25800,110 @@ A: The first letter of 'calm' is C.
 
 Q: What is the first letter of 'dirty'?
 A: The first letter of 'dirty' is D.
+Q: Which element has the chemical symbol Ca?
+A: Ca is the chemical symbol for calcium.
+
+Q: Which element has the chemical symbol Pb?
+A: Pb is the chemical symbol for lead.
+
+Q: Which element has the chemical symbol Y?
+A: Y is the chemical symbol for yttrium.
+
+Q: Which element has the chemical symbol Dy?
+A: Dy is the chemical symbol for dysprosium.
+
+Q: Which element has the chemical symbol Nb?
+A: Nb is the chemical symbol for niobium.
+
+Q: Which element has the chemical symbol Au?
+A: Au is the chemical symbol for gold.
+
+Q: What currency does Mexico use?
+A: The currency of Mexico is the peso.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does Syria use?
+A: The currency of Syria is the pound.
+
+Q: What currency does the Czech Republic use?
+A: The currency of the Czech Republic is the koruna.
+
+Q: What currency does Algeria use?
+A: The currency of Algeria is the dinar.
+
+Q: What currency does Singapore use?
+A: The currency of Singapore is the dollar.
+
+Q: What is the first letter of 'argon'?
+A: The first letter of 'argon' is A.
+
+Q: What is the last letter of 'thulium'?
+A: The last letter of 'thulium' is M.
+
+Q: What is the first letter of 'kingstown'?
+A: The first letter of 'kingstown' is K.
+
+Q: What is the first letter of 'nouakchott'?
+A: The first letter of 'nouakchott' is N.
+
+Q: What is the last letter of 'honduras'?
+A: The last letter of 'honduras' is S.
+
+Q: What is the first letter of 'maseru'?
+A: The first letter of 'maseru' is M.
+
+Q: How do you sort 619, 998, and 433?
+A: In order, they are 433 619 998.
+
+Q: How do you sort 933, 776, and 155?
+A: In order, they are 155 776 933.
+
+Q: How do you sort 16, 19, and 2?
+A: In order, they are 2 16 19.
+
+Q: How do you sort 657, 961, and 85?
+A: In order, they are 85 657 961.
+
+Q: How do you sort 545, 877, and 887?
+A: In order, they are 545 877 887.
+
+Q: How do you sort 25, 8, and 1?
+A: In order, they are 1 8 25.
+
+Q: How many letters does the word 'antimony' have?
+A: The word 'antimony' has 8 letters.
+
+Q: How many letters does the word 'slovenia' have?
+A: The word 'slovenia' has 8 letters.
+
+Q: How many letters does the word 'respectful' have?
+A: The word 'respectful' has 10 letters.
+
+Q: How many letters does the word 'order' have?
+A: The word 'order' has 5 letters.
+
+Q: How many letters does the word 'lesotho' have?
+A: The word 'lesotho' has 7 letters.
+
+Q: How many letters does the word 'belmopan' have?
+A: The word 'belmopan' has 8 letters.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Montana?
+A: Helena is the capital of Montana.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
