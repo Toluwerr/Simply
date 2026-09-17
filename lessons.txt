@@ -59149,3 +59149,170 @@ A: The opposite of 'clean' is 'dirty'.
 
 Q: What is the opposite of 'wet'?
 A: The opposite of 'wet' is 'dry'.
+Q: What currency does Colombia use?
+A: The currency of Colombia is the peso.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does Zambia use?
+A: The currency of Zambia is the kwacha.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does the United Kingdom use?
+A: The currency of the United Kingdom is the pound.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does Uruguay use?
+A: The currency of Uruguay is the peso.
+
+Q: What currency does Estonia use?
+A: The currency of Estonia is the euro.
+
+Q: What is the Roman numeral for 704?
+A: The Roman numeral for 704 is dcciv.
+
+Q: What is the Roman numeral for 16?
+A: The Roman numeral for 16 is xvi.
+
+Q: What number is the Roman numeral lxxi?
+A: The Roman numeral lxxi is the number 71.
+
+Q: What is the Roman numeral for 95?
+A: The Roman numeral for 95 is xcv.
+
+Q: What number is the Roman numeral cdxix?
+A: The Roman numeral cdxix is the number 419.
+
+Q: What is the Roman numeral for 17?
+A: The Roman numeral for 17 is xvii.
+
+Q: What number is the Roman numeral dcccxcii?
+A: The Roman numeral dcccxcii is the number 892.
+
+Q: What number is the Roman numeral lxx?
+A: The Roman numeral lxx is the number 70.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: What is the capital of the US state Arkansas?
+A: Little Rock is the capital of Arkansas.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state Rhode Island?
+A: Providence is the capital of Rhode Island.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: What is 33 minus 21?
+A: 33 minus 21 is 12.
+
+Q: What is 849 minus 28?
+A: 849 minus 28 is 821.
+
+Q: What is 94 minus 68?
+A: 94 minus 68 is 26.
+
+Q: What is 16 minus 8?
+A: 16 minus 8 is 8.
+
+Q: What is 19 plus 18?
+A: 19 plus 18 is 37.
+
+Q: What is 9 times 9?
+A: 9 times 9 is 81.
+
+Q: What is 18 minus 16?
+A: 18 minus 16 is 2.
+
+Q: What is 14 times 17?
+A: 14 times 17 is 238.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means wild and aggressive.
