@@ -3328,3 +3328,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.61 | weakest: arithmetic 0.00, double_half 0.00, roman 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am w, set, which very I am for."
 
+## Iteration 383 - NO_GAIN
+- **when**: 2026-09-17T01:45:17Z
+- **train loss**: 1.2753 | **val loss**: 0.5705 | **run best**: 0.5551
+- **corpus**: 253,869 chars (+8 self-written examples)
+- **internet reading**: +27 articles, +12 facts (777 read all-time)
+- **lr**: 0.0004 | **steps**: 62
+- **knowledge quiz**: avg 0.61 | weakest: arithmetic 0.00, compare 0.00, double_half 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am with a joke whou joks!"
+

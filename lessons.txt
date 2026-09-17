@@ -16749,3 +16749,110 @@ A: The currency of Jamaica is the dollar.
 
 Q: What currency does Israel use?
 A: The currency of Israel is the shekel.
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of Nigeria?
+A: The capital of Nigeria is Abuja.
+
+Q: What is the capital of North Macedonia?
+A: The capital of North Macedonia is Skopje.
+
+Q: What is the capital of Kuwait?
+A: The capital of Kuwait is Kuwait City.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of Finland?
+A: The capital of Finland is Helsinki.
+
+Q: What number is the Roman numeral xc?
+A: The Roman numeral xc is the number 90.
+
+Q: What is the Roman numeral for 61?
+A: The Roman numeral for 61 is lxi.
+
+Q: What number is the Roman numeral cclxix?
+A: The Roman numeral cclxix is the number 269.
+
+Q: What number is the Roman numeral lxxxvi?
+A: The Roman numeral lxxxvi is the number 86.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What is the Roman numeral for 266?
+A: The Roman numeral for 266 is cclxvi.
+
+Q: How many letters does the word 'montana' have?
+A: The word 'montana' has 7 letters.
+
+Q: How many letters does the word 'niamey' have?
+A: The word 'niamey' has 6 letters.
+
+Q: How many letters does the word 'antananarivo' have?
+A: The word 'antananarivo' has 12 letters.
+
+Q: How many letters does the word 'short' have?
+A: The word 'short' has 5 letters.
+
+Q: How many letters does the word 'moo' have?
+A: The word 'moo' has 3 letters.
+
+Q: How many letters does the word 'mauritania' have?
+A: The word 'mauritania' has 10 letters.
+
+Q: What is double 50?
+A: Double 50 is 100.
+
+Q: What is half of 2?
+A: Half of 2 is 1.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is half of 58?
+A: Half of 58 is 29.
+
+Q: What is half of 36?
+A: Half of 36 is 18.
+
+Q: What is the most populous country?
+A: India is the most populous country.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: What is the freezing point of water?
+A: Water freezes at 0 degrees Celsius.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What is 5 minus 4?
+A: 5 minus 4 is 1.
+
+Q: What is 22 minus 21?
+A: 22 minus 21 is 1.
+
+Q: What is 576 plus 284?
+A: 576 plus 284 is 860.
+
+Q: What is 557 plus 468?
+A: 557 plus 468 is 1025.
+
+Q: What is 79 minus 57?
+A: 79 minus 57 is 22.
+
+Q: What is 4 times 11?
+A: 4 times 11 is 44.
