@@ -18979,3 +18979,110 @@ A: No, 67 is bigger than 46.
 
 Q: Which is bigger, 454 or 265?
 A: 454 is bigger than 265.
+Q: What is the capital of Albania?
+A: The capital of Albania is Tirana.
+
+Q: What is the capital of Bangladesh?
+A: The capital of Bangladesh is Dhaka.
+
+Q: What is the capital of Finland?
+A: The capital of Finland is Helsinki.
+
+Q: What is the capital of Jordan?
+A: The capital of Jordan is Amman.
+
+Q: What is the capital of Cameroon?
+A: The capital of Cameroon is Yaounde.
+
+Q: What is the capital of Slovakia?
+A: The capital of Slovakia is Bratislava.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What number is the Roman numeral xvi?
+A: The Roman numeral xvi is the number 16.
+
+Q: What number is the Roman numeral lxxxiv?
+A: The Roman numeral lxxxiv is the number 84.
+
+Q: What is the Roman numeral for 336?
+A: The Roman numeral for 336 is cccxxxvi.
+
+Q: What number is the Roman numeral xvi?
+A: The Roman numeral xvi is the number 16.
+
+Q: What number is the Roman numeral lxii?
+A: The Roman numeral lxii is the number 62.
+
+Q: What is the first letter of 'faso'?
+A: The first letter of 'faso' is F.
+
+Q: What is the last letter of 'congo'?
+A: The last letter of 'congo' is O.
+
+Q: What is the last letter of 'vermont'?
+A: The last letter of 'vermont' is T.
+
+Q: What is the first letter of 'metical'?
+A: The first letter of 'metical' is M.
+
+Q: What is the last letter of 'iceland'?
+A: The last letter of 'iceland' is D.
+
+Q: What is the last letter of 'hydrogen'?
+A: The last letter of 'hydrogen' is N.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Is 71 bigger than 80?
+A: No, 80 is bigger than 71.
+
+Q: Is 16 bigger than 10?
+A: Yes, 16 is bigger than 10.
+
+Q: Is 8 bigger than 10?
+A: No, 10 is bigger than 8.
+
+Q: Is 8 bigger than 15?
+A: No, 15 is bigger than 8.
+
+Q: Which is bigger, 858 or 809?
+A: 858 is bigger than 809.
+
+Q: Is 6 bigger than 16?
+A: No, 16 is bigger than 6.
+
+Q: Which element has the chemical symbol Co?
+A: Co is the chemical symbol for cobalt.
+
+Q: What is the chemical symbol for ruthenium?
+A: The chemical symbol for ruthenium is Ru.
+
+Q: What is the chemical symbol for manganese?
+A: The chemical symbol for manganese is Mn.
+
+Q: Which element has the chemical symbol Hg?
+A: Hg is the chemical symbol for mercury.
+
+Q: Which element has the chemical symbol Ir?
+A: Ir is the chemical symbol for iridium.
+
+Q: What is the chemical symbol for lanthanum?
+A: The chemical symbol for lanthanum is La.

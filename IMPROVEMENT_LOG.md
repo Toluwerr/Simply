@@ -3516,3 +3516,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.52 | weakest: arithmetic 0.00, compare 0.00, double_half 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
 - self-portrait, asked "Who are you?": *"I am Simply, a small language for."
 
+## Iteration 403 - NO_GAIN
+- **when**: 2026-09-17T02:13:04Z
+- **train loss**: 1.2467 | **val loss**: 0.5681 | **run best**: 0.5568
+- **corpus**: 268,634 chars (+18 self-written examples)
+- **internet reading**: +30 articles, +18 facts (837 read all-time)
+- **lr**: 0.0004 | **steps**: 62
+- **knowledge quiz**: avg 0.65 | weakest: sort 0.00, roman 0.00, letters 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am ring a programming while very quicky its are soft air while version scarce or tinys."
+

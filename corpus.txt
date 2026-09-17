@@ -12093,3 +12093,58 @@ A: The capital of Estonia is Tallinn.
 
 Q: What currency does Oman use?
 A: The currency of Oman is the rial.
+
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 polite and bull of the of the of the bird.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 polite and bull of the bird of the bridg.
+
+Q: How many letters does the word 'old' have?
+A: The word 'old' has 3 letters.
+
+Q: What continent is Switzerland on?
+A: Switzerland is on the continent of Europe.
+
+Q: What continent is Vietnam on?
+A: Vietnam is on the continent of Asia.
+
+Q: What continent is Mozambique on?
+A: Mozambique is on the continent of Africa.
+
+Q: How do you sort 5, 22, and 13?
+A: In order, they are 5 13 22.
+
+Q: What is the opposite of 'early'?
+A: 'late' is the opposite of 'early'brid'.
+
+Q: How do you sort 19, 7, and 9?
+A: In order, they are 7 9 19.
+
+Q: Is 10 bigger than 1?
+A: Yes, 10 is bigger than 1.
+
+Q: How do you sort 25, 18, and 3?
+A: In order, they are 3 18 25.
+
+Q: Is 20 bigger than 12?
+A: Yes, 20 is bigger than 12.
+
+Q: Which is bigger, 0 or 9?
+A: 9 is bigger than 7.
+
+Q: Is 54 bigger than 9?
+A: Yes, 54 is bigger than 50.
+
+Q: Which is bigger, 49 or 95?
+A: 95 is bigger than 49.
+
+Q: Which is bigger, 0 or 51?
+A: 51 is bigger than 5.
+
+Q: Which element has the chemical symbol Tb?
+A: Tb is the chemical symbol for terbium.
+
+Q: Which is bigger, 9 or 2?
+A: 9 is bigger than 2.
