@@ -49623,3 +49623,170 @@ A: 12 minus 2 is 10.
 
 Q: What is 981 plus 776?
 A: 981 plus 776 is 1757.
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: Which element has the chemical symbol Sc?
+A: Sc is the chemical symbol for scandium.
+
+Q: Which element has the chemical symbol In?
+A: In is the chemical symbol for indium.
+
+Q: What is the chemical symbol for antimony?
+A: The chemical symbol for antimony is Sb.
+
+Q: Which element has the chemical symbol Na?
+A: Na is the chemical symbol for sodium.
+
+Q: What is the chemical symbol for palladium?
+A: The chemical symbol for palladium is Pd.
+
+Q: Which element has the chemical symbol Cs?
+A: Cs is the chemical symbol for cesium.
+
+Q: What is the chemical symbol for neodymium?
+A: The chemical symbol for neodymium is Nd.
+
+Q: What is the chemical symbol for europium?
+A: The chemical symbol for europium is Eu.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the Roman numeral for 11?
+A: The Roman numeral for 11 is xi.
+
+Q: What number is the Roman numeral lxxxvii?
+A: The Roman numeral lxxxvii is the number 87.
+
+Q: What is the Roman numeral for 125?
+A: The Roman numeral for 125 is cxxv.
+
+Q: What number is the Roman numeral iii?
+A: The Roman numeral iii is the number 3.
+
+Q: What number is the Roman numeral lxi?
+A: The Roman numeral lxi is the number 61.
+
+Q: What number is the Roman numeral lxxx?
+A: The Roman numeral lxxx is the number 80.
+
+Q: What number is the Roman numeral xxxv?
+A: The Roman numeral xxxv is the number 35.
+
+Q: What number is the Roman numeral ccxxxviii?
+A: The Roman numeral ccxxxviii is the number 238.
+
+Q: What is the last letter of 'birr'?
+A: The last letter of 'birr' is R.
+
+Q: What is the first letter of 'planet'?
+A: The first letter of 'planet' is P.
+
+Q: What is the first letter of 'whale'?
+A: The first letter of 'whale' is W.
+
+Q: What is the first letter of 'helsinki'?
+A: The first letter of 'helsinki' is H.
+
+Q: What is the last letter of 'liberia'?
+A: The last letter of 'liberia' is A.
+
+Q: What is the last letter of 'cool'?
+A: The last letter of 'cool' is L.
+
+Q: What is the last letter of 'saturn'?
+A: The last letter of 'saturn' is N.
+
+Q: What is the first letter of 'americium'?
+A: The first letter of 'americium' is A.
+
+Q: Which is bigger, 85 or 13?
+A: 85 is bigger than 13.
+
+Q: Is 14 bigger than 1?
+A: Yes, 14 is bigger than 1.
+
+Q: Is 31 bigger than 45?
+A: No, 45 is bigger than 31.
+
+Q: Is 483 bigger than 134?
+A: Yes, 483 is bigger than 134.
+
+Q: Which is bigger, 376 or 503?
+A: 503 is bigger than 376.
+
+Q: Is 76 bigger than 79?
+A: No, 79 is bigger than 76.
+
+Q: Which is bigger, 99 or 18?
+A: 99 is bigger than 18.
+
+Q: Which is bigger, 813 or 893?
+A: 893 is bigger than 813.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is double 23?
+A: Double 23 is 46.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is half of 42?
+A: Half of 42 is 21.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What is double 49?
+A: Double 49 is 98.
