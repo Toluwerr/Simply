@@ -2988,3 +2988,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.22 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, animals 1.00, planets 1.00
 - self-portrait, asked "Who are you?": *"I am Simprovy are stand self-improvement look."
 
+## Iteration 347 - IMPROVED
+- **when**: 2026-09-17T00:56:31Z
+- **train loss**: 0.9348 | **val loss**: 0.6099 | **run best**: 0.6099
+- **corpus**: 233,230 chars (+13 self-written examples)
+- **internet reading**: +30 articles, +17 facts (662 read all-time)
+- **lr**: 0.0008 | **steps**: 62
+- **knowledge quiz**: avg 0.35 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: definitions 1.00, opposites 1.00, animals 1.00
+- self-portrait, asked "Who are you?": *"I am transformer own by are own by are two a typinglemine day itself and tiny better."
+

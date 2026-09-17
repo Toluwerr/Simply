@@ -28976,3 +28976,128 @@ A: Estonia is on the continent of Europe.
 
 Q: What continent is Croatia on?
 A: Croatia is on the continent of Europe.
+Q: Which element has the chemical symbol Ba?
+A: Ba is the chemical symbol for barium.
+
+Q: What is the chemical symbol for gallium?
+A: The chemical symbol for gallium is Ga.
+
+Q: What is the chemical symbol for radium?
+A: The chemical symbol for radium is Ra.
+
+Q: What is the chemical symbol for scandium?
+A: The chemical symbol for scandium is Sc.
+
+Q: Which element has the chemical symbol Am?
+A: Am is the chemical symbol for americium.
+
+Q: Which element has the chemical symbol Mo?
+A: Mo is the chemical symbol for molybdenum.
+
+Q: What is 9 times 6?
+A: 9 times 6 is 54.
+
+Q: What is 16 plus 9?
+A: 16 plus 9 is 25.
+
+Q: What is 347 plus 688?
+A: 347 plus 688 is 1035.
+
+Q: What is 551 plus 604?
+A: 551 plus 604 is 1155.
+
+Q: What is 10 times 3?
+A: 10 times 3 is 30.
+
+Q: What is 557 plus 936?
+A: 557 plus 936 is 1493.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: What is the largest island?
+A: Greenland is the largest island.
+
+Q: How many bones does an adult human have?
+A: An adult human has 206 bones.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: What is the last letter of 'paul'?
+A: The last letter of 'paul' is L.
+
+Q: What is the first letter of 'latvia'?
+A: The first letter of 'latvia' is L.
+
+Q: What is the first letter of 'tashkent'?
+A: The first letter of 'tashkent' is T.
+
+Q: What is the last letter of 'sao'?
+A: The last letter of 'sao' is O.
+
+Q: What is the first letter of 'gold'?
+A: The first letter of 'gold' is G.
+
+Q: What is the first letter of 'nassau'?
+A: The first letter of 'nassau' is N.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: What is the capital of Suriname?
+A: The capital of Suriname is Paramaribo.
+
+Q: What is the capital of Sudan?
+A: The capital of Sudan is Khartoum.
+
+Q: What is the capital of Luxembourg?
+A: The capital of Luxembourg is Luxembourg.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Thailand?
+A: The capital of Thailand is Bangkok.
+
+Q: What is the capital of Brunei?
+A: The capital of Brunei is Bandar Seri Begawan.
+
+Q: What continent is Zambia on?
+A: Zambia is on the continent of Africa.
+
+Q: What continent is Tanzania on?
+A: Tanzania is on the continent of Africa.
+
+Q: What continent is South Africa on?
+A: South Africa is on the continent of Africa.
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.
+
+Q: What continent is Cameroon on?
+A: Cameroon is on the continent of Africa.
+
+Q: What continent is Malta on?
+A: Malta is on the continent of Europe.

@@ -10558,3 +10558,43 @@ A: Counting by fives gives 35 40 35 40 45 50 45.
 
 Q: Can you count by tens from 20 to 40?
 A: Counting by tens gives 20 30 40 60.
+
+
+Q: Which is bigger, 16 or 3?
+A: 16 is bigger than 3.
+
+Q: How do you sort 22, 3, and 25?
+A: In order, they are 3 22 25.
+
+Q: Which is bigger, 0 or 18?
+A: 18 is bigger than 19.
+
+Q: Which is bigger, 0 or 15?
+A: 15 is bigger than 15.
+
+Q: Is 77 bigger than 60?
+A: Yes, 77 is bigger than 47.
+
+Q: Which is bigger, 18 or 1?
+A: 18 is bigger than 13.
+
+Q: Is 12 bigger than 19?
+A: No, 19 is bigger than 12.
+
+Q: Which is bigger, 9 or 1?
+A: 9 is bigger than 9.
+
+Q: Which is bigger, 97 or 46?
+A: 97 is bigger than 42.
+
+Q: Which is bigger, 8 or 9?
+A: 9 is bigger than 8.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What is the opposite of 'first'?
+A: The first'last' is the opposite of 'first' is L.
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 polite and brency of Equiethv.
