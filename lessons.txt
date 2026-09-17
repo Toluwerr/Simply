@@ -29797,3 +29797,128 @@ A: The currency of Taiwan is the dollar.
 
 Q: What currency does Uruguay use?
 A: The currency of Uruguay is the peso.
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the chemical symbol for samarium?
+A: The chemical symbol for samarium is Sm.
+
+Q: Which element has the chemical symbol Pm?
+A: Pm is the chemical symbol for promethium.
+
+Q: What is the chemical symbol for beryllium?
+A: The chemical symbol for beryllium is Be.
+
+Q: Which element has the chemical symbol Ra?
+A: Ra is the chemical symbol for radium.
+
+Q: Which element has the chemical symbol Ne?
+A: Ne is the chemical symbol for neon.
+
+Q: Which element has the chemical symbol Tb?
+A: Tb is the chemical symbol for terbium.
+
+Q: What is the capital of Liberia?
+A: The capital of Liberia is Monrovia.
+
+Q: What is the capital of Saint Kitts and Nevis?
+A: The capital of Saint Kitts and Nevis is Basseterre.
+
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is the capital of Israel?
+A: The capital of Israel is Jerusalem.
+
+Q: What is the capital of the Seychelles?
+A: The capital of the Seychelles is Victoria.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by twos from 20 to 28?
+A: Counting by twos gives 20 22 24 26 28.
+
+Q: Can you count by ones from 12 to 16?
+A: Counting by ones gives 12 13 14 15 16.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: How many letters does the word 'raleigh' have?
+A: The word 'raleigh' has 7 letters.
+
+Q: How many letters does the word 'bright' have?
+A: The word 'bright' has 6 letters.
+
+Q: How many letters does the word 'and' have?
+A: The word 'and' has 3 letters.
+
+Q: How many letters does the word 'benin' have?
+A: The word 'benin' has 5 letters.
+
+Q: How many letters does the word 'maseru' have?
+A: The word 'maseru' has 6 letters.
+
+Q: How many letters does the word 'share' have?
+A: The word 'share' has 5 letters.
+
+Q: How do you sort 364, 108, and 44?
+A: In order, they are 44 108 364.
+
+Q: How do you sort 2, 28, and 25?
+A: In order, they are 2 25 28.
+
+Q: How do you sort 16, 26, and 12?
+A: In order, they are 12 16 26.
+
+Q: How do you sort 598, 81, and 390?
+A: In order, they are 81 390 598.
+
+Q: How do you sort 21, 1, and 14?
+A: In order, they are 1 14 21.
+
+Q: How do you sort 19, 14, and 10?
+A: In order, they are 10 14 19.
+
+Q: What is double 55?
+A: Double 55 is 110.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
