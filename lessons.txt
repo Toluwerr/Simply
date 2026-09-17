@@ -32627,3 +32627,146 @@ A: Half of 30 is 15.
 
 Q: What is half of 10?
 A: Half of 10 is 5.
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'polite' mean?
+A: 'polite' means well-mannered and respectful.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: How many letters does the word 'day' have?
+A: The word 'day' has 3 letters.
+
+Q: How many letters does the word 'kuala' have?
+A: The word 'kuala' has 5 letters.
+
+Q: How many letters does the word 'uzbekistan' have?
+A: The word 'uzbekistan' has 10 letters.
+
+Q: How many letters does the word 'cheyenne' have?
+A: The word 'cheyenne' has 8 letters.
+
+Q: How many letters does the word 'portugal' have?
+A: The word 'portugal' has 8 letters.
+
+Q: How many letters does the word 'albany' have?
+A: The word 'albany' has 6 letters.
+
+Q: How many letters does the word 'hawaii' have?
+A: The word 'hawaii' has 6 letters.
+
+Q: How many letters does the word 'harare' have?
+A: The word 'harare' has 6 letters.
+
+Q: What is 3 times 10?
+A: 3 times 10 is 30.
+
+Q: What is 559 plus 415?
+A: 559 plus 415 is 974.
+
+Q: What is 51 minus 11?
+A: 51 minus 11 is 40.
+
+Q: What is 746 plus 809?
+A: 746 plus 809 is 1555.
+
+Q: What is 99 plus 26?
+A: 99 plus 26 is 125.
+
+Q: What is 3 times 9?
+A: 3 times 9 is 27.
+
+Q: What is 8 times 8?
+A: 8 times 8 is 64.
+
+Q: What is 61 minus 27?
+A: 61 minus 27 is 34.
+
+Q: What continent is Saudi Arabia on?
+A: Saudi Arabia is on the continent of Asia.
+
+Q: What continent is Micronesia on?
+A: Micronesia is on the continent of Oceania.
+
+Q: What continent is Germany on?
+A: Germany is on the continent of Europe.
+
+Q: What continent is Slovakia on?
+A: Slovakia is on the continent of Europe.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What continent is the Maldives on?
+A: the Maldives is on the continent of Asia.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: What continent is Tajikistan on?
+A: Tajikistan is on the continent of Asia.
+
+Q: What currency does Uruguay use?
+A: The currency of Uruguay is the peso.
+
+Q: What currency does Israel use?
+A: The currency of Israel is the shekel.
+
+Q: What currency does Colombia use?
+A: The currency of Colombia is the peso.
+
+Q: What currency does Rwanda use?
+A: The currency of Rwanda is the franc.
+
+Q: What currency does the Bahamas use?
+A: The currency of the Bahamas is the dollar.
+
+Q: What currency does the Netherlands use?
+A: The currency of the Netherlands is the euro.
+
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What currency does Papua New Guinea use?
+A: The currency of Papua New Guinea is the kina.
+
+Q: How do you write 73 in words?
+A: 73 in words is seventy-three.
+
+Q: How do you write 15 in words?
+A: 15 in words is fifteen.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 76 in words?
+A: 76 in words is seventy-six.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 60 in words?
+A: 60 in words is sixty.
