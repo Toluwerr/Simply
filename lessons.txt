@@ -37054,3 +37054,170 @@ A: 16 is bigger than 4.
 
 Q: Is 557 bigger than 810?
 A: No, 810 is bigger than 557.
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: How do you write 46 in words?
+A: 46 in words is forty-six.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 8 in words?
+A: 8 in words is eight.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety.
+
+Q: How do you write 93 in words?
+A: 93 in words is ninety-three.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 11 in words?
+A: 11 in words is eleven.
+
+Q: How do you write 93 in words?
+A: 93 in words is ninety-three.
+
+Q: What currency does Estonia use?
+A: The currency of Estonia is the euro.
+
+Q: What currency does Trinidad and Tobago use?
+A: The currency of Trinidad and Tobago is the dollar.
+
+Q: What currency does Estonia use?
+A: The currency of Estonia is the euro.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does Bangladesh use?
+A: The currency of Bangladesh is the taka.
+
+Q: What currency does Turkey use?
+A: The currency of Turkey is the lira.
+
+Q: What currency does Vietnam use?
+A: The currency of Vietnam is the dong.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Rhode Island?
+A: Providence is the capital of Rhode Island.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: How do you sort 5, 24, and 2?
+A: In order, they are 2 5 24.
+
+Q: How do you sort 14, 13, and 5?
+A: In order, they are 5 13 14.
+
+Q: How do you sort 17, 11, and 5?
+A: In order, they are 5 11 17.
+
+Q: How do you sort 577, 393, and 740?
+A: In order, they are 393 577 740.
+
+Q: How do you sort 616, 980, and 218?
+A: In order, they are 218 616 980.
+
+Q: How do you sort 29, 23, and 11?
+A: In order, they are 11 23 29.
+
+Q: How do you sort 16, 12, and 15?
+A: In order, they are 12 15 16.
+
+Q: How do you sort 24, 29, and 26?
+A: In order, they are 24 26 29.
+
+Q: What is the last letter of 'guarani'?
+A: The last letter of 'guarani' is I.
+
+Q: What is the first letter of 'arizona'?
+A: The first letter of 'arizona' is A.
+
+Q: What is the last letter of 'hafnium'?
+A: The last letter of 'hafnium' is M.
+
+Q: What is the last letter of 'chad'?
+A: The last letter of 'chad' is D.
+
+Q: What is the last letter of 'raven'?
+A: The last letter of 'raven' is N.
+
+Q: What is the last letter of 'yaren'?
+A: The last letter of 'yaren' is N.
+
+Q: What is the first letter of 'rude'?
+A: The first letter of 'rude' is R.
+
+Q: What is the last letter of 'lesotho'?
+A: The last letter of 'lesotho' is O.
