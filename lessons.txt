@@ -59912,3 +59912,170 @@ A: Yes, 85 is bigger than 42.
 
 Q: Is 7 bigger than 1?
 A: Yes, 7 is bigger than 1.
+Q: Which is bigger, 352 or 172?
+A: 352 is bigger than 172.
+
+Q: Is 3 bigger than 17?
+A: No, 17 is bigger than 3.
+
+Q: Which is bigger, 82 or 62?
+A: 82 is bigger than 62.
+
+Q: Is 59 bigger than 57?
+A: Yes, 59 is bigger than 57.
+
+Q: Which is bigger, 63 or 49?
+A: 63 is bigger than 49.
+
+Q: Is 953 bigger than 250?
+A: Yes, 953 is bigger than 250.
+
+Q: Which is bigger, 13 or 22?
+A: 22 is bigger than 13.
+
+Q: Is 98 bigger than 56?
+A: Yes, 98 is bigger than 56.
+
+Q: How many letters does the word 'lemon' have?
+A: The word 'lemon' has 5 letters.
+
+Q: How many letters does the word 'harare' have?
+A: The word 'harare' has 6 letters.
+
+Q: How many letters does the word 'small' have?
+A: The word 'small' has 5 letters.
+
+Q: How many letters does the word 'palau' have?
+A: The word 'palau' has 5 letters.
+
+Q: How many letters does the word 'belize' have?
+A: The word 'belize' has 6 letters.
+
+Q: How many letters does the word 'seychelles' have?
+A: The word 'seychelles' has 10 letters.
+
+Q: How many letters does the word 'bamako' have?
+A: The word 'bamako' has 6 letters.
+
+Q: How many letters does the word 'burkina' have?
+A: The word 'burkina' has 7 letters.
+
+Q: How do you sort 880, 522, and 315?
+A: In order, they are 315 522 880.
+
+Q: How do you sort 37, 903, and 474?
+A: In order, they are 37 474 903.
+
+Q: How do you sort 798, 972, and 292?
+A: In order, they are 292 798 972.
+
+Q: How do you sort 4, 8, and 20?
+A: In order, they are 4 8 20.
+
+Q: How do you sort 831, 74, and 354?
+A: In order, they are 74 354 831.
+
+Q: How do you sort 20, 27, and 3?
+A: In order, they are 3 20 27.
+
+Q: How do you sort 4, 19, and 3?
+A: In order, they are 3 4 19.
+
+Q: How do you sort 817, 175, and 725?
+A: In order, they are 175 725 817.
+
+Q: What continent is Greece on?
+A: Greece is on the continent of Europe.
+
+Q: What continent is Samoa on?
+A: Samoa is on the continent of Oceania.
+
+Q: What continent is Poland on?
+A: Poland is on the continent of Europe.
+
+Q: What continent is Serbia on?
+A: Serbia is on the continent of Europe.
+
+Q: What continent is Montenegro on?
+A: Montenegro is on the continent of Europe.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: What continent is Niger on?
+A: Niger is on the continent of Africa.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: How do you write 71 in words?
+A: 71 in words is seventy-one.
+
+Q: How do you write 73 in words?
+A: 73 in words is seventy-three.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety.
+
+Q: How do you write 15 in words?
+A: 15 in words is fifteen.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: What is the capital of Mexico?
+A: The capital of Mexico is Mexico City.
+
+Q: What is the capital of Albania?
+A: The capital of Albania is Tirana.
+
+Q: What is the capital of Sierra Leone?
+A: The capital of Sierra Leone is Freetown.
+
+Q: What is the capital of Albania?
+A: The capital of Albania is Tirana.
+
+Q: What is the capital of South Korea?
+A: The capital of South Korea is Seoul.
+
+Q: What is the capital of Costa Rica?
+A: The capital of Costa Rica is San Jose.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is the capital of the Dominican Republic?
+A: The capital of the Dominican Republic is Santo Domingo.
