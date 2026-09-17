@@ -3718,3 +3718,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"What minan numeralood dinent."
 
+## Iteration 425 - NO_GAIN
+- **when**: 2026-09-17T02:48:05Z
+- **train loss**: 3.5915 | **val loss**: 2.4637 | **run best**: 2.4238
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +28 facts (955 read all-time)
+- **lr**: 0.0015 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"What isirst lef Nounty plus 'f ' have?"
+
