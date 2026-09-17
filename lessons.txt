@@ -44567,3 +44567,146 @@ A: 'damp' means slightly wet.
 
 Q: What does 'fierce' mean?
 A: 'fierce' means wild and aggressive.
+Q: What is 4 times 9?
+A: 4 times 9 is 36.
+
+Q: What is 59 minus 21?
+A: 59 minus 21 is 38.
+
+Q: What is 12 times 12?
+A: 12 times 12 is 144.
+
+Q: What is 82 minus 32?
+A: 82 minus 32 is 50.
+
+Q: What is 43 plus 28?
+A: 43 plus 28 is 71.
+
+Q: What is 660 minus 586?
+A: 660 minus 586 is 74.
+
+Q: What is 10 plus 9?
+A: 10 plus 9 is 19.
+
+Q: What is 3 plus 9?
+A: 3 plus 9 is 12.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many meters are in a kilometer?
+A: There are 1000 meters in a kilometer.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the closest star to Earth?
+A: The sun is the closest star to Earth.
+
+Q: What is the most populous country?
+A: India is the most populous country.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: How many sides does a triangle have?
+A: A triangle has 3 sides.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: Can you count by ones from 23 to 27?
+A: Counting by ones gives 23 24 25 26 27.
+
+Q: Can you count by fives from 10 to 20?
+A: Counting by fives gives 10 15 20.
+
+Q: Can you count by fives from 5 to 15?
+A: Counting by fives gives 5 10 15.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by fives from 5 to 30?
+A: Counting by fives gives 5 10 15 20 25 30.
+
+Q: Can you count by fives from 15 to 30?
+A: Counting by fives gives 15 20 25 30.
+
+Q: Can you count by ones from 22 to 25?
+A: Counting by ones gives 22 23 24 25.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: What is double 33?
+A: Double 33 is 66.
+
+Q: What is double 28?
+A: Double 28 is 56.
+
+Q: What is double 51?
+A: Double 51 is 102.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is double 45?
+A: Double 45 is 90.
+
+Q: What is double 38?
+A: Double 38 is 76.
+
+Q: What is double 47?
+A: Double 47 is 94.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What currency does Taiwan use?
+A: The currency of Taiwan is the dollar.
+
+Q: What currency does Malta use?
+A: The currency of Malta is the euro.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Belarus use?
+A: The currency of Belarus is the ruble.
+
+Q: What currency does Thailand use?
+A: The currency of Thailand is the baht.
+
+Q: What currency does Germany use?
+A: The currency of Germany is the euro.
+
+Q: What currency does Turkmenistan use?
+A: The currency of Turkmenistan is the manat.
