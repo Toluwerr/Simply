@@ -10454,3 +10454,13 @@ A: The word 'tlemoon' has 5 letters.
 
 Q: What is the chemical symbol for osmium?
 A: The chemical symbol for osmium is Osn h.
+
+
+Q: What is the Roman numeral for 29?
+A: The Roman numeral for 29 is xxix.
+
+Q: What does 'fierce' mean?
+A: 'fierce' means not wild and aggressive.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'f 'loud' is 'quiet'.

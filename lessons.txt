@@ -28048,3 +28048,128 @@ A: Counting by ones gives 14 15 16 17 18.
 
 Q: Can you count by fives from 10 to 35?
 A: Counting by fives gives 10 15 20 25 30 35.
+Q: What is 980 minus 660?
+A: 980 minus 660 is 320.
+
+Q: What is 7 plus 9?
+A: 7 plus 9 is 16.
+
+Q: What is 90 plus 12?
+A: 90 plus 12 is 102.
+
+Q: What is 3 minus 3?
+A: 3 minus 3 is 0.
+
+Q: What is 845 minus 282?
+A: 845 minus 282 is 563.
+
+Q: What is 15 times 12?
+A: 15 times 12 is 180.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: What currency does Cameroon use?
+A: The currency of Cameroon is the franc.
+
+Q: Can you count by ones from 31 to 35?
+A: Counting by ones gives 31 32 33 34 35.
+
+Q: Can you count by twos from 20 to 26?
+A: Counting by twos gives 20 22 24 26.
+
+Q: Can you count by twos from 12 to 20?
+A: Counting by twos gives 12 14 16 18 20.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by ones from 20 to 24?
+A: Counting by ones gives 20 21 22 23 24.
+
+Q: Can you count by twos from 26 to 32?
+A: Counting by twos gives 26 28 30 32.
+
+Q: What is the capital of Kazakhstan?
+A: The capital of Kazakhstan is Astana.
+
+Q: What is the capital of Oman?
+A: The capital of Oman is Muscat.
+
+Q: What is the capital of Myanmar?
+A: The capital of Myanmar is Naypyidaw.
+
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+
+Q: What is the capital of the Netherlands?
+A: The capital of the Netherlands is Amsterdam.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What is the Roman numeral for 385?
+A: The Roman numeral for 385 is ccclxxxv.
+
+Q: What is the Roman numeral for 63?
+A: The Roman numeral for 63 is lxiii.
+
+Q: What is the Roman numeral for 14?
+A: The Roman numeral for 14 is xiv.
+
+Q: What number is the Roman numeral xli?
+A: The Roman numeral xli is the number 41.
+
+Q: What is the Roman numeral for 29?
+A: The Roman numeral for 29 is xxix.
+
+Q: What is the Roman numeral for 24?
+A: The Roman numeral for 24 is xxiv.
+
+Q: Which element has the chemical symbol Tm?
+A: Tm is the chemical symbol for thulium.
+
+Q: What is the chemical symbol for tungsten?
+A: The chemical symbol for tungsten is W.
+
+Q: What is the chemical symbol for scandium?
+A: The chemical symbol for scandium is Sc.
+
+Q: What is the chemical symbol for titanium?
+A: The chemical symbol for titanium is Ti.
+
+Q: What is the chemical symbol for tungsten?
+A: The chemical symbol for tungsten is W.
+
+Q: Which element has the chemical symbol Ar?
+A: Ar is the chemical symbol for argon.
+
+Q: How do you sort 359, 834, and 650?
+A: In order, they are 359 650 834.
+
+Q: How do you sort 636, 614, and 115?
+A: In order, they are 115 614 636.
+
+Q: How do you sort 17, 15, and 9?
+A: In order, they are 9 15 17.
+
+Q: How do you sort 953, 609, and 818?
+A: In order, they are 609 818 953.
+
+Q: How do you sort 29, 3, and 13?
+A: In order, they are 3 13 29.
+
+Q: How do you sort 846, 52, and 441?
+A: In order, they are 52 441 846.
