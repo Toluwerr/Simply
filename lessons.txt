@@ -24661,3 +24661,146 @@ A: Double 20 is 40.
 
 Q: What is half of 50?
 A: Half of 50 is 25.
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: How many letters does the word 'louisiana' have?
+A: The word 'louisiana' has 9 letters.
+
+Q: How many letters does the word 'molybdenum' have?
+A: The word 'molybdenum' has 10 letters.
+
+Q: How many letters does the word 'maple' have?
+A: The word 'maple' has 5 letters.
+
+Q: How many letters does the word 'mark' have?
+A: The word 'mark' has 4 letters.
+
+Q: How many letters does the word 'may' have?
+A: The word 'may' has 3 letters.
+
+Q: How many letters does the word 'dinar' have?
+A: The word 'dinar' has 5 letters.
+
+Q: How many letters does the word 'vientiane' have?
+A: The word 'vientiane' has 9 letters.
+
+Q: How many letters does the word 'titanium' have?
+A: The word 'titanium' has 8 letters.
+
+Q: What is 19 minus 16?
+A: 19 minus 16 is 3.
+
+Q: What is 6 times 8?
+A: 6 times 8 is 48.
+
+Q: What is 16 plus 10?
+A: 16 plus 10 is 26.
+
+Q: What is 78 plus 20?
+A: 78 plus 20 is 98.
+
+Q: What is 381 plus 852?
+A: 381 plus 852 is 1233.
+
+Q: What is 447 plus 624?
+A: 447 plus 624 is 1071.
+
+Q: What is 12 minus 6?
+A: 12 minus 6 is 6.
+
+Q: What is 6 times 3?
+A: 6 times 3 is 18.
+
+Q: What continent is Croatia on?
+A: Croatia is on the continent of Europe.
+
+Q: What continent is North Macedonia on?
+A: North Macedonia is on the continent of Europe.
+
+Q: What continent is Papua New Guinea on?
+A: Papua New Guinea is on the continent of Oceania.
+
+Q: What continent is Somalia on?
+A: Somalia is on the continent of Africa.
+
+Q: What continent is Kazakhstan on?
+A: Kazakhstan is on the continent of Asia.
+
+Q: What continent is Zambia on?
+A: Zambia is on the continent of Africa.
+
+Q: What continent is Hungary on?
+A: Hungary is on the continent of Europe.
+
+Q: What continent is Saudi Arabia on?
+A: Saudi Arabia is on the continent of Asia.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does Colombia use?
+A: The currency of Colombia is the peso.
+
+Q: What currency does Honduras use?
+A: The currency of Honduras is the lempira.
+
+Q: What currency does Kyrgyzstan use?
+A: The currency of Kyrgyzstan is the som.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: What currency does Venezuela use?
+A: The currency of Venezuela is the bolivar.
+
+Q: What currency does Sudan use?
+A: The currency of Sudan is the pound.
+
+Q: What currency does South Africa use?
+A: The currency of South Africa is the rand.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 76 in words?
+A: 76 in words is seventy-six.
+
+Q: How do you write 94 in words?
+A: 94 in words is ninety-four.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: How do you write 63 in words?
+A: 63 in words is sixty-three.
+
+Q: How do you write 27 in words?
+A: 27 in words is twenty-seven.
