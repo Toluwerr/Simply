@@ -61510,3 +61510,170 @@ A: 57 in words is fifty-seven.
 
 Q: How do you write 64 in words?
 A: 64 in words is sixty-four.
+Q: Which is bigger, 3 or 6?
+A: 6 is bigger than 3.
+
+Q: Which is bigger, 755 or 107?
+A: 755 is bigger than 107.
+
+Q: Is 16 bigger than 19?
+A: No, 19 is bigger than 16.
+
+Q: Which is bigger, 318 or 881?
+A: 881 is bigger than 318.
+
+Q: Is 91 bigger than 89?
+A: Yes, 91 is bigger than 89.
+
+Q: Is 10 bigger than 19?
+A: No, 19 is bigger than 10.
+
+Q: Is 8 bigger than 12?
+A: No, 12 is bigger than 8.
+
+Q: Which is bigger, 141 or 745?
+A: 745 is bigger than 141.
+
+Q: How many letters does the word 'laos' have?
+A: The word 'laos' has 4 letters.
+
+Q: How many letters does the word 'give' have?
+A: The word 'give' has 4 letters.
+
+Q: How many letters does the word 'seychelles' have?
+A: The word 'seychelles' has 10 letters.
+
+Q: How many letters does the word 'oregon' have?
+A: The word 'oregon' has 6 letters.
+
+Q: How many letters does the word 'bucharest' have?
+A: The word 'bucharest' has 9 letters.
+
+Q: How many letters does the word 'stand' have?
+A: The word 'stand' has 5 letters.
+
+Q: How many letters does the word 'otter' have?
+A: The word 'otter' has 5 letters.
+
+Q: How many letters does the word 'republic' have?
+A: The word 'republic' has 8 letters.
+
+Q: How do you sort 3, 11, and 18?
+A: In order, they are 3 11 18.
+
+Q: How do you sort 22, 19, and 23?
+A: In order, they are 19 22 23.
+
+Q: How do you sort 8, 27, and 14?
+A: In order, they are 8 14 27.
+
+Q: How do you sort 3, 11, and 5?
+A: In order, they are 3 5 11.
+
+Q: How do you sort 11, 15, and 10?
+A: In order, they are 10 11 15.
+
+Q: How do you sort 913, 613, and 70?
+A: In order, they are 70 613 913.
+
+Q: How do you sort 468, 39, and 42?
+A: In order, they are 39 42 468.
+
+Q: How do you sort 343, 816, and 768?
+A: In order, they are 343 768 816.
+
+Q: What continent is Kyrgyzstan on?
+A: Kyrgyzstan is on the continent of Asia.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is Spain on?
+A: Spain is on the continent of Europe.
+
+Q: What continent is India on?
+A: India is on the continent of Asia.
+
+Q: What continent is Singapore on?
+A: Singapore is on the continent of Asia.
+
+Q: What continent is Vanuatu on?
+A: Vanuatu is on the continent of Oceania.
+
+Q: What continent is Tajikistan on?
+A: Tajikistan is on the continent of Asia.
+
+Q: What continent is South Africa on?
+A: South Africa is on the continent of Africa.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 22 in words?
+A: 22 in words is twenty-two.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 9 in words?
+A: 9 in words is nine.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+
+Q: What is the capital of Senegal?
+A: The capital of Senegal is Dakar.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is the capital of Uganda?
+A: The capital of Uganda is Kampala.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of Burkina Faso?
+A: The capital of Burkina Faso is Ouagadougou.
+
+Q: What is the capital of Chad?
+A: The capital of Chad is N'Djamena.
+
+Q: What is the capital of Tanzania?
+A: The capital of Tanzania is Dodoma.
