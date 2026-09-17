@@ -39940,3 +39940,146 @@ A: The currency of Japan is the yen.
 
 Q: What currency does Guatemala use?
 A: The currency of Guatemala is the quetzal.
+Q: What is the last letter of 'islands'?
+A: The last letter of 'islands' is S.
+
+Q: What is the last letter of 'luanda'?
+A: The last letter of 'luanda' is A.
+
+Q: What is the last letter of 'topeka'?
+A: The last letter of 'topeka' is A.
+
+Q: What is the last letter of 'mouse'?
+A: The last letter of 'mouse' is E.
+
+Q: What is the last letter of 'reykjavik'?
+A: The last letter of 'reykjavik' is K.
+
+Q: What is the last letter of 'shark'?
+A: The last letter of 'shark' is K.
+
+Q: What is the first letter of 'night'?
+A: The first letter of 'night' is N.
+
+Q: What is the last letter of 'alabama'?
+A: The last letter of 'alabama' is A.
+
+Q: How do you sort 40, 411, and 310?
+A: In order, they are 40 310 411.
+
+Q: How do you sort 947, 71, and 139?
+A: In order, they are 71 139 947.
+
+Q: How do you sort 10, 4, and 1?
+A: In order, they are 1 4 10.
+
+Q: How do you sort 15, 18, and 20?
+A: In order, they are 15 18 20.
+
+Q: How do you sort 3, 17, and 4?
+A: In order, they are 3 4 17.
+
+Q: How do you sort 12, 29, and 22?
+A: In order, they are 12 22 29.
+
+Q: How do you sort 250, 980, and 298?
+A: In order, they are 250 298 980.
+
+Q: How do you sort 18, 9, and 4?
+A: In order, they are 4 9 18.
+
+Q: Is 13 bigger than 14?
+A: No, 14 is bigger than 13.
+
+Q: Is 16 bigger than 14?
+A: Yes, 16 is bigger than 14.
+
+Q: Which is bigger, 16 or 6?
+A: 16 is bigger than 6.
+
+Q: Is 18 bigger than 1?
+A: Yes, 18 is bigger than 1.
+
+Q: Which is bigger, 17 or 51?
+A: 51 is bigger than 17.
+
+Q: Is 95 bigger than 86?
+A: Yes, 95 is bigger than 86.
+
+Q: Which is bigger, 319 or 230?
+A: 319 is bigger than 230.
+
+Q: Which is bigger, 16 or 18?
+A: 18 is bigger than 16.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: What is the capital of the United States?
+A: The capital of the United States is Washington, D.C..
+
+Q: What is the capital of Nauru?
+A: The capital of Nauru is Yaren.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Burkina Faso?
+A: The capital of Burkina Faso is Ouagadougou.
+
+Q: What is the capital of Zambia?
+A: The capital of Zambia is Lusaka.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is the capital of Chad?
+A: The capital of Chad is N'Djamena.
+
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+
+Q: What is 925 minus 872?
+A: 925 minus 872 is 53.
+
+Q: What is 429 plus 850?
+A: 429 plus 850 is 1279.
+
+Q: What is 15 times 11?
+A: 15 times 11 is 165.
+
+Q: What is 14 plus 5?
+A: 14 plus 5 is 19.
+
+Q: What is 922 plus 247?
+A: 922 plus 247 is 1169.
+
+Q: What is 14 times 18?
+A: 14 times 18 is 252.
+
+Q: What is 18 minus 8?
+A: 18 minus 8 is 10.
+
+Q: What is 14 times 14?
+A: 14 times 14 is 196.
