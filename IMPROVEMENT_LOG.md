@@ -3651,3 +3651,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.65 | weakest: arithmetic 0.00, compare 0.00, count 0.00 | strongest: opposites 1.00, animals 1.00, records 1.00
 - self-portrait, asked "Who are you?": *"I am a very small of butdam."
 
+## Iteration 418 - NO_GAIN
+- **when**: 2026-09-17T02:30:29Z
+- **train loss**: 0.6045 | **val loss**: 0.5571 | **run best**: 0.5521
+- **corpus**: 282,015 chars (+10 self-written examples)
+- **internet reading**: +30 articles, +7 facts (867 read all-time)
+- **lr**: 0.0003 | **steps**: 62
+- **knowledge quiz**: avg 0.57 | weakest: arithmetic 0.00, sort 0.00, roman 0.00 | strongest: definitions 1.00, animals 1.00, records 1.00
+- self-portrait, asked "Who are you?": *"I am ring for by humansas 17."
+

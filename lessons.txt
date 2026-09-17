@@ -20602,3 +20602,110 @@ A: Topeka is the capital of Kansas.
 
 Q: What is the capital of the US state Georgia?
 A: Atlanta is the capital of Georgia.
+Q: Which is bigger, 38 or 48?
+A: 48 is bigger than 38.
+
+Q: Which is bigger, 58 or 92?
+A: 92 is bigger than 58.
+
+Q: Which is bigger, 94 or 58?
+A: 94 is bigger than 58.
+
+Q: Which is bigger, 818 or 966?
+A: 966 is bigger than 818.
+
+Q: Which is bigger, 795 or 231?
+A: 795 is bigger than 231.
+
+Q: Is 11 bigger than 7?
+A: Yes, 11 is bigger than 7.
+
+Q: Can you count by ones from 39 to 43?
+A: Counting by ones gives 39 40 41 42 43.
+
+Q: Can you count by fives from 35 to 60?
+A: Counting by fives gives 35 40 45 50 55 60.
+
+Q: Can you count by twos from 10 to 18?
+A: Counting by twos gives 10 12 14 16 18.
+
+Q: Can you count by tens from 20 to 40?
+A: Counting by tens gives 20 30 40.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by twos from 12 to 22?
+A: Counting by twos gives 12 14 16 18 20 22.
+
+Q: What is 64 plus 80?
+A: 64 plus 80 is 144.
+
+Q: What is 49 minus 34?
+A: 49 minus 34 is 15.
+
+Q: What is 13 plus 68?
+A: 13 plus 68 is 81.
+
+Q: What is 23 plus 92?
+A: 23 plus 92 is 115.
+
+Q: What is 74 plus 25?
+A: 74 plus 25 is 99.
+
+Q: What is 6 times 2?
+A: 6 times 2 is 12.
+
+Q: What is the chemical symbol for scandium?
+A: The chemical symbol for scandium is Sc.
+
+Q: Which element has the chemical symbol Ta?
+A: Ta is the chemical symbol for tantalum.
+
+Q: What is the chemical symbol for copper?
+A: The chemical symbol for copper is Cu.
+
+Q: Which element has the chemical symbol Si?
+A: Si is the chemical symbol for silicon.
+
+Q: Which element has the chemical symbol Tl?
+A: Tl is the chemical symbol for thallium.
+
+Q: Which element has the chemical symbol Yb?
+A: Yb is the chemical symbol for ytterbium.
+
+Q: What continent is North Korea on?
+A: North Korea is on the continent of Asia.
+
+Q: What continent is Bhutan on?
+A: Bhutan is on the continent of Asia.
+
+Q: What continent is Jordan on?
+A: Jordan is on the continent of Asia.
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
