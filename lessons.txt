@@ -60079,3 +60079,170 @@ A: The capital of Andorra is Andorra la Vella.
 
 Q: What is the capital of the Dominican Republic?
 A: The capital of the Dominican Republic is Santo Domingo.
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many inches are in a foot?
+A: There are 12 inches in a foot.
+
+Q: How many weeks are in a year?
+A: There are 52 weeks in a year.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: What is the capital of Samoa?
+A: The capital of Samoa is Apia.
+
+Q: What is the capital of Liechtenstein?
+A: The capital of Liechtenstein is Vaduz.
+
+Q: What is the capital of Poland?
+A: The capital of Poland is Warsaw.
+
+Q: What is the capital of Morocco?
+A: The capital of Morocco is Rabat.
+
+Q: What is the capital of Cambodia?
+A: The capital of Cambodia is Phnom Penh.
+
+Q: What is the capital of the Maldives?
+A: The capital of the Maldives is Male.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What is the capital of Romania?
+A: The capital of Romania is Bucharest.
+
+Q: What is 12 times 15?
+A: 12 times 15 is 180.
+
+Q: What is 8 times 4?
+A: 8 times 4 is 32.
+
+Q: What is 4 times 8?
+A: 4 times 8 is 32.
+
+Q: What is 12 minus 6?
+A: 12 minus 6 is 6.
+
+Q: What is 12 plus 19?
+A: 12 plus 19 is 31.
+
+Q: What is 11 times 9?
+A: 11 times 9 is 99.
+
+Q: What is 501 minus 333?
+A: 501 minus 333 is 168.
+
+Q: What is 13 times 16?
+A: 13 times 16 is 208.
+
+Q: What is the capital of the US state North Carolina?
+A: Raleigh is the capital of North Carolina.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: How many letters does the word 'colon' have?
+A: The word 'colon' has 5 letters.
+
+Q: How many letters does the word 'chad' have?
+A: The word 'chad' has 4 letters.
+
+Q: How many letters does the word 'tehran' have?
+A: The word 'tehran' has 6 letters.
+
+Q: How many letters does the word 'barium' have?
+A: The word 'barium' has 6 letters.
+
+Q: How many letters does the word 'young' have?
+A: The word 'young' has 5 letters.
+
+Q: How many letters does the word 'brave' have?
+A: The word 'brave' has 5 letters.
+
+Q: How many letters does the word 'atlanta' have?
+A: The word 'atlanta' has 7 letters.
+
+Q: How many letters does the word 'togo' have?
+A: The word 'togo' has 4 letters.
+
+Q: What is the last letter of 'france'?
+A: The last letter of 'france' is E.
+
+Q: What is the first letter of 'rich'?
+A: The first letter of 'rich' is R.
+
+Q: What is the last letter of 'palladium'?
+A: The last letter of 'palladium' is M.
+
+Q: What is the first letter of 'rocket'?
+A: The first letter of 'rocket' is R.
+
+Q: What is the last letter of 'west'?
+A: The last letter of 'west' is T.
+
+Q: What is the first letter of 'plant'?
+A: The first letter of 'plant' is P.
+
+Q: What is the last letter of 'palau'?
+A: The last letter of 'palau' is U.
+
+Q: What is the first letter of 'dim'?
+A: The first letter of 'dim' is D.
+
+Q: Which is bigger, 29 or 69?
+A: 69 is bigger than 29.
+
+Q: Is 8 bigger than 7?
+A: Yes, 8 is bigger than 7.
+
+Q: Is 103 bigger than 100?
+A: Yes, 103 is bigger than 100.
+
+Q: Is 52 bigger than 56?
+A: No, 56 is bigger than 52.
+
+Q: Is 673 bigger than 379?
+A: Yes, 673 is bigger than 379.
+
+Q: Is 13 bigger than 15?
+A: No, 15 is bigger than 13.
+
+Q: Is 656 bigger than 679?
+A: No, 679 is bigger than 656.
+
+Q: Which is bigger, 285 or 968?
+A: 968 is bigger than 285.
