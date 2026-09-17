@@ -7525,3 +7525,12 @@ promote-if-better. Newest entries are at the bottom.
 - **reason**: knowledge 0.09, was 0.00; val 1.2643
 - self-portrait, asked "Who are you?": *"94 in words1 in wordssia is thirty of the wordssten."
 
+## Iteration 836 - NO_GAIN
+- **when**: 2026-09-17T18:58:25Z
+- **train loss**: 1.8706 | **val loss**: 1.5163 | **run best**: 1.2643
+- **corpus**: 285,089 chars (+0 self-written examples)
+- **internet reading**: +59 articles, +29 facts (3,333 read all-time)
+- **lr**: 0.0015 | **steps**: 30
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"How do you sort 16."
+

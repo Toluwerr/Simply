@@ -55848,3 +55848,146 @@ A: The currency of China is the yuan.
 
 Q: What currency does Guatemala use?
 A: The currency of Guatemala is the quetzal.
+Q: How many letters does the word 'carolina' have?
+A: The word 'carolina' has 8 letters.
+
+Q: How many letters does the word 'able' have?
+A: The word 'able' has 4 letters.
+
+Q: How many letters does the word 'freetown' have?
+A: The word 'freetown' has 8 letters.
+
+Q: How many letters does the word 'bangui' have?
+A: The word 'bangui' has 6 letters.
+
+Q: How many letters does the word 'ulaanbaatar' have?
+A: The word 'ulaanbaatar' has 11 letters.
+
+Q: How many letters does the word 'sticky' have?
+A: The word 'sticky' has 6 letters.
+
+Q: How many letters does the word 'longer' have?
+A: The word 'longer' has 6 letters.
+
+Q: How many letters does the word 'turtle' have?
+A: The word 'turtle' has 6 letters.
+
+Q: How do you sort 706, 63, and 794?
+A: In order, they are 63 706 794.
+
+Q: How do you sort 831, 374, and 241?
+A: In order, they are 241 374 831.
+
+Q: How do you sort 3, 9, and 27?
+A: In order, they are 3 9 27.
+
+Q: How do you sort 24, 2, and 1?
+A: In order, they are 1 2 24.
+
+Q: How do you sort 20, 23, and 4?
+A: In order, they are 4 20 23.
+
+Q: How do you sort 445, 39, and 324?
+A: In order, they are 39 324 445.
+
+Q: How do you sort 779, 114, and 905?
+A: In order, they are 114 779 905.
+
+Q: How do you sort 28, 2, and 24?
+A: In order, they are 2 24 28.
+
+Q: Which is bigger, 75 or 27?
+A: 75 is bigger than 27.
+
+Q: Is 54 bigger than 68?
+A: No, 68 is bigger than 54.
+
+Q: Which is bigger, 380 or 552?
+A: 552 is bigger than 380.
+
+Q: Is 10 bigger than 4?
+A: Yes, 10 is bigger than 4.
+
+Q: Is 11 bigger than 6?
+A: Yes, 11 is bigger than 6.
+
+Q: Which is bigger, 757 or 104?
+A: 757 is bigger than 104.
+
+Q: Which is bigger, 97 or 39?
+A: 97 is bigger than 39.
+
+Q: Is 78 bigger than 37?
+A: Yes, 78 is bigger than 37.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: What is the capital of Suriname?
+A: The capital of Suriname is Paramaribo.
+
+Q: What is the capital of Iceland?
+A: The capital of Iceland is Reykjavik.
+
+Q: What is the capital of Angola?
+A: The capital of Angola is Luanda.
+
+Q: What is the capital of Cuba?
+A: The capital of Cuba is Havana.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of Mozambique?
+A: The capital of Mozambique is Maputo.
+
+Q: What is the capital of Latvia?
+A: The capital of Latvia is Riga.
+
+Q: What is the capital of Tajikistan?
+A: The capital of Tajikistan is Dushanbe.
+
+Q: What is 823 minus 690?
+A: 823 minus 690 is 133.
+
+Q: What is 92 minus 24?
+A: 92 minus 24 is 68.
+
+Q: What is 11 times 15?
+A: 11 times 15 is 165.
+
+Q: What is 452 minus 426?
+A: 452 minus 426 is 26.
+
+Q: What is 17 minus 11?
+A: 17 minus 11 is 6.
+
+Q: What is 12 times 15?
+A: 12 times 15 is 180.
+
+Q: What is 16 plus 15?
+A: 16 plus 15 is 31.
+
+Q: What is 186 plus 805?
+A: 186 plus 805 is 991.

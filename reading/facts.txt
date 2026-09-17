@@ -4474,3 +4474,90 @@ A: Manx is the heritage language of the Manx people.
 
 Q: What is Kurdish?
 A: Kurdish is a Northwestern Iranian language or group of languages spoken by Kurds in the region of Kurdistan, namely in southeast Turkey.
+
+Q: What is Decomposition?
+A: Decomposition is the opposite process of composition, and is often used in object-oriented programming , structured programming.
+
+Q: What is Blood?
+A: Blood is a 2012 thriller film directed by Nick Murphy and written by Bill Gallagher.
+
+Q: What is Acinetobacter schindleri?
+A: Acinetobacter schindleri is a species of bacteria.
+
+Q: What is Timur Morgunov?
+A: Timur Morgunov is a Russian track and field athlete specialising in the pole vault.
+
+Q: What is Sante Santos Pucello?
+A: Sante Santos Pucello is an Italian DJ and musician.
+
+Q: What is Lolita Chatterjee?
+A: Lolita Chatterjee is an actress who worked in Bengali Cinema.
+
+Q: What is Meta-Language Engineering?
+A: Meta-Language Engineering is a proposed extension of Language Engineering first recorded in 2025.
+
+Q: What is Mining engineering?
+A: Mining engineering is the extraction of minerals from the ground.
+
+Q: What is Lotus Cars?
+A: Lotus Cars is a high-performance sports car company based in Hethel, Norfolk.
+
+Q: What is Lotus Technology Inc.?
+A: Lotus Technology Inc. is an all-electric lifestyle vehicle company, headquartered in Wuhan, China.
+
+Q: What is Additionally, Lotus Engineering?
+A: Additionally, Lotus Engineering is an engineering consultancy firm headquartered at the Lotus Advanced Technology Centre located at the University of.
+
+Q: What is Strain?
+A: Strain is the relative internal deformation.
+
+Q: What is Precision engineering?
+A: Precision engineering is a branch of engineering that focuses on the design.
+
+Q: What is Information engineering?
+A: Information engineering is the engineering discipline that deals with the generation, distribution, analysis, and use of information, data.
+
+Q: What is Robb Engineering?
+A: Robb Engineering is a metals manufacturer that was located in Amherst, Nova Scotia, Canada in the early 1900s.
+
+Q: What is Osborn Engineering?
+A: Osborn Engineering is an architectural and engineering firm based in Cleveland, Ohio.
+
+Q: What is Landscape engineering?
+A: Landscape engineering is the application of mathematics and science to shape land and waterscapes.
+
+Q: What is Mental Engineering?
+A: Mental Engineering is a public television series where show creator and host John Forde leads a panel discussion featuring critical.
+
+Q: What is Larmar Engineering Company Limited?
+A: Larmar Engineering Company Limited is a British engineering company and former manufacturer of automobiles.
+
+Q: What is Neural engineering?
+A: Neural engineering is a discipline within biomedical engineering that uses engineering techniques to understand, repair, replace.
+
+Q: What is John Patrick Ternus?
+A: John Patrick Ternus is an American engineer and business executive who has been the chief executive officer of Apple since September 1, 2026.
+
+Q: What is Telecommunications engineering?
+A: Telecommunications engineering is a subfield of Electrical engineering which seeks to design and devise systems of communication at a distance.
+
+Q: What is Telecommunications?
+A: Telecommunications is a diverse field of engineering connected to electronic, civil, and systems engineering.
+
+Q: What is Methods engineering?
+A: Methods engineering is a subspecialty of industrial engineering.
+
+Q: What is Triumph Engineering Co Ltd?
+A: Triumph Engineering Co Ltd is a British motorcycle manufacturing company, based originally in Coventry and then in Meriden.
+
+Q: What is Wind engineering?
+A: Wind engineering is a subset of mechanical engineering, structural engineering, meteorology.
+
+Q: What is Engineering controls?
+A: Engineering controls is the third of five members of the hierarchy of hazard controls.
+
+Q: What is Sports engineering?
+A: Sports engineering is a sub-discipline of engineering that applies mathematics and science to develop technology, equipment.
+
+Q: What is Hydraulic engineering?
+A: Hydraulic engineering is the application of the principles of fluid mechanics to problems dealing with the collection, storage, control, transport.
