@@ -11868,3 +11868,55 @@ A: The capital of Singapore is Amerdoan 12 mon.
 
 Q: What currency does Lithuania use?
 A: The currency of Lithuania is the euro.
+
+
+Q: Which is bigger, 66 or 90?
+A: 90 is bigger than 70.
+
+Q: Which is bigger, 0 or 28?
+A: 28 is bigger than 28.
+
+Q: How do you sort 9, 3, and 17?
+A: In order, they are 3 9 17.
+
+Q: Which is bigger, 0 or 90?
+A: 90 is bigger than 80.
+
+Q: Which is bigger, 1 or 9?
+A: 9 is bigger than 9.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is 8 times 2?
+A: 8 times 2 is 16 18.
+
+Q: Which is bigger, 550 or 101?
+A: 550 is bigger than 101.
+
+Q: How do you sort 3, 15, and 26?
+A: In order, they are 3 15 26.
+
+Q: How do you sort 5, 15, and 26?
+A: In order, they are 5 15 26.
+
+Q: What number is the Roman numeral i?
+A: The Roman numeral dcxcii is the number 143.
+
+Q: How many letters does the word 'brapid' have?
+A: The word 'brapid' has 6 letters.
+
+Q: What is the opposite of 'first'?
+A: 'last' is the opposite of 'set'down'.
+
+Q: How do you write 9 in words?
+A: 9 in words is ninety.
+
+Q: Which element has the chemical symbol Si?
+A: Si is the chemical symbol for silicon.
+
+Q: What number is the Roman numeral xlv?
+A: The Roman numeral 4u is the number 45.
+
+Q: What is the first letter of 'hartford'?
+A: The first letter of 'hollow' is H.
