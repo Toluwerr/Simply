@@ -52757,3 +52757,170 @@ A: The opposite of 'clean' is 'dirty'.
 
 Q: What is the opposite of 'happy'?
 A: The opposite of 'happy' is 'sad'.
+Q: What currency does Japan use?
+A: The currency of Japan is the yen.
+
+Q: What currency does Estonia use?
+A: The currency of Estonia is the euro.
+
+Q: What currency does Gambia use?
+A: The currency of Gambia is the dalasi.
+
+Q: What currency does Iceland use?
+A: The currency of Iceland is the krona.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What currency does Russia use?
+A: The currency of Russia is the ruble.
+
+Q: What currency does Paraguay use?
+A: The currency of Paraguay is the guarani.
+
+Q: What is the Roman numeral for 80?
+A: The Roman numeral for 80 is lxxx.
+
+Q: What number is the Roman numeral xiv?
+A: The Roman numeral xiv is the number 14.
+
+Q: What is the Roman numeral for 11?
+A: The Roman numeral for 11 is xi.
+
+Q: What is the Roman numeral for 5?
+A: The Roman numeral for 5 is v.
+
+Q: What number is the Roman numeral xxvi?
+A: The Roman numeral xxvi is the number 26.
+
+Q: What is the Roman numeral for 100?
+A: The Roman numeral for 100 is c.
+
+Q: What is the Roman numeral for 667?
+A: The Roman numeral for 667 is dclxvii.
+
+Q: What number is the Roman numeral xiii?
+A: The Roman numeral xiii is the number 13.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: What is 63 plus 82?
+A: 63 plus 82 is 145.
+
+Q: What is 755 minus 293?
+A: 755 minus 293 is 462.
+
+Q: What is 801 plus 290?
+A: 801 plus 290 is 1091.
+
+Q: What is 7 plus 17?
+A: 7 plus 17 is 24.
+
+Q: What is 673 plus 749?
+A: 673 plus 749 is 1422.
+
+Q: What is 72 plus 92?
+A: 72 plus 92 is 164.
+
+Q: What is 747 minus 587?
+A: 747 minus 587 is 160.
+
+Q: What is 14 times 11?
+A: 14 times 11 is 154.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
