@@ -57551,3 +57551,170 @@ A: The opposite of 'loud' is 'quiet'.
 
 Q: What is the opposite of 'young'?
 A: The opposite of 'young' is 'old'.
+Q: What currency does Lithuania use?
+A: The currency of Lithuania is the euro.
+
+Q: What currency does Jordan use?
+A: The currency of Jordan is the dinar.
+
+Q: What currency does Tunisia use?
+A: The currency of Tunisia is the dinar.
+
+Q: What currency does Germany use?
+A: The currency of Germany is the euro.
+
+Q: What currency does North Korea use?
+A: The currency of North Korea is the won.
+
+Q: What currency does Germany use?
+A: The currency of Germany is the euro.
+
+Q: What currency does North Korea use?
+A: The currency of North Korea is the won.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What number is the Roman numeral xxxvii?
+A: The Roman numeral xxxvii is the number 37.
+
+Q: What number is the Roman numeral dcccxix?
+A: The Roman numeral dcccxix is the number 819.
+
+Q: What number is the Roman numeral dlxvii?
+A: The Roman numeral dlxvii is the number 567.
+
+Q: What is the Roman numeral for 50?
+A: The Roman numeral for 50 is l.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What number is the Roman numeral xiv?
+A: The Roman numeral xiv is the number 14.
+
+Q: What is the Roman numeral for 23?
+A: The Roman numeral for 23 is xxiii.
+
+Q: What number is the Roman numeral cxvi?
+A: The Roman numeral cxvi is the number 116.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state Iowa?
+A: Des Moines is the capital of Iowa.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: What is 905 minus 307?
+A: 905 minus 307 is 598.
+
+Q: What is 3 plus 11?
+A: 3 plus 11 is 14.
+
+Q: What is 8 times 10?
+A: 8 times 10 is 80.
+
+Q: What is 15 times 11?
+A: 15 times 11 is 165.
+
+Q: What is 33 minus 18?
+A: 33 minus 18 is 15.
+
+Q: What is 929 plus 128?
+A: 929 plus 128 is 1057.
+
+Q: What is 5 times 9?
+A: 5 times 9 is 45.
+
+Q: What is 984 plus 953?
+A: 984 plus 953 is 1937.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'modern' mean?
+A: 'modern' means of the present time.
+
+Q: What does 'loud' mean?
+A: 'loud' means making a strong sound.
