@@ -31189,3 +31189,128 @@ A: In order, they are 426 448 527.
 
 Q: How do you sort 688, 993, and 214?
 A: In order, they are 214 688 993.
+Q: What currency does Taiwan use?
+A: The currency of Taiwan is the dollar.
+
+Q: What currency does Afghanistan use?
+A: The currency of Afghanistan is the afghani.
+
+Q: What currency does Venezuela use?
+A: The currency of Venezuela is the bolivar.
+
+Q: What currency does Bangladesh use?
+A: The currency of Bangladesh is the taka.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Botswana use?
+A: The currency of Botswana is the pula.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by fives from 20 to 40?
+A: Counting by fives gives 20 25 30 35 40.
+
+Q: Can you count by twos from 6 to 16?
+A: Counting by twos gives 6 8 10 12 14 16.
+
+Q: Can you count by fives from 20 to 45?
+A: Counting by fives gives 20 25 30 35 40 45.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: How do you sort 19, 24, and 22?
+A: In order, they are 19 22 24.
+
+Q: How do you sort 446, 612, and 92?
+A: In order, they are 92 446 612.
+
+Q: How do you sort 15, 23, and 13?
+A: In order, they are 13 15 23.
+
+Q: How do you sort 19, 11, and 12?
+A: In order, they are 11 12 19.
+
+Q: How do you sort 1, 12, and 17?
+A: In order, they are 1 12 17.
+
+Q: How do you sort 865, 519, and 707?
+A: In order, they are 519 707 865.
+
+Q: What is the last letter of 'congo'?
+A: The last letter of 'congo' is O.
+
+Q: What is the first letter of 'tripoli'?
+A: The first letter of 'tripoli' is T.
+
+Q: What is the last letter of 'rica'?
+A: The last letter of 'rica' is A.
+
+Q: What is the last letter of 'burkina'?
+A: The last letter of 'burkina' is A.
+
+Q: What is the first letter of 'leone'?
+A: The first letter of 'leone' is L.
+
+Q: What is the first letter of 'gold'?
+A: The first letter of 'gold' is G.
+
+Q: What is double 27?
+A: Double 27 is 54.
+
+Q: What is half of 36?
+A: Half of 36 is 18.
+
+Q: What is double 22?
+A: Double 22 is 44.
+
+Q: What is double 25?
+A: Double 25 is 50.
+
+Q: What is double 30?
+A: Double 30 is 60.
+
+Q: What is double 5?
+A: Double 5 is 10.
+
+Q: What continent is Belarus on?
+A: Belarus is on the continent of Europe.
+
+Q: What continent is Kazakhstan on?
+A: Kazakhstan is on the continent of Asia.
+
+Q: What continent is Tonga on?
+A: Tonga is on the continent of Oceania.
+
+Q: What continent is Iceland on?
+A: Iceland is on the continent of Europe.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Italy on?
+A: Italy is on the continent of Europe.
+
+Q: What is the capital of Canada?
+A: The capital of Canada is Ottawa.
+
+Q: What is the capital of Yemen?
+A: The capital of Yemen is Sanaa.
+
+Q: What is the capital of Barbados?
+A: The capital of Barbados is Bridgetown.
+
+Q: What is the capital of Bangladesh?
+A: The capital of Bangladesh is Dhaka.
+
+Q: What is the capital of Syria?
+A: The capital of Syria is Damascus.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
