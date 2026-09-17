@@ -1228,3 +1228,48 @@ A: Network architecture is the design of a computer network.
 
 Q: What is Victorian architecture?
 A: Victorian architecture is a series of architectural revival styles in the mid-to-late 19th century.
+
+Q: What is Gleam?
+A: Gleam is a general-purpose, concurrent, functional, high-level programming language that compiles to Erlang or JavaScript source code.
+
+Q: What is Raku?
+A: Raku is a member of the Perl family of programming languages.
+
+Q: What is Lua?
+A: Lua is a lightweight, high-level, multi-paradigm programming language designed mainly for embedded use in applications.
+
+Q: What is Swift?
+A: Swift is a high-level general-purpose, multi-paradigm.
+
+Q: What is Ahn Byong-man?
+A: Ahn Byong-man is a South Korean academic, and the former President of Hankuk University of Foreign Studies.
+
+Q: What is Ahn?
+A: Ahn is a Fulbright Scholar-in-Residence at the University of Delaware.
+
+Q: What is Noise-induced order?
+A: Noise-induced order is a mathematical phenomenon appearing in the Matsumoto-Tsuda model of the Belosov-Zhabotinski reaction.
+
+Q: What is Herne Bay and Sandwich?
+A: Herne Bay and Sandwich is a constituency of the House of Commons in the UK Parliament.
+
+Q: What is Tha'ran Ya'ub Yuhan'im?
+A: Tha'ran Ya'ub Yuhan'im is a ruler of the ancient Kingdoms of Saba' and Dhu-Raydan, which was located in present-day Yemen.
+
+Q: What is Pete Donnelly?
+A: Pete Donnelly is an American bass player, singer, songwriter and founding member of The Figgs.
+
+Q: What is Western Heights?
+A: Western Heights is a neighbourhood of Henderson, in West Auckland, New Zealand.
+
+Q: What is Mohamad Wahid Supriyadi?
+A: Mohamad Wahid Supriyadi is an Indonesian diplomat who served as an Ambassador to Russia and Ambassador to the United Arab Emirates .
+
+Q: What is Sutherland ,?
+A: Sutherland , is an American politician who served as 14th commissioner of public lands of the state of Washington from 2001 to 2009.
+
+Q: What is Caines?
+A: Caines is a Danish brand of cigarettes, currently owned and manufactured by House of Prince, a subsidiary of British American Tobacco.
+
+Q: What is Monrepos?
+A: Monrepos is an archaeological research centre and a museum of human behavioural evolution located in Germany.

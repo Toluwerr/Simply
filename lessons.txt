@@ -17534,3 +17534,110 @@ A: 5 times 5 is 25.
 
 Q: What is 6 times 6?
 A: 6 times 6 is 36.
+Q: What is 20 plus 5?
+A: 20 plus 5 is 25.
+
+Q: What is 143 plus 252?
+A: 143 plus 252 is 395.
+
+Q: What is 72 plus 58?
+A: 72 plus 58 is 130.
+
+Q: What is 20 minus 12?
+A: 20 minus 12 is 8.
+
+Q: What is 15 plus 9?
+A: 15 plus 9 is 24.
+
+Q: What is 922 minus 556?
+A: 922 minus 556 is 366.
+
+Q: What currency does the United Arab Emirates use?
+A: The currency of the United Arab Emirates is the dirham.
+
+Q: What currency does Zambia use?
+A: The currency of Zambia is the kwacha.
+
+Q: What currency does Bulgaria use?
+A: The currency of Bulgaria is the lev.
+
+Q: What currency does Trinidad and Tobago use?
+A: The currency of Trinidad and Tobago is the dollar.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What currency does Cyprus use?
+A: The currency of Cyprus is the euro.
+
+Q: What is the Roman numeral for 441?
+A: The Roman numeral for 441 is cdxli.
+
+Q: What is the Roman numeral for 921?
+A: The Roman numeral for 921 is cmxxi.
+
+Q: What number is the Roman numeral ix?
+A: The Roman numeral ix is the number 9.
+
+Q: What is the Roman numeral for 12?
+A: The Roman numeral for 12 is xii.
+
+Q: What number is the Roman numeral c?
+A: The Roman numeral c is the number 100.
+
+Q: What number is the Roman numeral xcix?
+A: The Roman numeral xcix is the number 99.
+
+Q: What is double 16?
+A: Double 16 is 32.
+
+Q: What is half of 20?
+A: Half of 20 is 10.
+
+Q: What is half of 10?
+A: Half of 10 is 5.
+
+Q: What is double 46?
+A: Double 46 is 92.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is double 30?
+A: Double 30 is 60.
+
+Q: How many letters does the word 'riel' have?
+A: The word 'riel' has 4 letters.
+
+Q: How many letters does the word 'paul' have?
+A: The word 'paul' has 4 letters.
+
+Q: How many letters does the word 'salvador' have?
+A: The word 'salvador' has 8 letters.
+
+Q: How many letters does the word 'raven' have?
+A: The word 'raven' has 5 letters.
+
+Q: How many letters does the word 'stockholm' have?
+A: The word 'stockholm' has 9 letters.
+
+Q: How many letters does the word 'gentle' have?
+A: The word 'gentle' has 6 letters.
+
+Q: What is the first letter of 'duck'?
+A: The first letter of 'duck' is D.
+
+Q: What is the last letter of 'prague'?
+A: The last letter of 'prague' is E.
+
+Q: What is the first letter of 'zebra'?
+A: The first letter of 'zebra' is Z.
+
+Q: What is the first letter of 'cambodia'?
+A: The first letter of 'cambodia' is C.
+
+Q: What is the first letter of 'columbia'?
+A: The first letter of 'columbia' is C.
+
+Q: What is the last letter of 'moroni'?
+A: The last letter of 'moroni' is I.
