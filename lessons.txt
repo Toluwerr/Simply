@@ -44853,3 +44853,170 @@ A: The capital of Belarus is Minsk.
 
 Q: What is the capital of Tanzania?
 A: The capital of Tanzania is Dodoma.
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'huge' mean?
+A: 'huge' means very large.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What is the chemical symbol for aluminium?
+A: The chemical symbol for aluminium is Al.
+
+Q: What is the chemical symbol for lanthanum?
+A: The chemical symbol for lanthanum is La.
+
+Q: What is the chemical symbol for praseodymium?
+A: The chemical symbol for praseodymium is Pr.
+
+Q: Which element has the chemical symbol Rb?
+A: Rb is the chemical symbol for rubidium.
+
+Q: Which element has the chemical symbol Eu?
+A: Eu is the chemical symbol for europium.
+
+Q: What is the chemical symbol for niobium?
+A: The chemical symbol for niobium is Nb.
+
+Q: What is the chemical symbol for strontium?
+A: The chemical symbol for strontium is Sr.
+
+Q: Which element has the chemical symbol O?
+A: O is the chemical symbol for oxygen.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What number is the Roman numeral cdxciii?
+A: The Roman numeral cdxciii is the number 493.
+
+Q: What number is the Roman numeral xlvii?
+A: The Roman numeral xlvii is the number 47.
+
+Q: What is the Roman numeral for 277?
+A: The Roman numeral for 277 is cclxxvii.
+
+Q: What is the Roman numeral for 66?
+A: The Roman numeral for 66 is lxvi.
+
+Q: What is the Roman numeral for 21?
+A: The Roman numeral for 21 is xxi.
+
+Q: What number is the Roman numeral xvi?
+A: The Roman numeral xvi is the number 16.
+
+Q: What is the Roman numeral for 8?
+A: The Roman numeral for 8 is viii.
+
+Q: What number is the Roman numeral xxviii?
+A: The Roman numeral xxviii is the number 28.
+
+Q: What is the last letter of 'jamaica'?
+A: The last letter of 'jamaica' is A.
+
+Q: What is the first letter of 'india'?
+A: The first letter of 'india' is I.
+
+Q: What is the first letter of 'richmond'?
+A: The first letter of 'richmond' is R.
+
+Q: What is the first letter of 'lumpur'?
+A: The first letter of 'lumpur' is L.
+
+Q: What is the first letter of 'oregon'?
+A: The first letter of 'oregon' is O.
+
+Q: What is the first letter of 'polite'?
+A: The first letter of 'polite' is P.
+
+Q: What is the first letter of 'radon'?
+A: The first letter of 'radon' is R.
+
+Q: What is the first letter of 'peaceful'?
+A: The first letter of 'peaceful' is P.
+
+Q: Which is bigger, 10 or 4?
+A: 10 is bigger than 4.
+
+Q: Which is bigger, 670 or 696?
+A: 696 is bigger than 670.
+
+Q: Which is bigger, 321 or 285?
+A: 321 is bigger than 285.
+
+Q: Is 473 bigger than 676?
+A: No, 676 is bigger than 473.
+
+Q: Is 78 bigger than 66?
+A: Yes, 78 is bigger than 66.
+
+Q: Is 416 bigger than 990?
+A: No, 990 is bigger than 416.
+
+Q: Which is bigger, 877 or 100?
+A: 877 is bigger than 100.
+
+Q: Which is bigger, 705 or 764?
+A: 764 is bigger than 705.
+
+Q: What is double 19?
+A: Double 19 is 38.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is double 58?
+A: Double 58 is 116.
+
+Q: What is double 16?
+A: Double 16 is 32.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is half of 24?
+A: Half of 24 is 12.
+
+Q: What is double 60?
+A: Double 60 is 120.
+
+Q: What is double 41?
+A: Double 41 is 82.
