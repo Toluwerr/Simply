@@ -59044,3 +59044,146 @@ A: The currency of the Czech Republic is the koruna.
 
 Q: What currency does Greece use?
 A: The currency of Greece is the euro.
+Q: What is the last letter of 'tokyo'?
+A: The last letter of 'tokyo' is O.
+
+Q: What is the first letter of 'rupee'?
+A: The first letter of 'rupee' is R.
+
+Q: What is the first letter of 'afghanistan'?
+A: The first letter of 'afghanistan' is A.
+
+Q: What is the last letter of 'venus'?
+A: The last letter of 'venus' is S.
+
+Q: What is the first letter of 'chisinau'?
+A: The first letter of 'chisinau' is C.
+
+Q: What is the first letter of 'garden'?
+A: The first letter of 'garden' is G.
+
+Q: What is the first letter of 'verde'?
+A: The first letter of 'verde' is V.
+
+Q: What is the first letter of 'warm'?
+A: The first letter of 'warm' is W.
+
+Q: How do you sort 201, 923, and 479?
+A: In order, they are 201 479 923.
+
+Q: How do you sort 8, 9, and 27?
+A: In order, they are 8 9 27.
+
+Q: How do you sort 7, 20, and 14?
+A: In order, they are 7 14 20.
+
+Q: How do you sort 5, 16, and 24?
+A: In order, they are 5 16 24.
+
+Q: How do you sort 869, 875, and 72?
+A: In order, they are 72 869 875.
+
+Q: How do you sort 779, 630, and 650?
+A: In order, they are 630 650 779.
+
+Q: How do you sort 1, 20, and 28?
+A: In order, they are 1 20 28.
+
+Q: How do you sort 7, 3, and 24?
+A: In order, they are 3 7 24.
+
+Q: Is 66 bigger than 81?
+A: No, 81 is bigger than 66.
+
+Q: Is 75 bigger than 30?
+A: Yes, 75 is bigger than 30.
+
+Q: Which is bigger, 704 or 432?
+A: 704 is bigger than 432.
+
+Q: Which is bigger, 10 or 19?
+A: 19 is bigger than 10.
+
+Q: Which is bigger, 93 or 16?
+A: 93 is bigger than 16.
+
+Q: Which is bigger, 274 or 916?
+A: 916 is bigger than 274.
+
+Q: Is 659 bigger than 146?
+A: Yes, 659 is bigger than 146.
+
+Q: Which is bigger, 19 or 42?
+A: 42 is bigger than 19.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: What is the capital of Bahrain?
+A: The capital of Bahrain is Manama.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What is the capital of Mauritania?
+A: The capital of Mauritania is Nouakchott.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of Ecuador?
+A: The capital of Ecuador is Quito.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of Myanmar?
+A: The capital of Myanmar is Naypyidaw.
+
+Q: What is 8 times 8?
+A: 8 times 8 is 64.
+
+Q: What is 57 minus 44?
+A: 57 minus 44 is 13.
+
+Q: What is 14 times 12?
+A: 14 times 12 is 168.
+
+Q: What is 5 times 8?
+A: 5 times 8 is 40.
+
+Q: What is 91 minus 32?
+A: 91 minus 32 is 59.
+
+Q: What is 88 minus 74?
+A: 88 minus 74 is 14.
+
+Q: What is 11 plus 1?
+A: 11 plus 1 is 12.
+
+Q: What is 20 minus 11?
+A: 20 minus 11 is 9.
