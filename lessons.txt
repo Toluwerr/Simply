@@ -33915,3 +33915,146 @@ A: The currency of Mexico is the peso.
 
 Q: What currency does Georgia use?
 A: The currency of Georgia is the lari.
+Q: How many letters does the word 'kip' have?
+A: The word 'kip' has 3 letters.
+
+Q: How many letters does the word 'gambia' have?
+A: The word 'gambia' has 6 letters.
+
+Q: How many letters does the word 'bishkek' have?
+A: The word 'bishkek' has 7 letters.
+
+Q: How many letters does the word 'kwacha' have?
+A: The word 'kwacha' has 6 letters.
+
+Q: How many letters does the word 'mauritania' have?
+A: The word 'mauritania' has 10 letters.
+
+Q: How many letters does the word 'ouagadougou' have?
+A: The word 'ouagadougou' has 11 letters.
+
+Q: How many letters does the word 'antimony' have?
+A: The word 'antimony' has 8 letters.
+
+Q: How many letters does the word 'united' have?
+A: The word 'united' has 6 letters.
+
+Q: What is the last letter of 'pyongyang'?
+A: The last letter of 'pyongyang' is G.
+
+Q: What is the first letter of 'botswana'?
+A: The first letter of 'botswana' is B.
+
+Q: What is the last letter of 'ouagadougou'?
+A: The last letter of 'ouagadougou' is U.
+
+Q: What is the last letter of 'brazzaville'?
+A: The last letter of 'brazzaville' is E.
+
+Q: What is the last letter of 'kyat'?
+A: The last letter of 'kyat' is T.
+
+Q: What is the last letter of 'montgomery'?
+A: The last letter of 'montgomery' is Y.
+
+Q: What is the first letter of 'brave'?
+A: The first letter of 'brave' is B.
+
+Q: What is the first letter of 'russia'?
+A: The first letter of 'russia' is R.
+
+Q: How do you sort 62, 810, and 197?
+A: In order, they are 62 197 810.
+
+Q: How do you sort 14, 13, and 24?
+A: In order, they are 13 14 24.
+
+Q: How do you sort 22, 27, and 9?
+A: In order, they are 9 22 27.
+
+Q: How do you sort 18, 22, and 28?
+A: In order, they are 18 22 28.
+
+Q: How do you sort 21, 10, and 14?
+A: In order, they are 10 14 21.
+
+Q: How do you sort 27, 9, and 10?
+A: In order, they are 9 10 27.
+
+Q: How do you sort 14, 20, and 6?
+A: In order, they are 6 14 20.
+
+Q: How do you sort 186, 244, and 709?
+A: In order, they are 186 244 709.
+
+Q: Which is bigger, 78 or 87?
+A: 87 is bigger than 78.
+
+Q: Is 90 bigger than 50?
+A: Yes, 90 is bigger than 50.
+
+Q: Is 17 bigger than 15?
+A: Yes, 17 is bigger than 15.
+
+Q: Which is bigger, 83 or 40?
+A: 83 is bigger than 40.
+
+Q: Is 99 bigger than 71?
+A: Yes, 99 is bigger than 71.
+
+Q: Which is bigger, 6 or 4?
+A: 6 is bigger than 4.
+
+Q: Is 86 bigger than 35?
+A: Yes, 86 is bigger than 35.
+
+Q: Which is bigger, 339 or 111?
+A: 339 is bigger than 111.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: What is the capital of Haiti?
+A: The capital of Haiti is Port-au-Prince.
+
+Q: What is the capital of Panama?
+A: The capital of Panama is Panama City.
+
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+
+Q: What is the capital of Pakistan?
+A: The capital of Pakistan is Islamabad.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What is the capital of Uzbekistan?
+A: The capital of Uzbekistan is Tashkent.
+
+Q: What is the capital of Portugal?
+A: The capital of Portugal is Lisbon.
+
+Q: What is the capital of Senegal?
+A: The capital of Senegal is Dakar.
