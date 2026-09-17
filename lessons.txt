@@ -38399,3 +38399,170 @@ A: The opposite of 'early' is 'late'.
 
 Q: What is the opposite of 'fast'?
 A: The opposite of 'fast' is 'slow'.
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
+
+Q: What currency does Nigeria use?
+A: The currency of Nigeria is the naira.
+
+Q: What currency does the United Arab Emirates use?
+A: The currency of the United Arab Emirates is the dirham.
+
+Q: What currency does Ukraine use?
+A: The currency of Ukraine is the hryvnia.
+
+Q: What currency does Iraq use?
+A: The currency of Iraq is the dinar.
+
+Q: What currency does Uzbekistan use?
+A: The currency of Uzbekistan is the som.
+
+Q: What currency does Uruguay use?
+A: The currency of Uruguay is the peso.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What number is the Roman numeral cclxxvii?
+A: The Roman numeral cclxxvii is the number 277.
+
+Q: What is the Roman numeral for 72?
+A: The Roman numeral for 72 is lxxii.
+
+Q: What is the Roman numeral for 939?
+A: The Roman numeral for 939 is cmxxxix.
+
+Q: What is the Roman numeral for 91?
+A: The Roman numeral for 91 is xci.
+
+Q: What number is the Roman numeral xxxii?
+A: The Roman numeral xxxii is the number 32.
+
+Q: What number is the Roman numeral lxxiv?
+A: The Roman numeral lxxiv is the number 74.
+
+Q: What number is the Roman numeral xiii?
+A: The Roman numeral xiii is the number 13.
+
+Q: What number is the Roman numeral lxxxi?
+A: The Roman numeral lxxxi is the number 81.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Colorado?
+A: Denver is the capital of Colorado.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: What is 12 times 16?
+A: 12 times 16 is 192.
+
+Q: What is 46 plus 45?
+A: 46 plus 45 is 91.
+
+Q: What is 16 plus 2?
+A: 16 plus 2 is 18.
+
+Q: What is 58 plus 97?
+A: 58 plus 97 is 155.
+
+Q: What is 68 plus 78?
+A: 68 plus 78 is 146.
+
+Q: What is 7 times 4?
+A: 7 times 4 is 28.
+
+Q: What is 83 minus 52?
+A: 83 minus 52 is 31.
+
+Q: What is 7 times 11?
+A: 7 times 11 is 77.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'curious' mean?
+A: 'curious' means wanting to learn and explore.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
