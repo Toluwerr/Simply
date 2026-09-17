@@ -48416,3 +48416,170 @@ A: The capital of Benin is Porto-Novo.
 
 Q: What is the capital of Uzbekistan?
 A: The capital of Uzbekistan is Tashkent.
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'deep' mean?
+A: 'deep' means going far down.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'shallow' mean?
+A: 'shallow' means not deep.
+
+Q: What is the chemical symbol for erbium?
+A: The chemical symbol for erbium is Er.
+
+Q: Which element has the chemical symbol Ru?
+A: Ru is the chemical symbol for ruthenium.
+
+Q: Which element has the chemical symbol Li?
+A: Li is the chemical symbol for lithium.
+
+Q: Which element has the chemical symbol K?
+A: K is the chemical symbol for potassium.
+
+Q: What is the chemical symbol for carbon?
+A: The chemical symbol for carbon is C.
+
+Q: Which element has the chemical symbol Cr?
+A: Cr is the chemical symbol for chromium.
+
+Q: What is the chemical symbol for carbon?
+A: The chemical symbol for carbon is C.
+
+Q: Which element has the chemical symbol Hf?
+A: Hf is the chemical symbol for hafnium.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What number is the Roman numeral xi?
+A: The Roman numeral xi is the number 11.
+
+Q: What is the Roman numeral for 344?
+A: The Roman numeral for 344 is cccxliv.
+
+Q: What is the Roman numeral for 90?
+A: The Roman numeral for 90 is xc.
+
+Q: What number is the Roman numeral dccclxxxiii?
+A: The Roman numeral dccclxxxiii is the number 883.
+
+Q: What number is the Roman numeral iv?
+A: The Roman numeral iv is the number 4.
+
+Q: What is the Roman numeral for 70?
+A: The Roman numeral for 70 is lxx.
+
+Q: What is the Roman numeral for 72?
+A: The Roman numeral for 72 is lxxii.
+
+Q: What number is the Roman numeral dclii?
+A: The Roman numeral dclii is the number 652.
+
+Q: What is the last letter of 'neodymium'?
+A: The last letter of 'neodymium' is M.
+
+Q: What is the last letter of 'skopje'?
+A: The last letter of 'skopje' is E.
+
+Q: What is the first letter of 'ocean'?
+A: The first letter of 'ocean' is O.
+
+Q: What is the last letter of 'roar'?
+A: The last letter of 'roar' is R.
+
+Q: What is the first letter of 'tunisia'?
+A: The first letter of 'tunisia' is T.
+
+Q: What is the last letter of 'rica'?
+A: The last letter of 'rica' is A.
+
+Q: What is the last letter of 'arabia'?
+A: The last letter of 'arabia' is A.
+
+Q: What is the first letter of 'botswana'?
+A: The first letter of 'botswana' is B.
+
+Q: Is 813 bigger than 368?
+A: Yes, 813 is bigger than 368.
+
+Q: Which is bigger, 552 or 152?
+A: 552 is bigger than 152.
+
+Q: Is 957 bigger than 625?
+A: Yes, 957 is bigger than 625.
+
+Q: Which is bigger, 8 or 9?
+A: 9 is bigger than 8.
+
+Q: Which is bigger, 15 or 58?
+A: 58 is bigger than 15.
+
+Q: Is 10 bigger than 15?
+A: No, 15 is bigger than 10.
+
+Q: Which is bigger, 17 or 21?
+A: 21 is bigger than 17.
+
+Q: Is 2 bigger than 3?
+A: No, 3 is bigger than 2.
+
+Q: What is double 11?
+A: Double 11 is 22.
+
+Q: What is double 36?
+A: Double 36 is 72.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What is half of 44?
+A: Half of 44 is 22.
+
+Q: What is double 10?
+A: Double 10 is 20.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is double 15?
+A: Double 15 is 30.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
