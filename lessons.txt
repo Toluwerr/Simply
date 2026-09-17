@@ -37898,3 +37898,170 @@ A: 974 is bigger than 573.
 
 Q: Is 12 bigger than 69?
 A: No, 69 is bigger than 12.
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a duck make?
+A: A duck says 'quack'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 35 in words?
+A: 35 in words is thirty-five.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 20 in words?
+A: 20 in words is twenty.
+
+Q: How do you write 39 in words?
+A: 39 in words is thirty-nine.
+
+Q: How do you write 33 in words?
+A: 33 in words is thirty-three.
+
+Q: What currency does Bosnia and Herzegovina use?
+A: The currency of Bosnia and Herzegovina is the mark.
+
+Q: What currency does Senegal use?
+A: The currency of Senegal is the franc.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does Uganda use?
+A: The currency of Uganda is the shilling.
+
+Q: What currency does Zambia use?
+A: The currency of Zambia is the kwacha.
+
+Q: What currency does Sweden use?
+A: The currency of Sweden is the krona.
+
+Q: What currency does the Bahamas use?
+A: The currency of the Bahamas is the dollar.
+
+Q: What currency does Saudi Arabia use?
+A: The currency of Saudi Arabia is the riyal.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: How do you sort 223, 660, and 303?
+A: In order, they are 223 303 660.
+
+Q: How do you sort 5, 24, and 16?
+A: In order, they are 5 16 24.
+
+Q: How do you sort 728, 764, and 791?
+A: In order, they are 728 764 791.
+
+Q: How do you sort 28, 19, and 29?
+A: In order, they are 19 28 29.
+
+Q: How do you sort 28, 14, and 26?
+A: In order, they are 14 26 28.
+
+Q: How do you sort 21, 28, and 20?
+A: In order, they are 20 21 28.
+
+Q: How do you sort 915, 236, and 448?
+A: In order, they are 236 448 915.
+
+Q: How do you sort 20, 5, and 2?
+A: In order, they are 2 5 20.
+
+Q: What is the last letter of 'eager'?
+A: The last letter of 'eager' is R.
+
+Q: What is the first letter of 'florida'?
+A: The first letter of 'florida' is F.
+
+Q: What is the last letter of 'shilling'?
+A: The last letter of 'shilling' is G.
+
+Q: What is the first letter of 'otter'?
+A: The first letter of 'otter' is O.
+
+Q: What is the last letter of 'weak'?
+A: The last letter of 'weak' is K.
+
+Q: What is the last letter of 'lilongwe'?
+A: The last letter of 'lilongwe' is E.
+
+Q: What is the first letter of 'gallium'?
+A: The first letter of 'gallium' is G.
+
+Q: What is the first letter of 'burundi'?
+A: The first letter of 'burundi' is B.
