@@ -16642,3 +16642,110 @@ A: 13 is bigger than 10.
 
 Q: Which is bigger, 299 or 759?
 A: 759 is bigger than 299.
+Q: How many oceans are there?
+A: There are 5 oceans.
+
+Q: What is the most populous country?
+A: India is the most populous country.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: How many bones does an adult human have?
+A: An adult human has 206 bones.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: How many planets are there?
+A: There are 8 planets.
+
+Q: How many letters does the word 'emirates' have?
+A: The word 'emirates' has 8 letters.
+
+Q: How many letters does the word 'cool' have?
+A: The word 'cool' has 4 letters.
+
+Q: How many letters does the word 'lempira' have?
+A: The word 'lempira' has 7 letters.
+
+Q: How many letters does the word 'messy' have?
+A: The word 'messy' has 5 letters.
+
+Q: How many letters does the word 'jordan' have?
+A: The word 'jordan' has 6 letters.
+
+Q: How many letters does the word 'jakarta' have?
+A: The word 'jakarta' has 7 letters.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'up'?
+A: The opposite of 'up' is 'down'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: How do you sort 14, 25, and 29?
+A: In order, they are 14 25 29.
+
+Q: How do you sort 165, 540, and 488?
+A: In order, they are 165 488 540.
+
+Q: How do you sort 14, 15, and 13?
+A: In order, they are 13 14 15.
+
+Q: How do you sort 19, 28, and 6?
+A: In order, they are 6 19 28.
+
+Q: How do you sort 163, 667, and 985?
+A: In order, they are 163 667 985.
+
+Q: How do you sort 571, 825, and 604?
+A: In order, they are 571 604 825.
+
+Q: Can you count by twos from 20 to 28?
+A: Counting by twos gives 20 22 24 26 28.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by twos from 34 to 40?
+A: Counting by twos gives 34 36 38 40.
+
+Q: Can you count by twos from 14 to 20?
+A: Counting by twos gives 14 16 18 20.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does Austria use?
+A: The currency of Austria is the euro.
+
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does Belarus use?
+A: The currency of Belarus is the ruble.
+
+Q: What currency does Jamaica use?
+A: The currency of Jamaica is the dollar.
+
+Q: What currency does Israel use?
+A: The currency of Israel is the shekel.

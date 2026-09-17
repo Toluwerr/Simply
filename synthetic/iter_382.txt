@@ -1,0 +1,14 @@
+Q: What is 13 minus 13?
+A: 13 minus 13 is 0.
+
+Q: What currency does Greece use?
+A: The currency of Greece is the euro.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 35 40 45.
+
+Q: Can you count by fives from 20 to 30?
+A: Counting by fives gives 20 25 30 35 30.
