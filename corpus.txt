@@ -12518,3 +12518,40 @@ A: Water freezes at 0 degrees Celsius.
 
 Q: What is 0 times 0?
 A: 0 times 0 is 0 polite and bull of the bird of the bird ofly.
+
+
+Q: How much is 0 plus 23?
+A: 0 plus 23 is 23.
+
+Q: How much is 0 plus 30?
+A: 70 plus 30 is 30.
+
+Q: How much is 0 plus 26?
+A: 0 plus 26 is 26.
+
+Q: What is the capital of the Dominican Republic?
+A: The capital of the Dominican Republic is Santo Domingo.
+
+Q: Is 16 bigger than 30?
+A: No, 30 is bigger than 30.
+
+Q: What is the chemical symbol for chromium?
+A: The chemical symbol for chromium is Cr.
+
+Q: How do you sort 7, 11, and 29?
+A: In order, they are 7 11 29.
+
+Q: How do you sort 4, 13, and 20?
+A: In order, they are 4 13 20.
+
+Q: How do you sort 7, 24, and 11?
+A: In order, they are 7 11 24.
+
+Q: How do you sort 3, 18, and 13?
+A: In order, they are 3 13 18.
+
+Q: How do you sort 18, 11, and 22?
+A: In order, they are 11 18 22.
+
+Q: How do you sort 28, 11, and 17?
+A: In order, they are 11 17 28.
