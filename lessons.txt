@@ -26092,3 +26092,170 @@ A: The capital of San Marino is San Marino.
 
 Q: What is the capital of Cambodia?
 A: The capital of Cambodia is Phnom Penh.
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'kind' mean?
+A: 'kind' means nice and caring.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What is the chemical symbol for nickel?
+A: The chemical symbol for nickel is Ni.
+
+Q: Which element has the chemical symbol Mn?
+A: Mn is the chemical symbol for manganese.
+
+Q: Which element has the chemical symbol Cs?
+A: Cs is the chemical symbol for cesium.
+
+Q: Which element has the chemical symbol Th?
+A: Th is the chemical symbol for thorium.
+
+Q: What is the chemical symbol for ruthenium?
+A: The chemical symbol for ruthenium is Ru.
+
+Q: Which element has the chemical symbol Sc?
+A: Sc is the chemical symbol for scandium.
+
+Q: Which element has the chemical symbol Sr?
+A: Sr is the chemical symbol for strontium.
+
+Q: Which element has the chemical symbol Th?
+A: Th is the chemical symbol for thorium.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What number is the Roman numeral cmlvii?
+A: The Roman numeral cmlvii is the number 957.
+
+Q: What number is the Roman numeral dcclxxxvi?
+A: The Roman numeral dcclxxxvi is the number 786.
+
+Q: What is the Roman numeral for 231?
+A: The Roman numeral for 231 is ccxxxi.
+
+Q: What is the Roman numeral for 678?
+A: The Roman numeral for 678 is dclxxviii.
+
+Q: What is the Roman numeral for 22?
+A: The Roman numeral for 22 is xxii.
+
+Q: What number is the Roman numeral dcii?
+A: The Roman numeral dcii is the number 602.
+
+Q: What number is the Roman numeral dclxii?
+A: The Roman numeral dclxii is the number 662.
+
+Q: What number is the Roman numeral xii?
+A: The Roman numeral xii is the number 12.
+
+Q: What is the last letter of 'guatemala'?
+A: The last letter of 'guatemala' is A.
+
+Q: What is the last letter of 'hiss'?
+A: The last letter of 'hiss' is S.
+
+Q: What is the last letter of 'algeria'?
+A: The last letter of 'algeria' is A.
+
+Q: What is the last letter of 'andorra'?
+A: The last letter of 'andorra' is A.
+
+Q: What is the last letter of 'duck'?
+A: The last letter of 'duck' is K.
+
+Q: What is the last letter of 'sound'?
+A: The last letter of 'sound' is D.
+
+Q: What is the last letter of 'port'?
+A: The last letter of 'port' is T.
+
+Q: What is the first letter of 'manganese'?
+A: The first letter of 'manganese' is M.
+
+Q: Which is bigger, 20 or 10?
+A: 20 is bigger than 10.
+
+Q: Which is bigger, 45 or 89?
+A: 89 is bigger than 45.
+
+Q: Which is bigger, 737 or 162?
+A: 737 is bigger than 162.
+
+Q: Which is bigger, 452 or 758?
+A: 758 is bigger than 452.
+
+Q: Is 20 bigger than 73?
+A: No, 73 is bigger than 20.
+
+Q: Is 257 bigger than 591?
+A: No, 591 is bigger than 257.
+
+Q: Is 61 bigger than 35?
+A: Yes, 61 is bigger than 35.
+
+Q: Which is bigger, 78 or 88?
+A: 88 is bigger than 78.
+
+Q: What is half of 60?
+A: Half of 60 is 30.
+
+Q: What is double 30?
+A: Double 30 is 60.
+
+Q: What is half of 34?
+A: Half of 34 is 17.
+
+Q: What is half of 54?
+A: Half of 54 is 27.
+
+Q: What is half of 22?
+A: Half of 22 is 11.
+
+Q: What is double 25?
+A: Double 25 is 50.
+
+Q: What is double 29?
+A: Double 29 is 58.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
