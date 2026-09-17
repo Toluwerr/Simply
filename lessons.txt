@@ -48049,3 +48049,170 @@ A: The capital of Dominica is Roseau.
 
 Q: What is the capital of Taiwan?
 A: The capital of Taiwan is Taipei.
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What is the chemical symbol for fluorine?
+A: The chemical symbol for fluorine is F.
+
+Q: What is the chemical symbol for palladium?
+A: The chemical symbol for palladium is Pd.
+
+Q: What is the chemical symbol for thorium?
+A: The chemical symbol for thorium is Th.
+
+Q: What is the chemical symbol for carbon?
+A: The chemical symbol for carbon is C.
+
+Q: What is the chemical symbol for potassium?
+A: The chemical symbol for potassium is K.
+
+Q: What is the chemical symbol for rubidium?
+A: The chemical symbol for rubidium is Rb.
+
+Q: What is the chemical symbol for krypton?
+A: The chemical symbol for krypton is Kr.
+
+Q: Which element has the chemical symbol Ru?
+A: Ru is the chemical symbol for ruthenium.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'warm'?
+A: The opposite of 'warm' is 'cool'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the Roman numeral for 73?
+A: The Roman numeral for 73 is lxxiii.
+
+Q: What number is the Roman numeral xvii?
+A: The Roman numeral xvii is the number 17.
+
+Q: What is the Roman numeral for 20?
+A: The Roman numeral for 20 is xx.
+
+Q: What number is the Roman numeral dcclxxv?
+A: The Roman numeral dcclxxv is the number 775.
+
+Q: What is the Roman numeral for 82?
+A: The Roman numeral for 82 is lxxxii.
+
+Q: What number is the Roman numeral cmlxiv?
+A: The Roman numeral cmlxiv is the number 964.
+
+Q: What number is the Roman numeral dc?
+A: The Roman numeral dc is the number 600.
+
+Q: What is the Roman numeral for 6?
+A: The Roman numeral for 6 is vi.
+
+Q: What is the first letter of 'vatican'?
+A: The first letter of 'vatican' is V.
+
+Q: What is the last letter of 'mbabane'?
+A: The last letter of 'mbabane' is E.
+
+Q: What is the first letter of 'tallinn'?
+A: The first letter of 'tallinn' is T.
+
+Q: What is the first letter of 'narrow'?
+A: The first letter of 'narrow' is N.
+
+Q: What is the last letter of 'panda'?
+A: The last letter of 'panda' is A.
+
+Q: What is the first letter of 'santiago'?
+A: The first letter of 'santiago' is S.
+
+Q: What is the last letter of 'central'?
+A: The last letter of 'central' is L.
+
+Q: What is the first letter of 'paul'?
+A: The first letter of 'paul' is P.
+
+Q: Which is bigger, 162 or 696?
+A: 696 is bigger than 162.
+
+Q: Is 95 bigger than 40?
+A: Yes, 95 is bigger than 40.
+
+Q: Is 13 bigger than 17?
+A: No, 17 is bigger than 13.
+
+Q: Is 20 bigger than 6?
+A: Yes, 20 is bigger than 6.
+
+Q: Which is bigger, 823 or 418?
+A: 823 is bigger than 418.
+
+Q: Is 42 bigger than 37?
+A: Yes, 42 is bigger than 37.
+
+Q: Is 94 bigger than 71?
+A: Yes, 94 is bigger than 71.
+
+Q: Is 537 bigger than 857?
+A: No, 857 is bigger than 537.
+
+Q: What is half of 4?
+A: Half of 4 is 2.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is double 52?
+A: Double 52 is 104.
+
+Q: What is half of 30?
+A: Half of 30 is 15.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What is double 39?
+A: Double 39 is 78.
+
+Q: What is half of 36?
+A: Half of 36 is 18.
+
+Q: What is double 11?
+A: Double 11 is 22.
