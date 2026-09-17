@@ -42048,3 +42048,170 @@ A: The capital of Canada is Ottawa.
 
 Q: What is the capital of Nigeria?
 A: The capital of Nigeria is Abuja.
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'brave' mean?
+A: 'brave' means not afraid of danger.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'fragile' mean?
+A: 'fragile' means easily broken.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: Which element has the chemical symbol Tc?
+A: Tc is the chemical symbol for technetium.
+
+Q: Which element has the chemical symbol La?
+A: La is the chemical symbol for lanthanum.
+
+Q: What is the chemical symbol for lithium?
+A: The chemical symbol for lithium is Li.
+
+Q: Which element has the chemical symbol B?
+A: B is the chemical symbol for boron.
+
+Q: Which element has the chemical symbol Pt?
+A: Pt is the chemical symbol for platinum.
+
+Q: Which element has the chemical symbol Ru?
+A: Ru is the chemical symbol for ruthenium.
+
+Q: What is the chemical symbol for lutetium?
+A: The chemical symbol for lutetium is Lu.
+
+Q: Which element has the chemical symbol Lu?
+A: Lu is the chemical symbol for lutetium.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'tall'?
+A: The opposite of 'tall' is 'short'.
+
+Q: What is the Roman numeral for 85?
+A: The Roman numeral for 85 is lxxxv.
+
+Q: What is the Roman numeral for 899?
+A: The Roman numeral for 899 is dcccxcix.
+
+Q: What is the Roman numeral for 100?
+A: The Roman numeral for 100 is c.
+
+Q: What number is the Roman numeral xci?
+A: The Roman numeral xci is the number 91.
+
+Q: What is the Roman numeral for 16?
+A: The Roman numeral for 16 is xvi.
+
+Q: What is the Roman numeral for 5?
+A: The Roman numeral for 5 is v.
+
+Q: What is the Roman numeral for 44?
+A: The Roman numeral for 44 is xliv.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What is the first letter of 'ruthenium'?
+A: The first letter of 'ruthenium' is R.
+
+Q: What is the last letter of 'salvador'?
+A: The last letter of 'salvador' is R.
+
+Q: What is the first letter of 'old'?
+A: The first letter of 'old' is O.
+
+Q: What is the last letter of 'brazzaville'?
+A: The last letter of 'brazzaville' is E.
+
+Q: What is the first letter of 'very'?
+A: The first letter of 'very' is V.
+
+Q: What is the last letter of 'flower'?
+A: The last letter of 'flower' is R.
+
+Q: What is the first letter of 'hungary'?
+A: The first letter of 'hungary' is H.
+
+Q: What is the first letter of 'duck'?
+A: The first letter of 'duck' is D.
+
+Q: Is 14 bigger than 18?
+A: No, 18 is bigger than 14.
+
+Q: Is 52 bigger than 85?
+A: No, 85 is bigger than 52.
+
+Q: Is 11 bigger than 4?
+A: Yes, 11 is bigger than 4.
+
+Q: Which is bigger, 413 or 178?
+A: 413 is bigger than 178.
+
+Q: Is 728 bigger than 143?
+A: Yes, 728 is bigger than 143.
+
+Q: Is 12 bigger than 7?
+A: Yes, 12 is bigger than 7.
+
+Q: Is 21 bigger than 49?
+A: No, 49 is bigger than 21.
+
+Q: Which is bigger, 379 or 246?
+A: 379 is bigger than 246.
+
+Q: What is double 47?
+A: Double 47 is 94.
+
+Q: What is half of 16?
+A: Half of 16 is 8.
+
+Q: What is half of 56?
+A: Half of 56 is 28.
+
+Q: What is double 43?
+A: Double 43 is 86.
+
+Q: What is double 52?
+A: Double 52 is 104.
+
+Q: What is double 6?
+A: Double 6 is 12.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is double 33?
+A: Double 33 is 66.
