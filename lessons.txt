@@ -33524,3 +33524,170 @@ A: 33 in words is thirty-three.
 
 Q: How do you write 100 in words?
 A: 100 in words is one hundred.
+Q: Which is bigger, 96 or 92?
+A: 96 is bigger than 92.
+
+Q: Which is bigger, 734 or 700?
+A: 734 is bigger than 700.
+
+Q: Is 31 bigger than 25?
+A: Yes, 31 is bigger than 25.
+
+Q: Is 14 bigger than 5?
+A: Yes, 14 is bigger than 5.
+
+Q: Which is bigger, 14 or 17?
+A: 17 is bigger than 14.
+
+Q: Is 939 bigger than 339?
+A: Yes, 939 is bigger than 339.
+
+Q: Is 145 bigger than 408?
+A: No, 408 is bigger than 145.
+
+Q: Which is bigger, 10 or 16?
+A: 16 is bigger than 10.
+
+Q: How many letters does the word 'shallow' have?
+A: The word 'shallow' has 7 letters.
+
+Q: How many letters does the word 'loud' have?
+A: The word 'loud' has 4 letters.
+
+Q: How many letters does the word 'kind' have?
+A: The word 'kind' has 4 letters.
+
+Q: How many letters does the word 'tidy' have?
+A: The word 'tidy' has 4 letters.
+
+Q: How many letters does the word 'tugrik' have?
+A: The word 'tugrik' has 6 letters.
+
+Q: How many letters does the word 'stand' have?
+A: The word 'stand' has 5 letters.
+
+Q: How many letters does the word 'columbus' have?
+A: The word 'columbus' has 8 letters.
+
+Q: How many letters does the word 'baht' have?
+A: The word 'baht' has 4 letters.
+
+Q: How do you sort 24, 29, and 17?
+A: In order, they are 17 24 29.
+
+Q: How do you sort 566, 84, and 642?
+A: In order, they are 84 566 642.
+
+Q: How do you sort 4, 10, and 22?
+A: In order, they are 4 10 22.
+
+Q: How do you sort 15, 7, and 13?
+A: In order, they are 7 13 15.
+
+Q: How do you sort 976, 838, and 962?
+A: In order, they are 838 962 976.
+
+Q: How do you sort 733, 748, and 536?
+A: In order, they are 536 733 748.
+
+Q: How do you sort 4, 7, and 17?
+A: In order, they are 4 7 17.
+
+Q: How do you sort 12, 17, and 26?
+A: In order, they are 12 17 26.
+
+Q: What continent is Syria on?
+A: Syria is on the continent of Asia.
+
+Q: What continent is Canada on?
+A: Canada is on the continent of North America.
+
+Q: What continent is Ireland on?
+A: Ireland is on the continent of Europe.
+
+Q: What continent is Serbia on?
+A: Serbia is on the continent of Europe.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is Finland on?
+A: Finland is on the continent of Europe.
+
+Q: What continent is Belgium on?
+A: Belgium is on the continent of Europe.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: How do you write 32 in words?
+A: 32 in words is thirty-two.
+
+Q: How do you write 19 in words?
+A: 19 in words is nineteen.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 55 in words?
+A: 55 in words is fifty-five.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: What is the capital of Libya?
+A: The capital of Libya is Tripoli.
+
+Q: What is the capital of the Solomon Islands?
+A: The capital of the Solomon Islands is Honiara.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
+
+Q: What is the capital of the Dominican Republic?
+A: The capital of the Dominican Republic is Santo Domingo.
+
+Q: What is the capital of Kenya?
+A: The capital of Kenya is Nairobi.
+
+Q: What is the capital of Guyana?
+A: The capital of Guyana is Georgetown.
+
+Q: What is the capital of Honduras?
+A: The capital of Honduras is Tegucigalpa.
+
+Q: What is the capital of Mauritius?
+A: The capital of Mauritius is Port Louis.
