@@ -54870,3 +54870,170 @@ A: The capital of Poland is Warsaw.
 
 Q: What is the capital of Burkina Faso?
 A: The capital of Burkina Faso is Ouagadougou.
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many days are in a week?
+A: There are 7 days in a week.
+
+Q: How many grams are in a kilogram?
+A: There are 1000 grams in a kilogram.
+
+Q: How many feet are in a yard?
+A: There are 3 feet in a yard.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many months are in a year?
+A: There are 12 months in a year.
+
+Q: What is the capital of Belarus?
+A: The capital of Belarus is Minsk.
+
+Q: What is the capital of Chile?
+A: The capital of Chile is Santiago.
+
+Q: What is the capital of Burkina Faso?
+A: The capital of Burkina Faso is Ouagadougou.
+
+Q: What is the capital of Tunisia?
+A: The capital of Tunisia is Tunis.
+
+Q: What is the capital of Cambodia?
+A: The capital of Cambodia is Phnom Penh.
+
+Q: What is the capital of Tunisia?
+A: The capital of Tunisia is Tunis.
+
+Q: What is the capital of Myanmar?
+A: The capital of Myanmar is Naypyidaw.
+
+Q: What is the capital of El Salvador?
+A: The capital of El Salvador is San Salvador.
+
+Q: What is 646 plus 344?
+A: 646 plus 344 is 990.
+
+Q: What is 43 plus 40?
+A: 43 plus 40 is 83.
+
+Q: What is 87 minus 24?
+A: 87 minus 24 is 63.
+
+Q: What is 20 plus 17?
+A: 20 plus 17 is 37.
+
+Q: What is 14 times 14?
+A: 14 times 14 is 196.
+
+Q: What is 77 plus 76?
+A: 77 plus 76 is 153.
+
+Q: What is 6 times 7?
+A: 6 times 7 is 42.
+
+Q: What is 97 minus 75?
+A: 97 minus 75 is 22.
+
+Q: What is the capital of the US state Florida?
+A: Tallahassee is the capital of Florida.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Wisconsin?
+A: Madison is the capital of Wisconsin.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state Maine?
+A: Augusta is the capital of Maine.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: How many letters does the word 'islands' have?
+A: The word 'islands' has 7 letters.
+
+Q: How many letters does the word 'kigali' have?
+A: The word 'kigali' has 6 letters.
+
+Q: How many letters does the word 'yttrium' have?
+A: The word 'yttrium' has 7 letters.
+
+Q: How many letters does the word 'bhutan' have?
+A: The word 'bhutan' has 6 letters.
+
+Q: How many letters does the word 'morocco' have?
+A: The word 'morocco' has 7 letters.
+
+Q: How many letters does the word 'santa' have?
+A: The word 'santa' has 5 letters.
+
+Q: How many letters does the word 'cow' have?
+A: The word 'cow' has 3 letters.
+
+Q: How many letters does the word 'conakry' have?
+A: The word 'conakry' has 7 letters.
+
+Q: What is the last letter of 'something'?
+A: The last letter of 'something' is G.
+
+Q: What is the last letter of 'raven'?
+A: The last letter of 'raven' is N.
+
+Q: What is the first letter of 'burkina'?
+A: The first letter of 'burkina' is B.
+
+Q: What is the last letter of 'sierra'?
+A: The last letter of 'sierra' is A.
+
+Q: What is the first letter of 'niger'?
+A: The first letter of 'niger' is N.
+
+Q: What is the first letter of 'brazil'?
+A: The first letter of 'brazil' is B.
+
+Q: What is the last letter of 'krone'?
+A: The last letter of 'krone' is E.
+
+Q: What is the last letter of 'april'?
+A: The last letter of 'april' is L.
+
+Q: Which is bigger, 96 or 85?
+A: 96 is bigger than 85.
+
+Q: Which is bigger, 596 or 740?
+A: 740 is bigger than 596.
+
+Q: Is 1 bigger than 5?
+A: No, 5 is bigger than 1.
+
+Q: Which is bigger, 37 or 85?
+A: 85 is bigger than 37.
+
+Q: Is 8 bigger than 11?
+A: No, 11 is bigger than 8.
+
+Q: Is 1 bigger than 18?
+A: No, 18 is bigger than 1.
+
+Q: Which is bigger, 82 or 54?
+A: 82 is bigger than 54.
+
+Q: Which is bigger, 96 or 86?
+A: 96 is bigger than 86.
