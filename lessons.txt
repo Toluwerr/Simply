@@ -50324,3 +50324,170 @@ A: 81 in words is eighty-one.
 
 Q: How do you write 21 in words?
 A: 21 in words is twenty-one.
+Q: Is 7 bigger than 1?
+A: Yes, 7 is bigger than 1.
+
+Q: Which is bigger, 24 or 14?
+A: 24 is bigger than 14.
+
+Q: Is 20 bigger than 12?
+A: Yes, 20 is bigger than 12.
+
+Q: Which is bigger, 367 or 186?
+A: 367 is bigger than 186.
+
+Q: Which is bigger, 93 or 92?
+A: 93 is bigger than 92.
+
+Q: Which is bigger, 8 or 20?
+A: 20 is bigger than 8.
+
+Q: Is 53 bigger than 37?
+A: Yes, 53 is bigger than 37.
+
+Q: Which is bigger, 885 or 697?
+A: 885 is bigger than 697.
+
+Q: How many letters does the word 'dinar' have?
+A: The word 'dinar' has 5 letters.
+
+Q: How many letters does the word 'dover' have?
+A: The word 'dover' has 5 letters.
+
+Q: How many letters does the word 'sao' have?
+A: The word 'sao' has 3 letters.
+
+Q: How many letters does the word 'making' have?
+A: The word 'making' has 6 letters.
+
+Q: How many letters does the word 'niger' have?
+A: The word 'niger' has 5 letters.
+
+Q: How many letters does the word 'kuwait' have?
+A: The word 'kuwait' has 6 letters.
+
+Q: How many letters does the word 'bolivia' have?
+A: The word 'bolivia' has 7 letters.
+
+Q: How many letters does the word 'wide' have?
+A: The word 'wide' has 4 letters.
+
+Q: How do you sort 14, 16, and 20?
+A: In order, they are 14 16 20.
+
+Q: How do you sort 911, 149, and 70?
+A: In order, they are 70 149 911.
+
+Q: How do you sort 310, 140, and 662?
+A: In order, they are 140 310 662.
+
+Q: How do you sort 29, 8, and 19?
+A: In order, they are 8 19 29.
+
+Q: How do you sort 14, 23, and 1?
+A: In order, they are 1 14 23.
+
+Q: How do you sort 554, 885, and 240?
+A: In order, they are 240 554 885.
+
+Q: How do you sort 27, 4, and 25?
+A: In order, they are 4 25 27.
+
+Q: How do you sort 688, 277, and 399?
+A: In order, they are 277 399 688.
+
+Q: What continent is Burkina Faso on?
+A: Burkina Faso is on the continent of Africa.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What continent is Tajikistan on?
+A: Tajikistan is on the continent of Asia.
+
+Q: What continent is Monaco on?
+A: Monaco is on the continent of Europe.
+
+Q: What continent is Tuvalu on?
+A: Tuvalu is on the continent of Oceania.
+
+Q: What continent is Syria on?
+A: Syria is on the continent of Asia.
+
+Q: What continent is Spain on?
+A: Spain is on the continent of Europe.
+
+Q: What continent is Romania on?
+A: Romania is on the continent of Europe.
+
+Q: How do you write 85 in words?
+A: 85 in words is eighty-five.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: How do you write 80 in words?
+A: 80 in words is eighty.
+
+Q: How do you write 76 in words?
+A: 76 in words is seventy-six.
+
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+
+Q: What is the capital of Kazakhstan?
+A: The capital of Kazakhstan is Astana.
+
+Q: What is the capital of Malta?
+A: The capital of Malta is Valletta.
+
+Q: What is the capital of Mauritania?
+A: The capital of Mauritania is Nouakchott.
+
+Q: What is the capital of Guatemala?
+A: The capital of Guatemala is Guatemala City.
+
+Q: What is the capital of Ecuador?
+A: The capital of Ecuador is Quito.
+
+Q: What is the capital of Antigua and Barbuda?
+A: The capital of Antigua and Barbuda is Saint John's.
+
+Q: What is the capital of Belarus?
+A: The capital of Belarus is Minsk.
