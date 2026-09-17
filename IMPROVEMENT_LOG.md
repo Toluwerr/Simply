@@ -7521,3 +7521,7 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Ivine is the river."
 
+## Promotion - v37 - weights promoted to Releases
+- **reason**: knowledge 0.09, was 0.00; val 1.2643
+- self-portrait, asked "Who are you?": *"94 in words1 in wordssia is thirty of the wordssten."
+
