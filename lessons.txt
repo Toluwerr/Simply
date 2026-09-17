@@ -35623,3 +35623,170 @@ A: The first letter of 'saturn' is S.
 
 Q: What is the last letter of 'rock'?
 A: The last letter of 'rock' is K.
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'narrow' mean?
+A: 'narrow' means not wide.
+
+Q: What does 'rude' mean?
+A: 'rude' means not polite.
+
+Q: What does 'eager' mean?
+A: 'eager' means very excited to do something.
+
+Q: How do you sort 379, 660, and 260?
+A: In order, they are 260 379 660.
+
+Q: How do you sort 1, 24, and 14?
+A: In order, they are 1 14 24.
+
+Q: How do you sort 224, 621, and 696?
+A: In order, they are 224 621 696.
+
+Q: How do you sort 868, 845, and 242?
+A: In order, they are 242 845 868.
+
+Q: How do you sort 783, 366, and 978?
+A: In order, they are 366 783 978.
+
+Q: How do you sort 165, 979, and 215?
+A: In order, they are 165 215 979.
+
+Q: How do you sort 15, 20, and 29?
+A: In order, they are 15 20 29.
+
+Q: How do you sort 93, 236, and 966?
+A: In order, they are 93 236 966.
+
+Q: What is the first letter of 'germanium'?
+A: The first letter of 'germanium' is G.
+
+Q: What is the first letter of 'moroni'?
+A: The first letter of 'moroni' is M.
+
+Q: What is the last letter of 'lanka'?
+A: The last letter of 'lanka' is A.
+
+Q: What is the last letter of 'belgrade'?
+A: The last letter of 'belgrade' is E.
+
+Q: What is the last letter of 'narrow'?
+A: The last letter of 'narrow' is W.
+
+Q: What is the last letter of 'bangladesh'?
+A: The last letter of 'bangladesh' is H.
+
+Q: What is the last letter of 'neptune'?
+A: The last letter of 'neptune' is E.
+
+Q: What is the last letter of 'chromium'?
+A: The last letter of 'chromium' is M.
+
+Q: What continent is Pakistan on?
+A: Pakistan is on the continent of Asia.
+
+Q: What continent is Germany on?
+A: Germany is on the continent of Europe.
+
+Q: What continent is Turkey on?
+A: Turkey is on the continent of Asia.
+
+Q: What continent is the United Kingdom on?
+A: the United Kingdom is on the continent of Europe.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: What continent is Ecuador on?
+A: Ecuador is on the continent of South America.
+
+Q: What continent is Namibia on?
+A: Namibia is on the continent of Africa.
+
+Q: What continent is Hungary on?
+A: Hungary is on the continent of Europe.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What is the capital of Chile?
+A: The capital of Chile is Santiago.
+
+Q: What is the capital of Equatorial Guinea?
+A: The capital of Equatorial Guinea is Malabo.
+
+Q: What is the capital of Taiwan?
+A: The capital of Taiwan is Taipei.
+
+Q: What is the capital of Ireland?
+A: The capital of Ireland is Dublin.
+
+Q: What is the capital of Bolivia?
+A: The capital of Bolivia is La Paz.
+
+Q: What is the capital of Bolivia?
+A: The capital of Bolivia is La Paz.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: Can you count by ones from 14 to 17?
+A: Counting by ones gives 14 15 16 17.
+
+Q: Can you count by fives from 15 to 35?
+A: Counting by fives gives 15 20 25 30 35.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25.
+
+Q: Can you count by ones from 38 to 40?
+A: Counting by ones gives 38 39 40.
+
+Q: Can you count by fives from 25 to 35?
+A: Counting by fives gives 25 30 35.
+
+Q: Can you count by ones from 36 to 40?
+A: Counting by ones gives 36 37 38 39 40.
+
+Q: Can you count by ones from 37 to 41?
+A: Counting by ones gives 37 38 39 40 41.
+
+Q: Can you count by fives from 10 to 35?
+A: Counting by fives gives 10 15 20 25 30 35.
+
+Q: Is 16 bigger than 1?
+A: Yes, 16 is bigger than 1.
+
+Q: Is 348 bigger than 351?
+A: No, 351 is bigger than 348.
+
+Q: Which is bigger, 14 or 12?
+A: 14 is bigger than 12.
+
+Q: Is 724 bigger than 461?
+A: Yes, 724 is bigger than 461.
+
+Q: Is 77 bigger than 90?
+A: No, 90 is bigger than 77.
+
+Q: Which is bigger, 6 or 7?
+A: 7 is bigger than 6.
+
+Q: Is 5 bigger than 9?
+A: No, 9 is bigger than 5.
+
+Q: Is 61 bigger than 16?
+A: Yes, 61 is bigger than 16.
