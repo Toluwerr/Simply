@@ -30242,3 +30242,170 @@ A: No, 9 is bigger than 8.
 
 Q: Which is bigger, 778 or 832?
 A: 832 is bigger than 778.
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a horse make?
+A: A horse says 'neigh'.
+
+Q: What sound does a dog make?
+A: A dog says 'woof'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a frog make?
+A: A frog says 'croak'.
+
+Q: What sound does a bee make?
+A: A bee says 'buzz'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What continent is the United Kingdom on?
+A: the United Kingdom is on the continent of Europe.
+
+Q: What continent is Kenya on?
+A: Kenya is on the continent of Africa.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is Burundi on?
+A: Burundi is on the continent of Africa.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What continent is Kiribati on?
+A: Kiribati is on the continent of Oceania.
+
+Q: What continent is Azerbaijan on?
+A: Azerbaijan is on the continent of Asia.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: What is the capital of Mongolia?
+A: The capital of Mongolia is Ulaanbaatar.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What is the capital of the United Arab Emirates?
+A: The capital of the United Arab Emirates is Abu Dhabi.
+
+Q: What is the capital of Jamaica?
+A: The capital of Jamaica is Kingston.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
+
+Q: What is the capital of Gabon?
+A: The capital of Gabon is Libreville.
+
+Q: What is the capital of Austria?
+A: The capital of Austria is Vienna.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: How do you write 88 in words?
+A: 88 in words is eighty-eight.
+
+Q: How do you write 70 in words?
+A: 70 in words is seventy.
+
+Q: How do you write 6 in words?
+A: 6 in words is six.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 39 in words?
+A: 39 in words is thirty-nine.
+
+Q: How do you write 40 in words?
+A: 40 in words is forty.
+
+Q: How do you write 21 in words?
+A: 21 in words is twenty-one.
+
+Q: How do you sort 627, 143, and 775?
+A: In order, they are 143 627 775.
+
+Q: How do you sort 24, 6, and 16?
+A: In order, they are 6 16 24.
+
+Q: How do you sort 17, 9, and 15?
+A: In order, they are 9 15 17.
+
+Q: How do you sort 19, 18, and 1?
+A: In order, they are 1 18 19.
+
+Q: How do you sort 541, 55, and 548?
+A: In order, they are 55 541 548.
+
+Q: How do you sort 453, 404, and 349?
+A: In order, they are 349 404 453.
+
+Q: How do you sort 465, 767, and 823?
+A: In order, they are 465 767 823.
+
+Q: How do you sort 296, 561, and 215?
+A: In order, they are 215 296 561.
+
+Q: What is the opposite of 'strong'?
+A: The opposite of 'strong' is 'weak'.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
