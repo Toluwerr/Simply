@@ -42492,3 +42492,170 @@ A: 'modern' means of the present time.
 
 Q: What does 'deep' mean?
 A: 'deep' means going far down.
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'damp' mean?
+A: 'damp' means slightly wet.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'dim' mean?
+A: 'dim' means not bright.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
+
+Q: What does 'sticky' mean?
+A: 'sticky' means able to attach to things.
+
+Q: What does 'tidy' mean?
+A: 'tidy' means clean and in order.
+
+Q: What does 'fresh' mean?
+A: 'fresh' means newly made or picked.
+
+Q: How do you sort 9, 18, and 13?
+A: In order, they are 9 13 18.
+
+Q: How do you sort 6, 3, and 20?
+A: In order, they are 3 6 20.
+
+Q: How do you sort 712, 599, and 705?
+A: In order, they are 599 705 712.
+
+Q: How do you sort 379, 89, and 592?
+A: In order, they are 89 379 592.
+
+Q: How do you sort 893, 259, and 402?
+A: In order, they are 259 402 893.
+
+Q: How do you sort 2, 10, and 9?
+A: In order, they are 2 9 10.
+
+Q: How do you sort 162, 871, and 63?
+A: In order, they are 63 162 871.
+
+Q: How do you sort 21, 15, and 5?
+A: In order, they are 5 15 21.
+
+Q: What is the first letter of 'pula'?
+A: The first letter of 'pula' is P.
+
+Q: What is the first letter of 'picked'?
+A: The first letter of 'picked' is P.
+
+Q: What is the last letter of 'slightly'?
+A: The last letter of 'slightly' is Y.
+
+Q: What is the last letter of 'old'?
+A: The last letter of 'old' is D.
+
+Q: What is the first letter of 'fluff'?
+A: The first letter of 'fluff' is F.
+
+Q: What is the last letter of 'virginia'?
+A: The last letter of 'virginia' is A.
+
+Q: What is the first letter of 'som'?
+A: The first letter of 'som' is S.
+
+Q: What is the first letter of 'kampala'?
+A: The first letter of 'kampala' is K.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: What continent is Malta on?
+A: Malta is on the continent of Europe.
+
+Q: What continent is Eritrea on?
+A: Eritrea is on the continent of Africa.
+
+Q: What continent is Latvia on?
+A: Latvia is on the continent of Europe.
+
+Q: What continent is Guyana on?
+A: Guyana is on the continent of South America.
+
+Q: What continent is Micronesia on?
+A: Micronesia is on the continent of Oceania.
+
+Q: What continent is the Czech Republic on?
+A: the Czech Republic is on the continent of Europe.
+
+Q: What continent is Chad on?
+A: Chad is on the continent of Africa.
+
+Q: What is the capital of Haiti?
+A: The capital of Haiti is Port-au-Prince.
+
+Q: What is the capital of Bangladesh?
+A: The capital of Bangladesh is Dhaka.
+
+Q: What is the capital of Equatorial Guinea?
+A: The capital of Equatorial Guinea is Malabo.
+
+Q: What is the capital of Luxembourg?
+A: The capital of Luxembourg is Luxembourg.
+
+Q: What is the capital of Belize?
+A: The capital of Belize is Belmopan.
+
+Q: What is the capital of Uganda?
+A: The capital of Uganda is Kampala.
+
+Q: What is the capital of Bulgaria?
+A: The capital of Bulgaria is Sofia.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: Can you count by fives from 25 to 45?
+A: Counting by fives gives 25 30 35 40 45.
+
+Q: Can you count by ones from 4 to 6?
+A: Counting by ones gives 4 5 6.
+
+Q: Can you count by fives from 10 to 20?
+A: Counting by fives gives 10 15 20.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by ones from 21 to 23?
+A: Counting by ones gives 21 22 23.
+
+Q: Can you count by ones from 14 to 17?
+A: Counting by ones gives 14 15 16 17.
+
+Q: Can you count by fives from 5 to 30?
+A: Counting by fives gives 5 10 15 20 25 30.
+
+Q: Can you count by twos from 10 to 20?
+A: Counting by twos gives 10 12 14 16 18 20.
+
+Q: Which is bigger, 807 or 512?
+A: 807 is bigger than 512.
+
+Q: Which is bigger, 8 or 16?
+A: 16 is bigger than 8.
+
+Q: Which is bigger, 135 or 650?
+A: 650 is bigger than 135.
+
+Q: Is 18 bigger than 71?
+A: No, 71 is bigger than 18.
+
+Q: Which is bigger, 36 or 42?
+A: 42 is bigger than 36.
+
+Q: Is 74 bigger than 96?
+A: No, 96 is bigger than 74.
+
+Q: Which is bigger, 84 or 99?
+A: 99 is bigger than 84.
+
+Q: Is 722 bigger than 418?
+A: Yes, 722 is bigger than 418.
