@@ -5344,3 +5344,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"What is the first letter of ' is A' is the first letter of '?"
 
+## Iteration 599 - NO_GAIN
+- **when**: 2026-09-17T07:59:15Z
+- **train loss**: 2.7063 | **val loss**: 1.5952 | **run best**: 1.5021
+- **corpus**: 284,342 chars (+0 self-written examples)
+- **internet reading**: +59 articles, +24 facts (1,944 read all-time)
+- **lr**: 0.0004 | **steps**: 30
+- **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, reading 0.00, definitions 0.00
+- self-portrait, asked "Who are you?": *"Dia, they are 14,"
+

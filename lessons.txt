@@ -49227,3 +49227,170 @@ A: 'deep' means going far down.
 
 Q: What does 'bright' mean?
 A: 'bright' means full of light.
+Q: What does 'cautious' mean?
+A: 'cautious' means careful and watchful.
+
+Q: What does 'stale' mean?
+A: 'stale' means old and no longer fresh.
+
+Q: What does 'bright' mean?
+A: 'bright' means full of light.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'brisk' mean?
+A: 'brisk' means quick and active.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: How do you sort 28, 21, and 26?
+A: In order, they are 21 26 28.
+
+Q: How do you sort 118, 717, and 29?
+A: In order, they are 29 118 717.
+
+Q: How do you sort 7, 14, and 17?
+A: In order, they are 7 14 17.
+
+Q: How do you sort 949, 247, and 539?
+A: In order, they are 247 539 949.
+
+Q: How do you sort 28, 13, and 3?
+A: In order, they are 3 13 28.
+
+Q: How do you sort 141, 686, and 39?
+A: In order, they are 39 141 686.
+
+Q: How do you sort 11, 29, and 20?
+A: In order, they are 11 20 29.
+
+Q: How do you sort 343, 616, and 546?
+A: In order, they are 343 546 616.
+
+Q: What is the last letter of 'zambia'?
+A: The last letter of 'zambia' is A.
+
+Q: What is the last letter of 'won'?
+A: The last letter of 'won' is N.
+
+Q: What is the first letter of 'south'?
+A: The first letter of 'south' is S.
+
+Q: What is the last letter of 'thulium'?
+A: The last letter of 'thulium' is M.
+
+Q: What is the last letter of 'tonga'?
+A: The last letter of 'tonga' is A.
+
+Q: What is the first letter of 'castries'?
+A: The first letter of 'castries' is C.
+
+Q: What is the first letter of 'vincent'?
+A: The first letter of 'vincent' is V.
+
+Q: What is the last letter of 'horse'?
+A: The last letter of 'horse' is E.
+
+Q: What continent is Norway on?
+A: Norway is on the continent of Europe.
+
+Q: What continent is Libya on?
+A: Libya is on the continent of Africa.
+
+Q: What continent is Burkina Faso on?
+A: Burkina Faso is on the continent of Africa.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: What continent is Uzbekistan on?
+A: Uzbekistan is on the continent of Asia.
+
+Q: What continent is Bahrain on?
+A: Bahrain is on the continent of Asia.
+
+Q: What continent is Morocco on?
+A: Morocco is on the continent of Africa.
+
+Q: What continent is Chile on?
+A: Chile is on the continent of South America.
+
+Q: What is the capital of Vanuatu?
+A: The capital of Vanuatu is Port Vila.
+
+Q: What is the capital of Sao Tome and Principe?
+A: The capital of Sao Tome and Principe is Sao Tome.
+
+Q: What is the capital of South Sudan?
+A: The capital of South Sudan is Juba.
+
+Q: What is the capital of France?
+A: The capital of France is Paris.
+
+Q: What is the capital of Benin?
+A: The capital of Benin is Porto-Novo.
+
+Q: What is the capital of Sweden?
+A: The capital of Sweden is Stockholm.
+
+Q: What is the capital of Libya?
+A: The capital of Libya is Tripoli.
+
+Q: What is the capital of the Dominican Republic?
+A: The capital of the Dominican Republic is Santo Domingo.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by twos from 30 to 38?
+A: Counting by twos gives 30 32 34 36 38.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by ones from 8 to 13?
+A: Counting by ones gives 8 9 10 11 12 13.
+
+Q: Can you count by fives from 20 to 40?
+A: Counting by fives gives 20 25 30 35 40.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: Can you count by twos from 36 to 44?
+A: Counting by twos gives 36 38 40 42 44.
+
+Q: Can you count by fives from 20 to 45?
+A: Counting by fives gives 20 25 30 35 40 45.
+
+Q: Which is bigger, 28 or 65?
+A: 65 is bigger than 28.
+
+Q: Is 255 bigger than 290?
+A: No, 290 is bigger than 255.
+
+Q: Is 925 bigger than 679?
+A: Yes, 925 is bigger than 679.
+
+Q: Is 413 bigger than 527?
+A: No, 527 is bigger than 413.
+
+Q: Which is bigger, 783 or 197?
+A: 783 is bigger than 197.
+
+Q: Which is bigger, 638 or 605?
+A: 638 is bigger than 605.
+
+Q: Is 417 bigger than 989?
+A: No, 989 is bigger than 417.
+
+Q: Is 85 bigger than 66?
+A: Yes, 85 is bigger than 66.
