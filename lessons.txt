@@ -31115,3 +31115,170 @@ A: The opposite of 'light' is 'dark'.
 Q: What is the opposite of 'fast'?
 A: The opposite of 'fast' is 'slow'.
 
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does Sri Lanka use?
+A: The currency of Sri Lanka is the rupee.
+
+Q: What currency does Kuwait use?
+A: The currency of Kuwait is the dinar.
+
+Q: What currency does Poland use?
+A: The currency of Poland is the zloty.
+
+Q: What currency does Bangladesh use?
+A: The currency of Bangladesh is the taka.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does the Philippines use?
+A: The currency of the Philippines is the peso.
+
+Q: What currency does Niger use?
+A: The currency of Niger is the franc.
+
+Q: What number is the Roman numeral cmxxvii?
+A: The Roman numeral cmxxvii is the number 927.
+
+Q: What number is the Roman numeral cccxcix?
+A: The Roman numeral cccxcix is the number 399.
+
+Q: What number is the Roman numeral lxi?
+A: The Roman numeral lxi is the number 61.
+
+Q: What is the Roman numeral for 10?
+A: The Roman numeral for 10 is x.
+
+Q: What is the Roman numeral for 562?
+A: The Roman numeral for 562 is dlxii.
+
+Q: What number is the Roman numeral viii?
+A: The Roman numeral viii is the number 8.
+
+Q: What is the Roman numeral for 855?
+A: The Roman numeral for 855 is dccclv.
+
+Q: What number is the Roman numeral dcclxxx?
+A: The Roman numeral dcclxxx is the number 780.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is third from the sun?
+A: Earth is the third planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fourth from the sun?
+A: Mars is the fourth planet from the sun.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Delaware?
+A: Dover is the capital of Delaware.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Alabama?
+A: Montgomery is the capital of Alabama.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: What is 6 plus 9?
+A: 6 plus 9 is 15.
+
+Q: What is 19 minus 11?
+A: 19 minus 11 is 8.
+
+Q: What is 20 minus 13?
+A: 20 minus 13 is 7.
+
+Q: What is 915 plus 872?
+A: 915 plus 872 is 1787.
+
+Q: What is 889 minus 858?
+A: 889 minus 858 is 31.
+
+Q: What is 13 times 14?
+A: 13 times 14 is 182.
+
+Q: What is 558 minus 331?
+A: 558 minus 331 is 227.
+
+Q: What is 4 times 6?
+A: 4 times 6 is 24.
+
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'greedy' mean?
+A: 'greedy' means wanting more than needed.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'ancient' mean?
+A: 'ancient' means very old.
+
+Q: What does 'vast' mean?
+A: 'vast' means extremely large.
+
+Q: What does 'calm' mean?
+A: 'calm' means peaceful and still.
+
+Q: What does 'messy' mean?
+A: 'messy' means not tidy.
+
+Q: What does 'lazy' mean?
+A: 'lazy' means not wanting to work.
