@@ -4324,3 +4324,42 @@ A: Abdominal hair is the hair that grows on the abdomen of humans and non-human 
 
 Q: What is Laurasiatheria?
 A: Laurasiatheria is a superorder of placental mammals that groups together true insectivores , bats , carnivorans, pangolins , even-toed ungulates.
+
+Q: What is Rita Ferro?
+A: Rita Ferro is a Portuguese writer, journalist.
+
+Q: What is Watcom CC?
+A: Watcom CC is an integrated development environment product from Watcom International Corporation for the C, C, and Fortran programming languages.
+
+Q: What is Valerie Still?
+A: Valerie Still is an American former professional women's basketball player with the Washington Mystics of the WNBA.
+
+Q: What is Hato Press?
+A: Hato Press is a publishing house based in London of the United Kingdom.
+
+Q: What is Frederick Clarke Withers?
+A: Frederick Clarke Withers is an English architect in America, especially renowned for his Gothic Revival ecclesiastical designs.
+
+Q: What is Joseph's Church?
+A: Joseph's Church is a historic church located at 1355 North Main Street in Fall River, Massachusetts.
+
+Q: What is Mariahilf?
+A: Mariahilf is a heavily populated urban area with many residential buildings.
+
+Q: What is Nabarabi?
+A: Nabarabi is an Odia language literary magazine of 1970s getting published from Kolkata, India.
+
+Q: What is Algebra?
+A: Algebra is a branch of mathematics that deals with abstract systems, known as algebraic structures.
+
+Q: What is Elementary algebra?
+A: Elementary algebra is the main form of algebra taught in schools.
+
+Q: What is Linear algebra?
+A: Linear algebra is a closely related field that investigates linear equations and combinations of them called systems of linear equations.
+
+Q: What is Equivalently, f?
+A: Equivalently, f is an immersion if its derivative has constant rank equal to the dimension of M: rank D p f  dim  M.
+
+Q: What is Implicitly, this?
+A: Implicitly, this is the universe that Georg Cantor was using when he first developed...

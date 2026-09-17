@@ -51078,3 +51078,146 @@ A: The currency of Sweden is the krona.
 
 Q: What currency does the Czech Republic use?
 A: The currency of the Czech Republic is the koruna.
+Q: How many letters does the word 'beirut' have?
+A: The word 'beirut' has 6 letters.
+
+Q: How many letters does the word 'not' have?
+A: The word 'not' has 3 letters.
+
+Q: How many letters does the word 'fluff' have?
+A: The word 'fluff' has 5 letters.
+
+Q: How many letters does the word 'vietnam' have?
+A: The word 'vietnam' has 7 letters.
+
+Q: How many letters does the word 'burundi' have?
+A: The word 'burundi' has 7 letters.
+
+Q: How many letters does the word 'open' have?
+A: The word 'open' has 4 letters.
+
+Q: How many letters does the word 'rouge' have?
+A: The word 'rouge' has 5 letters.
+
+Q: How many letters does the word 'costa' have?
+A: The word 'costa' has 5 letters.
+
+Q: What is the last letter of 'mercury'?
+A: The last letter of 'mercury' is Y.
+
+Q: What is the first letter of 'calcium'?
+A: The first letter of 'calcium' is C.
+
+Q: What is the last letter of 'sacramento'?
+A: The last letter of 'sacramento' is O.
+
+Q: What is the first letter of 'laos'?
+A: The first letter of 'laos' is L.
+
+Q: What is the first letter of 'phosphorus'?
+A: The first letter of 'phosphorus' is P.
+
+Q: What is the first letter of 'peso'?
+A: The first letter of 'peso' is P.
+
+Q: What is the last letter of 'zinc'?
+A: The last letter of 'zinc' is C.
+
+Q: What is the last letter of 'italy'?
+A: The last letter of 'italy' is Y.
+
+Q: How do you sort 1, 28, and 25?
+A: In order, they are 1 25 28.
+
+Q: How do you sort 155, 949, and 839?
+A: In order, they are 155 839 949.
+
+Q: How do you sort 12, 11, and 22?
+A: In order, they are 11 12 22.
+
+Q: How do you sort 13, 24, and 16?
+A: In order, they are 13 16 24.
+
+Q: How do you sort 645, 140, and 776?
+A: In order, they are 140 645 776.
+
+Q: How do you sort 454, 260, and 541?
+A: In order, they are 260 454 541.
+
+Q: How do you sort 908, 372, and 756?
+A: In order, they are 372 756 908.
+
+Q: How do you sort 470, 299, and 934?
+A: In order, they are 299 470 934.
+
+Q: Which is bigger, 380 or 879?
+A: 879 is bigger than 380.
+
+Q: Which is bigger, 83 or 97?
+A: 97 is bigger than 83.
+
+Q: Is 326 bigger than 681?
+A: No, 681 is bigger than 326.
+
+Q: Which is bigger, 12 or 17?
+A: 17 is bigger than 12.
+
+Q: Which is bigger, 44 or 75?
+A: 75 is bigger than 44.
+
+Q: Is 456 bigger than 698?
+A: No, 698 is bigger than 456.
+
+Q: Is 66 bigger than 69?
+A: No, 69 is bigger than 66.
+
+Q: Which is bigger, 77 or 79?
+A: 79 is bigger than 77.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: What is the capital of Mauritania?
+A: The capital of Mauritania is Nouakchott.
+
+Q: What is the capital of Vanuatu?
+A: The capital of Vanuatu is Port Vila.
+
+Q: What is the capital of the Central African Republic?
+A: The capital of the Central African Republic is Bangui.
+
+Q: What is the capital of Portugal?
+A: The capital of Portugal is Lisbon.
+
+Q: What is the capital of Poland?
+A: The capital of Poland is Warsaw.
+
+Q: What is the capital of Hungary?
+A: The capital of Hungary is Budapest.
+
+Q: What is the capital of North Macedonia?
+A: The capital of North Macedonia is Skopje.
+
+Q: What is the capital of Russia?
+A: The capital of Russia is Moscow.
