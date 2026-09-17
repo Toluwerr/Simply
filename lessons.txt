@@ -35122,3 +35122,170 @@ A: Yes, 79 is bigger than 60.
 
 Q: Which is bigger, 37 or 45?
 A: 45 is bigger than 37.
+Q: Is 17 bigger than 18?
+A: No, 18 is bigger than 17.
+
+Q: Is 10 bigger than 12?
+A: No, 12 is bigger than 10.
+
+Q: Which is bigger, 98 or 23?
+A: 98 is bigger than 23.
+
+Q: Is 13 bigger than 16?
+A: No, 16 is bigger than 13.
+
+Q: Is 4 bigger than 5?
+A: No, 5 is bigger than 4.
+
+Q: Is 2 bigger than 11?
+A: No, 11 is bigger than 2.
+
+Q: Is 391 bigger than 295?
+A: Yes, 391 is bigger than 295.
+
+Q: Is 10 bigger than 4?
+A: Yes, 10 is bigger than 4.
+
+Q: How many letters does the word 'yerevan' have?
+A: The word 'yerevan' has 7 letters.
+
+Q: How many letters does the word 'barbuda' have?
+A: The word 'barbuda' has 7 letters.
+
+Q: How many letters does the word 'male' have?
+A: The word 'male' has 4 letters.
+
+Q: How many letters does the word 'jordan' have?
+A: The word 'jordan' has 6 letters.
+
+Q: How many letters does the word 'oceania' have?
+A: The word 'oceania' has 7 letters.
+
+Q: How many letters does the word 'kina' have?
+A: The word 'kina' has 4 letters.
+
+Q: How many letters does the word 'rubidium' have?
+A: The word 'rubidium' has 8 letters.
+
+Q: How many letters does the word 'palau' have?
+A: The word 'palau' has 5 letters.
+
+Q: How do you sort 247, 953, and 37?
+A: In order, they are 37 247 953.
+
+Q: How do you sort 272, 880, and 888?
+A: In order, they are 272 880 888.
+
+Q: How do you sort 19, 15, and 20?
+A: In order, they are 15 19 20.
+
+Q: How do you sort 587, 936, and 798?
+A: In order, they are 587 798 936.
+
+Q: How do you sort 1, 23, and 22?
+A: In order, they are 1 22 23.
+
+Q: How do you sort 15, 22, and 4?
+A: In order, they are 4 15 22.
+
+Q: How do you sort 19, 13, and 14?
+A: In order, they are 13 14 19.
+
+Q: How do you sort 890, 349, and 904?
+A: In order, they are 349 890 904.
+
+Q: What continent is Montenegro on?
+A: Montenegro is on the continent of Europe.
+
+Q: What continent is Belarus on?
+A: Belarus is on the continent of Europe.
+
+Q: What continent is Cyprus on?
+A: Cyprus is on the continent of Asia.
+
+Q: What continent is Denmark on?
+A: Denmark is on the continent of Europe.
+
+Q: What continent is Turkey on?
+A: Turkey is on the continent of Asia.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: What continent is South Korea on?
+A: South Korea is on the continent of Asia.
+
+Q: What continent is Vietnam on?
+A: Vietnam is on the continent of Asia.
+
+Q: How do you write 99 in words?
+A: 99 in words is ninety-nine.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 91 in words?
+A: 91 in words is ninety-one.
+
+Q: How do you write 34 in words?
+A: 34 in words is thirty-four.
+
+Q: How do you write 1 in words?
+A: 1 in words is one.
+
+Q: How do you write 100 in words?
+A: 100 in words is one hundred.
+
+Q: How do you write 23 in words?
+A: 23 in words is twenty-three.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is eighth from the sun?
+A: Neptune is the eighth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is first from the sun?
+A: Mercury is the first planet from the sun.
+
+Q: Which planet is sixth from the sun?
+A: Saturn is the sixth planet from the sun.
+
+Q: Which planet is fifth from the sun?
+A: Jupiter is the fifth planet from the sun.
+
+Q: Which planet is seventh from the sun?
+A: Uranus is the seventh planet from the sun.
+
+Q: Which planet is second from the sun?
+A: Venus is the second planet from the sun.
+
+Q: What is the capital of San Marino?
+A: The capital of San Marino is San Marino.
+
+Q: What is the capital of the Philippines?
+A: The capital of the Philippines is Manila.
+
+Q: What is the capital of Bulgaria?
+A: The capital of Bulgaria is Sofia.
+
+Q: What is the capital of Afghanistan?
+A: The capital of Afghanistan is Kabul.
+
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
+
+Q: What is the capital of Lesotho?
+A: The capital of Lesotho is Maseru.
+
+Q: What is the capital of Spain?
+A: The capital of Spain is Madrid.
+
+Q: What is the capital of the Dominican Republic?
+A: The capital of the Dominican Republic is Santo Domingo.
