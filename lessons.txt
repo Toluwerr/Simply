@@ -40083,3 +40083,170 @@ A: 18 minus 8 is 10.
 
 Q: What is 14 times 14?
 A: 14 times 14 is 196.
+Q: What does 'slippery' mean?
+A: 'slippery' means hard to hold or stand on.
+
+Q: What does 'cozy' mean?
+A: 'cozy' means warm and comfortable.
+
+Q: What does 'tiny' mean?
+A: 'tiny' means very small.
+
+Q: What does 'sturdy' mean?
+A: 'sturdy' means strong and solid.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'rapid' mean?
+A: 'rapid' means very fast.
+
+Q: What does 'quiet' mean?
+A: 'quiet' means making little or no sound.
+
+Q: What does 'clever' mean?
+A: 'clever' means smart and quick-thinking.
+
+Q: Which element has the chemical symbol Hg?
+A: Hg is the chemical symbol for mercury.
+
+Q: Which element has the chemical symbol U?
+A: U is the chemical symbol for uranium.
+
+Q: Which element has the chemical symbol Br?
+A: Br is the chemical symbol for bromine.
+
+Q: Which element has the chemical symbol Ti?
+A: Ti is the chemical symbol for titanium.
+
+Q: Which element has the chemical symbol Ar?
+A: Ar is the chemical symbol for argon.
+
+Q: What is the chemical symbol for yttrium?
+A: The chemical symbol for yttrium is Y.
+
+Q: What is the chemical symbol for chlorine?
+A: The chemical symbol for chlorine is Cl.
+
+Q: Which element has the chemical symbol Eu?
+A: Eu is the chemical symbol for europium.
+
+Q: What is the opposite of 'rich'?
+A: The opposite of 'rich' is 'poor'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'wet'?
+A: The opposite of 'wet' is 'dry'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What number is the Roman numeral dcccxciii?
+A: The Roman numeral dcccxciii is the number 893.
+
+Q: What number is the Roman numeral xiv?
+A: The Roman numeral xiv is the number 14.
+
+Q: What is the Roman numeral for 73?
+A: The Roman numeral for 73 is lxxiii.
+
+Q: What number is the Roman numeral lxxii?
+A: The Roman numeral lxxii is the number 72.
+
+Q: What number is the Roman numeral lxxxi?
+A: The Roman numeral lxxxi is the number 81.
+
+Q: What is the Roman numeral for 593?
+A: The Roman numeral for 593 is dxciii.
+
+Q: What is the Roman numeral for 81?
+A: The Roman numeral for 81 is lxxxi.
+
+Q: What number is the Roman numeral dcxciv?
+A: The Roman numeral dcxciv is the number 694.
+
+Q: What is the first letter of 'croak'?
+A: The first letter of 'croak' is C.
+
+Q: What is the first letter of 'italy'?
+A: The first letter of 'italy' is I.
+
+Q: What is the last letter of 'lutetium'?
+A: The last letter of 'lutetium' is M.
+
+Q: What is the first letter of 'thorium'?
+A: The first letter of 'thorium' is T.
+
+Q: What is the first letter of 'delhi'?
+A: The first letter of 'delhi' is D.
+
+Q: What is the last letter of 'shekel'?
+A: The last letter of 'shekel' is L.
+
+Q: What is the last letter of 'algeria'?
+A: The last letter of 'algeria' is A.
+
+Q: What is the last letter of 'columbia'?
+A: The last letter of 'columbia' is A.
+
+Q: Which is bigger, 20 or 64?
+A: 64 is bigger than 20.
+
+Q: Which is bigger, 9 or 2?
+A: 9 is bigger than 2.
+
+Q: Which is bigger, 492 or 606?
+A: 606 is bigger than 492.
+
+Q: Is 333 bigger than 171?
+A: Yes, 333 is bigger than 171.
+
+Q: Which is bigger, 22 or 74?
+A: 74 is bigger than 22.
+
+Q: Which is bigger, 41 or 97?
+A: 97 is bigger than 41.
+
+Q: Which is bigger, 325 or 828?
+A: 828 is bigger than 325.
+
+Q: Is 905 bigger than 969?
+A: No, 969 is bigger than 905.
+
+Q: What is double 58?
+A: Double 58 is 116.
+
+Q: What is half of 52?
+A: Half of 52 is 26.
+
+Q: What is double 31?
+A: Double 31 is 62.
+
+Q: What is double 36?
+A: Double 36 is 72.
+
+Q: What is double 37?
+A: Double 37 is 74.
+
+Q: What is double 33?
+A: Double 33 is 66.
+
+Q: What is double 52?
+A: Double 52 is 104.
+
+Q: What is double 9?
+A: Double 9 is 18.
