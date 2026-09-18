@@ -32373,3 +32373,170 @@ A: 19 minus 18 is 1.
 
 Q: What is 1 plus 16?
 A: 1 plus 16 is 17.
+Q: What is 295 minus 94?
+A: 295 minus 94 is 201.
+
+Q: What is 11 times 15?
+A: 11 times 15 is 165.
+
+Q: What is 261 minus 246?
+A: 261 minus 246 is 15.
+
+Q: What is 435 plus 640?
+A: 435 plus 640 is 1075.
+
+Q: What is 15 minus 7?
+A: 15 minus 7 is 8.
+
+Q: What is 73 minus 61?
+A: 73 minus 61 is 12.
+
+Q: What is 867 minus 445?
+A: 867 minus 445 is 422.
+
+Q: What is 547 minus 232?
+A: 547 minus 232 is 315.
+
+Q: What continent is South Sudan on?
+A: South Sudan is on the continent of Africa.
+
+Q: What continent is Bolivia on?
+A: Bolivia is on the continent of South America.
+
+Q: What continent is Portugal on?
+A: Portugal is on the continent of Europe.
+
+Q: What continent is Albania on?
+A: Albania is on the continent of Europe.
+
+Q: What continent is Belgium on?
+A: Belgium is on the continent of Europe.
+
+Q: What continent is the Netherlands on?
+A: the Netherlands is on the continent of Europe.
+
+Q: What continent is Yemen on?
+A: Yemen is on the continent of Asia.
+
+Q: What continent is Turkmenistan on?
+A: Turkmenistan is on the continent of Asia.
+
+Q: What is the last letter of 'kingston'?
+A: The last letter of 'kingston' is N.
+
+Q: What is the first letter of 'fragile'?
+A: The first letter of 'fragile' is F.
+
+Q: What is the last letter of 'guyana'?
+A: The last letter of 'guyana' is A.
+
+Q: What is the last letter of 'fluff'?
+A: The last letter of 'fluff' is F.
+
+Q: What is the first letter of 'riyadh'?
+A: The first letter of 'riyadh' is R.
+
+Q: What is the first letter of 'belmopan'?
+A: The first letter of 'belmopan' is B.
+
+Q: What is the first letter of 'vermont'?
+A: The first letter of 'vermont' is V.
+
+Q: What is the first letter of 'roar'?
+A: The first letter of 'roar' is R.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: What is the biggest hot desert?
+A: The Sahara is the biggest hot desert.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: How many oceans are there?
+A: There are 5 oceans.
+
+Q: What is the biggest planet?
+A: Jupiter is the biggest planet.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Virginia?
+A: Richmond is the capital of Virginia.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What currency does the Bahamas use?
+A: The currency of the Bahamas is the dollar.
+
+Q: What currency does Brazil use?
+A: The currency of Brazil is the real.
+
+Q: What currency does Costa Rica use?
+A: The currency of Costa Rica is the colon.
+
+Q: What currency does New Zealand use?
+A: The currency of New Zealand is the dollar.
+
+Q: What currency does Taiwan use?
+A: The currency of Taiwan is the dollar.
+
+Q: What currency does Nigeria use?
+A: The currency of Nigeria is the naira.
+
+Q: What currency does Libya use?
+A: The currency of Libya is the dinar.
+
+Q: What currency does Gambia use?
+A: The currency of Gambia is the dalasi.
+
+Q: What is the capital of Albania?
+A: The capital of Albania is Tirana.
+
+Q: What is the capital of Namibia?
+A: The capital of Namibia is Windhoek.
+
+Q: What is the capital of Trinidad and Tobago?
+A: The capital of Trinidad and Tobago is Port of Spain.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What is the capital of Afghanistan?
+A: The capital of Afghanistan is Kabul.
+
+Q: What is the capital of Moldova?
+A: The capital of Moldova is Chisinau.
+
+Q: What is the capital of Burundi?
+A: The capital of Burundi is Gitega.
+
+Q: What is the capital of Uganda?
+A: The capital of Uganda is Kampala.
