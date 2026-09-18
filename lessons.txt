@@ -35092,3 +35092,170 @@ A: The currency of Slovenia is the euro.
 
 Q: What currency does Indonesia use?
 A: The currency of Indonesia is the rupiah.
+Q: How do you write 10 in words?
+A: 10 in words is ten.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 90 in words?
+A: 90 in words is ninety.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 24 in words?
+A: 24 in words is twenty-four.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 17 in words?
+A: 17 in words is seventeen.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: What is the first letter of 'bismarck'?
+A: The first letter of 'bismarck' is B.
+
+Q: What is the last letter of 'maine'?
+A: The last letter of 'maine' is E.
+
+Q: What is the first letter of 'algeria'?
+A: The first letter of 'algeria' is A.
+
+Q: What is the last letter of 'belgium'?
+A: The last letter of 'belgium' is M.
+
+Q: What is the first letter of 'burundi'?
+A: The first letter of 'burundi' is B.
+
+Q: What is the first letter of 'moines'?
+A: The first letter of 'moines' is M.
+
+Q: What is the last letter of 'silicon'?
+A: The last letter of 'silicon' is N.
+
+Q: What is the first letter of 'city'?
+A: The first letter of 'city' is C.
+
+Q: What continent is Nepal on?
+A: Nepal is on the continent of Asia.
+
+Q: What continent is Argentina on?
+A: Argentina is on the continent of South America.
+
+Q: What continent is Guyana on?
+A: Guyana is on the continent of South America.
+
+Q: What continent is Liechtenstein on?
+A: Liechtenstein is on the continent of Europe.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: What continent is Syria on?
+A: Syria is on the continent of Asia.
+
+Q: What continent is Malawi on?
+A: Malawi is on the continent of Africa.
+
+Q: What continent is Luxembourg on?
+A: Luxembourg is on the continent of Europe.
+
+Q: What is the chemical symbol for cobalt?
+A: The chemical symbol for cobalt is Co.
+
+Q: What is the chemical symbol for actinium?
+A: The chemical symbol for actinium is Ac.
+
+Q: Which element has the chemical symbol Re?
+A: Re is the chemical symbol for rhenium.
+
+Q: Which element has the chemical symbol Sc?
+A: Sc is the chemical symbol for scandium.
+
+Q: Which element has the chemical symbol Gd?
+A: Gd is the chemical symbol for gadolinium.
+
+Q: Which element has the chemical symbol Cd?
+A: Cd is the chemical symbol for cadmium.
+
+Q: Which element has the chemical symbol B?
+A: B is the chemical symbol for boron.
+
+Q: What is the chemical symbol for cobalt?
+A: The chemical symbol for cobalt is Co.
+
+Q: Can you count by ones from 30 to 32?
+A: Counting by ones gives 30 31 32.
+
+Q: Can you count by twos from 2 to 8?
+A: Counting by twos gives 2 4 6 8.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by fives from 10 to 20?
+A: Counting by fives gives 10 15 20.
+
+Q: Can you count by twos from 20 to 28?
+A: Counting by twos gives 20 22 24 26 28.
+
+Q: Can you count by ones from 39 to 41?
+A: Counting by ones gives 39 40 41.
+
+Q: Can you count by ones from 10 to 14?
+A: Counting by ones gives 10 11 12 13 14.
+
+Q: Can you count by tens from 10 to 50?
+A: Counting by tens gives 10 20 30 40 50.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: Is 16 bigger than 18?
+A: No, 18 is bigger than 16.
+
+Q: Is 800 bigger than 878?
+A: No, 878 is bigger than 800.
+
+Q: Is 2 bigger than 15?
+A: No, 15 is bigger than 2.
+
+Q: Is 69 bigger than 26?
+A: Yes, 69 is bigger than 26.
+
+Q: Which is bigger, 83 or 57?
+A: 83 is bigger than 57.
+
+Q: Which is bigger, 12 or 78?
+A: 78 is bigger than 12.
+
+Q: Is 73 bigger than 62?
+A: Yes, 73 is bigger than 62.
+
+Q: Is 209 bigger than 393?
+A: No, 393 is bigger than 209.
