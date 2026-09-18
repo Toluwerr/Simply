@@ -32540,3 +32540,170 @@ A: The capital of Burundi is Gitega.
 
 Q: What is the capital of Uganda?
 A: The capital of Uganda is Kampala.
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 96 in words?
+A: 96 in words is ninety-six.
+
+Q: How do you write 28 in words?
+A: 28 in words is twenty-eight.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 65 in words?
+A: 65 in words is sixty-five.
+
+Q: How do you write 67 in words?
+A: 67 in words is sixty-seven.
+
+Q: How do you write 92 in words?
+A: 92 in words is ninety-two.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: What is the first letter of 'tidy'?
+A: The first letter of 'tidy' is T.
+
+Q: What is the last letter of 'tome'?
+A: The last letter of 'tome' is E.
+
+Q: What is the first letter of 'nice'?
+A: The first letter of 'nice' is N.
+
+Q: What is the first letter of 'kitts'?
+A: The first letter of 'kitts' is K.
+
+Q: What is the first letter of 'gambia'?
+A: The first letter of 'gambia' is G.
+
+Q: What is the first letter of 'uruguay'?
+A: The first letter of 'uruguay' is U.
+
+Q: What is the last letter of 'tellurium'?
+A: The last letter of 'tellurium' is M.
+
+Q: What is the first letter of 'reykjavik'?
+A: The first letter of 'reykjavik' is R.
+
+Q: What continent is the United Kingdom on?
+A: the United Kingdom is on the continent of Europe.
+
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: What continent is Italy on?
+A: Italy is on the continent of Europe.
+
+Q: What continent is Gabon on?
+A: Gabon is on the continent of Africa.
+
+Q: What continent is Madagascar on?
+A: Madagascar is on the continent of Africa.
+
+Q: What continent is Madagascar on?
+A: Madagascar is on the continent of Africa.
+
+Q: What continent is South Africa on?
+A: South Africa is on the continent of Africa.
+
+Q: What continent is Norway on?
+A: Norway is on the continent of Europe.
+
+Q: Which element has the chemical symbol V?
+A: V is the chemical symbol for vanadium.
+
+Q: Which element has the chemical symbol He?
+A: He is the chemical symbol for helium.
+
+Q: What is the chemical symbol for vanadium?
+A: The chemical symbol for vanadium is V.
+
+Q: What is the chemical symbol for gold?
+A: The chemical symbol for gold is Au.
+
+Q: Which element has the chemical symbol Te?
+A: Te is the chemical symbol for tellurium.
+
+Q: What is the chemical symbol for iridium?
+A: The chemical symbol for iridium is Ir.
+
+Q: Which element has the chemical symbol Mo?
+A: Mo is the chemical symbol for molybdenum.
+
+Q: What is the chemical symbol for yttrium?
+A: The chemical symbol for yttrium is Y.
+
+Q: Can you count by tens from 20 to 50?
+A: Counting by tens gives 20 30 40 50.
+
+Q: Can you count by fives from 15 to 25?
+A: Counting by fives gives 15 20 25.
+
+Q: Can you count by tens from 10 to 30?
+A: Counting by tens gives 10 20 30.
+
+Q: Can you count by fives from 35 to 55?
+A: Counting by fives gives 35 40 45 50 55.
+
+Q: Can you count by fives from 15 to 40?
+A: Counting by fives gives 15 20 25 30 35 40.
+
+Q: Can you count by fives from 30 to 50?
+A: Counting by fives gives 30 35 40 45 50.
+
+Q: Can you count by tens from 20 to 60?
+A: Counting by tens gives 20 30 40 50 60.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: Is 52 bigger than 44?
+A: Yes, 52 is bigger than 44.
+
+Q: Which is bigger, 820 or 187?
+A: 820 is bigger than 187.
+
+Q: Is 83 bigger than 30?
+A: Yes, 83 is bigger than 30.
+
+Q: Which is bigger, 491 or 398?
+A: 491 is bigger than 398.
+
+Q: Is 474 bigger than 190?
+A: Yes, 474 is bigger than 190.
+
+Q: Which is bigger, 10 or 18?
+A: 18 is bigger than 10.
+
+Q: Is 20 bigger than 8?
+A: Yes, 20 is bigger than 8.
+
+Q: Is 81 bigger than 25?
+A: Yes, 81 is bigger than 25.
