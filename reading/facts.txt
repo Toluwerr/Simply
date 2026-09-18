@@ -4870,3 +4870,66 @@ A: Andrew Bonar Law is a British Conservative politician who was Prime Minister 
 
 Q: What is Fitts's law?
 A: Fitts's law is a predictive model of human movement primarily used in human-computer interaction and ergonomics.
+
+Q: What is PyTorch?
+A: PyTorch is an open-source deep learning library.
+
+Q: What is Leela Chess Zero?
+A: Leela Chess Zero is a free, open-source chess engine and volunteer computing project based on Google's AlphaZero engine.
+
+Q: What is Time delay neural network?
+A: Time delay neural network is a multilayer artificial neural network architecture whose purpose is to 1 classify patterns with shift-invariance.
+
+Q: What is Warren Sturgis McCulloch?
+A: Warren Sturgis McCulloch is an American neurophysiologist and cybernetician known for his work on the foundation for certain brain theories.
+
+Q: What is Kandra?
+A: Kandra is a census town in the CD block in the Seraikela Sadar subdivision of the Saraikela Kharsawan district in the Indian state of Jharkhand.
+
+Q: What is Derryclare or Derryclare Mountain?
+A: Derryclare or Derryclare Mountain is a mountain at the southern edge of Twelve Bens range in Connemara National Park in County Galway, Ireland.
+
+Q: What is Dundas?
+A: Dundas is a city in Rice County, Minnesota, United States.
+
+Q: What is Plectophanes frontalis?
+A: Plectophanes frontalis is a species of Cycloctenidae spider endemic to New Zealand.
+
+Q: What is Morris Francis Sullivan?
+A: Morris Francis Sullivan is an American businessman who co-founded the Sullivan Bluth Studios with three former Disney animators.
+
+Q: What is Framed?
+A: Framed is an American variety television series that airs on the IFC network.
+
+Q: What is Suoniemi?
+A: Suoniemi is a former municipality of Finland in the former Turku and Pori Province, nowadays in the Pirkanmaa region.
+
+Q: What is Exploration?
+A: Exploration is a family board game of expeditions and exploration published by the British company Spiring Enterprises Inc.
+
+Q: What is Nyx?
+A: Nyx is a reusable spacecraft under development by the European company The Exploration Company with the support of the European Space Agency for cargo.
+
+Q: What is Phobos?
+A: Phobos is the innermost and larger of the two natural satellites of Mars, the other being Deimos.
+
+Q: What is Cave diving?
+A: Cave diving is a distinct, and more hazardous, sub-speciality undertaken by a small minority of technically proficient cavers.
+
+Q: What is M.A..: Mechanized Assault  Exploration?
+A: M.A..: Mechanized Assault  Exploration is a hybrid real-timeturn-based strategy video game developed and published by Interplay Productions.
+
+Q: What is Vesta?
+A: Vesta is the only known remaining rocky protoplanet of the kind that formed the terrestrial planets.
+
+Q: What is Uranus?
+A: Uranus is the third-largest and fourth most massive planet in the Solar System.
+
+Q: What is Ganymede?
+A: Ganymede is a natural satellite of Jupiter and is the largest and most massive moon in the Solar System.
+
+Q: What is Atomic hydrogen?
+A: Atomic hydrogen is a minor atmospheric constituent.
+
+Q: What is Energy Exploration Technologies, Inc.?
+A: Energy Exploration Technologies, Inc.

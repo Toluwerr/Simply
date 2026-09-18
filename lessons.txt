@@ -31753,3 +31753,146 @@ A: No, 74 is bigger than 41.
 
 Q: Is 64 bigger than 72?
 A: No, 72 is bigger than 64.
+Q: How many letters does the word 'frankfort' have?
+A: The word 'frankfort' has 9 letters.
+
+Q: How many letters does the word 'sound' have?
+A: The word 'sound' has 5 letters.
+
+Q: How many letters does the word 'taipei' have?
+A: The word 'taipei' has 6 letters.
+
+Q: How many letters does the word 'vanuatu' have?
+A: The word 'vanuatu' has 7 letters.
+
+Q: How many letters does the word 'venus' have?
+A: The word 'venus' has 5 letters.
+
+Q: How many letters does the word 'melon' have?
+A: The word 'melon' has 5 letters.
+
+Q: How many letters does the word 'african' have?
+A: The word 'african' has 7 letters.
+
+Q: How many letters does the word 'concord' have?
+A: The word 'concord' has 7 letters.
+
+Q: How do you sort 2, 13, and 7?
+A: In order, they are 2 7 13.
+
+Q: How do you sort 26, 7, and 1?
+A: In order, they are 1 7 26.
+
+Q: How do you sort 989, 384, and 449?
+A: In order, they are 384 449 989.
+
+Q: How do you sort 1, 8, and 2?
+A: In order, they are 1 2 8.
+
+Q: How do you sort 21, 3, and 25?
+A: In order, they are 3 21 25.
+
+Q: How do you sort 969, 724, and 837?
+A: In order, they are 724 837 969.
+
+Q: How do you sort 8, 14, and 28?
+A: In order, they are 8 14 28.
+
+Q: How do you sort 21, 3, and 11?
+A: In order, they are 3 11 21.
+
+Q: Which is bigger, 117 or 678?
+A: 678 is bigger than 117.
+
+Q: Which is bigger, 895 or 434?
+A: 895 is bigger than 434.
+
+Q: Is 175 bigger than 643?
+A: No, 643 is bigger than 175.
+
+Q: Which is bigger, 273 or 385?
+A: 385 is bigger than 273.
+
+Q: Is 917 bigger than 598?
+A: Yes, 917 is bigger than 598.
+
+Q: Is 5 bigger than 13?
+A: No, 13 is bigger than 5.
+
+Q: Which is bigger, 18 or 17?
+A: 18 is bigger than 17.
+
+Q: Which is bigger, 176 or 123?
+A: 176 is bigger than 123.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: What is the capital of Paraguay?
+A: The capital of Paraguay is Asuncion.
+
+Q: What is the capital of Australia?
+A: The capital of Australia is Canberra.
+
+Q: What is the capital of Saudi Arabia?
+A: The capital of Saudi Arabia is Riyadh.
+
+Q: What is the capital of Chile?
+A: The capital of Chile is Santiago.
+
+Q: What is the capital of Peru?
+A: The capital of Peru is Lima.
+
+Q: What is the capital of Grenada?
+A: The capital of Grenada is Saint George's.
+
+Q: What is the capital of Turkey?
+A: The capital of Turkey is Ankara.
+
+Q: What is the capital of Nepal?
+A: The capital of Nepal is Kathmandu.
+
+Q: What is 17 plus 17?
+A: 17 plus 17 is 34.
+
+Q: What is 843 plus 557?
+A: 843 plus 557 is 1400.
+
+Q: What is 20 minus 18?
+A: 20 minus 18 is 2.
+
+Q: What is 11 times 9?
+A: 11 times 9 is 99.
+
+Q: What is 98 minus 43?
+A: 98 minus 43 is 55.
+
+Q: What is 1 plus 8?
+A: 1 plus 8 is 9.
+
+Q: What is 10 times 4?
+A: 10 times 4 is 40.
+
+Q: What is 63 minus 27?
+A: 63 minus 27 is 36.
