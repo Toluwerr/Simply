@@ -33041,3 +33041,146 @@ A: The currency of Denmark is the krone.
 
 Q: What currency does Slovakia use?
 A: The currency of Slovakia is the euro.
+Q: What is the capital of Laos?
+A: The capital of Laos is Vientiane.
+
+Q: What is the capital of Ecuador?
+A: The capital of Ecuador is Quito.
+
+Q: What is the capital of Andorra?
+A: The capital of Andorra is Andorra la Vella.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Fiji?
+A: The capital of Fiji is Suva.
+
+Q: What is the capital of Cyprus?
+A: The capital of Cyprus is Nicosia.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+
+Q: Is 17 bigger than 8?
+A: Yes, 17 is bigger than 8.
+
+Q: Is 50 bigger than 25?
+A: Yes, 50 is bigger than 25.
+
+Q: Which is bigger, 75 or 77?
+A: 77 is bigger than 75.
+
+Q: Which is bigger, 428 or 367?
+A: 428 is bigger than 367.
+
+Q: Which is bigger, 992 or 985?
+A: 992 is bigger than 985.
+
+Q: Which is bigger, 19 or 11?
+A: 19 is bigger than 11.
+
+Q: Is 12 bigger than 20?
+A: No, 20 is bigger than 12.
+
+Q: Is 22 bigger than 64?
+A: No, 64 is bigger than 22.
+
+Q: What number is the Roman numeral cdlxxxii?
+A: The Roman numeral cdlxxxii is the number 482.
+
+Q: What number is the Roman numeral ccxlv?
+A: The Roman numeral ccxlv is the number 245.
+
+Q: What is the Roman numeral for 2?
+A: The Roman numeral for 2 is ii.
+
+Q: What number is the Roman numeral dccclxviii?
+A: The Roman numeral dccclxviii is the number 868.
+
+Q: What number is the Roman numeral dxliv?
+A: The Roman numeral dxliv is the number 544.
+
+Q: What is the Roman numeral for 19?
+A: The Roman numeral for 19 is xix.
+
+Q: What is the Roman numeral for 60?
+A: The Roman numeral for 60 is lx.
+
+Q: What number is the Roman numeral vii?
+A: The Roman numeral vii is the number 7.
+
+Q: What is double 28?
+A: Double 28 is 56.
+
+Q: What is half of 48?
+A: Half of 48 is 24.
+
+Q: What is half of 6?
+A: Half of 6 is 3.
+
+Q: What is double 12?
+A: Double 12 is 24.
+
+Q: What is double 55?
+A: Double 55 is 110.
+
+Q: What is half of 38?
+A: Half of 38 is 19.
+
+Q: What is double 14?
+A: Double 14 is 28.
+
+Q: What is half of 18?
+A: Half of 18 is 9.
+
+Q: What is 11 times 19?
+A: 11 times 19 is 209.
+
+Q: What is 967 minus 514?
+A: 967 minus 514 is 453.
+
+Q: What is 58 plus 30?
+A: 58 plus 30 is 88.
+
+Q: What is 12 minus 7?
+A: 12 minus 7 is 5.
+
+Q: What is 13 times 12?
+A: 13 times 12 is 156.
+
+Q: What is 526 plus 850?
+A: 526 plus 850 is 1376.
+
+Q: What is 7 times 6?
+A: 7 times 6 is 42.
+
+Q: What is 45 plus 82?
+A: 45 plus 82 is 127.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'new'?
+A: The opposite of 'new' is 'old'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'light'?
+A: The opposite of 'light' is 'dark'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'day'?
+A: The opposite of 'day' is 'night'.
+
+Q: What is the opposite of 'long'?
+A: The opposite of 'long' is 'short'.

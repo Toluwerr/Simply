@@ -8028,3 +8028,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.22 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: months 1.00, planets 1.00, continents 1.00
 - self-portrait, asked "Who are you?": *"I krams in any kilogram."
 
+## Iteration 891 - IMPROVED
+- **when**: 2026-09-18T05:24:46Z
+- **train loss**: 1.2678 | **val loss**: 0.7978 | **run best**: 0.7978
+- **corpus**: 287,131 chars (+13 self-written examples)
+- **internet reading**: +56 articles, +16 facts (3,716 read all-time)
+- **lr**: 0.0003 | **steps**: 250
+- **knowledge quiz**: avg 0.17 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, planets 1.00, letters 1.00
+- self-portrait, asked "Who are you?": *"I ky my training! I was world."
+

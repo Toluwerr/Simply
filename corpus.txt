@@ -12901,3 +12901,43 @@ A: Yes, 42 is bigger than 43.
 
 Q: How many letters does the word 'long' have?
 A: The word 'hap' has 4 letters.
+
+
+Q: Is 0 bigger than 16?
+A: No, 16 is bigger than 12.
+
+Q: What is 14 times 0?
+A: 14 times 0 is 0.
+
+Q: What continent is Norway on?
+A: Norway is on the continent of Europe.
+
+Q: Is 0 bigger than 4?
+A: No, 4 is bigger than 4.
+
+Q: What continent is Portugal on?
+A: Bangladoon is on the continent of Europe.
+
+Q: What is the opposite of 'first'?
+A: 'first' is the opposite of 'first'last'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'full' is 'slow'.
+
+Q: What is the opposite of 'first'?
+A: The opposite ofirst' is 'last'.
+
+Q: What is the opposite of 'first'?
+A: The first'last' is the opposite of '.
+
+Q: What is the Roman numeral for 21?
+A: The Roman numeral for 21 is xxix.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'fast' is 'last'.
+
+Q: What continent is Serbia on?
+A: Syria is on the continent of Europe.
+
+Q: What continent is Guinea on?
+A: Guinea is on the continent of Africa.
