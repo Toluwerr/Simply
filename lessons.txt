@@ -33184,3 +33184,146 @@ A: The opposite of 'day' is 'night'.
 
 Q: What is the opposite of 'long'?
 A: The opposite of 'long' is 'short'.
+Q: What is the last letter of 'amsterdam'?
+A: The last letter of 'amsterdam' is M.
+
+Q: What is the first letter of 'magnesium'?
+A: The first letter of 'magnesium' is M.
+
+Q: What is the first letter of 'weak'?
+A: The first letter of 'weak' is W.
+
+Q: What is the last letter of 'sarajevo'?
+A: The last letter of 'sarajevo' is O.
+
+Q: What is the first letter of 'wellington'?
+A: The first letter of 'wellington' is W.
+
+Q: What is the first letter of 'naypyidaw'?
+A: The first letter of 'naypyidaw' is N.
+
+Q: What is the last letter of 'silicon'?
+A: The last letter of 'silicon' is N.
+
+Q: What is the first letter of 'still'?
+A: The first letter of 'still' is S.
+
+Q: How do you sort 350, 412, and 632?
+A: In order, they are 350 412 632.
+
+Q: How do you sort 491, 651, and 851?
+A: In order, they are 491 651 851.
+
+Q: How do you sort 8, 9, and 11?
+A: In order, they are 8 9 11.
+
+Q: How do you sort 606, 662, and 646?
+A: In order, they are 606 646 662.
+
+Q: How do you sort 673, 550, and 292?
+A: In order, they are 292 550 673.
+
+Q: How do you sort 659, 32, and 951?
+A: In order, they are 32 659 951.
+
+Q: How do you sort 91, 571, and 983?
+A: In order, they are 91 571 983.
+
+Q: How do you sort 429, 21, and 742?
+A: In order, they are 21 429 742.
+
+Q: Is 34 bigger than 35?
+A: No, 35 is bigger than 34.
+
+Q: Is 19 bigger than 11?
+A: Yes, 19 is bigger than 11.
+
+Q: Is 2 bigger than 16?
+A: No, 16 is bigger than 2.
+
+Q: Which is bigger, 2 or 1?
+A: 2 is bigger than 1.
+
+Q: Is 12 bigger than 7?
+A: Yes, 12 is bigger than 7.
+
+Q: Is 18 bigger than 6?
+A: Yes, 18 is bigger than 6.
+
+Q: Which is bigger, 20 or 16?
+A: 20 is bigger than 16.
+
+Q: Is 47 bigger than 53?
+A: No, 53 is bigger than 47.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: What is the capital of China?
+A: The capital of China is Beijing.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
+
+Q: What is the capital of Dominica?
+A: The capital of Dominica is Roseau.
+
+Q: What is the capital of Singapore?
+A: The capital of Singapore is Singapore.
+
+Q: What is the capital of Japan?
+A: The capital of Japan is Tokyo.
+
+Q: What is the capital of South Sudan?
+A: The capital of South Sudan is Juba.
+
+Q: What is the capital of Bosnia and Herzegovina?
+A: The capital of Bosnia and Herzegovina is Sarajevo.
+
+Q: What is the capital of Samoa?
+A: The capital of Samoa is Apia.
+
+Q: What is 6 times 7?
+A: 6 times 7 is 42.
+
+Q: What is 11 times 14?
+A: 11 times 14 is 154.
+
+Q: What is 788 minus 660?
+A: 788 minus 660 is 128.
+
+Q: What is 12 times 5?
+A: 12 times 5 is 60.
+
+Q: What is 6 times 3?
+A: 6 times 3 is 18.
+
+Q: What is 18 plus 60?
+A: 18 plus 60 is 78.
+
+Q: What is 18 plus 8?
+A: 18 plus 8 is 26.
+
+Q: What is 13 times 18?
+A: 13 times 18 is 234.

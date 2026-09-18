@@ -8037,3 +8037,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.17 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: animals 1.00, planets 1.00, letters 1.00
 - self-portrait, asked "Who are you?": *"I ky my training! I was world."
 
+## Iteration 892 - NO_GAIN
+- **when**: 2026-09-18T09:25:44Z
+- **train loss**: 2.9287 | **val loss**: 1.8189 | **run best**: 1.2484
+- **corpus**: 287,131 chars (+0 self-written examples)
+- **internet reading**: +40 articles, +15 facts (3,756 read all-time)
+- **lr**: 0.0003 | **steps**: 250
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"5 27 plus 53."
+
