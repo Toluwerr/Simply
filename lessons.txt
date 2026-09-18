@@ -35259,3 +35259,146 @@ A: Yes, 73 is bigger than 62.
 
 Q: Is 209 bigger than 393?
 A: No, 393 is bigger than 209.
+Q: How many letters does the word 'jordan' have?
+A: The word 'jordan' has 6 letters.
+
+Q: How many letters does the word 'tantalum' have?
+A: The word 'tantalum' has 8 letters.
+
+Q: How many letters does the word 'gaborone' have?
+A: The word 'gaborone' has 8 letters.
+
+Q: How many letters does the word 'rock' have?
+A: The word 'rock' has 4 letters.
+
+Q: How many letters does the word 'bratislava' have?
+A: The word 'bratislava' has 10 letters.
+
+Q: How many letters does the word 'fish' have?
+A: The word 'fish' has 4 letters.
+
+Q: How many letters does the word 'lilongwe' have?
+A: The word 'lilongwe' has 8 letters.
+
+Q: How many letters does the word 'manama' have?
+A: The word 'manama' has 6 letters.
+
+Q: What is the first letter of 'tin'?
+A: The first letter of 'tin' is T.
+
+Q: What is the first letter of 'paris'?
+A: The first letter of 'paris' is P.
+
+Q: What is the last letter of 'luanda'?
+A: The last letter of 'luanda' is A.
+
+Q: What is the first letter of 'tiger'?
+A: The first letter of 'tiger' is T.
+
+Q: What is the last letter of 'quick'?
+A: The last letter of 'quick' is K.
+
+Q: What is the first letter of 'dram'?
+A: The first letter of 'dram' is D.
+
+Q: What is the first letter of 'lanthanum'?
+A: The first letter of 'lanthanum' is L.
+
+Q: What is the first letter of 'syria'?
+A: The first letter of 'syria' is S.
+
+Q: How do you sort 23, 28, and 20?
+A: In order, they are 20 23 28.
+
+Q: How do you sort 9, 3, and 5?
+A: In order, they are 3 5 9.
+
+Q: How do you sort 5, 4, and 25?
+A: In order, they are 4 5 25.
+
+Q: How do you sort 17, 10, and 14?
+A: In order, they are 10 14 17.
+
+Q: How do you sort 552, 635, and 347?
+A: In order, they are 347 552 635.
+
+Q: How do you sort 856, 770, and 409?
+A: In order, they are 409 770 856.
+
+Q: How do you sort 188, 426, and 603?
+A: In order, they are 188 426 603.
+
+Q: How do you sort 702, 119, and 428?
+A: In order, they are 119 428 702.
+
+Q: Is 763 bigger than 828?
+A: No, 828 is bigger than 763.
+
+Q: Is 651 bigger than 768?
+A: No, 768 is bigger than 651.
+
+Q: Which is bigger, 16 or 5?
+A: 16 is bigger than 5.
+
+Q: Which is bigger, 85 or 70?
+A: 85 is bigger than 70.
+
+Q: Is 971 bigger than 814?
+A: Yes, 971 is bigger than 814.
+
+Q: Which is bigger, 402 or 373?
+A: 402 is bigger than 373.
+
+Q: Is 9 bigger than 5?
+A: Yes, 9 is bigger than 5.
+
+Q: Is 530 bigger than 819?
+A: No, 819 is bigger than 530.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: What is the capital of Djibouti?
+A: The capital of Djibouti is Djibouti.
+
+Q: What is the capital of Botswana?
+A: The capital of Botswana is Gaborone.
+
+Q: What is the capital of Pakistan?
+A: The capital of Pakistan is Islamabad.
+
+Q: What is the capital of Lesotho?
+A: The capital of Lesotho is Maseru.
+
+Q: What is the capital of Jordan?
+A: The capital of Jordan is Amman.
+
+Q: What is the capital of Brunei?
+A: The capital of Brunei is Bandar Seri Begawan.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
+
+Q: What is the capital of Ghana?
+A: The capital of Ghana is Accra.
