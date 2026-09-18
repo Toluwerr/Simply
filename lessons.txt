@@ -33661,3 +33661,146 @@ A: The Amazon is the biggest rainforest.
 
 Q: What is the largest country in South America?
 A: Brazil is the largest country in South America.
+Q: How many letters does the word 'florida' have?
+A: The word 'florida' has 7 letters.
+
+Q: How many letters does the word 'budapest' have?
+A: The word 'budapest' has 8 letters.
+
+Q: How many letters does the word 'lincoln' have?
+A: The word 'lincoln' has 7 letters.
+
+Q: How many letters does the word 'tunisia' have?
+A: The word 'tunisia' has 7 letters.
+
+Q: How many letters does the word 'rich' have?
+A: The word 'rich' has 4 letters.
+
+Q: How many letters does the word 'damascus' have?
+A: The word 'damascus' has 8 letters.
+
+Q: How many letters does the word 'wisconsin' have?
+A: The word 'wisconsin' has 9 letters.
+
+Q: How many letters does the word 'nepal' have?
+A: The word 'nepal' has 5 letters.
+
+Q: What is the first letter of 'bismarck'?
+A: The first letter of 'bismarck' is B.
+
+Q: What is the first letter of 'quito'?
+A: The first letter of 'quito' is Q.
+
+Q: What is the last letter of 'gitega'?
+A: The last letter of 'gitega' is A.
+
+Q: What is the first letter of 'guinea'?
+A: The first letter of 'guinea' is G.
+
+Q: What is the first letter of 'alaska'?
+A: The first letter of 'alaska' is A.
+
+Q: What is the first letter of 'bishkek'?
+A: The first letter of 'bishkek' is B.
+
+Q: What is the first letter of 'bahamas'?
+A: The first letter of 'bahamas' is B.
+
+Q: What is the first letter of 'slovakia'?
+A: The first letter of 'slovakia' is S.
+
+Q: How do you sort 25, 28, and 21?
+A: In order, they are 21 25 28.
+
+Q: How do you sort 5, 24, and 26?
+A: In order, they are 5 24 26.
+
+Q: How do you sort 15, 18, and 19?
+A: In order, they are 15 18 19.
+
+Q: How do you sort 25, 23, and 19?
+A: In order, they are 19 23 25.
+
+Q: How do you sort 721, 412, and 677?
+A: In order, they are 412 677 721.
+
+Q: How do you sort 12, 14, and 8?
+A: In order, they are 8 12 14.
+
+Q: How do you sort 716, 588, and 108?
+A: In order, they are 108 588 716.
+
+Q: How do you sort 16, 3, and 19?
+A: In order, they are 3 16 19.
+
+Q: Which is bigger, 9 or 3?
+A: 9 is bigger than 3.
+
+Q: Is 13 bigger than 5?
+A: Yes, 13 is bigger than 5.
+
+Q: Which is bigger, 17 or 12?
+A: 17 is bigger than 12.
+
+Q: Which is bigger, 16 or 4?
+A: 16 is bigger than 4.
+
+Q: Is 930 bigger than 241?
+A: Yes, 930 is bigger than 241.
+
+Q: Which is bigger, 11 or 12?
+A: 12 is bigger than 11.
+
+Q: Is 408 bigger than 729?
+A: No, 729 is bigger than 408.
+
+Q: Is 727 bigger than 427?
+A: Yes, 727 is bigger than 427.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: What is the capital of Georgia?
+A: The capital of Georgia is Tbilisi.
+
+Q: What is the capital of Afghanistan?
+A: The capital of Afghanistan is Kabul.
+
+Q: What is the capital of Saudi Arabia?
+A: The capital of Saudi Arabia is Riyadh.
+
+Q: What is the capital of Saint Vincent and the Grenadines?
+A: The capital of Saint Vincent and the Grenadines is Kingstown.
+
+Q: What is the capital of Eswatini?
+A: The capital of Eswatini is Mbabane.
+
+Q: What is the capital of South Africa?
+A: The capital of South Africa is Pretoria.
+
+Q: What is the capital of the Marshall Islands?
+A: The capital of the Marshall Islands is Majuro.
+
+Q: What is the capital of Suriname?
+A: The capital of Suriname is Paramaribo.

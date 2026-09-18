@@ -5026,3 +5026,69 @@ A: Nuclear power is the use of nuclear reactions to produce electricity.
 
 Q: What is Accenture plc?
 A: Accenture plc is an Irish domiciled technology consulting company headquartered in Dublin, Ireland, for tax purposes.
+
+Q: What is GitHub Copilot?
+A: GitHub Copilot is a code completion and programming AI-assistant developed by GitHub and OpenAI that assists users of Visual Studio Code.
+
+Q: What is Marcus Alexander Brigstocke?
+A: Marcus Alexander Brigstocke is a British comedian and actor.
+
+Q: What is David Blaine?
+A: David Blaine is an American magician, mentalist, and endurance performer.
+
+Q: What is Spider-Man Unlimited?
+A: Spider-Man Unlimited is an animated television series produced by Saban Entertainment which features the Marvel comic book superhero Spider-Man.
+
+Q: What is Take Me Home?
+A: Take Me Home is the fifteenth studio album by American singer-actress Cher, released on January 25, 1979, on Casablanca Records.
+
+Q: What is Tonto?
+A: Tonto is a fictional character he is the Native American either Tonto Apache, Comanche, or Potawatomi companion of the Lone Ranger.
+
+Q: What is Aelius Nicon?
+A: Aelius Nicon is a Greek architect and builder in 2nd century AD Pergamon.
+
+Q: What is Nicon?
+A: Nicon is a mathematician, architect, astronomer, philosopher, and devotee of Greek literature.
+
+Q: What is Estatoe?
+A: Estatoe is an unincorporated community in Mitchell County, North Carolina, United States.
+
+Q: What is Ormsby?
+A: Ormsby is a career soldier first serving in the Second Boer War.
+
+Q: What is Dias Angga Putra?
+A: Dias Angga Putra is an Indonesian professional footballer who plays as a right-back for Championship club RANS Nusantara.
+
+Q: What is Charles Munnerlyn?
+A: Charles Munnerlyn is an American optical engineer.
+
+Q: What is Munnerlyn?
+A: Munnerlyn is the founder of VIS, Incorporated, once the world's largest manufacturer of laser-based vision correction systems.
+
+Q: What is Handan?
+A: Handan is a Type 054A frigate of the People's Liberation Army Navy.
+
+Q: What is Gladiator?
+A: Gladiator is a 2000 epic action adventure drama film directed by Ridley Scott and written by David Franzoni, John Logan.
+
+Q: What is Roman Empire?
+A: Roman Empire is a television docudrama based on historical events of the Roman Empire.
+
+Q: What is Woodworking?
+A: Woodworking is the skill of making items from wood, and includes cabinetry, furniture making, wood carving, joinery, carpentry.
+
+Q: What is Ancient Roman technology?
+A: Ancient Roman technology is the collection of techniques, skills, methods, processes.
+
+Q: What is Polybius?
+A: Polybius is a close friend and mentor to the Roman politician and general Scipio Aemilianus.
+
+Q: What is Farce?
+A: Farce is a form of comedy that relies on amusing and highly implausible plots, stereotyped or exaggerated characters.
+
+Q: What is Above that, there?
+A: Above that, there is the rudens, which was made of ten inches of rammed concrete.
+
+Q: What is Germanicus?
+A: Germanicus is the nephew and adopted son of Emperor Tiberius.

@@ -8064,3 +8064,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Itleth plus ' is the cool'."
 
+## Iteration 895 - NO_GAIN
+- **when**: 2026-09-18T13:46:41Z
+- **train loss**: 2.9602 | **val loss**: 1.8063 | **run best**: 1.2484
+- **corpus**: 287,131 chars (+0 self-written examples)
+- **internet reading**: +53 articles, +22 facts (3,809 read all-time)
+- **lr**: 0.0003 | **steps**: 250
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"In order, they are 9 28."
+
