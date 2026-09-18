@@ -8136,3 +8136,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"In order, they are 1."
 
+## Iteration 903 - NO_GAIN
+- **when**: 2026-09-18T19:59:19Z
+- **train loss**: 1.7434 | **val loss**: 1.3334 | **run best**: 1.2484
+- **corpus**: 287,393 chars (+0 self-written examples)
+- **internet reading**: +40 articles, +19 facts (3,900 read all-time)
+- **lr**: 0.0003 | **steps**: 250
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Counting by tens gives 10 100 35 to 70."
+

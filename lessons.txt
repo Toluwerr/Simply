@@ -34925,3 +34925,170 @@ A: The capital of Madagascar is Antananarivo.
 
 Q: What is the capital of Serbia?
 A: The capital of Serbia is Belgrade.
+Q: What is 2 times 6?
+A: 2 times 6 is 12.
+
+Q: What is 321 plus 399?
+A: 321 plus 399 is 720.
+
+Q: What is 777 plus 528?
+A: 777 plus 528 is 1305.
+
+Q: What is 93 minus 40?
+A: 93 minus 40 is 53.
+
+Q: What is 48 plus 64?
+A: 48 plus 64 is 112.
+
+Q: What is 670 plus 930?
+A: 670 plus 930 is 1600.
+
+Q: What is 10 times 4?
+A: 10 times 4 is 40.
+
+Q: What is 99 plus 34?
+A: 99 plus 34 is 133.
+
+Q: What continent is Paraguay on?
+A: Paraguay is on the continent of South America.
+
+Q: What continent is Benin on?
+A: Benin is on the continent of Africa.
+
+Q: What continent is Qatar on?
+A: Qatar is on the continent of Asia.
+
+Q: What continent is North Korea on?
+A: North Korea is on the continent of Asia.
+
+Q: What continent is Bhutan on?
+A: Bhutan is on the continent of Asia.
+
+Q: What continent is South Africa on?
+A: South Africa is on the continent of Africa.
+
+Q: What continent is Uruguay on?
+A: Uruguay is on the continent of South America.
+
+Q: What continent is Malawi on?
+A: Malawi is on the continent of Africa.
+
+Q: What is the first letter of 'balboa'?
+A: The first letter of 'balboa' is B.
+
+Q: What is the last letter of 'moresby'?
+A: The last letter of 'moresby' is Y.
+
+Q: What is the first letter of 'river'?
+A: The first letter of 'river' is R.
+
+Q: What is the first letter of 'alabama'?
+A: The first letter of 'alabama' is A.
+
+Q: What is the last letter of 'jupiter'?
+A: The last letter of 'jupiter' is R.
+
+Q: What is the last letter of 'barium'?
+A: The last letter of 'barium' is M.
+
+Q: What is the first letter of 'kentucky'?
+A: The first letter of 'kentucky' is K.
+
+Q: What is the first letter of 'greece'?
+A: The first letter of 'greece' is G.
+
+Q: How many letters does the word 'lanthanum' have?
+A: The word 'lanthanum' has 9 letters.
+
+Q: How many letters does the word 'covered' have?
+A: The word 'covered' has 7 letters.
+
+Q: How many letters does the word 'spain' have?
+A: The word 'spain' has 5 letters.
+
+Q: How many letters does the word 'tuvalu' have?
+A: The word 'tuvalu' has 6 letters.
+
+Q: How many letters does the word 'chad' have?
+A: The word 'chad' has 4 letters.
+
+Q: How many letters does the word 'paramaribo' have?
+A: The word 'paramaribo' has 10 letters.
+
+Q: How many letters does the word 'balboa' have?
+A: The word 'balboa' has 6 letters.
+
+Q: How many letters does the word 'modern' have?
+A: The word 'modern' has 6 letters.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: What is the biggest country by area?
+A: Russia is the biggest country by area.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What is the capital of the US state Ohio?
+A: Columbus is the capital of Ohio.
+
+Q: What is the capital of the US state Oklahoma?
+A: Oklahoma City is the capital of Oklahoma.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What currency does Bahrain use?
+A: The currency of Bahrain is the dinar.
+
+Q: What currency does Italy use?
+A: The currency of Italy is the euro.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.
+
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What currency does Ireland use?
+A: The currency of Ireland is the euro.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does Slovenia use?
+A: The currency of Slovenia is the euro.
+
+Q: What currency does Indonesia use?
+A: The currency of Indonesia is the rupiah.
