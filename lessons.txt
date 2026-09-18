@@ -34281,3 +34281,170 @@ A: The capital of Liberia is Monrovia.
 
 Q: What is the capital of Gambia?
 A: The capital of Gambia is Banjul.
+Q: What is 15 plus 12?
+A: 15 plus 12 is 27.
+
+Q: What is 15 plus 43?
+A: 15 plus 43 is 58.
+
+Q: What is 5 times 5?
+A: 5 times 5 is 25.
+
+Q: What is 5 times 12?
+A: 5 times 12 is 60.
+
+Q: What is 940 minus 645?
+A: 940 minus 645 is 295.
+
+Q: What is 919 minus 844?
+A: 919 minus 844 is 75.
+
+Q: What is 32 plus 67?
+A: 32 plus 67 is 99.
+
+Q: What is 15 minus 10?
+A: 15 minus 10 is 5.
+
+Q: What continent is Myanmar on?
+A: Myanmar is on the continent of Asia.
+
+Q: What continent is Finland on?
+A: Finland is on the continent of Europe.
+
+Q: What continent is Finland on?
+A: Finland is on the continent of Europe.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is Bahrain on?
+A: Bahrain is on the continent of Asia.
+
+Q: What continent is Tonga on?
+A: Tonga is on the continent of Oceania.
+
+Q: What continent is Luxembourg on?
+A: Luxembourg is on the continent of Europe.
+
+Q: What continent is Pakistan on?
+A: Pakistan is on the continent of Asia.
+
+Q: What is the first letter of 'manama'?
+A: The first letter of 'manama' is M.
+
+Q: What is the first letter of 'annapolis'?
+A: The first letter of 'annapolis' is A.
+
+Q: What is the last letter of 'islamabad'?
+A: The last letter of 'islamabad' is D.
+
+Q: What is the last letter of 'asia'?
+A: The last letter of 'asia' is A.
+
+Q: What is the last letter of 'mars'?
+A: The last letter of 'mars' is S.
+
+Q: What is the first letter of 'arab'?
+A: The first letter of 'arab' is A.
+
+Q: What is the first letter of 'salvador'?
+A: The first letter of 'salvador' is S.
+
+Q: What is the last letter of 'nickel'?
+A: The last letter of 'nickel' is L.
+
+Q: How many letters does the word 'jersey' have?
+A: The word 'jersey' has 6 letters.
+
+Q: How many letters does the word 'colombo' have?
+A: The word 'colombo' has 7 letters.
+
+Q: How many letters does the word 'bottle' have?
+A: The word 'bottle' has 6 letters.
+
+Q: How many letters does the word 'island' have?
+A: The word 'island' has 6 letters.
+
+Q: How many letters does the word 'malaysia' have?
+A: The word 'malaysia' has 8 letters.
+
+Q: How many letters does the word 'america' have?
+A: The word 'america' has 7 letters.
+
+Q: How many letters does the word 'paz' have?
+A: The word 'paz' has 3 letters.
+
+Q: How many letters does the word 'vaduz' have?
+A: The word 'vaduz' has 5 letters.
+
+Q: What is the largest island?
+A: Greenland is the largest island.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What is the most populous country?
+A: India is the most populous country.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: How many oceans are there?
+A: There are 5 oceans.
+
+Q: How many oceans are there?
+A: There are 5 oceans.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state West Virginia?
+A: Charleston is the capital of West Virginia.
+
+Q: What is the capital of the US state Nebraska?
+A: Lincoln is the capital of Nebraska.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Massachusetts?
+A: Boston is the capital of Massachusetts.
+
+Q: What is the capital of the US state Connecticut?
+A: Hartford is the capital of Connecticut.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What currency does Nigeria use?
+A: The currency of Nigeria is the naira.
+
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does Mauritius use?
+A: The currency of Mauritius is the rupee.
+
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Australia use?
+A: The currency of Australia is the dollar.
+
+Q: What currency does Peru use?
+A: The currency of Peru is the sol.

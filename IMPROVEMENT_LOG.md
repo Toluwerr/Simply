@@ -8100,3 +8100,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"In 27 plan numeral for 110 is the sun."
 
+## Iteration 899 - NO_GAIN
+- **when**: 2026-09-18T17:29:22Z
+- **train loss**: 1.7835 | **val loss**: 1.3698 | **run best**: 1.2484
+- **corpus**: 287,131 chars (+0 self-written examples)
+- **internet reading**: +51 articles, +21 facts (3,860 read all-time)
+- **lr**: 0.0003 | **steps**: 250
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Counting bigger than 29."
+
