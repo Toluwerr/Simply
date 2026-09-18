@@ -33494,3 +33494,170 @@ A: The currency of Vietnam is the dong.
 
 Q: What currency does Saudi Arabia use?
 A: The currency of Saudi Arabia is the riyal.
+Q: How do you write 17 in words?
+A: 17 in words is seventeen.
+
+Q: How do you write 15 in words?
+A: 15 in words is fifteen.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 75 in words?
+A: 75 in words is seventy-five.
+
+Q: How do you write 77 in words?
+A: 77 in words is seventy-seven.
+
+Q: How do you write 89 in words?
+A: 89 in words is eighty-nine.
+
+Q: How do you write 79 in words?
+A: 79 in words is seventy-nine.
+
+Q: How do you write 42 in words?
+A: 42 in words is forty-two.
+
+Q: What is the last letter of 'tome'?
+A: The last letter of 'tome' is E.
+
+Q: What is the last letter of 'wanting'?
+A: The last letter of 'wanting' is G.
+
+Q: What is the last letter of 'tehran'?
+A: The last letter of 'tehran' is N.
+
+Q: What is the last letter of 'belgium'?
+A: The last letter of 'belgium' is M.
+
+Q: What is the last letter of 'republic'?
+A: The last letter of 'republic' is C.
+
+Q: What is the first letter of 'apple'?
+A: The first letter of 'apple' is A.
+
+Q: What is the last letter of 'october'?
+A: The last letter of 'october' is R.
+
+Q: What is the last letter of 'calcium'?
+A: The last letter of 'calcium' is M.
+
+Q: What is the chemical symbol for mercury?
+A: The chemical symbol for mercury is Hg.
+
+Q: What is the chemical symbol for thulium?
+A: The chemical symbol for thulium is Tm.
+
+Q: Which element has the chemical symbol Ba?
+A: Ba is the chemical symbol for barium.
+
+Q: What is the chemical symbol for plutonium?
+A: The chemical symbol for plutonium is Pu.
+
+Q: Which element has the chemical symbol Ar?
+A: Ar is the chemical symbol for argon.
+
+Q: What is the chemical symbol for promethium?
+A: The chemical symbol for promethium is Pm.
+
+Q: Which element has the chemical symbol Re?
+A: Re is the chemical symbol for rhenium.
+
+Q: What is the chemical symbol for terbium?
+A: The chemical symbol for terbium is Tb.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 45.
+
+Q: Can you count by ones from 11 to 15?
+A: Counting by ones gives 11 12 13 14 15.
+
+Q: Can you count by ones from 2 to 7?
+A: Counting by ones gives 2 3 4 5 6 7.
+
+Q: Can you count by tens from 30 to 50?
+A: Counting by tens gives 30 40 50.
+
+Q: Can you count by ones from 27 to 30?
+A: Counting by ones gives 27 28 29 30.
+
+Q: Can you count by fives from 35 to 45?
+A: Counting by fives gives 35 40 45.
+
+Q: Can you count by fives from 10 to 25?
+A: Counting by fives gives 10 15 20 25.
+
+Q: Can you count by twos from 34 to 44?
+A: Counting by twos gives 34 36 38 40 42 44.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: Is 972 bigger than 109?
+A: Yes, 972 is bigger than 109.
+
+Q: Which is bigger, 83 or 33?
+A: 83 is bigger than 33.
+
+Q: Which is bigger, 78 or 74?
+A: 78 is bigger than 74.
+
+Q: Which is bigger, 524 or 678?
+A: 678 is bigger than 524.
+
+Q: Is 11 bigger than 20?
+A: No, 20 is bigger than 11.
+
+Q: Is 395 bigger than 286?
+A: Yes, 395 is bigger than 286.
+
+Q: Which is bigger, 19 or 39?
+A: 39 is bigger than 19.
+
+Q: Is 34 bigger than 40?
+A: No, 40 is bigger than 34.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
+
+Q: How many continents are there?
+A: There are 7 continents.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What is the largest country in South America?
+A: Brazil is the largest country in South America.
