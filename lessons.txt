@@ -34615,3 +34615,170 @@ A: 13 is bigger than 5.
 
 Q: Is 542 bigger than 396?
 A: Yes, 542 is bigger than 396.
+Q: Which element has the chemical symbol U?
+A: U is the chemical symbol for uranium.
+
+Q: Which element has the chemical symbol Lu?
+A: Lu is the chemical symbol for lutetium.
+
+Q: Which element has the chemical symbol Ac?
+A: Ac is the chemical symbol for actinium.
+
+Q: Which element has the chemical symbol Nd?
+A: Nd is the chemical symbol for neodymium.
+
+Q: Which element has the chemical symbol I?
+A: I is the chemical symbol for iodine.
+
+Q: Which element has the chemical symbol Sr?
+A: Sr is the chemical symbol for strontium.
+
+Q: Which element has the chemical symbol Th?
+A: Th is the chemical symbol for thorium.
+
+Q: What is the chemical symbol for europium?
+A: The chemical symbol for europium is Eu.
+
+Q: What is the capital of the US state Utah?
+A: Salt Lake City is the capital of Utah.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What is the capital of the US state Missouri?
+A: Jefferson City is the capital of Missouri.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Connecticut?
+A: Hartford is the capital of Connecticut.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of Uruguay?
+A: The capital of Uruguay is Montevideo.
+
+Q: What is the capital of Norway?
+A: The capital of Norway is Oslo.
+
+Q: What is the capital of Sierra Leone?
+A: The capital of Sierra Leone is Freetown.
+
+Q: What is the capital of Georgia?
+A: The capital of Georgia is Tbilisi.
+
+Q: What is the capital of Switzerland?
+A: The capital of Switzerland is Bern.
+
+Q: What is the capital of India?
+A: The capital of India is New Delhi.
+
+Q: What is the capital of Lebanon?
+A: The capital of Lebanon is Beirut.
+
+Q: What is the capital of Algeria?
+A: The capital of Algeria is Algiers.
+
+Q: What does 'swift' mean?
+A: 'swift' means moving very fast.
+
+Q: What does 'hollow' mean?
+A: 'hollow' means empty inside.
+
+Q: What does 'fuzzy' mean?
+A: 'fuzzy' means covered with soft fluff.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'giant' mean?
+A: 'giant' means extremely big.
+
+Q: What does 'generous' mean?
+A: 'generous' means happy to give and share.
+
+Q: What does 'gentle' mean?
+A: 'gentle' means soft and careful.
+
+Q: Which is bigger, 88 or 77?
+A: 88 is bigger than 77.
+
+Q: Is 126 bigger than 138?
+A: No, 138 is bigger than 126.
+
+Q: Is 15 bigger than 7?
+A: Yes, 15 is bigger than 7.
+
+Q: Which is bigger, 5 or 11?
+A: 11 is bigger than 5.
+
+Q: Is 178 bigger than 815?
+A: No, 815 is bigger than 178.
+
+Q: Which is bigger, 51 or 77?
+A: 77 is bigger than 51.
+
+Q: Which is bigger, 274 or 653?
+A: 653 is bigger than 274.
+
+Q: Is 99 bigger than 16?
+A: Yes, 99 is bigger than 16.
+
+Q: How do you write 68 in words?
+A: 68 in words is sixty-eight.
+
+Q: How do you write 6 in words?
+A: 6 in words is six.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: How do you write 61 in words?
+A: 61 in words is sixty-one.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 16 in words?
+A: 16 in words is sixteen.
+
+Q: What is the opposite of 'hard'?
+A: The opposite of 'hard' is 'soft'.
+
+Q: What is the opposite of 'big'?
+A: The opposite of 'big' is 'small'.
+
+Q: What is the opposite of 'happy'?
+A: The opposite of 'happy' is 'sad'.
+
+Q: What is the opposite of 'early'?
+A: The opposite of 'early' is 'late'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'hot'?
+A: The opposite of 'hot' is 'cold'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.

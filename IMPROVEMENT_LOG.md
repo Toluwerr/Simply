@@ -8118,3 +8118,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"It is spelled 's 't warm's."
 
+## Iteration 901 - IMPROVED
+- **when**: 2026-09-18T17:46:07Z
+- **train loss**: 1.9325 | **val loss**: 0.9817 | **run best**: 0.9817
+- **corpus**: 287,393 chars (+3 self-written examples)
+- **internet reading**: +51 articles, +21 facts (3,860 read all-time)
+- **lr**: 0.0003 | **steps**: 250
+- **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: planets 1.00, reading 0.00, definitions 0.00
+- self-portrait, asked "Who are you?": *"May is the make."
+
