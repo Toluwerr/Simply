@@ -33804,3 +33804,170 @@ A: The capital of the Marshall Islands is Majuro.
 
 Q: What is the capital of Suriname?
 A: The capital of Suriname is Paramaribo.
+Q: What is 97 minus 63?
+A: 97 minus 63 is 34.
+
+Q: What is 791 minus 128?
+A: 791 minus 128 is 663.
+
+Q: What is 315 plus 232?
+A: 315 plus 232 is 547.
+
+Q: What is 9 minus 2?
+A: 9 minus 2 is 7.
+
+Q: What is 5 times 9?
+A: 5 times 9 is 45.
+
+Q: What is 4 plus 14?
+A: 4 plus 14 is 18.
+
+Q: What is 94 minus 14?
+A: 94 minus 14 is 80.
+
+Q: What is 66 minus 26?
+A: 66 minus 26 is 40.
+
+Q: What continent is Laos on?
+A: Laos is on the continent of Asia.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: What continent is Greece on?
+A: Greece is on the continent of Europe.
+
+Q: What continent is Venezuela on?
+A: Venezuela is on the continent of South America.
+
+Q: What continent is Serbia on?
+A: Serbia is on the continent of Europe.
+
+Q: What continent is Armenia on?
+A: Armenia is on the continent of Asia.
+
+Q: What continent is Syria on?
+A: Syria is on the continent of Asia.
+
+Q: What is the first letter of 'augusta'?
+A: The first letter of 'augusta' is A.
+
+Q: What is the first letter of 'addis'?
+A: The first letter of 'addis' is A.
+
+Q: What is the first letter of 'down'?
+A: The first letter of 'down' is D.
+
+Q: What is the last letter of 'ruble'?
+A: The last letter of 'ruble' is E.
+
+Q: What is the last letter of 'albany'?
+A: The last letter of 'albany' is Y.
+
+Q: What is the last letter of 'scandium'?
+A: The last letter of 'scandium' is M.
+
+Q: What is the first letter of 'iceland'?
+A: The first letter of 'iceland' is I.
+
+Q: What is the last letter of 'rhenium'?
+A: The last letter of 'rhenium' is M.
+
+Q: How many letters does the word 'bucharest' have?
+A: The word 'bucharest' has 9 letters.
+
+Q: How many letters does the word 'ashgabat' have?
+A: The word 'ashgabat' has 8 letters.
+
+Q: How many letters does the word 'buenos' have?
+A: The word 'buenos' has 6 letters.
+
+Q: How many letters does the word 'oceania' have?
+A: The word 'oceania' has 7 letters.
+
+Q: How many letters does the word 'vila' have?
+A: The word 'vila' has 4 letters.
+
+Q: How many letters does the word 'learn' have?
+A: The word 'learn' has 5 letters.
+
+Q: How many letters does the word 'zloty' have?
+A: The word 'zloty' has 5 letters.
+
+Q: How many letters does the word 'dram' have?
+A: The word 'dram' has 4 letters.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: What is the freezing point of water?
+A: Water freezes at 0 degrees Celsius.
+
+Q: How many strings does a guitar have?
+A: A guitar has 6 strings.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: What is the hardest natural substance?
+A: Diamond is the hardest natural substance.
+
+Q: What is the capital of the US state Illinois?
+A: Springfield is the capital of Illinois.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: What is the capital of the US state Washington?
+A: Olympia is the capital of Washington.
+
+Q: What currency does Laos use?
+A: The currency of Laos is the kip.
+
+Q: What currency does Venezuela use?
+A: The currency of Venezuela is the bolivar.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What currency does Uzbekistan use?
+A: The currency of Uzbekistan is the som.
+
+Q: What currency does Switzerland use?
+A: The currency of Switzerland is the franc.
+
+Q: What currency does Kenya use?
+A: The currency of Kenya is the shilling.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does Cuba use?
+A: The currency of Cuba is the peso.
