@@ -35402,3 +35402,170 @@ A: The capital of Monaco is Monaco.
 
 Q: What is the capital of Ghana?
 A: The capital of Ghana is Accra.
+Q: What is 91 minus 29?
+A: 91 minus 29 is 62.
+
+Q: What is 16 minus 8?
+A: 16 minus 8 is 8.
+
+Q: What is 10 times 9?
+A: 10 times 9 is 90.
+
+Q: What is 4 times 7?
+A: 4 times 7 is 28.
+
+Q: What is 3 times 7?
+A: 3 times 7 is 21.
+
+Q: What is 17 minus 15?
+A: 17 minus 15 is 2.
+
+Q: What is 2 plus 7?
+A: 2 plus 7 is 9.
+
+Q: What is 27 plus 75?
+A: 27 plus 75 is 102.
+
+Q: What continent is Sudan on?
+A: Sudan is on the continent of Africa.
+
+Q: What continent is Samoa on?
+A: Samoa is on the continent of Oceania.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: What continent is Japan on?
+A: Japan is on the continent of Asia.
+
+Q: What continent is Iceland on?
+A: Iceland is on the continent of Europe.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What continent is Tajikistan on?
+A: Tajikistan is on the continent of Asia.
+
+Q: What continent is the United Kingdom on?
+A: the United Kingdom is on the continent of Europe.
+
+Q: What is the last letter of 'nice'?
+A: The last letter of 'nice' is E.
+
+Q: What is the first letter of 'manama'?
+A: The first letter of 'manama' is M.
+
+Q: What is the first letter of 'tirana'?
+A: The first letter of 'tirana' is T.
+
+Q: What is the first letter of 'covered'?
+A: The first letter of 'covered' is C.
+
+Q: What is the last letter of 'venezuela'?
+A: The last letter of 'venezuela' is A.
+
+Q: What is the first letter of 'rial'?
+A: The first letter of 'rial' is R.
+
+Q: What is the last letter of 'mouse'?
+A: The last letter of 'mouse' is E.
+
+Q: What is the first letter of 'michigan'?
+A: The first letter of 'michigan' is M.
+
+Q: What is the deepest ocean trench?
+A: The Mariana Trench is the deepest ocean trench.
+
+Q: What is the freezing point of water?
+A: Water freezes at 0 degrees Celsius.
+
+Q: What is the smallest country?
+A: Vatican City is the smallest country.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: What is the farthest planet from the sun?
+A: Neptune is the farthest planet from the sun.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Vermont?
+A: Montpelier is the capital of Vermont.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: What is the capital of the US state Rhode Island?
+A: Providence is the capital of Rhode Island.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
+
+Q: What currency does Sudan use?
+A: The currency of Sudan is the pound.
+
+Q: What currency does Kazakhstan use?
+A: The currency of Kazakhstan is the tenge.
+
+Q: What currency does Barbados use?
+A: The currency of Barbados is the dollar.
+
+Q: What currency does Nepal use?
+A: The currency of Nepal is the rupee.
+
+Q: What currency does the Bahamas use?
+A: The currency of the Bahamas is the dollar.
+
+Q: What currency does Somalia use?
+A: The currency of Somalia is the shilling.
+
+Q: What currency does Botswana use?
+A: The currency of Botswana is the pula.
+
+Q: What is the capital of Samoa?
+A: The capital of Samoa is Apia.
+
+Q: What is the capital of Costa Rica?
+A: The capital of Costa Rica is San Jose.
+
+Q: What is the capital of Egypt?
+A: The capital of Egypt is Cairo.
+
+Q: What is the capital of Uzbekistan?
+A: The capital of Uzbekistan is Tashkent.
+
+Q: What is the capital of Montenegro?
+A: The capital of Montenegro is Podgorica.
+
+Q: What is the capital of Romania?
+A: The capital of Romania is Bucharest.
+
+Q: What is the capital of Senegal?
+A: The capital of Senegal is Dakar.
+
+Q: What is the capital of Grenada?
+A: The capital of Grenada is Saint George's.
