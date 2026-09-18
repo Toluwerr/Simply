@@ -31896,3 +31896,170 @@ A: 10 times 4 is 40.
 
 Q: What is 63 minus 27?
 A: 63 minus 27 is 36.
+Q: What is 891 minus 492?
+A: 891 minus 492 is 399.
+
+Q: What is 20 plus 10?
+A: 20 plus 10 is 30.
+
+Q: What is 3 plus 9?
+A: 3 plus 9 is 12.
+
+Q: What is 451 plus 84?
+A: 451 plus 84 is 535.
+
+Q: What is 376 plus 223?
+A: 376 plus 223 is 599.
+
+Q: What is 4 times 9?
+A: 4 times 9 is 36.
+
+Q: What is 15 minus 4?
+A: 15 minus 4 is 11.
+
+Q: What is 7 times 8?
+A: 7 times 8 is 56.
+
+Q: What continent is Japan on?
+A: Japan is on the continent of Asia.
+
+Q: What continent is Latvia on?
+A: Latvia is on the continent of Europe.
+
+Q: What continent is France on?
+A: France is on the continent of Europe.
+
+Q: What continent is Chile on?
+A: Chile is on the continent of South America.
+
+Q: What continent is Algeria on?
+A: Algeria is on the continent of Africa.
+
+Q: What continent is Hungary on?
+A: Hungary is on the continent of Europe.
+
+Q: What continent is the Philippines on?
+A: the Philippines is on the continent of Asia.
+
+Q: What continent is Bangladesh on?
+A: Bangladesh is on the continent of Asia.
+
+Q: What is the last letter of 'manila'?
+A: The last letter of 'manila' is A.
+
+Q: What is the last letter of 'montgomery'?
+A: The last letter of 'montgomery' is Y.
+
+Q: What is the last letter of 'mars'?
+A: The last letter of 'mars' is S.
+
+Q: What is the first letter of 'paraguay'?
+A: The first letter of 'paraguay' is P.
+
+Q: What is the last letter of 'argon'?
+A: The last letter of 'argon' is N.
+
+Q: What is the first letter of 'montana'?
+A: The first letter of 'montana' is M.
+
+Q: What is the last letter of 'kuwait'?
+A: The last letter of 'kuwait' is T.
+
+Q: What is the last letter of 'arabia'?
+A: The last letter of 'arabia' is A.
+
+Q: How many letters does the word 'canberra' have?
+A: The word 'canberra' has 8 letters.
+
+Q: How many letters does the word 'peaceful' have?
+A: The word 'peaceful' has 8 letters.
+
+Q: How many letters does the word 'otter' have?
+A: The word 'otter' has 5 letters.
+
+Q: How many letters does the word 'louis' have?
+A: The word 'louis' has 5 letters.
+
+Q: How many letters does the word 'bangkok' have?
+A: The word 'bangkok' has 7 letters.
+
+Q: How many letters does the word 'fluff' have?
+A: The word 'fluff' has 5 letters.
+
+Q: How many letters does the word 'trenton' have?
+A: The word 'trenton' has 7 letters.
+
+Q: How many letters does the word 'iridium' have?
+A: The word 'iridium' has 7 letters.
+
+Q: What is the tallest mountain on Earth?
+A: Mount Everest is the tallest mountain on Earth.
+
+Q: What is the longest river in the world?
+A: The Nile is the longest river in the world.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What language do most people in Brazil speak?
+A: Most people in Brazil speak Portuguese.
+
+Q: What is the capital of the US state Hawaii?
+A: Honolulu is the capital of Hawaii.
+
+Q: What is the capital of the US state Kentucky?
+A: Frankfort is the capital of Kentucky.
+
+Q: What is the capital of the US state Tennessee?
+A: Nashville is the capital of Tennessee.
+
+Q: What is the capital of the US state Indiana?
+A: Indianapolis is the capital of Indiana.
+
+Q: What is the capital of the US state Arizona?
+A: Phoenix is the capital of Arizona.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state Minnesota?
+A: Saint Paul is the capital of Minnesota.
+
+Q: What is the capital of the US state Texas?
+A: Austin is the capital of Texas.
+
+Q: What currency does Iran use?
+A: The currency of Iran is the rial.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: What currency does Georgia use?
+A: The currency of Georgia is the lari.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
+
+Q: What currency does Malaysia use?
+A: The currency of Malaysia is the ringgit.
+
+Q: What currency does Argentina use?
+A: The currency of Argentina is the peso.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Jamaica use?
+A: The currency of Jamaica is the dollar.
