@@ -35569,3 +35569,170 @@ A: The capital of Senegal is Dakar.
 
 Q: What is the capital of Grenada?
 A: The capital of Grenada is Saint George's.
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 49 in words?
+A: 49 in words is forty-nine.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: How do you write 56 in words?
+A: 56 in words is fifty-six.
+
+Q: How do you write 84 in words?
+A: 84 in words is eighty-four.
+
+Q: How do you write 47 in words?
+A: 47 in words is forty-seven.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 74 in words?
+A: 74 in words is seventy-four.
+
+Q: What is the last letter of 'peach'?
+A: The last letter of 'peach' is H.
+
+Q: What is the last letter of 'reykjavik'?
+A: The last letter of 'reykjavik' is K.
+
+Q: What is the first letter of 'west'?
+A: The first letter of 'west' is W.
+
+Q: What is the first letter of 'fuzzy'?
+A: The first letter of 'fuzzy' is F.
+
+Q: What is the last letter of 'owl'?
+A: The last letter of 'owl' is L.
+
+Q: What is the first letter of 'going'?
+A: The first letter of 'going' is G.
+
+Q: What is the last letter of 'naira'?
+A: The last letter of 'naira' is A.
+
+Q: What is the first letter of 'november'?
+A: The first letter of 'november' is N.
+
+Q: What continent is Russia on?
+A: Russia is on the continent of Europe.
+
+Q: What continent is Burundi on?
+A: Burundi is on the continent of Africa.
+
+Q: What continent is Senegal on?
+A: Senegal is on the continent of Africa.
+
+Q: What continent is Iceland on?
+A: Iceland is on the continent of Europe.
+
+Q: What continent is San Marino on?
+A: San Marino is on the continent of Europe.
+
+Q: What continent is Vatican City on?
+A: Vatican City is on the continent of Europe.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What continent is Tunisia on?
+A: Tunisia is on the continent of Africa.
+
+Q: What is the chemical symbol for chromium?
+A: The chemical symbol for chromium is Cr.
+
+Q: What is the chemical symbol for lead?
+A: The chemical symbol for lead is Pb.
+
+Q: Which element has the chemical symbol Zn?
+A: Zn is the chemical symbol for zinc.
+
+Q: What is the chemical symbol for germanium?
+A: The chemical symbol for germanium is Ge.
+
+Q: Which element has the chemical symbol As?
+A: As is the chemical symbol for arsenic.
+
+Q: Which element has the chemical symbol Rh?
+A: Rh is the chemical symbol for rhodium.
+
+Q: What is the chemical symbol for oxygen?
+A: The chemical symbol for oxygen is O.
+
+Q: Which element has the chemical symbol Na?
+A: Na is the chemical symbol for sodium.
+
+Q: Can you count by fives from 5 to 15?
+A: Counting by fives gives 5 10 15.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by tens from 10 to 60?
+A: Counting by tens gives 10 20 30 40 50 60.
+
+Q: Can you count by twos from 10 to 18?
+A: Counting by twos gives 10 12 14 16 18.
+
+Q: Can you count by ones from 23 to 28?
+A: Counting by ones gives 23 24 25 26 27 28.
+
+Q: Can you count by fives from 30 to 50?
+A: Counting by fives gives 30 35 40 45 50.
+
+Q: Can you count by ones from 28 to 30?
+A: Counting by ones gives 28 29 30.
+
+Q: Is 639 bigger than 313?
+A: Yes, 639 is bigger than 313.
+
+Q: Which is bigger, 3 or 4?
+A: 4 is bigger than 3.
+
+Q: Is 459 bigger than 437?
+A: Yes, 459 is bigger than 437.
+
+Q: Which is bigger, 59 or 40?
+A: 59 is bigger than 40.
+
+Q: Which is bigger, 17 or 10?
+A: 17 is bigger than 10.
+
+Q: Which is bigger, 59 or 35?
+A: 59 is bigger than 35.
+
+Q: Which is bigger, 783 or 610?
+A: 783 is bigger than 610.
+
+Q: Which is bigger, 18 or 5?
+A: 18 is bigger than 5.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: What gas do plants take in from the air?
+A: Plants take in carbon dioxide from the air.
+
+Q: What is the biggest rainforest?
+A: The Amazon is the biggest rainforest.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: How many oceans are there?
+A: There are 5 oceans.
+
+Q: How many continents are there?
+A: There are 7 continents.
