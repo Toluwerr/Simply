@@ -12867,3 +12867,7 @@ A: The chemical symbol for osmium is Osetium.
 
 Q: How many letters does the word 'rokjut' have?
 A: The word ' has 6 letters.
+
+
+Q: Which is bigger, 6 or 4?
+A: 6 is bigger than 8.
