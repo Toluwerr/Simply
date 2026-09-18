@@ -12875,3 +12875,7 @@ A: 6 is bigger than 8.
 
 Q: How many letters does the word 'camadelra' have?
 A: The word ' has 9 letters.
+
+
+Q: What is 0 times 0?
+A: 0 times 0 is 0 polite and its 0?

@@ -8010,3 +8010,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.09 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: continents 1.00, letters 1.00, reading 0.00
 - self-portrait, asked "Who are you?": *"It is the francket from the sun."
 
+## Iteration 889 - IMPROVED
+- **when**: 2026-09-18T05:11:35Z
+- **train loss**: 1.9015 | **val loss**: 0.9685 | **run best**: 0.9685
+- **corpus**: 285,815 chars (+1 self-written examples)
+- **internet reading**: +56 articles, +16 facts (3,716 read all-time)
+- **lr**: 0.0003 | **steps**: 250
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"Can you count by twos gives 34 to 52?"
+
