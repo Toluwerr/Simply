@@ -34448,3 +34448,170 @@ A: The currency of Australia is the dollar.
 
 Q: What currency does Peru use?
 A: The currency of Peru is the sol.
+Q: How do you write 64 in words?
+A: 64 in words is sixty-four.
+
+Q: How do you write 38 in words?
+A: 38 in words is thirty-eight.
+
+Q: How do you write 2 in words?
+A: 2 in words is two.
+
+Q: How do you write 66 in words?
+A: 66 in words is sixty-six.
+
+Q: How do you write 72 in words?
+A: 72 in words is seventy-two.
+
+Q: How do you write 43 in words?
+A: 43 in words is forty-three.
+
+Q: How do you write 95 in words?
+A: 95 in words is ninety-five.
+
+Q: How do you write 31 in words?
+A: 31 in words is thirty-one.
+
+Q: What is the first letter of 'montenegro'?
+A: The first letter of 'montenegro' is M.
+
+Q: What is the first letter of 'praseodymium'?
+A: The first letter of 'praseodymium' is P.
+
+Q: What is the first letter of 'paz'?
+A: The first letter of 'paz' is P.
+
+Q: What is the last letter of 'olympia'?
+A: The last letter of 'olympia' is A.
+
+Q: What is the last letter of 'raven'?
+A: The last letter of 'raven' is N.
+
+Q: What is the first letter of 'dong'?
+A: The first letter of 'dong' is D.
+
+Q: What is the first letter of 'balboa'?
+A: The first letter of 'balboa' is B.
+
+Q: What is the first letter of 'kingston'?
+A: The first letter of 'kingston' is K.
+
+Q: What continent is Zimbabwe on?
+A: Zimbabwe is on the continent of Africa.
+
+Q: What continent is Mongolia on?
+A: Mongolia is on the continent of Asia.
+
+Q: What continent is Albania on?
+A: Albania is on the continent of Europe.
+
+Q: What continent is Yemen on?
+A: Yemen is on the continent of Asia.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: What continent is the United Kingdom on?
+A: the United Kingdom is on the continent of Europe.
+
+Q: What continent is Bangladesh on?
+A: Bangladesh is on the continent of Asia.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: Which element has the chemical symbol Fe?
+A: Fe is the chemical symbol for iron.
+
+Q: What is the chemical symbol for magnesium?
+A: The chemical symbol for magnesium is Mg.
+
+Q: Which element has the chemical symbol U?
+A: U is the chemical symbol for uranium.
+
+Q: What is the chemical symbol for helium?
+A: The chemical symbol for helium is He.
+
+Q: What is the chemical symbol for gadolinium?
+A: The chemical symbol for gadolinium is Gd.
+
+Q: Which element has the chemical symbol Sc?
+A: Sc is the chemical symbol for scandium.
+
+Q: What is the chemical symbol for krypton?
+A: The chemical symbol for krypton is Kr.
+
+Q: Which element has the chemical symbol Mg?
+A: Mg is the chemical symbol for magnesium.
+
+Q: Can you count by fives from 10 to 25?
+A: Counting by fives gives 10 15 20 25.
+
+Q: Can you count by twos from 26 to 34?
+A: Counting by twos gives 26 28 30 32 34.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by fives from 15 to 30?
+A: Counting by fives gives 15 20 25 30.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by fives from 20 to 45?
+A: Counting by fives gives 20 25 30 35 40 45.
+
+Q: Can you count by ones from 13 to 16?
+A: Counting by ones gives 13 14 15 16.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: Is 15 bigger than 19?
+A: No, 19 is bigger than 15.
+
+Q: Is 82 bigger than 44?
+A: Yes, 82 is bigger than 44.
+
+Q: Is 351 bigger than 539?
+A: No, 539 is bigger than 351.
+
+Q: Which is bigger, 16 or 5?
+A: 16 is bigger than 5.
+
+Q: Which is bigger, 7 or 10?
+A: 10 is bigger than 7.
+
+Q: Is 567 bigger than 901?
+A: No, 901 is bigger than 567.
+
+Q: Which is bigger, 5 or 13?
+A: 13 is bigger than 5.
+
+Q: Is 542 bigger than 396?
+A: Yes, 542 is bigger than 396.
