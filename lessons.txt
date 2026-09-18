@@ -34782,3 +34782,146 @@ A: The opposite of 'clean' is 'dirty'.
 
 Q: What is the opposite of 'full'?
 A: The opposite of 'full' is 'empty'.
+Q: How many letters does the word 'ethiopia' have?
+A: The word 'ethiopia' has 8 letters.
+
+Q: How many letters does the word 'quetzal' have?
+A: The word 'quetzal' has 7 letters.
+
+Q: How many letters does the word 'active' have?
+A: The word 'active' has 6 letters.
+
+Q: How many letters does the word 'bogota' have?
+A: The word 'bogota' has 6 letters.
+
+Q: How many letters does the word 'forint' have?
+A: The word 'forint' has 6 letters.
+
+Q: How many letters does the word 'dollar' have?
+A: The word 'dollar' has 6 letters.
+
+Q: How many letters does the word 'ouagadougou' have?
+A: The word 'ouagadougou' has 11 letters.
+
+Q: How many letters does the word 'bratislava' have?
+A: The word 'bratislava' has 10 letters.
+
+Q: What is the last letter of 'lincoln'?
+A: The last letter of 'lincoln' is N.
+
+Q: What is the first letter of 'ecuador'?
+A: The first letter of 'ecuador' is E.
+
+Q: What is the last letter of 'active'?
+A: The last letter of 'active' is E.
+
+Q: What is the last letter of 'tonga'?
+A: The last letter of 'tonga' is A.
+
+Q: What is the first letter of 'guinea'?
+A: The first letter of 'guinea' is G.
+
+Q: What is the first letter of 'abu'?
+A: The first letter of 'abu' is A.
+
+Q: What is the last letter of 'harrisburg'?
+A: The last letter of 'harrisburg' is G.
+
+Q: What is the first letter of 'promethium'?
+A: The first letter of 'promethium' is P.
+
+Q: How do you sort 68, 678, and 361?
+A: In order, they are 68 361 678.
+
+Q: How do you sort 161, 962, and 782?
+A: In order, they are 161 782 962.
+
+Q: How do you sort 12, 23, and 18?
+A: In order, they are 12 18 23.
+
+Q: How do you sort 886, 772, and 828?
+A: In order, they are 772 828 886.
+
+Q: How do you sort 11, 9, and 4?
+A: In order, they are 4 9 11.
+
+Q: How do you sort 274, 95, and 963?
+A: In order, they are 95 274 963.
+
+Q: How do you sort 935, 693, and 784?
+A: In order, they are 693 784 935.
+
+Q: How do you sort 9, 4, and 21?
+A: In order, they are 4 9 21.
+
+Q: Which is bigger, 892 or 227?
+A: 892 is bigger than 227.
+
+Q: Which is bigger, 790 or 707?
+A: 790 is bigger than 707.
+
+Q: Is 111 bigger than 686?
+A: No, 686 is bigger than 111.
+
+Q: Which is bigger, 269 or 366?
+A: 366 is bigger than 269.
+
+Q: Is 23 bigger than 75?
+A: No, 75 is bigger than 23.
+
+Q: Which is bigger, 11 or 20?
+A: 20 is bigger than 11.
+
+Q: Which is bigger, 698 or 469?
+A: 698 is bigger than 469.
+
+Q: Which is bigger, 30 or 44?
+A: 44 is bigger than 30.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: What is the capital of Equatorial Guinea?
+A: The capital of Equatorial Guinea is Malabo.
+
+Q: What is the capital of Qatar?
+A: The capital of Qatar is Doha.
+
+Q: What is the capital of Sudan?
+A: The capital of Sudan is Khartoum.
+
+Q: What is the capital of Guyana?
+A: The capital of Guyana is Georgetown.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of Iraq?
+A: The capital of Iraq is Baghdad.
+
+Q: What is the capital of Madagascar?
+A: The capital of Madagascar is Antananarivo.
+
+Q: What is the capital of Serbia?
+A: The capital of Serbia is Belgrade.

@@ -5155,3 +5155,60 @@ A: Task partitioning is the division of one task into sequential actions done by
 
 Q: What is Kerria lacca?
 A: Kerria lacca is a species of insect in the family Kerriidae, the lac insects.
+
+Q: What is Protocol Buffers?
+A: Protocol Buffers is a free and open-source cross-platform data format used to serialize structured data.
+
+Q: What is DuckDB?
+A: DuckDB is an open-source column-oriented relational database management system .
+
+Q: What is Eramet?
+A: Eramet is a French multinational mining and metallurgy company, listed on the Euronext Paris exchange under the symbol ERA.
+
+Q: What is Deborah Anne Driscoll?
+A: Deborah Anne Driscoll is an American reproductive geneticist.
+
+Q: What is Copeland?
+A: Copeland is a Canadian professor of international relations with a focus on trade.
+
+Q: What is Olli Mustonen?
+A: Olli Mustonen is a Finnish pianist, conductor, and composer.
+
+Q: What is Stephen Walker?
+A: Stephen Walker is an Australian sculptor who was made a member of the Order of Australia in 1985.
+
+Q: What is Sabelt S.p.A.?
+A: Sabelt S.p.A. is an Italian company founded in 1972 by Piero and Giorgio Marsiaj, that designs and manufactures original equipment car seats.
+
+Q: What is Anne?
+A: Anne is the first wife of George Talbot, 4th Earl of Shrewsbury, by whom she had 11 children.
+
+Q: What is Cecily?
+A: Cecily is the wealthiest heiress in England as well as the suo jure Baroness Harington and Bonville.
+
+Q: What is Carmen Blanco?
+A: Carmen Blanco is a Spanish feminist writer and activist.
+
+Q: What is Appropriate technology?
+A: Appropriate technology is a movement encompassing technological choice and application that is small-scale, affordable by its users, labor-intensive.
+
+Q: What is Oracle Corporation?
+A: Oracle Corporation is an American multinational technology company headquartered in Austin, Texas.
+
+Q: What is Vix Technology?
+A: Vix Technology is an Australian company that designs, supplies and operates automated fare collection systems, intelligent transportation systems.
+
+Q: What is Mobile technology?
+A: Mobile technology is the technology used for cellular communication.
+
+Q: What is NETSCOUT Systems, Inc.?
+A: NETSCOUT Systems, Inc. is an American technology company that specializes in software observability, deep packet inspection.
+
+Q: What is Renaissance technology?
+A: Renaissance technology is the set of European artifacts and inventions which spread through the Renaissance period.
+
+Q: What is VIA Technologies, Inc.?
+A: VIA Technologies, Inc. is a Taiwanese manufacturer of integrated circuits, mainly motherboard chipsets, CPUs, and memory.
+
+Q: What is Criticism of technology?
+A: Criticism of technology is an analysis of adverse impacts of industrial and digital technologies.
