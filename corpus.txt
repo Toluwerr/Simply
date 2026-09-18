@@ -12879,3 +12879,25 @@ A: The word ' has 9 letters.
 
 Q: What is 0 times 0?
 A: 0 times 0 is 0 polite and its 0?
+
+
+Q: Which is bigger, 0 or 70?
+A: 70 is bigger than 50.
+
+Q: Which is bigger, 4 or 40?
+A: 40 is bigger than 41.
+
+Q: Which is bigger, 0 or 95?
+A: 95 is bigger than 95.
+
+Q: Which is bigger, 5 or 15?
+A: 15 is bigger than 4.
+
+Q: Which is bigger, 0 or 50?
+A: 50 is bigger than 80.
+
+Q: Is 42 bigger than 40?
+A: Yes, 42 is bigger than 43.
+
+Q: How many letters does the word 'long' have?
+A: The word 'hap' has 4 letters.

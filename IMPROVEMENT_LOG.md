@@ -8019,3 +8019,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Can you count by twos gives 34 to 52?"
 
+## Iteration 890 - IMPROVED
+- **when**: 2026-09-18T05:18:11Z
+- **train loss**: 1.4137 | **val loss**: 0.8114 | **run best**: 0.8114
+- **corpus**: 286,227 chars (+7 self-written examples)
+- **internet reading**: +56 articles, +16 facts (3,716 read all-time)
+- **lr**: 0.0003 | **steps**: 250
+- **knowledge quiz**: avg 0.22 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: months 1.00, planets 1.00, continents 1.00
+- self-portrait, asked "Who are you?": *"I krams in any kilogram."
+

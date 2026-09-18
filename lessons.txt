@@ -32874,3 +32874,170 @@ A: The opposite of 'hot' is 'cold'.
 
 Q: What is the opposite of 'happy'?
 A: The opposite of 'happy' is 'sad'.
+Q: How do you sort 198, 725, and 559?
+A: In order, they are 198 559 725.
+
+Q: How do you sort 134, 408, and 206?
+A: In order, they are 134 206 408.
+
+Q: How do you sort 791, 860, and 274?
+A: In order, they are 274 791 860.
+
+Q: How do you sort 10, 14, and 19?
+A: In order, they are 10 14 19.
+
+Q: How do you sort 23, 14, and 25?
+A: In order, they are 14 23 25.
+
+Q: How do you sort 415, 758, and 183?
+A: In order, they are 183 415 758.
+
+Q: How do you sort 4, 27, and 3?
+A: In order, they are 3 4 27.
+
+Q: How do you sort 3, 24, and 23?
+A: In order, they are 3 23 24.
+
+Q: How many seconds are in a minute?
+A: There are 60 seconds in a minute.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: How many kilograms are in a metric ton?
+A: There are 1000 kilograms in a metric ton.
+
+Q: How many minutes are in an hour?
+A: There are 60 minutes in an hour.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many centimeters are in a meter?
+A: There are 100 centimeters in a meter.
+
+Q: How many hours are in a day?
+A: There are 24 hours in a day.
+
+Q: How many milliliters are in a liter?
+A: There are 1000 milliliters in a liter.
+
+Q: Which element has the chemical symbol Nb?
+A: Nb is the chemical symbol for niobium.
+
+Q: What is the chemical symbol for sulfur?
+A: The chemical symbol for sulfur is S.
+
+Q: What is the chemical symbol for rubidium?
+A: The chemical symbol for rubidium is Rb.
+
+Q: What is the chemical symbol for cesium?
+A: The chemical symbol for cesium is Cs.
+
+Q: What is the chemical symbol for barium?
+A: The chemical symbol for barium is Ba.
+
+Q: Which element has the chemical symbol V?
+A: V is the chemical symbol for vanadium.
+
+Q: Which element has the chemical symbol Zn?
+A: Zn is the chemical symbol for zinc.
+
+Q: Which element has the chemical symbol Sb?
+A: Sb is the chemical symbol for antimony.
+
+Q: What is the opposite of 'young'?
+A: The opposite of 'young' is 'old'.
+
+Q: What is the opposite of 'clean'?
+A: The opposite of 'clean' is 'dirty'.
+
+Q: What is the opposite of 'first'?
+A: The opposite of 'first' is 'last'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'fast'?
+A: The opposite of 'fast' is 'slow'.
+
+Q: What is the opposite of 'loud'?
+A: The opposite of 'loud' is 'quiet'.
+
+Q: What is the opposite of 'full'?
+A: The opposite of 'full' is 'empty'.
+
+Q: What is the opposite of 'open'?
+A: The opposite of 'open' is 'closed'.
+
+Q: What is the first letter of 'poland'?
+A: The first letter of 'poland' is P.
+
+Q: What is the first letter of 'cuba'?
+A: The first letter of 'cuba' is C.
+
+Q: What is the last letter of 'portugal'?
+A: The last letter of 'portugal' is L.
+
+Q: What is the last letter of 'bahrain'?
+A: The last letter of 'bahrain' is N.
+
+Q: What is the first letter of 'chad'?
+A: The first letter of 'chad' is C.
+
+Q: What is the last letter of 'metical'?
+A: The last letter of 'metical' is L.
+
+Q: What is the first letter of 'guarani'?
+A: The first letter of 'guarani' is G.
+
+Q: What is the first letter of 'maseru'?
+A: The first letter of 'maseru' is M.
+
+Q: What is double 17?
+A: Double 17 is 34.
+
+Q: What is half of 28?
+A: Half of 28 is 14.
+
+Q: What is half of 40?
+A: Half of 40 is 20.
+
+Q: What is double 40?
+A: Double 40 is 80.
+
+Q: What is double 58?
+A: Double 58 is 116.
+
+Q: What is half of 46?
+A: Half of 46 is 23.
+
+Q: What is half of 10?
+A: Half of 10 is 5.
+
+Q: What is half of 26?
+A: Half of 26 is 13.
+
+Q: What currency does Lebanon use?
+A: The currency of Lebanon is the pound.
+
+Q: What currency does Nepal use?
+A: The currency of Nepal is the rupee.
+
+Q: What currency does Turkmenistan use?
+A: The currency of Turkmenistan is the manat.
+
+Q: What currency does Belgium use?
+A: The currency of Belgium is the euro.
+
+Q: What currency does Iceland use?
+A: The currency of Iceland is the krona.
+
+Q: What currency does Italy use?
+A: The currency of Italy is the euro.
+
+Q: What currency does Denmark use?
+A: The currency of Denmark is the krone.
+
+Q: What currency does Slovakia use?
+A: The currency of Slovakia is the euro.
