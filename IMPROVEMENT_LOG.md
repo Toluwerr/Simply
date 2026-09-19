@@ -8253,3 +8253,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"Counting is the capital of Latia is the capital of Nebruary has?"
 
+## Iteration 916 - IMPROVED
+- **when**: 2026-09-19T10:00:11Z
+- **train loss**: 1.9094 | **val loss**: 1.0520 | **run best**: 1.0520
+- **corpus**: 287,672 chars (+0 self-written examples)
+- **internet reading**: +55 articles, +20 facts (4,083 read all-time)
+- **lr**: 0.0003 | **steps**: 250
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"It is the franus 37."
+

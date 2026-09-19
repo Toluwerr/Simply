@@ -37000,3 +37000,170 @@ A: The capital of Saint Vincent and the Grenadines is Kingstown.
 
 Q: What is the capital of the Solomon Islands?
 A: The capital of the Solomon Islands is Honiara.
+Q: How do you write 1 in words?
+A: 1 in words is one.
+
+Q: How do you write 51 in words?
+A: 51 in words is fifty-one.
+
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
+
+Q: How do you write 78 in words?
+A: 78 in words is seventy-eight.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 99 in words?
+A: 99 in words is ninety-nine.
+
+Q: How do you write 92 in words?
+A: 92 in words is ninety-two.
+
+Q: What is the first letter of 'nice'?
+A: The first letter of 'nice' is N.
+
+Q: What is the first letter of 'austin'?
+A: The first letter of 'austin' is A.
+
+Q: What is the last letter of 'montevideo'?
+A: The last letter of 'montevideo' is O.
+
+Q: What is the first letter of 'havana'?
+A: The first letter of 'havana' is H.
+
+Q: What is the last letter of 'african'?
+A: The last letter of 'african' is N.
+
+Q: What is the first letter of 'denver'?
+A: The first letter of 'denver' is D.
+
+Q: What is the first letter of 'springfield'?
+A: The first letter of 'springfield' is S.
+
+Q: What is the last letter of 'duck'?
+A: The last letter of 'duck' is K.
+
+Q: What continent is North Macedonia on?
+A: North Macedonia is on the continent of Europe.
+
+Q: What continent is Taiwan on?
+A: Taiwan is on the continent of Asia.
+
+Q: What continent is Liechtenstein on?
+A: Liechtenstein is on the continent of Europe.
+
+Q: What continent is Fiji on?
+A: Fiji is on the continent of Oceania.
+
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: What continent is Liberia on?
+A: Liberia is on the continent of Africa.
+
+Q: What continent is Lebanon on?
+A: Lebanon is on the continent of Asia.
+
+Q: What continent is Denmark on?
+A: Denmark is on the continent of Europe.
+
+Q: Which element has the chemical symbol Ca?
+A: Ca is the chemical symbol for calcium.
+
+Q: Which element has the chemical symbol Os?
+A: Os is the chemical symbol for osmium.
+
+Q: What is the chemical symbol for tungsten?
+A: The chemical symbol for tungsten is W.
+
+Q: What is the chemical symbol for radium?
+A: The chemical symbol for radium is Ra.
+
+Q: Which element has the chemical symbol V?
+A: V is the chemical symbol for vanadium.
+
+Q: Which element has the chemical symbol Na?
+A: Na is the chemical symbol for sodium.
+
+Q: Which element has the chemical symbol Nd?
+A: Nd is the chemical symbol for neodymium.
+
+Q: What is the chemical symbol for hydrogen?
+A: The chemical symbol for hydrogen is H.
+
+Q: Can you count by twos from 30 to 40?
+A: Counting by twos gives 30 32 34 36 38 40.
+
+Q: Can you count by twos from 30 to 36?
+A: Counting by twos gives 30 32 34 36.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by twos from 28 to 36?
+A: Counting by twos gives 28 30 32 34 36.
+
+Q: Can you count by fives from 10 to 30?
+A: Counting by fives gives 10 15 20 25 30.
+
+Q: Can you count by twos from 18 to 24?
+A: Counting by twos gives 18 20 22 24.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: Is 59 bigger than 41?
+A: Yes, 59 is bigger than 41.
+
+Q: Is 11 bigger than 4?
+A: Yes, 11 is bigger than 4.
+
+Q: Is 76 bigger than 85?
+A: No, 85 is bigger than 76.
+
+Q: Which is bigger, 757 or 194?
+A: 757 is bigger than 194.
+
+Q: Is 830 bigger than 715?
+A: Yes, 830 is bigger than 715.
+
+Q: Which is bigger, 653 or 816?
+A: 816 is bigger than 653.
+
+Q: Is 252 bigger than 425?
+A: No, 425 is bigger than 252.
+
+Q: Is 296 bigger than 829?
+A: No, 829 is bigger than 296.
