@@ -37310,3 +37310,170 @@ A: The capital of Tunisia is Tunis.
 
 Q: What is the capital of Chile?
 A: The capital of Chile is Santiago.
+Q: What is 958 minus 597?
+A: 958 minus 597 is 361.
+
+Q: What is 9 times 12?
+A: 9 times 12 is 108.
+
+Q: What is 9 plus 6?
+A: 9 plus 6 is 15.
+
+Q: What is 16 minus 7?
+A: 16 minus 7 is 9.
+
+Q: What is 43 minus 25?
+A: 43 minus 25 is 18.
+
+Q: What is 5 plus 2?
+A: 5 plus 2 is 7.
+
+Q: What is 97 minus 89?
+A: 97 minus 89 is 8.
+
+Q: What is 6 times 3?
+A: 6 times 3 is 18.
+
+Q: What continent is Colombia on?
+A: Colombia is on the continent of South America.
+
+Q: What continent is Turkey on?
+A: Turkey is on the continent of Asia.
+
+Q: What continent is Papua New Guinea on?
+A: Papua New Guinea is on the continent of Oceania.
+
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: What continent is Kyrgyzstan on?
+A: Kyrgyzstan is on the continent of Asia.
+
+Q: What continent is Slovakia on?
+A: Slovakia is on the continent of Europe.
+
+Q: What continent is Palau on?
+A: Palau is on the continent of Oceania.
+
+Q: What continent is Rwanda on?
+A: Rwanda is on the continent of Africa.
+
+Q: What is the first letter of 'ancient'?
+A: The first letter of 'ancient' is A.
+
+Q: What is the first letter of 'platinum'?
+A: The first letter of 'platinum' is P.
+
+Q: What is the first letter of 'fast'?
+A: The first letter of 'fast' is F.
+
+Q: What is the first letter of 'madagascar'?
+A: The first letter of 'madagascar' is M.
+
+Q: What is the last letter of 'nitrogen'?
+A: The last letter of 'nitrogen' is N.
+
+Q: What is the last letter of 'kingdom'?
+A: The last letter of 'kingdom' is M.
+
+Q: What is the last letter of 'dover'?
+A: The last letter of 'dover' is R.
+
+Q: What is the last letter of 'lempira'?
+A: The last letter of 'lempira' is A.
+
+Q: How many letters does the word 'egypt' have?
+A: The word 'egypt' has 5 letters.
+
+Q: How many letters does the word 'mars' have?
+A: The word 'mars' has 4 letters.
+
+Q: How many letters does the word 'macedonia' have?
+A: The word 'macedonia' has 9 letters.
+
+Q: How many letters does the word 'somalia' have?
+A: The word 'somalia' has 7 letters.
+
+Q: How many letters does the word 'dry' have?
+A: The word 'dry' has 3 letters.
+
+Q: How many letters does the word 'old' have?
+A: The word 'old' has 3 letters.
+
+Q: How many letters does the word 'bismuth' have?
+A: The word 'bismuth' has 7 letters.
+
+Q: How many letters does the word 'suva' have?
+A: The word 'suva' has 4 letters.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: What is the tallest waterfall?
+A: Angel Falls is the tallest waterfall.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: How many planets are there?
+A: There are 8 planets.
+
+Q: How many oceans are there?
+A: There are 5 oceans.
+
+Q: What organ pumps blood through the body?
+A: The heart pumps blood through the body.
+
+Q: How many oceans are there?
+A: There are 5 oceans.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: What is the capital of the US state Nevada?
+A: Carson City is the capital of Nevada.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state Pennsylvania?
+A: Harrisburg is the capital of Pennsylvania.
+
+Q: What is the capital of the US state Mississippi?
+A: Jackson is the capital of Mississippi.
+
+Q: What is the capital of the US state Oregon?
+A: Salem is the capital of Oregon.
+
+Q: What is the capital of the US state South Dakota?
+A: Pierre is the capital of South Dakota.
+
+Q: What is the capital of the US state North Dakota?
+A: Bismarck is the capital of North Dakota.
+
+Q: What is the capital of the US state Michigan?
+A: Lansing is the capital of Michigan.
+
+Q: What currency does Belarus use?
+A: The currency of Belarus is the ruble.
+
+Q: What currency does Senegal use?
+A: The currency of Senegal is the franc.
+
+Q: What currency does Brazil use?
+A: The currency of Brazil is the real.
+
+Q: What currency does Norway use?
+A: The currency of Norway is the krone.
+
+Q: What currency does Uganda use?
+A: The currency of Uganda is the shilling.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Sweden use?
+A: The currency of Sweden is the krona.
+
+Q: What currency does New Zealand use?
+A: The currency of New Zealand is the dollar.
