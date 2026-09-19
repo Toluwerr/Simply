@@ -36356,3 +36356,170 @@ A: 11 times 15 is 165.
 
 Q: What is 43 minus 38?
 A: 43 minus 38 is 5.
+Q: What is 42 minus 22?
+A: 42 minus 22 is 20.
+
+Q: What is 13 plus 6?
+A: 13 plus 6 is 19.
+
+Q: What is 6 plus 10?
+A: 6 plus 10 is 16.
+
+Q: What is 4 times 8?
+A: 4 times 8 is 32.
+
+Q: What is 746 minus 557?
+A: 746 minus 557 is 189.
+
+Q: What is 98 minus 36?
+A: 98 minus 36 is 62.
+
+Q: What is 11 times 15?
+A: 11 times 15 is 165.
+
+Q: What is 867 minus 748?
+A: 867 minus 748 is 119.
+
+Q: What continent is Samoa on?
+A: Samoa is on the continent of Oceania.
+
+Q: What continent is Algeria on?
+A: Algeria is on the continent of Africa.
+
+Q: What continent is Peru on?
+A: Peru is on the continent of South America.
+
+Q: What continent is Botswana on?
+A: Botswana is on the continent of Africa.
+
+Q: What continent is the Solomon Islands on?
+A: the Solomon Islands is on the continent of Oceania.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: What continent is Estonia on?
+A: Estonia is on the continent of Europe.
+
+Q: What continent is Vanuatu on?
+A: Vanuatu is on the continent of Oceania.
+
+Q: What is the last letter of 'neon'?
+A: The last letter of 'neon' is N.
+
+Q: What is the first letter of 'calcium'?
+A: The first letter of 'calcium' is C.
+
+Q: What is the first letter of 'idaho'?
+A: The first letter of 'idaho' is I.
+
+Q: What is the last letter of 'belmopan'?
+A: The last letter of 'belmopan' is N.
+
+Q: What is the first letter of 'warm'?
+A: The first letter of 'warm' is W.
+
+Q: What is the first letter of 'tantalum'?
+A: The first letter of 'tantalum' is T.
+
+Q: What is the first letter of 'carson'?
+A: The first letter of 'carson' is C.
+
+Q: What is the last letter of 'very'?
+A: The last letter of 'very' is Y.
+
+Q: How many letters does the word 'ruthenium' have?
+A: The word 'ruthenium' has 9 letters.
+
+Q: How many letters does the word 'terbium' have?
+A: The word 'terbium' has 7 letters.
+
+Q: How many letters does the word 'armenia' have?
+A: The word 'armenia' has 7 letters.
+
+Q: How many letters does the word 'closed' have?
+A: The word 'closed' has 6 letters.
+
+Q: How many letters does the word 'juneau' have?
+A: The word 'juneau' has 6 letters.
+
+Q: How many letters does the word 'give' have?
+A: The word 'give' has 4 letters.
+
+Q: How many letters does the word 'banjul' have?
+A: The word 'banjul' has 6 letters.
+
+Q: How many letters does the word 'lithium' have?
+A: The word 'lithium' has 7 letters.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: What is the largest island?
+A: Greenland is the largest island.
+
+Q: How many legs does an insect have?
+A: An insect has 6 legs.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the tallest animal?
+A: The giraffe is the tallest animal.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: How many oceans are there?
+A: There are 5 oceans.
+
+Q: What is the biggest hot desert?
+A: The Sahara is the biggest hot desert.
+
+Q: What is the capital of the US state New Hampshire?
+A: Concord is the capital of New Hampshire.
+
+Q: What is the capital of the US state New Mexico?
+A: Santa Fe is the capital of New Mexico.
+
+Q: What is the capital of the US state Georgia?
+A: Atlanta is the capital of Georgia.
+
+Q: What is the capital of the US state New York?
+A: Albany is the capital of New York.
+
+Q: What is the capital of the US state Maryland?
+A: Annapolis is the capital of Maryland.
+
+Q: What is the capital of the US state Louisiana?
+A: Baton Rouge is the capital of Louisiana.
+
+Q: What is the capital of the US state California?
+A: Sacramento is the capital of California.
+
+Q: What is the capital of the US state Idaho?
+A: Boise is the capital of Idaho.
+
+Q: What currency does Armenia use?
+A: The currency of Armenia is the dram.
+
+Q: What currency does Croatia use?
+A: The currency of Croatia is the euro.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
+
+Q: What currency does Croatia use?
+A: The currency of Croatia is the euro.
+
+Q: What currency does Ethiopia use?
+A: The currency of Ethiopia is the birr.
+
+Q: What currency does Trinidad and Tobago use?
+A: The currency of Trinidad and Tobago is the dollar.
+
+Q: What currency does Bahrain use?
+A: The currency of Bahrain is the dinar.
+
+Q: What currency does Myanmar use?
+A: The currency of Myanmar is the kyat.
