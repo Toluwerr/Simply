@@ -8316,3 +8316,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: first_last 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"Counting by tens gives 10 10."
 
+## Iteration 923 - IMPROVED
+- **when**: 2026-09-19T17:25:16Z
+- **train loss**: 1.8990 | **val loss**: 1.0365 | **run best**: 1.0365
+- **corpus**: 288,251 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +36 facts (4,203 read all-time)
+- **lr**: 0.0003 | **steps**: 250
+- **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, reading 0.00, definitions 0.00
+- self-portrait, asked "Who are you?": *"It is spelled and found a cool umbrella."
+
