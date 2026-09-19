@@ -5539,3 +5539,111 @@ A: Tombstone is a 1993 American Western film directed by George P.
 
 Q: What is Eternals?
 A: Eternals is a 2021 American superhero film based on the Marvel Comics race the Eternals.
+
+Q: What is Prompt engineering?
+A: Prompt engineering is the process of structuring natural language inputs to produce specified outputs from a generative AI model.
+
+Q: What is Context engineering?
+A: Context engineering is the related area of software engineering that focuses on the management of non-prompt.
+
+Q: What is Rule-based machine learning?
+A: Rule-based machine learning is a term in computer science intended to encompass any machine learning method that identifies, learns.
+
+Q: What is Pythia?
+A: Pythia is an ancient text restoration model that recovers missing characters from damaged text input using deep neural networks.
+
+Q: What is Kristen Lorraine Grauman?
+A: Kristen Lorraine Grauman is a professor of computer science at the University of Texas at Austin on leave as a research scientist at Facebook AI Resea.
+
+Q: What is Flux?
+A: Flux is an open-source machine-learning software library and ecosystem written in Julia.
+
+Q: What is Percy Liang?
+A: Percy Liang is an American computer scientist whose research focuses on machine learning, natural language processing, and foundation models.
+
+Q: What is Curriculum learning?
+A: Curriculum learning is a technique in machine learning in which a model is trained on examples of increasing difficulty.
+
+Q: What is Robert Wienert Nickle?
+A: Robert Wienert Nickle is a 20th-century American artist known primarily for his street scrap collage work.
+
+Q: What is V Sport Football?
+A: V Sport Football is a Swedish television channel dedicated to football.
+
+Q: What is Charles Gregory Speziale?
+A: Charles Gregory Speziale is an American scientist who had worked in NASA Langley Research Center.
+
+Q: What is Charles Speziale?
+A: Charles Speziale is the only child in the family.
+
+Q: What is Nuclear matter?
+A: Nuclear matter is a liquid composed of neutrons and protons, and they are themselves composed of up and down quarks.
+
+Q: What is Quark matter?
+A: Quark matter is a condensed form of matter composed entirely of quarks.
+
+Q: What is Progress?
+A: Progress is the 15th episode of the American science fiction television series Star Trek: Deep Space Nine.
+
+Q: What is Chhappad Phaad Ke?
+A: Chhappad Phaad Ke is a 2019 Indian Hindi-language comedy film directed by Sameer Hemant Joshi, produced and bankrolled by Yoodlee films.
+
+Q: What is Troy High School?
+A: Troy High School is a public high school in Troy, Michigan, United States.
+
+Q: What is Otto Lennart Hyland ,?
+A: Otto Lennart Hyland , is a Swedish TV-show host and journalist and one of the most popular.
+
+Q: What is Initially, it?
+A: Initially, it is a radio show at Sveriges Radio, but due to its success and popularity.
+
+Q: What is Too Hot to Touch?
+A: Too Hot to Touch is a song by Australian glam rock band Supernaut.
+
+Q: What is Alexandros Papamichail?
+A: Alexandros Papamichail is a Greek racewalker.
+
+Q: What is Historical archaeology?
+A: Historical archaeology is a form of archaeology dealing with places, things.
+
+Q: What is Queer archaeology?
+A: Queer archaeology is an approach to archaeology that uses queer theory to challenge normative, and especially heteronormative, views of the past.
+
+Q: What is Headland Archaeology Ltd?
+A: Headland Archaeology Ltd is a wholly owned subsidiary of the RSK Group.
+
+Q: What is Stratigraphy?
+A: Stratigraphy is a key concept to modern archaeological theory and practice.
+
+Q: What is Archaeological stratification or sequence?
+A: Archaeological stratification or sequence is the dynamic superimposition of single units of stratigraphy, or contexts.
+
+Q: What is Cognitive archaeology?
+A: Cognitive archaeology is a theoretical perspective in archaeology that focuses on the ancient mind.
+
+Q: What is Computational archaeology?
+A: Computational archaeology is a subfield of digital archeology that focuses on the analysis.
+
+Q: What is Biblical archaeology?
+A: Biblical archaeology is an academic school and a subset of Biblical studies and Levantine archaeology.
+
+Q: What is Sasanian archaeology?
+A: Sasanian archaeology is a branch of archaeology that focuses on the excavation and study of artifacts and material culture of the Sasanian Empire.
+
+Q: What is Seriation?
+A: Seriation is a standard method of dating in archaeology.
+
+Q: What is Medieval archaeology?
+A: Medieval archaeology is the study of humankind through its material culture, specialising in the period of the European Middle Ages.
+
+Q: What is Behavioural archaeology?
+A: Behavioural archaeology is an archaeological theory that expands upon the nature and aims of archaeology in regards to human behaviour.
+
+Q: What is Primate archaeology?
+A: Primate archaeology is a field of research established in 2008 that combines research interests and foci from primatology and archaeology.
+
+Q: What is Contemporary archaeology?
+A: Contemporary archaeology is a field of archaeological research that focuses on the most recent past.
+
+Q: What is Nazi archaeology?
+A: Nazi archaeology is a movement in pseudoarchaeology, directed and funded by leaders of Nazi Germany such as Adolf Hitler and Heinrich Himmler.

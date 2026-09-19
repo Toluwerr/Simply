@@ -37811,3 +37811,146 @@ A: The opposite of 'full' is 'empty'.
 
 Q: What is the opposite of 'hot'?
 A: The opposite of 'hot' is 'cold'.
+Q: How do you sort 186, 270, and 495?
+A: In order, they are 186 270 495.
+
+Q: How do you sort 577, 58, and 951?
+A: In order, they are 58 577 951.
+
+Q: How do you sort 19, 17, and 23?
+A: In order, they are 17 19 23.
+
+Q: How do you sort 19, 23, and 14?
+A: In order, they are 14 19 23.
+
+Q: How do you sort 16, 21, and 6?
+A: In order, they are 6 16 21.
+
+Q: How do you sort 27, 9, and 25?
+A: In order, they are 9 25 27.
+
+Q: How do you sort 282, 72, and 428?
+A: In order, they are 72 282 428.
+
+Q: How do you sort 10, 28, and 12?
+A: In order, they are 10 12 28.
+
+Q: Which is bigger, 360 or 334?
+A: 360 is bigger than 334.
+
+Q: Is 1 bigger than 18?
+A: No, 18 is bigger than 1.
+
+Q: Is 814 bigger than 453?
+A: Yes, 814 is bigger than 453.
+
+Q: Is 537 bigger than 922?
+A: No, 922 is bigger than 537.
+
+Q: Is 5 bigger than 6?
+A: No, 6 is bigger than 5.
+
+Q: Which is bigger, 58 or 34?
+A: 58 is bigger than 34.
+
+Q: Which is bigger, 75 or 57?
+A: 75 is bigger than 57.
+
+Q: Which is bigger, 61 or 40?
+A: 61 is bigger than 40.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in January?
+A: January has 31 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: What is the capital of Austria?
+A: The capital of Austria is Vienna.
+
+Q: What is the capital of Guinea-Bissau?
+A: The capital of Guinea-Bissau is Bissau.
+
+Q: What is the capital of Turkmenistan?
+A: The capital of Turkmenistan is Ashgabat.
+
+Q: What is the capital of Gambia?
+A: The capital of Gambia is Banjul.
+
+Q: What is the capital of Kenya?
+A: The capital of Kenya is Nairobi.
+
+Q: What is the capital of Niger?
+A: The capital of Niger is Niamey.
+
+Q: What is the capital of Azerbaijan?
+A: The capital of Azerbaijan is Baku.
+
+Q: What is 853 plus 278?
+A: 853 plus 278 is 1131.
+
+Q: What is 3 times 7?
+A: 3 times 7 is 21.
+
+Q: What is 773 plus 562?
+A: 773 plus 562 is 1335.
+
+Q: What is 20 minus 7?
+A: 20 minus 7 is 13.
+
+Q: What is 14 times 16?
+A: 14 times 16 is 224.
+
+Q: What is 716 minus 568?
+A: 716 minus 568 is 148.
+
+Q: What is 506 plus 491?
+A: 506 plus 491 is 997.
+
+Q: What is 20 minus 18?
+A: 20 minus 18 is 2.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: What is the boiling point of water?
+A: Water boils at 100 degrees Celsius.
+
+Q: What is the main gas in the air?
+A: Nitrogen is the main gas in the air.
+
+Q: What is the most spoken language?
+A: English is the most spoken language.
+
+Q: How many legs does a spider have?
+A: A spider has 8 legs.
+
+Q: How many planets are there?
+A: There are 8 planets.
+
+Q: What is the fastest land animal?
+A: The cheetah is the fastest land animal.
