@@ -37167,3 +37167,146 @@ A: No, 425 is bigger than 252.
 
 Q: Is 296 bigger than 829?
 A: No, 829 is bigger than 296.
+Q: How many letters does the word 'juneau' have?
+A: The word 'juneau' has 6 letters.
+
+Q: How many letters does the word 'sanaa' have?
+A: The word 'sanaa' has 5 letters.
+
+Q: How many letters does the word 'duck' have?
+A: The word 'duck' has 4 letters.
+
+Q: How many letters does the word 'needed' have?
+A: The word 'needed' has 6 letters.
+
+Q: How many letters does the word 'estonia' have?
+A: The word 'estonia' has 7 letters.
+
+Q: How many letters does the word 'terbium' have?
+A: The word 'terbium' has 7 letters.
+
+Q: How many letters does the word 'nickel' have?
+A: The word 'nickel' has 6 letters.
+
+Q: How many letters does the word 'laos' have?
+A: The word 'laos' has 4 letters.
+
+Q: What is the last letter of 'gold'?
+A: The last letter of 'gold' is D.
+
+Q: What is the last letter of 'tbilisi'?
+A: The last letter of 'tbilisi' is I.
+
+Q: What is the first letter of 'majuro'?
+A: The first letter of 'majuro' is M.
+
+Q: What is the last letter of 'mauritania'?
+A: The last letter of 'mauritania' is A.
+
+Q: What is the first letter of 'hafnium'?
+A: The first letter of 'hafnium' is H.
+
+Q: What is the last letter of 'morocco'?
+A: The last letter of 'morocco' is O.
+
+Q: What is the last letter of 'shekel'?
+A: The last letter of 'shekel' is L.
+
+Q: What is the last letter of 'plant'?
+A: The last letter of 'plant' is T.
+
+Q: How do you sort 2, 8, and 20?
+A: In order, they are 2 8 20.
+
+Q: How do you sort 331, 666, and 317?
+A: In order, they are 317 331 666.
+
+Q: How do you sort 8, 17, and 20?
+A: In order, they are 8 17 20.
+
+Q: How do you sort 18, 13, and 4?
+A: In order, they are 4 13 18.
+
+Q: How do you sort 3, 2, and 14?
+A: In order, they are 2 3 14.
+
+Q: How do you sort 105, 598, and 503?
+A: In order, they are 105 503 598.
+
+Q: How do you sort 5, 2, and 23?
+A: In order, they are 2 5 23.
+
+Q: How do you sort 259, 556, and 597?
+A: In order, they are 259 556 597.
+
+Q: Which is bigger, 601 or 738?
+A: 738 is bigger than 601.
+
+Q: Is 735 bigger than 100?
+A: Yes, 735 is bigger than 100.
+
+Q: Which is bigger, 13 or 11?
+A: 13 is bigger than 11.
+
+Q: Is 294 bigger than 297?
+A: No, 297 is bigger than 294.
+
+Q: Which is bigger, 38 or 34?
+A: 38 is bigger than 34.
+
+Q: Is 60 bigger than 27?
+A: Yes, 60 is bigger than 27.
+
+Q: Which is bigger, 50 or 35?
+A: 50 is bigger than 35.
+
+Q: Is 76 bigger than 10?
+A: Yes, 76 is bigger than 10.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: What is the capital of Grenada?
+A: The capital of Grenada is Saint George's.
+
+Q: What is the capital of Benin?
+A: The capital of Benin is Porto-Novo.
+
+Q: What is the capital of the Czech Republic?
+A: The capital of the Czech Republic is Prague.
+
+Q: What is the capital of Indonesia?
+A: The capital of Indonesia is Jakarta.
+
+Q: What is the capital of Djibouti?
+A: The capital of Djibouti is Djibouti.
+
+Q: What is the capital of Togo?
+A: The capital of Togo is Lome.
+
+Q: What is the capital of Tunisia?
+A: The capital of Tunisia is Tunis.
+
+Q: What is the capital of Chile?
+A: The capital of Chile is Santiago.

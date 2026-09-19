@@ -8262,3 +8262,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
 - self-portrait, asked "Who are you?": *"It is the franus 37."
 
+## Iteration 917 - NO_GAIN
+- **when**: 2026-09-19T13:32:48Z
+- **train loss**: 2.9705 | **val loss**: 1.7742 | **run best**: 1.2484
+- **corpus**: 287,672 chars (+0 self-written examples)
+- **internet reading**: +60 articles, +35 facts (4,143 read all-time)
+- **lr**: 0.0003 | **steps**: 250
+- **knowledge quiz**: avg 0.00 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: reading 0.00, definitions 0.00, opposites 0.00
+- self-portrait, asked "Who are you?": *"In 27 in words is gave?"
+

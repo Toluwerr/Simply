@@ -5434,3 +5434,108 @@ A: Bad Religion is an American punk rock band.
 
 Q: What is Material religion?
 A: Material religion is a framework used by scholars of religion to examine the interaction between religion and material culture.
+
+Q: What is Episodic memory?
+A: Episodic memory is the memory of everyday events such as times, location geography, associated emotions.
+
+Q: What is Generalized regression neural network?
+A: Generalized regression neural network is a variation to radial basis neural networks.
+
+Q: What is Deep reinforcement learning?
+A: Deep reinforcement learning is a subfield of machine learning that combines reinforcement learning and deep learning.
+
+Q: What is Natural language processing?
+A: Natural language processing is the processing of natural language information by a computer.
+
+Q: What is NLP?
+A: NLP is a subfield of computer science and is closely associated with artificial intelligence.
+
+Q: What is NNI?
+A: NNI is a free and open-source AutoML toolkit developed by Microsoft.
+
+Q: What is Jrgen Schmidhuber?
+A: Jrgen Schmidhuber is a German computer scientist noted for his work in the field of artificial intelligence, specifically artificial neural networks.
+
+Q: What is CSKA Ice Palace?
+A: CSKA Ice Palace is an indoor arena located in Moscow, Russia.
+
+Q: What is Druh Farrell?
+A: Druh Farrell is a municipal politician who formerly served as Councillor for Ward 7 in Calgary, Alberta.
+
+Q: What is Traditional mariachi?
+A: Traditional mariachi is a string ensemble from western Mexico.
+
+Q: What is Frank Donlavey?
+A: Frank Donlavey is a Scottish soccer player who played in the NASL.
+
+Q: What is Yes You Can?
+A: Yes You Can is a Canadian children's television series broadcast on CBC Television from 1980 to 1983, and aired 36 episodes.
+
+Q: What is Wybrand Willem Braam Els?
+A: Wybrand Willem Braam Els is a South African former rugby union player.
+
+Q: What is Police in Pollywood?
+A: Police in Pollywood is a 2014 Indian Punjabi-language romantic comedy film directed by Sunita Dhir.
+
+Q: What is Prokopa v Tebi?
+A: Prokopa v Tebi is the official name of the UNESCO World Heritage site in Teb, Czech Republic.
+
+Q: What is FTT?
+A: FTT is a generalization for several configurations of fiber deployment.
+
+Q: What is Fiber to the x?
+A: Fiber to the x is the key method used to drive next-generation access , which describes a significant upgrade...
+
+Q: What is Hugo Daini?
+A: Hugo Daini is an Italian sculptor mainly active in Venezuela in the second half of the twentieth century.
+
+Q: What is Godzilla?
+A: Godzilla is a 1954 Japanese epic kaiju film directed and co-written by Ishir Honda, with special effects by Eiji Tsuburaya.
+
+Q: What is Stargate?
+A: Stargate is a 1994 science fiction action-adventure film directed by Roland Emmerich, written by Emmerich and Dean Devlin.
+
+Q: What is Agent Vinod?
+A: Agent Vinod is a 2012 Indian Hindi-language spy action film written and directed by Sriram Raghavan and produced by Saif Ali Khan and Dinesh Vijan.
+
+Q: What is Hell or High Water?
+A: Hell or High Water is a 2016 American neo-Western crime drama film directed by David Mackenzie and written by Taylor Sheridan.
+
+Q: What is Dark Waters?
+A: Dark Waters is a 2019 American legal thriller film directed by Todd Haynes and written by Mario Correa and Matthew Michael Carnahan.
+
+Q: What is Hello, Dolly!?
+A: Hello, Dolly! is a 1969 American musical romantic comedy film based on the 1964 Broadway musical by Michael Stewart.
+
+Q: What is Hannibal Rising?
+A: Hannibal Rising is a 2007 psychological horror thriller film and the fifth film of the Hannibal Lecter franchise.
+
+Q: What is Scarface?
+A: Scarface is a 1983 American epic crime drama film directed by Brian De Palma from a screenplay by Oliver Stone.
+
+Q: What is Paheli?
+A: Paheli is a 2005 Indian Hindi-language fantasy film directed by Amol Palekar and produced by Gauri Khan.
+
+Q: What is Scream?
+A: Scream is an American slasher franchise that includes seven films, a television series, merchandise, and games.
+
+Q: What is Predestination?
+A: Predestination is a 2014 Australian science fiction thriller film written and directed by Michael and Peter Spierig.
+
+Q: What is Glengarry Glen Ross?
+A: Glengarry Glen Ross is a 1992 American drama film directed by James Foley and written by David Mamet, based on his 1984 play.
+
+Q: What is Pacific Rim?
+A: Pacific Rim is a 2013 American military science fiction and monster film directed by Guillermo del Toro.
+
+Q: What is Terminal?
+A: Terminal is a 2018 neo-noir thriller film written and directed by Vaughn Stein.
+
+Q: What is Fargo?
+A: Fargo is a 1996 black comedy crime film written, directed, produced and edited by Joel and Ethan Coen.
+
+Q: What is Tombstone?
+A: Tombstone is a 1993 American Western film directed by George P.
+
+Q: What is Eternals?
+A: Eternals is a 2021 American superhero film based on the Marvel Comics race the Eternals.
