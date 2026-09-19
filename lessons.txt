@@ -35736,3 +35736,146 @@ A: There are 5 oceans.
 
 Q: How many continents are there?
 A: There are 7 continents.
+Q: What is the first letter of 'montana'?
+A: The first letter of 'montana' is M.
+
+Q: What is the last letter of 'phosphorus'?
+A: The last letter of 'phosphorus' is S.
+
+Q: What is the last letter of 'tennessee'?
+A: The last letter of 'tennessee' is E.
+
+Q: What is the first letter of 'samoa'?
+A: The first letter of 'samoa' is S.
+
+Q: What is the last letter of 'london'?
+A: The last letter of 'london' is N.
+
+Q: What is the first letter of 'leu'?
+A: The first letter of 'leu' is L.
+
+Q: What is the last letter of 'chromium'?
+A: The last letter of 'chromium' is M.
+
+Q: What is the first letter of 'tonga'?
+A: The first letter of 'tonga' is T.
+
+Q: How do you sort 10, 7, and 14?
+A: In order, they are 7 10 14.
+
+Q: How do you sort 13, 28, and 21?
+A: In order, they are 13 21 28.
+
+Q: How do you sort 213, 982, and 349?
+A: In order, they are 213 349 982.
+
+Q: How do you sort 25, 11, and 28?
+A: In order, they are 11 25 28.
+
+Q: How do you sort 534, 100, and 235?
+A: In order, they are 100 235 534.
+
+Q: How do you sort 821, 681, and 433?
+A: In order, they are 433 681 821.
+
+Q: How do you sort 879, 844, and 19?
+A: In order, they are 19 844 879.
+
+Q: How do you sort 184, 817, and 265?
+A: In order, they are 184 265 817.
+
+Q: Is 66 bigger than 55?
+A: Yes, 66 is bigger than 55.
+
+Q: Is 323 bigger than 434?
+A: No, 434 is bigger than 323.
+
+Q: Which is bigger, 19 or 2?
+A: 19 is bigger than 2.
+
+Q: Which is bigger, 68 or 18?
+A: 68 is bigger than 18.
+
+Q: Which is bigger, 662 or 288?
+A: 662 is bigger than 288.
+
+Q: Is 770 bigger than 313?
+A: Yes, 770 is bigger than 313.
+
+Q: Is 570 bigger than 829?
+A: No, 829 is bigger than 570.
+
+Q: Is 95 bigger than 74?
+A: Yes, 95 is bigger than 74.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: What is the capital of Somalia?
+A: The capital of Somalia is Mogadishu.
+
+Q: What is the capital of Slovenia?
+A: The capital of Slovenia is Ljubljana.
+
+Q: What is the capital of Malta?
+A: The capital of Malta is Valletta.
+
+Q: What is the capital of Uruguay?
+A: The capital of Uruguay is Montevideo.
+
+Q: What is the capital of Ukraine?
+A: The capital of Ukraine is Kyiv.
+
+Q: What is the capital of Argentina?
+A: The capital of Argentina is Buenos Aires.
+
+Q: What is the capital of Sri Lanka?
+A: The capital of Sri Lanka is Colombo.
+
+Q: What is the capital of Luxembourg?
+A: The capital of Luxembourg is Luxembourg.
+
+Q: What is 15 times 14?
+A: 15 times 14 is 210.
+
+Q: What is 4 times 4?
+A: 4 times 4 is 16.
+
+Q: What is 19 minus 6?
+A: 19 minus 6 is 13.
+
+Q: What is 611 minus 351?
+A: 611 minus 351 is 260.
+
+Q: What is 52 minus 10?
+A: 52 minus 10 is 42.
+
+Q: What is 686 minus 149?
+A: 686 minus 149 is 537.
+
+Q: What is 6 times 6?
+A: 6 times 6 is 36.
+
+Q: What is 8 times 5?
+A: 8 times 5 is 40.
