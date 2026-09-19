@@ -36213,3 +36213,146 @@ A: 49 is bigger than 18.
 
 Q: Is 831 bigger than 153?
 A: Yes, 831 is bigger than 153.
+Q: How many letters does the word 'santa' have?
+A: The word 'santa' has 5 letters.
+
+Q: How many letters does the word 'iran' have?
+A: The word 'iran' has 4 letters.
+
+Q: How many letters does the word 'grenada' have?
+A: The word 'grenada' has 7 letters.
+
+Q: How many letters does the word 'ringgit' have?
+A: The word 'ringgit' has 7 letters.
+
+Q: How many letters does the word 'carson' have?
+A: The word 'carson' has 6 letters.
+
+Q: How many letters does the word 'colombo' have?
+A: The word 'colombo' has 7 letters.
+
+Q: How many letters does the word 'cow' have?
+A: The word 'cow' has 3 letters.
+
+Q: How many letters does the word 'the' have?
+A: The word 'the' has 3 letters.
+
+Q: What is the last letter of 'smile'?
+A: The last letter of 'smile' is E.
+
+Q: What is the first letter of 'denver'?
+A: The first letter of 'denver' is D.
+
+Q: What is the last letter of 'maseru'?
+A: The last letter of 'maseru' is U.
+
+Q: What is the first letter of 'river'?
+A: The first letter of 'river' is R.
+
+Q: What is the first letter of 'montgomery'?
+A: The first letter of 'montgomery' is M.
+
+Q: What is the last letter of 'short'?
+A: The last letter of 'short' is T.
+
+Q: What is the last letter of 'castries'?
+A: The last letter of 'castries' is S.
+
+Q: What is the first letter of 'leu'?
+A: The first letter of 'leu' is L.
+
+Q: How do you sort 21, 20, and 18?
+A: In order, they are 18 20 21.
+
+Q: How do you sort 252, 243, and 982?
+A: In order, they are 243 252 982.
+
+Q: How do you sort 29, 20, and 13?
+A: In order, they are 13 20 29.
+
+Q: How do you sort 3, 4, and 5?
+A: In order, they are 3 4 5.
+
+Q: How do you sort 644, 161, and 339?
+A: In order, they are 161 339 644.
+
+Q: How do you sort 550, 420, and 56?
+A: In order, they are 56 420 550.
+
+Q: How do you sort 706, 233, and 521?
+A: In order, they are 233 521 706.
+
+Q: How do you sort 15, 12, and 9?
+A: In order, they are 9 12 15.
+
+Q: Is 2 bigger than 20?
+A: No, 20 is bigger than 2.
+
+Q: Which is bigger, 583 or 402?
+A: 583 is bigger than 402.
+
+Q: Which is bigger, 686 or 930?
+A: 930 is bigger than 686.
+
+Q: Is 4 bigger than 19?
+A: No, 19 is bigger than 4.
+
+Q: Is 4 bigger than 2?
+A: Yes, 4 is bigger than 2.
+
+Q: Is 16 bigger than 78?
+A: No, 78 is bigger than 16.
+
+Q: Is 51 bigger than 47?
+A: Yes, 51 is bigger than 47.
+
+Q: Is 79 bigger than 35?
+A: Yes, 79 is bigger than 35.
+
+Q: What is the capital of Benin?
+A: The capital of Benin is Porto-Novo.
+
+Q: What is the capital of Lesotho?
+A: The capital of Lesotho is Maseru.
+
+Q: What is the capital of Greece?
+A: The capital of Greece is Athens.
+
+Q: What is the capital of Afghanistan?
+A: The capital of Afghanistan is Kabul.
+
+Q: What is the capital of Estonia?
+A: The capital of Estonia is Tallinn.
+
+Q: What is the capital of Monaco?
+A: The capital of Monaco is Monaco.
+
+Q: What is the capital of Samoa?
+A: The capital of Samoa is Apia.
+
+Q: What is the capital of Algeria?
+A: The capital of Algeria is Algiers.
+
+Q: What is 48 minus 33?
+A: 48 minus 33 is 15.
+
+Q: What is 660 minus 453?
+A: 660 minus 453 is 207.
+
+Q: What is 15 times 18?
+A: 15 times 18 is 270.
+
+Q: What is 842 plus 562?
+A: 842 plus 562 is 1404.
+
+Q: What is 4 times 6?
+A: 4 times 6 is 24.
+
+Q: What is 72 plus 13?
+A: 72 plus 13 is 85.
+
+Q: What is 11 times 15?
+A: 11 times 15 is 165.
+
+Q: What is 43 minus 38?
+A: 43 minus 38 is 5.
