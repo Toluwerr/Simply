@@ -35879,3 +35879,170 @@ A: 6 times 6 is 36.
 
 Q: What is 8 times 5?
 A: 8 times 5 is 40.
+Q: What is 78 plus 54?
+A: 78 plus 54 is 132.
+
+Q: What is 2 times 2?
+A: 2 times 2 is 4.
+
+Q: What is 15 times 12?
+A: 15 times 12 is 180.
+
+Q: What is 12 times 17?
+A: 12 times 17 is 204.
+
+Q: What is 4 times 6?
+A: 4 times 6 is 24.
+
+Q: What is 64 minus 19?
+A: 64 minus 19 is 45.
+
+Q: What is 15 times 13?
+A: 15 times 13 is 195.
+
+Q: What is 12 times 14?
+A: 12 times 14 is 168.
+
+Q: What continent is Mozambique on?
+A: Mozambique is on the continent of Africa.
+
+Q: What continent is Nigeria on?
+A: Nigeria is on the continent of Africa.
+
+Q: What continent is Zimbabwe on?
+A: Zimbabwe is on the continent of Africa.
+
+Q: What continent is Kuwait on?
+A: Kuwait is on the continent of Asia.
+
+Q: What continent is Nepal on?
+A: Nepal is on the continent of Asia.
+
+Q: What continent is Hungary on?
+A: Hungary is on the continent of Europe.
+
+Q: What continent is Myanmar on?
+A: Myanmar is on the continent of Asia.
+
+Q: What continent is Zimbabwe on?
+A: Zimbabwe is on the continent of Africa.
+
+Q: What is the last letter of 'taiwan'?
+A: The last letter of 'taiwan' is N.
+
+Q: What is the last letter of 'chair'?
+A: The last letter of 'chair' is R.
+
+Q: What is the last letter of 'february'?
+A: The last letter of 'february' is Y.
+
+Q: What is the first letter of 'greedy'?
+A: The first letter of 'greedy' is G.
+
+Q: What is the last letter of 'emirates'?
+A: The last letter of 'emirates' is S.
+
+Q: What is the first letter of 'generous'?
+A: The first letter of 'generous' is G.
+
+Q: What is the last letter of 'europium'?
+A: The last letter of 'europium' is M.
+
+Q: What is the first letter of 'ashgabat'?
+A: The first letter of 'ashgabat' is A.
+
+Q: How many letters does the word 'honolulu' have?
+A: The word 'honolulu' has 8 letters.
+
+Q: How many letters does the word 'beijing' have?
+A: The word 'beijing' has 7 letters.
+
+Q: How many letters does the word 'paraguay' have?
+A: The word 'paraguay' has 8 letters.
+
+Q: How many letters does the word 'abuja' have?
+A: The word 'abuja' has 5 letters.
+
+Q: How many letters does the word 'aggressive' have?
+A: The word 'aggressive' has 10 letters.
+
+Q: How many letters does the word 'united' have?
+A: The word 'united' has 6 letters.
+
+Q: How many letters does the word 'able' have?
+A: The word 'able' has 4 letters.
+
+Q: How many letters does the word 'ecuador' have?
+A: The word 'ecuador' has 7 letters.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: What is the biggest hot desert?
+A: The Sahara is the biggest hot desert.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the deepest lake?
+A: Lake Baikal is the deepest lake.
+
+Q: How many sides does a square have?
+A: A square has 4 sides.
+
+Q: What is the largest island?
+A: Greenland is the largest island.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: What force pulls objects toward the ground?
+A: Gravity pulls objects toward the ground.
+
+Q: What is the capital of the US state New Jersey?
+A: Trenton is the capital of New Jersey.
+
+Q: What is the capital of the US state Alaska?
+A: Juneau is the capital of Alaska.
+
+Q: What is the capital of the US state South Carolina?
+A: Columbia is the capital of South Carolina.
+
+Q: What is the capital of the US state Wyoming?
+A: Cheyenne is the capital of Wyoming.
+
+Q: What is the capital of the US state Rhode Island?
+A: Providence is the capital of Rhode Island.
+
+Q: What is the capital of the US state Kansas?
+A: Topeka is the capital of Kansas.
+
+Q: What is the capital of the US state Rhode Island?
+A: Providence is the capital of Rhode Island.
+
+Q: What is the capital of the US state Rhode Island?
+A: Providence is the capital of Rhode Island.
+
+Q: What currency does the United Arab Emirates use?
+A: The currency of the United Arab Emirates is the dirham.
+
+Q: What currency does Tonga use?
+A: The currency of Tonga is the paanga.
+
+Q: What currency does Pakistan use?
+A: The currency of Pakistan is the rupee.
+
+Q: What currency does Serbia use?
+A: The currency of Serbia is the dinar.
+
+Q: What currency does Armenia use?
+A: The currency of Armenia is the dram.
+
+Q: What currency does Fiji use?
+A: The currency of Fiji is the dollar.
+
+Q: What currency does Mauritius use?
+A: The currency of Mauritius is the rupee.
+
+Q: What currency does Mozambique use?
+A: The currency of Mozambique is the metical.
