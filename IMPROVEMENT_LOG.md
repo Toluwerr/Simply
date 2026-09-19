@@ -8235,3 +8235,12 @@ promote-if-better. Newest entries are at the bottom.
 - **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: first_last 1.00, reading 0.00, definitions 0.00
 - self-portrait, asked "Who are you?": *"7 times 11 is and brid is a warm bridge."
 
+## Iteration 914 - NO_GAIN
+- **when**: 2026-09-19T09:39:42Z
+- **train loss**: 2.9658 | **val loss**: 1.7968 | **run best**: 1.2484
+- **corpus**: 287,672 chars (+0 self-written examples)
+- **internet reading**: +55 articles, +20 facts (4,083 read all-time)
+- **lr**: 0.0003 | **steps**: 250
+- **knowledge quiz**: avg 0.04 | weakest: arithmetic 0.00, compare 0.00, sort 0.00 | strongest: letters 1.00, reading 0.00, definitions 0.00
+- self-portrait, asked "Who are you?": *"In 27 20 28 is bigger than 90."
+
