@@ -38288,3 +38288,146 @@ A: The blue whale is the biggest animal.
 
 Q: What is the biggest country by area?
 A: Russia is the biggest country by area.
+Q: What is the first letter of 'florida'?
+A: The first letter of 'florida' is F.
+
+Q: What is the first letter of 'calm'?
+A: The first letter of 'calm' is C.
+
+Q: What is the last letter of 'owl'?
+A: The last letter of 'owl' is L.
+
+Q: What is the last letter of 'riel'?
+A: The last letter of 'riel' is L.
+
+Q: What is the last letter of 'costa'?
+A: The last letter of 'costa' is A.
+
+Q: What is the first letter of 'monkey'?
+A: The first letter of 'monkey' is M.
+
+Q: What is the last letter of 'vanadium'?
+A: The last letter of 'vanadium' is M.
+
+Q: What is the last letter of 'ashgabat'?
+A: The last letter of 'ashgabat' is T.
+
+Q: How do you sort 684, 264, and 533?
+A: In order, they are 264 533 684.
+
+Q: How do you sort 21, 5, and 28?
+A: In order, they are 5 21 28.
+
+Q: How do you sort 13, 26, and 14?
+A: In order, they are 13 14 26.
+
+Q: How do you sort 4, 22, and 27?
+A: In order, they are 4 22 27.
+
+Q: How do you sort 437, 649, and 483?
+A: In order, they are 437 483 649.
+
+Q: How do you sort 2, 9, and 15?
+A: In order, they are 2 9 15.
+
+Q: How do you sort 28, 4, and 14?
+A: In order, they are 4 14 28.
+
+Q: How do you sort 28, 12, and 2?
+A: In order, they are 2 12 28.
+
+Q: Which is bigger, 13 or 79?
+A: 79 is bigger than 13.
+
+Q: Is 805 bigger than 176?
+A: Yes, 805 is bigger than 176.
+
+Q: Is 390 bigger than 419?
+A: No, 419 is bigger than 390.
+
+Q: Which is bigger, 4 or 9?
+A: 9 is bigger than 4.
+
+Q: Is 67 bigger than 30?
+A: Yes, 67 is bigger than 30.
+
+Q: Is 79 bigger than 46?
+A: Yes, 79 is bigger than 46.
+
+Q: Which is bigger, 2 or 11?
+A: 11 is bigger than 2.
+
+Q: Is 8 bigger than 4?
+A: Yes, 8 is bigger than 4.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in November?
+A: November has 30 days.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in December?
+A: December has 31 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: How many days are in March?
+A: March has 31 days.
+
+Q: What is the capital of Mauritania?
+A: The capital of Mauritania is Nouakchott.
+
+Q: What is the capital of Mauritania?
+A: The capital of Mauritania is Nouakchott.
+
+Q: What is the capital of Rwanda?
+A: The capital of Rwanda is Kigali.
+
+Q: What is the capital of Finland?
+A: The capital of Finland is Helsinki.
+
+Q: What is the capital of New Zealand?
+A: The capital of New Zealand is Wellington.
+
+Q: What is the capital of Zimbabwe?
+A: The capital of Zimbabwe is Harare.
+
+Q: What is the capital of the Philippines?
+A: The capital of the Philippines is Manila.
+
+Q: What is the capital of Jordan?
+A: The capital of Jordan is Amman.
+
+Q: What is 5 times 9?
+A: 5 times 9 is 45.
+
+Q: What is 358 plus 157?
+A: 358 plus 157 is 515.
+
+Q: What is 897 minus 570?
+A: 897 minus 570 is 327.
+
+Q: What is 257 plus 948?
+A: 257 plus 948 is 1205.
+
+Q: What is 6 times 8?
+A: 6 times 8 is 48.
+
+Q: What is 17 plus 94?
+A: 17 plus 94 is 111.
+
+Q: What is 799 minus 631?
+A: 799 minus 631 is 168.
+
+Q: What is 12 times 14?
+A: 12 times 14 is 168.
