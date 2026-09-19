@@ -38598,3 +38598,170 @@ A: The currency of Chile is the peso.
 
 Q: What currency does Trinidad and Tobago use?
 A: The currency of Trinidad and Tobago is the dollar.
+Q: How do you write 83 in words?
+A: 83 in words is eighty-three.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: How do you write 14 in words?
+A: 14 in words is fourteen.
+
+Q: How do you write 5 in words?
+A: 5 in words is five.
+
+Q: How do you write 7 in words?
+A: 7 in words is seven.
+
+Q: How do you write 12 in words?
+A: 12 in words is twelve.
+
+Q: How do you write 76 in words?
+A: 76 in words is seventy-six.
+
+Q: How do you write 49 in words?
+A: 49 in words is forty-nine.
+
+Q: What continent is Algeria on?
+A: Algeria is on the continent of Africa.
+
+Q: What continent is Equatorial Guinea on?
+A: Equatorial Guinea is on the continent of Africa.
+
+Q: What continent is Austria on?
+A: Austria is on the continent of Europe.
+
+Q: What continent is Kyrgyzstan on?
+A: Kyrgyzstan is on the continent of Asia.
+
+Q: What continent is the Marshall Islands on?
+A: the Marshall Islands is on the continent of Oceania.
+
+Q: What continent is Kenya on?
+A: Kenya is on the continent of Africa.
+
+Q: What continent is Egypt on?
+A: Egypt is on the continent of Africa.
+
+Q: What continent is Uganda on?
+A: Uganda is on the continent of Africa.
+
+Q: Which element has the chemical symbol Cr?
+A: Cr is the chemical symbol for chromium.
+
+Q: Which element has the chemical symbol La?
+A: La is the chemical symbol for lanthanum.
+
+Q: What is the chemical symbol for osmium?
+A: The chemical symbol for osmium is Os.
+
+Q: What is the chemical symbol for rhenium?
+A: The chemical symbol for rhenium is Re.
+
+Q: What is the chemical symbol for nitrogen?
+A: The chemical symbol for nitrogen is N.
+
+Q: Which element has the chemical symbol Au?
+A: Au is the chemical symbol for gold.
+
+Q: What is the chemical symbol for iodine?
+A: The chemical symbol for iodine is I.
+
+Q: What is the chemical symbol for technetium?
+A: The chemical symbol for technetium is Tc.
+
+Q: Can you count by fives from 35 to 60?
+A: Counting by fives gives 35 40 45 50 55 60.
+
+Q: Can you count by fives from 25 to 40?
+A: Counting by fives gives 25 30 35 40.
+
+Q: Can you count by tens from 10 to 40?
+A: Counting by tens gives 10 20 30 40.
+
+Q: Can you count by ones from 2 to 4?
+A: Counting by ones gives 2 3 4.
+
+Q: Can you count by fives from 10 to 20?
+A: Counting by fives gives 10 15 20.
+
+Q: Can you count by tens from 30 to 70?
+A: Counting by tens gives 30 40 50 60 70.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Can you count by tens from 20 to 70?
+A: Counting by tens gives 20 30 40 50 60 70.
+
+Q: Is 7 bigger than 4?
+A: Yes, 7 is bigger than 4.
+
+Q: Is 47 bigger than 77?
+A: No, 77 is bigger than 47.
+
+Q: Which is bigger, 53 or 64?
+A: 64 is bigger than 53.
+
+Q: Is 46 bigger than 67?
+A: No, 67 is bigger than 46.
+
+Q: Is 40 bigger than 63?
+A: No, 63 is bigger than 40.
+
+Q: Is 6 bigger than 10?
+A: No, 10 is bigger than 6.
+
+Q: Is 377 bigger than 734?
+A: No, 734 is bigger than 377.
+
+Q: Is 550 bigger than 507?
+A: Yes, 550 is bigger than 507.
+
+Q: What is the longest mountain range?
+A: The Andes is the longest mountain range.
+
+Q: How many bones does an adult human have?
+A: An adult human has 206 bones.
+
+Q: What is the biggest animal?
+A: The blue whale is the biggest animal.
+
+Q: What is the largest lake?
+A: The Caspian Sea is the largest lake.
+
+Q: What is the hottest planet?
+A: Venus is the hottest planet.
+
+Q: What is the biggest bone in the human body?
+A: The femur is the biggest bone in the human body.
+
+Q: What is the national bird of the United States?
+A: The bald eagle is the national bird of the United States.
+
+Q: What is the closest planet to the sun?
+A: Mercury is the closest planet to the sun.
+
+Q: What sound does a pig make?
+A: A pig says 'oink'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a cat make?
+A: A cat says 'meow'.
+
+Q: What sound does a lion make?
+A: A lion says 'roar'.
+
+Q: What sound does an owl make?
+A: A owl says 'hoot'.
+
+Q: What sound does a cow make?
+A: A cow says 'moo'.
+
+Q: What sound does a snake make?
+A: A snake says 'hiss'.
