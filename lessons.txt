@@ -37477,3 +37477,170 @@ A: The currency of Sweden is the krona.
 
 Q: What currency does New Zealand use?
 A: The currency of New Zealand is the dollar.
+Q: How do you write 53 in words?
+A: 53 in words is fifty-three.
+
+Q: How do you write 36 in words?
+A: 36 in words is thirty-six.
+
+Q: How do you write 54 in words?
+A: 54 in words is fifty-four.
+
+Q: How do you write 4 in words?
+A: 4 in words is four.
+
+Q: How do you write 18 in words?
+A: 18 in words is eighteen.
+
+Q: How do you write 57 in words?
+A: 57 in words is fifty-seven.
+
+Q: How do you write 86 in words?
+A: 86 in words is eighty-six.
+
+Q: How do you write 98 in words?
+A: 98 in words is ninety-eight.
+
+Q: What is the first letter of 'sri'?
+A: The first letter of 'sri' is S.
+
+Q: What is the first letter of 'light'?
+A: The first letter of 'light' is L.
+
+Q: What is the last letter of 'dakar'?
+A: The last letter of 'dakar' is R.
+
+Q: What is the last letter of 'kingstown'?
+A: The last letter of 'kingstown' is N.
+
+Q: What is the last letter of 'sofia'?
+A: The last letter of 'sofia' is A.
+
+Q: What is the last letter of 'arabia'?
+A: The last letter of 'arabia' is A.
+
+Q: What is the last letter of 'majuro'?
+A: The last letter of 'majuro' is O.
+
+Q: What is the first letter of 'boron'?
+A: The first letter of 'boron' is B.
+
+Q: What continent is Kiribati on?
+A: Kiribati is on the continent of Oceania.
+
+Q: What continent is San Marino on?
+A: San Marino is on the continent of Europe.
+
+Q: What continent is Bhutan on?
+A: Bhutan is on the continent of Asia.
+
+Q: What continent is Bhutan on?
+A: Bhutan is on the continent of Asia.
+
+Q: What continent is Bahrain on?
+A: Bahrain is on the continent of Asia.
+
+Q: What continent is Slovenia on?
+A: Slovenia is on the continent of Europe.
+
+Q: What continent is Jamaica on?
+A: Jamaica is on the continent of North America.
+
+Q: What continent is the Maldives on?
+A: the Maldives is on the continent of Asia.
+
+Q: What is the chemical symbol for germanium?
+A: The chemical symbol for germanium is Ge.
+
+Q: Which element has the chemical symbol K?
+A: K is the chemical symbol for potassium.
+
+Q: What is the chemical symbol for chromium?
+A: The chemical symbol for chromium is Cr.
+
+Q: Which element has the chemical symbol Ni?
+A: Ni is the chemical symbol for nickel.
+
+Q: What is the chemical symbol for iodine?
+A: The chemical symbol for iodine is I.
+
+Q: Which element has the chemical symbol Sm?
+A: Sm is the chemical symbol for samarium.
+
+Q: Which element has the chemical symbol Tb?
+A: Tb is the chemical symbol for terbium.
+
+Q: What is the chemical symbol for europium?
+A: The chemical symbol for europium is Eu.
+
+Q: Can you count by twos from 4 to 14?
+A: Counting by twos gives 4 6 8 10 12 14.
+
+Q: Can you count by fives from 30 to 55?
+A: Counting by fives gives 30 35 40 45 50 55.
+
+Q: Can you count by twos from 20 to 26?
+A: Counting by twos gives 20 22 24 26.
+
+Q: Can you count by fives from 30 to 40?
+A: Counting by fives gives 30 35 40.
+
+Q: Can you count by twos from 36 to 44?
+A: Counting by twos gives 36 38 40 42 44.
+
+Q: Can you count by twos from 28 to 38?
+A: Counting by twos gives 28 30 32 34 36 38.
+
+Q: Can you count by tens from 30 to 60?
+A: Counting by tens gives 30 40 50 60.
+
+Q: Can you count by twos from 6 to 10?
+A: Counting by twos gives 6 8 10.
+
+Q: How many days are in June?
+A: June has 30 days.
+
+Q: How many days are in August?
+A: August has 31 days.
+
+Q: How many days are in May?
+A: May has 31 days.
+
+Q: How many days are in April?
+A: April has 30 days.
+
+Q: How many days are in February?
+A: February has 28 days, and 29 in a leap year.
+
+Q: How many days are in October?
+A: October has 31 days.
+
+Q: How many days are in September?
+A: September has 30 days.
+
+Q: How many days are in July?
+A: July has 31 days.
+
+Q: Is 4 bigger than 15?
+A: No, 15 is bigger than 4.
+
+Q: Is 14 bigger than 9?
+A: Yes, 14 is bigger than 9.
+
+Q: Is 519 bigger than 734?
+A: No, 734 is bigger than 519.
+
+Q: Is 394 bigger than 734?
+A: No, 734 is bigger than 394.
+
+Q: Which is bigger, 695 or 914?
+A: 914 is bigger than 695.
+
+Q: Which is bigger, 1 or 7?
+A: 7 is bigger than 1.
+
+Q: Is 13 bigger than 8?
+A: Yes, 13 is bigger than 8.
+
+Q: Is 17 bigger than 16?
+A: Yes, 17 is bigger than 16.
